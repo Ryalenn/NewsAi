@@ -21,3 +21,4 @@ jobs:
 
     - name: Run Python script
       run: python .github/frandroid.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
+      working-directory: .github/
