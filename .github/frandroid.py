@@ -51,12 +51,12 @@ def main():
 
     articles = find_recent_articles(main_url, date_limit)
 
-    if os.path.exists('articles_after_date.json'):
-        with open('articles_after_date.json', 'r') as infile:
+    if os.path.exists('.github/articles_after_date.json'):
+        with open('.github/articles_after_date.json', 'r') as infile:
             existing_articles = json.load(infile)
         articles.extend(existing_articles)    
 
-    with open('articles_after_date.json', 'w') as outfile:
+    with open('.github/articles_after_date.json', 'w') as outfile:
         json.dump(articles, outfile, indent=4)
 
 if __name__ == "__main__":
