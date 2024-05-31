@@ -21,3 +21,11 @@ jobs:
 
     - name: Run Python script
       run: python .github/frandroid.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
+
+    - name: Commit et push des modifications
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .github/articles_after_date.json
+        git commit -m "Mise à jour du fichier JSON"
+        git push
