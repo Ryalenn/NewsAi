@@ -1,0 +1,104 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+header {
+    font-family: "Honk", system-ui;
+    background: linear-gradient(to right, rgba(23, 20, 24, 0.11), rgba(0, 0, 0, 0.103));
+    color: white;
+    text-align: left;
+    padding: 10px 0;
+    padding-left: 15px;
+    font-size: 3.8em;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 0.4em;
+    margin-top: 10px;
+}
+
+.container {
+    padding: 20px;
+    column-count: 2; /* Deux colonnes */
+    column-gap: 20px; /* Espacement entre les colonnes */
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.637);
+    border: 0.5px solid #dddddd38;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.021);
+    margin: 10px 0; /* Espacement vertical entre les cartes */
+    padding: 20px;
+    width: 100%; /* La carte prend toute la largeur de la colonne */
+    box-sizing: border-box;
+    display: inline-block; /* Affichage en bloc pour respecter la largeur */
+    break-inside: avoid; /* Evite les césures de carte */
+    opacity: 0; /* Initialement invisible */
+    transform: translateY(20px); /* Initialement décalé vers le bas */
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out; /* Transition pour le fondu et la translation */
+}
+
+.card.visible {
+    opacity: 1; /* Complètement visible */
+    transform: translateY(0); /* À sa position d'origine */
+}
+
+
+.card h2 {
+    font-size: 2em;
+    margin-top: 0;
+    color: black !important;
+}
+
+.card p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.1em;
+    color: #585858;
+    margin: 0;
+    overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+    .container {
+        column-count: 1; /* Une seule colonne sur petits écrans */
+    }
+}
+
+.card a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(24, 24, 24, 0.205);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(219, 219, 219, 0);
+}
