@@ -17,7 +17,7 @@ jobs:
         python-version: '3.12'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt  # Assurez-vous d'avoir un fichier requirements.txt s'il y a des dépendances à installer
+      run: pip install -r .github/requirements.txt  # Assurez-vous d'avoir un fichier requirements.txt s'il y a des dépendances à installer
 
     - name: Run Python script
       run: python .github/frandroid.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
