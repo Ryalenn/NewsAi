@@ -1,0 +1,24 @@
+name: Daily Script Execution
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt  # Assurez-vous d'avoir un fichier requirements.txt s'il y a des dépendances à installer
+
+    - name: Run Python script
+      run: python path/to/your/script.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
