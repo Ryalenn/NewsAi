@@ -21,4 +21,4 @@ jobs:
       run: pip install -r requirements.txt  # Assurez-vous d'avoir un fichier requirements.txt s'il y a des dépendances à installer
 
     - name: Run Python script
-      run: python path/to/your/script.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
+      run: python .github/frandroid.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
