@@ -53,10 +53,12 @@ def main():
 
     if os.path.exists('.github/articles_after_date.json'):
         with open('.github/articles_after_date.json', 'r') as infile:
+            print("11111   fichier json rempli")
             existing_articles = json.load(infile)
         articles.extend(existing_articles)    
 
     with open('.github/articles_after_date.json', 'w') as outfile:
+        print("22222   fichier json rempli")
         json.dump(articles, outfile, indent=4)
 
 if __name__ == "__main__":
