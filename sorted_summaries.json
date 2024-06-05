@@ -1,3 +1,72 @@
 [
-
+    {
+        "title": "L'arrivée de Google Gemini en Europe",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
+        "body": "L'application Google Gemini, qui intègre un chatbot et des fonctionnalités d'assistant vocal, est désormais disponible en France et en Europe. Téléchargeable sur le Google Play Store et iOS, elle offre une variété d'options, telles que la synthèse de résultats de recherche, l'assistance à la rédaction et la planification d'activités. Gemini peut être activé via Google Assistant et accessible de plusieurs manières, y compris par commande vocale. Google prépare ainsi la fin de Google Assistant, bien que les deux coexistent pour le moment. L'application a déjà été téléchargée plus d'un million de fois dans le monde.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
+        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA pour tous avec le Raspberry Pi 5",
+        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
+        "body": "La fondation Raspberry propose désormais un module d'extension IA abordable pour le Raspberry Pi 5, appelé \"IA Kit\". Ce module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal (NPU) capable d'effectuer 13 trillions d'opérations par seconde. L'IA Kit, vendu 65,50 €, permet aux utilisateurs d'expérimenter l'IA avec des logiciels et des accessoires externes, offrant ainsi un terrain de jeu pour les passionnés d'IA. Il est facile à assembler et peut être utilisé pour la reconnaissance d'objets, la reconnaissance vocale et pour améliorer les fonctionnalités IA des logiciels auto-hébergés. Disponible en précommande, il sera livré à partir du 14 juin 2024.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
+        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur le décolleté d'une fan",
+        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
+        "body": "Le PDG de Nvidia, Jensen Huang, a été filmé en train de signer le décolleté d'une fan lors d'un événement public, Computex. Cet incident inhabituel soulève des questions sur l'image publique que cultive Huang, qui se distingue des autres PDG par son style vestimentaire décontracté, souvent en cuir. L'auteure suggère que la demande de signature de la femme était probablement motivée par la réussite de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise à la troisième place des entreprises les plus valorisées du S&P 500, plutôt que par le style de Huang.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
+        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
+    },
+    {
+        "title": "ChatGPT indisponible pendant quelques heures",
+        "link": "https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors",
+        "body": "Résumé : \n\nChatGPT, le service de conversation basé sur l'IA d'OpenAI, a subi une panne majeure pendant quelques heures mardi, rendant le service inaccessible pour certains utilisateurs. Cette panne a été suivie d'une autre interruption quelques heures plus tard, affectant à la fois les applications mobiles et le service web de ChatGPT. OpenAI a rapidement identifié et résolu le problème, et le service est revenu à la normale en début d'après-midi. Des problèmes similaires ont également été signalés avec d'autres outils d'IA, notamment Google Gemini, Claude AI d'Anthropic et Perplexity AI, mais ces services ont également été rapidement restaurés. L'interruption de novembre dernier, qui a également affecté l'API d'OpenAI, était due à une attaque DDoS.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg",
+        "date": "Tue, 04 Jun 2024 17:40:50 GMT"
+    },
+    {
+        "title": "Les dangers de l'opacité dans le développement de l'IA",
+        "link": "https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi",
+        "body": "Dans une lettre ouverte, 13 anciens employés d'OpenAI, dont six anonymes, mettent en garde contre l'opacité et la répression des critiques au sein des entreprises d'IA de pointe. La lettre, approuvée par le « parrain de l'IA » Geoffrey Hinton, plaide pour des principes de critique ouverte, notamment la protection des lanceurs d'alerte et un processus anonyme pour signaler les problèmes. Les signataires reconnaissent le potentiel de l'IA, mais soulignent également les risques, tels que les violations des droits d'auteur, la propagation de fausses informations et l'exacerbation des inégalités. Ils critiquent les protections insuffisantes pour les lanceurs d'alerte et soulignent que les entreprises d'IA, y compris OpenAI, ont accordé la priorité aux produits par rapport à la sécurité. La lettre fait suite à des controverses récentes impliquant Google et Microsoft, ainsi qu'à des départs clés et à la dissolution d'une équipe de sécurité au sein d'OpenAI.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263502/STK_414_AI_B.jpg",
+        "date": "Tue, 04 Jun 2024 16:53:58 GMT"
+    },
+    {
+        "title": "La stratégie de chips AI d'Elon Musk",
+        "link": "https://www.theverge.com/2024/6/4/24171165/elon-musk-tesla-x-nvidia-ai-chips-divert",
+        "body": "Elon Musk a ordonné que des milliers de puces IA de Nvidia destinées à Tesla soient redirigées vers sa nouvelle entreprise de médias sociaux, X. Cette décision pourrait retarder l'acquisition par Tesla de 35 000 à 85 000 processeurs H100 de Nvidia, d'une valeur de 500 millions de dollars. Musk a déclaré que Tesla se transformerait en leader de l'IA et de la robotique, mais les e-mails des employés de Nvidia suggèrent qu'il exagère peut-être l'importance de l'achat de puces IA pour Tesla. De plus, la filiale IA de X, xAI, est en concurrence avec OpenAI, Google et d'autres pour développer des applications d'IA générative. La décision de Musk pourrait irriter les investisseurs de Tesla, qui attendent la réalisation de sa promesse de véhicules entièrement autonomes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090221/STK171_VRG_Illo_11_Normand_ElonMusk_11.jpg",
+        "date": "Tue, 04 Jun 2024 14:34:01 GMT"
+    },
+    {
+        "title": "Samsung Odyssey OLED G8",
+        "link": "https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price",
+        "body": "Samsung a annoncé une nouvelle version de son moniteur de jeu OLED G8 de 32 pouces, le G80SD, doté de fonctionnalités d'IA et de protection contre le brûlage d'écran. Le moniteur utilise le même processeur NQ8 AI Gen3 que les téléviseurs Neo QLED 8K de Samsung, ce qui lui permet d'améliorer la résolution du contenu et des jeux à presque 4K. De plus, le système de refroidissement a été mis à jour avec un « caloduc pulsant » propriétaire, réduisant ainsi le risque de brûlure d'écran. Le moniteur offre un taux de rafraîchissement de 240 Hz, un rapport d'aspect de 16:9 et une luminosité maximale de 250 nits. Il prend également en charge FreeSync Premium Pro pour réduire le décalage et le déchirure de l'écran. Le Samsung Odyssey OLED G8 est disponible au prix de 1 299,99 $, soit légèrement moins cher que le modèle précédent.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477027/Untitled_design.jpg",
+        "date": "Tue, 04 Jun 2024 13:14:10 GMT"
+    },
+    {
+        "title": "Panne de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2038164_panne-majeure-de-chatgpt-impossible-dutiliser-le-service-pour-plusieurs-personnes",
+        "body": "Le site de support officiel d'OpenAI a signalé une \"panne majeure\" affectant ChatGPT, rendant le service inaccessible pour de nombreux utilisateurs pendant plusieurs heures. OpenAI a confirmé que ChatGPT était \"indisponible pour certains utilisateurs\", sans donner plus de détails. L'incident survient peu après la présentation par OpenAI de son nouveau modèle de langage GPT-4o, une évolution de GPT-4, et alors que l'entreprise travaille sur le modèle GPT-5.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
+        "date": "Mon, 03 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "YouTube Shorts : l'IA au service de la créativité",
+        "link": "https://www.frandroid.com/marques/google/2038046_les-shorts-de-youtube-aussi-vont-suivre-la-grande-tendance-tech-de-2024",
+        "body": "YouTube teste une nouvelle fonctionnalité basée sur l'IA pour ses Shorts, permettant de générer des images et vidéos d'arrière-plan. Baptisée \"Dream Screen\", cette fonction utilise la technologie de l'intelligence artificielle pour créer des fonds d'images sur fond vert pour les créateurs de Shorts. Les utilisateurs peuvent ainsi taper une description de leur choix, comme \"forêt enchantée de fleurs arc-en-ciel\", et l'IA générera un arrière-plan correspondant. Cette fonctionnalité est actuellement en phase de test et n'est accessible qu'à un nombre limité de vidéastes, mais YouTube prévoit de l'étendre à plus de créateurs dans les mois à venir. Avec cette innovation, YouTube vise à concurrencer des applications de montage populaires comme CapCut et à encourager les influenceurs à créer et monter leurs vidéos directement sur sa plateforme.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/localiser-1-768x432.jpg?resize=169,169&key=59ca8c4c",
+        "date": "Mon, 03 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Amazon améliore son système de recommandation de contenus avec l'IA",
+        "link": "https://www.frandroid.com/marques/amazon/2037874_amazon-fire-tv-vous-allez-perdre-moins-de-temps-a-trouver-le-film-parfait",
+        "body": "Amazon améliore son système de recommandation de films et séries en intégrant davantage d'intelligence artificielle. La nouvelle fonctionnalité, disponible aux États-Unis, permet aux utilisateurs de poser des questions précises à Alexa sur les contenus qu'ils recherchent. L'IA prend en compte divers critères tels que le thème, la durée, l'intrigue et même des citations pour proposer des choix adaptés aux abonnements des utilisateurs. Amazon a également annoncé de nouveaux modèles de Fire TV Stick 4K et une barre de son plus abordable. Le Fire TV Stick 4K Max, modèle haut de gamme, offre un processeur plus rapide, le Wi-Fi 6E et une capacité de stockage doublée. Le Fire TV Stick 4K de base passe également au Wi-Fi 6E avec une puce de 1,7 GHz. La nouvelle barre de son Fire TV, compatible DTS Virtual-X et Dolby Audio, améliore l'expérience audio. Ces appareils seront disponibles aux États-Unis dans un premier temps, avec une sortie en France prévue dans les prochains mois.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/introducing-ai-powered-search-for-fire-tv-devices-0-9-screenshot-1-768x432.jpg?resize=169,169&key=b099efce",
+        "date": "Mon, 03 Jun 2024 23:00:00 GMT"
+    }
 ]
