@@ -19,7 +19,6 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-
     - name: Run cleaner script
       run: python cleaner.py
 
@@ -27,25 +26,27 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
+        git pull origin main
         git add articles.json summaries.json
         if git diff --cached --quiet; then
           echo "No changes to commit after cleaner."
         else
           git commit -m "Cleaned old articles and summaries"
-          git push
+          git push origin main
         fi
 
     - name: Run scrapper script
-      run: python scraper.py
+      run: python scrapper.py
 
     - name: Commit changes after scrapper
       run: |
+        git pull origin main
         git add articles.json
         if git diff --cached --quiet; then
           echo "No changes to commit after scrapper."
         else
           git commit -m "Scraped new articles"
-          git push
+          git push origin main
         fi
 
     - name: Run summarizer script
@@ -53,12 +54,13 @@ jobs:
 
     - name: Commit changes after summarizer
       run: |
+        git pull origin main
         git add summaries.json
         if git diff --cached --quiet; then
           echo "No changes to commit after summarizer."
         else
           git commit -m "Added summaries"
-          git push
+          git push origin main
         fi
 
     - name: Run sorter script
@@ -66,10 +68,11 @@ jobs:
 
     - name: Commit changes after sorter
       run: |
+        git pull origin main
         git add sorted_summaries.json
         if git diff --cached --quiet; then
           echo "No changes to commit after sorter."
         else
           git commit -m "Sorted summaries"
-          git push
+          git push origin main
         fi
