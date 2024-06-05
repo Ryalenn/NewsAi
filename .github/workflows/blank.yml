@@ -17,15 +17,48 @@ jobs:
         python-version: '3.12'
 
     - name: Install dependencies
-      run: pip install -r requirements.txt  # Assurez-vous d'avoir un fichier requirements.txt s'il y a des dépendances à installer
+      run: pip install -r requirements.txt
 
-    - name: Run Python script
-      run: python frandroid.py  # Remplacez path/to/your/script.py par le chemin vers votre script Python
+    - name: Run cleaner.py
+      run: python cleaner.py
 
-    - name: Commit et push des modifications
+    - name: Commit and push changes from cleaner.py
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add articles_after_date.json
-        git commit -m "Mise à jour du fichier JSON"
+        git add articles.json summaries.json
+        git commit -m "Mise à jour des fichiers articles.json et summaries.json après exécution de cleaner.py"
+        git push
+
+    - name: Run scraper.py
+      run: python scraper.py
+
+    - name: Commit and push changes from scraper.py
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add articles.json
+        git commit -m "Mise à jour du fichier articles.json après exécution de scraper.py"
+        git push
+
+    - name: Run sum.py
+      run: python sum.py
+
+    - name: Commit and push changes from sum.py
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add summaries.json
+        git commit -m "Mise à jour du fichier summaries.json après exécution de sum.py"
+        git push
+
+    - name: Run sorter.py
+      run: python sorter.py
+
+    - name: Commit and push changes from sorter.py
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add sorted_summaries.json
+        git commit -m "Mise à jour du fichier sorted_summaries.json après exécution de sorter.py"
         git push
