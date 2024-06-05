@@ -31,7 +31,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour des fichiers articles.json et summaries.json après exécution de cleaner.py"
-          git pull --rebase
+          git pull --rebase || git rebase --abort
           git push
         fi
 
@@ -47,7 +47,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier articles.json après exécution de scraper.py"
-          git pull --rebase
+          git pull --rebase || git rebase --abort
           git push
         fi
 
@@ -63,7 +63,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier summaries.json après exécution de sum.py"
-          git pull --rebase
+          git pull --rebase || git rebase --abort
           git push
         fi
 
@@ -79,6 +79,6 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier sorted_summaries.json après exécution de sorter.py"
-          git pull --rebase
+          git pull --rebase || git rebase --abort
           git push
         fi
