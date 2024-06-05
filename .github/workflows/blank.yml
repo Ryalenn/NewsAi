@@ -19,74 +19,57 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run cleaner.py
+
+    - name: Run cleaner script
       run: python cleaner.py
 
-    - name: Commit and push changes from cleaner.py
+    - name: Commit changes after cleaner
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
         git add articles.json summaries.json
         if git diff --cached --quiet; then
-          echo "No changes to commit"
+          echo "No changes to commit after cleaner."
         else
-          git commit -m "Mise à jour des fichiers articles.json et summaries.json après exécution de cleaner.py"
-          git stash push -m "pre-rebase-stash"
-          git pull --rebase
-          git stash pop || true
+          git commit -m "Cleaned old articles and summaries"
           git push
         fi
 
-    - name: Run scraper.py
-      run: python scraper.py
+    - name: Run scrapper script
+      run: python scrapper.py
 
-    - name: Commit and push changes from scraper.py
+    - name: Commit changes after scrapper
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git add articles.json
         if git diff --cached --quiet; then
-          echo "No changes to commit"
+          echo "No changes to commit after scrapper."
         else
-          git commit -m "Mise à jour du fichier articles.json après exécution de scraper.py"
-          git stash push -m "pre-rebase-stash"
-          git pull --rebase
-          git stash pop || true
+          git commit -m "Scraped new articles"
           git push
         fi
 
-    - name: Run sum.py
+    - name: Run summarizer script
       run: python sum.py
 
-    - name: Commit and push changes from sum.py
+    - name: Commit changes after summarizer
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git add summaries.json
         if git diff --cached --quiet; then
-          echo "No changes to commit"
+          echo "No changes to commit after summarizer."
         else
-          git commit -m "Mise à jour du fichier summaries.json après exécution de sum.py"
-          git stash push -m "pre-rebase-stash"
-          git pull --rebase
-          git stash pop || true
+          git commit -m "Added summaries"
           git push
         fi
 
-    - name: Run sorter.py
+    - name: Run sorter script
       run: python sorter.py
 
-    - name: Commit and push changes from sorter.py
+    - name: Commit changes after sorter
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git add sorted_summaries.json
         if git diff --cached --quiet; then
-          echo "No changes to commit"
+          echo "No changes to commit after sorter."
         else
-          git commit -m "Mise à jour du fichier sorted_summaries.json après exécution de sorter.py"
-          git stash push -m "pre-rebase-stash"
-          git pull --rebase
-          git stash pop || true
+          git commit -m "Sorted summaries"
           git push
         fi
