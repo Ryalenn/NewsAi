@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     subtitle.textContent = `Actualités du ${today.toLocaleDateString('fr-FR', options)}`;
 
     // Fetch and display the summaries
-    fetch('summaries.json')
+    fetch('sorted_summaries.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('articles-container');
