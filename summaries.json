@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "title": "L'avenir de l'IA : des puces performantes et efficaces",
+        "link": "https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices",
+        "body": "L'article traite de l'\u00e9volution du march\u00e9 de l'IA, avec un focus sur les puces et processeurs d\u00e9di\u00e9s. Raspberry Pi, connu pour ses micro-ordinateurs, se lance dans l'aventure avec un kit AI d\u00e9velopp\u00e9 en partenariat avec Hailo. Ce kit, vendu 70$, permet de faire tourner des applications d'IA nativement sur le micro-ordinateur, avec une consommation \u00e9nerg\u00e9tique faible. Cette annonce s'inscrit dans une tendance plus large : amener l'IA sur des appareils portables en d\u00e9veloppant des mod\u00e8les et processeurs plus petits et moins \u00e9nergivores. Des g\u00e9ants comme Microsoft, AMD et Nvidia proposent d\u00e9j\u00e0 des solutions int\u00e9gr\u00e9es d'IA pour PC portables.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1116x662/2400x1424/filters:focal(558x331:559x332):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477008/fIKKPbf.png",
+        "date": "Tue, 04 Jun 2024 10:41:00 GMT"
+    },
+    {
+        "title": "Le PDG de Nvidia, Jensen Huang, signe un autographe sur le d\u00e9collet\u00e9 d'une fan",
+        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
+        "body": "R\u00e9sum\u00e9 : Jensen Huang, le PDG de Nvidia, a \u00e9t\u00e9 film\u00e9 en train de signer le d\u00e9collet\u00e9 d'une fan lors d'un \u00e9v\u00e9nement public. Cet incident inhabituel met en lumi\u00e8re la personnalit\u00e9 excentrique de Huang, qui cultive une image de PDG \"cool\" et diff\u00e9rent des dirigeants traditionnels. L'article sugg\u00e8re que la demande de la femme est peut-\u00eatre motiv\u00e9e par la r\u00e9cente mont\u00e9e en puissance de Nvidia dans le domaine de l'IA, qui a fait de l'entreprise l'une des plus pr\u00e9cieuses du S&P 500.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
+        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
+    },
+    {
+        "title": "ChatGPT Outages",
+        "link": "https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors",
+        "body": "R\u00e9sum\u00e9 : Des pannes ont interrompu le service ChatGPT d'OpenAI \u00e0 deux reprises en l'espace de quelques heures, affectant les utilisateurs de l'application mobile et du site web. Pendant ce temps, des probl\u00e8mes similaires ont \u00e9t\u00e9 signal\u00e9s avec d'autres outils d'IA, notamment Google Gemini, Claude AI d'Anthropic et Perplexity AI. OpenAI a finalement r\u00e9solu le probl\u00e8me et restaur\u00e9 son service, tout comme les autres fournisseurs d'IA mentionn\u00e9s. La panne pr\u00e9c\u00e9dente de ChatGPT en novembre \u00e9tait due \u00e0 une attaque DDoS, mais la cause de ces pannes r\u00e9centes reste inconnue.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg",
+        "date": "Tue, 04 Jun 2024 17:40:50 GMT"
+    },
+    {
+        "title": "La course \u00e0 l'armement de l'IA",
+        "link": "https://www.theverge.com/2024/6/4/24171165/elon-musk-tesla-x-nvidia-ai-chips-divert",
+        "body": "Elon Musk a d\u00e9tourn\u00e9 des milliers de puces IA Nvidia destin\u00e9es \u00e0 Tesla vers sa nouvelle entreprise de m\u00e9dias sociaux, X. Cette d\u00e9cision pourrait retarder l'acquisition par Tesla de processeurs d'une valeur de 500 millions de dollars et contrarier les investisseurs de Tesla qui attendent des v\u00e9hicules autonomes. Musk a d\u00e9clar\u00e9 que Tesla augmenterait son acquisition de puces Nvidia H100, mais des e-mails internes de Nvidia sugg\u00e8rent une exag\u00e9ration. Les puces sont plut\u00f4t achemin\u00e9es vers X et sa filiale IA, xAI. La course \u00e0 l'IA entre xAI, OpenAI et Google s'intensifie, avec des milliards de dollars d'investissements en jeu. Nvidia, valoris\u00e9 \u00e0 des milliards, peine \u00e0 r\u00e9pondre \u00e0 la demande de ses puces GPU, essentielles aux ambitions IA des entreprises.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24090221/STK171_VRG_Illo_11_Normand_ElonMusk_11.jpg",
+        "date": "Tue, 04 Jun 2024 14:34:01 GMT"
+    },
+    {
+        "title": "Samsung Odyssey OLED G8",
+        "link": "https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price",
+        "body": "Samsung a annonc\u00e9 une nouvelle version de son moniteur de jeu OLED G8 de 32 pouces, dot\u00e9 de fonctionnalit\u00e9s suppl\u00e9mentaires, notamment des protections contre le br\u00fblage d'\u00e9cran OLED et un upscale de r\u00e9solution aliment\u00e9 par l'IA pour les jeux et les contenus. Le moniteur, mod\u00e8le G80SD, est dot\u00e9 du m\u00eame processeur NQ8 AI Gen3 que la t\u00e9l\u00e9vision Neo QLED 8K 2024 de Samsung, ce qui lui permet d'upscaler le contenu \u00e0 une r\u00e9solution proche de la 4K. De plus, le syst\u00e8me de refroidissement a \u00e9t\u00e9 mis \u00e0 jour avec un \u00ab heat-pipe \u00bb pulsatif propri\u00e9taire, qui diffuse la chaleur cinq fois plus efficacement que les m\u00e9thodes pr\u00e9c\u00e9dentes. Le moniteur d\u00e9tecte et ajuste automatiquement la luminosit\u00e9 des images statiques pour pr\u00e9venir le br\u00fblage. Les autres sp\u00e9cifications incluent un affichage plat, une r\u00e9solution de 3840 x 2160, un taux de rafra\u00eechissement de 240 Hz et un rapport d'aspect de 16:9, avec une luminosit\u00e9 maximale de 250 nits. La fonction d'upscale de r\u00e9solution int\u00e9gr\u00e9e au moniteur pourrait \u00eatre un argument de vente convaincant pour les joueurs, surtout que les \u00e9crans de jeu OLED gagnent en popularit\u00e9.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477027/Untitled_design.jpg",
+        "date": "Tue, 04 Jun 2024 13:14:10 GMT"
+    }
+]
