@@ -36,7 +36,7 @@ jobs:
         fi
 
     - name: Run scrapper script
-      run: python scrapper.py
+      run: python scraper.py
 
     - name: Commit changes after scrapper
       run: |
