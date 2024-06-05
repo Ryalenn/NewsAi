@@ -6,7 +6,7 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -31,7 +31,9 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour des fichiers articles.json et summaries.json après exécution de cleaner.py"
-          git pull --rebase || git rebase --abort
+          git stash
+          git pull --rebase
+          git stash pop
           git push
         fi
 
@@ -47,7 +49,9 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier articles.json après exécution de scraper.py"
-          git pull --rebase || git rebase --abort
+          git stash
+          git pull --rebase
+          git stash pop
           git push
         fi
 
@@ -63,7 +67,9 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier summaries.json après exécution de sum.py"
-          git pull --rebase || git rebase --abort
+          git stash
+          git pull --rebase
+          git stash pop
           git push
         fi
 
@@ -79,6 +85,8 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Mise à jour du fichier sorted_summaries.json après exécution de sorter.py"
-          git pull --rebase || git rebase --abort
+          git stash
+          git pull --rebase
+          git stash pop
           git push
         fi
