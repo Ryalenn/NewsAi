@@ -1,10 +1,24 @@
 [
     {
+        "title": "Surveillance accrue des géants de la tech par les régulateurs américains",
+        "link": "https://www.theverge.com/2024/6/6/24172868/ftc-doj-antitrust-openai-microsoft-nvidia-investigations",
+        "body": "Résumé : Les autorités américaines de régulation de la concurrence, la FTC et le DOJ, se répartissent les tâches pour enquêter sur d'éventuelles violations des lois antitrust par Microsoft, OpenAI et Nvidia. La FTC se concentre sur les investissements technologiques dans les petites entreprises d'IA et les pratiques de collecte de données d'OpenAI, tandis que le DOJ examine de près Nvidia, leader dans la fabrication de puces pour l'IA. L'investissement de Microsoft dans OpenAI fait également l'objet d'un examen minutieux de la part des régulateurs européens et britanniques. Ces enquêtes soulignent l'attention croissante portée par les régulateurs aux pratiques des géants de la tech dans le domaine de l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg",
+        "date": "Thu, 06 Jun 2024 16:02:33 GMT"
+    },
+    {
         "title": "Les régulateurs américains se penchent sur les géants de l'IA",
         "link": "https://www.theverge.com/2024/6/6/24172868/ftc-doj-antitrust-openai-microsoft-nvidia-investigations",
         "body": "Résumé : Les autorités américaines de régulation de la concurrence, la FTC et le DOJ, se préparent à enquêter sur d'éventuelles violations des lois antitrust par Microsoft, OpenAI et Nvidia. La FTC se concentrera sur l'accord entre Microsoft et OpenAI, tandis que le DOJ examinera Nvidia, leader dans la fabrication de puces pour l'IA. La FTC avait déjà commencé à examiner les investissements des géants technologiques dans de plus petites entreprises d'IA, ainsi que les pratiques de collecte de données d'OpenAI. De leur côté, les régulateurs européens et britanniques se penchent sur l'investissement de Microsoft dans OpenAI. Cette enquête conjointe pourrait avoir des implications importantes pour l'industrie de l'IA, alors que les régulateurs cherchent à s'assurer que les pratiques des entreprises n'étouffent pas la concurrence et ne nuisent pas aux consommateurs.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg",
         "date": "Thu, 06 Jun 2024 16:02:33 GMT"
+    },
+    {
+        "title": "Nothing Phone (3) : l'IA au cœur de l'expérience utilisateur",
+        "link": "https://www.frandroid.com/marques/nothing/2040044_le-nothing-phone-3-compte-reinventer-nos-usages-ce-quon-sait-sur-son-interface-boostee-a-lia",
+        "body": "Nothing, la marque cofondée par Carl Pei, se prépare à lancer son prochain smartphone, le Nothing Phone (3), qui intégrera davantage d'intelligence artificielle générative. L'entreprise a annoncé que l'IA jouera un rôle clé dans la réinvention de l'interface utilisateur, en particulier l'écran d'accueil, qui s'adaptera aux besoins et aux envies de l'utilisateur. Nothing envisage également d'utiliser la conversation vocale avec une IA pour une configuration personnalisée et décontractée du smartphone. Le Nothing Phone (3) embarquera un processeur puissant, le Snapdragon 8s Gen 3, et devrait être proposé à un tarif plus élevé que son prédécesseur.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/nothing-phone-16-photos-test-768x512.jpg?resize=200,200&key=07f77a72",
+        "date": "Thu, 06 Jun 2024 14:09:00 GMT"
     },
     {
         "title": "Nothing Phone (3) : l'IA au cœur de l'expérience utilisateur",
@@ -23,9 +37,23 @@
     {
         "title": "DuckDuckGo lance des discussions privées avec l'IA",
         "link": "https://www.theverge.com/2024/6/6/24172719/duckduckgo-private-ai-chats-anonymous-gpt-3-5",
+        "body": "DuckDuckGo, un moteur de recherche axé sur la vie privée, a lancé une nouvelle fonctionnalité permettant d'accéder de manière anonyme à des modèles d'IA, notamment GPT-3.5 Turbo et Claude 3 Haiku. Les discussions ne sont pas stockées et les entreprises derrière les modèles ne peuvent pas les utiliser pour l'entraînement. DuckDuckGo masque l'adresse IP de l'utilisateur lors de l'envoi des requêtes, garantissant ainsi l'anonymat. La politique de confidentialité de DuckDuckGo stipule que toutes les métadonnées personnelles sont supprimées avant l'envoi des requêtes. De plus, des accords avec les fournisseurs d'IA garantissent la suppression des discussions dans un délai de 30 jours et empêchent leur utilisation pour l'entraînement des modèles. La fonctionnalité est gratuite avec une limite quotidienne, mais des plans payants avec accès à des modèles plus avancés pourraient être proposés à l'avenir.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932932/acastro_STK117__02.jpg",
+        "date": "Thu, 06 Jun 2024 13:24:21 GMT"
+    },
+    {
+        "title": "DuckDuckGo lance des discussions privées avec l'IA",
+        "link": "https://www.theverge.com/2024/6/6/24172719/duckduckgo-private-ai-chats-anonymous-gpt-3-5",
         "body": "DuckDuckGo, un moteur de recherche axé sur la vie privée, a lancé une nouvelle fonctionnalité permettant d'accéder de manière anonyme à des modèles d'IA, notamment GPT-3.5 Turbo et Claude 3 Haiku. Les discussions ne sont pas stockées et les entreprises derrière les modèles ne peuvent pas les utiliser pour l'entraînement. DuckDuckGo masque l'adresse IP de l'utilisateur lors de l'envoi des requêtes, garantissant ainsi l'anonymat. La politique de confidentialité de DuckDuckGo stipule que toutes les métadonnées personnelles sont supprimées avant l'envoi des requêtes. L'entreprise a également des accords avec les fournisseurs d'IA pour supprimer les discussions enregistrées dans les 30 jours et s'assurer qu'elles ne sont pas utilisées pour entraîner leurs modèles. La fonctionnalité est gratuite avec une limite quotidienne, mais des plans payants avec des limites plus élevées et un accès à des modèles plus avancés pourraient être proposés à l'avenir.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932932/acastro_STK117__02.jpg",
         "date": "Thu, 06 Jun 2024 13:24:21 GMT"
+    },
+    {
+        "title": "HP pourrait acquérir l'activité AI Pin de Humane pour plus d'un milliard de dollars",
+        "link": "https://www.theverge.com/2024/6/6/24172718/humane-ai-pin-selling-hp-rumor-1-billion",
+        "body": "Selon un nouveau rapport, HP pourrait être intéressé par l'acquisition de l'activité AI Pin de Humane pour un montant supérieur à 1 milliard de dollars. Cette information fait suite à des rumeurs selon lesquelles Humane chercherait un acheteur pour sa division AI Pin, après que son produit, un ordinateur portable à intelligence artificielle, ait reçu de mauvaises critiques. Humane, dirigée par d'anciens employés d'Apple, a été critiquée pour la mauvaise gestion de la batterie et la surconsommation d'énergie de son produit, ainsi que pour des problèmes de surchauffe nécessitant l'utilisation de packs de glace pour maintenir l'appareil en marche. Malgré les critiques, Humane a défendu son produit, mais a tout de même envoyé des avertissements aux clients concernant un risque potentiel d'incendie lié au boîtier de charge. L'entreprise a également été accusée de réprimer les critiques internes, ayant licencié un ingénieur logiciel principal qui avait remis en question la préparation du produit pour le lancement.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379084/247075_Humane_AI_pin_AKrales_0035.jpg",
+        "date": "Thu, 06 Jun 2024 12:36:03 GMT"
     },
     {
         "title": "HP pourrait acquérir l'activité de broches AI de Humane",
@@ -42,6 +70,13 @@
         "date": "Thu, 06 Jun 2024 12:36:03 GMT"
     },
     {
+        "title": "Google NotebookLM améliore la gestion des sources et des données",
+        "link": "https://www.theverge.com/2024/6/6/24172422/google-notebooklm-ai-gemini-pro-chatbot",
+        "body": "Google a amélioré son application de prise de notes, NotebookLM, en permettant aux utilisateurs de télécharger des sources Google Slides et des URL web, en plus des formats déjà acceptés. Le nouveau « Notebook Guide » peut créer des guides d'étude, des FAQ et des documents de synthèse, avec des citations intégrées pour vérifier les faits auprès de 50 sources par projet. NotebookLM fonctionne sur Gemini 1.5 Pro, le dernier modèle de langage de Google, permettant aux utilisateurs de poser des questions sur les graphiques, images et diagrammes téléchargés. L'application cible les chercheurs, les étudiants et les écrivains, mais a également trouvé une utilisation chez les maîtres de donjon de jeux de rôle. NotebookLM est désormais disponible dans plus de 200 pays et prend en charge plus de 100 langues.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
+        "date": "Thu, 06 Jun 2024 11:00:00 GMT"
+    },
+    {
         "title": "Google NotebookLM : une application de prise de notes alimentée par l'IA",
         "link": "https://www.theverge.com/2024/6/6/24172422/google-notebooklm-ai-gemini-pro-chatbot",
         "body": "Google a lancé l'application de prise de notes NotebookLM, qui utilise l'IA pour aider les chercheurs, les étudiants et toute personne ayant besoin d'organiser des informations. L'application accepte désormais les URL Web et les diapositives Google en plus des formats de fichiers précédents. L'IA peut créer des guides d'étude et des documents de référence à partir de sources téléchargées, avec des citations pour vérifier les faits. Les utilisateurs peuvent poser des questions sur les graphiques, les images et les diagrammes téléchargés, grâce à Gemini 1.5 Pro, le dernier modèle linguistique de Google. NotebookLM est un système fermé qui ne fait pas de recherches Web, mais tire ses réponses du contenu que l'utilisateur télécharge. L'application peut résumer des textes, extraire des données de graphiques et fournir des citations. Disponible dans plus de 200 pays et prenant en charge plus de 100 langues, il s'avère utile pour les chercheurs, les étudiants et même les écrivains.",
@@ -54,6 +89,34 @@
         "body": "Google a amélioré son application de prise de notes NotebookLM, qui permet désormais de télécharger des sources sous forme de Google Slides et de pages web, en plus des formats déjà acceptés. Le nombre de sources par projet a également été augmenté, passant de 5 à 50, avec une limite de 500 000 mots par source. NotebookLM utilise le modèle linguistique Gemini 1.5 Pro, ce qui permet aux utilisateurs de poser des questions sur les graphiques, images et diagrammes téléchargés. L'outil fournit des réponses basées uniquement sur les sources fournies par l'utilisateur, sans effectuer de recherches web supplémentaires. Bien qu'il ne rédige pas de documents de recherche, il peut aider à organiser les informations, à créer des guides d'étude et à fournir des citations. Google a mis en avant l'utilisation de NotebookLM par des auteurs, des organisations à but non lucratif et même un maître de donjon pour Dungeons & Dragons.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
         "date": "Thu, 06 Jun 2024 11:00:00 GMT"
+    },
+    {
+        "title": "L'IA au service de la recherche d'informations",
+        "link": "https://www.frandroid.com/marques/google/2040114_google-lance-son-nouvel-outil-de-notes-en-france-et-il-va-changer-ma-vie",
+        "body": "Google a présenté son nouvel outil de prise de notes, NotebookLM, qui utilise l'IA pour transformer la recherche d'informations dans des documents. NotebookLM permet aux utilisateurs d'intégrer jusqu'à 50 sources, allant des textes aux PDF en passant par les URL, pour un total de 25 millions de mots. L'IA Gemini 1.5 Pro permet d'effectuer des recherches en langage naturel, avec des réponses basées uniquement sur les sources fournies. L'outil crée également un aperçu général du projet, y compris un résumé, une FAQ et une frise chronologique. Disponible gratuitement dans plus de 200 pays, NotebookLM prend en charge 35 langues, dont le français, et garantit la sécurité des données des utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/google-notebooklm-ux-hero-light-768x432.png?resize=169,169&key=da62b368",
+        "date": "Wed, 05 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Problèmes de sécurité avec l'Humane Ai Pin",
+        "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/2039852_humane-ai-pin-le-tueur-de-smartphones-pris-dans-une-polemique-concernant-des-risques-dincendie",
+        "body": "L'Humane Ai Pin, un appareil connecté destiné à remplacer les smartphones, fait face à des critiques concernant un risque d'incendie lié à son boîtier de chargement. Son fabricant a envoyé un avertissement aux clients, leur conseillant d'arrêter immédiatement d'utiliser le boîtier en raison d'un défaut de fabrication. La société a également annoncé qu'elle changerait de fournisseur de batteries et offrirait deux mois d'abonnement gratuits aux clients affectés. Cette polémique s'ajoute aux critiques précédentes sur l'ergonomie et les spécifications techniques de l'appareil.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/humane-ai-pin-frandroid-humane-ai-pin-launch-video-9-40-screenshot-768x432.jpg?resize=169,169&key=10930d3e",
+        "date": "Wed, 05 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA dans les smartphones Oppo",
+        "link": "https://www.frandroid.com/marques/oppo/2039892_les-oppo-reno-12-et-find-x8-seront-gaves-dia-venant-de-tous-horizons",
+        "body": "Oppo annonce son intention d'intégrer l'IA générative dans ses smartphones, notamment les Reno 12 et les prochains Find X. La marque collabore avec Google, MediaTek et Microsoft pour intégrer les LLM de Gemini (IA de Google) et améliorer la conversion vocale-textuelle. Oppo souhaite également développer ses propres outils de transcription et apporter l'IA sur des modèles plus abordables. L'objectif est d'atteindre 50 millions d'utilisateurs d'ici la fin de l'année. Étant donné qu'Oppo, OnePlus et Realme appartiennent au même groupe, ces fonctionnalités d'IA pourraient à terme être disponibles sur les smartphones de ces trois marques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/oppo-reno-12-768x576.jpg?resize=225,225&key=26d6d1dd",
+        "date": "Wed, 05 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "La domination de Nvidia au Computex 2024",
+        "link": "https://www.frandroid.com/marques/nvidia/2040094_on-a-essaye-g-assist-et-ace-lavenir-des-jeux-video-a-la-sauce-nvidia",
+        "body": "Nvidia a dominé le Computex 2024, avec une présence omniprésente et des démonstrations impressionnantes de ses technologies d'IA. La société a privatisé un hôtel près du salon pour présenter ses dernières innovations, notamment G Assist et Nvidia Ace. Ace, déjà présenté lors de précédents Computex, a impressionné avec sa capacité à rendre les PNJ de jeux vidéo \"vivants\" grâce à l'IA, leur donnant une personnalité et la possibilité de répondre aux joueurs sans scripts prédéfinis. G-Assist, quant à lui, a démontré la possibilité d'assister les joueurs en temps réel, bien qu'il ne s'agisse pour l'instant que d'une démo technique. Nvidia a également présenté sa vision de l'IA pour l'optimisation des performances des jeux, avec G-Assist capable d'ajuster automatiquement les paramètres pour réduire la consommation d'énergie tout en maintenant un taux d'images élevé. La société a ainsi démontré sa position de leader dans le domaine de l'IA, laissant entrevoir un avenir passionnant pour les jeux vidéo et les technologies d'assistance.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/nvidia-ai-demo-computex-2024-6-768x513.jpg?resize=200,200&key=2a6ccbb6",
+        "date": "Wed, 05 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "L'IA au service de la recherche d'informations",
@@ -135,6 +198,13 @@
     {
         "title": "Nvidia, leader de l'IA",
         "link": "https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai",
+        "body": "Nvidia, géant de la fabrication de puces, est désormais la deuxième entreprise la plus valorisée au monde, avec une capitalisation boursière de 3 010 milliards de dollars, dépassant Apple. Son succès est étroitement lié à sa domination dans le domaine de l'IA grâce à sa puce phare H100. La valeur de Nvidia a explosé, passant de 1 000 milliards de dollars en mai 2023 à plus de 2 000 milliards en février 2024, surpassant ainsi Amazon et Alphabet. Les accélérateurs IA de Nvidia détiennent entre 70 % et 95 % des parts de marché des puces IA. L'entreprise prévoit de lancer de nouvelles puces IA chaque année, la première étant la GPU Blackwell B200 attendue pour la fin de cette année. Nvidia ne se classe derrière que Microsoft, qui détient actuellement la plus haute capitalisation boursière.",
+        "image": "",
+        "date": "Wed, 05 Jun 2024 20:53:18 GMT"
+    },
+    {
+        "title": "Nvidia, leader de l'IA",
+        "link": "https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai",
         "body": "Nvidia, géant de la fabrication de puces, est désormais la deuxième entreprise la plus valorisée au monde, dépassant Apple. Sa domination dans le domaine de l'IA avec sa puce phare H100 a propulsé sa capitalisation boursière à 3 010 milliards de dollars. Nvidia a atteint une valeur de 1 000 milliards de dollars en mai 2023, puis a bondi à 2 000 milliards de dollars en février 2024, surpassant Amazon et Alphabet. La société génère des bénéfices importants grâce à ses ventes de puces, avec un bénéfice de 14 milliards de dollars rapporté en mai. Nvidia prévoit de lancer de nouvelles puces d'IA chaque année, commençant par la GPU Blackwell B200 attendue pour la fin de cette année. Ses accélérateurs d'IA détiennent actuellement entre 70 % et 95 % de parts de marché pour les puces d'IA.",
         "image": "",
         "date": "Wed, 05 Jun 2024 20:53:18 GMT"
@@ -152,6 +222,13 @@
         "body": "Nvidia, le géant de la fabrication de puces, est désormais la deuxième entreprise la plus valorisée au monde, dépassant Apple. Sa capitalisation boursière a atteint 3 010 milliards de dollars, grâce au succès de sa puce phare H100. Nvidia domine le marché des puces d'IA, avec une part de marché de 70 à 95 %. L'entreprise a vu ses bénéfices exploser, atteignant 14 milliards de dollars grâce aux ventes de puces. Nvidia prévoit de scinder son action le 7 juin et de lancer une nouvelle puce d'IA chaque année, commençant par la GPU Blackwell B200.",
         "image": "",
         "date": "Wed, 05 Jun 2024 20:53:18 GMT"
+    },
+    {
+        "title": "Problème de sécurité avec le boîtier de charge de l'IA Pin de Humane",
+        "link": "https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning",
+        "body": "L'entreprise Humane a informé les propriétaires de son gadget IA Pin d'arrêter immédiatement d'utiliser le boîtier de charge en raison d'un problème potentiel de sécurité lié à une cellule de batterie d'un fournisseur tiers. Le problème a été découvert après un rapport d'incident lors de l'utilisation d'un câble et d'une source d'alimentation USB-C tiers. Bien que l'IA Pin, le Battery Booster et le Charge Pad ne soient pas affectés, Humane offre deux mois gratuits de son service d'abonnement en compensation. L'entreprise recherche un nouveau fournisseur de batteries et n'a pas encore indiqué si elle proposera un boîtier de remplacement.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379319/247075_Humane_AI_pin_AKrales_0111.jpg",
+        "date": "Wed, 05 Jun 2024 20:23:26 GMT"
     },
     {
         "title": "Problème de sécurité avec le boîtier de charge de l'IA Pin de Humane",
@@ -210,6 +287,13 @@
         "date": "Wed, 05 Jun 2024 20:23:26 GMT"
     },
     {
+        "title": "L'avenir des smartphones est l'IA",
+        "link": "https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos",
+        "body": "Le PDG de Nothing, Carl Pei, suggère que les smartphones sont les gadgets IA de demain et que l'IA pourrait changer la façon dont nous les utilisons. L'entreprise s'apprête à lancer le Phone 3, son premier véritable smartphone IA, avec un assistant vocal personnalisé intégré au système d'exploitation et un écran d'accueil dynamique et personnalisé. L'objectif est de repenser le modèle axé sur les applications et de créer un système qui anticipe les besoins de l'utilisateur. Nothing vise à construire un pont entre les systèmes actuels et les prochains, en mettant l'accent sur l'expérience utilisateur plutôt que sur la simple concurrence technologique.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1417x790/2400x1600/filters:focal(709x395:710x396):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25478797/CleanShot_2024_06_05_at_11.54.21.png",
+        "date": "Wed, 05 Jun 2024 16:26:54 GMT"
+    },
+    {
         "title": "Le futur des smartphones est l'IA",
         "link": "https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos",
         "body": "Le PDG de Nothing, Carl Pei, suggère que les smartphones sont en effet les gadgets IA de l'avenir et que l'IA pourrait changer la façon dont nous utilisons ces appareils. Bien que les smartphones soient devenus plus rapides et plus beaux, l'expérience utilisateur de base est restée largement inchangée, selon Pei. Nothing prévoit de lancer le Phone 3, son premier véritable smartphone IA, avec un assistant vocal personnalisé intégré au système d'exploitation et un écran d'accueil dynamique et personnalisé. L'objectif est de repenser le modèle axé sur les applications et de créer un système qui anticipe les besoins de l'utilisateur. Pei reconnaît que ces changements prendront du temps et que l'entreprise doit construire un pont entre les systèmes actuels et les prochains. Il compare également Nothing à Nintendo, en mettant l'accent sur la création de produits amusants et de qualité plutôt que sur la concurrence technologique.",
@@ -229,6 +313,13 @@
         "body": "Le directeur général de Nothing, Carl Pei, pense que les smartphones sont les gadgets de l'IA de demain et que l'IA pourrait changer la façon dont nous les utilisons. Bien que les smartphones soient devenus plus rapides et plus beaux, l'expérience utilisateur de base est restée largement inchangée. Nothing prévoit de changer cela avec son prochain téléphone, le Phone 3, qui intégrera véritablement l'IA. L'équipe de Nothing a présenté des démonstrations d'un assistant vocal personnalisé intégré au système d'exploitation et d'un écran d'accueil dynamique et personnalisé, capable d'afficher des codes QR, de récupérer du contenu Web et d'afficher des rappels et des informations météorologiques pertinents. L'objectif est d'utiliser l'IA pour faire évoluer les smartphones au-delà de leur modèle axé sur les applications vers un système qui anticipe les besoins de l'utilisateur. Pei reconnaît que ces prototypes sont nouveaux et que la transition vers un nouvel écran d'accueil prendra du temps. Nothing vise à construire un pont entre les systèmes actuels et les prochains. L'entreprise a déjà intégré ChatGPT dans ses écouteurs Ear et explore des moyens d'utiliser l'IA pour donner plus de contrôle aux utilisateurs et améliorer leur expérience.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1417x790/2400x1600/filters:focal(709x395:710x396):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25478797/CleanShot_2024_06_05_at_11.54.21.png",
         "date": "Wed, 05 Jun 2024 16:26:54 GMT"
+    },
+    {
+        "title": "Campagne d'influence secrète",
+        "link": "https://www.theverge.com/2024/6/5/24172002/israel-gaza-war-covert-influence-camapaign-meta-openai",
+        "body": "Le gouvernement israélien a organisé et financé une campagne d'influence secrète sur les réseaux sociaux pour faire pression sur les législateurs américains et les inciter à soutenir la guerre d'Israël contre Gaza. Le ministère israélien de la Diaspora a alloué environ 2 millions de dollars à la campagne, qui a utilisé des centaines de faux comptes pour diffuser des messages pro-israéliens. La campagne a utilisé ChatGPT d'OpenAI pour générer les publications, ciblant notamment des démocrates noirs comme le chef de la minorité à la Chambre des représentants, Hakeem Jeffries. Meta et OpenAI ont découvert et interrompu la campagne, qui reste active sur d'autres plateformes. Ce cas souligne l'utilisation croissante de l'IA dans les campagnes d'influence politique et les tentatives de manipulation de l'opinion publique.",
+        "image": "",
+        "date": "Wed, 05 Jun 2024 16:14:42 GMT"
     },
     {
         "title": "Israël et les influenceurs secrets",
@@ -294,6 +385,13 @@
         "date": "Wed, 05 Jun 2024 16:14:42 GMT"
     },
     {
+        "title": "Améliorer la collaboration avec l'IA",
+        "link": "https://www.theverge.com/2024/6/5/24170480/asana-ai-teammate-workflow-assistant-chatbot",
+        "body": "Asana, une plateforme qui aide déjà les équipes à organiser leurs tâches et à gérer les responsabilités de chacun, présente ses nouveaux \"collègues IA\". L'IA d'Asana peut utiliser les informations historiques sur les équipes et leurs projets passés pour attribuer les tâches aux personnes les plus qualifiées, en fonction de leurs compétences. Il peut également identifier les informations manquantes et prendre l'initiative de les obtenir auprès de l'équipe. La fonctionnalité \"collègue IA\" est conçue pour améliorer la collaboration et automatiser l'attribution des tâches. Les utilisateurs peuvent également interagir avec l'IA via une interface de chat, leur permettant de poser des questions sur leurs projets. Des entreprises comme Google, Amazon et Microsoft développent également des assistants IA similaires pour automatiser les tâches professionnelles.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330657/STK414_AI_CHATBOT_G.jpg",
+        "date": "Wed, 05 Jun 2024 13:00:00 GMT"
+    },
+    {
         "title": "Asana lance un coéquipier IA pour rationaliser la collaboration en équipe",
         "link": "https://www.theverge.com/2024/6/5/24170480/asana-ai-teammate-workflow-assistant-chatbot",
         "body": "Résumé : Asana, une plateforme qui aide déjà les équipes à organiser leurs tâches et à gérer les responsabilités, présente un nouveau coéquipier IA. Cet outil utilise l'historique des relations et des projets d'équipe pour assigner les tâches aux personnes possédant les compétences requises. Il peut également identifier les informations manquantes et prendre les devants pour les obtenir. Asana affirme que son modèle IA, basé sur le « Work Graph », lui confère un avantage par rapport à la concurrence. Bien que peu de détails soient fournis, certains clients, comme une organisation marketing anonyme, testent déjà cette fonctionnalité. Asana annonce également une interface de discussion pour le coéquipier IA, permettant aux utilisateurs de poser des questions sur leurs projets. Cette fonctionnalité s'inscrit dans la tendance croissante des assistants IA sur le lieu de travail, aux côtés d'initiatives similaires de Google, Amazon et Microsoft.",
@@ -355,243 +453,5 @@
         "body": "Asana, une plateforme de gestion de tâches, présente de nouvelles fonctionnalités d'IA pour améliorer la collaboration au sein des équipes. L'IA d'Asana peut utiliser les informations historiques sur les relations et les projets passés des équipes pour assigner les tâches aux personnes les plus qualifiées. Il peut également identifier les informations manquantes et prendre l'initiative de les obtenir auprès de l'équipe. La fonctionnalité \"IA teammate\" permet aux utilisateurs de poser des questions sur leurs projets via une interface de chat. Asana affirme que son IA est supérieure à la concurrence car elle est construite sur le \"Work Graph\", qui cartographie les relations entre les tâches, les informations et les personnes. Des clients, dont une organisation marketing anonyme, testent déjà cette fonctionnalité. Cette tendance à l'utilisation de l'IA comme assistant au travail se développe, avec des entreprises comme Google, Amazon et Microsoft proposant des outils similaires.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330657/STK414_AI_CHATBOT_G.jpg",
         "date": "Wed, 05 Jun 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini débarque en France et en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. Téléchargeable sur le Google Play Store et iOS, elle offre diverses fonctionnalités, telles que la synthèse de résultats de recherche, l'assistance à la rédaction et la planification. Gemini peut être activé via Google Assistant et accessible par différentes méthodes, y compris par commande vocale. Google prépare ainsi la fin de Google Assistant, ou du moins une évolution significative, en intégrant de nombreuses fonctionnalités vocales dans Gemini. L'application a déjà été téléchargée plus d'un million de fois dans le monde et reçoit de bonnes critiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Raspberry Pi s'invite dans la danse de l'IA",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La Fondation Raspberry propose un module d'extension IA abordable, le \"IA Kit\", pour son micro-ordinateur Raspberry Pi 5. Le module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde. Bien qu'inférieur aux puces AMD ou Intel, il offre une plateforme accessible pour expérimenter l'IA. Le kit, déjà disponible en précommande pour 65,50 €, inclut des connecteurs GPIO pour accessoires et permet des tâches de reconnaissance d'objets et vocale, ainsi que des fonctionnalités IA pour logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini débarque en France et en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et des fonctionnalités d'assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et offre une variété d'options d'interaction, y compris via l'écran, les commandes vocales et le bouton d'alimentation du smartphone. Gemini peut aider à planifier des événements, fournir des informations sur les monuments via la reconnaissance d'image, synthétiser des résultats de recherche et même remplacer Google Assistant dans les paramètres Android. Google prévoit d'ajouter davantage de fonctionnalités vocales à Gemini, suggérant une transition progressive vers la nouvelle plateforme.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un nouveau module \"IA Kit\" pour le Raspberry Pi 5, permettant d'expérimenter avec l'IA à bas coût. Le module, conçu en collaboration avec Hailo, inclut une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde. Le kit, déjà disponible en précommande pour environ 65 euros, offre un terrain de jeu pour s'amuser avec des logiciels d'IA, comme la reconnaissance d'objets et vocale. Il s'agit d'une alternative abordable aux offres d'entreprises comme Google, Microsoft et OpenAI, et peut être utilisé pour alimenter des fonctionnalités d'IA dans des logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini débarque en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en Europe, y compris en France. L'application peut être téléchargée sur le Google Play Store et l'App Store. Gemini offre des fonctionnalités similaires à Google Assistant, telles que la configuration d'un minuteur ou le passage d'appels, et peut même le remplacer dans les paramètres Android. Google semble préparer la fin de Google Assistant, ou du moins une évolution significative. Gemini a déjà été téléchargée plus d'un million de fois dans le monde et reçoit de bonnes critiques. L'outil peut synthétiser des résultats de recherche, aider à la rédaction et fournir des informations contextuelles, mais a également été critiqué pour des erreurs dans les résultats de recherche.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un nouveau module \"IA Kit\" pour le Raspberry Pi 5, permettant d'expérimenter avec l'IA à bas coût. Le module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde. Le kit, déjà disponible en précommande pour 65,50 euros, offre un terrain de jeu pour s'amuser avec des logiciels d'IA, comme la reconnaissance d'objets et vocale. Il s'assemble facilement et peut se connecter à divers accessoires via les connecteurs GPIO.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'arrivée de Google Gemini en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et iOS 16. Gemini permet d'accéder à diverses fonctionnalités, telles que la synthèse de résultats de recherche, un assistant de rédaction et la possibilité de planifier des activités. Google précise que de nombreuses fonctionnalités vocales de Google Assistant seront disponibles via Gemini, suggérant une éventuelle transition vers cette nouvelle plateforme. L'application a déjà été téléchargée plus d'un million de fois dans le monde.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un nouveau module \"IA Kit\" pour le Raspberry Pi 5, permettant d'expérimenter avec l'IA à bas coût. Le module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde. Il offre un terrain de jeu pour s'amuser avec des logiciels d'IA, comme la reconnaissance d'objets et vocale. Le kit, déjà disponible en précommande pour 65,50 €, est un moyen abordable de se lancer dans l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'arrivée de Google Gemini en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et iOS 16. Gemini permet aux utilisateurs de synthétiser des résultats de recherche, d'obtenir de l'aide pour la rédaction et de réaliser diverses tâches, comme configurer un minuteur ou passer des appels. Google prévoit d'ajouter davantage de fonctionnalités dans les mois à venir. L'application a déjà été téléchargée plus d'un million de fois dans le monde. L'arrivée de Gemini annonce potentiellement la fin de Google Assistant, ou du moins une évolution significative.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La Fondation Raspberry Pi s'associe à Hailo pour proposer un module d'extension IA abordable pour le Raspberry Pi 5, offrant ainsi un outil accessible pour expérimenter avec l'intelligence artificielle. Le module, nommé \"IA Kit\", comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde, ce qui est suffisant pour se familiariser avec les outils d'IA. Le kit, déjà disponible en précommande pour environ 65 euros, permet aux utilisateurs d'effectuer des tâches de reconnaissance d'objets et de reconnaissance vocale, ainsi que d'explorer les fonctionnalités d'IA dans les logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : l'assistant IA de Google arrive en France",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et iOS 16. Gemini permet de remplacer Google Assistant dans les paramètres d'Android, et offre des fonctionnalités similaires telles que la configuration d'un minuteur ou le passage d'appels. Google prévoit d'ajouter davantage de fonctionnalités dans les mois à venir. Parmi les autres usages, Gemini peut aider à la rédaction de publications, à la planification d'activités et à la synthèse de résultats de recherche. L'application a déjà été téléchargée plus d'un million de fois dans le monde.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un nouveau module \"IA Kit\" pour le Raspberry Pi 5, permettant d'expérimenter avec l'IA à bas coût. Le module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde. L'IA Kit, déjà disponible en précommande pour 65,50 euros, offre un terrain de jeu pour s'amuser avec des logiciels d'IA, comme la reconnaissance d'objets et vocale. Il s'agit d'une alternative abordable aux offres d'entreprises comme Google, Microsoft et OpenAI.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'arrivée de Google Gemini en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et iOS 16. Gemini permet aux utilisateurs de synthétiser des résultats de recherche, d'obtenir de l'aide pour la rédaction et de réaliser diverses tâches, comme configurer un minuteur ou passer des appels. Google prévoit d'ajouter davantage de fonctionnalités dans les mois à venir. L'application a déjà été téléchargée plus d'un million de fois dans le monde. L'arrivée de Gemini annonce potentiellement la fin de Google Assistant, ou du moins une évolution significative.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Un module IA abordable pour le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La Fondation Raspberry, en collaboration avec Hailo, a développé un module d'extension d'intelligence artificielle abordable, nommé \"IA Kit\", pour le Raspberry Pi 5. Le module, composé d'une unité de traitement neuronal (NPU) et d'un circuit imprimé, se connecte à l'ordinateur via l'interface PCIe. La puce Hailo peut effectuer jusqu'à 13 trillions d'opérations par seconde, offrant ainsi un terrain de jeu idéal pour expérimenter avec des logiciels d'IA. Le kit, déjà disponible en précommande pour 65,50 euros, permet des fonctionnalités telles que la reconnaissance d'objets et vocale, et peut alimenter des fonctionnalités d'IA dans les logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google lance Gemini, son nouveau chatbot en France et en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et versions supérieures, ainsi qu'avec les iPhone sous iOS 16. Gemini offre une variété de fonctionnalités, telles que la synthèse de résultats de recherche, l'assistance à la rédaction et la planification d'activités. L'application peut également être utilisée à la place de Google Assistant sur les appareils Android. Google prévoit d'ajouter davantage de fonctionnalités vocales à Gemini dans les prochains mois, suggérant une éventuelle fin pour Google Assistant.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un module d'extension IA abordable pour le Raspberry Pi 5, en collaboration avec Hailo. Le module, nommé \"IA Kit\", comprend une unité de traitement neuronal capable d'effectuer 13 trillions d'opérations par seconde, offrant ainsi un terrain de jeu pour expérimenter avec des logiciels d'IA. Le kit, déjà disponible en précommande pour environ 65 euros, permet aux utilisateurs de s'initier à l'IA avec des fonctionnalités telles que la reconnaissance d'objets et vocale.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'arrivée de Google Gemini en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et un assistant vocal, est désormais disponible en France et en Europe. L'application peut être téléchargée sur le Google Play Store et l'App Store, et est compatible avec les appareils Android 10 et iOS 16. Gemini permet aux utilisateurs de faire des recherches, de planifier des activités et d'obtenir des réponses à des questions spécifiques. Google prépare ainsi la fin de Google Assistant, bien que les deux coexistent pour le moment. L'entreprise prévoit d'ajouter davantage de fonctionnalités à Gemini dans les prochains mois.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose un module d'extension IA abordable pour le Raspberry Pi 5, en collaboration avec Hailo. Le module, nommé \"IA Kit\", comprend une unité de traitement neuronal (NPU) capable d'effectuer 13 trillions d'opérations par seconde, offrant ainsi un terrain de jeu pour expérimenter avec des logiciels d'IA. Le kit, déjà disponible en précommande pour environ 65 euros, permet aux utilisateurs de s'amuser avec des fonctionnalités d'IA telles que la reconnaissance d'objets et vocale, et peut également alimenter des fonctionnalités d'IA dans des logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini débarque en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et des fonctionnalités d'assistant vocal, est désormais disponible en France et en Europe. Téléchargeable sur le Google Play Store et iOS, elle offre une alternative à Google Assistant, avec des fonctionnalités similaires et avancées, comme la synthèse de résultats de recherche, l'assistance à la rédaction et la planification d'activités. Gemini peut être activé via Google Assistant, un geste sur l'écran ou la commande vocale \"Ok Google\". Bien que l'outil puisse commettre des erreurs, il a déjà été téléchargé plus d'un million de fois dans le monde.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose désormais un module d'extension IA abordable pour le Raspberry Pi 5, appelé \"IA Kit\". Ce module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal (NPU) capable d'effectuer 13 trillions d'opérations par seconde. L'IA Kit, vendu 65,50 euros, permet aux utilisateurs d'expérimenter l'IA avec des outils comme la reconnaissance d'objets et vocale, et de découvrir les fonctionnalités d'IA dans les logiciels auto-hébergés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'arrivée de Google Gemini en Europe",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2038376_lapplication-gemini-debarque-enfin-en-france-voici-a-quoi-elle-sert",
-        "body": "L'application Google Gemini, qui intègre un chatbot et des fonctionnalités d'assistant vocal, est désormais disponible en France et en Europe. Téléchargeable sur le Google Play Store et iOS, elle offre une variété d'options, telles que la synthèse de résultats de recherche, l'assistance à la rédaction et la planification d'activités. Gemini peut être activé via Google Assistant et accessible de plusieurs manières, y compris par commande vocale. Google prépare ainsi la fin de Google Assistant, bien que les deux coexistent pour le moment. L'application a déjà été téléchargée plus d'un million de fois dans le monde.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous avec le Raspberry Pi 5",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2038760_le-raspberry-pi-fait-le-pari-de-lia-maison-a-moins-de-70-e",
-        "body": "La fondation Raspberry propose désormais un module d'extension IA abordable pour le Raspberry Pi 5, appelé \"IA Kit\". Ce module, conçu en collaboration avec Hailo, comprend une unité de traitement neuronal (NPU) capable d'effectuer 13 trillions d'opérations par seconde. L'IA Kit, vendu 65,50 €, permet aux utilisateurs d'expérimenter l'IA avec des logiciels et des accessoires externes, offrant ainsi un terrain de jeu pour les passionnés d'IA. Il est facile à assembler et peut être utilisé pour la reconnaissance d'objets, la reconnaissance vocale et pour améliorer les fonctionnalités IA des logiciels auto-hébergés. Disponible en précommande, il sera livré à partir du 14 juin 2024.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ai-kit-disassembled-small-768x576.jpg?resize=225,225&key=e8e184ee",
-        "date": "Tue, 04 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que cultivent certains PDG, contrastant avec celle de dirigeants comme Tim Cook ou Sundar Pichai. L'auteure suggère que l'image de \"cool\" que projette Huang, souvent vêtu de blousons en cuir, a peut-être contribué à cette demande inhabituelle de signature. Cependant, elle attribue principalement cet événement à la récente explosion de l'IA, qui a propulsé Nvidia au rang de troisième entreprise la plus valorisée dans le S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que cultivent certains PDG, contrastant avec celle de dirigeants comme Tim Cook ou Sundar Pichai. L'auteure suggère que l'image de \"cool\" cultivée par Jensen Huang, souvent associé à une tenue décontractée, a peut-être contribué à cette demande inhabituelle de signature. Cependant, l'auteure suggère également que la demande de la fan pourrait être davantage liée au succès de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise parmi les plus précieuses du S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que Huang souhaite projeter, qui contraste avec celle d'autres PDG de la tech. L'auteure suggère que l'image de \"cool\" cultivée par Huang, souvent vêtu de vestes en cuir, contribue à cette interaction inhabituelle. Cependant, l'accent est mis sur la récente montée en puissance de Nvidia, propulsée par le boom de l'IA, qui a fait de l'entreprise la troisième plus grande société du S&P 500 en termes de valeur.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que cultivent certains PDG, contrastant avec celle de dirigeants comme Tim Cook ou Sundar Pichai. L'auteure suggère que l'image de \"cool\" cultivée par Huang, souvent vêtu de vestes en cuir, contribue à cette situation. Cependant, l'attention portée à Huang et à Nvidia pourrait également être liée à l'essor de l'IA, qui a propulsé Nvidia au rang de troisième entreprise la plus valorisée dans le S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le futur est cool",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, PDG de Nvidia, a été filmé en train de signer l'encolure d'une femme lors d'un événement public, ce qui contraste avec l'image publique plus réservée d'autres dirigeants comme Tim Cook et Sundar Pichai. L'auteure suggère que l'image de \"cool\" cultivée par Huang, souvent vêtu de vestes en cuir, contribue à cette interaction. Cependant, l'auteure suggère également que la demande de signature est probablement motivée par la réussite impressionnante de Nvidia, propulsée par le boom de l'IA, plutôt que par le simple style vestimentaire de Huang.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur le décolleté d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer le décolleté d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que Huang cultive en tant que PDG \"cool\" et décontracté, contrastant avec l'apparence plus traditionnelle d'autres PDG de la tech. L'auteure suggère que la demande de la fan pour un autographe est probablement motivée par la réussite de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise au troisième rang des entreprises les plus valorisées du S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que cultivent certains PDG, contrastant avec celle de dirigeants comme Tim Cook ou Sundar Pichai. L'auteure suggère que l'image de \"cool\" que projette Huang, souvent vêtu de blousons en cuir, est délibérée et distincte de celle des PDG traditionnels. Elle suggère également que la demande de signature de la fan est peut-être motivée par la réussite de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise parmi les plus précieuses du S&P 500, plutôt que par le simple fait que Huang soit \"cool\".",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public, ce qui est inhabituel pour un dirigeant d'entreprise. Cet incident met en lumière la personnalité excentrique de Huang, qui cultive une image de \"cool CEO\", souvent vêtu de vestes en cuir plutôt que de tenues traditionnelles. L'auteure suggère que la demande de la femme est probablement motivée par la réussite de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise à la troisième place des entreprises les plus valorisées du S&P 500, plutôt que par le style vestimentaire de Huang.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public. Cet incident soulève des questions sur l'image publique que les PDG cultivent et la perception de ceux-ci par le public. L'auteure suggère que l'image de \"cool\" que projette Huang, souvent vêtu de blousons en cuir, est un facteur qui le distingue des PDG traditionnels. Cependant, l'auteure suggère également que la demande de la fan pour un autographe était probablement motivée par la réussite impressionnante de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise à la troisième place des entreprises les plus valorisées dans le S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur la poitrine d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Résumé : Jensen Huang, le PDG de Nvidia, a été filmé en train de signer la poitrine d'une fan lors d'un événement public, ce qui est inhabituel pour un dirigeant d'entreprise. Cet incident met en lumière la personnalité excentrique de Huang, qui cultive une image de \"cool CEO\", souvent vêtu de vestes en cuir plutôt que de tenues traditionnelles. L'auteure suggère que la demande de la fan pour un autographe est probablement motivée par la réussite impressionnante de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise à la troisième place des entreprises les plus valorisées dans le S&P 500.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "Le CEO de Nvidia, Jensen Huang, signe un autographe sur le décolleté d'une fan",
-        "link": "https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing",
-        "body": "Le PDG de Nvidia, Jensen Huang, a été filmé en train de signer le décolleté d'une fan lors d'un événement public, Computex. Cet incident inhabituel soulève des questions sur l'image publique que cultive Huang, qui se distingue des autres PDG par son style vestimentaire décontracté, souvent en cuir. L'auteure suggère que la demande de signature de la femme était probablement motivée par la réussite de Nvidia dans le domaine de l'IA, qui a propulsé l'entreprise à la troisième place des entreprises les plus valorisées du S&P 500, plutôt que par le style de Huang.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 22:01:31 GMT"
-    },
-    {
-        "title": "L'avenir incertain des gadgets d'IA",
-        "link": "https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget#:~:text=and%20zero%20meals.-,Spotify,-was%20the%20integration",
-        "body": "L'article examine l'appareil Rabbit R1, un gadget d'IA de 199 $ qui a été commercialisé comme un assistant IA ultra-intelligent et polyvalent. Cependant, l'auteur trouve que l'appareil est décevant et incapable d'accomplir la plupart des tâches promises. Le modèle d'action à grande échelle (LAM) de Rabbit, qui est censé permettre à l'appareil d'effectuer des tâches en naviguant dans les applications, ne montre aucun signe de fonctionnement. L'appareil ne se connecte qu'à quatre applications et a des problèmes de connexion et de fonctionnalité. L'auteur souligne également les problèmes d'identification visuelle, la mauvaise qualité du microphone et la durée de vie médiocre de la batterie. Malgré un design attrayant et quelques fonctionnalités prometteuses, l'auteur conclut que l'appareil est un pas en arrière par rapport aux smartphones et exprime son scepticisme quant à l'avenir des gadgets d'IA dédiés.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8192x5464/2400x1600/filters:focal(4096x2732:4097x2733):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25477973/2155386223.jpg",
-        "date": "Tue, 04 Jun 2024 19:47:33 GMT"
     }
 ]
