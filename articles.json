@@ -1,13 +1,13 @@
 [
     {
-        "title": "Pourquoi l’exploitation de vos données par l’IA de Facebook est probablement illégale",
+        "title": "Pourquoi l\u2019exploitation de vos donn\u00e9es par l\u2019IA de Facebook est probablement ill\u00e9gale",
         "link": "https://www.frandroid.com/marques/meta/2041314_lexploitation-massive-de-vos-donnees-par-lia-de-facebook-est-tres-probablement-illegale",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/z-8-768x432.jpg?resize=169,169&key=48acc193",
         "date": "Thu, 06 Jun 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Pourquoi le Pixel 8a, le dernier smartphone de Google, est unique sur le marché",
+        "title": "Pourquoi le Pixel 8a, le dernier smartphone de Google, est unique sur le march\u00e9",
         "link": "https://www.frandroid.com/marques/2039028_pourquoi-le-pixel-8a-le-dernier-smartphone-de-google-est-unique-sur-le-marche",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/06052024-dsc02266-768x512.jpg?resize=200,200&key=bda215a2",
         "date": "Thu, 06 Jun 2024 23:00:00 GMT",
@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "L’échec cuisant du Humane AI Pin continue : danger, faible demande et un repreneur potentiel",
+        "title": "L\u2019\u00e9chec cuisant du Humane AI Pin continue : danger, faible demande et un repreneur potentiel",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2041614_lechec-cuisant-du-humane-ai-pin-continue-danger-faible-demande-et-un-repreneur-potentiel",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/04/247075-humane-ai-pin-akrales-0499-768x512.jpg?resize=200,200&key=f9c6cf48",
         "date": "Thu, 06 Jun 2024 23:00:00 GMT",
@@ -82,5 +82,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440561/AI_art_chat_H_Jeong_1.jpg",
         "date": "Fri, 07 Jun 2024 19:37:07 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4032x3024/2400x1600/filters:focal(2016x1512:2017x1513):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481865/FullSizeRender.jpeg",
+        "date": "Fri, 07 Jun 2024 23:15:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg",
+        "date": "Fri, 07 Jun 2024 13:12:07 GMT",
+        "check": "no"
     }
 ]
