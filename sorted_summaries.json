@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'avenir de la cuisine intelligente",
+        "link": "https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future",
+        "body": "L'article résume les discussions du Smart Kitchen Summit, où les intervenants ont souligné l'importance de développer des innovations de cuisine intelligente qui répondent à de véritables problèmes en cuisine, plutôt que de simplement suivre les dernières tendances technologiques. L'accent est mis sur la création de solutions rendant la cuisine plus facile, plus saine et plus personnalisée, avec un rôle clé pour l'IA générative. Les entreprises se concentrent sur l'amélioration des logiciels de cuisine intelligente, avec des plateformes comme Fresco travaillant sur un système d'exploitation universel pour la cuisine. L'auteur décrit sa vision de la cuisine intelligente idéale, qui pourrait gérer la planification des repas, les achats et la préparation des appareils en fonction des ingrédients disponibles. L'article mentionne également plusieurs gadgets de cuisine intelligente, tels qu'un thermomètre à viande intelligent, une cuisinière à induction sans cordon et un robot de cuisine tout-en-un.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4032x3024/2400x1600/filters:focal(2016x1512:2017x1513):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481865/FullSizeRender.jpeg",
+        "date": "Fri, 07 Jun 2024 23:15:00 GMT"
+    },
+    {
         "title": "Clarification des conditions d'utilisation d'Adobe",
         "link": "https://www.theverge.com/2024/6/7/24173838/adobe-tos-update-firefly-generative-ai-trust",
         "body": "Récemment, une mise à jour des conditions d'utilisation d'Adobe a suscité l'indignation en ligne, car elle était interprétée comme permettant à Adobe d'accéder librement au travail de ses utilisateurs pour entraîner ses modèles d'IA. Adobe a publié une déclaration pour répondre à ces préoccupations, affirmant qu'il n'entraîne pas son modèle d'IA Firefly sur le contenu des clients et qu'il ne revendique pas la propriété de leur travail. La mise à jour des conditions d'utilisation comprend une référence à l'utilisation de l'IA et de l'apprentissage automatique pour analyser le contenu, mais cette référence est vague et existe depuis des années. Adobe a reconnu que le libellé de la notification était peu clair et travaille à l'améliorer. La société fait face à des critiques croissantes de la part des créateurs indépendants, qui estiment qu'elle ne défend plus leurs intérêts, notamment en raison de l'abandon des achats uniques au profit d'abonnements récurrents et de sa position dominante sur le marché des logiciels créatifs. Adobe a également développé de nombreux outils et services d'IA générative, ce qui a suscité des inquiétudes chez les professionnels créatifs quant à leur sécurité d'emploi.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440561/AI_art_chat_H_Jeong_1.jpg",
         "date": "Fri, 07 Jun 2024 19:37:07 GMT"
+    },
+    {
+        "title": "Apple Intelligence",
+        "link": "https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot",
+        "body": "Apple va dévoiler son nouveau système d'IA, Apple Intelligence, lors de la WWDC 2024. Ce système proposera de nouvelles fonctionnalités \"bêta\" sur les plateformes et applications Apple, ainsi qu'un chatbot similaire à ChatGPT, développé en collaboration avec OpenAI. Apple se concentrera sur l'ajout de résumés, de suggestions de réponses et une refonte de Siri pour plus de contrôle sur les applications. Les fonctionnalités seront alimentées par la technologie d'Apple et les outils d'OpenAI, avec un algorithme déterminant le traitement local ou distant des tâches. Apple s'engage à protéger la vie privée des utilisateurs, évitant les profils basés sur les données utilisateur et fournissant des rapports sur l'utilisation des données. Les fonctionnalités d'IA seront facultatives et nécessiteront des appareils compatibles M1 ou iPhone 15/16.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951262/VRG_Illo_N_Barclay_1_apple.jpg",
+        "date": "Fri, 07 Jun 2024 13:12:07 GMT"
     },
     {
         "title": "Apple Intelligence",
@@ -68,26 +82,5 @@
         "body": "Les autorités américaines de la concurrence, la FTC et le DOJ, se répartissent les tâches pour enquêter sur d'éventuelles violations des lois antitrust par Microsoft, OpenAI et Nvidia. La FTC se concentre sur les investissements des géants technologiques dans de plus petites entreprises d'IA, tandis que le DOJ examine de près Nvidia, leader dans la fabrication de puces pour l'IA. OpenAI fait déjà l'objet d'une enquête de la FTC sur ses pratiques de collecte de données. De plus, l'investissement de Microsoft dans OpenAI est examiné par les autorités de la concurrence en Europe et au Royaume-Uni. Bien que Nvidia n'ait pas été initialement inclus dans les discussions antitrust aux États-Unis, les autorités françaises ont mené une perquisition dans ses bureaux en 2023 dans le cadre d'une enquête sur des pratiques anticoncurrentielles.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg",
         "date": "Thu, 06 Jun 2024 16:02:33 GMT"
-    },
-    {
-        "title": "Nothing Phone (3) : l'IA au cœur de l'expérience utilisateur",
-        "link": "https://www.frandroid.com/marques/nothing/2040044_le-nothing-phone-3-compte-reinventer-nos-usages-ce-quon-sait-sur-son-interface-boostee-a-lia",
-        "body": "Nothing, la marque cofondée par Carl Pei, se prépare à lancer son prochain smartphone, le Nothing Phone (3), qui intégrera davantage d'intelligence artificielle générative. L'entreprise a annoncé que l'IA jouera un rôle central dans la réinvention de l'interface utilisateur, en particulier l'écran d'accueil, qui pourra afficher des informations contextuelles telles que des codes QR pour les réservations. Nothing envisage également d'utiliser la conversation vocale avec une IA pour configurer le smartphone de manière personnalisée. Le Nothing Phone (3) embarquera un processeur Snapdragon 8s Gen 3 puissant, ce qui entraînera une augmentation du prix par rapport à son prédécesseur.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/nothing-phone-16-photos-test-768x512.jpg?resize=200,200&key=07f77a72",
-        "date": "Thu, 06 Jun 2024 14:09:00 GMT"
-    },
-    {
-        "title": "DuckDuckGo lance des discussions privées avec l'IA",
-        "link": "https://www.theverge.com/2024/6/6/24172719/duckduckgo-private-ai-chats-anonymous-gpt-3-5",
-        "body": "DuckDuckGo, un moteur de recherche axé sur la protection de la vie privée, a lancé une nouvelle fonctionnalité permettant d'accéder de manière anonyme à des modèles d'IA, notamment GPT-3.5 Turbo et Claude 3 Haiku. Les discussions ne sont pas stockées et les entreprises derrière les modèles ne peuvent pas les utiliser pour l'entraînement. DuckDuckGo masque l'adresse IP de l'utilisateur lors des discussions, garantissant ainsi l'anonymat. La politique de confidentialité de DuckDuckGo supprime les métadonnées personnelles et l'entreprise a des accords avec les fournisseurs d'IA pour supprimer les discussions enregistrées dans les 30 jours. La fonctionnalité est gratuite, mais des limites quotidiennes s'appliquent. Des plans payants avec accès à des modèles plus avancés pourraient être proposés à l'avenir.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23932932/acastro_STK117__02.jpg",
-        "date": "Thu, 06 Jun 2024 13:24:21 GMT"
-    },
-    {
-        "title": "HP pourrait acquérir l'activité AI Pin de Humane pour plus de 1 milliard de dollars",
-        "link": "https://www.theverge.com/2024/6/6/24172718/humane-ai-pin-selling-hp-rumor-1-billion",
-        "body": "Selon un rapport du New York Times, HP pourrait être intéressé par l'acquisition de l'activité AI Pin de Humane pour un montant supérieur à 1 milliard de dollars. Cette information fait suite aux rumeurs selon lesquelles Humane chercherait un acheteur pour sa division AI Pin, après que son produit, une broche informatique portable basée sur l'IA, a reçu des critiques largement négatives. Le prix demandé par Humane se situerait entre 750 millions et 1 milliard de dollars, et HP, qui a déjà acquis Palm hardware et son système d'exploitation webOS pour 1,2 milliard de dollars en 2010, semble être un acheteur crédible. Cependant, le produit AI Pin de Humane a connu des problèmes, notamment une durée de vie de batterie médiocre et une consommation d'énergie élevée, ce qui a entraîné un refroidissement du dispositif à l'aide de packs de glace pour le maintenir en marche. Malgré les critiques, Humane, dirigé par d'anciens employés d'Apple, a défendu son produit, préférant l'optimisme à la critique. L'entreprise a tout de même reconnu certains problèmes, envoyant un e-mail aux clients pour les avertir d'un risque potentiel d'incendie lié au boîtier de charge.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379084/247075_Humane_AI_pin_AKrales_0035.jpg",
-        "date": "Thu, 06 Jun 2024 12:36:03 GMT"
     }
 ]
