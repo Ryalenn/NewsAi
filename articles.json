@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment Apple compte utiliser l’IA tout en respectant notre vie privée : voici Private Cloud Compute",
+        "title": "Comment Apple compte utiliser l\u2019IA tout en respectant notre vie priv\u00e9e : voici Private Cloud Compute",
         "link": "https://www.frandroid.com/produits-android/smartphone/2044306_comment-apple-compte-utiliser-lia-tout-en-respectant-notre-vie-privee-voici-private-cloud-compute",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-16-43-screenshot-768x432.jpg?resize=169,169&key=56b5d232",
         "date": "Sun, 09 Jun 2024 23:00:00 GMT",
@@ -243,5 +243,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/665f2e09ff2e7942a6f25ec3/0x0.jpg?format=jpg&crop=1983,1115,x0,y121,safe&width=440",
         "date": "Tue, 11 Jun 2024 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2524x1400/2400x1600/filters:focal(1262x700:1263x701):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25486697/Screenshot_2024_06_11_at_11.38.49_AM.png",
+        "date": "Tue, 11 Jun 2024 16:22:10 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/11/24176127/google-pixel-feature-drop-june-gemini-nano",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2000x1306/2400x1600/filters:focal(1000x653:1001x654):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24993392/DSC05762.jpg",
+        "date": "Tue, 11 Jun 2024 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25345071/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg",
+        "date": "Tue, 11 Jun 2024 14:22:53 GMT",
+        "check": "no"
     }
 ]
