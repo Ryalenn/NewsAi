@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment Apple compte utiliser l’IA tout en respectant notre vie privée : voici Private Cloud Compute",
+        "title": "Comment Apple compte utiliser l\u2019IA tout en respectant notre vie priv\u00e9e : voici Private Cloud Compute",
         "link": "https://www.frandroid.com/produits-android/smartphone/2044306_comment-apple-compte-utiliser-lia-tout-en-respectant-notre-vie-privee-voici-private-cloud-compute",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-16-43-screenshot-768x432.jpg?resize=169,169&key=56b5d232",
         "date": "Sun, 09 Jun 2024 23:00:00 GMT",
@@ -264,5 +264,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25345071/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg",
         "date": "Tue, 11 Jun 2024 14:22:53 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/produits/smartphones/google/1820107-google-pixel-8-pro",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/06052024-dsc02348-768x512.jpg?resize=200,200&key=d4770ca0",
+        "date": "Mon, 10 Jun 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jaymcgregor/2024/06/11/apple-intelligence-ai-ios-18-price-versus-samsung-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6668799a77dcb15a99efc2af/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Jun 2024 17:00:00 GMT",
+        "check": "no"
     }
 ]
