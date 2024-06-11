@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple Intelligence et la guerre des abonnements à l'IA",
+        "link": "https://www.forbes.com/sites/jaymcgregor/2024/06/11/apple-intelligence-ai-ios-18-price-versus-samsung-ai/?ss=ai",
+        "body": "Bien qu'Apple n'ait pas précisé si ses outils d'IA seraient gratuits indéfiniment, l'entreprise affirme actuellement qu'ils sont gratuits sans aucune restriction. Cette situation contraste avec les offres de ses concurrents, qui proposent des fonctionnalités payantes et gratuites, tout en restant vagues sur leurs futurs plans tarifaires. Apple, en tant que nouvel entrant sur le marché de l'IA, pourrait avoir un avantage significatif en proposant des outils d'IA gratuits, ce qui lui permettrait de devancer la concurrence. La stratégie tarifaire d'Apple pour ses autres fonctionnalités avancées, telles que la communication par satellite, pourrait donner un aperçu de ses intentions concernant Apple Intelligence. Pour l'instant, les quatre principaux concurrents s'engagent dans une guerre des prix pour leurs plans d'abonnement à l'IA, et celui qui proposera en premier un plan clair et détaillé pourrait avoir un impact significatif sur le marché.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6668799a77dcb15a99efc2af/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Jun 2024 17:00:00 GMT"
+    },
+    {
         "title": "Apple's AI Energy Drain",
         "link": "https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change",
         "body": "Résumé : Apple a annoncé de nouvelles fonctionnalités d'IA, notamment la création d'images et d'émojis personnalisés, qui pourraient avoir un impact environnemental important en raison de la forte consommation d'énergie de l'IA générative. L'IA de création d'images est particulièrement énergivore, et Apple n'a pas fourni de détails sur la consommation énergétique de ces nouvelles fonctionnalités ni sur leur impact sur ses objectifs climatiques. Les centres de données utilisés pour l'IA ont une forte demande en électricité, et la recherche montre que la création d'images utilise beaucoup plus d'énergie que le tri d'informations ou la génération de texte. Apple a réduit ses émissions de gaz à effet de serre l'année dernière, mais ces nouvelles fonctionnalités d'IA pourraient compliquer la réalisation de ses objectifs de neutralité carbone d'ici 2030.",
@@ -82,6 +89,13 @@
         "body": "Apple a annoncé lors de sa Worldwide Developers Conference qu'iOS 16 permettra aux utilisateurs d'enregistrer et de transcrire automatiquement les appels téléphoniques. Une nouvelle option d'enregistrement apparaîtra dans l'application Téléphone, indiquant aux participants qu'ils sont enregistrés. L'appel est ensuite transcrit dans l'application Notes, où un résumé peut être généré grâce au nouveau système d'IA Apple Intelligence. L'audio peut également être enregistré et transcrit directement dans l'application Notes. Cette fonctionnalité sera disponible en anglais, espagnol, allemand, français, japonais, mandarin, cantonais et portugais. De plus, iOS 16 proposera une page d'accueil personnalisable, des modifications du Centre de contrôle et des améliorations des réponses Tapback.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2658x1588/2400x1600/filters:focal(1329x794:1330x795):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485924/apple_record_transcribe_phone_calls.png",
         "date": "Tue, 11 Jun 2024 00:04:26 GMT"
+    },
+    {
+        "title": "Le Pixel 8 Pro de Google",
+        "link": "https://www.frandroid.com/produits/smartphones/google/1820107-google-pixel-8-pro",
+        "body": "Le dernier smartphone de Google, le Pixel 8 Pro, est un appareil haut de gamme doté de fonctionnalités impressionnantes. Il est équipé de la nouvelle puce Tensor G3, offrant des performances améliorées et une efficacité énergétique grâce à sa gravure en 4 nm. La partie photo bénéficie de nouveautés logicielles, et l'appareil dispose également d'une fonctionnalité unique de thermomètre intégré. Google promet une longue durée de vie avec 7 ans de mises à jour Android, assurant ainsi la pérennité de l'appareil.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/06052024-dsc02348-768x512.jpg?resize=200,200&key=d4770ca0",
+        "date": "Mon, 10 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "Microsoft met fin à son outil de création d'IA personnalisée",
