@@ -75,7 +75,7 @@ def save_to_json(data):
 # Exemple d'URL de site de news
 urls = [
     'https://www.frandroid.com/culture-tech/intelligence-artificielle',
-    'https://www.theverge.com/ai-artificial-intelligence'
+    'https://www.theverge.com/ai-artificial-intelligence',
     'https://www.forbes.com/ai/'
 ]
 
