@@ -1,5 +1,12 @@
 [
     {
+        "title": "La fin d'un litige",
+        "link": "https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped",
+        "body": "Elon Musk a abandonné son procès contre OpenAI et son PDG, Sam Altman, accusant l'entreprise de rupture de contrat et d'abandon présumé de sa mission de créer une technologie d'IA bénéfique pour l'humanité. Le cas a été rejeté sans préjudice, ce qui signifie que Musk peut le déposer à nouveau. La décision de Musk intervient un jour avant une audience prévue au cours de laquelle un juge aurait examiné la demande d'OpenAI de rejeter l'affaire, et un jour après que Musk ait menacé d'interdire les appareils Apple dans ses entreprises si la technologie OpenAI était intégrée aux produits Apple. Le procès alléguait qu'OpenAI avait violé un accord avec Musk et d'autres membres fondateurs, qui s'étaient engagés à faire d'OpenAI une organisation à but non lucratif et à maintenir sa technologie open source. Cependant, il a été souligné que le cas de Musk était faible, car il n'existait aucun contrat formel. OpenAI a nié les allégations, affirmant que Musk cherchait à obtenir un contrôle absolu sur l'entreprise en la fusionnant avec Tesla. Musk a fondé sa propre entreprise d'IA, xAI, qui a créé le chatbot Grok AI. xAI a levé 6 milliards de dollars pour financer ses puces d'IA coûteuses.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg",
+        "date": "Tue, 11 Jun 2024 21:29:42 GMT"
+    },
+    {
         "title": "Apple Intelligence et la guerre des abonnements à l'IA",
         "link": "https://www.forbes.com/sites/jaymcgregor/2024/06/11/apple-intelligence-ai-ios-18-price-versus-samsung-ai/?ss=ai",
         "body": "Bien qu'Apple n'ait pas précisé si ses outils d'IA seraient gratuits indéfiniment, l'entreprise affirme actuellement qu'ils sont gratuits sans aucune restriction. Cette situation contraste avec les offres de ses concurrents, qui proposent des fonctionnalités payantes et gratuites, tout en restant vagues sur leurs futurs plans tarifaires. Apple, en tant que nouvel entrant sur le marché de l'IA, pourrait avoir un avantage significatif en proposant des outils d'IA gratuits, ce qui lui permettrait de devancer la concurrence. La stratégie tarifaire d'Apple pour ses autres fonctionnalités avancées, telles que la communication par satellite, pourrait donner un aperçu de ses intentions concernant Apple Intelligence. Pour l'instant, les quatre principaux concurrents s'engagent dans une guerre des prix pour leurs plans d'abonnement à l'IA, et celui qui proposera en premier un plan clair et détaillé pourrait avoir un impact significatif sur le marché.",
@@ -201,82 +208,5 @@
         "body": "Apple se prépare à une transformation majeure, intégrant l'IA au cœur de ses produits et services, avec l'objectif de rendre ses appareils plus autonomes et intuitifs. La prochaine gamme d'iPhone 16 sera un premier pas dans cette direction, avec une réduction de la dépendance des utilisateurs aux applications. Mark Gurman, spécialiste Apple, prévoit également l'arrivée de robots domestiques, de lunettes de réalité augmentée et de nouveaux AirPods équipés de capteurs de santé. Siri, l'assistant vocal, pourrait être refondu pour devenir le cœur de futurs appareils, comme un robot à écran iPad. Apple se concentre sur le contrôle vocal, les informations contextuelles et une expérience utilisateur plus naturelle. Cependant, la concurrence est rude sur le marché de l'IA, avec des entreprises comme Google, Amazon et Microsoft en tête de course.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/roboyt-768x439.jpeg?resize=171,171&key=784090ee",
         "date": "Mon, 10 Jun 2024 10:52:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une course à l'énergie durable",
-        "link": "https://www.forbes.com/sites/alanohnsman/2024/06/10/desperate-for-power-ai-companies-look-to-the-nuclear-option/?ss=ai",
-        "body": "La demande croissante en électricité des centres de données alimentant l'IA pourrait conduire à une crise énergétique, en particulier avec la dépendance actuelle aux centrales électriques fossiles. NuScale Power propose des réacteurs nucléaires modulaires compacts (SMR) pour alimenter les centres de données, offrant une production d'énergie continue et sans carbone. Les startups de l'IA et du nucléaire s'associent pour répondre à la forte intensité énergétique de l'IA. Les centres de données axés sur l'IA nécessitent une densité énergétique élevée, ce que peuvent offrir les SMR et les centrales nucléaires. Les batteries au sodium de Natron Energy aident à gérer les pics de demande soudains des puces GPU, assurant une distribution stable de l'électricité. Les entreprises explorent également d'autres options, telles que l'énergie géothermique et les piles à combustible alimentées par de l'hydrogène vert, pour alimenter les centres de données de manière durable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66636fe0cb316ca2d2de6d57/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "L'avenir des services financiers avec l'IA generative",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/10/how-generative-ai-will-change-jobs-in-financial-services/?ss=ai",
-        "body": "L'IA generative est sur le point de transformer les services financiers, en automatisant les tâches routinières, en améliorant les processus internes et en augmentant les capacités quotidiennes. La banque et l'assurance sont les secteurs les plus susceptibles d'être touchés, selon un rapport d'Accenture. L'IA generative peut interpréter les données, créer du contenu et automatiser les processus, ce qui aura un impact significatif sur les rôles des professionnels des services financiers.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6666925c67e542cca49d1672/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La guerre de l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2044664_elon-musk-veut-bannir-les-produits-apple-de-ses-entreprises-la-raison-qui-surprend",
-        "body": "Elon Musk a menacé d'interdire les produits Apple dans ses entreprises en raison de l'intégration de ChatGPT d'OpenAI dans les appareils Apple. Musk, co-fondateur d'OpenAI, a des différends avec l'actuel directeur général d'OpenAI, Sam Altman, et s'inquiète de l'utilisation de l'IA dans les produits grand public. Il a même suggéré que les visiteurs de ses entreprises placent leurs appareils Apple dans une cage de Faraday pour bloquer les ondes électromagnétiques. La collaboration entre Apple et OpenAI, ainsi que d'autres modèles de langage et entreprises, pourraient avoir un impact sur l'avenir de l'IA dans les produits grand public.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/04/cyber-rodeo-at-giga-texas-52-49-screenshot-768x432.jpg?resize=169,169&key=270570dc",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : l'IA au cœur des nouveautés Apple",
-        "link": "https://www.frandroid.com/marques/apple/2044130_siri-lassistant-dapple-devient-bien-plus-poussee-grace-a-lia-sur-iphone-mac-et-ipad",
-        "body": "Apple a dévoilé lors de sa conférence WWDC 2024 les avancées de son système d'intelligence artificielle, Apple Intelligence, avec un focus particulier sur l'assistant vocal Siri. La nouvelle version de Siri, désormais alimentée par Apple Intelligence, offre une meilleure compréhension des utilisateurs, y compris en cas d'erreurs de langage ou de bafouillements. Siri peut également comprendre le contexte des questions et interagir par écrit. De plus, il peut comprendre ce qui est affiché à l'écran, naviguer entre les applications et interpréter le contexte personnel de l'utilisateur. Ces mises à jour seront disponibles avec les nouveaux logiciels Apple iOS 18, macOS Sequoia et iPadOS 18.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/4d9vmqkecg-768x432.jpg?resize=169,169&key=3fd74c08",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : la stratégie IA d'Apple",
-        "link": "https://www.frandroid.com/produits-android/smartphone/2044306_comment-apple-compte-utiliser-lia-tout-en-respectant-notre-vie-privee-voici-private-cloud-compute",
-        "body": "Lors de la WWDC 2024, Apple a dévoilé sa stratégie en matière d'intelligence artificielle, nommée Apple Intelligence. Cette technologie permet au système de récupérer des données personnelles importantes pour mieux comprendre l'utilisateur et l'aider dans diverses tâches. Apple met l'accent sur la sécurité et la protection de la vie privée, en traitant les données localement et en utilisant Private Cloud Compute, une solution IA dans le cloud avec des serveurs et des puces maison, pour les modèles plus importants. Les données ne sont pas stockées sur les serveurs et sont chiffrées pour plus de sécurité. La marque réaffirme ainsi son engagement envers la protection des données privées tout en faisant un pas vers le traitement de davantage de données personnelles pour l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-16-43-screenshot-768x432.jpg?resize=169,169&key=56b5d232",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : la nouvelle ère de l'IA chez Apple",
-        "link": "https://www.frandroid.com/marques/apple/2044170_apple-intelligence-devoilee-la-grande-nouvelle-etape-de-la-marque",
-        "body": "Apple Intelligence est la nouvelle avancée majeure de la marque, présentée à la WWDC. Il s'agit d'un système d'IA générative qui sera intégré aux iPhone, iPad et Mac dès cette année. Apple utilisera le processeur spécialisé (NPU) de ses appareils pour exécuter l'IA localement, tout en garantissant la confidentialité des utilisateurs. L'objectif est d'offrir des fonctions d'IA qui connaissent mieux l'utilisateur, tout en protégeant sa vie privée. Apple Intelligence améliorera diverses applications de la marque, y compris Siri.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/uzpud32gsn-768x432.png?resize=169,169&key=fa341bf7",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
-        "body": "Apple a dévoilé ses plans pour l'IA lors de la WWDC 2024, présentant \"Apple Intelligence\" comme une étape majeure. L'entreprise a mis l'accent sur l'utilisation responsable de l'IA, introduisant Private Cloud Compute, qui permettrait d'exploiter l'IA tout en protégeant la vie privée des utilisateurs. De plus, Siri a été amélioré, devenant plus intelligent et plus capable. Apple a également annoncé de nouveaux produits, dont l'iPhone 16, des robots domestiques et des lunettes de réalité augmentée, tous intégrant des fonctionnalités d'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/intelligence-artificielle-salon-tech-768x578.jpg?resize=226,226&key=d6d2c06c",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA : Google contre Microsoft",
-        "link": "https://www.frandroid.com/marques/google/2043148_google-pourrait-depasser-microsoft-malgre-son-retard-sur-lia",
-        "body": "Le PDG de la société de sécurité Okta, Todd McKinnon, a partagé son avis sur la course à l'IA entre Google et Microsoft. Bien que Microsoft ait investi massivement dans OpenAI et soit actuellement leader dans le domaine, McKinnon pense que Google pourrait prendre l'avantage à long terme. Il souligne que Google est à l'origine des modèles de deep learning utilisés pour produire du contexte et donner du sens, et que la société a choisi de garder cette recherche en interne. De plus, Microsoft dépend actuellement des innovations d'OpenAI, qui pourrait vendre ses technologies à des concurrents. Le secteur de l'IA a bénéficié d'investissements colossaux de la part des géants de la tech, ce qui pourrait à terme restreindre la recherche à ces grandes entreprises.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-768x432.jpg?resize=169,169&key=3daa670a",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple présente ses dernières innovations en IA",
-        "link": "https://www.frandroid.com/marques/apple/2042766_keynote-apple-comment-suivre-la-wwdc-2024-en-direct",
-        "body": "Lors de la WWDC 2024, Apple a dévoilé ses dernières avancées en matière d'intelligence artificielle. La firme a introduit iOS 18, mettant en avant les capacités améliorées de Siri et présentant Apple Intelligence, une suite de fonctionnalités IA destinées à améliorer l'expérience utilisateur sur iPhone, iPad et Mac. De plus, Apple a annoncé une mise à jour de son Apple Vision Pro avec visionOS 2. La keynote a également abordé d'autres sujets tels qu'iPadOS, macOS et un potentiel partenariat avec OpenAI.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/keynote-apple-wwdc-2024-ok-768x432.jpg?resize=169,169&key=091a6d13",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Photos devient « magique » grâce à l'IA",
-        "link": "https://www.frandroid.com/android/applications/2042500_google-photos-devient-magique-sur-les-smartphones-samsung-comment-profiter-des-fonctions-ia",
-        "body": "Google déploie ses outils de retouche photo assistée par IA, Magic Editor, sur les smartphones Samsung. Cet outil permet de modifier des éléments d'une image, d'en changer la colorimétrie, et même de déplacer des sujets. Initialement réservé aux Pixel 8 et 8 Pro, Magic Editor est désormais disponible sur la plupart des modèles Samsung compatibles. L'utilisation de l'outil nécessite un abonnement Google One à 10 euros par mois, et les photos doivent être sauvegardées sur Google Photos.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/05/sk3kwi5rvj-768x430.jpg?resize=168,168&key=20b19cb0",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Windows 11 Recall",
-        "link": "https://www.frandroid.com/marques/microsoft/2042428_windows-11-microsoft-renonce-a-prendre-des-captures-decran-de-tout-ce-que-vous-faites-sur-votre-pc",
-        "body": "Microsoft a annoncé qu'il ne lancerait pas sa fonctionnalité Recall pour Windows 11 par défaut, suite à des controverses concernant la sécurité et la vie privée. Recall, une IA qui enregistre l'activité de l'utilisateur, sera désormais optionnelle et nécessitera une réauthentification pour y accéder. Microsoft a également ajouté un chiffrement à la base de données de l'outil pour répondre aux inquiétudes concernant la sécurité des données. Ces changements sont une réponse aux critiques sur le manque de protection des informations sensibles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/RecallS-768x432.webp?resize=169,169&key=547dc089",
-        "date": "Sun, 09 Jun 2024 23:00:00 GMT"
     }
 ]
