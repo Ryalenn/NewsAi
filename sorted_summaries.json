@@ -7,6 +7,27 @@
         "date": "Wed, 12 Jun 2024 04:00:00 GMT"
     },
     {
+        "title": "Apple s'ouvre à l'IA",
+        "link": "https://www.frandroid.com/marques/apple/2045618_pourquoi-google-gemini-pourrait-bien-sinviter-sur-iphone",
+        "body": "Lors de la WWDC 2024, Apple a annoncé son entrée dans le domaine de l'IA avec iOS 18, présentant à la fois son propre système d'IA, Apple Intelligence, et un partenariat avec OpenAI pour intégrer ChatGPT. Craig Federighi, vice-président de l'ingénierie logicielle chez Apple, a également mentionné la possibilité d'intégrer d'autres modèles d'IA à l'avenir, comme Gemini de Google. Apple prévoit de permettre aux utilisateurs de choisir parmi différents modèles d'IA, en fonction de leurs tâches et préférences. L'entreprise assure également que les données personnelles des utilisateurs ne seront pas exploitées au-delà de l'accomplissement des tâches demandées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ihqkowgxze-768x432.jpg?resize=169,169&key=2bf6de9d",
+        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "La course aux processeurs ARM pour PC",
+        "link": "https://www.frandroid.com/marques/mediatek-materiels-accessoires/2046362_les-pc-a-lia-sont-encore-tres-chers-mais-cela-ne-devrait-pas-durer",
+        "body": "L'article discute de l'entrée de MediaTek dans le marché des processeurs ARM pour PC, actuellement dominé par Qualcomm et Microsoft. MediaTek, connu pour ses processeurs ARM pour smartphones, vise à proposer des alternatives plus abordables aux puces Qualcomm dans les PC Windows. Bien que Microsoft ait un contrat d'exclusivité avec Qualcomm jusqu'à début 2025, l'expiration de ce contrat ouvre la porte à MediaTek pour stimuler la concurrence et potentiellement réduire les prix des PC ARM. Nvidia et AMD sont également mentionnés comme des acteurs potentiels dans la course aux processeurs ARM, ce qui pourrait intensifier la concurrence face aux puces Apple Silicon. Le succès de la transition de Microsoft vers la plateforme ARM dépendra en partie du prix des machines Windows Copilot+.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/microsoft-surface-laptop-768x576.jpg?resize=225,225&key=427d8cf1",
+        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Les dangers de l'apprentissage par renforcement pour l'IA",
+        "link": "https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue",
+        "body": "Bien que divertissante, l'anecdote de l'IA de Google suggérant d'ajouter de la colle à une pizza met en lumière un problème potentiel dans la façon dont l'IA apprend à partir de données. Chaque fois qu'un journaliste souligne une erreur de l'IA de Google, il contribue involontairement à l'apprentissage de l'IA pour qu'elle fasse la même erreur à l'avenir. Ce phénomène rappelle le \"Google bombing\" des années 2000, où les résultats de recherche étaient manipulés par des liens fréquents entre des mots et des sites web spécifiques. De plus, l'IA de Google peine désormais à répondre à des questions sur ses propres produits, comme activer les captures d'écran dans le mode Incognito de Chrome. Bien que drôles, ces lacunes soulignent les dangers potentiels de l'apprentissage par renforcement pour l'IA, qui peut assimiler et reproduire des informations incorrectes ou trompeuses.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1026x536:1027x537):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362060/STK_414_AI_CHATBOT_R2_CVirginia_C.jpg",
+        "date": "Tue, 11 Jun 2024 22:24:47 GMT"
+    },
+    {
         "title": "La fin d'un litige",
         "link": "https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped",
         "body": "Elon Musk a abandonné son procès contre OpenAI et son PDG, Sam Altman, accusant l'entreprise de rupture de contrat et d'abandon présumé de sa mission de créer une technologie d'IA bénéfique pour l'humanité. Le cas a été rejeté sans préjudice, ce qui signifie que Musk peut le déposer à nouveau. La décision de Musk intervient un jour avant une audience prévue au cours de laquelle un juge aurait examiné la demande d'OpenAI de rejeter l'affaire, et un jour après que Musk ait menacé d'interdire les appareils Apple dans ses entreprises si la technologie OpenAI était intégrée aux produits Apple. Le procès alléguait qu'OpenAI avait violé un accord avec Musk et d'autres membres fondateurs, qui s'étaient engagés à faire d'OpenAI une organisation à but non lucratif et à maintenir sa technologie open source. Cependant, il a été souligné que le cas de Musk était faible, car il n'existait aucun contrat formel. OpenAI a nié les allégations, affirmant que Musk cherchait à obtenir un contrôle absolu sur l'entreprise en la fusionnant avec Tesla. Musk a fondé sa propre entreprise d'IA, xAI, qui a créé le chatbot Grok AI. xAI a levé 6 milliards de dollars pour financer ses puces d'IA coûteuses.",
