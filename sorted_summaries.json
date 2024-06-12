@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'art et la science de la réduction de la latence dans l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/12/speeding-up-the-response-time-of-your-prompts-can-be-accomplished-via-these-clever-prompt-engineering-techniques/?ss=ai",
+        "body": "Résumé : \n\nCet article explore les stratégies pour réduire la latence et augmenter la vitesse de réponse de l'IA générative. Il couvre des sujets tels que la compréhension des compromis entre vitesse et qualité, les facteurs influençant la latence et la vitesse, les techniques de rédaction de prompts pour améliorer les performances, et fournit des conseils pratiques pour obtenir des réponses rapides et de haute qualité. L'IA générative, comme ChatGPT, peut être optimisée pour des réponses plus rapides en utilisant des prompts clairs, concis et spécifiques, en limitant la longueur et la complexité des prompts, et en utilisant des instructions pour guider l'IA. La réduction de la latence est un équilibre entre la vitesse et la qualité, et les utilisateurs doivent être conscients des compromis potentiels.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2133,1599,x596,y24,safe&width=440",
+        "date": "Wed, 12 Jun 2024 12:00:00 GMT"
+    },
+    {
         "title": "AI Hallucinations: Navigating the Pitfalls and Promises",
         "link": "https://www.forbes.com/sites/shashankagarwal/2024/06/12/battling-ai-hallucinations--detect-and-defeat-false-positives/?ss=ai",
         "body": "Le texte met en lumière les avantages de l'IA dans divers secteurs, notamment la santé, mais souligne également un inconvénient majeur : les hallucinations. Les hallucinations de l'IA se produisent lorsqu'un modèle fournit des informations incorrectes, ce qui peut conduire à de mauvaises décisions et à des conséquences médicales négatives. Ce problème persiste et entrave l'adoption de l'IA, en particulier dans les secteurs hautement réglementés. Les professionnels de la santé utilisent des plateformes d'IA comme ChatGPT et Claude pour analyser de grands ensembles de données, accélérer la prise de décision et améliorer la précision des diagnostics. Cependant, le risque de hallucinations soulève des inquiétudes quant à la diffusion de désinformations. Les développeurs d'IA reconnaissent que leurs modèles peuvent produire du contenu réaliste mais inexact, appelé « erreurs avec confiance ». Pour naviguer dans ces pièges, il est essentiel de maintenir un élément humain dans la boucle, garantissant ainsi une surveillance robuste et une vérification des informations générées par l'IA. Les organisations devraient également s'efforcer de sensibiliser aux progrès de l'IA, y compris aux hallucinations, et améliorer la précision de leurs sources de données. Une collaboration entre cliniciens et experts en IA est nécessaire pour créer des ensembles de données divers et représentatifs, améliorant ainsi la fiabilité et la sécurité des patients. L'IA est un outil puissant, mais elle ne doit pas remplacer les qualités humaines essentielles à la réussite des systèmes de santé. Une synergie entre l'IA et les humains est cruciale pour atténuer les dangers des hallucinations.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666925610efb2af1a0be6e9e/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Jun 2024 04:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence : une mise à niveau de Siri réservée aux appareils haut de gamme",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2047186_des-produits-apple-laisses-pour-compte-avec-larrivee-dapple-intelligence",
+        "body": "Lors de la WWDC, Apple a présenté son nouveau système d'intelligence artificielle, Apple Intelligence, qui améliorera considérablement les capacités de Siri. Cependant, ces améliorations seront limitées aux iPhone 15 Pro et aux Mac équipés de la puce M. Les appareils Apple plus anciens, y compris les HomePod, ne bénéficieront pas de ces mises à niveau en raison de leurs puces limitées. La société n'a pas annoncé de plans pour renouveler ces appareils, suggérant que l'IA d'Apple restera confinée aux nouveaux appareils haut de gamme.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/famille-apple-768x351.jpg?resize=300,300&key=eeff23e4",
+        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Les dangers de l'IA de Google",
+        "link": "https://www.frandroid.com/marques/google/2046484_lia-de-google-continue-ses-betises-en-citant-des-journalistes-qui-les-denoncent",
+        "body": "L'IA de Google, Google AI Overview, est au cœur d'une controverse. Malgré les critiques, elle continue à fournir des recommandations dangereuses, comme ajouter de la colle sur une pizza. Ironiquement, elle se nourrit maintenant des articles qui la dénoncent, en reprenant des contenus de presse critiques envers elle. Cela soulève des inquiétudes quant au respect du contexte et à la véracité des informations qu'elle fournit. Bien que Google ait pris des mesures pour réduire la fréquence de ces réponses erronées, l'IA continue à donner des indications dangereuses et trompeuses.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/google-ai-overview-768x432.jpg?resize=169,169&key=9c088d6e",
+        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "Apple s'ouvre à l'IA",
@@ -126,6 +147,13 @@
         "date": "Tue, 11 Jun 2024 00:12:52 GMT"
     },
     {
+        "title": "Elephant Talk Decoded with AI",
+        "link": "https://www.theverge.com/2024/6/10/24175739/using-ai-to-find-elephant-names",
+        "body": "Une nouvelle étude publiée dans Nature a utilisé l'apprentissage automatique pour identifier un « élément similaire à un nom » dans les grondements des éléphants. Le modèle d'IA a pu identifier quel éléphant était adressé dans 27,5 % des cas, et ces appels pouvaient susciter une réaction de l'éléphant en question. Les chercheurs ont découvert que les éléphants n'imitent pas simplement le son associé à l'individu qu'ils appellent, suggérant que leurs appels contiennent potentiellement d'autres types d'étiquettes ou de descripteurs.",
+        "image": "",
+        "date": "Tue, 11 Jun 2024 00:04:26 GMT"
+    },
+    {
         "title": "Nouvelles fonctionnalités iOS 16",
         "link": "https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence",
         "body": "Apple a annoncé lors de sa Worldwide Developers Conference qu'iOS 16 permettra aux utilisateurs d'enregistrer et de transcrire automatiquement les appels téléphoniques. Une nouvelle option d'enregistrement apparaîtra dans l'application Téléphone, indiquant aux participants qu'ils sont enregistrés. L'appel est ensuite transcrit dans l'application Notes, où un résumé peut être généré grâce au nouveau système d'IA Apple Intelligence. L'audio peut également être enregistré et transcrit directement dans l'application Notes. Cette fonctionnalité sera disponible en anglais, espagnol, allemand, français, japonais, mandarin, cantonais et portugais. De plus, iOS 16 proposera une page d'accueil personnalisable, des modifications du Centre de contrôle et des améliorations des réponses Tapback.",
@@ -243,19 +271,5 @@
         "body": "L'article explore la façon dont la structure bipartite de notre cerveau, avec ses hémisphères gauche et droit, influence le développement et l'utilisation de l'IA. Il suggère que l'IA créative, souvent associée à l'hémisphère droit, est actuellement la plus utilisée dans les entreprises, tandis que l'IA analytique, associée à l'hémisphère gauche, a un énorme potentiel pour soutenir les objectifs commerciaux clés. L'étude de Pega révèle que deux répondants sur cinq utilisent l'IA générative pour des tâches créatives ou d'amélioration de la productivité, tandis que moins d'un tiers utilisent principalement des outils d'aide à la décision IA analytique. L'article suggère que l'enthousiasme pour l'IA générative pourrait ouvrir la voie à une adoption plus large de l'IA analytique, permettant aux entreprises d'appliquer l'IA à la fois à la création de contenu créatif et à la prise de décisions stratégiques. L'article souligne également l'importance de la transparence de l'IA et de la compréhension de ses mécanismes pour renforcer la confiance dans la technologie. Enfin, il présente la vision de Pega sur l'avenir de l'IA, axée sur l'intégration de l'IA dans les processus et les flux de travail pour améliorer l'expérience client sur plusieurs canaux.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66663158caa110a16e7bd978/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Jun 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Siri, prends le volant",
-        "link": "https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024",
-        "body": "Résumé : \n\nL'article explore l'état actuel de l'IA dans la technologie mobile, en soulignant les promesses non tenues et les fonctionnalités limitées des assistants IA actuels. Apple, lors de sa conférence annuelle pour développeurs, se prépare à présenter ses dernières avancées en matière d'IA, avec un accent particulier sur l'amélioration de Siri. Bien qu'Apple soit en retard sur des entreprises comme Google et Microsoft en matière d'IA, sa maîtrise à la fois du matériel et du logiciel pourrait lui donner un avantage significatif. La collaboration potentielle avec OpenAI est également mentionnée, bien que des préoccupations en matière de confidentialité puissent compliquer cette relation. L'auteur suggère qu'Apple a une opportunité significative de faire avancer l'IA sur les appareils mobiles, en particulier avec l'amélioration de Siri, qui pourrait enfin réaliser les promesses de longue date des assistants virtuels.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25480776/STK469_WWDC_2_2024_A.jpg",
-        "date": "Mon, 10 Jun 2024 12:00:00 GMT"
-    },
-    {
-        "title": "Apple se tourne vers l'IA",
-        "link": "https://www.frandroid.com/marques/apple/2042514_un-nouveau-apple-arrive-de-liphone-16-aux-robots-domestiques-en-passant-par-lunettes-de-realite-augmentee",
-        "body": "Apple se prépare à une transformation majeure, intégrant l'IA au cœur de ses produits et services, avec l'objectif de rendre ses appareils plus autonomes et intuitifs. La prochaine gamme d'iPhone 16 sera un premier pas dans cette direction, avec une réduction de la dépendance des utilisateurs aux applications. Mark Gurman, spécialiste Apple, prévoit également l'arrivée de robots domestiques, de lunettes de réalité augmentée et de nouveaux AirPods équipés de capteurs de santé. Siri, l'assistant vocal, pourrait être refondu pour devenir le cœur de futurs appareils, comme un robot à écran iPad. Apple se concentre sur le contrôle vocal, les informations contextuelles et une expérience utilisateur plus naturelle. Cependant, la concurrence est rude sur le marché de l'IA, avec des entreprises comme Google, Amazon et Microsoft en tête de course.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/roboyt-768x439.jpeg?resize=171,171&key=784090ee",
-        "date": "Mon, 10 Jun 2024 10:52:00 GMT"
     }
 ]
