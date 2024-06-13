@@ -1,5 +1,12 @@
 [
     {
+        "title": "La percée dans le traitement de la maladie oculaire Demodex blepharitis",
+        "link": "https://www.forbes.com/sites/alexknapp/2024/06/12/innovationrx-tarsus-pharmaceuticals-takes-aim-at-disease-causing-bugs/?ss=ai",
+        "body": "Résumé : Un nouveau traitement sous forme de gouttes ophtalmiques, Xdemvy, développé par Tarsus Pharmaceuticals, a été approuvé par la FDA en juillet de l'année dernière pour traiter la maladie oculaire Demodex blepharitis, causée par de petits acariens qui s'introduisent dans la paupière. Ce traitement a permis d'obtenir des revenus importants pour l'entreprise et a aidé plus de 26 000 patients. Tarsus développe également un comprimé pour prévenir la maladie de Lyme après une exposition aux tiques, ainsi que des médicaments pour réduire la transmission du paludisme et traiter d'autres maladies causées par les acariens. L'article mentionne également d'autres avancées dans le domaine médical, notamment dans le traitement de la maladie d'Alzheimer, l'utilisation de thérapies numériques et les investissements dans les startups de sciences de la vie.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/666a1df6f0243545f49d23a5/0x0.jpg?format=jpg&crop=2830,1465,x120,y45,safe&width=440",
+        "date": "Wed, 12 Jun 2024 22:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'informatique sans serveur et de l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2024/06/12/inventor-or-relational-database-on-new-ai-based-serverless-systems/?ss=ai",
         "body": "L'article explore les avantages de combiner l'informatique sans serveur et l'intelligence artificielle (IA) pour améliorer les opérations logicielles et système. L'informatique sans serveur, un type d'informatique à la demande basée sur le cloud, offre aux entreprises une flexibilité et une évolutivité accrues, leur permettant d'acheter des fonctionnalités selon leurs besoins sans abonnement à durée déterminée. L'IA, quant à elle, dirige les opérations orchestrées payées en unités discrètes, améliorant ainsi l'efficacité et la rentabilité. Michael Stonebraker, un expert en la matière, suggère de structurer les applications sous forme de graphes et d'utiliser le stockage d'objets pour les charges de travail, ce qui permet de ne payer que pour l'informatique utilisée. Cette approche améliore la sauvegarde et la récupération des processus, garantissant la continuité des transactions même en cas de panne. De plus, l'IA peut spécifier un protocole appelé OAOO (« une seule fois »), améliorant ainsi l'efficacité dans des industries traditionnelles comme la banque. Stonebraker mentionne également « time travel debugging », une technique de garantie de qualité efficace qui contribue à créer des systèmes plus robustes et plus sécurisés. La combinaison de ces technologies offre un gain de performance considérable, ce que les experts appellent « un ordre de grandeur ».",
@@ -26,6 +33,13 @@
         "body": "L'IA transforme les projets estivaux des familles, en proposant des activités adaptées aux intérêts et passions uniques de chaque enfant. L'IA générative (GenAI) analyse les données sur les intérêts, l'âge et l'emplacement pour suggérer des activités personnalisées, allant des cours d'art locaux aux camps scientifiques. GenAI va au-delà des recommandations de base, en affinant les suggestions en fonction d'intérêts nuancés. Par exemple, pour un enfant passionné par l'espace, l'IA peut proposer un club d'astronomie local ou un camp spatial virtuel animé par de vrais astronautes. De plus, GenAI encourage la collaboration entre parents et enfants lors de la planification des activités, créant ainsi une expérience de liaison. En regardant vers l'avenir, l'IA pourrait également aider dans le soutien éducatif, l'exploration de passe-temps et la gestion des horaires familiaux. L'IA a le potentiel d'enrichir la vie des enfants en créant des étés remplis de joie, d'apprentissage et d'aventures adaptées à leurs intérêts individuels.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6669d2ceed2843cd898f83ad/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Jun 2024 20:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence : une mise à jour majeure de l'IA pour l'iPhone, l'iPad et le Mac",
+        "link": "https://www.theverge.com/2024/6/10/24171999/apple-wwdc-2024-news-rumors-announcements-ios-18-ai",
+        "body": "Lors de la WWDC 2024, Apple a présenté Apple Intelligence, sa vision d'un système d'IA qui couvre l'iPhone, l'iPad et le Mac. Les fonctionnalités les plus importantes incluent la gestion des notifications, la rédaction automatique de réponses aux e-mails et le résumé de textes. Siri bénéficie également d'une mise à niveau importante grâce à l'IA, avec un meilleur contrôle des applications et une intégration prévue avec ChatGPT. D'autres fonctionnalités d'Apple Intelligence, alimentées par le traitement sur l'appareil et un système informatique en nuage « privé », incluent la création d'émojis personnalisés et la suppression des arrière-plans des photos. Apple a également annoncé une interface iPhone plus personnalisable, RCS pour Messages, une application Calculatrice pour l'iPad et des mises à jour pour visionOS.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25356892/STK469_WWDC_2024_C.jpg",
+        "date": "Wed, 12 Jun 2024 17:15:51 GMT"
     },
     {
         "title": "Cybersecurity Powerhouse",
@@ -61,6 +75,13 @@
         "body": "Résumé : \n\nCet article explore les stratégies pour réduire la latence et augmenter la vitesse de réponse de l'IA générative. Il couvre des sujets tels que la compréhension des compromis entre vitesse et qualité, les facteurs influençant la latence et la vitesse, les techniques de rédaction de prompts pour améliorer les performances, et fournit des conseils pratiques pour obtenir des réponses rapides et de haute qualité. L'IA générative, comme ChatGPT, peut être optimisée pour des réponses plus rapides en utilisant des prompts clairs, concis et spécifiques, en limitant la longueur et la complexité des prompts, et en utilisant des instructions pour guider l'IA. La réduction de la latence est un équilibre entre la vitesse et la qualité, et les utilisateurs doivent être conscients des compromis potentiels.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/65e29a2096f0ef52cfef1c7d/0x0.jpg?format=jpg&crop=2133,1599,x596,y24,safe&width=440",
         "date": "Wed, 12 Jun 2024 12:00:00 GMT"
+    },
+    {
+        "title": "Waymo Recall",
+        "link": "https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map",
+        "body": "Résumé : Waymo effectue un rappel logiciel volontaire après une collision entre l'un de ses véhicules autonomes et un poteau téléphonique à Phoenix, en Arizona. Le rappel concerne 672 véhicules et corrige une erreur de logiciel qui a attribué un faible niveau de dommage au poteau téléphonique, ainsi qu'une mise à jour de la carte pour prendre en compte le bord de la route dans l'allée. C'est le deuxième rappel de Waymo, soulignant l'attention accrue portée par les régulateurs à l'industrie des véhicules autonomes. L'incident a mis en évidence l'importance de la cartographie précise et de la détection des obstacles pour la sécurité des véhicules autonomes. Waymo adopte une approche proactive en matière de sécurité, déployant des mises à jour logicielles et cartographiques dans l'ensemble de sa flotte, tout en faisant face à une enquête de la NHTSA sur plusieurs incidents impliquant ses véhicules autonomes.",
+        "image": "",
+        "date": "Wed, 12 Jun 2024 10:00:00 GMT"
     },
     {
         "title": "AI Hallucinations: Navigating the Pitfalls and Promises",
@@ -105,6 +126,13 @@
         "date": "Tue, 11 Jun 2024 23:00:00 GMT"
     },
     {
+        "title": "Les géants de la tech adoptent l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques, comme Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur l'IA plus accessible au grand public. L'article explore le fonctionnement de ces modèles linguistiques massifs et les défis associés, tels que la présentation d'informations fausses comme vraies. Il souligne également l'évolution du paysage de l'IA, avec des exemples tels que les résultats de recherche Google suggérant d'ajouter de la colle à une pizza, et les dernières fonctionnalités d'IA de Google et d'Apple pour leurs appareils Pixel et iPhone. L'article mentionne également les préoccupations concernant les hallucinations de l'IA, même le PDG d'Apple, Tim Cook, admettant que leur système pourrait ne pas être à 100 % précis. D'autres sections abordent les plans d'IA de Siri d'Apple, les publicités LLM de Google, les partenariats d'IA d'Apple avec OpenAI et Google, et les utilisations créatives de l'IA, telles que la génération de sons et d'effets sonores. Enfin, il mentionne les efforts de Gannett pour ajouter des points clés générés par l'IA aux articles de journalistes et le partenariat d'OpenAI avec News Corp et Reddit pour améliorer ses produits d'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Tue, 11 Jun 2024 22:24:47 GMT"
+    },
+    {
         "title": "Les dangers de l'apprentissage par renforcement pour l'IA",
         "link": "https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue",
         "body": "Bien que divertissante, l'anecdote de l'IA de Google suggérant d'ajouter de la colle à une pizza met en lumière un problème potentiel dans la façon dont l'IA apprend à partir de données. Chaque fois qu'un journaliste souligne une erreur de l'IA de Google, il contribue involontairement à l'apprentissage de l'IA pour qu'elle fasse la même erreur à l'avenir. Ce phénomène rappelle le \"Google bombing\" des années 2000, où les résultats de recherche étaient manipulés par des liens fréquents entre des mots et des sites web spécifiques. De plus, l'IA de Google peine désormais à répondre à des questions sur ses propres produits, comme activer les captures d'écran dans le mode Incognito de Chrome. Bien que drôles, ces lacunes soulignent les dangers potentiels de l'apprentissage par renforcement pour l'IA, qui peut assimiler et reproduire des informations incorrectes ou trompeuses.",
@@ -124,6 +152,13 @@
         "body": "Titre : La révolution de l'écriture",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6668bc9a32724acb50e470f9/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Jun 2024 21:00:00 GMT"
+    },
+    {
+        "title": "Cruise Control",
+        "link": "https://www.theverge.com/2024/6/11/24176206/gm-cruise-invest-850-million-operational-cost-houston",
+        "body": "General Motors investit 850 millions de dollars dans Cruise, une entreprise de robotaxis, pour couvrir les coûts opérationnels après la suspension de son service suite à un accident impliquant un piéton. L'investissement a été annoncé par le directeur financier de GM lors d'une conférence à New York. Cruise a été déficitaire pour GM, avec des pertes de 8,2 milliards de dollars depuis 2017. L'entreprise a connu un incident en 2023 où un véhicule sans conducteur a blessé une piétonne. Suite à cela, Cruise a lancé une révision de sécurité, embauché de nouveaux dirigeants et réduit ses effectifs. GM reste engagé envers Cruise malgré les difficultés, espérant un retour sur investissement. Cruise reprend lentement ses activités avec des véhicules autonomes supervisés dans plusieurs villes américaines, notamment Houston, Phoenix et Dallas.",
+        "image": "",
+        "date": "Tue, 11 Jun 2024 17:36:56 GMT"
     },
     {
         "title": "Apple Intelligence et la guerre des abonnements à l'IA",
@@ -201,54 +236,5 @@
         "body": "Résumé : Apple a dévoilé sa stratégie d'intégration de l'IA générative dans ses produits lors de sa conférence WWDC 2024, confirmant un partenariat avec OpenAI pour intégrer ChatGPT dans ses appareils. Cette annonce a suscité la colère d'Elon Musk, qui a qualifié le partenariat de « violation de sécurité inacceptable » et a menacé d'interdire les appareils Apple dans ses entreprises. Les actions d'Apple ont chuté lors des échanges avant l'ouverture du marché, poursuivant une tendance à la baisse, alors que l'entreprise était perçue comme à la traîne par rapport à ses concurrents dans le domaine de l'IA. Apple a également annoncé des mises à jour logicielles pour l'iPhone et des améliorations pour son casque de réalité mixte Vision Pro.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66681efd4ad7411b7d225ed2/0x0.jpg?format=jpg&crop=1945,1095,x0,y99,safe&width=440",
         "date": "Tue, 11 Jun 2024 10:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : une mise à jour majeure de l'IA pour iPhone, iPad et Mac",
-        "link": "https://www.theverge.com/2024/6/10/24171999/apple-wwdc-2024-news-rumors-announcements-ios-18-ai",
-        "body": "Apple a dévoilé Apple Intelligence lors de sa conférence WWDC 2024, une mise à jour majeure de son système d'IA qui couvre l'iPhone, l'iPad et le Mac. Les nouvelles fonctionnalités incluent la gestion des notifications, la rédaction automatique de réponses aux e-mails et la synthèse de texte. Siri bénéficie également d'une mise à niveau importante grâce à l'IA, avec un meilleur contrôle des applications et une intégration prévue avec ChatGPT. D'autres fonctionnalités, telles que la création d'émojis personnalisés et la suppression des arrière-plans de photos, sont également proposées. Apple Intelligence utilise à la fois le traitement sur l'appareil et un système de cloud computing « privé ». De plus, Apple a annoncé une interface iPhone plus personnalisable, le support RCS pour Messages et de nouvelles fonctionnalités pour ses autres systèmes d'exploitation.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25356892/STK469_WWDC_2024_C.jpg",
-        "date": "Tue, 11 Jun 2024 00:12:52 GMT"
-    },
-    {
-        "title": "Elephant Talk Decoded with AI",
-        "link": "https://www.theverge.com/2024/6/10/24175739/using-ai-to-find-elephant-names",
-        "body": "Une nouvelle étude publiée dans Nature a utilisé l'apprentissage automatique pour identifier un « élément similaire à un nom » dans les grondements des éléphants. Le modèle d'IA a pu identifier quel éléphant était adressé dans 27,5 % des cas, et ces appels pouvaient susciter une réaction de l'éléphant en question. Les chercheurs ont découvert que les éléphants n'imitent pas simplement le son associé à l'individu qu'ils appellent, suggérant que leurs appels contiennent potentiellement d'autres types d'étiquettes ou de descripteurs.",
-        "image": "",
-        "date": "Tue, 11 Jun 2024 00:04:26 GMT"
-    },
-    {
-        "title": "Nouvelles fonctionnalités iOS 16",
-        "link": "https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence",
-        "body": "Apple a annoncé lors de sa Worldwide Developers Conference qu'iOS 16 permettra aux utilisateurs d'enregistrer et de transcrire automatiquement les appels téléphoniques. Une nouvelle option d'enregistrement apparaîtra dans l'application Téléphone, indiquant aux participants qu'ils sont enregistrés. L'appel est ensuite transcrit dans l'application Notes, où un résumé peut être généré grâce au nouveau système d'IA Apple Intelligence. L'audio peut également être enregistré et transcrit directement dans l'application Notes. Cette fonctionnalité sera disponible en anglais, espagnol, allemand, français, japonais, mandarin, cantonais et portugais. De plus, iOS 16 proposera une page d'accueil personnalisable, des modifications du Centre de contrôle et des améliorations des réponses Tapback.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2658x1588/2400x1600/filters:focal(1329x794:1330x795):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485924/apple_record_transcribe_phone_calls.png",
-        "date": "Tue, 11 Jun 2024 00:04:26 GMT"
-    },
-    {
-        "title": "La guerre de l'IA : Musk contre Apple et OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2044664_elon-musk-veut-bannir-les-produits-apple-de-ses-entreprises-la-raison-qui-surprend",
-        "body": "Elon Musk a menacé d'interdire les produits Apple dans ses entreprises en raison de l'intégration de ChatGPT d'OpenAI dans les appareils Apple. Musk, co-fondateur d'OpenAI, a quitté l'entreprise en raison de désaccords avec le directeur général, Sam Altman, qui s'est réjoui de la collaboration avec Apple. Musk s'inquiète de l'utilisation de l'IA dans les produits grand public, en particulier de ChatGPT. Il a également suggéré que les visiteurs de ses entreprises stockent leurs appareils Apple dans une cage de Faraday pour bloquer les ondes électromagnétiques. La polémique soulève des questions sur l'utilisation de l'IA dans les produits grand public et la sécurité des données.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/04/cyber-rodeo-at-giga-texas-52-49-screenshot-768x432.jpg?resize=169,169&key=270570dc",
-        "date": "Mon, 10 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : l'IA au cœur de la WWDC 2024",
-        "link": "https://www.frandroid.com/marques/apple/2042766_keynote-apple-comment-suivre-la-wwdc-2024-en-direct",
-        "body": "Lors de la WWDC 2024, Apple a dévoilé Apple Intelligence, son nouveau système d'intelligence artificielle. Ce système vise à simplifier les interactions avec les appareils Apple tout en protégeant la vie privée des utilisateurs. Apple Intelligence améliore Siri, permettant des échanges plus naturels et une meilleure compréhension du contexte. Il propose des réponses aux messages, crée des images à partir de prompts et organise les notifications par ordre d'importance. Apple Intelligence peut également anticiper certains besoins en mettant en relation les données de différentes applications. Le partenariat avec OpenAI permet à Siri d'utiliser ChatGPT pour répondre à des questions complexes. Ces fonctionnalités sont réservées aux iPhone 15 Pro et appareils Apple avec puce M1 minimum, initialement en anglais uniquement. La mise à jour iOS 18 apporte aussi des nouveautés en matière de personnalisation et de sécurité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-44-20-screenshot-768x432.jpg?resize=169,169&key=d09103af",
-        "date": "Mon, 10 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Le Pixel 8 Pro de Google",
-        "link": "https://www.frandroid.com/produits/smartphones/google/1820107-google-pixel-8-pro",
-        "body": "Le dernier smartphone de Google, le Pixel 8 Pro, est un appareil haut de gamme doté de fonctionnalités impressionnantes. Il est équipé de la nouvelle puce Tensor G3, offrant des performances améliorées et une efficacité énergétique grâce à sa gravure en 4 nm. La partie photo bénéficie de nouveautés logicielles, et l'appareil dispose également d'une fonctionnalité unique de thermomètre intégré. Google promet une longue durée de vie avec 7 ans de mises à jour Android, assurant ainsi la pérennité de l'appareil.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/06052024-dsc02348-768x512.jpg?resize=200,200&key=d4770ca0",
-        "date": "Mon, 10 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft met fin à son outil de création d'IA personnalisée",
-        "link": "https://www.frandroid.com/marques/microsoft/2045494_microsoft-met-fin-a-la-possibilite-de-creer-son-ia-dans-copilot-pro",
-        "body": "Microsoft a annoncé qu'il retirera l'outil Copilot GPT Builder de son abonnement Copilot Pro, six mois après son lancement. Copilot GPT Builder permettait aux utilisateurs de créer leurs propres assistants IA personnalisés basés sur le modèle GPT, sans nécessiter de compétences en programmation. Cet outil clé en main, accessible via une interface graphique, sera supprimé à partir du 10 juillet 2024, et toutes les données associées seront également supprimées. La décision de Microsoft de se concentrer sur les fonctionnalités de base et les opportunités de développement pour les développeurs dans des cadres commerciaux et professionnels a conduit à l'arrêt du déploiement des GPTs dans Copilot pour les particuliers. L'abonnement Copilot Pro continue d'offrir un accès prioritaire à GPT-4 et GPT-4 Turbo pour la génération de texte et d'images, intégré à la suite Office et couplé à un abonnement Microsoft 365.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/microsoft-copilot-pro-image-hero-large-768x432.jpg?resize=169,169&key=c2b2269f",
-        "date": "Mon, 10 Jun 2024 23:00:00 GMT"
     }
 ]
