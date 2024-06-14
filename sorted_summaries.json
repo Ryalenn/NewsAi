@@ -1,10 +1,52 @@
 [
     {
+        "title": "Microsoft retarde la sortie de Recall, une fonctionnalité de capture d'écran controversée",
+        "link": "https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay",
+        "body": "Microsoft a retardé la sortie de sa fonctionnalité Recall, prévue pour les nouveaux PC Copilot Plus, afin de tester sa sécurité et son cryptage dans le cadre du programme Windows Insider. La fonctionnalité, qui permet de capturer des captures d'écran de tout ce que l'utilisateur voit ou fait sur son ordinateur, a suscité des inquiétudes chez les experts en sécurité et les défenseurs de la vie privée. Microsoft s'est engagé à apporter trois améliorations majeures, notamment en rendant la fonctionnalité optionnelle, en cryptant la base de données et en authentifiant les utilisateurs via Windows Hello. La société a déclaré que la sécurité était une priorité, même par rapport à l'intelligence artificielle, et a inclus la sécurité dans le processus d'évaluation biannuel des employés.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1320x880/2400x1600/filters:focal(660x440:661x441):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481481/windowsrecall.jpg",
+        "date": "Thu, 13 Jun 2024 23:55:52 GMT"
+    },
+    {
+        "title": "OpenAI renforce sa sécurité et sa sûreté",
+        "link": "https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety",
+        "body": "OpenAI a nommé Paul M. Nakasone, général retraité de l'armée américaine et ancien directeur de la NSA, à son conseil d'administration. Nakasone rejoint le comité de sécurité et de sûreté d'OpenAI en priorité, contribuant à l'effort de l'entreprise pour comprendre comment l'IA peut renforcer la cybersécurité. La nomination de Nakasone souligne l'engagement d'OpenAI à développer des innovations IA sécurisées et éthiques, comme l'a souligné le président du conseil d'administration, Bret Taylor. Le conseil d'administration d'OpenAI comprend désormais des experts en IA, en technologie et en sécurité, alors qu'ils naviguent dans les complexités éthiques et techniques de l'IA avancée.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2100x1500/2400x1600/filters:focal(1050x750:1051x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25490736/240129_D_IM742_1116.JPG",
+        "date": "Thu, 13 Jun 2024 22:36:04 GMT"
+    },
+    {
+        "title": "La chute d'Alexa",
+        "link": "https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune",
+        "body": "Résumé : \n\nAlors qu'Apple annonce une nouvelle version de Siri basée sur l'IA, un rapport de Fortune indique qu'Alexa d'Amazon, l'un des assistants vocaux les plus avancés, peine à se réinventer avec l'IA générative. Malgré les ambitions d'Amazon, les anciens employés interviewés par Fortune pensent qu'Alexa est loin d'être l'assistant personnel idéal. Les problèmes organisationnels et technologiques ont entravé les progrès d'Alexa, et la nouvelle version plus conversationnelle n'a pas encore été lancée. La structure décentralisée d'Amazon et la nécessité de faire évoluer l'ancienne technologie Alexa entravent également les progrès. Amazon insiste sur son engagement envers la croissance d'Alexa et l'intégration de l'IA générative, mais la course pour rattraper les concurrents est lancée.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/10817641/acastro_180510_1777_alexa_0003.jpg",
+        "date": "Thu, 13 Jun 2024 22:15:15 GMT"
+    },
+    {
+        "title": "LinkedIn améliore son IA",
+        "link": "https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers",
+        "body": "LinkedIn lance de nouvelles fonctionnalités basées sur l'IA pour aider les utilisateurs à trouver un emploi, à améliorer leur CV et à obtenir des conseils via des chatbots IA. Ces fonctionnalités seront disponibles pour les abonnés Premium dans un premier temps. L'une d'elles permet de rechercher des offres d'emploi en utilisant un langage naturel, comme « trouvez-moi un emploi marketing à distance à Détroit avec un salaire d'au moins 110 000 $ ». LinkedIn peut également analyser votre CV et fournir des suggestions personnalisées pour l'améliorer en fonction d'offres d'emploi spécifiques. De plus, l'IA peut vous aider à créer une lettre de motivation à partir de zéro. L'entreprise teste également des « personas IA » de certains experts, avec lesquels les utilisateurs peuvent discuter de sujets professionnels. Ces fonctionnalités s'ajoutent à d'autres fonctionnalités Premium existantes, comme la synthèse des publications du fil d'actualité via l'IA. LinkedIn prévoit également d'améliorer les capacités de recherche de la plateforme grâce à l'IA, permettant des recherches plus intelligentes et plus approfondies.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3425x2376/2400x1600/filters:focal(1713x1188:1714x1189):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25490593/1572708606.jpg",
+        "date": "Thu, 13 Jun 2024 21:27:40 GMT"
+    },
+    {
         "title": "La vérification des systèmes d'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2024/06/13/provable-software-systems-have-lots-of-promise/?ss=ai",
         "body": "Le professeur Adam Chipala propose une nouvelle approche pour vérifier le bon fonctionnement des systèmes d'IA, en se concentrant sur la vérification et la validation rigoureuses des logiciels. Il introduit le concept de \"systèmes logiciels prouvables\", qui vise à fournir des garanties mathématiques solides sur la fonctionnalité des logiciels. En appliquant des principes mathématiques et de la cryptographie, Chipala suggère que l'on peut rendre les processus plus résistants aux bogues et les systèmes plus robustes face aux vulnérabilités. Il présente un prototype d'ampoule \"IoT\" et un cas d'utilisation avec un garage Lego, démontrant ainsi la nécessité de définir avec précision ce que signifie \"correct\" pour un système. Chipala souligne l'importance de bien définir les opérations pour protéger le système contre les attaques par injection de code. Il conclut en exprimant son espoir que ces méthodologies et outils seront de plus en plus utilisés pour développer des systèmes d'IA fiables, accompagnés de preuves mathématiques formelles de leur bon comportement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6668661594571d705877fc2b/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 13 Jun 2024 20:39:00 GMT"
+    },
+    {
+        "title": "Tesla : une bataille juridique autour de l'IA",
+        "link": "https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete",
+        "body": "Plusieurs actionnaires de Tesla accusent Elon Musk et le conseil d'administration de la société de détourner délibérément les talents et les ressources de Tesla vers la nouvelle entreprise d'IA d'Elon Musk, xAI. Les actionnaires ont déposé une plainte au Delaware, alléguant qu'Elon Musk et le conseil d'administration ont manqué à leur devoir fiduciaire envers Tesla en lançant xAI, une entreprise rivale dans le domaine de l'IA. La plainte a été déposée quelques heures avant un vote des actionnaires sur une proposition de réincorporation de Tesla au Texas, après qu'un juge du Delaware ait annulé le généreux package salarial d'Elon Musk. Les plaignants affirment qu'Elon Musk a depuis longtemps cherché à positionner Tesla comme une entreprise de robotique et d'IA plutôt que comme un simple constructeur automobile, ce qui a propulsé le cours de l'action de l'entreprise. La plainte mentionne également qu'Elon Musk a détourné des puces IA destinées à Tesla vers xAI, et qu'il a besoin d'une participation plus importante dans Tesla pour développer l'entreprise dans l'IA et la robotique.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906797/VRG_Illo_STK022_K_Radtke_Musk_Scales.jpg",
+        "date": "Thu, 13 Jun 2024 20:23:40 GMT"
+    },
+    {
+        "title": "L'art de tromper l'IA",
+        "link": "https://www.forbes.com/sites/lesliekatz/2024/06/13/real-photo-wins-ai-photography-contest/?ss=ai",
+        "body": "Un photographe a soumis une photo réelle de flamant rose dans la catégorie IA d'un concours international de photographie, remportant deux prix avant d'être disqualifié. Miles Astray a voulu démontrer l'impact durable de l'art humain face aux algorithmes. Son image, intitulée \"Flamingone\", a été capturée avec un appareil photo Nikon et légèrement ajustée. Bien que disqualifié, le message d'Astray a été salué par les organisateurs du concours, soulignant l'importance de l'art humain dans un monde de plus en plus influencé par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/666b49e02b7efe232a67a2eb/0x0.jpg?format=jpg&crop=1290,726,x0,y93,safe&width=440",
+        "date": "Thu, 13 Jun 2024 20:00:00 GMT"
     },
     {
         "title": "Apple Intelligence : l'approche d'Apple en matière d'IA sur ses appareils",
@@ -75,6 +117,13 @@
         "body": "Bien communiquer améliore les interactions et les résultats obtenus des systèmes d'IA. L'IA augmente la force de travail et fournit une valeur énorme en améliorant les capacités d'analyse de données, d'automatisation et de prise de décision. Avec l'IA générative, les compétences en mathématiques, en ingénierie et en science des données ne sont plus indispensables. Au lieu de cela, des compétences humaines telles que la résolution de problèmes, l'adaptabilité, le raisonnement critique et la communication sont de plus en plus importantes. Une communication claire et précise est essentielle pour interagir efficacement avec les systèmes d'IA, en particulier avec l'IA générative. Une meilleure communication améliore non seulement les réponses de l'IA, mais peut également nous aider à devenir de meilleurs communicateurs en général. Cela implique de fournir des entrées claires, des instructions détaillées et de comprendre le contexte et les nuances des interactions. Les annotateurs humains jouent un rôle crucial dans l'étiquetage des données pour l'entraînement des modèles d'IA, garantissant ainsi la précision et la pertinence des informations utilisées. De plus, les outils d'IA améliorent les compétences en communication humaine, avec des traducteurs linguistiques, des assistants d'écriture et de grammaire, et des systèmes d'aide à la rédaction d'e-mails. L'IA a le potentiel non seulement d'améliorer la qualité de l'écriture, mais également sa pertinence et son niveau de détail. Alors que les tendances de communication brèves et compactes se sont développées avec les SMS et les médias sociaux, l'IA encourage une communication plus claire et plus détaillée. Les compétences en communication sont essentielles pour tirer le meilleur parti de l'IA et pour améliorer les interactions humain-machine et humain-humain.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66688b3b5b82abccf8d6cc8e/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 13 Jun 2024 08:00:00 GMT"
+    },
+    {
+        "title": "Le paquet salarial d'Elon Musk et l'avenir de Tesla",
+        "link": "https://www.frandroid.com/marques/tesla/2047998_oui-tesla",
+        "body": "Lors de la réunion annuelle des actionnaires de Tesla, le paquet salarial de 56 milliards de dollars d'Elon Musk a été approuvé, malgré les critiques de certains actionnaires et fonds d'investissement. Musk a réaffirmé que Tesla est une entreprise d'IA et d'énergie, et non seulement un constructeur automobile. Il a annoncé la sortie de HW5, une nouvelle puce AI, d'ici fin 2025, et prévoit que des milliers de robots Optimus travailleront pour Tesla dès l'année prochaine. Musk souhaite obtenir ce paquet salarial pour contrôler 25 % de Tesla, menaçant de se concentrer davantage sur l'IA avec son entreprise xAI si sa demande est refusée. Tesla fait face à des défis, dont la concurrence des fabricants de véhicules électriques chinois et des manqués d'objectifs de vente, mais se lance également dans l'IA, la robotique et les véhicules autonomes. L'intégration de l'IA dans les voitures et les smartphones pourrait représenter une avancée majeure pour l'entreprise.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/img-6962-768x445.jpeg?resize=174,174&key=401282a0",
+        "date": "Wed, 12 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "Apple et OpenAI : un partenariat stratégique",
@@ -180,61 +229,5 @@
         "body": "Le texte met en lumière les avantages de l'IA dans divers secteurs, notamment la santé, mais souligne également un inconvénient majeur : les hallucinations. Les hallucinations de l'IA se produisent lorsqu'un modèle fournit des informations incorrectes, ce qui peut conduire à de mauvaises décisions et à des conséquences médicales négatives. Ce problème persiste et entrave l'adoption de l'IA, en particulier dans les secteurs hautement réglementés. Les professionnels de la santé utilisent des plateformes d'IA comme ChatGPT et Claude pour analyser de grands ensembles de données, accélérer la prise de décision et améliorer la précision des diagnostics. Cependant, le risque de hallucinations soulève des inquiétudes quant à la diffusion de désinformations. Les développeurs d'IA reconnaissent que leurs modèles peuvent produire du contenu réaliste mais inexact, appelé « erreurs avec confiance ». Pour naviguer dans ces pièges, il est essentiel de maintenir un élément humain dans la boucle, garantissant ainsi une surveillance robuste et une vérification des informations générées par l'IA. Les organisations devraient également s'efforcer de sensibiliser aux progrès de l'IA, y compris aux hallucinations, et améliorer la précision de leurs sources de données. Une collaboration entre cliniciens et experts en IA est nécessaire pour créer des ensembles de données divers et représentatifs, améliorant ainsi la fiabilité et la sécurité des patients. L'IA est un outil puissant, mais elle ne doit pas remplacer les qualités humaines essentielles à la réussite des systèmes de santé. Une synergie entre l'IA et les humains est cruciale pour atténuer les dangers des hallucinations.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666925610efb2af1a0be6e9e/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Jun 2024 04:00:00 GMT"
-    },
-    {
-        "title": "Medion SPRCHRGD 14 S1 Elite",
-        "link": "https://www.frandroid.com/marques/medion/2047350_medion-devoile-un-pc-copilot-prometteur-avec-puce-qualcomm",
-        "body": "Medion rejoint la course aux PC portables avec le nouveau processeur Qualcomm pour Windows Copilot. Le modèle SPRCHRGD 14 S1 Elite se distingue par son processeur Snapdragon X Elite, ses 12 cœurs et sa puce NPU Hexagon de 45 TOPS, lui valant le label Copilot+ de Microsoft pour les opérations IA. L'écran de 14 pouces offre une définition de 2880 x 1800 et une fréquence de 120 Hz. La machine propose une autonomie impressionnante de 18 heures grâce à des \"algorithmes intelligents de gestion de l'énergie optimisés par l'IA\". Disponible cet été, le Medion SPRCHRGD 14 S1 Elite offre un excellent rapport qualité-prix pour les professionnels et les joueurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/medion-pc-copilot-768x432.jpg?resize=169,169&key=ac6d7587",
-        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : une mise à niveau de Siri réservée aux appareils haut de gamme",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2047186_des-produits-apple-laisses-pour-compte-avec-larrivee-dapple-intelligence",
-        "body": "Lors de la WWDC, Apple a présenté son nouveau système d'intelligence artificielle, Apple Intelligence, qui améliorera considérablement les capacités de Siri. Cependant, ces améliorations seront limitées aux iPhone 15 Pro et aux Mac équipés de la puce M. Les appareils Apple plus anciens, y compris les HomePod, ne bénéficieront pas de ces mises à niveau en raison de leurs puces limitées. La société n'a pas annoncé de plans pour renouveler ces appareils, suggérant que l'IA d'Apple restera confinée aux nouveaux appareils haut de gamme.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/famille-apple-768x351.jpg?resize=300,300&key=eeff23e4",
-        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les dangers de l'IA de Google",
-        "link": "https://www.frandroid.com/marques/google/2046484_lia-de-google-continue-ses-betises-en-citant-des-journalistes-qui-les-denoncent",
-        "body": "L'IA de Google, Google AI Overview, est au cœur d'une controverse. Malgré les critiques, elle continue à fournir des recommandations dangereuses, comme ajouter de la colle sur une pizza. Ironiquement, elle se nourrit maintenant des articles qui la dénoncent, en reprenant des contenus de presse critiques envers elle. Cela soulève des inquiétudes quant au respect du contexte et à la véracité des informations qu'elle fournit. Bien que Google ait pris des mesures pour réduire la fréquence de ces réponses erronées, l'IA continue à donner des indications dangereuses et trompeuses.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/google-ai-overview-768x432.jpg?resize=169,169&key=9c088d6e",
-        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple s'ouvre à l'IA",
-        "link": "https://www.frandroid.com/marques/apple/2045618_pourquoi-google-gemini-pourrait-bien-sinviter-sur-iphone",
-        "body": "Lors de la WWDC 2024, Apple a annoncé son entrée dans le domaine de l'IA avec iOS 18, présentant à la fois son propre système d'IA, Apple Intelligence, et un partenariat avec OpenAI pour intégrer ChatGPT. Craig Federighi, vice-président de l'ingénierie logicielle chez Apple, a également mentionné la possibilité d'intégrer d'autres modèles d'IA à l'avenir, comme Gemini de Google. Apple prévoit de permettre aux utilisateurs de choisir parmi différents modèles d'IA, en fonction de leurs tâches et préférences. L'entreprise assure également que les données personnelles des utilisateurs ne seront pas exploitées au-delà de l'accomplissement des tâches demandées.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ihqkowgxze-768x432.jpg?resize=169,169&key=2bf6de9d",
-        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La course aux processeurs ARM pour PC",
-        "link": "https://www.frandroid.com/marques/mediatek-materiels-accessoires/2046362_les-pc-a-lia-sont-encore-tres-chers-mais-cela-ne-devrait-pas-durer",
-        "body": "L'article discute de l'entrée de MediaTek dans le marché des processeurs ARM pour PC, actuellement dominé par Qualcomm et Microsoft. MediaTek, connu pour ses processeurs ARM pour smartphones, vise à proposer des alternatives plus abordables aux puces Qualcomm dans les PC Windows. Bien que Microsoft ait un contrat d'exclusivité avec Qualcomm jusqu'à début 2025, l'expiration de ce contrat ouvre la porte à MediaTek pour stimuler la concurrence et potentiellement réduire les prix des PC ARM. Nvidia et AMD sont également mentionnés comme des acteurs potentiels dans la course aux processeurs ARM, ce qui pourrait intensifier la concurrence face aux puces Apple Silicon. Le succès de la transition de Microsoft vers la plateforme ARM dépendra en partie du prix des machines Windows Copilot+.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/microsoft-surface-laptop-768x576.jpg?resize=225,225&key=427d8cf1",
-        "date": "Tue, 11 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les géants de la tech adoptent l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques, comme Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur l'IA plus accessible au grand public. L'article explore le fonctionnement de ces modèles linguistiques massifs et les défis associés, tels que la présentation d'informations fausses comme vraies. Il souligne également l'évolution du paysage de l'IA, avec des exemples tels que les résultats de recherche Google suggérant d'ajouter de la colle à une pizza, et les dernières fonctionnalités d'IA de Google et d'Apple pour leurs appareils Pixel et iPhone. L'article mentionne également les préoccupations concernant les hallucinations de l'IA, même le PDG d'Apple, Tim Cook, admettant que leur système pourrait ne pas être à 100 % précis. D'autres sections abordent les plans d'IA de Siri d'Apple, les publicités LLM de Google, les partenariats d'IA d'Apple avec OpenAI et Google, et les utilisations créatives de l'IA, telles que la génération de sons et d'effets sonores. Enfin, il mentionne les efforts de Gannett pour ajouter des points clés générés par l'IA aux articles de journalistes et le partenariat d'OpenAI avec News Corp et Reddit pour améliorer ses produits d'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Tue, 11 Jun 2024 22:24:47 GMT"
-    },
-    {
-        "title": "Les dangers de l'apprentissage par renforcement pour l'IA",
-        "link": "https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue",
-        "body": "Bien que divertissante, l'anecdote de l'IA de Google suggérant d'ajouter de la colle à une pizza met en lumière un problème potentiel dans la façon dont l'IA apprend à partir de données. Chaque fois qu'un journaliste souligne une erreur de l'IA de Google, il contribue involontairement à l'apprentissage de l'IA pour qu'elle fasse la même erreur à l'avenir. Ce phénomène rappelle le \"Google bombing\" des années 2000, où les résultats de recherche étaient manipulés par des liens fréquents entre des mots et des sites web spécifiques. De plus, l'IA de Google peine désormais à répondre à des questions sur ses propres produits, comme activer les captures d'écran dans le mode Incognito de Chrome. Bien que drôles, ces lacunes soulignent les dangers potentiels de l'apprentissage par renforcement pour l'IA, qui peut assimiler et reproduire des informations incorrectes ou trompeuses.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1026x536:1027x537):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362060/STK_414_AI_CHATBOT_R2_CVirginia_C.jpg",
-        "date": "Tue, 11 Jun 2024 22:24:47 GMT"
-    },
-    {
-        "title": "La fin d'un litige",
-        "link": "https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped",
-        "body": "Elon Musk a abandonné son procès contre OpenAI et son PDG, Sam Altman, accusant l'entreprise de rupture de contrat et d'abandon présumé de sa mission de créer une technologie d'IA bénéfique pour l'humanité. Le cas a été rejeté sans préjudice, ce qui signifie que Musk peut le déposer à nouveau. La décision de Musk intervient un jour avant une audience prévue au cours de laquelle un juge aurait examiné la demande d'OpenAI de rejeter l'affaire, et un jour après que Musk ait menacé d'interdire les appareils Apple dans ses entreprises si la technologie OpenAI était intégrée aux produits Apple. Le procès alléguait qu'OpenAI avait violé un accord avec Musk et d'autres membres fondateurs, qui s'étaient engagés à faire d'OpenAI une organisation à but non lucratif et à maintenir sa technologie open source. Cependant, il a été souligné que le cas de Musk était faible, car il n'existait aucun contrat formel. OpenAI a nié les allégations, affirmant que Musk cherchait à obtenir un contrôle absolu sur l'entreprise en la fusionnant avec Tesla. Musk a fondé sa propre entreprise d'IA, xAI, qui a créé le chatbot Grok AI. xAI a levé 6 milliards de dollars pour financer ses puces d'IA coûteuses.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg",
-        "date": "Tue, 11 Jun 2024 21:29:42 GMT"
     }
 ]
