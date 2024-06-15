@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Ce que Tesla prépare pour l’avenir : Model 2, robotaxi, Cybertruck en Europe, van…",
+        "title": "Ce que Tesla pr\u00e9pare pour l\u2019avenir : Model 2, robotaxi, Cybertruck en Europe, van\u2026",
         "link": "https://www.frandroid.com/survoltes/voitures-electriques/2050310_ce-que-tesla-prepare-pour-lavenir-model-2-robotaxi-cybertruck-en-europe-van",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/img-6966-768x340.jpeg?resize=300,300&key=fa8adff7",
         "date": "Thu, 13 Jun 2024 23:00:00 GMT",
@@ -159,5 +159,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/666cdb8d4fe72c75bc315ee9/0x0.png?format=png&crop=624,350,x0,y0,safe&width=440",
         "date": "Sat, 15 Jun 2024 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/15/move-over-chatgpt-here-are-5-ai-education-tools-loved-by-teachers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/666d622105cad3c07e7d1109/0x0.jpg?format=jpg&crop=2136,1201,x0,y67,safe&width=440",
+        "date": "Sat, 15 Jun 2024 09:00:00 GMT",
+        "check": "no"
     }
 ]
