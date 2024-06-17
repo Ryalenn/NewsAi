@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sécuriser la Révolution de l'IA",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/06/17/adopting-ai-without-sacrificing-security/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66707495913b45d0141a61fb/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Jun 2024 17:40:00 GMT"
+    },
+    {
+        "title": "TikTok Embraces AI",
+        "link": "https://www.theverge.com/2024/6/17/24179971/tiktok-ads-ai-generated-avatars-creators-language-dubbing",
+        "body": "TikTok introduit de nouveaux outils d'IA pour aider les créateurs de contenu et les marques à toucher un public mondial. Ces outils comprennent des avatars numériques et des fonctionnalités de doublage linguistique, qui visent à surmonter les barrières linguistiques et à ajouter une touche humaine au contenu. Les avatars numériques Symphony sont disponibles en deux options : standard ou personnalisé. Les avatars standard sont basés sur des acteurs rémunérés issus de divers horizons, nationalités et langues, tandis que les avatars personnalisés sont créés pour ressembler à un créateur ou porte-parole de marque spécifique, tout en parlant plusieurs langues. La fonctionnalité Symphony AI Dubbing permet aux créateurs de traduire leur contenu dans plus de 10 langues et dialectes. TikTok marque les vidéos utilisant ces outils avec une étiquette « généré par l'IA ». Bien que ces outils offrent des possibilités intéressantes, les créateurs doivent faire confiance à leur précision pour éviter les erreurs de traduction embarrassantes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25406818/STK051_TIKTOK_CVirginia_C.jpg",
+        "date": "Mon, 17 Jun 2024 13:00:00 GMT"
+    },
+    {
         "title": "Proton, pionnier de la confidentialité, devient une organisation à but non lucratif",
         "link": "https://www.forbes.com/sites/hessiejones/2024/06/17/exclusive-protons-landmark-shift-to-non-profit-heralds-a-people-first-internet-with-unprecedented-accountability/?ss=ai",
         "body": "Proton, l'entreprise suisse de technologie axée sur la confidentialité, célèbre son 10e anniversaire en devenant une organisation à but non lucratif, créant ainsi la Proton Foundation. Cette initiative audacieuse renforce l'engagement de Proton envers la confidentialité des utilisateurs et introduit une nouvelle ère de transparence et de responsabilité dans l'écosystème technologique. Proton, lancé en 2014 par des scientifiques du CERN, est passé d'un service de messagerie électronique cryptée à une gamme complète de produits axés sur la confidentialité, avec plus de 100 millions de comptes protégés dans le monde. La structure à but non lucratif de Proton garantit la transparence financière, la responsabilité et la durabilité à long terme, tout en maintenant son autonomie financière et son engagement envers des offres open-source et gratuites. La fondation sera supervisée par un conseil d'administration, y compris des membres de l'équipe Proton et des experts en éthique et en technologie, garantissant ainsi que Proton reste fidèle à sa mission de protéger la confidentialité en ligne à l'ère des entreprises avides de données.",
@@ -28,11 +42,25 @@
         "date": "Mon, 17 Jun 2024 05:00:00 GMT"
     },
     {
+        "title": "La riposte d'Apple",
+        "link": "https://www.frandroid.com/marques/apple/2050904_apple-se-moque-rudement-de-cette-nouvelle-fonctionnalite-windows",
+        "body": "Apple profite de la WWDC pour se moquer de Microsoft et de son nouvel outil d'IA, Windows Recall, dont la sortie a été retardée en raison de failles de sécurité. Apple Intelligence, la nouvelle IA d'Apple, est annoncée gratuitement en partenariat avec OpenAI, tandis que Microsoft a investi des milliards dans l'entreprise. Greg Joswiak, vice-président marketing d'Apple, n'a pas manqué de souligner les échecs de son concurrent en matière de sécurité des données. Microsoft, quant à lui, s'engage à garantir la sécurité des données de ses utilisateurs, mais accuse un retard face à la concurrence.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/recall23-768x576.jpeg?resize=225,225&key=54c2f1d3",
+        "date": "Sun, 16 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "Apple repousse ses projets d'IA",
         "link": "https://www.frandroid.com/marques/apple/2050350_apple-va-prendre-encore-un-peu-plus-de-retard-dans-la-course-a-lia",
         "body": "Apple a annoncé que de nombreuses fonctionnalités liées à l'IA, présentées lors de sa récente conférence pour développeurs, ne seront pas incluses dans les prochaines mises à jour iOS 18, iPadOS 18 et macOS Sequoia. Le nouveau Siri, capable de rechercher des informations dans les mails et SMS, et de comprendre le contexte à l'écran, arrivera fin 2024 ou début 2025. L'intégration de ChatGPT suit une timeline similaire. Swift Assist et les améliorations de l'app Mail seront également retardées. Apple prend son temps pour tester et corriger les bugs potentiels, mais les utilisateurs impatients pourraient être déçus.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ihqkowgxze-768x432.jpg?resize=169,169&key=2bf6de9d",
         "date": "Sun, 16 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Google lance une nouvelle fonctionnalité de lecture à haute voix pour Chrome sur Android",
+        "link": "https://www.theverge.com/2024/6/16/24179757/google-chrome-android-listen-to-this-page-website-reader",
+        "body": "Google introduit une nouvelle option appelée « Listen to this page » qui permet à l'Assistant Google de lire à voix haute le contenu d'une page web directement depuis le navigateur Chrome sur Android. Cette fonctionnalité offre des commandes de lecture similaires à celles d'un lecteur de musique ou de podcast, permettant de mettre en pause, de modifier la vitesse de lecture, d'avancer ou de reculer de 10 secondes, etc. Les utilisateurs peuvent également choisir la voix et la langue de lecture, parmi plusieurs langues prises en charge, dont l'anglais, le français, l'allemand, l'arabe, l'hindi et l'espagnol. La fonctionnalité est actuellement en phase de déploiement progressif et est disponible dans la version bêta de Chrome pour Android.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24418649/STK114_Google_Chrome_02.jpg",
+        "date": "Sun, 16 Jun 2024 22:49:30 GMT"
     },
     {
         "title": "Siri s'améliore",
