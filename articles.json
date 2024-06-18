@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "C’est surprenant de le dire, mais iOS 18 améliore les performances des iPhone et iPad",
+        "title": "C\u2019est surprenant de le dire, mais iOS 18 am\u00e9liore les performances des iPhone et iPad",
         "link": "https://www.frandroid.com/marques/apple/2051616_il-est-peu-frequent-de-le-dire-mais-ios-18-a-ameliore-les-performances-des-iphone-et-ipad",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/encore-un-iphone-apple-768x512.jpg?resize=200,200&key=3282604a",
         "date": "Mon, 17 Jun 2024 23:00:00 GMT",
@@ -138,5 +138,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6671b3742b978f1c88b77c88/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Jun 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/18/24180854/google-deepmind-ai-video-pixels-text-prompts-generate-video-soundtracks",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330654/STK414_AI_CHATBOT_E.jpg",
+        "date": "Tue, 18 Jun 2024 07:14:33 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Tue, 18 Jun 2024 18:49:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/06/18/the-prompt-breaking-ai-models-to-make-them-safer/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6671ee45465eec344fd2b7d0/0x0.jpg?format=jpg&crop=2498,1404,x116,y0,safe&width=440",
+        "date": "Tue, 18 Jun 2024 20:28:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/18/ai-will-change-your-childs-life-but-not-in-the-way-you-think/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6671e46de54b373fe7880c41/0x0.jpg?format=jpg&crop=1356,763,x0,y119,safe&width=440",
+        "date": "Tue, 18 Jun 2024 20:00:00 GMT",
+        "check": "no"
     }
 ]
