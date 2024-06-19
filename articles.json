@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "C’est surprenant de le dire, mais iOS 18 améliore les performances des iPhone et iPad",
+        "title": "C\u2019est surprenant de le dire, mais iOS 18 am\u00e9liore les performances des iPhone et iPad",
         "link": "https://www.frandroid.com/marques/apple/2051616_il-est-peu-frequent-de-le-dire-mais-ios-18-a-ameliore-les-performances-des-iphone-et-ipad",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/encore-un-iphone-apple-768x512.jpg?resize=200,200&key=3282604a",
         "date": "Mon, 17 Jun 2024 23:00:00 GMT",
@@ -166,5 +166,12 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/16052024-dsc00067apple-ipad-pro-m4-2024-frandroid-768x512.jpg?resize=200,200&key=acaa3e4f",
         "date": "Tue, 18 Jun 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/roberthart/2024/06/19/chip-stock-rally-continues-wednesday-after-ai-boom-catapults-nvidia-to-worlds-most-valuable-company/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6672bd63665f35b35d94fe28/0x0.jpg?format=jpg&crop=2202,1238,x0,y14,safe&width=440",
+        "date": "Wed, 19 Jun 2024 11:00:00 GMT",
+        "check": "no"
     }
 ]
