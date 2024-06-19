@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nvidia's Rise to the Top",
+        "link": "https://www.forbes.com/sites/roberthart/2024/06/19/chip-stock-rally-continues-wednesday-after-ai-boom-catapults-nvidia-to-worlds-most-valuable-company/?ss=ai",
+        "body": "La valeur des actions de Nvidia a augmenté de 0,6 % lors des transactions hors heures le mercredi, atteignant un sommet historique. Cette augmentation a été stimulée par la demande pour ses puces IA spécialisées, avec une hausse de plus de 3,5 % mardi. Les actions des concurrents de Nvidia dans le secteur des puces, notamment TSMC, ont également augmenté, avec des gains allant de 0,4 % à 7 %. La valeur de l'entreprise est passée d'environ 400 milliards de dollars à la fin de 2022 à 3 000 milliards de dollars à la mi-2024, grâce à l'essor de l'IA générative. La richesse du PDG de Nvidia, Jensen Huang, a également augmenté, le classant désormais comme la 11ème personne la plus riche au monde. La société a dépassé Microsoft et Apple en tant qu'entreprise publique la plus précieuse au monde, illustrant sa transformation réussie en tant que fournisseur de puces IA spécialisées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6672bd63665f35b35d94fe28/0x0.jpg?format=jpg&crop=2202,1238,x0,y14,safe&width=440",
+        "date": "Wed, 19 Jun 2024 11:00:00 GMT"
+    },
+    {
         "title": "Déblocage de la découverte de médicaments avec l'IA generative",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/06/19/how-generative-ai-is-accelerating-drug-discovery/?ss=ai",
         "body": "Titre",
@@ -159,19 +166,5 @@
         "body": "Proton, l'entreprise suisse de technologie axée sur la confidentialité, célèbre son 10e anniversaire en devenant une organisation à but non lucratif, créant ainsi la Proton Foundation. Cette initiative audacieuse renforce l'engagement de Proton envers la confidentialité des utilisateurs et introduit une nouvelle ère de transparence et de responsabilité dans l'écosystème technologique. Proton, lancé en 2014 par des scientifiques du CERN, est passé d'un service de messagerie électronique cryptée à une gamme complète de produits axés sur la confidentialité, avec plus de 100 millions de comptes protégés dans le monde. La structure à but non lucratif de Proton garantit la transparence financière, la responsabilité et la durabilité à long terme, tout en maintenant son autonomie financière et son engagement envers des offres open-source et gratuites. La fondation sera supervisée par un conseil d'administration, y compris des membres de l'équipe Proton et des experts en éthique et en technologie, garantissant ainsi que Proton reste fidèle à sa mission de protéger la confidentialité en ligne à l'ère des entreprises avides de données.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666faebf3f720a239a97d2ca/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 17 Jun 2024 13:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA et de l'énergie nucléaire",
-        "link": "https://www.forbes.com/sites/alanohnsman/2024/06/17/big-oil-strikes-back-ai-nuclear-decarbonizing-cement/?ss=ai",
-        "body": "Résumé : \n\nL'administration Biden s'est engagée à réduire les émissions de carbone, ce qui a un impact sur l'industrie des combustibles fossiles. L'American Petroleum Institute a intenté une action en justice contre l'Environmental Protection Agency pour contester les politiques visant à réduire les émissions des véhicules. Cette situation met en lumière la demande croissante d'électricité pour alimenter les centres de données de l'IA, ce qui pourrait conduire à une crise énergétique. Cependant, les développeurs de petits réacteurs nucléaires et de technologies de batterie voient une opportunité pour leurs produits à énergie propre. L'article présente également Leah Ellis, cofondatrice et PDG de Sublime Systems, qui développe une technologie de rupture pour la production de ciment décarboné. Ellis discute de la technologie, de l'impact potentiel et de la collaboration avec l'industrie du ciment.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/666c7a3d5859db518ec711d5/0x0.jpg?format=jpg&crop=3507,1972,x0,y10,safe&width=440",
-        "date": "Mon, 17 Jun 2024 10:00:00 GMT"
-    },
-    {
-        "title": "Waymo's Rise in the Robotaxi Market",
-        "link": "https://www.forbes.com/sites/alanohnsman/2024/06/17/a-robotaxi-business-is-a-dream-for-elon-muskbut-already-a-reality-for-waymo/?ss=ai",
-        "body": "Waymo, filiale d'Alphabet Inc., est devenue une entreprise rentable, offrant plus de 50 000 trajets hebdomadaires dans trois villes américaines avec sa flotte de plus de 500 SUV électriques Jaguar autonomes. Bien qu'elle soit encore loin d'être omniprésente, Waymo connaît un point d'inflexion en 2024, après 15 ans de développement et d'investissements importants. Malgré les enquêtes des régulateurs américains sur le comportement erratique de ses véhicules, Waymo évite les accidents très médiatisés de ses concurrents. L'entreprise adopte une approche progressive, se préparant à proposer des trajets commerciaux sans conducteur à Austin plus tard dans l'année, tout en générant des revenus grâce à un partenariat inattendu avec Uber. Waymo fait face à des défis d'expansion de sa flotte et de concurrence de la part de Tesla, qui souhaite également se lancer dans le marché des robotaxis. Malgré tout, Waymo est considérée comme la leader dans le domaine des robotaxis, avec un potentiel de croissance rapide et de succès lucratif pour Alphabet.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/666c98a8e90c233d8d9e8ede/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
-        "date": "Mon, 17 Jun 2024 10:00:00 GMT"
     }
 ]
