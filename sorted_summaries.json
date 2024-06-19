@@ -1,5 +1,26 @@
 [
     {
+        "title": "Déblocage de la découverte de médicaments avec l'IA generative",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/19/how-generative-ai-is-accelerating-drug-discovery/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/666fdb8ba721ee7af1b4b678/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 19 Jun 2024 05:29:00 GMT"
+    },
+    {
+        "title": "La domination de Nvidia dans le domaine de l'IA",
+        "link": "https://www.frandroid.com/marques/nvidia/2053010_3-400-000-000-000-dollars-nvidia-devient-lentreprise-la-plus-valorisee-au-monde-devant-apple-et-microsoft",
+        "body": "Nvidia, autrefois connu pour ses cartes graphiques, est désormais l'entreprise publique la plus valorisée au monde, avec une capitalisation boursière de 3,4 milliers de milliards de dollars. Cette réussite est due à sa mainmise sur le marché des puces dédiées à l'IA, en particulier avec son supercalculateur HGX A100. La puce A100 est devenue le système de référence pour l'IA, y compris pour ChatGPT. Nvidia contrôle ainsi 80 % du marché des serveurs spécialisés dans l'IA. Les cartes graphiques de Nvidia peuvent effectuer de nombreuses opérations en parallèle, ce qui est essentiel pour le développement de l'IA. Cependant, certains observateurs sont sceptiques quant à la durabilité de cette croissance, citant les coûts élevés de fonctionnement de l'IA et l'absence de modèle économique fiable.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/keynote-by-nvidia-ceo-jensen-huang-at-2024-siepr-economic-summit-48-49-screenshot-768x432.jpg?resize=169,169&key=0d10d86d",
+        "date": "Tue, 18 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Samsung se lance dans les GPU, une nouvelle concurrence pour les géants de l'IA",
+        "link": "https://www.frandroid.com/marques/samsung/2053012_bientot-un-nouveau-concurrent-de-taille-pour-nvidia-amd-et-intel",
+        "body": "Samsung se prépare à entrer sur le marché des GPU, selon un article de Business Korea. La décision d'investissement a été approuvée par le comité de direction en mars 2024, bien que Samsung n'ait pas encore annoncé officiellement ses intentions. Cette nouvelle pourrait avoir un impact significatif sur le domaine de l'IA, car les GPU sont des composants clés pour le traitement de grandes quantités de données en parallèle. Samsung a déjà collaboré avec AMD pour développer des GPU pour smartphones, mais cet investissement suggère un intérêt plus profond pour la technologie. Bien que certaines interprétations suggèrent que l'investissement pourrait être lié à l'amélioration de la fabrication de semi-conducteurs, la décision de Samsung de se concentrer sur les GPU pourrait créer une nouvelle concurrence pour les acteurs établis tels que Nvidia, Intel et AMD, offrant ainsi plus de choix aux consommateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/samsung-marque-768x465.jpg?resize=182,182&key=e3d1ae2f",
+        "date": "Tue, 18 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la réalisation de films ?",
         "link": "https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar",
         "body": "L'article traite de la récente démonstration de l'outil de génération de vidéos de l'entreprise d'IA Luma, appelé Dream Machine. Dream Machine est un modèle de transformation capable de créer des vidéos à partir de simples invites textuelles. Bien que Luma ait promu Dream Machine comme une innovation révolutionnaire dans la réalisation de films, offrant des « plans de haute qualité et réalistes », la source des images utilisées pour entraîner le modèle a suscité des interrogations et des préoccupations en matière de transparence. En particulier, une bande-annonce générée par l'IA pour un court métrage d'animation intitulé « Monster Camp » a attiré l'attention en raison de sa ressemblance avec le personnage de Mike Wazowski de « Monsters, Inc. » de Pixar, soulevant des questions sur les données d'entraînement du modèle et la possibilité de violation de droits d'auteur. Luma propose actuellement Dream Machine gratuitement, ainsi que des niveaux payants avec des fonctionnalités supplémentaires. Bien que Disney n'ait pas commenté publiquement l'utilisation apparente de son matériel, l'article souligne la nécessité croissante de transparence dans les ensembles de données qui alimentent les outils d'IA, en particulier dans le contexte de la créativité et des préoccupations potentielles en matière de plagiat.",
@@ -145,12 +166,5 @@
         "body": "Waymo, filiale d'Alphabet Inc., est devenue une entreprise rentable, offrant plus de 50 000 trajets hebdomadaires dans trois villes américaines avec sa flotte de plus de 500 SUV électriques Jaguar autonomes. Bien qu'elle soit encore loin d'être omniprésente, Waymo connaît un point d'inflexion en 2024, après 15 ans de développement et d'investissements importants. Malgré les enquêtes des régulateurs américains sur le comportement erratique de ses véhicules, Waymo évite les accidents très médiatisés de ses concurrents. L'entreprise adopte une approche progressive, se préparant à proposer des trajets commerciaux sans conducteur à Austin plus tard dans l'année, tout en générant des revenus grâce à un partenariat inattendu avec Uber. Waymo fait face à des défis d'expansion de sa flotte et de concurrence de la part de Tesla, qui souhaite également se lancer dans le marché des robotaxis. Malgré tout, Waymo est considérée comme la leader dans le domaine des robotaxis, avec un potentiel de croissance rapide et de succès lucratif pour Alphabet.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666c98a8e90c233d8d9e8ede/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
         "date": "Mon, 17 Jun 2024 10:00:00 GMT"
-    },
-    {
-        "title": "The Future of Work: AI's Impact",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/17/what-jobs-will-ai-replace-first/?ss=ai",
-        "body": "L'intelligence artificielle (IA) transforme rapidement les industries et le marché du travail. Si elle offre des avantages en termes d'efficacité et de productivité, elle menace également certains emplois. Les emplois les plus vulnérables à l'automatisation par l'IA sont ceux qui impliquent des tâches routinières et structurées, comme la saisie de données, l'administration, la relation client via les chatbots, la production et l'assemblage dans le secteur manufacturier, les caisses en libre-service dans le commerce de détail, l'analyse de données de base, la conception graphique de base, la traduction et la photographie d'entreprise. L'IA nécessite une adaptation de la formation et de l'éducation pour préparer la main-d'œuvre aux rôles où l'expertise humaine reste irremplaçable, tels que la prise de décision complexe, l'intelligence émotionnelle et les compétences créatives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/666f40b14d98c55261820421/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Jun 2024 05:00:00 GMT"
     }
 ]
