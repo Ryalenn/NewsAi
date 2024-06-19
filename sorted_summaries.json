@@ -1,5 +1,26 @@
 [
     {
+        "title": "La chute de Perplexity",
+        "link": "https://www.wired.com/story/perplexity-is-a-bullshit-machine/",
+        "body": "L'article explore les pratiques controversées de Perplexity, une startup de recherche d'IA qui a récemment attiré des investissements importants. Perplexity se décrit comme un moteur de recherche alimenté par l'IA, combinant les fonctionnalités d'un moteur de recherche traditionnel et d'un chatbot. Cependant, l'analyse de WIRED suggère que Perplexity ignore les normes de l'industrie, gratte des sites Web sans permission et fournit des réponses inexactes et mal attribuées. Malgré les affirmations de Perplexity sur la transparence, ses pratiques de crawl Web sont opaques et impliquent l'utilisation d'adresses IP secrètes. L'article soulève également des questions sur la manière dont Perplexity génère des réponses, suggérant qu'il résume parfois des articles de presse sans y accéder directement, en se basant plutôt sur des URL et des métadonnées trouvées dans les moteurs de recherche. La startup est également confrontée à des accusations de plagiat et de violation de droits d'auteur. La réponse de Perplexity à ces allégations a été qualifiée d'évasive, et l'entreprise a depuis supprimé les références à ses adresses IP publiques. L'article conclut en soulignant l'importance de comprendre comment Perplexity fonctionne, au-delà de ce qu'elle fait, soulignant les implications éthiques et juridiques potentielles de ses pratiques.",
+        "image": "",
+        "date": "Wed, 19 Jun 2024 16:05:00 GMT"
+    },
+    {
+        "title": "La Réalité de l'IA",
+        "link": "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/",
+        "body": "Résumé : \n\nL'article aborde les récentes innovations dans le domaine de l'IA, notamment GPT-4, et leurs implications potentielles pour la société. L'auteur, un scientifique des données expérimenté, exprime son mécontentement face à la fraude et à l'incompétence qui règnent dans le domaine de l'IA, où de nombreuses entreprises lancent des initiatives sans cas d'utilisation réelle. Il critique les dirigeants qui font la promotion de l'IA sans comprendre la technologie ou ses applications pratiques, et suggère que la plupart des entreprises devraient se concentrer sur l'amélioration de leurs opérations et de leur culture plutôt que de se précipiter pour adopter l'IA. L'auteur prévoit que l'IA pourrait potentiellement révolutionner certains secteurs, mais met en garde contre les risques associés à une adoption précipitée et malavisée. Il souligne l'importance de cas d'utilisation clairs et de la collaboration interfonctionnelle, et exprime son dégoût pour les opportunistes qui exploitent le battage médiatique entourant l'IA, la blockchain et l'informatique quantique.",
+        "image": "",
+        "date": "Wed, 19 Jun 2024 15:34:46 GMT"
+    },
+    {
+        "title": "Business for Good",
+        "link": "https://www.forbes.com/sites/charlestowersclark/2024/06/19/purpose-driven-profit-esg--employees-shape-future-business-success/?ss=ai",
+        "body": "Ce texte met en lumière l'importance croissante de l'alignement entre l'intelligence artificielle (IA) et le but des entreprises, en particulier dans le contexte de la polarisation croissante de la société et des préoccupations environnementales et sociales. L'auteur assiste au sommet B for Good Leaders, qui rassemble des dirigeants d'entreprises certifiées B Corp ou alignées sur leurs principes. Le sommet se concentre sur l'utilisation de l'IA de manière responsable et éthique, en la mettant au service des employés plutôt que de la voir comme un moyen de réduire les effectifs et d'augmenter les profits à court terme. Les entreprises axées sur leur mission et les parties prenantes, plutôt que sur la simple performance financière, ont tendance à obtenir de meilleurs rendements. Le livre « Grow the Pie » d'Alex Edmans est cité comme une référence à cet égard. Le mouvement B Corp, avec sa mission de faire des affaires une force pour le bien, est présenté comme un exemple de la façon dont les entreprises peuvent démontrer leur engagement environnemental et social. Les conversations au sommet ont révélé que les attitudes des dirigeants envers leurs employés influencent grandement la manière dont l'IA est intégrée dans leurs organisations. En donnant un but et de l'autonomie aux employés, les dirigeants comprennent que l'IA peut améliorer la valeur de leur travail, ce qui peut avoir un impact positif sur les facteurs environnementaux, sociaux et de gouvernance (ESG).",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6672d252a0a13a1f2172f377/0x0.jpg?format=jpg&crop=946,532,x21,y0,safe&width=440",
+        "date": "Wed, 19 Jun 2024 13:00:00 GMT"
+    },
+    {
         "title": "Nvidia's Rise to the Top",
         "link": "https://www.forbes.com/sites/roberthart/2024/06/19/chip-stock-rally-continues-wednesday-after-ai-boom-catapults-nvidia-to-worlds-most-valuable-company/?ss=ai",
         "body": "La valeur des actions de Nvidia a augmenté de 0,6 % lors des transactions hors heures le mercredi, atteignant un sommet historique. Cette augmentation a été stimulée par la demande pour ses puces IA spécialisées, avec une hausse de plus de 3,5 % mardi. Les actions des concurrents de Nvidia dans le secteur des puces, notamment TSMC, ont également augmenté, avec des gains allant de 0,4 % à 7 %. La valeur de l'entreprise est passée d'environ 400 milliards de dollars à la fin de 2022 à 3 000 milliards de dollars à la mi-2024, grâce à l'essor de l'IA générative. La richesse du PDG de Nvidia, Jensen Huang, a également augmenté, le classant désormais comme la 11ème personne la plus riche au monde. La société a dépassé Microsoft et Apple en tant qu'entreprise publique la plus précieuse au monde, illustrant sa transformation réussie en tant que fournisseur de puces IA spécialisées.",
@@ -12,6 +33,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666fdb8ba721ee7af1b4b678/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Jun 2024 05:29:00 GMT"
+    },
+    {
+        "title": "Meta restructure sa division matériel",
+        "link": "https://www.theverge.com/2024/6/18/24181420/meta-wearables-reality-labs-layoffs",
+        "body": "Meta restructure sa division matériel, désormais appelée Reality Labs, en deux groupes principaux : \"Metaverse\" et \"Wearables\". Cette restructuration entraîne également des licenciements, bien que leur nombre exact reste inconnu. La nouvelle organisation \"Metaverse\" supervisera la gamme de casques de réalité virtuelle Quest, tandis que \"Wearables\" se concentrera sur d'autres efforts matériels, notamment les lunettes intelligentes développées avec Ray-Ban. Cette annonce, faite par le CTO de Meta, Andrew Bosworth, marque un changement significatif dans la stratégie matérielle de l'entreprise depuis son renommage en 2020.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png",
+        "date": "Tue, 18 Jun 2024 23:20:24 GMT"
     },
     {
         "title": "Apple limite l'accès à son IA",
@@ -145,12 +173,5 @@
         "body": "Les leaders économiques de Boston doivent se réunir rapidement pour discuter des applications de l'IA et de son impact sur les entreprises locales. Alors que certains secteurs à Boston sont déjà reconnus pour leur utilisation de l'IA, d'autres risquent d'être laissés pour compte. Les entreprises doivent partager leurs expériences et discuter de la meilleure façon d'intégrer l'IA dans leurs activités. Les équipes de direction devraient évaluer le pourcentage de projets impliquant l'IA et s'efforcer d'augmenter ce nombre, en adoptant les meilleures pratiques en matière d'innovation. De plus, la recherche de talents dans le domaine de l'IA est cruciale, car la demande dépasse l'offre de professionnels qualifiés. Les dirigeants de Boston doivent reconnaître l'importance de l'IA pour l'avenir de l'économie de l'État, comme l'a souligné la Secrétaire au Développement Économique, Yvonne Hao, lors d'un récent discours. Les entreprises doivent agir maintenant pour intégrer l'IA et rester compétitives.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66709018c98ce8ae00af25a3/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 17 Jun 2024 19:00:00 GMT"
-    },
-    {
-        "title": "Sécuriser la Révolution de l'IA",
-        "link": "https://www.forbes.com/sites/tonybradley/2024/06/17/adopting-ai-without-sacrificing-security/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66707495913b45d0141a61fb/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Jun 2024 17:40:00 GMT"
     }
 ]
