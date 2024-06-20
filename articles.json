@@ -98,14 +98,14 @@
         "check": "yes"
     },
     {
-        "title": "Le pire de ChatGPT : le « slop » qui est en train de pourrir le web",
+        "title": "Le pire de ChatGPT : le \u00ab slop \u00bb qui est en train de pourrir le web",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2054068_le-pire-de-chatgpt-le-slop-qui-est-en-train-de-pourrir-le-web",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/clarote-ai4medialabour-resources-2560x1440-1-768x432.jpg?resize=169,169&key=5746de90",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Élections législatives : pourquoi l’IA pourrait être un problème pendant la campagne",
+        "title": "\u00c9lections l\u00e9gislatives : pourquoi l\u2019IA pourrait \u00eatre un probl\u00e8me pendant la campagne",
         "link": "https://www.frandroid.com/culture-tech/politique/2054028_elections-legislatives-pourquoi-lia-pourrait-etre-un-probleme-durant-la-campagne",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/4467058735-496a068054-o-768x432.jpg?resize=169,169&key=94d80aa8",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Le co-fondateur d’OpenAI ouvre sa nouvelle startup",
+        "title": "Le co-fondateur d\u2019OpenAI ouvre sa nouvelle startup",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2054806_le-co-fondateur-dopenai-ouvre-sa-nouvelle-startup",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/openai-768x432.jpg?resize=169,169&key=0bec5f35",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
@@ -152,5 +152,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6672e8b909e104907bcfb04d/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Jun 2024 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "YouTube Music a une solution pour trouver la musique parfaite que vous voulez \u00e9couter",
+        "link": "https://www.frandroid.com/marques/google/2054940_lintelligence-artificielle-pourrait-vous-aider-sur-youtube-music",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/youtube-x-768x512.jpg?resize=200,200&key=37561b46",
+        "date": "Wed, 19 Jun 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2023/11/14/23959658/google-youtube-generative-ai-labels-music-copyright",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:6762x5361/2400x2400/filters:focal(3197x1356:3198x1357):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25083388/1448234909.jpg",
+        "date": "Thu, 20 Jun 2024 17:12:05 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.technologyreview.com/2024/06/17/1093740/what-happened-when-20-comedians-got-ai-to-write-their-routines/",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2160/2400x1600/filters:focal(1920x1080:1921x1081):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25498067/Claude_3_5_Model_Selector.png",
+        "date": "Thu, 20 Jun 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bethkindig/2024/06/20/ai-power-consumption-rapidly-becoming-mission-critical/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66747c66ef7a47579bd89357/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Jun 2024 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/video/9036c952-a8f2-4911-8b14-3ce8055c3943/?ss=ai",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2024/06/20/9036c952-a8f2-4911-8b14-3ce8055c3943_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Jun 2024 19:00:00 GMT",
+        "check": "no"
     }
 ]
