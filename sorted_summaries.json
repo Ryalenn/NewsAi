@@ -1,5 +1,47 @@
 [
     {
+        "title": "L'essor de l'IA dans l'industrie technologique",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'industrie technologique, comme Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur l'IA plus accessible au grand public. OpenAI a acquis Rockset, une startup d'analyse d'entreprise, et a conclu un accord avec News Corp pour l'utilisation de son contenu dans l'entraînement de ses modèles d'IA. Google a introduit Gemini, son modèle de langage, dans ses produits, y compris dans la recherche et les annonces. Apple se prépare également à dévoiler son système d'IA, Apple Intelligence, et prévoit d'intégrer des fonctionnalités d'IA pratiques dans ses produits. Pendant ce temps, des startups comme Character.AI et Replika gagnent en popularité en proposant des chatbots plus proches des compagnons. L'IA est également utilisée pour créer du contenu, comme des vidéos et des effets sonores, et pour améliorer les fonctionnalités de recherche et d'assistance vocale.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Fri, 21 Jun 2024 17:25:02 GMT"
+    },
+    {
+        "title": "OpenAI renforce son infrastructure de récupération de données",
+        "link": "https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup",
+        "body": "OpenAI fait l'acquisition de Rockset, une startup d'analyse de données, pour renforcer son infrastructure de récupération de données. Cette acquisition, la première du genre pour OpenAI, intégrera à la fois la technologie et l'équipe de Rockset. Brad Lightcap, COO d'OpenAI, souligne que l'infrastructure de Rockset permet aux entreprises de transformer leurs données en informations exploitables. Venkat Venkataramani, PDG de Rockset, ajoute que Rockset aidera OpenAI à résoudre les problèmes complexes de bases de données auxquels sont confrontées les applications d'IA à grande échelle. Les clients actuels de Rockset connaîtront une transition progressive, et certains membres de leur équipe rejoindront OpenAI.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg",
+        "date": "Fri, 21 Jun 2024 17:15:43 GMT"
+    },
+    {
+        "title": "L'avenir de la RV, de la RA et de l'IA",
+        "link": "https://www.theverge.com/2024/6/21/24183015/meta-apple-ar-vr-ai-ilya-sutskever-perplexity",
+        "body": "Meta dépriorise apparemment ses activités de réalité virtuelle (RV) et Oculus pour se concentrer sur la reproduction du succès inattendu de ses lunettes de soleil intelligentes Ray-Ban Meta. Cette décision est logique étant donné que l'IA est désormais au cœur des préoccupations, et que les lunettes Meta sont le gadget IA le plus remarquable à ce jour. Dans le même temps, Apple semble également changer de direction, en misant sur un casque Vision moins cher plutôt que sur un successeur au Vision Pro. Ces changements indiquent un changement important dans la vision de la RV et de la RA dans la Silicon Valley. L'épisode explore également d'autres sujets, notamment un nouveau processeur pour ordinateur portable de Qualcomm, et aborde les dernières nouvelles dans le domaine de l'IA, y compris la nouvelle entreprise IA d'Ilya Sutskever, cofondateur d'OpenAI.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:720x480/2400x1600/filters:focal(361x229:362x230):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25500320/VST_0621_Site_720_from_Liam_James.jpg",
+        "date": "Fri, 21 Jun 2024 17:00:38 GMT"
+    },
+    {
+        "title": "La guerre des memes du petit ami distrait, transformée par l'IA générative",
+        "link": "https://www.forbes.com/sites/danidiplacido/2024/06/21/generative-ai-is-turning-memes-into-nightmares/?ss=ai",
+        "body": "L'IA générative a récemment connu un regain d'intérêt, notamment avec l'expérimentation de modèles d'IA sur des templates de mèmes populaires. Si la qualité des vidéos générées par l'IA s'est considérablement améliorée, des anomalies, ou « hallucinations », continuent d'apparaître, notamment dans la représentation des mouvements humains. Le célèbre mème du « petit ami distrait » en est un exemple frappant, où la petite amie se transforme lentement en enfant pendant que le petit ami la suit du regard. Ces vidéos ont suscité des réactions mitigées, certains les trouvant impressionnantes tandis que d'autres critiquent la consommation excessive d'énergie et d'eau par les modèles d'IA. Les « hallucinations » de l'IA ont également conduit à la création de personnes inexistantes, comme un cinquième membre des Beatles ou un inconnu sur le célèbre selfie d'Ellen DeGeneres aux Oscars. Malgré les progrès, il est peu probable que l'IA générative puisse rivaliser avec le travail humain dans le domaine cinématographique, car elle manque de compréhension du contexte, des émotions et des nuances.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6675b472dab41e6c4ae1496c/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 21 Jun 2024 17:00:00 GMT"
+    },
+    {
+        "title": "La révolution des modèles linguistiques de grande taille",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/06/21/parsing-the-future-the-promises-and-perils-of-large-language-models/?ss=ai",
+        "body": "Les Large Language Models (LLMs) sont une technologie transformatrice qui a révolutionné l'IA grâce à leur capacité à générer un texte quasi humain avec une fluidité et une compréhension impressionnantes. Bien qu'encore à un stade précoce, les LLMs ont déjà un impact significatif sur divers secteurs, notamment la création de contenu, la traduction linguistique, l'analyse de données et la génération de code. Malgré leur potentiel, les LLMs font face à des limitations telles que des inexactitudes factuelles, des biais hérités des données d'entraînement et des problèmes de confidentialité des données. Des techniques comme le retrieval augmented generation (RAG) visent à améliorer la précision et à atténuer ces biais. L'entrevue avec Amir Feizpour, PDG et fondateur de AI Science, explore les impacts, applications, risques et défis des LLMs, ainsi que les opportunités pour les startups dans ce domaine. Feizpour souligne l'évolution progressive des capacités linguistiques des machines, la distinction entre l'apparence et la réalité des LLMs, et l'importance de la créativité humaine dans la collaboration humain-IA. Il suggère que l'avenir appartient aux startups qui se concentrent sur la résolution de problèmes spécifiques des clients et sur l'utilisation de données uniques, tout en adoptant des pratiques rigoureuses de développement de produits. Enfin, Feizpour aborde les implications sociétales des LLMs, y compris les changements potentiels dans les structures organisationnelles et la nature du travail, et plaide pour une approche équilibrée et multipartite pour gérer les risques tout en tirant parti des avantages de cette technologie.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6675a6df32454ad764e26ca0/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 21 Jun 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Amazon's AI Assistant Overhaul",
+        "link": "https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription",
+        "body": "Amazon prévoit de lancer une version améliorée de son assistant vocal Alexa, intégrant des fonctionnalités d'IA avancées. Cette nouvelle version pourrait coûter entre 5 et 10 dollars par mois en plus de l'abonnement Prime. La fonctionnalité distinctive de cette mise à niveau est la capacité de traiter plusieurs requêtes dans une seule invite, comme la rédaction d'un e-mail court et la commande de plats à emporter. De plus, l'IA Alexa pourra « apprendre » des utilisateurs et créer des routines personnalisées. Amazon vise un lancement en août, reflétant ses efforts pour rester compétitif face aux récents progrès des assistants IA de Google, Microsoft, OpenAI et Apple. La société teste déjà certains éléments de la nouvelle IA Alexa, que les utilisateurs peuvent essayer en s'inscrivant sur une liste d'attente via leur appareil Alexa existant.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1451x972:1452x973):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25289919/247023_Echo_Hub_JTuohy_0004.jpg",
+        "date": "Fri, 21 Jun 2024 13:47:55 GMT"
+    },
+    {
         "title": "Alexa Payante",
         "link": "https://www.forbes.com/sites/roberthart/2024/06/21/amazon-may-charge-for-alexa-report-suggest-major-overhaul-of-ai-assistant/?ss=ai",
         "body": "Résumé : Amazon envisage de facturer jusqu'à 10 $ par mois pour une version revue et améliorée de son assistant vocal Alexa, actuellement gratuit. La nouvelle version, nommée « Remarkable Alexa », utilisera l'IA pour offrir des fonctionnalités plus avancées, notamment la possibilité de gérer des tâches et des requêtes plus complexes. Le projet, connu en interne sous le nom de « Project Banyan », vise à donner un coup de jeune à Alexa, dont les capacités ont semblé datées par rapport aux récents progrès de l'IA. La nouvelle version payante d'Alexa offrirait une expérience plus sophistiquée, aidant les utilisateurs dans des tâches telles que le shopping, l'écriture d'emails, la commande de nourriture et la gestion des appareils intelligents à la maison. Amazon cible une date limite d'août pour le lancement de la nouvelle Alexa, bien que la date et les détails spécifiques du projet puissent évoluer. Cette initiative reflète la volonté d'Amazon de rester compétitif face à ses rivaux technologiques qui déploient des assistants IA de plus en plus impressionnants.",
@@ -40,6 +82,20 @@
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6674d308e66c8602a9aad968/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 21 Jun 2024 01:00:00 GMT"
+    },
+    {
+        "title": "Apple confronté au DMA en Europe",
+        "link": "https://www.frandroid.com/os/ios/2056320_mauvaise-nouvelle-les-meilleures-fonctionnalites-ios-18-ipados-18-et-macos-sequoia-seraient-retardees-en-europe",
+        "body": "Les utilisateurs européens d'Apple risquent d'être déçus, car certaines des fonctionnalités les plus attendues des nouveaux systèmes d'exploitation iOS 18, iPadOS 18 et macOS Sequoia pourraient ne pas être disponibles en raison du Digital Market Act (DMA) de l'Union européenne. Ces fonctionnalités incluent Apple Intelligence, le partage d'écran SharePlay et la fonction miroir iPhone-macOS. Cette décision pourrait affecter la décision des utilisateurs de passer aux nouveaux modèles d'iPhone. Le DMA, visant à promouvoir la concurrence et protéger les consommateurs, semble avoir dans ce cas précis un impact négatif sur les utilisateurs européens d'Apple.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ihqkowgxze-768x432.jpg?resize=169,169&key=2bf6de9d",
+        "date": "Thu, 20 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "ChatGPT : la course à l'AGI",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2055894_chatgpt-veut-devenir-aussi-pointu-quun-doctorant",
+        "body": "Mira Murati, directrice de la technologie chez OpenAI, suggère que le futur modèle de langage GPT-5 pourrait atteindre un niveau d'expertise équivalent à celui d'un doctorant sur des tâches spécifiques. Elle prévoit une évolution rapide de l'intelligence artificielle, avec des systèmes capables de rivaliser avec l'intelligence humaine dans certains domaines. Bien que la disponibilité de ce modèle ne soit pas attendue avant fin 2025 ou début 2026, les progrès dans le domaine de l'IA suscitent des discussions sur la réglementation nécessaire pour encadrer ces technologies avancées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-spring-update-59-54-screenshot-768x432.jpg?resize=169,169&key=967018c1",
+        "date": "Thu, 20 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "La montée en puissance de Claude, le chatbot IA",
@@ -173,33 +229,5 @@
         "body": "Snapchat dévoile un aperçu de son futur modèle d'IA fonctionnant directement sur l'appareil, capable de transformer l'environnement de l'utilisateur avec la réalité augmentée. Ce modèle permettra aux créateurs de créer des lentilles personnalisées à partir d'un texte, ouvrant ainsi la voie à des effets visuels surprenants. De plus, Snapchat lance une suite d'outils d'IA pour faciliter la création d'effets AR personnalisés, y compris des effets faciaux, des transformations en temps réel et la génération d'actifs 3D. Ces fonctionnalités s'ajoutent aux récentes innovations de Snapchat dans le domaine de l'IA, telles que l'envoi de snaps générés par IA et le lancement d'un chatbot AI alimenté par ChatGPT.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2638x1468/2400x1600/filters:focal(1319x734:1320x735):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25498203/snapchat_on_device_ai.png",
         "date": "Wed, 19 Jun 2024 21:26:21 GMT"
-    },
-    {
-        "title": "SSI : une nouvelle entreprise axée sur la sécurité de l'IA",
-        "link": "https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence",
-        "body": "Ilya Sutskever, cofondateur et ancien scientifique en chef d'OpenAI, lance une nouvelle entreprise spécialisée dans l'IA, Safe Superintelligence Inc. (SSI). SSI a pour objectif unique de créer un système d'IA sûr et puissant, en accordant une importance égale à la sécurité et aux capacités. La startup entend avancer rapidement tout en maintenant la sécurité comme priorité. Ilya Sutskever, Daniel Gross (ancien responsable de l'IA chez Apple) et Daniel Levy (ancien membre du personnel technique d'OpenAI) sont les cofondateurs. La sécurité est au cœur de SSI, à l'abri des pressions commerciales à court terme, ce qui lui permet de se développer en toute tranquillité. Sutskever a récemment quitté OpenAI après avoir tenté de destituer son PDG, Sam Altman. Des chercheurs en IA de renom ont également quitté OpenAI en raison de préoccupations similaires concernant la sécurité. SSI se concentrera exclusivement sur la création d'une superintelligence sûre, sans se laisser distraire par d'autres projets.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
-        "date": "Wed, 19 Jun 2024 18:03:37 GMT"
-    },
-    {
-        "title": "La mort de la pensée linéaire",
-        "link": "https://www.forbes.com/sites/steveandriole/2024/06/19/how-ai-kills-linear-thinking/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667322b9623c7170ca4c4400/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Jun 2024 18:00:00 GMT"
-    },
-    {
-        "title": "La chute de Perplexity",
-        "link": "https://www.wired.com/story/perplexity-is-a-bullshit-machine/",
-        "body": "L'article explore les pratiques controversées de Perplexity, une startup de recherche d'IA qui a récemment attiré des investissements importants. Perplexity se décrit comme un moteur de recherche alimenté par l'IA, combinant les fonctionnalités d'un moteur de recherche traditionnel et d'un chatbot. Cependant, l'analyse de WIRED suggère que Perplexity ignore les normes de l'industrie, gratte des sites Web sans permission et fournit des réponses inexactes et mal attribuées. Malgré les affirmations de Perplexity sur la transparence, ses pratiques de crawl Web sont opaques et impliquent l'utilisation d'adresses IP secrètes. L'article soulève également des questions sur la manière dont Perplexity génère des réponses, suggérant qu'il résume parfois des articles de presse sans y accéder directement, en se basant plutôt sur des URL et des métadonnées trouvées dans les moteurs de recherche. La startup est également confrontée à des accusations de plagiat et de violation de droits d'auteur. La réponse de Perplexity à ces allégations a été qualifiée d'évasive, et l'entreprise a depuis supprimé les références à ses adresses IP publiques. L'article conclut en soulignant l'importance de comprendre comment Perplexity fonctionne, au-delà de ce qu'elle fait, soulignant les implications éthiques et juridiques potentielles de ses pratiques.",
-        "image": "",
-        "date": "Wed, 19 Jun 2024 16:05:00 GMT"
-    },
-    {
-        "title": "La Réalité de l'IA",
-        "link": "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/",
-        "body": "Résumé : \n\nL'article aborde les récentes innovations dans le domaine de l'IA, notamment GPT-4, et leurs implications potentielles pour la société. L'auteur, un scientifique des données expérimenté, exprime son mécontentement face à la fraude et à l'incompétence qui règnent dans le domaine de l'IA, où de nombreuses entreprises lancent des initiatives sans cas d'utilisation réelle. Il critique les dirigeants qui font la promotion de l'IA sans comprendre la technologie ou ses applications pratiques, et suggère que la plupart des entreprises devraient se concentrer sur l'amélioration de leurs opérations et de leur culture plutôt que de se précipiter pour adopter l'IA. L'auteur prévoit que l'IA pourrait potentiellement révolutionner certains secteurs, mais met en garde contre les risques associés à une adoption précipitée et malavisée. Il souligne l'importance de cas d'utilisation clairs et de la collaboration interfonctionnelle, et exprime son dégoût pour les opportunistes qui exploitent le battage médiatique entourant l'IA, la blockchain et l'informatique quantique.",
-        "image": "",
-        "date": "Wed, 19 Jun 2024 15:34:46 GMT"
     }
 ]
