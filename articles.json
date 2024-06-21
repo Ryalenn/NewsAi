@@ -1,37 +1,9 @@
 [
     {
         "title": "",
-        "link": "https://www.wired.com/story/perplexity-is-a-bullshit-machine/",
-        "image": "",
-        "date": "Wed, 19 Jun 2024 16:05:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/",
-        "image": "",
-        "date": "Wed, 19 Jun 2024 15:34:46 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/steveandriole/2024/06/19/how-ai-kills-linear-thinking/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667322b9623c7170ca4c4400/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Jun 2024 18:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2638x1468/2400x1600/filters:focal(1319x734:1320x735):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25498203/snapchat_on_device_ai.png",
         "date": "Wed, 19 Jun 2024 21:26:21 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
-        "date": "Wed, 19 Jun 2024 18:03:37 GMT",
         "check": "yes"
     },
     {
@@ -42,14 +14,14 @@
         "check": "yes"
     },
     {
-        "title": "Le pire de ChatGPT : le \u00ab slop \u00bb qui est en train de pourrir le web",
+        "title": "Le pire de ChatGPT : le « slop » qui est en train de pourrir le web",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2054068_le-pire-de-chatgpt-le-slop-qui-est-en-train-de-pourrir-le-web",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/clarote-ai4medialabour-resources-2560x1440-1-768x432.jpg?resize=169,169&key=5746de90",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "\u00c9lections l\u00e9gislatives : pourquoi l\u2019IA pourrait \u00eatre un probl\u00e8me pendant la campagne",
+        "title": "Élections législatives : pourquoi l’IA pourrait être un problème pendant la campagne",
         "link": "https://www.frandroid.com/culture-tech/politique/2054028_elections-legislatives-pourquoi-lia-pourrait-etre-un-probleme-durant-la-campagne",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/4467058735-496a068054-o-768x432.jpg?resize=169,169&key=94d80aa8",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
@@ -77,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Le co-fondateur d\u2019OpenAI ouvre sa nouvelle startup",
+        "title": "Le co-fondateur d’OpenAI ouvre sa nouvelle startup",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2054806_le-co-fondateur-dopenai-ouvre-sa-nouvelle-startup",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/openai-768x432.jpg?resize=169,169&key=0bec5f35",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
@@ -91,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "YouTube Music a une solution pour trouver la musique parfaite que vous voulez \u00e9couter",
+        "title": "YouTube Music a une solution pour trouver la musique parfaite que vous voulez écouter",
         "link": "https://www.frandroid.com/marques/google/2054940_lintelligence-artificielle-pourrait-vous-aider-sur-youtube-music",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/youtube-x-768x512.jpg?resize=200,200&key=37561b46",
         "date": "Wed, 19 Jun 2024 23:00:00 GMT",
@@ -182,7 +154,7 @@
         "check": "yes"
     },
     {
-        "title": "Copilot : pourquoi les PC Copilot+ ne sont finalement pas si int\u00e9ressants\u2026 pour le moment",
+        "title": "Copilot : pourquoi les PC Copilot+ ne sont finalement pas si intéressants… pour le moment",
         "link": "https://www.frandroid.com/marques/microsoft/2055630_copilot-pourquoi-les-pc-copilot-ne-sont-finalement-pas-si-interessants-pour-le-moment",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pc-copilot-microsoft-768x384.jpeg?resize=150,150&key=af9f9886",
         "date": "Thu, 20 Jun 2024 23:00:00 GMT",
