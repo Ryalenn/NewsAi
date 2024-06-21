@@ -1,5 +1,12 @@
 [
     {
+        "title": "Microsoft Copilot+ PC Launch",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/06/20/microsoft-cant-recall-on-its-copilot-plus-pcs/?ss=ai",
+        "body": "Microsoft a lancé officiellement son programme Copilot+ PC, avec des processeurs Qualcomm Snapdragon X Elite et X Plus. Cependant, une fonctionnalité clé, Recall, a été retirée en raison de préoccupations liées à la vie privée. Microsoft et Qualcomm s'engagent pleinement dans le lancement, avec des kiosques de vente au détail dans des magasins comme Best Buy. Le programme AI PC de Microsoft intègre une unité de traitement neuronal (NPU) avec au moins 40 TOPS de performance et 16 Go de DRAM. Le Snapdragon X Elite de Qualcomm est actuellement le seul SoC prenant en charge Copilot + PC. Les processeurs AMD et Intel compatibles Copilot+ sont attendus plus tard cette année, mais le calendrier de support de Microsoft n'a pas été annoncé. La sortie anticipée de Copilot+ PC ne comprend pas toutes les fonctionnalités promises, ce qui pourrait entraîner une confusion chez les clients. La fonctionnalité Recall, qui agrège des informations sur l'utilisateur, a été retirée en raison de préoccupations concernant le stockage des données et la protection contre les attaques. Microsoft prévoit d'apporter des mises à jour à Recall pour répondre à ces préoccupations. Apple Intelligence, axé sur des fonctionnalités IA modestes, est également prévu pour l'automne. La confusion pourrait également survenir car les processeurs AMD et Intel compatibles Copilot+ ne seront pas pris en charge par Microsoft lors de leur lancement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6674b826fccbb3b428bb6c15/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "La course à l'IA fait grimper la consommation électrique",
         "link": "https://www.forbes.com/sites/bethkindig/2024/06/20/ai-power-consumption-rapidly-becoming-mission-critical/?ss=ai",
         "body": "La course à l'IA entre les géants de la tech entraîne une augmentation massive de la consommation électrique, avec des centres de données passant de dizaines de milliers à plus de 100 000 accélérateurs IA. La consommation électrique des centres de données devrait tripler en 2024 selon Morgan Stanley, atteignant 46 TWh. Les prévisions de Wells Fargo prévoient une augmentation de 550 % de la demande d'énergie pour l'IA d'ici 2026, puis de 1 150 % supplémentaires d'ici 2030. Les fabricants de puces comme Nvidia, AMD et Intel sortent de nouvelles générations d'accélérateurs IA, avec une consommation électrique plus élevée. Les centres de données adoptent le refroidissement liquide pour répondre aux exigences de refroidissement de ces clusters GPU massifs. La consommation d'énergie est un problème crucial pour l'industrie de l'IA, et la course à l'efficacité énergétique est un nouveau domaine de concurrence.",
@@ -145,47 +152,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666fdb8ba721ee7af1b4b678/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Jun 2024 05:29:00 GMT"
-    },
-    {
-        "title": "Amazon et Zeta Global révolutionnent le marketing hyper-personnalisé",
-        "link": "https://www.forbes.com/sites/shelleykohan/2024/06/19/amazon-partners-with-zeta-global-to-deliver-gen-ai-marketing-automation/?ss=ai",
-        "body": "Amazon Web Services (AWS) et Zeta Global ont annoncé une avancée significative dans le domaine de l'IA générative, permettant d'améliorer les applications de marketing omnicanal. La technologie Amazon Bedrock, une plateforme d'IA générative, est intégrée à la plateforme de marketing Zeta. Cela permet aux entreprises d'accéder facilement à des fonctionnalités de marketing omnicanal et d'améliorer leur compréhension des clients. David A. Steinberg, co-fondateur de Zeta Global, souligne l'importance de ces insights pour prévoir la demande, optimiser les stratégies marketing et créer du contenu adapté. Jon Williams, d'AWS, met en avant la possibilité de créer des messages hyper-personnalisés, favorisant la fidélité des clients. Les \"Zeta Creative AI Agents\" améliorent la plateforme de marketing Zeta Opportunity Engine (ZOE) en générant des insights et des images. Ces assistants IA peuvent apprendre les préférences des clients, envoyer des messages personnalisés et prédire leurs besoins futurs. La collaboration entre Amazon et Zeta Global révolutionne l'expérience client en améliorant le parcours d'achat et en offrant la possibilité de créer du contenu créatif de haute qualité, de personnaliser les expériences publicitaires et d'optimiser les campagnes. Steinberg souligne également la capacité des agents IA à analyser les performances des marques et des produits, aidant ainsi les détaillants à optimiser leurs stratégies et à négocier un meilleur financement. La technologie combinée d'Amazon AWS et de Zeta Global rend la création et la mise à l'échelle des initiatives marketing plus efficace et accessible. Le festival Cannes Lions, où David A. Steinberg a participé à des panels sur l'IA, est le plus grand rassemblement de la communauté marketing créative.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6672e8b909e104907bcfb04d/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "Meta restructure sa division matériel",
-        "link": "https://www.theverge.com/2024/6/18/24181420/meta-wearables-reality-labs-layoffs",
-        "body": "Meta restructure sa division matériel, désormais appelée Reality Labs, en deux groupes principaux : \"Metaverse\" et \"Wearables\". Cette restructuration entraîne également des licenciements, bien que leur nombre exact reste inconnu. La nouvelle organisation \"Metaverse\" supervisera la gamme de casques de réalité virtuelle Quest, tandis que \"Wearables\" se concentrera sur d'autres efforts matériels, notamment les lunettes intelligentes développées avec Ray-Ban. Cette annonce, faite par le CTO de Meta, Andrew Bosworth, marque un changement significatif dans la stratégie matérielle de l'entreprise depuis son renommage en 2020.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png",
-        "date": "Tue, 18 Jun 2024 23:20:24 GMT"
-    },
-    {
-        "title": "Apple limite l'accès à son IA",
-        "link": "https://www.frandroid.com/marques/apple/2053038_lintelligence-artificielle-nest-pas-du-tout-un-moyen-de-vendre-des-nouveaux-iphone-selon-apple",
-        "body": "Apple a récemment introduit l'IA dans ses produits, mais seuls les appareils les plus récents, tels que l'iPhone 15 Pro et certains iPad et Mac équipés de puces Apple Silicon, pourront en bénéficier. La société justifie cette décision par les exigences élevées en matière de puissance de calcul et de bande passante nécessaires pour exécuter les modèles d'IA en local sur les appareils. Les responsables d'Apple nient tout calcul tactique pour vendre de nouveaux iPhone, affirmant que leur objectif est de porter les nouvelles fonctionnalités sur le plus d'appareils possible.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/16052024-dsc00067apple-ipad-pro-m4-2024-frandroid-768x512.jpg?resize=200,200&key=acaa3e4f",
-        "date": "Tue, 18 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La domination de Nvidia dans le domaine de l'IA",
-        "link": "https://www.frandroid.com/marques/nvidia/2053010_3-400-000-000-000-dollars-nvidia-devient-lentreprise-la-plus-valorisee-au-monde-devant-apple-et-microsoft",
-        "body": "Nvidia, autrefois connu pour ses cartes graphiques, est désormais l'entreprise publique la plus valorisée au monde, avec une capitalisation boursière de 3,4 milliers de milliards de dollars. Cette réussite est due à sa mainmise sur le marché des puces dédiées à l'IA, en particulier avec son supercalculateur HGX A100. La puce A100 est devenue le système de référence pour l'IA, y compris pour ChatGPT. Nvidia contrôle ainsi 80 % du marché des serveurs spécialisés dans l'IA. Les cartes graphiques de Nvidia peuvent effectuer de nombreuses opérations en parallèle, ce qui est essentiel pour le développement de l'IA. Cependant, certains observateurs sont sceptiques quant à la durabilité de cette croissance, citant les coûts élevés de fonctionnement de l'IA et l'absence de modèle économique fiable.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/keynote-by-nvidia-ceo-jensen-huang-at-2024-siepr-economic-summit-48-49-screenshot-768x432.jpg?resize=169,169&key=0d10d86d",
-        "date": "Tue, 18 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung se lance dans les GPU, une nouvelle concurrence pour les géants de l'IA",
-        "link": "https://www.frandroid.com/marques/samsung/2053012_bientot-un-nouveau-concurrent-de-taille-pour-nvidia-amd-et-intel",
-        "body": "Samsung se prépare à entrer sur le marché des GPU, selon un article de Business Korea. La décision d'investissement a été approuvée par le comité de direction en mars 2024, bien que Samsung n'ait pas encore annoncé officiellement ses intentions. Cette nouvelle pourrait avoir un impact significatif sur le domaine de l'IA, car les GPU sont des composants clés pour le traitement de grandes quantités de données en parallèle. Samsung a déjà collaboré avec AMD pour développer des GPU pour smartphones, mais cet investissement suggère un intérêt plus profond pour la technologie. Bien que certaines interprétations suggèrent que l'investissement pourrait être lié à l'amélioration de la fabrication de semi-conducteurs, la décision de Samsung de se concentrer sur les GPU pourrait créer une nouvelle concurrence pour les acteurs établis tels que Nvidia, Intel et AMD, offrant ainsi plus de choix aux consommateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/samsung-marque-768x465.jpg?resize=182,182&key=e3d1ae2f",
-        "date": "Tue, 18 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la réalisation de films ?",
-        "link": "https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar",
-        "body": "L'article traite de la récente démonstration de l'outil de génération de vidéos de l'entreprise d'IA Luma, appelé Dream Machine. Dream Machine est un modèle de transformation capable de créer des vidéos à partir de simples invites textuelles. Bien que Luma ait promu Dream Machine comme une innovation révolutionnaire dans la réalisation de films, offrant des « plans de haute qualité et réalistes », la source des images utilisées pour entraîner le modèle a suscité des interrogations et des préoccupations en matière de transparence. En particulier, une bande-annonce générée par l'IA pour un court métrage d'animation intitulé « Monster Camp » a attiré l'attention en raison de sa ressemblance avec le personnage de Mike Wazowski de « Monsters, Inc. » de Pixar, soulevant des questions sur les données d'entraînement du modèle et la possibilité de violation de droits d'auteur. Luma propose actuellement Dream Machine gratuitement, ainsi que des niveaux payants avec des fonctionnalités supplémentaires. Bien que Disney n'ait pas commenté publiquement l'utilisation apparente de son matériel, l'article souligne la nécessité croissante de transparence dans les ensembles de données qui alimentent les outils d'IA, en particulier dans le contexte de la créativité et des préoccupations potentielles en matière de plagiat.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2880x1580/2400x1600/filters:focal(1440x790:1441x791):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25495078/Screen_Shot_2024_06_17_at_10.57.59_AM.png",
-        "date": "Tue, 18 Jun 2024 22:05:43 GMT"
     }
 ]
