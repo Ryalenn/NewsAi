@@ -7,6 +7,13 @@
         "date": "Sat, 22 Jun 2024 10:00:00 GMT"
     },
     {
+        "title": "La course à l'IA générative",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2055708_google-apple-microsoft-openai-qui-vous-convainc-le-plus-sur-sa-vision-de-lintelligence-artificielle",
+        "body": "En mai et juin 2024, quatre géants de la tech ont fait des annonces majeures sur l'IA générative : OpenAI, Google, Microsoft et Apple. OpenAI a dévoilé GTP-4o, une mise à jour de son LLM, tandis que Google a présenté Gemini, destiné à remplacer Google Assistant. Microsoft a introduit les PC Copilot+ et Apple a révélé Apple Intelligence, un système IA pour ses produits. Ces entreprises proposent des visions différentes de l'IA pour convaincre les utilisateurs d'adopter leurs technologies.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/z-10-768x432.jpg?resize=169,169&key=b4c80f84",
+        "date": "Fri, 21 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "TikTok's AI Avatar Mishap",
         "link": "https://www.theverge.com/2024/6/21/24183335/tiktok-ai-symphony-digital-avatar-generator-moderation",
         "body": "TikTok a accidentellement publié un lien vers une version interne de son nouvel outil d'avatar numérique basé sur l'IA sans restrictions, permettant aux utilisateurs de créer des vidéos contenant divers énoncés. CNN a découvert le problème et a pu générer des vidéos avec des citations de Hitler, des messages incitant à boire de l'eau de Javel, entre autres phrases inappropriées. La version concernée a été retirée par TikTok, tandis que la version officielle de l'outil est toujours disponible. L'outil Symphony Digital Avatars de TikTok permet aux entreprises de créer des publicités à l'aide de la ressemblance d'acteurs payés et de doublage assisté par IA. Seules les personnes disposant d'un compte TikTok Ads Manager devraient y avoir accès, mais la version découverte par CNN était accessible à tout utilisateur disposant d'un compte personnel. TikTok a déclaré avoir résolu l'erreur technique, mais cet incident soulève des questions sur la capacité de la plateforme à gérer les abus potentiels de son outil de création d'avatars numériques.",
@@ -159,12 +166,5 @@
         "body": "Vinod Khosla, entrepreneur et investisseur de renom, s'est joint au panel de Forbes' Iconoclast Summit 2024, intitulé « The Midas Touch : Battle for AI's Future ». Lors de cette discussion, animée par Alex Konrad, Senior Editor chez Forbes, Khosla partage ses idées sur l'évolution de l'IA et de la technologie. Il aborde les délais d'adaptation et d'adoption de ces technologies, offrant des perspectives précieuses pour quiconque travaille dans le domaine de l'IA.",
         "image": "https://imageio.forbes.com/i-forbesimg/media/video/2024/06/20/9036c952-a8f2-4911-8b14-3ce8055c3943_thumb.jpg?format=jpg&width=440",
         "date": "Thu, 20 Jun 2024 19:00:00 GMT"
-    },
-    {
-        "title": "YouTube's AI Guidelines",
-        "link": "https://www.theverge.com/2023/11/14/23959658/google-youtube-generative-ai-labels-music-copyright",
-        "body": "YouTube introduit deux ensembles de directives pour les contenus générés par l'IA : un ensemble strict pour l'industrie musicale et un autre, plus souple, pour les autres utilisateurs. Les créateurs devront étiqueter les contenus \"réalistes\" générés par l'IA lors du téléchargement, avec des pénalités pour non-respect, y compris la suppression et la démonétisation. La plateforme investit dans des outils pour détecter les contenus générés par l'IA, mais ils n'existent pas encore. Les individus pourront demander la suppression de vidéos les représentant de manière réaliste. YouTube évalue les demandes en fonction de facteurs tels que la parodie, la satire et le statut de personnalité publique. La plateforme offre une protection spéciale aux voix chantées et rappées, sans exceptions pour la parodie ou la satire. La complexité des règles et leur application soulèvent des questions sur la transparence et la cohérence.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:6762x5361/2400x2400/filters:focal(3197x1356:3198x1357):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25083388/1448234909.jpg",
-        "date": "Thu, 20 Jun 2024 17:12:05 GMT"
     }
 ]
