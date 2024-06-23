@@ -7,7 +7,7 @@
         "check": "yes"
     },
     {
-        "title": "Google, Apple, Microsoft, OpenAI : qui vous convainc le plus sur l’IA ?",
+        "title": "Google, Apple, Microsoft, OpenAI : qui vous convainc le plus sur l\u2019IA ?",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2055708_google-apple-microsoft-openai-qui-vous-convainc-le-plus-sur-sa-vision-de-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/z-10-768x432.jpg?resize=169,169&key=b4c80f84",
         "date": "Fri, 21 Jun 2024 23:00:00 GMT",
@@ -19,5 +19,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/667634b9bf163b822f473934/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 23 Jun 2024 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/21/24183510/catch-up-on-the-state-of-the-ai-industry",
+        "image": "",
+        "date": "Fri, 21 Jun 2024 23:34:02 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2024/06/23/what-if-tesla-were-powered-by-artificial-integrity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66785208a257b5fb8d6f4b12/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 23 Jun 2024 20:00:00 GMT",
+        "check": "no"
     }
 ]
