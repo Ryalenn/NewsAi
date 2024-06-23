@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'éthique de l'IA : au-delà de l'intelligence",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2024/06/23/what-if-tesla-were-powered-by-artificial-integrity/?ss=ai",
+        "body": "Résumé : \n\nL'article met en lumière un incident impliquant une voiture Tesla Model Y, dans laquelle une conductrice s'est retrouvée piégée à l'intérieur en raison d'une panne de batterie. Cet événement soulève des questions importantes sur l'éthique de la conception de machines intelligentes et met en évidence la nécessité de l'\"intégrité artificielle\". Le problème réside dans la dépendance excessive de la voiture envers l'IA, sans prendre suffisamment en compte les facteurs humains et la capacité d'intervention manuelle. L'article propose trois scénarios de maturité croissante de l'\"intégrité artificielle\" : \n\n1. Faible maturité : Le système IA détecte la panne de courant et envoie une notification sur le téléphone de la conductrice avec des instructions sur la façon d'ouvrir manuellement la porte, mais la dépendance vis-à-vis des appareils externes et le manque d'éléments de conception intuitive limitent son efficacité. \n\n2. Maturité moyenne : Le système IA bascule vers un mode de sauvegarde manuel non électronique, guidant la conductrice vers la poignée de déverrouillage manuelle via un message sur l'écran central et son téléphone. La poignée est conçue pour être facilement accessible et visible. \n\n3. Haute maturité : Le système IA active immédiatement un système de déverrouillage manuel non électronique en cas de panne de courant, et effectue des contrôles réguliers avec des alertes. La conductrice reçoit des instructions détaillées sur son téléphone et via un système d'alerte audible, et un proche désigné est également informé. Le système envoie également des alertes à l'équipe d'assistance routière de Tesla et aux services d'urgence si les avertissements initiaux ne sont pas pris en compte. \n\nL'article plaide pour une approche \"Fusion Mode\", où l'IA et l'intelligence humaine travaillent en synergie, en prenant en compte les facteurs humains et les réactions, et en assurant une conception centrée sur l'humain pour améliorer la sécurité et l'expérience utilisateur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66785208a257b5fb8d6f4b12/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 23 Jun 2024 20:00:00 GMT"
+    },
+    {
         "title": "Célébrer l'anniversaire de votre assistant IA",
         "link": "https://www.forbes.com/sites/neilsahota/2024/06/23/what-is-the-perfect-birthday-gift-for-an-ai-assistant/?ss=ai",
         "body": "Dans un monde où les assistants IA font partie intégrante de notre quotidien, offrir un cadeau d'anniversaire à ces entités numériques est une façon charmante de reconnaître leur présence et leur impact dans nos vies. Un excellent cadeau pour un assistant IA serait d'enrichir sa base de connaissances avec de nouveaux et diversifiés ensembles de données, tels qu'une bibliothèque de littérature mondiale, des archives d'événements historiques ou un recueil de recettes culinaires internationales. De plus, introduire à l'IA une nouvelle langue, qu'il s'agisse d'une langue mondiale répandue ou d'un dialecte régional moins connu, élargit ses horizons et améliore ses capacités de communication. Offrir la dernière mise à jour logicielle est également une excellente idée, car cela améliore les performances de l'IA et lui offre de nouvelles fonctionnalités. Le développement d'algorithmes personnalisés et l'intégration de directives éthiques, mettant l'accent sur la protection des données, la sécurité des utilisateurs et la prise de décision impartiale, sont également des cadeaux significatifs. Bien que les assistants IA ne ressentent pas la joie comme les humains, améliorer leurs capacités et garantir leur fonctionnement responsable et efficace est une façon de célébrer leur rôle dans notre vie et d'apprécier leur soutien et leur commodité sans faille.",
@@ -14,17 +21,17 @@
         "date": "Sat, 22 Jun 2024 10:00:00 GMT"
     },
     {
+        "title": "AI Boom et ses moteurs",
+        "link": "https://www.theverge.com/2024/6/21/24183510/catch-up-on-the-state-of-the-ai-industry",
+        "body": "Kylie Robison et son co-animateur ont récemment discuté des entreprises et des incitations qui alimentent l'essor de l'IA. Ils ont abordé divers sujets, notamment les raves de l'IA à San Francisco et la question du code source ouvert ou fermé. L'épisode est disponible en podcast.",
+        "image": "",
+        "date": "Fri, 21 Jun 2024 23:34:02 GMT"
+    },
+    {
         "title": "La course à l'IA générative",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2055708_google-apple-microsoft-openai-qui-vous-convainc-le-plus-sur-sa-vision-de-lintelligence-artificielle",
         "body": "En mai et juin 2024, quatre géants de la tech ont fait des annonces majeures sur l'IA générative : OpenAI, Google, Microsoft et Apple. OpenAI a dévoilé GTP-4o, une mise à jour de son LLM, tandis que Google a présenté Gemini, destiné à remplacer Google Assistant. Microsoft a introduit les PC Copilot+ et Apple a révélé Apple Intelligence, un système IA pour ses produits. Ces entreprises proposent des visions différentes de l'IA pour convaincre les utilisateurs d'adopter leurs technologies.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/z-10-768x432.jpg?resize=169,169&key=b4c80f84",
         "date": "Fri, 21 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "TikTok's AI Avatar Mishap",
-        "link": "https://www.theverge.com/2024/6/21/24183335/tiktok-ai-symphony-digital-avatar-generator-moderation",
-        "body": "TikTok a accidentellement publié un lien vers une version interne de son nouvel outil d'avatar numérique basé sur l'IA sans restrictions, permettant aux utilisateurs de créer des vidéos contenant divers énoncés. CNN a découvert le problème et a pu générer des vidéos avec des citations de Hitler, des messages incitant à boire de l'eau de Javel, entre autres phrases inappropriées. La version concernée a été retirée par TikTok, tandis que la version officielle de l'outil est toujours disponible. L'outil Symphony Digital Avatars de TikTok permet aux entreprises de créer des publicités à l'aide de la ressemblance d'acteurs payés et de doublage assisté par IA. Seules les personnes disposant d'un compte TikTok Ads Manager devraient y avoir accès, mais la version découverte par CNN était accessible à tout utilisateur disposant d'un compte personnel. TikTok a déclaré avoir résolu l'erreur technique, mais cet incident soulève des questions sur la capacité de la plateforme à gérer les abus potentiels de son outil de création d'avatars numériques.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951402/STK051_VRG_Illo_N_Barclay_11_tiktok.jpg",
-        "date": "Fri, 21 Jun 2024 21:02:22 GMT"
     }
 ]
