@@ -1,5 +1,12 @@
 [
     {
+        "title": "Problèmes avec l'étiquette \"Made by AI\" de Meta",
+        "link": "https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels",
+        "body": "Plusieurs photographes se plaignent que Meta étiquette à tort leurs photos réelles comme étant \"fabriquées par l'IA\". Cela se produit même pour des modifications mineures, comme la recadrer ou enlever de petits objets avec des outils d'IA. Meta a déclaré qu'il était au courant du problème et qu'il évaluait son approche pour que les étiquettes reflètent mieux l'utilisation réelle de l'IA. La société s'appuie sur des indicateurs standard de l'industrie, tels que les métadonnées ajoutées par des entreprises comme Adobe, pour identifier les images générées par l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977155/acastro_211101_1777_meta_0001.jpg",
+        "date": "Mon, 24 Jun 2024 18:21:55 GMT"
+    },
+    {
         "title": "L'avenir de l'informatique quantique avec l'IA",
         "link": "https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/?ss=ai",
         "body": "Bien que l'informatique quantique et l'IA soient des technologies distinctes, l'IA peut améliorer les capacités de l'informatique quantique, et plusieurs entreprises travaillent à leur intégration. IBM, leader dans les domaines de l'informatique quantique et de l'IA, combine ces deux technologies pour améliorer l'informatique quantique et accélérer son adoption. L'entreprise intègre son IA Watson dans le logiciel Qiskit pour améliorer son utilisation et développer de nouveaux modèles d'IA pour optimiser les circuits, gérer les ressources et améliorer la suppression des erreurs. IBM prévoit également d'introduire des assistants quantiques chatbot pour les développeurs et les utilisateurs de ses services quantiques. Avec l'objectif ambitieux d'atteindre 100 millions de portes quantiques d'ici la fin de la décennie, l'informatique quantique évolue rapidement vers le déploiement d'applications pratiques. Cela pourrait conduire à l'émergence de centres de données hétérogènes combinant CPU, accélérateurs IA et unités de traitement quantique d'ici la fin des années 2020.",
@@ -14,11 +21,25 @@
         "date": "Mon, 24 Jun 2024 16:00:00 GMT"
     },
     {
+        "title": "La musique générée par l'IA est-elle une menace pour l'industrie musicale ?",
+        "link": "https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner",
+        "body": "Résumé : \n\nLes principales maisons de disques poursuivent en justice deux entreprises de musique générative, Suno et Udio, pour violation massive du droit d'auteur. Ces entreprises utilisent des invites textuelles pour créer des chansons originales, avec un certain succès : Suno est intégré à Microsoft Copilot et Udio a créé « BBL Drizzy », un exemple populaire de musique AI virale. La Recording Industry Association of America (RIAA) demande des dommages-intérêts pouvant atteindre 150 000 $ par œuvre, arguant que Suno et Udio copient illégalement des enregistrements sonores à grande échelle. Suno se défend en affirmant que sa technologie est « transformative » et conçue pour générer de nouveaux contenus, et non pour reproduire des œuvres existantes. La RIAA fournit des exemples de chansons générées par Suno et Udio qui ressemblent étroitement à des chansons sous droit d'auteur. Ces poursuites soulignent le conflit entre l'industrie musicale et les entreprises technologiques proposant des outils d'IA, remettant en question le contrôle des musiciens sur leur image et leur travail dans l'ère de l'IA. Les plateformes en ligne comme TikTok et YouTube sont également affectées par la prolifération de la musique générée par l'IA. Les entreprises d'IA manquent de transparence sur les données utilisées pour entraîner leurs modèles, ce qui soulève des préoccupations éthiques. L'industrie musicale craint que la musique générée par l'IA ne nuise à la capacité des artistes humains à tirer un revenu de leur travail.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383541/STK467_AI_MUSIC_CVirginia_A.jpg",
+        "date": "Mon, 24 Jun 2024 15:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la tarification dynamique : piloté par l'IA",
         "link": "https://www.forbes.com/sites/neilsahota/2024/06/24/harnessing-ai-for-dynamic-pricing-for-your-business/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6676372d677201fd7eb060b2/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Jun 2024 14:28:00 GMT"
+    },
+    {
+        "title": "Shopify lance son chatbot IA Sidekick et d'autres outils IA",
+        "link": "https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition",
+        "body": "Shopify a annoncé le lancement anticipé de son chatbot IA « Sidekick », ainsi que d'autres fonctionnalités axées sur l'IA. Sidekick, conçu pour assister les marchands, est actuellement disponible en anglais pour les magasins d'Amérique du Nord. Shopify propose également une catégorisation de produits assistée par l'IA, suggérant automatiquement une taxonomie pour les listes de produits, ainsi qu'un outil de suggestion de réponses pour les discussions clients. L'entreprise lance également son générateur d'images assisté par l'IA sur iOS et Android, permettant aux marchands de l'utiliser dans plus de sections de leur administration Shopify.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501273/Sidekick_IMAGE.jpg",
+        "date": "Mon, 24 Jun 2024 13:00:00 GMT"
     },
     {
         "title": "Apple Accused of Antitrust Violations by EU",
