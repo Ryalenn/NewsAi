@@ -82,5 +82,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/667998a49f4019cfe3426cd6/0x0.png?format=png&crop=1932,1086,x0,y279,safe&width=440",
         "date": "Mon, 24 Jun 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977155/acastro_211101_1777_meta_0001.jpg",
+        "date": "Mon, 24 Jun 2024 18:21:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383541/STK467_AI_MUSIC_CVirginia_A.jpg",
+        "date": "Mon, 24 Jun 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501273/Sidekick_IMAGE.jpg",
+        "date": "Mon, 24 Jun 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
