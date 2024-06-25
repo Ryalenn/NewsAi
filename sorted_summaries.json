@@ -42,6 +42,13 @@
         "date": "Tue, 25 Jun 2024 00:00:00 GMT"
     },
     {
+        "title": "Gmail intègre Gemini, une IA pour résumer et rédiger des emails",
+        "link": "https://www.frandroid.com/marques/google/2058392_gmail-ca-y-est-google-commence-a-saupoudrer-gemini-sur-nos-boites-mail",
+        "body": "Google ajoute une nouvelle fonctionnalité d'IA à Gmail avec la barre latérale Gemini. Celle-ci peut résumer les emails, identifier les points clés des échanges et même rédiger des brouillons. Gemini offrira également des \"invites proactives\" et répondra aux questions des utilisateurs. Ces fonctionnalités sont basées sur les modèles d'IA les plus efficaces de Google, notamment Gemini 1.5 Pro. Cependant, ces fonctionnalités ne seront accessibles qu'aux utilisateurs disposant d'un abonnement Google Workspace ou Google One AI Premium.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/gmail-illsutration-spam-768x512.jpg?resize=200,200&key=c5b96556",
+        "date": "Mon, 24 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "La riposte d'Amazon",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2058558_lavenir-damazon-alexa-metis-serait-son-arme-secrete-face-a-chatgpt",
         "body": "Amazon se prépare à lancer son propre chatbot, nommé Metis, pour concurrencer ChatGPT. Basé sur le modèle d'IA Olympus, Metis serait une version améliorée du modèle Titan, accessible au public. Ses fonctionnalités incluent la génération de texte, l'analyse d'images, et la possibilité d'accéder à des informations en temps réel au-delà de sa base de données initiale. Amazon pourrait utiliser Metis pour améliorer son assistant vocal Alexa et ainsi rattraper son retard sur ses concurrents dans le domaine de l'IA.",
@@ -145,6 +152,13 @@
         "body": "Résumé : \n\nL'article met en lumière un incident impliquant une voiture Tesla Model Y, dans laquelle une conductrice s'est retrouvée piégée à l'intérieur en raison d'une panne de batterie. Cet événement soulève des questions importantes sur l'éthique de la conception de machines intelligentes et met en évidence la nécessité de l'\"intégrité artificielle\". Le problème réside dans la dépendance excessive de la voiture envers l'IA, sans prendre suffisamment en compte les facteurs humains et la capacité d'intervention manuelle. L'article propose trois scénarios de maturité croissante de l'\"intégrité artificielle\" : \n\n1. Faible maturité : Le système IA détecte la panne de courant et envoie une notification sur le téléphone de la conductrice avec des instructions sur la façon d'ouvrir manuellement la porte, mais la dépendance vis-à-vis des appareils externes et le manque d'éléments de conception intuitive limitent son efficacité. \n\n2. Maturité moyenne : Le système IA bascule vers un mode de sauvegarde manuel non électronique, guidant la conductrice vers la poignée de déverrouillage manuelle via un message sur l'écran central et son téléphone. La poignée est conçue pour être facilement accessible et visible. \n\n3. Haute maturité : Le système IA active immédiatement un système de déverrouillage manuel non électronique en cas de panne de courant, et effectue des contrôles réguliers avec des alertes. La conductrice reçoit des instructions détaillées sur son téléphone et via un système d'alerte audible, et un proche désigné est également informé. Le système envoie également des alertes à l'équipe d'assistance routière de Tesla et aux services d'urgence si les avertissements initiaux ne sont pas pris en compte. \n\nL'article plaide pour une approche \"Fusion Mode\", où l'IA et l'intelligence humaine travaillent en synergie, en prenant en compte les facteurs humains et les réactions, et en assurant une conception centrée sur l'humain pour améliorer la sécurité et l'expérience utilisateur.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66785208a257b5fb8d6f4b12/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 23 Jun 2024 20:00:00 GMT"
+    },
+    {
+        "title": "Apple adopte ChatGPT pour Siri",
+        "link": "https://www.theverge.com/2024/6/10/24174786/apple-openai-partnership-chatgpt-wwdc",
+        "body": "Apple a annoncé lors de sa conférence WWDC 2024 qu'il s'associait avec OpenAI pour intégrer ChatGPT à Siri et aux outils d'écriture système d'Apple. ChatGPT sera disponible gratuitement sur iOS 18 et macOS Sequoia, et les utilisateurs payants de ChatGPT pourront accéder à des fonctionnalités premium d'OpenAI. Ce partenariat attendu depuis longtemps intervient alors qu'Apple cherche à intégrer des fonctionnalités d'IA pour rivaliser avec les autres grandes entreprises technologiques. OpenAI a confirmé que GPT-4o, avec son assistant vocal controversé, alimentera ChatGPT sur les appareils Apple.",
+        "image": "",
+        "date": "Sun, 23 Jun 2024 18:28:49 GMT"
     },
     {
         "title": "Les géants de la tech s'associent à des startups pour développer des fonctionnalités d'IA",
