@@ -1,5 +1,12 @@
 [
     {
+        "title": "La détection des \"cheap fakes\" avec l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/25/cheap-fakes-and-rescuing-humankind-via-generative-ai/?ss=ai",
+        "body": "L'article explore le phénomène des \"cheap fakes\", des contenus trompeurs créés manuellement ou avec des outils d'édition non-IA, par opposition aux \"deepfakes\" générés par l'IA. Il explique comment les Large Language Models (LLMs) et l'IA générative peuvent aider à lutter contre la prolifération des \"cheap fakes\". L'IA peut détecter les \"cheap fakes\" en comparant les contenus suspects à des originaux, en analysant les métadonnées et en identifiant des signes de manipulation. Cependant, les créateurs de \"cheap fakes\" s'adaptent et utilisent des techniques de plus en plus sophistiquées pour éviter la détection, créant un jeu du chat et de la souris. L'article conclut en soulignant l'importance de rester vigilant face aux \"cheap fakes\" et en discutant des implications sociétales et légales.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667a33a70ffc84d1b3d6cb45/0x0.jpg?format=jpg&crop=2488,1865,x72,y0,safe&width=440",
+        "date": "Tue, 25 Jun 2024 12:00:00 GMT"
+    },
+    {
         "title": "L'évolution de l'IA : au-delà de l'analyse, la création",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/06/25/the-vital-difference-between-machine-learning-and-generative-ai/?ss=ai",
         "body": "L'intelligence artificielle (IA) évolue vers deux technologies distinctes : l'apprentissage automatique (machine learning) et l'IA générative. L'apprentissage automatique, un sous-ensemble de l'IA, se concentre sur la création de systèmes capables d'apprendre à partir de données, d'identifier des modèles et de prendre des décisions avec une intervention humaine minimale. L'IA générative, quant à elle, va plus loin que l'analyse de données en créant du contenu nouveau et innovant, qu'il s'agisse de texte, d'images, de musique ou de vidéos, qui imite les créations humaines. Alors que l'apprentissage automatique excelle dans l'analyse de données et la prise de décisions, l'IA générative repousse les limites de la créativité. Les deux technologies se complètent et peuvent améliorer mutuellement leurs performances. L'IA générative peut, par exemple, créer des données synthétiques pour entraîner des modèles d'apprentissage automatique lorsque les données réelles sont rares ou coûteuses à obtenir. De même, l'apprentissage automatique peut affiner le processus d'évaluation et fournir de meilleures données d'entraînement pour améliorer les performances des modèles d'IA générative. Ces technologies transforment déjà divers secteurs, tels que la santé et le divertissement, et ouvrent des possibilités passionnantes pour l'avenir.",
@@ -12,6 +19,13 @@
         "body": "Le texte met en lumière les défis logistiques souvent oubliés liés au déploiement des LLM et des agents d'IA. Il présente le concept de \"déclarative optimization\", qui assure le bon fonctionnement d'un programme dans différents environnements. Les programmeurs gèrent les aspects techniques de la construction et de l'exécution de systèmes cognitifs, confrontés à des changements constants et rapides. Les experts soulignent la nécessité de gérer les nouveaux GPU, matériels, services et outils, ce qui peut s'avérer écrasant. Michael Cafarella, chercheur du MIT, souligne les objectifs de vitesse, de coût et de qualité des programmeurs. Le système Palimpzest est présenté comme un outil capable de rationaliser les opérations en fonction du contexte, éliminant ainsi les tâches fastidieuses de rédaction de prompts ou d'étiquetage des données. L'optimisation déclarative pourrait jouer un rôle clé dans la construction de la prochaine génération de systèmes d'IA, en particulier face aux limitations informatiques à long terme.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667a0530624c0c3b8041d20b/0x0.png?format=png&width=440",
         "date": "Tue, 25 Jun 2024 00:00:00 GMT"
+    },
+    {
+        "title": "La riposte d'Amazon",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2058558_lavenir-damazon-alexa-metis-serait-son-arme-secrete-face-a-chatgpt",
+        "body": "Amazon se prépare à lancer son propre chatbot, nommé Metis, pour concurrencer ChatGPT. Basé sur le modèle d'IA Olympus, Metis serait une version améliorée du modèle Titan, accessible au public. Ses fonctionnalités incluent la génération de texte, l'analyse d'images, et la possibilité d'accéder à des informations en temps réel au-delà de sa base de données initiale. Amazon pourrait utiliser Metis pour améliorer son assistant vocal Alexa et ainsi rattraper son retard sur ses concurrents dans le domaine de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/amazon-alexa-768x512.jpg?resize=200,200&key=b55d6c0b",
+        "date": "Mon, 24 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "Problèmes avec l'étiquette \"Made by AI\" de Meta",
