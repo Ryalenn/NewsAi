@@ -1,5 +1,33 @@
 [
     {
+        "title": "ChatGPT Voice Mode Delayed",
+        "link": "https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed",
+        "body": "L'article résume les dernières mises à jour de OpenAI, notamment le report du lancement de la version alpha du nouveau mode vocal de ChatGPT, qui devait initialement être disponible pour un petit groupe d'abonnés ChatGPT Plus. OpenAI souhaite améliorer la capacité du modèle à détecter et refuser certains contenus. Les nouvelles fonctionnalités d'assistant, ressemblant à celles du film \"Her\", montrent comment le bot basé sur GPT-4 peut observer et interagir avec l'environnement de l'utilisateur en temps réel, avec des temps de réponse et une expressivité de niveau humain. L'application de bureau ChatGPT pour macOS est désormais disponible, avec une application Windows prévue pour plus tard cette année.",
+        "image": "",
+        "date": "Tue, 25 Jun 2024 22:40:31 GMT"
+    },
+    {
+        "title": "Les géants de la tech s'emparent de l'IA conversationnelle",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. OpenAI a annoncé une mise à jour de printemps, y compris une application de bureau pour ChatGPT et un mode vocal avancé. Apple a annoncé un partenariat avec OpenAI pour intégrer ChatGPT à iOS 18, et discute également avec d'autres startups d'IA. OpenAI a également acquis Rockset, une startup d'analyse d'entreprise, et a conclu un accord avec News Corp pour accéder à ses articles pour l'entraînement et les réponses aux questions. Google a lancé Gemini Nano pour les appareils Pixel 8 et 8A, et prévoit de mettre à jour Siri avec des fonctionnalités d'IA pour iOS 18. Enfin, des startups comme Character.AI et Replika gagnent en popularité en proposant des chatbots plus proches des compagnons.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Tue, 25 Jun 2024 22:40:31 GMT"
+    },
+    {
+        "title": "Reddit limite l'accès aux données pour les bots et l'entraînement des modèles IA",
+        "link": "https://www.theverge.com/2024/6/25/24185984/reddit-robots-txt-fight-ai-bots-scraping-crawlers",
+        "body": "Résumé : \n\nReddit va commencer à bloquer la plupart des bots automatisés de l'accès à ses données publiques, exigeant des accords de licence pour utiliser son contenu à des fins commerciales, y compris l'entraînement de modèles IA. Cette décision souligne l'importance du fichier robots.txt, qui régit l'accès des web crawlers aux sites web. Alors que les moteurs de recherche comme Google ont traditionnellement utilisé ce fichier pour indexer le web, les entreprises d'IA ont récemment commencé à ingérer de grandes quantités de données en ligne pour entraîner leurs modèles. La mise à jour de Reddit met en évidence la nécessité pour les entreprises d'obtenir des licences appropriées pour utiliser les données en ligne à des fins d'entraînement de modèles IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24739225/Command_Line_Site_Post_Reddit.jpg",
+        "date": "Tue, 25 Jun 2024 21:49:32 GMT"
+    },
+    {
+        "title": "Rivian-VW Partnership",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/06/25/volkswagen-investing-up-to-5-billion-in-rivian/?ss=ai",
+        "body": "Volkswagen investit jusqu'à 5 milliards de dollars dans le constructeur de véhicules électriques Rivian, et les deux entreprises forment une coentreprise pour développer une plateforme logicielle automobile basée sur la technologie de Rivian. Cette collaboration aidera Rivian à réduire ses coûts de composants et de matériaux, tout en lui permettant de mieux concurrencer Tesla et les rivaux chinois. L'investissement initial de Volkswagen s'élève à 1 milliard de dollars, avec des investissements supplémentaires pouvant atteindre 4 milliards de dollars d'ici 2026, sous réserve de la réalisation de jalons techniques. Le partenariat profitera également à Rivian pour le lancement de ses prochains véhicules électriques, grâce au soutien d'Amazon, son plus grand investisseur et principal acheteur de ses camions de livraison électriques. Les nouveaux fonds pourraient aussi aider à la reprise de la construction de son usine en Géorgie. La coentreprise technologique 50-50 entre les deux entreprises se concentrera sur l'intégration de l'infodivertissement, de la connectivité sans fil et des fonctions de conduite autonome, entre autres.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667b3543d7df70be11c1ab33/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 25 Jun 2024 21:00:00 GMT"
+    },
+    {
         "title": "The Lithium War",
         "link": "https://www.forbes.com/sites/davidteich/2024/06/25/the-war-below-an-excellent-look-at-lithium-and-copper-mining/?ss=ai",
         "body": "Un journaliste, Ernest Scheyder, explore dans son livre \"The War Below\" l'importance du lithium dans la course mondiale à l'énergie. Le lithium est essentiel aux batteries modernes, notamment celles utilisées dans les véhicules électriques et le stockage de l'énergie solaire. L'extraction du lithium, bien qu'aidant à lutter contre le réchauffement climatique, peut avoir des effets négatifs sur l'environnement. Scheyder souligne le besoin de lois et de technologies plus modernes dans le secteur minier, et aborde également les enjeux géopolitiques et les défis commerciaux liés à la sécurité énergétique et à la durabilité.",
@@ -19,6 +47,13 @@
         "body": "Amazon développe secrètement un concurrent de ChatGPT, nommé Metis, alimenté par son propre modèle d'IA, Olympus. Apple discute avec Meta, Anthropic et Perplexity pour intégrer leurs modèles d'IA dans Apple Intelligence pour les appareils Apple. Perplexity est accusé de plagiat et de non-respect des règles d'exclusion de contenu pour l'entraînement de l'IA. Anthropic dévoile Claude 3.5 Sonnet, un modèle d'IA plus performant, rapide et économique que ses concurrents. Les entreprises et les particuliers sont invités à protéger leurs données personnelles de l'utilisation dans les ensembles de données d'entraînement de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667b0cb8cabd4b0ca0e75107/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Jun 2024 18:00:00 GMT"
+    },
+    {
+        "title": "Google dévoile ses derniers appareils Pixel et ses innovations en IA",
+        "link": "https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date",
+        "body": "Google a envoyé des invitations pour un événement en présentiel le 13 août, intitulé \"AI... meet IX\", suggérant de nouvelles annonces liées à l'IA et à la gamme d'appareils Pixel. L'événement \"Made by Google\" aura lieu plus tôt que l'année dernière, ce qui laisse moins de temps pour les fuites pré-événement, un problème récurrent pour la gamme Pixel. L'événement pourrait inclure des annonces sur le Pixel 9, la Pixel Watch 3, ou même un Pixel Fold ou Pixel Tablet.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1017x742:1018x743):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25435496/1vpavic_20240501__0201.jpg",
+        "date": "Tue, 25 Jun 2024 16:53:14 GMT"
     },
     {
         "title": "L'avenir de l'expertise à l'ère de l'IA",
@@ -68,6 +103,13 @@
         "body": "Le texte met en lumière les défis logistiques souvent oubliés liés au déploiement des LLM et des agents d'IA. Il présente le concept de \"déclarative optimization\", qui assure le bon fonctionnement d'un programme dans différents environnements. Les programmeurs gèrent les aspects techniques de la construction et de l'exécution de systèmes cognitifs, confrontés à des changements constants et rapides. Les experts soulignent la nécessité de gérer les nouveaux GPU, matériels, services et outils, ce qui peut s'avérer écrasant. Michael Cafarella, chercheur du MIT, souligne les objectifs de vitesse, de coût et de qualité des programmeurs. Le système Palimpzest est présenté comme un outil capable de rationaliser les opérations en fonction du contexte, éliminant ainsi les tâches fastidieuses de rédaction de prompts ou d'étiquetage des données. L'optimisation déclarative pourrait jouer un rôle clé dans la construction de la prochaine génération de systèmes d'IA, en particulier face aux limitations informatiques à long terme.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667a0530624c0c3b8041d20b/0x0.png?format=png&width=440",
         "date": "Tue, 25 Jun 2024 00:00:00 GMT"
+    },
+    {
+        "title": "Gmail ajoute de nouvelles fonctionnalités d'IA",
+        "link": "https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar",
+        "body": "Gmail intègre de nouvelles fonctionnalités d'IA pour améliorer la gestion des e-mails. Un nouveau panneau latéral, nommé Gemini, peut résumer les fils de discussion et rédiger de nouveaux e-mails. L'outil offre des suggestions proactives et permet également de poser des questions libres. Il est conçu pour utiliser les modèles les plus avancés de Google, tels que Gemini 1.5 Pro. De plus, l'application mobile Gmail permettra à Gemini de résumer les fils de discussion. Ces fonctionnalités seront disponibles uniquement pour les utilisateurs payants de Gemini, y compris les clients Google Workspace avec les add-ons Gemini Business ou Enterprise, ainsi que les abonnés Google One AI Premium. Il est important de noter que l'IA peut parfois fournir des informations erronées, il est donc conseillé de vérifier les e-mails importants avant de les envoyer. Enfin, Google prévoit également d'ajouter des fonctionnalités d'IA supplémentaires à Gmail, notamment les réponses intelligentes contextuelles.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954508/acastro_STK459_10.jpg",
+        "date": "Mon, 24 Jun 2024 23:59:20 GMT"
     },
     {
         "title": "Gmail intègre Gemini, une IA pour résumer et rédiger des emails",
@@ -145,33 +187,5 @@
         "body": "OpenAI a récemment fait l'actualité en acquérant Rockset, une startup d'analyse en temps réel. Rockset, fondée en 2016, se spécialise dans la fourniture d'un moteur de recherche et d'analyse serverless, permettant aux développeurs de créer des applications sans avoir besoin de pipelines de données complexes. L'acquisition de Rockset par OpenAI vise à renforcer ses capacités de traitement, d'analyse et de récupération de données. La technologie de Rockset, basée sur RocksDB de Facebook, offre un stockage de données efficace et un moteur d'analyse en temps réel, qui sera intégré aux modèles IA d'OpenAI pour améliorer leur efficacité et leur rapidité. Cette acquisition permet à OpenAI de proposer des solutions IA plus dynamiques et réactives, en particulier pour les applications nécessitant des informations à la minute près, telles que les algorithmes de trading financier, les défenses de cybersécurité et les bots de service client en temps réel. De plus, la technologie de Rockset permet à OpenAI de gérer des flux de données en continu à partir de sources diverses, garantissant ainsi que ses modèles sont formés sur les datasets les plus récents et pertinents, ce qui est essentiel pour maintenir la pertinence et la précision des applications IA. L'intégration de la technologie de Rockset accélérera également le déploiement des modèles IA, permettant à OpenAI d'entraîner, d'affiner et de déployer des modèles plus rapidement et plus efficacement. L'acquisition de Rockset améliore considérablement la génération augmentée de récupération (RAG) d'OpenAI, fournissant des capacités d'analyse et de traitement des données en temps réel robustes et garantissant la disponibilité d'informations à jour, ce qui est crucial pour la pertinence et l'exactitude du contenu généré par l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6678f8312b5152a056fce50d/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Jun 2024 04:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence et ses exigences",
-        "link": "https://www.frandroid.com/marques/apple/2056850_le-petit-souci-technique-dapple-intelligence-sur-mac",
-        "body": "Apple ajoute une fonctionnalité d'auto-complétion de code à son outil de développement Xcode, qui nécessite 16 Go de RAM, suggérant ainsi que les 8 Go de mémoire vive standard ne sont plus suffisants. Cette mise à jour, prévue pour l'automne, souligne l'importance croissante de l'IA dans les systèmes Apple, et indique qu'Apple pourrait devoir augmenter la RAM de base sur ses modèles d'entrée de gamme pour assurer la compatibilité avec ses nouvelles fonctionnalités basées sur l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-9-22-screenshot-768x432.jpg?resize=169,169&key=eb49f41e",
-        "date": "Sun, 23 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'importance du GPU dans l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2049820_le-gpu-est-il-en-passe-de-remporter-la-bataille-de-lia",
-        "body": "Dans le domaine de l'IA, le processeur graphique (GPU) prend le pas sur le processeur central (CPU) en tant que composant clé. Le GPU, avec sa capacité à effectuer des calculs en parallèle, est essentiel pour les tâches d'IA, notamment la génération de texte, d'images et de vidéos. La structure parallèle du GPU lui permet de traiter de grandes quantités d'informations simultanément, ce qui est crucial pour l'inférence en IA. Bien que le CPU joue encore un rôle, notamment dans le traitement séquentiel de gros volumes de données, l'inclusion de NPU dédiées à l'IA dans les CPU récents montre l'importance croissante du GPU dans ce domaine. De plus, les GPU offrent un meilleur rapport coût-efficacité énergétique pour les tâches d'IA. Enfin, des entreprises comme OVHcloud proposent des infrastructures matérielles et logicielles, y compris des GPU de pointe, pour soutenir le développement de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/numerama-professionnal-photography-of-a-gpu-unit-standing-on-to-c0b374aa-7a66-46e4-aad8-6ae66a41b778-768x430.jpg?resize=168,168&key=67d57e3c",
-        "date": "Sun, 23 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : une IA réservée aux iPhone haut de gamme",
-        "link": "https://www.frandroid.com/marques/apple/2056802_les-limitations-dapple-intelligence-viendraient-dun-detail-insoupconne",
-        "body": "Apple Intelligence, la nouvelle fonctionnalité d'IA d'Apple, ne sera disponible que sur les iPhone 15 Pro et 15 Pro Max en raison de limitations techniques. Apple affirme que cela est dû à la puissance de traitement et à la bande passante nécessaires, mais selon Bloomberg, c'est plutôt la quantité de RAM qui est en cause. Les iPhone 15 Pro sont équipés de la puce A17 Pro et de 8 Go de RAM, tandis que les modèles standards ont une puce A16 avec seulement 6 Go de RAM. Apple Intelligence nécessite au minimum 8 Go de RAM, ce qui explique son exclusion des modèles standard. Les futurs iPhone 16 devraient tous être équipés d'au moins 8 Go de RAM, rendant la technologie IA accessible à une plus large gamme d'appareils.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/4d9vmqkecg-768x432.jpg?resize=169,169&key=3fd74c08",
-        "date": "Sun, 23 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple et Meta : un partenariat inattendu ?",
-        "link": "https://www.frandroid.com/marques/apple/2056728_apple-travaillerait-avec-un-grand-rival-pour-ameliorer-ios-18",
-        "body": "Apple et Meta, malgré leurs différends passés, envisagent de collaborer sur l'intégration de l'IA dans iOS 18. Les discussions en cours visent à offrir une alternative à ChatGPT sur les appareils Apple, avec un focus sur la protection des données personnelles. Meta AI pourrait ainsi s'inviter dans l'expérience utilisateur d'iOS 18, à l'instar de ChatGPT, mais avec l'assurance qu'Apple interdit la collecte de données personnelles. Ce partenariat reflète la volonté d'Apple de diversifier les chatbots accessibles via Siri et d'autres entreprises comme Google, Perplexity et Anthropic sont également en lice. iOS 18, actuellement en bêta, devrait être lancé à la rentrée avec un focus important sur l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-21-25-screenshot-768x432.jpg?resize=169,169&key=6cc13195",
-        "date": "Sun, 23 Jun 2024 23:00:00 GMT"
     }
 ]
