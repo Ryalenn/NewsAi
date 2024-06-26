@@ -1,10 +1,52 @@
 [
     {
+        "title": "L'avenir de la publicité ?",
+        "link": "https://www.forbes.com/sites/danidiplacido/2024/06/26/the-toys-r-us-ai-generated-ad-controversy-explained/?ss=ai",
+        "body": "Résumé : \n\nToys \"R\" Us a récemment fait l'objet de critiques en ligne pour une publicité créée à l'aide de l'outil de génération de vidéos de OpenAI, Sora. Bien que Sora n'ait pas encore été rendu public, les enthousiastes de l'IA ont déjà expérimenté avec d'autres générateurs de vidéos, tels que Luma Labs Dream Machine, pour animer des mèmes emblématiques en clips surréalistes. La technologie de l'IA générative est controversée, et si certains se réjouissent de son utilisation à des fins commerciales, d'autres trouvent les résultats repoussants. La publicité de Toys \"R\" Us illustre à la fois les capacités et les limites de l'IA dans la génération de vidéos, avec des modèles de personnages incohérents et des anomalies visuelles. Bien que l'entreprise défende cette approche comme une innovation, honorant la vision de son fondateur, les critiques s'inquiètent de l'utilisation de l'IA pour vendre des produits aux enfants et du manque de respect envers les artistes humains. De plus, l'utilisation de l'IA pour l'efficacité de la production, comme dans la nouvelle série Winnie l'ourson d'Amazon, est également remise en question. La controverse grandissante soulève des questions sur la valeur et l'éthique de l'IA générative dans le domaine de la créativité et de la publicité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667c521c84823d7ad249d086/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Jun 2024 17:52:00 GMT"
+    },
+    {
+        "title": "La chute de Perplexity",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/06/26/search-startup-perplexity-increasingly-cites-ai-generated-sources/?ss=ai",
+        "body": "Perplexity, un moteur de recherche basé sur l'IA, est critiqué pour son plagiat présumé de travaux journalistiques et la distribution de ceux-ci à la manière d'une entreprise médiatique. En réponse, Perplexity s'appuie de plus en plus sur des blogs et des publications LinkedIn générés par l'IA, qui contiennent des informations inexactes et obsolètes. L'entreprise affirme se distinguer des autres outils d'IA en fournissant des citations et des sources pour ses résumés, mais elle est accusée de citer des blogs générés par l'IA, ce qui remet en question la fiabilité de ses sources. Une étude de GPTZero révèle que le moteur de recherche de Perplexity cite des publications générées par l'IA sur divers sujets, y compris la santé, les voyages et la technologie. Malgré les affirmations de Perplexity selon lesquelles il classe les sources en fonction de leur fiabilité, l'étude montre que les utilisateurs sont rapidement confrontés à des sources générées par l'IA, remettant en question la qualité et la précision des informations fournies. Cette situation soulève des inquiétudes quant à la propagation d'informations erronées et aux « hallucinations de seconde main » qui peuvent survenir lorsque des publications synthétiques s'infiltrent dans les produits basés sur des sources Web. Perplexity a également été critiqué pour son traitement inapproprié des sources d'information autoritaires et a fait l'objet d'allégations de plagiat de la part de plusieurs organes de presse. La réponse de Perplexity à ces critiques a été mitigée, son PDG niant toute faute et affirmant que les faits ne peuvent pas être plagiés. L'entreprise a toutefois reconnu la nécessité d'améliorer en permanence son moteur de recherche et a introduit un programme de partage des revenus avec les éditeurs, bien qu'elle n'ait pas divulgué le pourcentage de revenus qui sera partagé.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667c51b0838586852887c191/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Jun 2024 17:47:00 GMT"
+    },
+    {
+        "title": "Une expérience olympique personnalisée avec une voix AI d'Al Michaels",
+        "link": "https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps",
+        "body": "Un annonceur sportif virtuel, basé sur l'IA et modélisé d'après la voix du légendaire commentateur sportif Al Michaels, offrira des résumés quotidiens et personnalisés des Jeux olympiques de Paris sur Peacock. Les utilisateurs peuvent choisir les sports et les types de faits saillants qui les intéressent, et recevoir ensuite un résumé quotidien présenté par la voix AI d'Al Michaels. NBC affirme que son équipe éditoriale révisera tout le contenu pour assurer la précision et éviter tout comportement étrange potentiel de l'IA. La voix a été formée à partir des apparitions de Michaels sur NBC, et l'expérience a été développée en interne par NBCUniversal. Bien que convaincant dans la démo, le vrai test sera lors de la génération de millions de clips uniques, couvrant une multitude de sports et d'athlètes du monde entier. L'expérience sera disponible à partir du 27 juillet, avec des résumés personnalisés commençant le 28 juillet.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:8640x5760/2400x1600/filters:focal(5224x2847:5225x2848):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25505642/1772478978.jpg",
+        "date": "Wed, 26 Jun 2024 17:00:00 GMT"
+    },
+    {
+        "title": "Améliorer la conception avec l'IA",
+        "link": "https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides",
+        "body": "Figma, une plateforme de conception populaire, annonce de nouvelles fonctionnalités basées sur l'IA pour aider les concepteurs à accélérer leur flux de travail. Les outils d'IA générative de Figma peuvent rapidement créer des projets de conception, comme une application de restaurant avec des boutons pour les services de livraison. Il peut également générer des images, comme une photo de cookie pour une page de recette. De plus, les fonctionnalités d'IA de Figma incluent la recherche d'actifs améliorée par l'IA et le texte automatique dans les conceptions. Les outils d'IA de Figma seront initialement gratuits, mais la société envisage des limites d'utilisation et une tarification claire lors du lancement officiel. Figma garantit également que ses modèles IA ne sont pas formés sur les fichiers ou les données clients privés. Enfin, Figma introduit également \"Figma Slides\", un outil de présentation intégré qui permet aux concepteurs de créer et de partager des présentations directement dans l'application.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2160/2400x1600/filters:focal(1920x1080:1921x1081):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501876/_External__Figma_AI.png",
+        "date": "Wed, 26 Jun 2024 16:15:00 GMT"
+    },
+    {
+        "title": "Quantum Computing : la nouvelle frontière pour l'IA et l'informatique",
+        "link": "https://www.forbes.com/sites/sylvainduranton/2024/06/26/quantum-now/?ss=ai",
+        "body": "Bien que très attendue, l'informatique quantique n'a pas encore vu le jour. Cependant, les investissements mondiaux, notamment de la Chine, dans cette technologie prometteuse s'élèvent à plus de 55 milliards de dollars. L'informatique quantique pourrait résoudre certains problèmes complexes beaucoup plus rapidement que les ordinateurs classiques, grâce à l'utilisation de qubits qui peuvent exister dans une superposition d'états. Bien que les applications commerciales ne soient pas encore une réalité, des progrès constants sont réalisés et de nombreux experts prédisent que les ordinateurs quantiques seront pratiques d'ici quelques années. IBM, leader dans le domaine, prédit que les ordinateurs quantiques surpasseront les ordinateurs classiques dans des tâches spécifiques d'ici 2027. Les entreprises, notamment les banques, les fonds d'investissement et les constructeurs automobiles, commencent à recruter des équipes spécialisées en informatique quantique et à former des partenariats avec les fabricants. L'informatique quantique pourrait aider à résoudre certains des plus grands problèmes de l'humanité, comme l'atténuation du changement climatique, en accélérant le développement de nouveaux matériaux et en optimisant la logistique et la gestion de la chaîne d'approvisionnement. L'IA peut également tirer profit de l'informatique quantique, en améliorant la précision des prédictions et en générant des données synthétiques pour l'entraînement des modèles. Les entreprises doivent commencer à se préparer dès maintenant, en construisant des équipes multidisciplinaires, en identifiant des cas d'utilisation spécifiques, en adoptant des algorithmes cryptographiques post-quantiques et en formant des partenariats stratégiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667c347eee493bcbce863971/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Jun 2024 15:00:00 GMT"
+    },
+    {
         "title": "La révolution de la connectivité optique",
         "link": "https://www.forbes.com/sites/kirkogunrinde/2024/06/26/intel-is-using-lasers-to-help-meet-ai-demands-on-data-centers/?ss=ai",
         "body": "Intel a développé un minuscule composant appelé Optical Compute Interconnect (OCI) qui utilise la lumière au lieu de l'électricité pour transmettre des données entre les processeurs, augmentant ainsi la bande passante pour les centres de données effectuant des traitements IA intensifs. L'OCI, qui peut être intégré à la plupart des processeurs, y compris ceux de Nvidia et AMD, utilise des signaux optiques pour permettre une communication sur de plus longues distances entre les serveurs, offrant ainsi une architecture de centre de données plus flexible et distribuée. Avec ses connexions optiques, son circuit intégré et son circuit électrique, l'OCI peut gérer des modèles IA plus puissants, réduire la latence et améliorer l'efficacité énergétique. Intel prévoit de produire ce composant en grand volume et de l'intégrer aux plates-formes de traitement, en collaboration avec des clients sélectionnés.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667b3973c61eb239cd130a2b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 26 Jun 2024 15:00:00 GMT"
+    },
+    {
+        "title": "La transformation de l'IA",
+        "link": "https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music",
+        "body": "Deux startups d'IA, Udio et Suno, sont poursuivies en justice par de grandes maisons de disques pour violation du droit d'auteur. Ces startups permettent aux utilisateurs de créer des chansons avec des performances vocales et instrumentales à partir de prompts, et les maisons de disques affirment qu'elles ont entraîné illégalement leurs modèles IA sur de grandes quantités de musique protégée par le droit d'auteur. Ces poursuites s'ajoutent à d'autres actions en justice similaires contre des entreprises d'IA, remettant en question la pratique courante de l'acquisition de données non autorisée. L'article explore les implications potentielles de ces poursuites pour l'industrie de l'IA, en particulier la question de l'utilisation équitable. Bien que les entreprises d'IA affirment que leur utilisation de données protégées par le droit d'auteur est transformative et donc protégée par l'utilisation équitable, l'issue de ces poursuites pourrait avoir un impact significatif sur l'avenir de l'industrie.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg",
+        "date": "Wed, 26 Jun 2024 12:00:00 GMT"
     },
     {
         "title": "L'IA en vol",
@@ -54,6 +96,13 @@
         "body": "La célèbre enseigne de jouets Toys \"R\" Us, disparue en 2018, renaît en partie grâce à l'intelligence artificielle. La société de gestion de marques WHP Global, qui détient actuellement la licence de la marque Toys \"R\" Us, a collaboré avec l'agence créative Native Foreign pour créer une vidéo promotionnelle en utilisant l'outil de texte-à-vidéo d'OpenAI, Sora. La vidéo, présentée au Festival Cannes Lions 2024, a été qualifiée de \"première publicité produite avec Sora d'OpenAI\", bien qu'elle ait été corrigée manuellement par l'équipe de création. WHP Global prévoit d'ouvrir jusqu'à 24 magasins Toys \"R\" Us aux États-Unis en 2024, ainsi que des boutiques dans les aéroports et sur les bateaux de croisière, marquant ainsi le retour de l'enseigne de jouets.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(766x502:767x503):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506323/vlcsnap_2024_06_25_16h06m34s808.png",
         "date": "Tue, 25 Jun 2024 23:30:16 GMT"
+    },
+    {
+        "title": "L'industrie musicale contre l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2060476_pourquoi-lindustrie-de-la-musique-a-un-probleme-avec-lia",
+        "body": "Les géants de l'industrie musicale, Sony, Universal et Warner, poursuivent en justice les entreprises d'IA Suno et Udio, soutenus par la RIAA. Ils accusent ces entreprises de violer les droits d'auteur en utilisant de la musique protégée pour entraîner leurs outils de génération musicale. La RIAA cherche à obtenir des aveux, des mesures de protection et des dommages-intérêts pouvant atteindre 150 000 $ par œuvre. Le procès soulève des questions éthiques et légales sur l'utilisation des données pour entraîner l'IA, un débat qui pourrait avoir un impact significatif sur l'ensemble du secteur de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/02/spotify-dj-768x471.jpg?resize=184,184&key=ac682d05",
+        "date": "Tue, 25 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "ChatGPT sur Mac",
@@ -222,26 +271,5 @@
         "body": "Amazon se prépare à lancer son propre chatbot, nommé Metis, pour concurrencer ChatGPT. Basé sur le modèle d'IA Olympus, Metis serait une version améliorée du modèle Titan, accessible au public. Ses fonctionnalités incluent la génération de texte, l'analyse d'images, et la possibilité d'accéder à des informations en temps réel au-delà de sa base de données initiale. Amazon pourrait utiliser Metis pour améliorer son assistant vocal Alexa et ainsi rattraper son retard sur ses concurrents dans le domaine de l'IA.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/amazon-alexa-768x512.jpg?resize=200,200&key=b55d6c0b",
         "date": "Mon, 24 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Problèmes avec l'étiquette \"Made by AI\" de Meta",
-        "link": "https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels",
-        "body": "Plusieurs photographes se plaignent que Meta étiquette à tort leurs photos réelles comme étant \"fabriquées par l'IA\". Cela se produit même pour des modifications mineures, comme la recadrer ou enlever de petits objets avec des outils d'IA. Meta a déclaré qu'il était au courant du problème et qu'il évaluait son approche pour que les étiquettes reflètent mieux l'utilisation réelle de l'IA. La société s'appuie sur des indicateurs standard de l'industrie, tels que les métadonnées ajoutées par des entreprises comme Adobe, pour identifier les images générées par l'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22977155/acastro_211101_1777_meta_0001.jpg",
-        "date": "Mon, 24 Jun 2024 18:21:55 GMT"
-    },
-    {
-        "title": "L'avenir de l'informatique quantique avec l'IA",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/?ss=ai",
-        "body": "Bien que l'informatique quantique et l'IA soient des technologies distinctes, l'IA peut améliorer les capacités de l'informatique quantique, et plusieurs entreprises travaillent à leur intégration. IBM, leader dans les domaines de l'informatique quantique et de l'IA, combine ces deux technologies pour améliorer l'informatique quantique et accélérer son adoption. L'entreprise intègre son IA Watson dans le logiciel Qiskit pour améliorer son utilisation et développer de nouveaux modèles d'IA pour optimiser les circuits, gérer les ressources et améliorer la suppression des erreurs. IBM prévoit également d'introduire des assistants quantiques chatbot pour les développeurs et les utilisateurs de ses services quantiques. Avec l'objectif ambitieux d'atteindre 100 millions de portes quantiques d'ici la fin de la décennie, l'informatique quantique évolue rapidement vers le déploiement d'applications pratiques. Cela pourrait conduire à l'émergence de centres de données hétérogènes combinant CPU, accélérateurs IA et unités de traitement quantique d'ici la fin des années 2020.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667996666b715cdb9ca09728/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 24 Jun 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Un bijou intelligent qui transforme les conversations en souvenirs",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2024/06/24/new-friend-chatgpt-appliance-records-transcribes--summarizes-conversations/?ss=ai",
-        "body": "Résumé : \n\nUn nouveau bijou intelligent, appelé \"Friend\", est un collier doté de l'IA qui enregistre et transcrit les conversations, offrant ainsi un résumé, des idées de suivi et des informations mises à jour sur les personnes rencontrées. Les données sont stockées localement sur l'application compagnon de l'appareil, garantissant ainsi la confidentialité. L'appareil s'allume lors de l'enregistrement et offre une autonomie de batterie de six jours. L'IA fournit des suggestions et agit comme un coach de conversation, avec des fonctionnalités supplémentaires telles que la création automatique d'événements dans le calendrier. L'appareil a déjà suscité l'intérêt, avec des précommandes et des ventes à des développeurs et des influenceurs. Il s'agit d'un exemple d'incarnation de l'omniprésence de l'IA, offrant des superpuissances de mémoire et d'organisation, mais soulevant également des questions sur la confidentialité et l'impact potentiel sur les relations et la nature privée des conversations.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667998a49f4019cfe3426cd6/0x0.png?format=png&crop=1932,1086,x0,y279,safe&width=440",
-        "date": "Mon, 24 Jun 2024 16:00:00 GMT"
     }
 ]
