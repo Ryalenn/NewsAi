@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution de la connectivité optique",
+        "link": "https://www.forbes.com/sites/kirkogunrinde/2024/06/26/intel-is-using-lasers-to-help-meet-ai-demands-on-data-centers/?ss=ai",
+        "body": "Intel a développé un minuscule composant appelé Optical Compute Interconnect (OCI) qui utilise la lumière au lieu de l'électricité pour transmettre des données entre les processeurs, augmentant ainsi la bande passante pour les centres de données effectuant des traitements IA intensifs. L'OCI, qui peut être intégré à la plupart des processeurs, y compris ceux de Nvidia et AMD, utilise des signaux optiques pour permettre une communication sur de plus longues distances entre les serveurs, offrant ainsi une architecture de centre de données plus flexible et distribuée. Avec ses connexions optiques, son circuit intégré et son circuit électrique, l'OCI peut gérer des modèles IA plus puissants, réduire la latence et améliorer l'efficacité énergétique. Intel prévoit de produire ce composant en grand volume et de l'intégrer aux plates-formes de traitement, en collaboration avec des clients sélectionnés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667b3973c61eb239cd130a2b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Jun 2024 15:00:00 GMT"
+    },
+    {
         "title": "L'IA en vol",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/06/26/latest-trend-of-mindless-raw-dogging-on-flights-gives-way-to-mindful-generative-ai-taking-up-the-slack/?ss=ai",
         "body": "Résumé : \n\nL'article explore la nouvelle tendance consistant à ne rien faire pendant un vol, y compris s'abstenir de toute distraction ou stimulation externe, comme les livres, la musique ou les films. Il suggère que, bien que cette approche de \"vide mental\" soit populaire, l'utilisation de l'IA générative peut offrir une alternative plus productive. L'IA générative peut fournir une compagnie, une conversation et une stimulation mentale sans briser la bulle de calme d'un passager. L'article discute des avantages de l'utilisation de l'IA générative pour améliorer la santé mentale et combler le temps autrement perdu pendant un vol. Cependant, il met également en garde contre les limites de l'IA, y compris les problèmes de confidentialité et les conseils potentiellement erronés en matière de santé mentale. Enfin, il suggère que l'utilisation de l'IA générative pendant les vols pourrait devenir une tendance populaire, offrant aux passagers un moyen de rester mentalement actifs tout en maintenant un espace personnel calme.",
@@ -196,6 +203,13 @@
         "date": "Mon, 24 Jun 2024 23:59:20 GMT"
     },
     {
+        "title": "La riposte d'Amazon",
+        "link": "https://www.frandroid.com/marques/amazon/2058558_lavenir-damazon-alexa-metis-serait-son-arme-secrete-face-a-chatgpt",
+        "body": "Amazon se prépare à lancer son propre chatbot, nommé Metis, pour concurrencer ChatGPT. Basé sur le modèle d'IA Olympus, Metis serait une version améliorée du modèle Titan, accessible au public. Ses fonctionnalités incluent la génération de texte, l'analyse d'images, et la possibilité d'accéder à des informations en temps réel au-delà de sa base de données initiale. Amazon pourrait utiliser Metis pour améliorer son assistant vocal Alexa et offrir ainsi un service plus puissant et compétitif.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/amazon-alexa-768x512.jpg?resize=200,200&key=b55d6c0b",
+        "date": "Mon, 24 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "Gmail intègre Gemini, une IA pour résumer et rédiger des emails",
         "link": "https://www.frandroid.com/marques/google/2058392_gmail-ca-y-est-google-commence-a-saupoudrer-gemini-sur-nos-boites-mail",
         "body": "Google ajoute une nouvelle fonctionnalité d'IA à Gmail avec la barre latérale Gemini. Celle-ci peut résumer les emails, identifier les points clés des échanges et même rédiger des brouillons. Gemini offrira également des \"invites proactives\" et répondra aux questions des utilisateurs. Ces fonctionnalités sont basées sur les modèles d'IA les plus efficaces de Google, notamment Gemini 1.5 Pro. Cependant, ces fonctionnalités ne seront accessibles qu'aux utilisateurs disposant d'un abonnement Google Workspace ou Google One AI Premium.",
@@ -229,26 +243,5 @@
         "body": "Résumé : \n\nUn nouveau bijou intelligent, appelé \"Friend\", est un collier doté de l'IA qui enregistre et transcrit les conversations, offrant ainsi un résumé, des idées de suivi et des informations mises à jour sur les personnes rencontrées. Les données sont stockées localement sur l'application compagnon de l'appareil, garantissant ainsi la confidentialité. L'appareil s'allume lors de l'enregistrement et offre une autonomie de batterie de six jours. L'IA fournit des suggestions et agit comme un coach de conversation, avec des fonctionnalités supplémentaires telles que la création automatique d'événements dans le calendrier. L'appareil a déjà suscité l'intérêt, avec des précommandes et des ventes à des développeurs et des influenceurs. Il s'agit d'un exemple d'incarnation de l'omniprésence de l'IA, offrant des superpuissances de mémoire et d'organisation, mais soulevant également des questions sur la confidentialité et l'impact potentiel sur les relations et la nature privée des conversations.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667998a49f4019cfe3426cd6/0x0.png?format=png&crop=1932,1086,x0,y279,safe&width=440",
         "date": "Mon, 24 Jun 2024 16:00:00 GMT"
-    },
-    {
-        "title": "La musique générée par l'IA est-elle une menace pour l'industrie musicale ?",
-        "link": "https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner",
-        "body": "Résumé : \n\nLes principales maisons de disques poursuivent en justice deux entreprises de musique générative, Suno et Udio, pour violation massive du droit d'auteur. Ces entreprises utilisent des invites textuelles pour créer des chansons originales, avec un certain succès : Suno est intégré à Microsoft Copilot et Udio a créé « BBL Drizzy », un exemple populaire de musique AI virale. La Recording Industry Association of America (RIAA) demande des dommages-intérêts pouvant atteindre 150 000 $ par œuvre, arguant que Suno et Udio copient illégalement des enregistrements sonores à grande échelle. Suno se défend en affirmant que sa technologie est « transformative » et conçue pour générer de nouveaux contenus, et non pour reproduire des œuvres existantes. La RIAA fournit des exemples de chansons générées par Suno et Udio qui ressemblent étroitement à des chansons sous droit d'auteur. Ces poursuites soulignent le conflit entre l'industrie musicale et les entreprises technologiques proposant des outils d'IA, remettant en question le contrôle des musiciens sur leur image et leur travail dans l'ère de l'IA. Les plateformes en ligne comme TikTok et YouTube sont également affectées par la prolifération de la musique générée par l'IA. Les entreprises d'IA manquent de transparence sur les données utilisées pour entraîner leurs modèles, ce qui soulève des préoccupations éthiques. L'industrie musicale craint que la musique générée par l'IA ne nuise à la capacité des artistes humains à tirer un revenu de leur travail.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383541/STK467_AI_MUSIC_CVirginia_A.jpg",
-        "date": "Mon, 24 Jun 2024 15:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la tarification dynamique : piloté par l'IA",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/06/24/harnessing-ai-for-dynamic-pricing-for-your-business/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6676372d677201fd7eb060b2/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 24 Jun 2024 14:28:00 GMT"
-    },
-    {
-        "title": "Shopify lance son chatbot IA Sidekick et d'autres outils IA",
-        "link": "https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition",
-        "body": "Shopify a annoncé le lancement anticipé de son chatbot IA « Sidekick », ainsi que d'autres fonctionnalités axées sur l'IA. Sidekick, conçu pour assister les marchands, est actuellement disponible en anglais pour les magasins d'Amérique du Nord. Shopify propose également une catégorisation de produits assistée par l'IA, suggérant automatiquement une taxonomie pour les listes de produits, ainsi qu'un outil de suggestion de réponses pour les discussions clients. L'entreprise lance également son générateur d'images assisté par l'IA sur iOS et Android, permettant aux marchands de l'utiliser dans plus de sections de leur administration Shopify.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25501273/Sidekick_IMAGE.jpg",
-        "date": "Mon, 24 Jun 2024 13:00:00 GMT"
     }
 ]
