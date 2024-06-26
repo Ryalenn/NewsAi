@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici ce que pourrait être le futur d’Amazon Alexa",
+        "title": "Voici ce que pourrait \u00eatre le futur d\u2019Amazon Alexa",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2058558_lavenir-damazon-alexa-metis-serait-son-arme-secrete-face-a-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/amazon-alexa-768x512.jpg?resize=200,200&key=b55d6c0b",
         "date": "Mon, 24 Jun 2024 23:00:00 GMT",
@@ -145,5 +145,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/667998100b5b7ef89cc97bb1/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Jun 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed",
+        "image": "",
+        "date": "Tue, 25 Jun 2024 22:40:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/25/24185984/reddit-robots-txt-fight-ai-bots-scraping-crawlers",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24739225/Command_Line_Site_Post_Reddit.jpg",
+        "date": "Tue, 25 Jun 2024 21:49:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1017x742:1018x743):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25435496/1vpavic_20240501__0201.jpg",
+        "date": "Tue, 25 Jun 2024 16:53:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954508/acastro_STK459_10.jpg",
+        "date": "Mon, 24 Jun 2024 23:59:20 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Tue, 25 Jun 2024 22:40:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/06/25/volkswagen-investing-up-to-5-billion-in-rivian/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667b3543d7df70be11c1ab33/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 25 Jun 2024 21:00:00 GMT",
+        "check": "no"
     }
 ]
