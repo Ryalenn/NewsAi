@@ -1,5 +1,19 @@
 [
     {
+        "title": "La technologie au cœur de la Formule 1",
+        "link": "https://www.forbes.com/sites/antonyleather/2024/06/27/mercedes-formula-1-interview-tech-ai-and-balancing-budget-caps/?ss=ai",
+        "body": "L'article explore le rôle crucial de la technologie, en particulier de l'IA, dans les équipes de Formule 1, en se concentrant sur l'équipe Mercedes-AMG Petronas Formula One. L'IT Director de l'équipe, Michael Taylor, souligne l'importance de maintenir la technologie à jour pour rester compétitif, citant un cycle de rafraîchissement de trois ans pour gérer les exigences physiques des courses. Les avancées technologiques les plus significatives pour Mercedes sont la puissance de traitement et la capacité de stockage des données. L'IA est considérée comme un outil potentiel pour améliorer l'analyse des données en temps réel et la prise de décisions stratégiques, bien qu'elle puisse également réduire l'aspect dynamique et humain des courses. La Formule 1 fait face à des défis technologiques similaires à ceux rencontrés dans la vie quotidienne, tels que l'adoption de technologies de pointe et la gestion des budgets.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667c75034289d8ac8bb37b47/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Jun 2024 09:00:00 GMT"
+    },
+    {
+        "title": "Google Translate ajoute 110 nouvelles langues",
+        "link": "https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages",
+        "body": "Google annonce l'ajout de 110 nouvelles langues à Google Translate, grâce à l'aide de son modèle linguistique PaLM 2. Cet ajout, le plus important à ce jour, comprend des langues comme le cantonais, l'awadhi, le marwadi, et des créoles français. Isaac Caswell de Google souligne que environ un quart des nouvelles langues proviennent d'Afrique, et que la majorité d'entre elles sont parlées par au moins un million de personnes.",
+        "image": "",
+        "date": "Thu, 27 Jun 2024 07:01:00 GMT"
+    },
+    {
         "title": "Apple Intelligence Brings AI to the Masses",
         "link": "https://www.forbes.com/sites/tiriasresearch/2024/06/27/apple-intelligence-to-bring-personal-ai-to-mac-iphone-and-ipad/?ss=ai",
         "body": "Apple annonce qu'il va utiliser les moteurs neuronaux intégrés à ses principaux produits pour exécuter des modèles de langage volumineux et génératifs directement sur les appareils. Cette approche classique d'Apple permet de poser les bases à l'avance et de lancer de nouvelles fonctionnalités lorsque l'expérience utilisateur est prête. Apple Intelligence, la réponse d'Apple à l'IA générative, fonctionnera sur les appareils locaux et inclura également un élément Apple Cloud pour les requêtes plus complexes. Les utilisateurs pourront choisir entre la protection de leur vie privée et des fonctionnalités supplémentaires offertes par des solutions tierces. Apple Intelligence sera disponible à l'automne sur iOS 18, iPadOS 18 et MacOS \"Sequoia\", et sera pris en charge sur les appareils Mac et iPad dotés de processeurs M-series, ainsi que sur l'iPhone 15 Pro. Apple Intelligence améliorera les services existants d'Apple et agira en conjonction avec Siri pour effectuer des actions en votre nom dans les applications Apple. Il sera profondément intégré au système d'exploitation et utilisera votre contexte personnel pour devenir une partie essentielle des interfaces des produits Apple. Siri sera également amélioré grâce à un meilleur traitement du langage naturel et à une meilleure conscience du contexte à l'écran. Apple Intelligence est multimodal, prenant en charge la parole, l'écriture et les images. Il permettra une recherche d'images basée sur le langage naturel et la création de films de mémoire personnalisés. Apple fournit également un support pour les solutions tierces d'IA générative, telles que ChatGPT, tout en maintenant la confidentialité en gardant les données sur l'appareil.",
@@ -243,26 +257,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667639cb677201fd7eb060b4/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Jun 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Améliorer son écriture avec l'IA : des astuces pratiques",
-        "link": "https://www.forbes.com/sites/aytekintank/2024/06/25/7-chatgpt-prompts-to-improve-your-writing/?ss=ai",
-        "body": "Bien qu'il n'y ait pas de raccourci pour devenir un meilleur écrivain, les outils d'IA comme ChatGPT peuvent aider à éliminer les tâches fastidieuses et laisser plus de temps pour peaufiner son écriture. L'IA peut suggérer des sujets engageants, corriger les erreurs grammaticales et de ponctuation, et même aider à trouver votre voix unique. Fournir le bon contexte à l'IA est crucial pour obtenir des résultats concis. L'IA peut également aider à améliorer le ton de votre écriture, ce qui est essentiel pour établir la confiance et la compréhension avec votre public. De plus, l'IA peut fournir des données et des recherches à l'appui pour renforcer vos arguments. Enfin, l'IA peut générer des exercices d'écriture et analyser votre style, vous aidant ainsi à pratiquer et à affiner vos compétences en écriture.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667ab6ea7f87937b4db9a5c2/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Jun 2024 12:00:00 GMT"
-    },
-    {
-        "title": "La détection des \"cheap fakes\" avec l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/25/cheap-fakes-and-rescuing-humankind-via-generative-ai/?ss=ai",
-        "body": "L'article explore le phénomène des \"cheap fakes\", des contenus trompeurs créés manuellement ou avec des outils d'édition non-IA, par opposition aux \"deepfakes\" générés par l'IA. Il explique comment les Large Language Models (LLMs) et l'IA générative peuvent aider à lutter contre la prolifération des \"cheap fakes\". L'IA peut détecter les \"cheap fakes\" en comparant les contenus suspects à des originaux, en analysant les métadonnées et en identifiant des signes de manipulation. Cependant, les créateurs de \"cheap fakes\" s'adaptent et utilisent des techniques de plus en plus sophistiquées pour éviter la détection, créant un jeu du chat et de la souris. L'article conclut en soulignant l'importance de rester vigilant face aux \"cheap fakes\" et en discutant des implications sociétales et légales.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667a33a70ffc84d1b3d6cb45/0x0.jpg?format=jpg&crop=2488,1865,x72,y0,safe&width=440",
-        "date": "Tue, 25 Jun 2024 12:00:00 GMT"
-    },
-    {
-        "title": "Aurora et Uber s'associent pour déployer des camions autonomes",
-        "link": "https://www.theverge.com/2024/6/25/24184973/uber-freight-aurora-driverless-truck-deal",
-        "body": "Résumé : Aurora, fondée par d'anciens dirigeants de Google, Uber et Tesla, s'associe à Uber Freight, la filiale de transport de marchandises d'Uber, pour déployer 20 camions autonomes sur les routes du Texas entre Dallas et Houston. Aurora offrira à Uber Freight, ainsi qu'à d'autres transporteurs, un accès à sa technologie de conduite autonome via un modèle d'abonnement, plutôt que de posséder et d'exploiter sa propre flotte. Ce partenariat fait suite à la vente forcée par Uber de sa technologie de conduite autonome à Aurora, suite à des coûts élevés et à un accident mortel impliquant un véhicule autonome Uber. Aurora a évité une grande partie de la presse négative entourant les robotaxis, mais fait face à des défis financiers, avec une perte nette de 165 millions de dollars au premier trimestre 2024.",
-        "image": "",
-        "date": "Tue, 25 Jun 2024 11:00:00 GMT"
     }
 ]
