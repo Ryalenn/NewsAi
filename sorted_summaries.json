@@ -1,5 +1,12 @@
 [
     {
+        "title": "Langflow simplifie le développement de l'IA",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/06/27/datastax-underpins-base-blocks-in-ai-application-lifecycle/?ss=ai",
+        "body": "L'article traite de l'évolution du cycle de vie des logiciels, en particulier dans le contexte de la renaissance actuelle de l'intelligence artificielle. Il introduit le concept de cycle de vie de l'IA, qui commence par l'infrastructure, englobant les modèles linguistiques, la logique des moteurs d'IA et l'analytique du cloud computing. DataStax, une entreprise de plateforme d'IA, a acquis Langflow, un framework visuel open source pour la création d'applications d'IA. Langflow 1.0 propose une interface glisser-déposer avec des intégrations aux outils d'IA populaires, permettant aux développeurs de comparer facilement les fournisseurs de LLM. DataStax s'est également associé à Unstructured, une plateforme sans code qui aide à convertir les documents en données prêtes pour les LLM. Ces développements visent à simplifier le processus de développement de l'IA, en permettant aux développeurs de se concentrer sur la création d'applications plutôt que sur la gestion de l'infrastructure. Le cycle de vie de l'IA est présenté comme un processus cyclique et complet, de l'infrastructure à l'utilisateur, fournissant une base solide pour l'innovation en matière d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667d59279f7e8e55e0399672/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Jun 2024 13:00:00 GMT"
+    },
+    {
         "title": "La technologie au cœur de la Formule 1",
         "link": "https://www.forbes.com/sites/antonyleather/2024/06/27/mercedes-formula-1-interview-tech-ai-and-balancing-budget-caps/?ss=ai",
         "body": "L'article explore le rôle crucial de la technologie, en particulier de l'IA, dans les équipes de Formule 1, en se concentrant sur l'équipe Mercedes-AMG Petronas Formula One. L'IT Director de l'équipe, Michael Taylor, souligne l'importance de maintenir la technologie à jour pour rester compétitif, citant un cycle de rafraîchissement de trois ans pour gérer les exigences physiques des courses. Les avancées technologiques les plus significatives pour Mercedes sont la puissance de traitement et la capacité de stockage des données. L'IA est considérée comme un outil potentiel pour améliorer l'analyse des données en temps réel et la prise de décisions stratégiques, bien qu'elle puisse également réduire l'aspect dynamique et humain des courses. La Formule 1 fait face à des défis technologiques similaires à ceux rencontrés dans la vie quotidienne, tels que l'adoption de technologies de pointe et la gestion des budgets.",
@@ -19,6 +26,13 @@
         "body": "Apple annonce qu'il va utiliser les moteurs neuronaux intégrés à ses principaux produits pour exécuter des modèles de langage volumineux et génératifs directement sur les appareils. Cette approche classique d'Apple permet de poser les bases à l'avance et de lancer de nouvelles fonctionnalités lorsque l'expérience utilisateur est prête. Apple Intelligence, la réponse d'Apple à l'IA générative, fonctionnera sur les appareils locaux et inclura également un élément Apple Cloud pour les requêtes plus complexes. Les utilisateurs pourront choisir entre la protection de leur vie privée et des fonctionnalités supplémentaires offertes par des solutions tierces. Apple Intelligence sera disponible à l'automne sur iOS 18, iPadOS 18 et MacOS \"Sequoia\", et sera pris en charge sur les appareils Mac et iPad dotés de processeurs M-series, ainsi que sur l'iPhone 15 Pro. Apple Intelligence améliorera les services existants d'Apple et agira en conjonction avec Siri pour effectuer des actions en votre nom dans les applications Apple. Il sera profondément intégré au système d'exploitation et utilisera votre contexte personnel pour devenir une partie essentielle des interfaces des produits Apple. Siri sera également amélioré grâce à un meilleur traitement du langage naturel et à une meilleure conscience du contexte à l'écran. Apple Intelligence est multimodal, prenant en charge la parole, l'écriture et les images. Il permettra une recherche d'images basée sur le langage naturel et la création de films de mémoire personnalisés. Apple fournit également un support pour les solutions tierces d'IA générative, telles que ChatGPT, tout en maintenant la confidentialité en gardant les données sur l'appareil.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667cf21fa824ccde9e3e7726/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Jun 2024 05:00:00 GMT"
+    },
+    {
+        "title": "Des fonds d'écran générés par l'IA pour smartphones",
+        "link": "https://www.frandroid.com/produits-android/smartphone/2056680_transformez-votre-smartphone-avec-nos-fonds-decran-hebdomadaires",
+        "body": "L'article propose une collection de fonds d'écran pour smartphones, créés à l'aide de l'IA, et plus particulièrement de Midjourney. Chaque semaine, une nouvelle sélection de designs est présentée, allant des paysages oniriques aux abstractions futuristes, en passant par des réinterprétations artistiques. Les utilisateurs sont invités à proposer des thèmes, les plus populaires étant créés par l'équipe. L'article fournit également un guide sur la façon de créer des fonds d'écran IA via Discord, en utilisant des prompts pour guider le processus créatif. Enfin, des instructions sont données pour changer de fond d'écran sur Android et iOS.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wlpaper-4-768x512.jpg?resize=200,200&key=208471a9",
+        "date": "Wed, 26 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "Les dernières mises à jour des applications Android",
@@ -236,26 +250,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667998100b5b7ef89cc97bb1/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Jun 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Waymo ouvre son service de robotaxis à San Francisco",
-        "link": "https://www.theverge.com/2024/6/25/24184814/waymo-waitlist-robotaxi-san-francisco-app-ride",
-        "body": "Waymo, la filiale de voitures autonomes d'Alphabet, ouvre son service de robotaxis au grand public à San Francisco, sans liste d'attente. Cette annonce marque une étape importante dans la course à la commercialisation des véhicules autonomes. Waymo, qui opère déjà un service similaire à Phoenix depuis 2020, cherche à consolider sa position de leader sur le marché des robotaxis. L'entreprise a lentement étendu son service dans la région de la baie de San Francisco au fil des ans, introduisant progressivement des véhicules autonomes dans sa flotte. Cette ouverture à l'ensemble des résidents de San Francisco indique une confiance croissante de la part de Waymo. Cependant, l'industrie des voitures autonomes fait face à un examen minutieux après une série d'accidents et de plaintes concernant des obstructions et des retards. Waymo a récemment rappelé l'ensemble de ses véhicules pour une mise à jour logicielle et cartographique après un accident impliquant un de ses robotaxis. Malgré ces défis, l'ouverture du service au grand public est une étape cruciale vers la normalisation des véhicules autonomes et la rentabilité de Waymo.",
-        "image": "",
-        "date": "Tue, 25 Jun 2024 15:00:00 GMT"
-    },
-    {
-        "title": "L'importance de la conservation dans l'informatique et l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/06/25/we-can-use-new-metrics-to-save-compute/?ss=ai",
-        "body": "Alors que de nouveaux modèles d'IA se répandent dans le grand public et que les dirigeants d'entreprise s'efforcent de s'adapter, un aspect parfois négligé de l'informatique est la mesure de la conservation. Le terme « negaflop » fait référence à « une unité de calcul économisée grâce à des mesures de conservation, telles que l'amélioration de l'efficacité d'un algorithme ou d'une implémentation logicielle ». En mettant l'accent sur l'économie d'énergie, nous pouvons éviter les écueils de l'industrie des crypto-monnaies, qui a souffert de son empreinte carbone élevée. En améliorant les modèles d'entraînement et les algorithmes, nous pouvons améliorer la méthode d'IA, indépendamment de son objectif. Des modèles plus grands, comme Megatron-Turing NLG, utilisent une structure de modèle sparse avec un grand nombre de paramètres, améliorant ainsi l'efficacité et la capacité de généralisation. La loi de Moore, en tant que métrique, peut encore être pertinente pour mesurer l'efficacité du calcul. La montée des services cloud comme AWS et Azure, ainsi que la versatilité des offres, peuvent rendre les mesures de calcul plus abstraites, mais une analyse minutieuse de la formation en IA peut aider à clarifier les choses.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/65033bc9a8f1dbbcaa52ccca/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Jun 2024 14:37:00 GMT"
-    },
-    {
-        "title": "L'avenir de la prise de décision en affaires",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/06/25/ai-is-redefining-corporate-leadership-so-are-you-ready/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667639cb677201fd7eb060b4/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Jun 2024 14:00:00 GMT"
     }
 ]
