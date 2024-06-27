@@ -7,6 +7,27 @@
         "date": "Thu, 27 Jun 2024 05:00:00 GMT"
     },
     {
+        "title": "Les dernières mises à jour des applications Android",
+        "link": "https://www.frandroid.com/android/applications",
+        "body": "Google Traduction ajoute 110 nouvelles langues, dont le breton et l'occitan, élargissant ainsi sa portée linguistique. Chrome s'inspire de Google Maps pour améliorer l'expérience utilisateur sur le web. L'application ChatGPT est désormais disponible pour les utilisateurs de Mac. Google introduit Gemini dans Gmail, et l'application vidéo de premier plan d'iPhone arrive sur Android. Google Messages introduit une nouvelle animation pour accéder aux contacts, tandis que Google Podcasts disparaît.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/bretagne-768x512.jpeg?resize=200,200&key=c21d0107",
+        "date": "Wed, 26 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Rabbit R1 : des failles de sécurité critiques",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2060856_echec-critique-danger-pour-les-donnees-personnelles-le-rabbit-r1-nen-finit-pas-avec-les-polemiques",
+        "body": "Le Rabbit R1, un appareil d'IA portable, fait face à de sérieuses controverses concernant de graves failles de sécurité. Les clés API de l'entreprise ont été exposées, permettant un accès non autorisé aux infrastructures critiques et aux données sensibles. Le collectif de pirates éthiques \"Rabbitude\" a mis en évidence ces problèmes, soulignant la possibilité de lire toutes les réponses générées par l'IA, de \"briquer\" les appareils, et de manipuler les réponses et la voix de l'IA. Malgré les avertissements, l'entreprise a tardé à réagir, et même après avoir réinitialisé les clés API, certaines failles persistent. L'incident soulève des inquiétudes quant au manque de transparence et de cybersécurité dans le fonctionnement de l'entreprise.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/introducing-r1-12-58-screenshot-768x432.jpg?resize=169,169&key=db855050",
+        "date": "Wed, 26 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "AI-generated Designs Spark Debate",
+        "link": "https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art",
+        "body": "L'article explore la réaction des consommateurs à l'utilisation de l'IA dans la conception de produits, en particulier une collaboration entre Baggu et Collina Strada, qui a utilisé l'IA pour créer des impressions pour une collection de sacs réutilisables. Les consommateurs ont exprimé leur déception face au manque de transparence concernant l'utilisation de l'IA, soulevant des questions morales et environnementales. Le débat met en évidence une phase de transition dans l'acceptation de l'IA, avec des outils comme ChatGPT et Midjourney qui suscitent à la fois de l'enthousiasme et des préoccupations. L'article soulève des questions importantes sur la propriété, le crédit et l'éthique dans l'utilisation de l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1720x1078/2400x1600/filters:focal(860x539:861x540):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25507369/Screenshot_2024_06_26_at_1.22.30_PM.png",
+        "date": "Wed, 26 Jun 2024 21:17:29 GMT"
+    },
+    {
         "title": "Sécurité des données et confiance du public : un défi pour les entreprises d'IA",
         "link": "https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase",
         "body": "L'article met en lumière une faille de sécurité potentielle dans le gadget R1 de Rabbit, une entreprise spécialisée dans l'IA. Des développeurs et chercheurs, appelés Rabbitude, ont découvert que des clés API étaient codées en dur dans le code source de l'entreprise, ce qui pourrait permettre un accès non autorisé à des informations sensibles. Rabbitude a eu accès à ces clés API, notamment à celle de ElevenLabs, le fournisseur de synthèse vocale de Rabbit, et a pu accéder à toutes les réponses données par les appareils R1. Malgré avoir été informée de la faille il y a plus d'un mois, Rabbit n'a semble-t-il pas pris les mesures nécessaires pour sécuriser les informations. Cet incident soulève des questions sur la capacité de l'entreprise à protéger les données de ses clients et à regagner la confiance du public après le lancement décevant de son produit.",
