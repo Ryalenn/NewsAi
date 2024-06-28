@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA pour les PME",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/28/how-mailchimp-hopes-to-build-the-end-to-end-ai-solution-for-smes/",
+        "body": "Mailchimp, désormais détenu par Intuit (développeur de QuickBooks), propose depuis des années des outils d'IA, principalement pour la création de contenu, aux petites et moyennes entreprises. L'entreprise se prépare désormais à lancer de nouveaux services et applications basés sur l'IA, notamment une solution d'automatisation de bout en bout. L'objectif est d'aider les PME à regrouper leurs données dispersées dans différents outils et à les utiliser pour prendre des décisions stratégiques et tactiques. La fonctionnalité « revenue intelligence » de Mailchimp utilise les données comptables, de paiement et d'employés de QuickBooks, ainsi que les données d'inventaire et externes, pour fournir des informations sur les clients et guider les stratégies marketing et de service client. Mailchimp prévoit également d'utiliser l'IA pour prendre des décisions stratégiques, allant au-delà des décisions tactiques à court terme pour lesquelles l'IA est actuellement connue. Rania Succar, responsable générale de Mailchimp, souligne que les PME font face à un choix déroutant en matière d'outils d'IA et que Mailchimp vise à se différencier en offrant une plateforme tout-en-un. L'automatisation de la prise de décision stratégique pourrait être une avancée majeure pour l'IA en entreprise, mais soulève également des questions sur l'équilibre entre l'intelligence des machines et l'intuition humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/666fe066d27c3cccc2b79342/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Jun 2024 05:00:00 GMT"
+    },
+    {
         "title": "La face cachée de l'anonymat en ligne",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/06/27/the-shadowy-online-burnerverse-heats-up-and-heres-how-generative-ai-is-entangled-in-the-torrid-hot-mess/",
         "body": "Résumé : \n\nL'article explore le concept de \"Burnerverse\", un terme désignant les communautés en ligne et les médias sociaux qui valorisent fortement l'anonymat. Il examine les arguments en faveur et contre l'anonymat en ligne, soulignant la liberté d'expression et les risques de répercussions sociales. L'article révèle ensuite le rôle important de l'IA générative et des grands modèles linguistiques (LLM) dans le Burnerverse. Il explique comment l'IA peut être utilisée pour filtrer la désinformation et modérer le contenu, mais aussi comment elle peut être exploitée pour préserver l'anonymat, générer du contenu positif ou négatif, et même imiter le style d'écriture de célébrités ou de personnes spécifiques. L'article conclut en soulevant des questions éthiques et juridiques complexes sur l'utilisation de l'IA générative dans ces contextes anonymes, laissant aux lecteurs le soin de réfléchir aux implications et aux défis qu'elle présente.",
@@ -222,12 +229,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667b2368f23130fa980adf2e/0x0.jpg?format=jpg&crop=1359,764,x0,y106,safe&width=440",
         "date": "Wed, 26 Jun 2024 10:00:00 GMT"
-    },
-    {
-        "title": "Rimac's Robotaxis",
-        "link": "https://www.theverge.com/2024/6/26/24185735/rimac-verne-robotaxi-croatia-mobileye-autonomous",
-        "body": "Rimac, le fabricant croate de voitures de sport électriques, lance un service de robotaxis appelé Verne à Zagreb en 2026. Rimac, qui a acquis Bugatti en 2021, travaille sur la technologie autonome depuis 2017 et a reçu un financement de l'UE pour développer des robotaxis. Le service utilisera des véhicules électriques autonomes de niveau 4, sans volant ni pédales, et sera accessible via une application mobile. Rimac prévoit de construire des « bases » centrales pour la maintenance et la recharge des véhicules, et vise à compléter les transports publics plutôt qu'à les concurrencer. Verne sera dirigé par un ami de Rimac, avec le designer de la voiture Nevera comme designer en chef. Le véhicule lui-même a un design unique, avec des portes coulissantes, un grand écran intérieur et un système audio Dolby Atmos. Rimac affirme que le service sera « abordable pour tous ».",
-        "image": "",
-        "date": "Wed, 26 Jun 2024 09:15:00 GMT"
     }
 ]
