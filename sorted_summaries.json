@@ -1,10 +1,52 @@
 [
     {
+        "title": "L'importance des longs prompts dans l'ingénierie des prompts",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/28/mega-prompts-are-the-latest-powerful-trend-in-prompt-engineering/",
+        "body": "Résumé : Cet article explore l'utilisation de longs prompts dans l'ingénierie des prompts pour les applications d'IA générative. Il compare les prompts courts et longs, soulignant les avantages de ces derniers pour fournir plus de contexte, d'informations et de détails. L'article fournit des conseils pour créer des longs prompts efficaces, y compris la clarté, la spécificité, la complexité et le contexte. Il examine également un exemple de prompt système pour l'IA Claude 3 et souligne l'importance de la clarté et des instructions détaillées. Enfin, il aborde la nature ambiguë des langues naturelles et la façon dont les longs prompts peuvent aider à réduire les risques de mauvaise interprétation par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/664672807d65ccf43dba6454/0x0.jpg?format=jpg&crop=4308,3230,x1483,y0,safe&width=440",
+        "date": "Fri, 28 Jun 2024 11:59:00 GMT"
+    },
+    {
+        "title": "La désinformation politique et les risques électoraux",
+        "link": "https://www.forbes.com/sites/roberthart/2024/06/28/openais-chatgpt-and-microsofts-copilot-reportedly-spread-misinformation-about-presidential-debate-amid-growing-fears-over-ai-election-dangers/",
+        "body": "Deux des chatbots AI les plus populaires, ChatGPT d'OpenAI et Copilot de Microsoft, ont propagé une affirmation fausse et réfutée concernant un débat présidentiel, selon NBC News. Les chatbots ont affirmé à tort qu'il y aurait un délai de diffusion de 1 à 2 minutes, citant un écrivain conservateur. Bien que CNN ait rapidement rejeté cette affirmation, elle a alimenté des spéculations sur une éventuelle manipulation de la diffusion. NBC a testé plusieurs chatbots AI, dont Copilot, ChatGPT, Meta AI, Gemini de Google et Grok d'Elon Musk, avec des résultats mitigés. Les entreprises technologiques redoublent d'efforts pour limiter les risques de désinformation et d'interférence lors des élections de 2024, avec des mesures telles que l'étiquetage du contenu généré par l'IA et la restriction de l'accès à certains outils. Les experts mettent en garde contre les dangers des deepfakes sophistiqués, des images et vidéos manipulées, de la mimique vocale et de la propagation de la désinformation en ligne.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667ea0caca58aeaae2c623c2/0x0.jpg?format=jpg&crop=3352,1887,x0,y169,safe&width=440",
+        "date": "Fri, 28 Jun 2024 11:40:00 GMT"
+    },
+    {
+        "title": "Model-as-a-Service (MaaS)",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/06/28/productized-ai-models-drive-en-masse-intelligence/",
+        "body": "L'article explore l'émergence de Model-as-a-Service (MaaS) dans le domaine de l'IA, une tendance qui simplifie l'accès et le déploiement de modèles d'IA pour les ingénieurs logiciels. MaaS fournit des modèles d'apprentissage automatique préconstruits, préconfigurés et préentraînés, démocratisant ainsi la technologie d'IA pour les développeurs. L'auteur souligne les avantages de MaaS, notamment l'efficacité, la rentabilité et la facilité de mise à l'échelle, ainsi que la robustesse des modèles établis, exempts de biais ou de risques d'hallucination. Les fournisseurs de MaaS offrent une documentation, des tutoriels et un support complets, permettant aux développeurs d'intégrer plus rapidement et plus compétemment les capacités d'IA dans leurs logiciels. L'article présente également des exemples d'organisations adoptant MaaS, telles que NTT Data et SAS, mettant en évidence leurs offres et leurs avantages. Enfin, l'article réfléchit à l'impact potentiel de MaaS sur l'innovation en matière d'IA et sur son évolution en tant qu'utilitaire intégré dans toutes les applications.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667e9368107c03f2b61bd6a0/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Jun 2024 10:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA pour les PME",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/06/28/how-mailchimp-hopes-to-build-the-end-to-end-ai-solution-for-smes/",
         "body": "Mailchimp, désormais détenu par Intuit (développeur de QuickBooks), propose depuis des années des outils d'IA, principalement pour la création de contenu, aux petites et moyennes entreprises. L'entreprise se prépare désormais à lancer de nouveaux services et applications basés sur l'IA, notamment une solution d'automatisation de bout en bout. L'objectif est d'aider les PME à regrouper leurs données dispersées dans différents outils et à les utiliser pour prendre des décisions stratégiques et tactiques. La fonctionnalité « revenue intelligence » de Mailchimp utilise les données comptables, de paiement et d'employés de QuickBooks, ainsi que les données d'inventaire et externes, pour fournir des informations sur les clients et guider les stratégies marketing et de service client. Mailchimp prévoit également d'utiliser l'IA pour prendre des décisions stratégiques, allant au-delà des décisions tactiques à court terme pour lesquelles l'IA est actuellement connue. Rania Succar, responsable générale de Mailchimp, souligne que les PME font face à un choix déroutant en matière d'outils d'IA et que Mailchimp vise à se différencier en offrant une plateforme tout-en-un. L'automatisation de la prise de décision stratégique pourrait être une avancée majeure pour l'IA en entreprise, mais soulève également des questions sur l'équilibre entre l'intelligence des machines et l'intuition humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666fe066d27c3cccc2b79342/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Jun 2024 05:00:00 GMT"
+    },
+    {
+        "title": "Perplexity dans la tourmente",
+        "link": "https://www.theverge.com/24187792/perplexity-ai-news-updates",
+        "body": "Titre",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
+        "date": "Fri, 28 Jun 2024 00:32:53 GMT"
+    },
+    {
+        "title": "Google Lens, une alternative à Circle to Search ?",
+        "link": "https://www.frandroid.com/android/mises-a-jour-android/2062922_comment-circle-to-search-de-google-serait-concurrencee-par-google-lens",
+        "body": "Google pourrait proposer une alternative à la fonctionnalité \"Circle to Search\" sur Android, en utilisant Google Lens. Cette fonctionnalité, qui permet de faire des recherches en entourant le contenu affiché à l'écran, était initialement disponible uniquement sur les Galaxy S24 et les Pixel de Google. Cependant, des indices suggèrent qu'elle pourrait être étendue à un plus grand nombre de smartphones Android, iOS et même à Chrome sur ordinateur. La fonctionnalité activée permet de scanner l'écran du smartphone pour identifier du texte et des images, et ainsi effectuer des recherches. Google aurait pour ambition de réunir 200 millions d'utilisateurs ou d'appareils compatibles d'ici la fin de l'année.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/sans-titre-4-768x544.jpg?resize=212,212&key=cf4499b4",
+        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Améliorer l'IA avec CriticGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2062726_cripticgpt-sattaque-aux-erreurs-de-chatgpt-ou-quand-lia-se-met-a-corriger-lia",
+        "body": "ChatGPT, le modèle de langage populaire, n'est pas parfait et peut faire des erreurs. Pour y remédier, OpenAI a développé CriticGPT, un outil d'assistance pour les formateurs d'IA humains. CriticGPT, basé sur GPT-4, identifie et critique les erreurs dans les réponses de ChatGPT, aidant ainsi à améliorer leur précision. Les formateurs utilisent l'apprentissage par renforcement à partir de retours humains (RLHF) pour évaluer les réponses de ChatGPT, mais CriticGPT les assiste dans la détection d'erreurs subtiles. OpenAI forme CriticGPT en lui faisant analyser des réponses erronées, délibérées ou non. Cependant, CriticGPT n'est pas non plus infaillible et peut être sujet à des hallucinations. OpenAI travaille à surmonter ces limitations pour améliorer l'efficacité et la précision du processus d'entraînement.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/img-6531-768x576.jpg?resize=225,225&key=d1b33ea2",
+        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "La face cachée de l'anonymat en ligne",
@@ -194,40 +236,5 @@
         "body": "Intel a développé un minuscule composant appelé Optical Compute Interconnect (OCI) qui utilise la lumière au lieu de l'électricité pour transmettre des données entre les processeurs, augmentant ainsi la bande passante pour les centres de données effectuant des traitements IA intensifs. L'OCI, qui peut être intégré à la plupart des processeurs, y compris ceux de Nvidia et AMD, utilise des signaux optiques pour permettre une communication sur de plus longues distances entre les serveurs, offrant ainsi une architecture de centre de données plus flexible et distribuée. Avec ses connexions optiques, son circuit intégré et son circuit électrique, l'OCI peut gérer des modèles IA plus puissants, réduire la latence et améliorer l'efficacité énergétique. Intel prévoit de produire ce composant en grand volume et de l'intégrer aux plates-formes de traitement, en collaboration avec des clients sélectionnés.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667b3973c61eb239cd130a2b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 26 Jun 2024 15:00:00 GMT"
-    },
-    {
-        "title": "La transformation de l'IA",
-        "link": "https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music",
-        "body": "Deux startups d'IA, Udio et Suno, sont poursuivies en justice par de grandes maisons de disques pour violation du droit d'auteur. Ces startups permettent aux utilisateurs de créer des chansons avec des performances vocales et instrumentales à partir de prompts, et les maisons de disques affirment qu'elles ont entraîné illégalement leurs modèles IA sur de grandes quantités de musique protégée par le droit d'auteur. Ces poursuites s'ajoutent à d'autres actions en justice similaires contre des entreprises d'IA, remettant en question la pratique courante de l'acquisition de données non autorisée. L'article explore les implications potentielles de ces poursuites pour l'industrie de l'IA, en particulier la question de l'utilisation équitable. Bien que les entreprises d'IA affirment que leur utilisation de données protégées par le droit d'auteur est transformative et donc protégée par l'utilisation équitable, l'issue de ces poursuites pourrait avoir un impact significatif sur l'avenir de l'industrie.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg",
-        "date": "Wed, 26 Jun 2024 12:00:00 GMT"
-    },
-    {
-        "title": "L'IA en vol",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/26/latest-trend-of-mindless-raw-dogging-on-flights-gives-way-to-mindful-generative-ai-taking-up-the-slack/?ss=ai",
-        "body": "Résumé : \n\nL'article explore la nouvelle tendance consistant à ne rien faire pendant un vol, y compris s'abstenir de toute distraction ou stimulation externe, comme les livres, la musique ou les films. Il suggère que, bien que cette approche de \"vide mental\" soit populaire, l'utilisation de l'IA générative peut offrir une alternative plus productive. L'IA générative peut fournir une compagnie, une conversation et une stimulation mentale sans briser la bulle de calme d'un passager. L'article discute des avantages de l'utilisation de l'IA générative pour améliorer la santé mentale et combler le temps autrement perdu pendant un vol. Cependant, il met également en garde contre les limites de l'IA, y compris les problèmes de confidentialité et les conseils potentiellement erronés en matière de santé mentale. Enfin, il suggère que l'utilisation de l'IA générative pendant les vols pourrait devenir une tendance populaire, offrant aux passagers un moyen de rester mentalement actifs tout en maintenant un espace personnel calme.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667b94fc2dc3c3373d7659fc/0x0.jpg?format=jpg&crop=1359,1018,x55,y0,safe&width=440",
-        "date": "Wed, 26 Jun 2024 11:59:00 GMT"
-    },
-    {
-        "title": "Les changements discrets des conditions d'utilisation nourrissent les machines IA",
-        "link": "https://www.theverge.com/2024/6/26/24186323/if-its-free-then-you-are-the-product",
-        "body": "Le New York Times a récemment publié un article mettant en lumière les modifications discrètes apportées aux conditions d'utilisation et contrats (T&C) de plusieurs entreprises au cours de l'année écoulée. Ces changements coïncident avec le besoin croissant de données pour alimenter les machines d'intelligence artificielle. L'article présente des exemples visuels des modifications avant et après, comme dans le cas de Google.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1232x436/2400x849/filters:focal(616x218:617x219):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506827/SzhF1gX.png",
-        "date": "Wed, 26 Jun 2024 11:02:55 GMT"
-    },
-    {
-        "title": "La course à l'IA",
-        "link": "https://www.forbes.com/sites/roberthart/2024/06/26/anthropics-claude-what-to-know-about-chatgpt-rival-after-latest-model-trounces-industry-giants/?ss=ai",
-        "body": "Le dernier modèle d'IA générative de l'entreprise d'IA Anthropic, Claude 3.5 Sonnet, rivalise déjà avec les principaux modèles concurrents comme GPT-4 d'OpenAI, quelques jours seulement après sa sortie. Claude 3.5 Sonnet est présenté comme un modèle polyvalent, combinant vitesse et puissance, et capable de surpasser les modèles concurrents en matière de raisonnement et de codage. Ce modèle est une mise à jour significative par rapport à son prédécesseur, Claude 3 Opus, avec des performances doublées et un coût réduit de 80 %. La sortie de Claude 3.5 Sonnet s'inscrit dans la course au développement des modèles d'IA les plus avancés et les plus performants, avec des entreprises comme Anthropic, OpenAI, Meta et Google se disputant la première place. Fondée en 2021 par des chercheurs d'OpenAI, Anthropic se positionne comme une entreprise axée sur la sécurité et la responsabilité dans le développement de l'IA, plutôt que sur la commercialisation et les profits. La société a déjà levé 8,36 milliards de dollars et compte des géants de la tech comme Amazon et Google parmi ses investisseurs. Avec la sortie de Claude 3.5 Sonnet, Anthropic continue de se positionner comme un acteur clé dans le paysage de l'IA générative, offrant une alternative sérieuse aux modèles d'IA dominants sur le marché.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66570aa5daad0c6a2f04ae33/0x0.jpg?format=jpg&crop=4285,2412,x0,y205,safe&width=440",
-        "date": "Wed, 26 Jun 2024 11:00:00 GMT"
-    },
-    {
-        "title": "Révolution dans les entrepôts : l'avenir de la chaîne d'approvisionnement",
-        "link": "https://www.forbes.com/sites/ganeskesari/2024/06/26/smart-warehouses-how-ai-is-shaping-the-modern-supply-chain/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667b2368f23130fa980adf2e/0x0.jpg?format=jpg&crop=1359,764,x0,y106,safe&width=440",
-        "date": "Wed, 26 Jun 2024 10:00:00 GMT"
     }
 ]
