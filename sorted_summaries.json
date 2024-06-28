@@ -1,10 +1,31 @@
 [
     {
+        "title": "La face cachée de l'anonymat en ligne",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/27/the-shadowy-online-burnerverse-heats-up-and-heres-how-generative-ai-is-entangled-in-the-torrid-hot-mess/",
+        "body": "Résumé : \n\nL'article explore le concept de \"Burnerverse\", un terme désignant les communautés en ligne et les médias sociaux qui valorisent fortement l'anonymat. Il examine les arguments en faveur et contre l'anonymat en ligne, soulignant la liberté d'expression et les risques de répercussions sociales. L'article révèle ensuite le rôle important de l'IA générative et des grands modèles linguistiques (LLM) dans le Burnerverse. Il explique comment l'IA peut être utilisée pour filtrer la désinformation et modérer le contenu, mais aussi comment elle peut être exploitée pour préserver l'anonymat, générer du contenu positif ou négatif, et même imiter le style d'écriture de célébrités ou de personnes spécifiques. L'article conclut en soulevant des questions éthiques et juridiques complexes sur l'utilisation de l'IA générative dans ces contextes anonymes, laissant aux lecteurs le soin de réfléchir aux implications et aux défis qu'elle présente.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667de14c95ba9623ac58f209/0x0.jpg?format=jpg&crop=3198,2130,x332,y0,safe&width=440",
+        "date": "Thu, 27 Jun 2024 22:00:00 GMT"
+    },
+    {
+        "title": "La chute de l'empire web",
+        "link": "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism",
+        "body": "Perplexity, une startup en cours de levée de fonds, développe un moteur de recherche concurrent de Google, qu'elle préfère qualifier de \"moteur de réponses\". Son objectif est de fournir directement aux utilisateurs des réponses à leurs questions, sans qu'ils aient besoin de consulter plusieurs sources. Cependant, cette approche soulève des inquiétudes éthiques car elle pourrait priver les sources primaires de revenus publicitaires. Perplexity est allé plus loin avec son produit Pages, qui crée des résumés agrégés basés sur des sources primaires, frôlant la violation de droits d'auteur. La startup a également été accusée de contourner les paywalls et d'ignorer les robots.txt, des règles établies pour les moteurs de recherche. Son PDG, Aravind Srinivas, a reconnu l'utilisation de tiers pour la collecte de données, mais n'a pas pris d'engagement concret pour remédier à ces problèmes éthiques. La startup rejoint ainsi d'autres entreprises d'IA qui collectent des données de manière peu scrupuleuse, remettant en cause les fondements de confiance sur lesquels repose Internet.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg",
+        "date": "Thu, 27 Jun 2024 20:32:05 GMT"
+    },
+    {
         "title": "L'essor de l'IA dans la création de contenu et les débats éthiques",
         "link": "https://www.forbes.com/sites/charliefink/2024/06/27/120-million-for-etched-chips-emergence-ai-agents-emerge-with-972-million-stability-ai-gets-stability/",
         "body": "L'article passe en revue les derniers développements dans le domaine de l'IA, en mettant l'accent sur son utilisation dans la création de contenu. Il mentionne la vidéo promotionnelle de Toys R Us créée avec Sora d'OpenAI, qui est si sophistiquée qu'elle ne semble pas avoir été créée avec de l'IA. L'article souligne également les investissements importants dans des startups d'IA, telles qu'Emergence AI, Etched, Stability AI et Hedra, qui développent des agents IA pour diverses tâches et améliorent la vitesse et l'accessibilité de la technologie. Les débats éthiques sont également abordés, avec la résistance des artistes à l'utilisation de l'IA dans la création musicale en raison de préoccupations concernant la dévalorisation de leur travail. Enfin, \"The Visual Dome\", un monde parallèle créé avec l'IA, est présenté, soulignant la capacité de l'IA à créer des mondes immersifs et des communautés dédiées.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667db8d539e458c4e4c72763/0x0.jpg?format=jpg&crop=2000,1125,x0,y48,safe&width=440",
         "date": "Thu, 27 Jun 2024 20:17:00 GMT"
+    },
+    {
+        "title": "AI Grounding",
+        "link": "https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data",
+        "body": "Vertex AI, la plateforme de développement de Google Cloud, propose de nouvelles fonctionnalités pour améliorer la précision des informations fournies par les applications et services utilisant l'IA. La fonctionnalité « Grounding with Google Search » permet aux modèles d'accéder à des informations en direct sur Internet. Google annonce désormais que les clients pourront également utiliser des datasets spécialisés de fournisseurs tiers pour améliorer les résultats de l'IA. Cette option sera disponible au troisième trimestre 2024. \n\nGoogle développe également d'autres fonctionnalités pour renforcer la confiance dans ses expériences d'IA générative, notamment le « mode haute fidélité », qui permet aux organisations d'utiliser leurs propres datasets au lieu de la base de connaissances plus large de Gemini. Le « Vector Search », qui permet de trouver des images similaires, est également mis à jour pour prendre en charge les recherches hybrides, combinant des recherches basées sur des vecteurs et des mots-clés textuels. \n\nLa fonctionnalité « Grounding with Google Search » sera également améliorée avec une fonction de « récupération dynamique » qui choisira automatiquement la source d'information la plus appropriée entre les datasets établis de Gemini et Google Search pour les requêtes nécessitant des ressources fréquemment mises à jour. Ces améliorations visent à améliorer la réputation des fonctionnalités de recherche basées sur l'IA de Google, qui a été mise à mal par des recommandations étranges basées sur des données obsolètes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
+        "date": "Thu, 27 Jun 2024 19:21:16 GMT"
     },
     {
         "title": "L'IA, un atout stratégique pour les startups",
@@ -33,6 +54,13 @@
         "body": "L'article traite de l'évolution du cycle de vie des logiciels, en particulier dans le contexte de la renaissance actuelle de l'intelligence artificielle. Il introduit le concept de cycle de vie de l'IA, qui commence par l'infrastructure, englobant les modèles linguistiques, la logique des moteurs d'IA et l'analytique du cloud computing. DataStax, une entreprise de plateforme d'IA, a acquis Langflow, un framework visuel open source pour la création d'applications d'IA. Langflow 1.0 propose une interface glisser-déposer avec des intégrations aux outils d'IA populaires, permettant aux développeurs de comparer facilement les fournisseurs de LLM. DataStax s'est également associé à Unstructured, une plateforme sans code qui aide à convertir les documents en données prêtes pour les LLM. Ces développements visent à simplifier le processus de développement de l'IA, en permettant aux développeurs de se concentrer sur la création d'applications plutôt que sur la gestion de l'infrastructure. Le cycle de vie de l'IA est présenté comme un processus cyclique et complet, de l'infrastructure à l'utilisateur, fournissant une base solide pour l'innovation en matière d'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667d59279f7e8e55e0399672/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Jun 2024 13:00:00 GMT"
+    },
+    {
+        "title": "La plateforme de musique IA de YouTube cherche à obtenir des licences auprès des grandes maisons de disques",
+        "link": "https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner",
+        "body": "Résumé : YouTube, propriété de Google, cherche à obtenir des licences pour les chansons de Universal Music Group, Sony Music Entertainment et Warner Records afin d'entraîner légalement ses outils de musique basés sur l'IA. La plateforme propose de payer des sommes forfaitaires en échange des droits, avec l'intention de lancer de nouveaux outils d'IA plus tard dans l'année. Ces développements surviennent alors que l'industrie musicale exprime ses préoccupations concernant l'utilisation non autorisée de leur contenu par des entreprises d'IA, avec des artistes de premier plan et des maisons de disques appelant à une protection accrue des droits des artistes humains.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986637/acastro_STK092_01.jpg",
+        "date": "Thu, 27 Jun 2024 10:56:21 GMT"
     },
     {
         "title": "La technologie de pointe de la Formule 1 et son évolution future",
@@ -208,117 +236,5 @@
         "body": "Bien que l'intelligence artificielle (IA) soit destinée à changer le monde, il existe encore beaucoup d'exagérations et de désinformation à son sujet. L'un des arguments les plus fréquents est que l'intelligence des machines dépassera un jour, peut-être bientôt, l'intelligence humaine. Ce concept, connu sous le nom de « singularité », suggère que pour la première fois dans l'histoire de l'humanité, nous partagerons la planète avec des entités plus intelligentes que nous. L'article explore les arguments pour et contre la possibilité de la singularité, citant des experts des deux côtés du débat. Il examine également les implications potentielles, y compris les risques et les avantages, et souligne l'importance de préparer l'arrivée potentielle de la singularité en veillant à ce que l'IA soit toujours alignée sur les valeurs humaines et en atténuant tout impact négatif sur la société.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666fdf22273ab9c9ddbf0231/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 26 Jun 2024 05:29:00 GMT"
-    },
-    {
-        "title": "La publicité du futur ?",
-        "link": "https://www.forbes.com/sites/danidiplacido/2024/06/26/the-toys-r-us-ai-generated-ad-controversy-explained/",
-        "body": "Titre : La publicité AI-générée : entre innovation et controverse \n\nRésumé : \n\nLa chaîne de magasins de jouets Toys \"R\" Us a récemment fait l'objet de critiques en ligne suite à la diffusion d'une publicité créée à l'aide de l'outil de génération vidéo Sora, développé par OpenAI. Bien que Sora ne soit pas encore accessible au public, les passionnés d'IA ont déjà expérimenté d'autres générateurs vidéo disponibles, tels que le Dream Machine de Luma Labs. La technologie de génération d'images a suscité des controverses, et si certains saluent son utilisation à des fins commerciales, d'autres trouvent le résultat repoussant. La publicité de Toys \"R\" Us illustre les capacités et les limites de l'IA dans la génération de vidéos, avec des modèles de personnages incohérents et des anomalies visuelles. Les détracteurs de l'IA soulignent le manque de touche humaine et la nature cynique de l'utilisation de l'IA dans la créativité, en particulier lorsqu'il s'agit de s'adresser aux enfants. La controverse s'étend également à Amazon, qui a annoncé une nouvelle série sur Winnie l'ourson créée en partie grâce à l'IA. Les critiques soulignent les compromis artistiques et éthiques de l'utilisation de l'IA dans la production, ainsi que son impact sur la consommation d'énergie et la dévalorisation de l'expression créative humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667c521c84823d7ad249d086/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La chute de Perplexity",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/06/26/search-startup-perplexity-increasingly-cites-ai-generated-sources/",
-        "body": "Le moteur de recherche Perplexity, qui se distingue des autres outils d'IA par sa fonction de citation de sources, fait face à des critiques pour plagiat de travaux journalistiques et distribution de contenu généré par l'IA, y compris sur des blogs et LinkedIn, contenant des informations erronées et obsolètes. L'étude de GPTZero révèle que le moteur de recherche de Perplexity cite des sources générées par l'IA sur divers sujets, de la technologie aux voyages. Malgré les affirmations de Perplexity sur l'attribution des sources et la détection de contenu généré par l'IA, la startup est accusée de republier du contenu sans attribution adéquate. La réponse de Perplexity admet des imperfections et souligne ses efforts continus pour améliorer la qualité des sources. L'article explore également les problèmes éthiques liés à la propagation de désinformation par l'IA, les défis de distinguer le contenu authentique du contenu faux, et les implications pour la confiance dans les outils d'IA. L'incident soulève des questions sur la responsabilité et la fiabilité des outils d'IA, en particulier lorsque leur impact peut être significatif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667c51b0838586852887c191/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La révolution quantique",
-        "link": "https://www.forbes.com/sites/sylvainduranton/2024/06/26/quantum-now/",
-        "body": "Bien que la technologie quantique soit encore émergente, elle suscite un intérêt et des investissements importants de la part des puissances mondiales, avec des applications potentielles dans divers secteurs. Les ordinateurs quantiques pourraient résoudre certains problèmes complexes beaucoup plus rapidement que les ordinateurs classiques, grâce à l'utilisation de qubits et à la superposition d'états. Bien que les applications pratiques soient encore limitées, des progrès constants sont réalisés et de nombreuses personnes prévoient que les ordinateurs quantiques deviendront une réalité concrète dans les prochaines années. Les entreprises, notamment dans les secteurs bancaire, de la finance et de l'automobile, commencent déjà à recruter des équipes spécialisées en informatique quantique et à former des partenariats avec des fabricants et des centres de recherche. L'informatique quantique pourrait révolutionner des domaines tels que la cybersécurité, la découverte de médicaments, la logistique et la lutte contre le changement climatique. L'IA peut également tirer parti de l'informatique quantique pour améliorer ses prédictions et ses simulations, et inversement, l'informatique quantique peut bénéficier des capacités de l'IA. Les entreprises doivent commencer à se préparer à l'ère quantique en formant des équipes multidisciplinaires, en identifiant des cas d'utilisation spécifiques, en adoptant des algorithmes cryptographiques post-quantiques et en établissant des partenariats stratégiques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667c347eee493bcbce863971/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la connectivité optique",
-        "link": "https://www.forbes.com/sites/kirkogunrinde/2024/06/26/intel-is-using-lasers-to-help-meet-ai-demands-on-data-centers/",
-        "body": "Intel a développé un minuscule composant appelé Optical Compute Interconnect (OCI) qui utilise la lumière au lieu de l'électricité pour transmettre des données entre les processeurs, augmentant ainsi la bande passante pour les applications d'IA exigeantes en puissance de calcul. L'OCI, qui utilise la signalisation optique via des connexions en fibre optique, permet aux processeurs de communiquer sur de plus longues distances et offre une architecture de centre de données plus flexible et distribuée. Il comprend un circuit intégré pour traiter les informations, un circuit électrique pour gérer les signaux électriques et un connecteur optique. Cette approche modulaire facilite l'extension et l'intégration dans les centres de données. Bien que la technologie optique soit plus coûteuse, les avantages en termes de fiabilité et de flexibilité justifient le prix, selon les experts. De plus, l'OCI d'Intel est compatible avec la plupart des processeurs, y compris ceux de Nvidia et AMD. La société prévoit de produire ce composant à grande échelle et de l'intégrer dans les centres de données, offrant ainsi une solution évolutive et rentable pour répondre aux besoins croissants de l'IA en matière de bande passante.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667b3973c61eb239cd130a2b/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "L'IA à bord : un vol tranquille et productif",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/26/latest-trend-of-mindless-raw-dogging-on-flights-gives-way-to-mindful-generative-ai-taking-up-the-slack/",
-        "body": "L'article explore la tendance récente à ne rien faire pendant un vol long-courrier, y compris s'abstenir de divertissements ou de nourriture, afin de créer un espace mental vide. Il suggère que, bien que populaire, cette approche pourrait être améliorée par l'utilisation de l'IA générative. L'IA peut fournir une distraction sans effort et sans interaction humaine, tout en offrant des avantages éducatifs et thérapeutiques. Bien qu'il y ait des réserves quant à la confidentialité et à la précision de l'IA, l'auteur prédit que l'utilisation de l'IA pendant les vols deviendra courante, offrant un moyen de rester productif et calme pendant les voyages.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667b94fc2dc3c3373d7659fc/0x0.jpg?format=jpg&crop=1359,1018,x55,y0,safe&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA de nouvelle génération",
-        "link": "https://www.forbes.com/sites/roberthart/2024/06/26/anthropics-claude-what-to-know-about-chatgpt-rival-after-latest-model-trounces-industry-giants/",
-        "body": "Anthropic, une entreprise d'intelligence artificielle, a récemment lancé Claude 3.5 Sonnet, un modèle d'IA générative qui rivalise déjà avec des modèles leaders du marché tels que GPT-4o d'OpenAI. Claude 3.5 Sonnet est présenté comme un modèle efficace et polyvalent, combinant vitesse et puissance pour les tâches complexes. Ce modèle est une mise à jour significative par rapport à son prédécesseur, Claude 3 Opus, offrant des performances améliorées à un coût et une vitesse accrus. La course au développement de modèles d'IA plus grands et meilleurs s'intensifie, avec des entreprises comme Anthropic mettant l'accent sur la sécurité et la responsabilité plutôt que sur la simple commercialisation. Fondée en 2021 par d'anciens chercheurs d'OpenAI, Anthropic a déjà attiré des investissements importants de géants technologiques tels qu'Amazon et Google, soulignant l'importance de la course à l'IA de nouvelle génération.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66570aa5daad0c6a2f04ae33/0x0.jpg?format=jpg&crop=4285,2412,x0,y205,safe&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "L'entrepôt intelligent du futur",
-        "link": "https://www.forbes.com/sites/ganeskesari/2024/06/26/smart-warehouses-how-ai-is-shaping-the-modern-supply-chain/",
-        "body": "L'industrie de la chaîne d'approvisionnement dépend des entrepôts, qui assurent le stockage, le suivi et la distribution des produits. Le marché mondial de l'entreposage et du stockage a atteint 714 milliards de dollars en 2023, et la complexité des opérations a augmenté. L'IA, avec les drones autonomes, les bras robotisés et la collaboration homme-machine, transforme le secteur. Les drones autonomes, grâce à l'IA spatiale et la vision informatique, permettent un suivi d'inventaire en temps réel, même dans des endroits éloignés où le GPS est peu fiable. Les bras robotisés, quant à eux, manipulent avec précision des produits divers, réduisant les coûts de main-d'œuvre et les risques de dommages. L'intégration des robots dans les entrepôts est une tendance majeure, avec 4 millions de robots commerciaux prévus d'ici 2025. Les modèles Robots-as-a-Service (RaaS) rendent ces technologies accessibles aux PME, réduisant les coûts et offrant une maintenance complète. L'IA et les robots révolutionnent ainsi l'efficacité, la précision et la sécurité de la logistique des entrepôts.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667b2368f23130fa980adf2e/0x0.jpg?format=jpg&crop=1359,764,x0,y106,safe&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La singularité",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/26/ai-hype-or-reality-the-singularitywill-ai-surpass-human-intelligence/",
-        "body": "Résumé : \n\nLe concept de « singularité », popularisé par l'auteur de science-fiction Vernor Vinge, suggère que les machines dépasseront un jour l'intelligence humaine. Bien que cela suscite à la fois enthousiasme et scepticisme, les récents progrès de l'IA, tels que ChatGPT et Dall-E 2, suggèrent que nous pourrions être plus proches de ce seuil que nous ne le pensons. Les partisans de la théorie de la singularité soulignent le potentiel d'une croissance exponentielle de l'intelligence des machines, qui pourrait conduire à des avancées technologiques sans précédent. Cependant, des obstacles techniques importants restent à surmonter, notamment le développement d'une intelligence artificielle générale capable d'appliquer ses connaissances à diverses tâches. De plus, des garde-fous éthiques sont nécessaires pour garantir que l'IA reste alignée sur les valeurs humaines et ne cause pas de préjudices par biais ou prise de décision non éthique. Bien que les échéances soient incertaines, les enjeux sont tels que nous devons nous préparer aux conséquences potentiellement importantes de la singularité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/666fdf22273ab9c9ddbf0231/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Jun 2024 00:00:00 GMT"
-    },
-    {
-        "title": "La renaissance de Toys \"R\" Us grâce à l'IA",
-        "link": "https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film",
-        "body": "La célèbre enseigne de jouets Toys \"R\" Us, disparue en 2018, renaît en partie grâce à l'intelligence artificielle. La société de gestion de marques WHP Global, qui détient actuellement la licence de la marque Toys \"R\" Us, a collaboré avec l'agence créative Native Foreign pour créer une vidéo promotionnelle en utilisant l'outil de texte-à-vidéo d'OpenAI, Sora. La vidéo, présentée au Festival Cannes Lions 2024, a été qualifiée de \"première publicité produite avec Sora d'OpenAI\", bien qu'elle ait été corrigée manuellement par l'équipe de création. WHP Global prévoit d'ouvrir jusqu'à 24 magasins Toys \"R\" Us aux États-Unis en 2024, ainsi que des boutiques dans les aéroports et sur les bateaux de croisière, marquant ainsi le retour de l'enseigne de jouets.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(766x502:767x503):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25506323/vlcsnap_2024_06_25_16h06m34s808.png",
-        "date": "Tue, 25 Jun 2024 23:30:16 GMT"
-    },
-    {
-        "title": "L'industrie musicale contre l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2060476_pourquoi-lindustrie-de-la-musique-a-un-probleme-avec-lia",
-        "body": "Les géants de l'industrie musicale, Sony, Universal et Warner, poursuivent en justice les entreprises d'IA Suno et Udio, soutenus par la RIAA. Ils accusent ces entreprises de violer les droits d'auteur en utilisant de la musique protégée pour entraîner leurs outils de génération musicale. La RIAA cherche à obtenir des aveux, des mesures de protection et des dommages-intérêts pouvant atteindre 150 000 $ par œuvre. Le procès soulève des questions éthiques et légales sur l'utilisation des données pour entraîner l'IA, un débat qui pourrait avoir un impact significatif sur l'ensemble du secteur de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/02/spotify-dj-768x471.jpg?resize=184,184&key=ac682d05",
-        "date": "Tue, 25 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT sur Mac",
-        "link": "https://www.frandroid.com/os/macos/2059714_lapplication-chatgpt-pour-mac-est-enfin-accessible-a-tout-le-monde",
-        "body": "OpenAI a lancé une application native pour son chatbot ChatGPT sur Mac, désormais accessible à tous. L'application offre une fenêtre dédiée pour interagir avec l'assistant virtuel et propose des fonctionnalités avancées, telles que la recherche via un raccourci clavier, la reconnaissance d'images et l'analyse en direct via la webcam. L'application est compatible avec macOS 14 ou supérieur et les Mac équipés de puces Apple Silicon. OpenAI a choisi de se concentrer d'abord sur Mac, car c'est là que se trouve la majorité de ses utilisateurs. L'arrivée de ChatGPT sur Mac concurrence directement Siri sur son propre terrain.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/search-results-mac-app-small-768x432.jpg?resize=169,169&key=802fd580",
-        "date": "Tue, 25 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google annonce ses nouveaux produits, dont des smartphones et montres connectées",
-        "link": "https://www.frandroid.com/marques/google/2059712_pixel-9-pixel-9-pro-pixel-watch-3-les-prochains-produits-google-arriveront-plus-vite-que-prevu",
-        "body": "Google a annoncé la date de sa conférence annuelle \"Made by Google\", qui se tiendra le 13 août 2024, plus tôt que les années précédentes. La firme présentera ses nouveaux smartphones Pixel 9 et 9 Pro, ainsi qu'un potentiel modèle pliant, le Pixel 9 Pro Fold. De plus, Google devrait lancer deux nouvelles montres connectées, la Pixel Watch 3 et la Pixel Watch 3 XL. La conférence se concentrera également sur les avancées en matière d'IA, avec une refonte majeure du bloc photo arrière des smartphones.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/rendu-du-google-pixel-9-4-768x432.jpeg?resize=169,169&key=32f86859",
-        "date": "Tue, 25 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT Voice Mode Delayed",
-        "link": "https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed",
-        "body": "L'article résume les dernières mises à jour de OpenAI, notamment le report du lancement de la version alpha du nouveau mode vocal de ChatGPT, qui devait initialement être disponible pour un petit groupe d'abonnés ChatGPT Plus. OpenAI souhaite améliorer la capacité du modèle à détecter et refuser certains contenus. Les nouvelles fonctionnalités d'assistant, ressemblant à celles du film \"Her\", montrent comment le bot basé sur GPT-4 peut observer et interagir avec l'environnement de l'utilisateur en temps réel, avec des temps de réponse et une expressivité de niveau humain. L'application de bureau ChatGPT pour macOS est désormais disponible, avec une application Windows prévue pour plus tard cette année.",
-        "image": "",
-        "date": "Tue, 25 Jun 2024 22:40:31 GMT"
-    },
-    {
-        "title": "Les géants de la tech s'emparent de l'IA conversationnelle",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques comme Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. OpenAI a annoncé une mise à jour de printemps, y compris une application de bureau pour ChatGPT et un mode vocal avancé. Apple a annoncé un partenariat avec OpenAI pour intégrer ChatGPT à iOS 18, et discute également avec d'autres startups d'IA. OpenAI a également acquis Rockset, une startup d'analyse d'entreprise, et a conclu un accord avec News Corp pour accéder à ses articles pour l'entraînement et les réponses aux questions. Google a lancé Gemini Nano pour les appareils Pixel 8 et 8A, et prévoit de mettre à jour Siri avec des fonctionnalités d'IA pour iOS 18. Enfin, des startups comme Character.AI et Replika gagnent en popularité en proposant des chatbots plus proches des compagnons.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Tue, 25 Jun 2024 22:40:31 GMT"
-    },
-    {
-        "title": "Reddit limite l'accès aux données pour les bots et l'entraînement des modèles IA",
-        "link": "https://www.theverge.com/2024/6/25/24185984/reddit-robots-txt-fight-ai-bots-scraping-crawlers",
-        "body": "Résumé : \n\nReddit va commencer à bloquer la plupart des bots automatisés de l'accès à ses données publiques, exigeant des accords de licence pour utiliser son contenu à des fins commerciales, y compris l'entraînement de modèles IA. Cette décision souligne l'importance du fichier robots.txt, qui régit l'accès des web crawlers aux sites web. Alors que les moteurs de recherche comme Google ont traditionnellement utilisé ce fichier pour indexer le web, les entreprises d'IA ont récemment commencé à ingérer de grandes quantités de données en ligne pour entraîner leurs modèles. La mise à jour de Reddit met en évidence la nécessité pour les entreprises d'obtenir des licences appropriées pour utiliser les données en ligne à des fins d'entraînement de modèles IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24739225/Command_Line_Site_Post_Reddit.jpg",
-        "date": "Tue, 25 Jun 2024 21:49:32 GMT"
-    },
-    {
-        "title": "Cruise Automatisation des Véhicules",
-        "link": "https://www.theverge.com/2024/6/25/24186003/cruises-new-ceo-comes-from-the-world-of-gaming-and-tvs",
-        "body": "Cruise, une entreprise de robotaxis soutenue par General Motors, a nommé Marc Whitten au poste de directeur général. Whitten, qui a une expérience chez Amazon et Unity, remplace Kyle Vogt, qui a démissionné après un incident impliquant un véhicule autonome et un piéton. Cruise a progressivement déployé plus de véhicules après avoir quitté San Francisco suite à l'incident.",
-        "image": "",
-        "date": "Tue, 25 Jun 2024 21:27:02 GMT"
     }
 ]
