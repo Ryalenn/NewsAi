@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'avenir de l'éducation à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/30/chatgpt-forces-universities-to-adapt-or-retreat/",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6680841973aeed7c7def5dee/0x0.jpg?format=jpg&crop=2532,1424,x0,y101,safe&width=440",
+        "date": "Sun, 30 Jun 2024 09:00:00 GMT"
+    },
+    {
+        "title": "Pure Storage dévoile ses innovations en matière d'IA",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/06/29/pure-storage-unveils-ai-enabled-enterprise-storage-platform/",
+        "body": "Pure Storage, un leader dans le domaine du stockage de données, a récemment annoncé une série d'innovations axées sur les besoins en constante évolution de l'IA en entreprise. Parmi les annonces, Pure Fusion, une solution d'automatisation du stockage innovante, unifie les tableaux de stockage et optimise dynamiquement les pools de stockage pour les données structurées et non structurées, sur site ou dans le cloud. La société a également présenté le premier copilote d'IA générative pour le stockage, un outil basé sur l'IA qui utilise les insights de dizaines de milliers de clients Pure Storage pour révolutionner la gestion et la protection des données. Le copilote d'IA de Pure Storage, intégré à sa plateforme, aide les administrateurs avec des insights et des recommandations basées sur l'IA. Evergreen//One for AI, une solution de stockage-en-tant-que-service conçue pour les charges de travail d'IA, garantit les performances de stockage nécessaires pour les tâches intensives en GPU. Pure Storage a également annoncé son expansion continue avec Nvidia. La stratégie de Pure Storage est axée sur la fourniture d'une plateforme de stockage dynamique, intelligente et unifiée qui s'adapte aux besoins changeants des entreprises, positionnant ainsi l'entreprise comme un leader dans la satisfaction des exigences des centres de données modernes, y compris l'IA, le cloud et l'hyperscale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/640136604b8703889d8619bd/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 03:00:00 GMT"
+    },
+    {
         "title": "Révolution de la santé avec l'IA",
         "link": "https://www.forbes.com/sites/shashankagarwal/2024/06/29/ai-personalizes-healthcare-transforming-delivery-and-saving-lives/",
         "body": "L'IA transforme le secteur de la santé, permettant une personnalisation à tous les niveaux, depuis le diagnostic et le traitement jusqu'à l'interaction patient et la prescription de médicaments. Les systèmes basés sur l'IA peuvent analyser de grandes quantités de données patient pour fournir des diagnostics et des recommandations de traitement personnalisés, comme l'a démontré Watson Health avec une précision de 93 % dans l'oncologie. De plus, l'IA peut aider à la prévention, en prédisant les problèmes de santé potentiels et en suggérant des changements de mode de vie. L'IA améliore également les processus administratifs, comme la prise de rendez-vous et l'assistance, et révolutionne l'engagement des patients grâce à des chatbots et des agents intelligents. Alors que l'IA continue d'évoluer, son impact sur la santé devrait s'étendre, mais il est important de gérer les défis associés, tels que la confidentialité et la sécurité des données, ainsi que de maintenir un équilibre humain dans les soins. L'adoption responsable et éthique de l'IA dans le secteur de la santé peut conduire à un avenir où des soins véritablement personnalisés sont la norme, améliorant ainsi les résultats de santé pour tous.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66809b46f0e2649adf92e33b/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 30 Jun 2024 00:00:00 GMT"
+    },
+    {
+        "title": "Le débat éthique autour de l'IA",
+        "link": "https://www.frandroid.com/marques/microsoft/2063820_freeware-microsoft-estime-quil-est-normal-de-pomper-les-contenus-du-web-pour-ameliorer-lia",
+        "body": "Le responsable de l'IA chez Microsoft, Mustafa Suleyman, a soulevé des questions éthiques lors d'une interview en affirmant que tout contenu déjà présent sur le web peut être librement copié pour entraîner les IA, le qualifiant de \"freeware\". Il distingue cependant les cas où un site web demande explicitement à ne pas être utilisé pour l'entraînement des IA, ce qui crée une \"zone grise\" sujette à interprétation. Ces déclarations soulèvent des interrogations sur la propriété intellectuelle, le plagiat et la monétisation des contenus générés par l'IA. Le débat autour de l'IA générative, qui s'appuie sur du contenu existant pour créer du nouveau, est relancé, certains y voyant un vol potentiel, notamment pour les artistes. Les craintes concernant l'IA et son impact sur la création originale sont ainsi ravivées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/microsoft-edge-768x522.png?resize=204,204&key=90e5ea49",
+        "date": "Sat, 29 Jun 2024 23:00:00 GMT"
     },
     {
         "title": "L'importance de la compréhension de l'IA prédictive pour les parties prenantes",
@@ -82,12 +103,5 @@
         "body": "L'article explore l'émergence de Model-as-a-Service (MaaS) dans le domaine de l'IA, une tendance qui simplifie l'accès et le déploiement de modèles d'IA pour les ingénieurs logiciels. MaaS fournit des modèles d'apprentissage automatique préconstruits, préconfigurés et préentraînés, démocratisant ainsi la technologie d'IA pour les développeurs. L'auteur souligne les avantages de MaaS, notamment l'efficacité, la rentabilité et la facilité de mise à l'échelle, ainsi que la robustesse des modèles établis, exempts de biais ou de risques d'hallucination. Les fournisseurs de MaaS offrent une documentation, des tutoriels et un support complets, permettant aux développeurs d'intégrer plus rapidement et plus compétemment les capacités d'IA dans leurs logiciels. L'article présente également des exemples d'organisations adoptant MaaS, telles que NTT Data et SAS, mettant en évidence leurs offres et leurs avantages. Enfin, l'article réfléchit à l'impact potentiel de MaaS sur l'innovation en matière d'IA et sur son évolution en tant qu'utilitaire intégré dans toutes les applications.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667e9368107c03f2b61bd6a0/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Jun 2024 10:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA pour les PME",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/06/28/how-mailchimp-hopes-to-build-the-end-to-end-ai-solution-for-smes/",
-        "body": "Mailchimp, désormais détenu par Intuit (développeur de QuickBooks), propose depuis des années des outils d'IA, principalement pour la création de contenu, aux petites et moyennes entreprises. L'entreprise se prépare désormais à lancer de nouveaux services et applications basés sur l'IA, notamment une solution d'automatisation de bout en bout. L'objectif est d'aider les PME à regrouper leurs données dispersées dans différents outils et à les utiliser pour prendre des décisions stratégiques et tactiques. La fonctionnalité « revenue intelligence » de Mailchimp utilise les données comptables, de paiement et d'employés de QuickBooks, ainsi que les données d'inventaire et externes, pour fournir des informations sur les clients et guider les stratégies marketing et de service client. Mailchimp prévoit également d'utiliser l'IA pour prendre des décisions stratégiques, allant au-delà des décisions tactiques à court terme pour lesquelles l'IA est actuellement connue. Rania Succar, responsable générale de Mailchimp, souligne que les PME font face à un choix déroutant en matière d'outils d'IA et que Mailchimp vise à se différencier en offrant une plateforme tout-en-un. L'automatisation de la prise de décision stratégique pourrait être une avancée majeure pour l'IA en entreprise, mais soulève également des questions sur l'équilibre entre l'intelligence des machines et l'intuition humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/666fe066d27c3cccc2b79342/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Jun 2024 05:00:00 GMT"
     }
 ]
