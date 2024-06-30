@@ -1,5 +1,12 @@
 [
     {
+        "title": "Révolution de la santé avec l'IA",
+        "link": "https://www.forbes.com/sites/shashankagarwal/2024/06/29/ai-personalizes-healthcare-transforming-delivery-and-saving-lives/",
+        "body": "L'IA transforme le secteur de la santé, permettant une personnalisation à tous les niveaux, depuis le diagnostic et le traitement jusqu'à l'interaction patient et la prescription de médicaments. Les systèmes basés sur l'IA peuvent analyser de grandes quantités de données patient pour fournir des diagnostics et des recommandations de traitement personnalisés, comme l'a démontré Watson Health avec une précision de 93 % dans l'oncologie. De plus, l'IA peut aider à la prévention, en prédisant les problèmes de santé potentiels et en suggérant des changements de mode de vie. L'IA améliore également les processus administratifs, comme la prise de rendez-vous et l'assistance, et révolutionne l'engagement des patients grâce à des chatbots et des agents intelligents. Alors que l'IA continue d'évoluer, son impact sur la santé devrait s'étendre, mais il est important de gérer les défis associés, tels que la confidentialité et la sécurité des données, ainsi que de maintenir un équilibre humain dans les soins. L'adoption responsable et éthique de l'IA dans le secteur de la santé peut conduire à un avenir où des soins véritablement personnalisés sont la norme, améliorant ainsi les résultats de santé pour tous.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66809b46f0e2649adf92e33b/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 00:00:00 GMT"
+    },
+    {
         "title": "L'importance de la compréhension de l'IA prédictive pour les parties prenantes",
         "link": "https://www.forbes.com/sites/ericsiegel/2024/06/29/the-3-things-you-need-to-know-about-predictive-ai/",
         "body": "Titre",
@@ -82,68 +89,5 @@
         "body": "Mailchimp, désormais détenu par Intuit (développeur de QuickBooks), propose depuis des années des outils d'IA, principalement pour la création de contenu, aux petites et moyennes entreprises. L'entreprise se prépare désormais à lancer de nouveaux services et applications basés sur l'IA, notamment une solution d'automatisation de bout en bout. L'objectif est d'aider les PME à regrouper leurs données dispersées dans différents outils et à les utiliser pour prendre des décisions stratégiques et tactiques. La fonctionnalité « revenue intelligence » de Mailchimp utilise les données comptables, de paiement et d'employés de QuickBooks, ainsi que les données d'inventaire et externes, pour fournir des informations sur les clients et guider les stratégies marketing et de service client. Mailchimp prévoit également d'utiliser l'IA pour prendre des décisions stratégiques, allant au-delà des décisions tactiques à court terme pour lesquelles l'IA est actuellement connue. Rania Succar, responsable générale de Mailchimp, souligne que les PME font face à un choix déroutant en matière d'outils d'IA et que Mailchimp vise à se différencier en offrant une plateforme tout-en-un. L'automatisation de la prise de décision stratégique pourrait être une avancée majeure pour l'IA en entreprise, mais soulève également des questions sur l'équilibre entre l'intelligence des machines et l'intuition humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/666fe066d27c3cccc2b79342/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Jun 2024 05:00:00 GMT"
-    },
-    {
-        "title": "Perplexity dans la tourmente",
-        "link": "https://www.theverge.com/24187792/perplexity-ai-news-updates",
-        "body": "Titre",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
-        "date": "Fri, 28 Jun 2024 00:32:53 GMT"
-    },
-    {
-        "title": "La fuite de la fonction Advanced Voice de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2063116_ce-mode-de-chatgpt-ne-devait-pas-sortir-des-utilisateurs-y-ont-quand-meme-eu-acces",
-        "body": "Bien que OpenAI ait annoncé que la fonction Advanced Voice de GPT-4o ne serait pas disponible avant plusieurs mois, certains utilisateurs ont apparemment eu accès à cette fonctionnalité. Un utilisateur de Reddit, RozziTheCreator, a partagé un enregistrement d'une conversation avec ChatGPT, révélant une nouvelle voix et des effets sonores inquiétants dans une histoire d'horreur. OpenAI a confirmé qu'il s'agissait d'une erreur, mais cette fuite offre un aperçu inédit de la fonction Advanced Voice, qui semble plus naturelle et immersive que les démonstrations précédentes. La société prévoit de commencer le déploiement de cette fonction auprès d'utilisateurs sélectionnés de ChatGPT Plus, mais retarde le lancement d'un mois pour améliorer la détection de contenus inappropriés et l'expérience utilisateur.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-chatgpt-768x512.jpg?resize=300,300&key=27835a17",
-        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA générative",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2055708_google-apple-microsoft-openai-qui-vous-convainc-le-plus-sur-sa-vision-de-lintelligence-artificielle",
-        "body": "En mai et juin 2024, Google, Apple, Microsoft et OpenAI ont fait des annonces importantes concernant leurs développements en matière d'IA générative. OpenAI a présenté GTP-4o, une mise à jour de son LLM, suivi de Google avec Gemini, son chatbot alimenté par les données des utilisateurs. Microsoft a dévoilé les PC Copilot+ et Apple a présenté Apple Intelligence, un système IA pour ses produits. Un sondage révèle qu'OpenAI et son ChatGPT sont considérés comme les leaders du marché, suivis de près par Gemini de Google. Copilot de Microsoft et Apple Intelligence sont moins appréciés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/z-10-768x432.jpg?resize=169,169&key=b4c80f84",
-        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Lens, une alternative à Circle to Search ?",
-        "link": "https://www.frandroid.com/android/mises-a-jour-android/2062922_comment-circle-to-search-de-google-serait-concurrencee-par-google-lens",
-        "body": "Google pourrait proposer une alternative à la fonctionnalité \"Circle to Search\" sur Android, en utilisant Google Lens. Cette fonctionnalité, qui permet de faire des recherches en entourant le contenu affiché à l'écran, était initialement disponible uniquement sur les Galaxy S24 et les Pixel de Google. Cependant, des indices suggèrent qu'elle pourrait être étendue à un plus grand nombre de smartphones Android, iOS et même à Chrome sur ordinateur. La fonctionnalité activée permet de scanner l'écran du smartphone pour identifier du texte et des images, et ainsi effectuer des recherches. Google aurait pour ambition de réunir 200 millions d'utilisateurs ou d'appareils compatibles d'ici la fin de l'année.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/sans-titre-4-768x544.jpg?resize=212,212&key=cf4499b4",
-        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorer l'IA avec CriticGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2062726_cripticgpt-sattaque-aux-erreurs-de-chatgpt-ou-quand-lia-se-met-a-corriger-lia",
-        "body": "ChatGPT, le modèle de langage populaire, n'est pas parfait et peut faire des erreurs. Pour y remédier, OpenAI a développé CriticGPT, un outil d'assistance pour les formateurs d'IA humains. CriticGPT, basé sur GPT-4, identifie et critique les erreurs dans les réponses de ChatGPT, aidant ainsi à améliorer leur précision. Les formateurs utilisent l'apprentissage par renforcement à partir de retours humains (RLHF) pour évaluer les réponses de ChatGPT, mais CriticGPT les assiste dans la détection d'erreurs subtiles. OpenAI forme CriticGPT en lui faisant analyser des réponses erronées, délibérées ou non. Cependant, CriticGPT n'est pas non plus infaillible et peut être sujet à des hallucinations. OpenAI travaille à surmonter ces limitations pour améliorer l'efficacité et la précision du processus d'entraînement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/img-6531-768x576.jpg?resize=225,225&key=d1b33ea2",
-        "date": "Thu, 27 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La face cachée de l'anonymat en ligne",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/27/the-shadowy-online-burnerverse-heats-up-and-heres-how-generative-ai-is-entangled-in-the-torrid-hot-mess/",
-        "body": "Résumé : \n\nL'article explore le concept de \"Burnerverse\", un terme désignant les communautés en ligne et les médias sociaux qui valorisent fortement l'anonymat. Il examine les arguments en faveur et contre l'anonymat en ligne, soulignant la liberté d'expression et les risques de répercussions sociales. L'article révèle ensuite le rôle important de l'IA générative et des grands modèles linguistiques (LLM) dans le Burnerverse. Il explique comment l'IA peut être utilisée pour filtrer la désinformation et modérer le contenu, mais aussi comment elle peut être exploitée pour préserver l'anonymat, générer du contenu positif ou négatif, et même imiter le style d'écriture de célébrités ou de personnes spécifiques. L'article conclut en soulevant des questions éthiques et juridiques complexes sur l'utilisation de l'IA générative dans ces contextes anonymes, laissant aux lecteurs le soin de réfléchir aux implications et aux défis qu'elle présente.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667de14c95ba9623ac58f209/0x0.jpg?format=jpg&crop=3198,2130,x332,y0,safe&width=440",
-        "date": "Thu, 27 Jun 2024 22:00:00 GMT"
-    },
-    {
-        "title": "La chute de l'empire web",
-        "link": "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism",
-        "body": "Perplexity, une startup en cours de levée de fonds, développe un moteur de recherche concurrent de Google, qu'elle préfère qualifier de \"moteur de réponses\". Son objectif est de fournir directement aux utilisateurs des réponses à leurs questions, sans qu'ils aient besoin de consulter plusieurs sources. Cependant, cette approche soulève des inquiétudes éthiques car elle pourrait priver les sources primaires de revenus publicitaires. Perplexity est allé plus loin avec son produit Pages, qui crée des résumés agrégés basés sur des sources primaires, frôlant la violation de droits d'auteur. La startup a également été accusée de contourner les paywalls et d'ignorer les robots.txt, des règles établies pour les moteurs de recherche. Son PDG, Aravind Srinivas, a reconnu l'utilisation de tiers pour la collecte de données, mais n'a pas pris d'engagement concret pour remédier à ces problèmes éthiques. La startup rejoint ainsi d'autres entreprises d'IA qui collectent des données de manière peu scrupuleuse, remettant en cause les fondements de confiance sur lesquels repose Internet.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472498/STK271_PERPLEXITY_A.jpg",
-        "date": "Thu, 27 Jun 2024 20:32:05 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans la création de contenu et les débats éthiques",
-        "link": "https://www.forbes.com/sites/charliefink/2024/06/27/120-million-for-etched-chips-emergence-ai-agents-emerge-with-972-million-stability-ai-gets-stability/",
-        "body": "L'article passe en revue les derniers développements dans le domaine de l'IA, en mettant l'accent sur son utilisation dans la création de contenu. Il mentionne la vidéo promotionnelle de Toys R Us créée avec Sora d'OpenAI, qui est si sophistiquée qu'elle ne semble pas avoir été créée avec de l'IA. L'article souligne également les investissements importants dans des startups d'IA, telles qu'Emergence AI, Etched, Stability AI et Hedra, qui développent des agents IA pour diverses tâches et améliorent la vitesse et l'accessibilité de la technologie. Les débats éthiques sont également abordés, avec la résistance des artistes à l'utilisation de l'IA dans la création musicale en raison de préoccupations concernant la dévalorisation de leur travail. Enfin, \"The Visual Dome\", un monde parallèle créé avec l'IA, est présenté, soulignant la capacité de l'IA à créer des mondes immersifs et des communautés dédiées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667db8d539e458c4e4c72763/0x0.jpg?format=jpg&crop=2000,1125,x0,y48,safe&width=440",
-        "date": "Thu, 27 Jun 2024 20:17:00 GMT"
-    },
-    {
-        "title": "AI Grounding",
-        "link": "https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data",
-        "body": "Vertex AI, la plateforme de développement de Google Cloud, propose de nouvelles fonctionnalités pour améliorer la précision des informations fournies par les applications et services utilisant l'IA. La fonctionnalité « Grounding with Google Search » permet aux modèles d'accéder à des informations en direct sur Internet. Google annonce désormais que les clients pourront également utiliser des datasets spécialisés de fournisseurs tiers pour améliorer les résultats de l'IA. Cette option sera disponible au troisième trimestre 2024. \n\nGoogle développe également d'autres fonctionnalités pour renforcer la confiance dans ses expériences d'IA générative, notamment le « mode haute fidélité », qui permet aux organisations d'utiliser leurs propres datasets au lieu de la base de connaissances plus large de Gemini. Le « Vector Search », qui permet de trouver des images similaires, est également mis à jour pour prendre en charge les recherches hybrides, combinant des recherches basées sur des vecteurs et des mots-clés textuels. \n\nLa fonctionnalité « Grounding with Google Search » sera également améliorée avec une fonction de « récupération dynamique » qui choisira automatiquement la source d'information la plus appropriée entre les datasets établis de Gemini et Google Search pour les requêtes nécessitant des ressources fréquemment mises à jour. Ces améliorations visent à améliorer la réputation des fonctionnalités de recherche basées sur l'IA de Google, qui a été mise à mal par des recommandations étranges basées sur des données obsolètes.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
-        "date": "Thu, 27 Jun 2024 19:21:16 GMT"
     }
 ]
