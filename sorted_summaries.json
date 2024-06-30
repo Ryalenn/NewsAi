@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'IA et la créativité : une symbiose pour l'innovation",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2024/06/30/how-ai-boosts-your-creative-potential/",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66814c56f7fb30cbc7a17eab/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA générative : un effondrement ou une révolution ?",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/30/rethinking-the-doomsday-clamor-that-generative-ai-will-fall-apart-due-to-catastrophic-model-collapse/",
+        "body": "L'article explore le débat houleux autour de l'éventuel effondrement des modèles d'IA générative et des grands modèles linguistiques. Il examine l'importance des données, en particulier des données organiques et synthétiques, dans le fonctionnement de l'IA. L'auteur suggère que l'utilisation de données synthétiques pourrait entraîner une dégradation de la qualité de l'IA, mais que des solutions existent pour l'éviter. L'article conclut en suggérant que l'effondrement n'est pas inévitable et que des mesures proactives peuvent être prises pour garantir un avenir prometteur pour l'IA générative.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x203,y0,safe&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'éducation à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/30/chatgpt-forces-universities-to-adapt-or-retreat/",
         "body": "Titre",
@@ -54,33 +68,5 @@
         "body": "L'Union européenne critique ouvertement Apple pour sa décision de ne pas lancer son IA, Apple Intelligence, en Europe. Margrethe Vestager, commissaire à la Concurrence, accuse l'entreprise de comportement anticoncurrentiel, suggérant qu'Apple utilise la sécurité de ses produits comme excuse pour entraver la concurrence. Ce conflit est lié au Digital Markets Act (DMA), une loi européenne visant à promouvoir la concurrence dans le secteur numérique. Apple risque une amende pouvant atteindre 38 milliards de dollars pour violation du DMA, notamment en ce qui concerne ses pratiques sur l'App Store. La firme joue un jeu dangereux en refusant de lancer Apple Intelligence en Europe, risquant de s'attirer les foudres des régulateurs et des consommateurs européens.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ue-768x512.jpg?resize=200,200&key=b6e13f63",
         "date": "Fri, 28 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, la propriété intellectuelle et les litiges",
-        "link": "https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit",
-        "body": "Le Center for Investigative Reporting (CIR) poursuit en justice Microsoft et OpenAI pour violation présumée du droit d'auteur, rejoignant ainsi d'autres médias tels que le New York Times et le New York Daily News. Le CIR allègue que les deux entreprises ont copié son contenu, nuisant à ses relations avec les lecteurs et les partenaires, et entraînant un manque à gagner. OpenAI a signé des accords de licence avec plusieurs grands médias, mais le CIR affirme que son contenu a été utilisé sans permission ni compensation. OpenAI a déclaré travailler en collaboration avec l'industrie des médias et s'efforce d'attribuer correctement les contenus utilisés dans ses produits, comme ChatGPT.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg",
-        "date": "Fri, 28 Jun 2024 17:34:11 GMT"
-    },
-    {
-        "title": "Les géants de la tech font face à des poursuites judiciaires",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques, dont Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques massifs plus accessible au grand public. Cette technologie utilise des programmes d'autocompletion pour apprendre le langage et faire des prédictions. Cependant, cela a conduit à des problèmes de droits d'auteur, avec des poursuites engagées par des organisations médiatiques et des maisons de disques. OpenAI a également retardé le lancement d'un nouveau mode vocal pour ChatGPT, améliorant sa capacité à refuser certains contenus. De plus, Apple a annoncé un partenariat avec OpenAI pour intégrer ChatGPT à iOS 18, et d'autres startups d'IA attirent l'attention, notamment avec des outils de génération de musique et de vidéos. Enfin, Google et Apple ont tous deux connu des problèmes avec leurs fonctionnalités d'IA, soulignant la nécessité d'améliorer la précision et de gérer les informations trompeuses.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Fri, 28 Jun 2024 17:34:11 GMT"
-    },
-    {
-        "title": "L'ère de l'IA dans le réseautage humain",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/06/28/ai-is-connecting-human-souls-in-the-networking-world/",
-        "body": "L'intelligence artificielle (IA) révolutionne le réseautage humain en favorisant des connexions plus profondes et plus significatives. Loin de remplacer l'élément humain, l'IA l'enrichit en aidant les professionnels à découvrir de nouvelles opportunités et à créer des liens personnels et professionnels durables. Des plateformes comme LinkedIn utilisent l'IA pour suggérer des connexions, des emplois et du contenu pertinents, permettant aux utilisateurs de construire un réseau aligné avec leurs aspirations de carrière. Les événements en réseau et les conférences utilisent également l'IA pour connecter les participants en fonction de leurs intérêts. Le travail à distance et les réunions virtuelles bénéficient de l'IA pour des recommandations personnalisées, garantissant des interactions significatives. L'IA aide également à construire et à entretenir des communautés professionnelles, à suggérer du contenu pertinent et à faciliter les connexions. Les applications de réseautage utilisent l'IA pour suggérer des connexions professionnelles fructueuses et des mentorats. L'analyse prédictive de l'IA permet d'anticiper les tendances de l'industrie et d'optimiser les opportunités de réseautage. L'IA favorise également la diversité et l'inclusion, créant des réseaux inclusifs. L'avenir du réseautage avec l'IA promet des recommandations plus intelligentes et une intégration transparente dans la réalité virtuelle et augmentée. L'équilibre entre technologie et humanité est crucial, tout comme les considérations éthiques sur la confidentialité et la sécurité des données. L'IA, lorsqu'elle est équilibrée, ouvre de nouvelles possibilités de connections professionnelles durables.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667d05a7ca85ff5fed29398a/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Jun 2024 17:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA",
-        "link": "https://www.forbes.com/sites/alexkonrad/2024/06/28/vc-firm-benchmark-raising-new-425-million-fund-for-ai/",
-        "body": "La société de capital-risque Benchmark lève 425 millions de dollars pour son onzième fonds, axé sur l'intelligence artificielle. Les cinq partenaires de Benchmark, Peter Fenton, Eric Vishria, Sarah Tavel, Chetan Puttagunta et Victor Lazarte, agiront en tant qu'associés égaux. La société maintient la même taille de fonds que par le passé pour encourager la discipline et la responsabilisation. Benchmark est connu pour ses investissements précoces dans des entreprises telles qu'Uber et Twitter, et pour son approche sur mesure, avec un petit groupe d'investisseurs écrivant des chèques peu fréquents mais importants. Leur modèle est coûteux, mais peut être extrêmement lucratif. Benchmark a déjà investi dans plusieurs entreprises d'IA, notamment Sierra, 11x, Quilter, Leya et HeyGen, et prévoit d'investir dans d'autres startups d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667de3d6fd4ed959d0fcd545/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
-        "date": "Fri, 28 Jun 2024 16:00:00 GMT"
     }
 ]
