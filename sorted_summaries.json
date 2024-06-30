@@ -82,26 +82,5 @@
         "body": "La société de capital-risque Benchmark lève 425 millions de dollars pour son onzième fonds, axé sur l'intelligence artificielle. Les cinq partenaires de Benchmark, Peter Fenton, Eric Vishria, Sarah Tavel, Chetan Puttagunta et Victor Lazarte, agiront en tant qu'associés égaux. La société maintient la même taille de fonds que par le passé pour encourager la discipline et la responsabilisation. Benchmark est connu pour ses investissements précoces dans des entreprises telles qu'Uber et Twitter, et pour son approche sur mesure, avec un petit groupe d'investisseurs écrivant des chèques peu fréquents mais importants. Leur modèle est coûteux, mais peut être extrêmement lucratif. Benchmark a déjà investi dans plusieurs entreprises d'IA, notamment Sierra, 11x, Quilter, Leya et HeyGen, et prévoit d'investir dans d'autres startups d'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667de3d6fd4ed959d0fcd545/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
         "date": "Fri, 28 Jun 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'importance des longs prompts dans l'ingénierie des prompts",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/28/mega-prompts-are-the-latest-powerful-trend-in-prompt-engineering/",
-        "body": "Résumé : Cet article explore l'utilisation de longs prompts dans l'ingénierie des prompts pour les applications d'IA générative. Il compare les prompts courts et longs, soulignant les avantages de ces derniers pour fournir plus de contexte, d'informations et de détails. L'article fournit des conseils pour créer des longs prompts efficaces, y compris la clarté, la spécificité, la complexité et le contexte. Il examine également un exemple de prompt système pour l'IA Claude 3 et souligne l'importance de la clarté et des instructions détaillées. Enfin, il aborde la nature ambiguë des langues naturelles et la façon dont les longs prompts peuvent aider à réduire les risques de mauvaise interprétation par l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/664672807d65ccf43dba6454/0x0.jpg?format=jpg&crop=4308,3230,x1483,y0,safe&width=440",
-        "date": "Fri, 28 Jun 2024 11:59:00 GMT"
-    },
-    {
-        "title": "La désinformation politique et les risques électoraux",
-        "link": "https://www.forbes.com/sites/roberthart/2024/06/28/openais-chatgpt-and-microsofts-copilot-reportedly-spread-misinformation-about-presidential-debate-amid-growing-fears-over-ai-election-dangers/",
-        "body": "Deux des chatbots AI les plus populaires, ChatGPT d'OpenAI et Copilot de Microsoft, ont propagé une affirmation fausse et réfutée concernant un débat présidentiel, selon NBC News. Les chatbots ont affirmé à tort qu'il y aurait un délai de diffusion de 1 à 2 minutes, citant un écrivain conservateur. Bien que CNN ait rapidement rejeté cette affirmation, elle a alimenté des spéculations sur une éventuelle manipulation de la diffusion. NBC a testé plusieurs chatbots AI, dont Copilot, ChatGPT, Meta AI, Gemini de Google et Grok d'Elon Musk, avec des résultats mitigés. Les entreprises technologiques redoublent d'efforts pour limiter les risques de désinformation et d'interférence lors des élections de 2024, avec des mesures telles que l'étiquetage du contenu généré par l'IA et la restriction de l'accès à certains outils. Les experts mettent en garde contre les dangers des deepfakes sophistiqués, des images et vidéos manipulées, de la mimique vocale et de la propagation de la désinformation en ligne.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667ea0caca58aeaae2c623c2/0x0.jpg?format=jpg&crop=3352,1887,x0,y169,safe&width=440",
-        "date": "Fri, 28 Jun 2024 11:40:00 GMT"
-    },
-    {
-        "title": "Model-as-a-Service (MaaS)",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/06/28/productized-ai-models-drive-en-masse-intelligence/",
-        "body": "L'article explore l'émergence de Model-as-a-Service (MaaS) dans le domaine de l'IA, une tendance qui simplifie l'accès et le déploiement de modèles d'IA pour les ingénieurs logiciels. MaaS fournit des modèles d'apprentissage automatique préconstruits, préconfigurés et préentraînés, démocratisant ainsi la technologie d'IA pour les développeurs. L'auteur souligne les avantages de MaaS, notamment l'efficacité, la rentabilité et la facilité de mise à l'échelle, ainsi que la robustesse des modèles établis, exempts de biais ou de risques d'hallucination. Les fournisseurs de MaaS offrent une documentation, des tutoriels et un support complets, permettant aux développeurs d'intégrer plus rapidement et plus compétemment les capacités d'IA dans leurs logiciels. L'article présente également des exemples d'organisations adoptant MaaS, telles que NTT Data et SAS, mettant en évidence leurs offres et leurs avantages. Enfin, l'article réfléchit à l'impact potentiel de MaaS sur l'innovation en matière d'IA et sur son évolution en tant qu'utilitaire intégré dans toutes les applications.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667e9368107c03f2b61bd6a0/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Jun 2024 10:00:00 GMT"
     }
 ]
