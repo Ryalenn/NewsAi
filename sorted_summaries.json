@@ -1,5 +1,19 @@
 [
     {
+        "title": "La fin de la recherche infinie",
+        "link": "https://www.forbes.com/sites/danielnewman/2024/07/01/google-pivots-from-infinite-scroll-as-ai-ushers-in-next-era-of-search/?ss=ai",
+        "body": "Résumé : \n\nLa fin du défilement infini sur Google Search marque le début d'une nouvelle ère pour l'IA, offrant des opportunités de monétisation et une expérience utilisateur plus digeste. L'avènement de l'IA générative remet en question les droits et la propriété des données, avec des modèles linguistiques larges (LLM) créant du contenu abstrait et des possibilités de monétisation pour Google et les créateurs de contenu. Cela annonce une bataille pour la monétisation entre les géants de la tech, y compris Google, Microsoft/OpenAI, et de nouveaux acteurs comme Anthropic, Cohere et Perplexity. L'accent est mis sur la recherche concise et consolidée, avec des résumés et des extraits pertinents. Les vrais gagnants de cette évolution sont les créateurs de LLM, qui rééduquent les consommateurs à utiliser l'IA d'une manière qui peut être monétisée. L'équilibre entre la priorité des sources dans les résumés et la monétisation des sources pose des défis, et l'opacité pourrait favoriser les revenus au détriment de la précision. Les accords de licence de contenu entre les médias et les entreprises technologiques, comme l'accord entre Time Magazine et OpenAI, pourraient être un modèle économique clé pour les créateurs de contenu. Les fournisseurs de recherche qui dépendent du pay-per-click et des publicités devront s'adapter aux changements de comportement des utilisateurs avec les résultats de recherche basés sur LLM. La clé du succès réside dans des résumés hautement précis avec des résultats de haute fidélité, tout en monétisant le service via la publicité et les données. Enfin, la fin du défilement infini a suscité des débats sur son impact sur le comportement des utilisateurs et le trafic des sites web, avec des experts en SEO craignant que la pagination ne minimise le trafic pour les sites moins visibles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6682bfa650a50d211564be5b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 01 Jul 2024 15:00:00 GMT"
+    },
+    {
+        "title": "Le futur de l'IA",
+        "link": "https://www.forbes.com/sites/barrycollins/2024/07/01/has-microsofts-ai-chief-just-made-windows-free/?ss=ai",
+        "body": "Le directeur de l'IA de Microsoft, Mustafa Suleyman, suggère que tout contenu trouvé sur le web ouvert devrait être considéré comme du \"freeware\", ce qui va à l'encontre des accords de licence de logiciels comme Windows et Office de Microsoft. Suleyman affirme que le contrat social du contenu web depuis les années 90 implique une utilisation équitable et libre, mais les conditions d'utilisation de Microsoft et la loi américaine sur le droit d'auteur contredisent cette idée. Les entreprises d'IA font face à des poursuites pour avoir récupéré des données sur le web ouvert pour entraîner leurs modèles. The New York Times poursuit OpenAI et Microsoft pour utilisation illégale de son contenu.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6682c7dac9a49d515f3e2c59/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 01 Jul 2024 15:00:00 GMT"
+    },
+    {
         "title": "L'impact de l'IA générative sur la santé mentale aux États-Unis",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/07/01/mental-health-rankings-by-us-state-jostled-amid-the-curious-future-of-nationwide-universal-therapy-due-to-generative-ai/?ss=ai",
         "body": "L'article explore l'impact potentiel de l'IA générative sur la santé mentale aux États-Unis, en particulier sur les classements de santé mentale au niveau des États. Il suggère que l'IA générative, en raison de sa disponibilité et de son accessibilité, pourrait perturber les classements actuels, qui sont basés sur des facteurs tels que la disponibilité des thérapeutes et les ressources externes. L'IA générative, en tant que nouvelle forme de thérapie, n'est pas encore prise en compte dans ces classements. L'article présente également deux études sur la santé mentale au niveau des États et leurs résultats. Il explore ensuite le rôle des thérapeutes et suggère que l'IA générative pourrait fournir une thérapie cohérente dans tous les États, en s'adaptant aux normes culturelles et locales. Enfin, il présente un dialogue généré par l'IA pour illustrer la thérapie dans différents États. L'article conclut en soulignant l'impact potentiel de l'IA générative sur la pratique de la thérapie et la nécessité de trouver un équilibre entre l'IA et les thérapeutes humains.",
@@ -117,12 +131,5 @@
         "body": "Le responsable de l'IA chez Microsoft, Mustafa Suleyman, a soulevé des questions éthiques lors d'une interview en affirmant que tout contenu déjà présent sur le web peut être librement copié pour entraîner les IA, le qualifiant de \"freeware\". Il distingue cependant les cas où un site web demande explicitement à ne pas être utilisé pour l'entraînement des IA, ce qui crée une \"zone grise\" sujette à interprétation. Ces déclarations soulèvent des interrogations sur la propriété intellectuelle, le plagiat et la monétisation des contenus générés par l'IA. Le débat autour de l'IA générative, qui s'appuie sur du contenu existant pour créer du nouveau, est relancé, certains y voyant un vol potentiel, notamment pour les artistes. Les craintes concernant l'IA et son impact sur la création originale sont ainsi ravivées.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/microsoft-edge-768x522.png?resize=204,204&key=90e5ea49",
         "date": "Sat, 29 Jun 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'importance de la compréhension de l'IA prédictive pour les parties prenantes",
-        "link": "https://www.forbes.com/sites/ericsiegel/2024/06/29/the-3-things-you-need-to-know-about-predictive-ai/",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6680499eb4ab5fc5fa5347f8/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 29 Jun 2024 18:04:00 GMT"
     }
 ]
