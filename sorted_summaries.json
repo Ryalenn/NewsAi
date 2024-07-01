@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'essor de l'IA : opportunités et défis pour les entreprises",
+        "link": "https://www.forbes.com/sites/nishatalagala/2024/06/30/the-stanford-ai-index-2024-5-takeaways-for-business/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6681b49c38233ebe9f4ea05e/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 19:00:00 GMT"
+    },
+    {
         "title": "L'IA en plein essor",
         "link": "https://www.forbes.com/sites/nishatalagala/2024/06/30/the-stanford-ai-index-2024-5-takeaways-for-business/",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6681b49c38233ebe9f4ea05e/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 30 Jun 2024 19:00:00 GMT"
+    },
+    {
+        "title": "L'IA et la créativité : une symbiose pour des résultats extraordinaires",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2024/06/30/how-ai-boosts-your-creative-potential/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66814c56f7fb30cbc7a17eab/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT"
+    },
+    {
+        "title": "La menace de l'effondrement des modèles d'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/30/rethinking-the-doomsday-clamor-that-generative-ai-will-fall-apart-due-to-catastrophic-model-collapse/?ss=ai",
+        "body": "Résumé : L'article explore le débat sur l'éventuel effondrement catastrophique de l'IA générative et des grands modèles linguistiques. Il examine les arguments selon lesquels la dépendance de ces systèmes aux données pourrait conduire à leur effondrement, en particulier en raison de la rareté des données organiques et de la qualité inférieure des données synthétiques. L'article présente également des contre-arguments, suggérant que l'IA générative peut surmonter ces défis grâce à une utilisation judicieuse des données synthétiques et organiques, et en tirant parti de ses capacités de génération innovantes et émotionnelles. La conclusion souligne l'importance de rester proactif pour éviter un éventuel effondrement, tout en reconnaissant les opportunités offertes par l'IA générative.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x203,y0,safe&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT"
     },
     {
         "title": "L'IA et la créativité : une symbiose pour l'innovation",
@@ -21,11 +42,25 @@
         "date": "Sun, 30 Jun 2024 12:00:00 GMT"
     },
     {
+        "title": "L'avenir de l'éducation : humains et IA en harmonie",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/30/chatgpt-forces-universities-to-adapt-or-retreat/?ss=ai",
+        "body": "L'étude de l'Université de Reading a révélé que ChatGPT peut non seulement réussir des examens universitaires, mais aussi surpasser les étudiants humains, ce qui met les institutions du monde entier dans une situation difficile. Les universités doivent-elles s'appuyer sur des examens traditionnels et risquer de devenir obsolètes, ou doivent-elles s'adapter ? L'étude met en évidence les capacités impressionnantes de l'IA. Les résultats soulèvent des inquiétudes quant à l'intégrité académique et remettent en question les méthodes d'évaluation traditionnelles. Certaines universités réagissent en revenant aux examens en personne surveillés, tandis que d'autres voient une opportunité de transformation. Les éducateurs plaident pour une refonte complète des pratiques d'évaluation, mettant l'accent sur l'apprentissage et la croissance des étudiants, ainsi que sur l'application créative des connaissances dans un monde où l'IA est omniprésente. De nouvelles formes d'évaluation, moins sensibles à la manipulation par l'IA et plus axées sur les compétences réelles, sont proposées. Malgré les défis, les éducateurs sont optimistes, croyant que l'IA peut améliorer la valeur des compétences et des perspectives humaines uniques. L'avenir de l'apprentissage réside dans la collaboration entre les humains et l'IA, repoussant les limites de la connaissance et de la créativité. Les universités qui s'adaptent à cette nouvelle réalité façonneront les leaders de demain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6680841973aeed7c7def5dee/0x0.jpg?format=jpg&crop=2532,1424,x0,y101,safe&width=440",
+        "date": "Sun, 30 Jun 2024 09:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'éducation à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/30/chatgpt-forces-universities-to-adapt-or-retreat/",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6680841973aeed7c7def5dee/0x0.jpg?format=jpg&crop=2532,1424,x0,y101,safe&width=440",
         "date": "Sun, 30 Jun 2024 09:00:00 GMT"
+    },
+    {
+        "title": "La promesse de l'IA",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/06/29/pure-storage-unveils-ai-enabled-enterprise-storage-platform/?ss=ai",
+        "body": "Pure Storage dévoile une série de nouvelles fonctionnalités axées sur les besoins en constante évolution de l'IA en entreprise. Parmi les innovations annoncées, Pure Fusion, une solution d'automatisation du stockage, se distingue particulièrement. Pure Fusion unifie les réseaux de stockage et optimise dynamiquement les pools de stockage pour les données structurées et non structurées, sur site ou dans le cloud. L'entreprise présente également le premier copilote d'IA générative pour le stockage, un outil basé sur l'IA qui utilise les insights de dizaines de milliers de clients Pure Storage pour révolutionner la gestion et la protection des données. Evergreen//One for AI est une solution de stockage-en-tant-que-service conçue pour les charges de travail d'IA, garantissant les performances nécessaires pour les tâches intensives en GPU. Pure Storage annonce également son intention d'étendre sa collaboration avec Nvidia. L'approche de Pure Storage en matière de stockage d'entreprise en tant que plateforme intégrée positionne l'entreprise comme un leader capable de répondre aux exigences de l'IA, du cloud et des centres de données hyperscale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/640136604b8703889d8619bd/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 03:00:00 GMT"
     },
     {
         "title": "Pure Storage dévoile ses innovations en matière d'IA",
