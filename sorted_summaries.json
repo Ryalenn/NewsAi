@@ -1,5 +1,19 @@
 [
     {
+        "title": "Démocratie et IA : collision ou collaboration ?",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/07/01/ai-politicians-the-future-of-democracy-or-a-threat-to-freedom/?ss=ai",
+        "body": "L'année 2024 est une année importante pour la démocratie, avec des élections dans plusieurs pays clés. L'IA joue un rôle de plus en plus important dans les élections, la démocratie et la gouvernance, ce qui soulève des questions sur son impact potentiel. L'article explore l'émergence de politiciens virtuels et de partis politiques basés sur l'IA, comme \"AI Steve\" au Royaume-Uni, SAM en Nouvelle-Zélande et Alisa en Russie. Il examine également des expériences comme The Synthetic Party au Danemark, qui utilise l'IA pour générer des politiques. L'IA peut-elle choisir les meilleurs candidats pour nous ? L'auteur cite Yuval Noah Harari, qui suggère que l'IA influence déjà nos choix via les algorithmes des médias sociaux. L'article aborde également les dangers des deepfakes et la nécessité de mesures d'atténuation, telles que la technologie de détection, la législation et l'éducation du public. Alors que l'IA devient plus sophistiquée, son influence sur la démocratie augmentera. Les politiciens l'utiliseront pour prendre des décisions éclairées et créer des messages personnalisés. L'article conclut en soulignant l'importance de traiter les préoccupations éthiques liées à la responsabilité et à la transparence, et en encourageant l'évolution de l'IA d'une manière qui renforce la démocratie et améliore nos choix politiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66801d0e0e35e471683850de/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 01 Jul 2024 05:00:00 GMT"
+    },
+    {
+        "title": "La France veut briser le monopole des géants de l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2063890_chatgpt-bientot-concurrence-par-dautres-ia-chez-microsoft-la-france-fait-tout-pour",
+        "body": "L'autorité de la concurrence française tire la sonnette d'alarme sur la domination de quelques entreprises dans le secteur de l'IA. Elle identifie des barrières à l'entrée, comme la pénurie de processeurs graphiques et la course à la puissance de calcul, qui découragent les jeunes pousses. Pour remédier à cette situation, l'autorité propose de considérer ces acteurs comme des \"contrôleurs d'accès\" et de faciliter l'accès à des alternatives, tout en développant l'accès à la puissance de calcul via des supercalculateurs publics.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/google-bard-parle-francais-ok-768x432.jpg?resize=169,169&key=f738e122",
+        "date": "Sun, 30 Jun 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'essor de l'IA : opportunités et défis pour les entreprises",
         "link": "https://www.forbes.com/sites/nishatalagala/2024/06/30/the-stanford-ai-index-2024-5-takeaways-for-business/?ss=ai",
         "body": "Titre",
@@ -89,19 +103,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6680499eb4ab5fc5fa5347f8/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 29 Jun 2024 18:04:00 GMT"
-    },
-    {
-        "title": "NotebookLM : révolutionner l'apprentissage avec l'IA",
-        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/29/google-notebooklm-5-reasons-students-will-love-it/",
-        "body": "Résumé : \n\nGoogle, via son incubateur Google Labs, présente NotebookLM, un outil d'IA destiné à transformer la façon dont les étudiants interagissent avec l'information. NotebookLM se distingue par sa fonctionnalité de 'source grounding', qui permet aux étudiants de définir et de télécharger des sources fiables, garantissant ainsi que les réponses de l'IA soient basées sur des informations vérifiées. L'outil offre également un système de citation avancé, promouvant l'intégrité académique et l'importance de la citation. Avec un support pour 38 langues, NotebookLM permet aux étudiants du monde entier d'interagir avec des sources dans leur langue maternelle. L'une de ses fonctionnalités les plus intéressantes est sa capacité à générer automatiquement des aides à l'étude, comprenant des questions à choix court, des questions de rédaction et un glossaire. NotebookLM peut également suggérer des idées liées à un sujet particulier, aidant ainsi les étudiants dans leurs projets de recherche. Conçu pour aider les utilisateurs à comprendre les documents complexes, il offre diverses modalités d'interaction, y compris des interfaces de chat et des fonctionnalités de prise de notes. NotebookLM a le potentiel de révolutionner l'apprentissage, en offrant une expérience éducative plus efficace et engageante, tout en répondant aux préoccupations communes concernant l'exactitude et la fiabilité de l'IA dans l'éducation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667ede4f23d624b23f50cde5/0x0.jpg?format=jpg&crop=1261,710,x0,y139,safe&width=440",
-        "date": "Sat, 29 Jun 2024 09:00:00 GMT"
-    },
-    {
-        "title": "AI Grounding Enhanced with Vertex AI",
-        "link": "https://www.forbes.com/sites/janakirammsv/2024/06/29/google-cloud-enhances-vertex-ai-grounding-capabilities-for-reliable-ai-responses/",
-        "body": "Google Cloud améliore les capacités de « grounding » de Vertex AI, augmentant ainsi la précision et la fiabilité des réponses de l'IA. La fonctionnalité de récupération dynamique pour le « grounding » avec Google Search est désormais disponible, permettant au modèle linguistique Gemini de Google de décider intelligemment de s'appuyer sur Google Search ou sur sa propre base de connaissances. Une approche dynamique qui optimise la précision des réponses et l'utilisation des ressources. De plus, un mode « haute fidélité » pour le « grounding » est en phase expérimentale, ciblant les industries exigeantes comme la santé et la finance. Google proposera également bientôt des modèles de « grounding » avec des datasets de tiers, offrant ainsi aux entreprises la possibilité d'intégrer des informations spécifiques et fiables dans leurs modèles IA. Les API pour Retrieval Augmented Generation (RAG) sont désormais disponibles, aidant les entreprises à créer des workflows RAG personnalisés et à améliorer leurs capacités de recherche sémantique. Ces améliorations s'inscrivent dans la stratégie de Google Cloud visant à rendre l'IA générative plus fiable pour les entreprises, en connectant les modèles IA à des sources d'information diverses et fiables.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667f99eeeea9cc7e659de347/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 29 Jun 2024 05:00:00 GMT"
     }
 ]
