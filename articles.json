@@ -68,5 +68,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6681b49c38233ebe9f4ea05e/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 30 Jun 2024 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/nishatalagala/2024/06/30/the-stanford-ai-index-2024-5-takeaways-for-business/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6681b49c38233ebe9f4ea05e/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2024/06/30/how-ai-boosts-your-creative-potential/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66814c56f7fb30cbc7a17eab/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/06/30/rethinking-the-doomsday-clamor-that-generative-ai-will-fall-apart-due-to-catastrophic-model-collapse/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/657c05994692840d3efcf0b9/0x0.jpg?format=jpg&crop=3259,2445,x203,y0,safe&width=440",
+        "date": "Sun, 30 Jun 2024 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/06/30/chatgpt-forces-universities-to-adapt-or-retreat/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6680841973aeed7c7def5dee/0x0.jpg?format=jpg&crop=2532,1424,x0,y101,safe&width=440",
+        "date": "Sun, 30 Jun 2024 09:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/06/29/pure-storage-unveils-ai-enabled-enterprise-storage-platform/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/640136604b8703889d8619bd/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 30 Jun 2024 03:00:00 GMT",
+        "check": "no"
     }
 ]
