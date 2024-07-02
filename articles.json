@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT bientôt concurrencé par d’autres IA chez Microsoft ? La France fait tout pour",
+        "title": "ChatGPT bient\u00f4t concurrenc\u00e9 par d\u2019autres IA chez Microsoft ? La France fait tout pour",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2063890_chatgpt-bientot-concurrence-par-dautres-ia-chez-microsoft-la-france-fait-tout-pour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/google-bard-parle-francais-ok-768x432.jpg?resize=169,169&key=f738e122",
         "date": "Sun, 30 Jun 2024 23:00:00 GMT",
@@ -110,5 +110,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66837431a571f89fe2ca263f/0x0.jpg?format=jpg&crop=2971,2227,x0,y0,safe&width=440",
         "date": "Tue, 02 Jul 2024 11:59:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "iOS 18 : le rapprochement avec Google Gemini se pr\u00e9cise, mais soyez patients",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2064856_ios-18-le-rapprochement-avec-google-gemini-se-precise-mais-soyez-patients",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-5-14-screenshot-768x432.jpg?resize=169,169&key=f1e84eba",
+        "date": "Mon, 01 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/amazon/2065546_amazon-contourne-les-regles-pour-rester-dans-la-course-a-lia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2021/04/amazon-768x432.jpg?resize=300,300&key=0c8b0daa",
+        "date": "Mon, 01 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/apple/2065396_apple-mise-sur-lintelligence-artificielle-pour-vendre-plein-diphone-16",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/encore-un-iphone-apple-768x512.jpg?resize=200,200&key=3282604a",
+        "date": "Mon, 01 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:5213x3476/2400x1600/filters:focal(2689x1509:2690x1510):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513827/1445795057.jpg",
+        "date": "Mon, 01 Jul 2024 20:01:25 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/07/02/the-prompt-the-crypto-miners-winning-the-ai-gold-rush/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66844227f50fcdb43fb31b0a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 02 Jul 2024 18:15:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/07/02/uipath-ceo-defines-future-of-business-robotics-in-a-world-of-agents/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/668430c92bf3e0ebb6d62ff7/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 02 Jul 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/prakharkhanna/2024/07/02/honor-200-pro-redefines-portrait-shots-on-mid-range-phones-with-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/668425859a5629ea21b9c75e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 02 Jul 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
