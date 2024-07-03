@@ -1,10 +1,66 @@
 [
     {
+        "title": "Clarification des règles de Google sur la publicité politique et l'IA",
+        "link": "https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai",
+        "body": "Google simplifie la divulgation du contenu généré par l'IA dans les publicités politiques. Désormais, lorsque les annonceurs cochent une case indiquant un contenu « modifié ou synthétique » dans leurs paramètres de campagne, une divulgation automatique sera ajoutée. Cette mise à jour intervient à la suite d'une exigence de l'année dernière, obligeant les annonceurs politiques à inclure des divulgations claires sur le contenu généré par l'IA. La divulgation automatique apparaîtra sur les flux, YouTube Shorts et les publicités in-stream sur divers appareils, tandis que les autres formats de publicités exigent toujours des divulgations manuelles. Ces changements interviennent alors que les élections américaines approchent et que les préoccupations concernant l'utilisation de l'IA dans la publicité politique augmentent, avec des propositions de politiques similaires avancées par le Senate Rules Committee et la Federal Communications Commission.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
+        "date": "Wed, 03 Jul 2024 18:00:16 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : l'importance de la théorie des jeux et de l'apprentissage adversarial",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/07/03/what-the-roadrunner-teaches-us-about-adversarial-intelligence/?ss=ai",
+        "body": "La théorie des jeux et l'apprentissage adversarial jouent un rôle crucial dans l'évolution des systèmes LLM et des modèles d'IA. L'article souligne l'importance de comprendre comment les systèmes d'IA prennent des décisions et raffinent leurs résultats à travers un processus d'adversarialité. Les réseaux adversariaux génériques (GAN) sont un exemple de ce processus, où un moteur génératif crée du contenu et un moteur adversarial le discrimine, améliorant ainsi la sortie finale. Cette approche d'apprentissage peut également être appliquée à la cybersécurité, où les systèmes d'IA peuvent anticiper les actions d'acteurs malveillants et améliorer les défenses. L'article met également en lumière le concept de \"recherche adversarial\", qui implique la prise de décisions optimales en anticipant les objectifs conflictuels des opposants. Cette recherche est essentielle pour définir l'avenir de l'IA et garantir que ses résultats sont fiables et explicables.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66856890b14a6985c9761354/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Jul 2024 15:00:00 GMT"
+    },
+    {
+        "title": "Perplexity Pro Search : une mise à niveau de l'IA",
+        "link": "https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant",
+        "body": "Perplexity, un moteur de recherche basé sur l'IA, a lancé une mise à niveau importante de son outil Pro Search. La société affirme que la nouvelle version est capable de comprendre lorsque une question nécessite une planification, de travailler à travers des objectifs étape par étape et de fournir des réponses détaillées et efficaces. L'IA peut effectuer des recherches approfondies, comme trouver le meilleur moment et lieu pour observer les aurores boréales en Islande ou en Finlande. De plus, il peut générer des rapports détaillés basés sur des invites avec sa fonction Pages. Perplexity prétend également avoir amélioré ses capacités en mathématiques et en programmation, améliorant ainsi son analyse des données, le débogage du code et la génération de contenu. Cependant, Perplexity a fait face à des accusations de plagiat de la part de Wired et Forbes, qui critiquent également ses animations trompeuses et ses pratiques de récupération de données. Malgré cela, l'outil Pro Search de Perplexity offre une recherche d'IA puissante, avec des options gratuites et premium disponibles.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263502/STK_414_AI_B.jpg",
+        "date": "Wed, 03 Jul 2024 14:02:54 GMT"
+    },
+    {
+        "title": "Les géants de la tech et l'avenir de l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques, comme Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur l'IA plus accessible au grand public. L'article explore le fonctionnement de ces modèles linguistiques de grande taille et les défis associés, tels que la présentation d'informations fausses comme vraies. Il aborde également l'évolution du paysage de l'IA, notamment les changements de nom, les règles de web scraping et les efforts des entreprises pour protéger leurs données. L'article mentionne les améliorations apportées aux outils d'IA par Perplexity, Figma, Meta et d'autres. Il souligne les controverses liées à l'IA, notamment les problèmes de droits d'auteur, les résultats trompeurs et les étiquettes incorrectes. Enfin, il aborde les acquisitions, les partenariats et les discussions entre les entreprises technologiques pour intégrer l'IA à leurs produits et plateformes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 03 Jul 2024 14:02:54 GMT"
+    },
+    {
+        "title": "Perplexity dans la Tourmente",
+        "link": "https://www.theverge.com/24187792/perplexity-ai-news-updates",
+        "body": "Perplexity, une startup spécialisée dans l'IA et son produit de recherche, est au cœur d'une controverse. L'entreprise, ayant déjà reçu des financements importants et en discussion pour lever des centaines de millions de dollars supplémentaires, est accusée de plagiat, de non-respect des fichiers robots.txt et de vol de contenus. Malgré sa promesse de fournir des réponses étayées par des sources fiables, Perplexity est devenue la cible des frustrations de l'industrie médiatique, alors qu'elle tente de concurrencer Google dans le domaine de la recherche sur Internet. L'article explore les développements de ce scandale, y compris les mises à jour de la part de grandes entreprises technologiques concernant la récupération de données web, les problèmes de plagiat de Perplexity et l'avis de ses utilisateurs influents.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
+        "date": "Wed, 03 Jul 2024 14:02:54 GMT"
+    },
+    {
+        "title": "Améliorer son jeu de poker avec ChatGPT",
+        "link": "https://www.forbes.com/sites/barrycollins/2024/07/03/can-chatgpt-help-you-win-at-poker/?ss=ai",
+        "body": "ChatGPT peut-il aider les joueurs de poker en ligne à améliorer leurs compétences et à prendre de meilleures décisions ? L'article explore cette idée en examinant les capacités de ChatGPT à analyser le jeu de poker et à fournir des conseils stratégiques. Bien que ChatGPT ne soit pas spécifiquement formé pour jouer au poker, une étude de 2023 a révélé qu'il possédait une compréhension avancée du jeu, incluant la valorisation des mains de départ et la connaissance des positions de jeu. Cependant, la stratégie conservatrice de ChatGPT peut être exploitée par des joueurs humains. L'article souligne également l'utilité de ChatGPT dans l'analyse des performances passées, en téléchargeant l'historique des mains jouées et en demandant à l'IA d'évaluer les décisions prises. Des fonctionnalités supplémentaires, telles que le « Poker Hand Analyzer » et la capacité à exécuter des simulations de Monte Carlo, offrent une analyse plus détaillée des mains et des probabilités de victoire. Bien que l'IA puisse aider à corriger les erreurs de base et à améliorer la prise de décision, elle n'est pas infaillible et peut parfois faire des erreurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66854e404bcff9212d0f824b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Jul 2024 14:00:00 GMT"
+    },
+    {
+        "title": "SoftBank's AI Ambitions",
+        "link": "https://www.forbes.com/sites/roberthart/2024/07/03/softbank-shares-hit-record-high-amid-push-into-ai-and-computer-chips/?ss=ai",
+        "body": "SoftBank, sous la direction de Masayoshi Son, se tourne vers l'IA et les puces informatiques. Les actions ont atteint un sommet historique, reflétant la confiance renouvelée des investisseurs dans la société. Masayoshi Son a annoncé que SoftBank se concentrerait sur l'IA et les puces, avec l'intention de faire de l'entreprise un acteur clé dans ces secteurs. La valeur de l'action a augmenté de 1,5 % et la société est désormais considérée comme une valeur liée aux semi-conducteurs. La richesse de Son a augmenté d'environ 600 millions de dollars en une journée, et il prévoit de faire de SoftBank un leader dans l'IA, avec une stratégie centrée sur la société de semi-conducteurs Arm. SoftBank s'intéresse également à Graphcore, mais la vente de technologies d'IA est de plus en plus soumise à des examens de sécurité nationale. Son a déclaré que sa mission dans la vie était de réaliser une superintelligence artificielle, positionnant l'IA au centre des futures opérations de SoftBank.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66853d8ae7a0386f3520963c/0x0.jpg?format=jpg&crop=3489,1962,x0,y76,safe&width=440",
+        "date": "Wed, 03 Jul 2024 12:00:00 GMT"
+    },
+    {
         "title": "L'ANPD interdit à Meta d'utiliser les données personnelles brésiliennes pour l'IA",
         "link": "https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data",
         "body": "L'autorité brésilienne de protection des données (ANPD) a interdit à Meta d'utiliser les données personnelles des utilisateurs brésiliens pour entraîner ses modèles d'IA. Cette décision fait suite à une mise à jour de la politique de confidentialité de Meta en mai, qui lui permettait d'utiliser les données publiques de Facebook, Messenger et Instagram, y compris les publications, les images et les légendes, à des fins d'entraînement de l'IA. L'ANPD a cité les risques de dommages graves et irréparables pour les droits fondamentaux des utilisateurs brésiliens, qui représentent un marché important pour Meta avec 102 millions de comptes Facebook. L'ANPD a donné à Meta cinq jours pour se conformer, sous peine d'amendes quotidiennes. Meta a déclaré que sa politique mise à jour respectait les lois brésiliennes sur la confidentialité, mais a été critiqué pour avoir mis en place des obstacles à l'option de refus des utilisateurs. Cette opposition au Brésil fait écho à des réactions similaires de la part des régulateurs de l'UE, conduisant Meta à suspendre ses plans d'entraînement de l'IA sur les données européennes.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
         "date": "Wed, 03 Jul 2024 10:18:06 GMT"
+    },
+    {
+        "title": "Moshi, l'assistant vocal français qui rivalise avec les géants américains",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2067560_plus-rapide-que-chatgpt-plus-naturelle-que-siri-et-cest-francais-voici-moshi-par-kyutai",
+        "body": "Moshi, une nouvelle IA développée par le laboratoire Kyutai co-fondé par Xavier Niel, promet de révolutionner l'industrie des assistants vocaux. Avec un temps de latence de 160 millisecondes, Moshi offre des conversations fluides et naturelles, traitant directement le son et pouvant reconnaître et imiter 70 émotions. L'équipe a également réduit la latence à 200 millisecondes, rendant les échanges incroyablement naturels. Moshi fonctionne localement sur des appareils comme le MacBook Pro, grâce à l'optimisation du code et la réduction de la taille des modèles. L'approche open source de Kyutai vise à démocratiser l'accès à l'IA de pointe, bien que Moshi ne parle actuellement qu'anglais et soulève des questions éthiques en matière de vie privée. Le lancement de Moshi est un signal fort pour l'industrie de l'IA en Europe, montrant que le continent peut innover de manière significative.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/open-science-ai-lab-kyutai-14-59-screenshot-768x432.jpg?resize=169,169&key=c183a522",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Amazfit Zepp OS 4 : l'assistant vocal amélioré avec ChatGPT",
@@ -159,19 +215,5 @@
         "body": "Résumé : \n\nDans le domaine de l'IA, les géants de la tech comme Microsoft et Amazon adoptent une nouvelle stratégie pour acquérir des startups spécialisées en IA sans attirer l'attention des régulateurs antitrust. Plutôt que d'effectuer des acquisitions traditionnelles, ils embauchent les employés clés et acquièrent les licences technologiques, laissant ainsi les startups sans personnel et ressources. Cette approche, surnommée \"reverse acquihire\", leur permet d'absorber les talents et les technologies tout en évitant les obstacles réglementaires. Reid Hoffman, cofondateur d'Inflection (un concurrent d'OpenAI), avait prédit cette tendance, et sa société de capital-risque, Greylock, a été l'un des premiers investisseurs d'Adept, une autre startup d'IA récemment absorbée par Amazon. La consolidation de l'industrie de l'IA par les grandes entreprises technologiques soulève des questions sur la concurrence et la réglementation, alors qu'elles trouvent des moyens créatifs de s'approprier les avancées en IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:5213x3476/2400x1600/filters:focal(2689x1509:2690x1510):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513827/1445795057.jpg",
         "date": "Mon, 01 Jul 2024 20:01:25 GMT"
-    },
-    {
-        "title": "Mise à jour de Meta sur le label \"AI info\"",
-        "link": "https://www.theverge.com/2024/7/1/24190026/meta-instagram-facebook-made-with-ai-info-label-metadata",
-        "body": "Meta a annoncé une mise à jour de son étiquette \"Made with AI\" vers \"AI info\" suite à des plaintes concernant l'application incorrecte de l'étiquette sur des photos. La nouvelle étiquette vise à représenter plus précisément que le contenu peut avoir été simplement modifié plutôt que entièrement généré par l'IA. Le problème semble être lié aux métadonnées que des outils comme Adobe Photoshop appliquent aux images et à la façon dont les plateformes les interprètent. La mise à jour de l'étiquette apparaîtra d'abord sur les applications mobiles, puis sur la version Web. Une fois l'étiquette cliquée, le même message détaillé qu'auparavant s'affichera, expliquant pourquoi elle a été appliquée et couvrant à la fois les images entièrement générées par l'IA et celles éditées avec des outils d'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1723x1414/2400x1600/filters:focal(862x707:863x708):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513823/01_IG_AI_Generated_Content_Lable_Carousel_01_2_crop.jpg",
-        "date": "Mon, 01 Jul 2024 17:14:15 GMT"
-    },
-    {
-        "title": "Les géants de la tech et l'avenir de l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques massifs plus accessible au grand public. Meta met à jour son étiquette « Made with AI » en « AI info » suite à des plaintes concernant son application incorrecte. Des organisations médiatiques et musicales poursuivent en justice des entreprises d'IA pour violation de droits d'auteur. OpenAI annonce des mises à jour pour ChatGPT, notamment une application de bureau et un mode vocal amélioré. Apple annonce un partenariat avec OpenAI pour intégrer ChatGPT à iOS 18, et discute également avec d'autres startups d'IA. OpenAI acquiert Rockset, une startup d'analyse de données, et d'autres entreprises d'IA explorent de nouvelles applications, telles que la génération de vidéos et de musique. Google et Apple présentent de nouvelles fonctionnalités d'IA pour leurs produits, mais sont confrontées à des résultats imprévus et à des problèmes de désinformation.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Mon, 01 Jul 2024 17:14:15 GMT"
     }
 ]
