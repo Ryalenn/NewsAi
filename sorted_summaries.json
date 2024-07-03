@@ -1,5 +1,33 @@
 [
     {
+        "title": "Faille de sécurité dans l'application ChatGPT sur Mac",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2065768_lapplication-chatgpt-pour-mac-presente-une-faille-de-securite-majeure",
+        "body": "L'application ChatGPT sur macOS présente une faille de sécurité critique, exposant potentiellement les données des utilisateurs. Les requêtes des utilisateurs sont enregistrées dans un dossier non sécurisé, accessible sans leur consentement. Cette vulnérabilité contourne les mesures de protection d'Apple, en place depuis macOS Mojave, qui exigent que les applications demandent l'autorisation avant d'accéder aux données personnelles. La correction de cette faille est attendue, et les utilisateurs sont invités à ne pas télécharger l'application avant sa mise à jour.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/chatgpt-application-mac-2-768x432.jpg?resize=169,169&key=0716b0dd",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
+        "title": "macOS Sequoia : les fonctionnalités d'IA inaccessibles aux Mac Intel",
+        "link": "https://www.frandroid.com/os/macos/2065850_macos-sequoia-voici-les-fonctions-inaccessibles-aux-mac-intel",
+        "body": "La dernière version du système d'exploitation macOS Sequoia d'Apple réserve certaines fonctionnalités aux appareils équipés de processeurs ARM Apple Silicon, excluant ainsi les Mac Intel. Parmi les fonctionnalités exclusives aux puces \"M\" se trouvent Apple Intelligence, une plateforme d'IA intégrée à macOS, iOS et iPadOS, offrant des outils d'IA générative et des expériences avancées pour améliorer la productivité, ainsi que la transcription audio instantanée, qui permet de créer des transcriptions écrites d'enregistrements audio dans l'application \"Notes\". Bien que compatible avec les Mac ARM, Apple Intelligence ne sera disponible que sur les appareils Apple Silicon commercialisés après novembre 2020. La fonctionnalité de transcription audio instantanée, quant à elle, sera également réservée aux Mac dotés de processeurs ARM. Ces limitations impactent l'accès des utilisateurs de Mac Intel aux fonctionnalités d'IA de macOS Sequoia, mais toutes les autres nouveautés annoncées seront disponibles sur les modèles disposant d'une puce de sécurité T2.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/apple-macbook-pro-15-768x512.jpg?resize=200,200&key=dab29afc",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
+        "title": "L'empreinte carbone de l'IA",
+        "link": "https://www.frandroid.com/marques/google/2066036_google-fait-exploser-son-empreinte-carbone-a-cause-de-lia",
+        "body": "Le rapport environnemental de Google révèle une augmentation de 13 % de ses émissions de gaz à effet de serre par rapport à l'année précédente, et de 49 % depuis 2019. Cette hausse est principalement due à la consommation énergétique croissante de ses centres de données et à l'impact de sa chaîne d'approvisionnement. La transition vers une informatique durable dépendra de l'adoption d'énergies renouvelables, mais la construction de puces, l'artificialisation des sols et la consommation d'eau restent des préoccupations. La course à l'IA à Silicon Valley impacte le bilan carbone de Google et Microsoft, remettant en question leurs objectifs de neutralité carbone d'ici 2030. L'IA peut avoir des effets positifs sur l'environnement, mais la course à la puissance de calcul pourrait avoir des conséquences imprévues.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/01/google-neon-768x481.jpg?resize=300,300&key=11f938a6",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Google améliore la recherche d'images sur les Pixel 9",
+        "link": "https://www.frandroid.com/marques/google/2065990_pixel-9-google-sinspirerait-dune-fonction-polemique-de-microsoft",
+        "body": "Google développe une nouvelle fonctionnalité d'IA pour ses smartphones Pixel 9, permettant d'analyser les captures d'écran et d'aider les utilisateurs à retrouver des informations spécifiques. Cette fonctionnalité, nommée \"Capture d'écran\", sera intégrée à une nouvelle application appelée \"Pixel Screenshot\". Elle fonctionnera uniquement sur les captures d'écran manuelles, contrairement à l'outil Recall de Microsoft, qui enregistre automatiquement l'activité de l'écran. Les données seront traitées localement pour protéger la vie privée des utilisateurs. Les Pixel 9 proposeront également d'autres outils d'IA, tels qu'un générateur d'images et un bouton pour ajouter l'utilisateur sur des photos.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/google-pixel-9-pro-rendus-a-768x432.jpeg?resize=169,169&key=8daede4e",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "Figma's AI Tool Generates Apple Lookalikes",
         "link": "https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy",
         "body": "Figma, une plateforme de design, a récemment lancé un nouvel outil basé sur l'IA générative, appelé « Make Designs ». Cet outil a été rapidement retiré après que des utilisateurs ont remarqué qu'il créait des designs ressemblant fortement à l'application météo d'Apple. L'article explore les réactions du PDG et du CTO de Figma, rejetant la faute sur un manque de variabilité dans les modèles d'IA tiers utilisés. Figma souligne qu'il n'a pas formé lui-même les modèles d'IA et attend l'approbation des utilisateurs avant d'utiliser tout contenu pour l'entraînement de l'IA. L'incident soulève des questions sur l'entraînement des modèles d'IA par des entreprises tierces, telles qu'OpenAI et Amazon, et sur leur exposition potentielle aux designs d'Apple. Figma prévoit de réactiver l'outil après avoir résolu les problèmes et s'engage à former ses propres modèles tout en respectant ses nouvelles politiques de formation en IA.",
