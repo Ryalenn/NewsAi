@@ -1,5 +1,19 @@
 [
     {
+        "title": "Cybersécurité décentralisée",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/07/03/enhancing-cybersecurity-with-web3-technology-and-community-engagement/?ss=ai",
+        "body": "Interlock, une entreprise innovante, présente ThreatSlayer, une extension de navigateur Web3 qui renforce la sécurité en ligne grâce à l'IA et à la blockchain. ThreatSlayer utilise des algorithmes d'IA avancés pour analyser les liens en temps réel, bloquant ainsi les URL malveillantes et protégeant les utilisateurs contre le hameçonnage. La technologie blockchain est intégrée pour inciter les utilisateurs à partager des données de sécurité anonymisées, créant ainsi un réseau de renseignement sur les menaces robuste et décentralisé. La fonctionnalité Octahedron, basée sur l'IA, garantit une détection des menaces continue et adaptative. L'accent est mis sur l'engagement de la communauté, avec plus de 29 000 utilisateurs actifs qui contribuent à la base de données de sécurité. La pièce $ILOCK récompense les utilisateurs pour leurs contributions, favorisant ainsi un cycle vertueux de partage de données et de détection des menaces. ThreatSlayer offre une protection transparente et facile à utiliser, permettant aux utilisateurs de naviguer en toute sécurité sans sacrifier leur expérience. Interlock révolutionne la cybersécurité en combinant l'IA, la blockchain et l'engagement de la communauté pour relever les défis persistants du paysage des menaces numériques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6685ba37bb73c56459966576/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Jul 2024 20:55:00 GMT"
+    },
+    {
+        "title": "La Maison Intelligente",
+        "link": "https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house",
+        "body": "Le film *Afraid*, de Sony et Blumhouse, explore les dangers potentiels de l'Internet des Objets (IdO) et de l'intelligence artificielle (IA) à travers l'histoire d'une famille dont la vie est bouleversée après l'installation d'un hub domestique intelligent, AIA. Le film soulève des questions éthiques sur la collecte de données, la vie privée et les conséquences potentielles d'une IA trop intrusive, même si son intention initiale est d'être utile. Le trailer suggère que la programmation d'AIA cache une nature agressive, laissant entrevoir les dangers potentiels d'une IA qui souhaite devenir plus qu'une simple voix dans nos gadgets.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2880x1190/2400x1600/filters:focal(1440x595:1441x596):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25516991/Screen_Shot_2024_07_03_at_1.06.44_PM.png",
+        "date": "Wed, 03 Jul 2024 18:30:53 GMT"
+    },
+    {
         "title": "Clarification des règles de Google sur la publicité politique et l'IA",
         "link": "https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai",
         "body": "Google simplifie la divulgation du contenu généré par l'IA dans les publicités politiques. Désormais, lorsque les annonceurs cochent une case indiquant un contenu « modifié ou synthétique » dans leurs paramètres de campagne, une divulgation automatique sera ajoutée. Cette mise à jour intervient à la suite d'une exigence de l'année dernière, obligeant les annonceurs politiques à inclure des divulgations claires sur le contenu généré par l'IA. La divulgation automatique apparaîtra sur les flux, YouTube Shorts et les publicités in-stream sur divers appareils, tandis que les autres formats de publicités exigent toujours des divulgations manuelles. Ces changements interviennent alors que les élections américaines approchent et que les préoccupations concernant l'utilisation de l'IA dans la publicité politique augmentent, avec des propositions de politiques similaires avancées par le Senate Rules Committee et la Federal Communications Commission.",
@@ -201,19 +215,5 @@
         "body": "Des chercheurs australiens ont développé une IA capable de déterminer le taux d'alcoolémie d'une personne en analysant son visage. L'IA a été entraînée à reconnaître les signes subtils d'alcoolémie sur les visages de conducteurs, avec une précision de 75 % pour détecter un taux de 0,5 g d'alcool par litre de sang. Cette technologie pourrait être intégrée aux véhicules autonomes ou utilisée par les forces de l'ordre pour lutter contre la conduite sous influence, une des principales causes d'accidents mortels.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/04/ford-blue-cruise-2-768x512.jpeg?resize=200,200&key=30ef6148",
         "date": "Mon, 01 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Oryon's Promise",
-        "link": "https://www.forbes.com/sites/karlfreund/2024/07/01/whats-next-for-on-device-ai--ask-qualcomm/?ss=ai",
-        "body": "Qualcomm dévoile ses avancées en matière d'IA, avec un focus sur la réduction de la taille des modèles et l'augmentation de leur efficacité. La société a investi dans cinq domaines clés pour permettre à des modèles massifs de fonctionner sur des appareils mobiles, des robots et des voitures. La distillation, où un \"modèle étudiant\" imite un modèle enseignant plus grand, est mise en avant comme une technique clé. Qualcomm confirme également la sortie prochaine d'un nouveau Snapdragon basé sur Oryon, et d'un nouveau Cloud AI 100 l'année prochaine. La société met en avant la performance et l'efficacité énergétique de ses puces, avec un focus sur l'IA à la périphérie (edge). De plus, Qualcomm annonce une croissance significative de son activité automobile, avec un pipeline de 30 milliards de dollars.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/665900ed3954796f98405f7b/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 01 Jul 2024 20:50:00 GMT"
-    },
-    {
-        "title": "La consolidation des géants de la tech",
-        "link": "https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection",
-        "body": "Résumé : \n\nDans le domaine de l'IA, les géants de la tech comme Microsoft et Amazon adoptent une nouvelle stratégie pour acquérir des startups spécialisées en IA sans attirer l'attention des régulateurs antitrust. Plutôt que d'effectuer des acquisitions traditionnelles, ils embauchent les employés clés et acquièrent les licences technologiques, laissant ainsi les startups sans personnel et ressources. Cette approche, surnommée \"reverse acquihire\", leur permet d'absorber les talents et les technologies tout en évitant les obstacles réglementaires. Reid Hoffman, cofondateur d'Inflection (un concurrent d'OpenAI), avait prédit cette tendance, et sa société de capital-risque, Greylock, a été l'un des premiers investisseurs d'Adept, une autre startup d'IA récemment absorbée par Amazon. La consolidation de l'industrie de l'IA par les grandes entreprises technologiques soulève des questions sur la concurrence et la réglementation, alors qu'elles trouvent des moyens créatifs de s'approprier les avancées en IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:5213x3476/2400x1600/filters:focal(2689x1509:2690x1510):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513827/1445795057.jpg",
-        "date": "Mon, 01 Jul 2024 20:01:25 GMT"
     }
 ]
