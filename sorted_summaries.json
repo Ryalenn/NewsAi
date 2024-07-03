@@ -1,5 +1,12 @@
 [
     {
+        "title": "Amazfit Zepp OS 4 : l'assistant vocal amélioré avec ChatGPT",
+        "link": "https://www.frandroid.com/marques/amazfit/2066402_comment-ce-constructeur-de-montres-de-sport-a-devance-google-samsung-et-apple",
+        "body": "Amazfit a annoncé une mise à jour majeure de son système d'exploitation pour montres connectées, Zepp OS 4, qui intègre désormais l'IA de ChatGPT. La nouvelle version de l'assistant vocal Zepp Flow, basée sur cette technologie, offre une interaction vocale plus naturelle et des réponses plus pertinentes aux requêtes des utilisateurs, qu'il s'agisse d'informations liées à la montre, à la santé, à l'entraînement ou même de résultats sportifs. La mise à jour étend également la connectivité Bluetooth à d'autres appareils, tels que les caméras GoPro et les enceintes Sonos. La mise à jour Zepp OS 4 est déjà disponible pour certains modèles de montres Amazfit.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/02/amazfit-cheetah-4-768x512.jpg?resize=200,200&key=3302f7cb",
+        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "Faille de sécurité dans l'application ChatGPT sur Mac",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2065768_lapplication-chatgpt-pour-mac-presente-une-faille-de-securite-majeure",
         "body": "L'application ChatGPT sur macOS présente une faille de sécurité critique, exposant potentiellement les données des utilisateurs. Les requêtes des utilisateurs sont enregistrées dans un dossier non sécurisé, accessible sans leur consentement. Cette vulnérabilité contourne les mesures de protection d'Apple, en place depuis macOS Mojave, qui exigent que les applications demandent l'autorisation avant d'accéder aux données personnelles. La correction de cette faille est attendue, et les utilisateurs sont invités à ne pas télécharger l'application avant sa mise à jour.",
@@ -26,6 +33,13 @@
         "body": "Google développe une nouvelle fonctionnalité d'IA pour ses smartphones Pixel 9, permettant d'analyser les captures d'écran et d'aider les utilisateurs à retrouver des informations spécifiques. Cette fonctionnalité, nommée \"Capture d'écran\", sera intégrée à une nouvelle application appelée \"Pixel Screenshot\". Elle fonctionnera uniquement sur les captures d'écran manuelles, contrairement à l'outil Recall de Microsoft, qui enregistre automatiquement l'activité de l'écran. Les données seront traitées localement pour protéger la vie privée des utilisateurs. Les Pixel 9 proposeront également d'autres outils d'IA, tels qu'un générateur d'images et un bouton pour ajouter l'utilisateur sur des photos.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/google-pixel-9-pro-rendus-a-768x432.jpeg?resize=169,169&key=8daede4e",
         "date": "Tue, 02 Jul 2024 23:00:00 GMT"
+    },
+    {
+        "title": "OpenAI, Apple et l'avenir de ChatGPT",
+        "link": "https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board",
+        "body": "Résumé : \n\nApple a nommé Phil Schiller, responsable de l'App Store et ancien responsable marketing, pour le représenter au conseil d'administration de l'organisation à but non lucratif OpenAI. Schiller occupera un rôle d'observateur, lui permettant d'assister aux réunions du conseil sans droit de vote. Cette nomination intervient alors qu'Apple prévoit d'intégrer ChatGPT à iOS et macOS plus tard dans l'année, offrant ainsi à Siri, assistée par l'IA, la possibilité de traiter des requêtes plus avancées. La collaboration entre Apple et OpenAI ne comprend actuellement aucun échange monétaire, mais Apple devrait recevoir une partie des abonnements ChatGPT souscrits via ses plateformes. Microsoft a également rejoint le conseil d'administration de OpenAI l'année dernière en tant qu'observateur non votant. La présence d'Apple et de Microsoft au conseil pourrait compliquer les discussions sur les plans futurs. La nomination de Schiller fournit à Apple des informations précieuses sur le fonctionnement interne de OpenAI, alors que l'entreprise cherche à intégrer et à tirer parti des technologies d'IA de pointe dans ses produits et services.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23598986/VRG_Illo_5258_K_Radtke_WWDC.jpg",
+        "date": "Tue, 02 Jul 2024 22:20:19 GMT"
     },
     {
         "title": "Figma's AI Tool Generates Apple Lookalikes",
@@ -166,19 +180,5 @@
         "body": "Le directeur de l'IA de Microsoft, Mustafa Suleyman, suggère que tout contenu trouvé sur le web ouvert devrait être considéré comme du \"freeware\", ce qui va à l'encontre des accords de licence de logiciels comme Windows et Office de Microsoft. Suleyman affirme que le contrat social du contenu web depuis les années 90 implique une utilisation équitable et libre, mais les conditions d'utilisation de Microsoft et la loi américaine sur le droit d'auteur contredisent cette idée. Les entreprises d'IA font face à des poursuites pour avoir récupéré des données sur le web ouvert pour entraîner leurs modèles. The New York Times poursuit OpenAI et Microsoft pour utilisation illégale de son contenu.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6682c7dac9a49d515f3e2c59/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 01 Jul 2024 15:00:00 GMT"
-    },
-    {
-        "title": "L'impact de l'IA générative sur la santé mentale aux États-Unis",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/01/mental-health-rankings-by-us-state-jostled-amid-the-curious-future-of-nationwide-universal-therapy-due-to-generative-ai/?ss=ai",
-        "body": "L'article explore l'impact potentiel de l'IA générative sur la santé mentale aux États-Unis, en particulier sur les classements de santé mentale au niveau des États. Il suggère que l'IA générative, en raison de sa disponibilité et de son accessibilité, pourrait perturber les classements actuels, qui sont basés sur des facteurs tels que la disponibilité des thérapeutes et les ressources externes. L'IA générative, en tant que nouvelle forme de thérapie, n'est pas encore prise en compte dans ces classements. L'article présente également deux études sur la santé mentale au niveau des États et leurs résultats. Il explore ensuite le rôle des thérapeutes et suggère que l'IA générative pourrait fournir une thérapie cohérente dans tous les États, en s'adaptant aux normes culturelles et locales. Enfin, il présente un dialogue généré par l'IA pour illustrer la thérapie dans différents États. L'article conclut en soulignant l'impact potentiel de l'IA générative sur la pratique de la thérapie et la nécessité de trouver un équilibre entre l'IA et les thérapeutes humains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6636d79acb00cc206bcb80dd/0x0.jpg?format=jpg&crop=1928,1285,x0,y332,safe&width=440",
-        "date": "Mon, 01 Jul 2024 12:00:00 GMT"
-    },
-    {
-        "title": "La ruée vers l'énergie pour alimenter l'IA",
-        "link": "https://www.forbes.com/sites/ninabambysheva/2024/07/01/why-these-bitcoin-miners-are-becoming-summers-hot-ai-stocks/?ss=ai",
-        "body": "La demande croissante en capacité informatique lourde, alimentée par des applications d'IA telles que ChatGPT, met en lumière l'importance des entreprises disposant d'un accès à une énergie bon marché et abondante. CoreWeave, un fournisseur d'informatique en nuage, a conclu un accord de 3,5 milliards de dollars avec Core Scientific, un mineur de bitcoin basé à Austin, pour héberger du matériel informatique lié à l'IA dans ses centres de données. Cet accord a fait doubler le cours de l'action de Core Scientific, attirant l'attention sur l'importance de l'énergie dans le monde de l'IA. La demande en énergie des centres de données, stimulée par l'IA, pourrait représenter jusqu'à 9 % de la production d'électricité aux États-Unis d'ici 2030, ce qui met en évidence la nécessité d'une planification et d'une infrastructure énergétiques adéquates. Les entreprises minières de bitcoin, avec leur accès à une énergie bon marché et leurs accords pour en obtenir davantage, sont bien placées pour répondre à cette demande. Core Scientific, IREN, Hut 8 et d'autres entreprises minières ajustent leurs opérations pour tirer parti de cette opportunité, mais les analystes soulignent la complexité et les coûts élevés de la transition vers des opérations d'IA. La stabilité des revenus de l'IA par rapport à la volatilité du bitcoin est un avantage supplémentaire pour les mineurs, mais la concurrence des géants technologiques pour l'IA ne doit pas être sous-estimée.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/667f2d347bb151d2652e018a/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
-        "date": "Mon, 01 Jul 2024 10:00:00 GMT"
     }
 ]
