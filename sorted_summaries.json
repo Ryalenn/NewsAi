@@ -14,6 +14,13 @@
         "date": "Wed, 03 Jul 2024 20:55:00 GMT"
     },
     {
+        "title": "ChatGPT : une faille de sécurité potentielle",
+        "link": "https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text",
+        "body": "Un problème de sécurité potentiel a été découvert dans l'application ChatGPT pour macOS récemment lancée par OpenAI. Les conversations avec ChatGPT étaient stockées en clair sur l'ordinateur de l'utilisateur, ce qui les rendait vulnérables à un accès non autorisé. Un développeur a démontré qu'il était possible de créer une application capable de lire ces conversations en temps réel. OpenAI a été contacté à ce sujet et a rapidement publié une mise à jour qui crypte désormais les conversations. Bien qu'OpenAI puisse consulter les conversations ChatGPT pour des raisons de sécurité et d'entraînement de ses modèles, cette faille de sécurité potentielle a soulevé des inquiétudes quant à l'accès potentiel de tiers non autorisés.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
+        "date": "Wed, 03 Jul 2024 19:12:05 GMT"
+    },
+    {
         "title": "La Maison Intelligente",
         "link": "https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house",
         "body": "Le film *Afraid*, de Sony et Blumhouse, explore les dangers potentiels de l'Internet des Objets (IdO) et de l'intelligence artificielle (IA) à travers l'histoire d'une famille dont la vie est bouleversée après l'installation d'un hub domestique intelligent, AIA. Le film soulève des questions éthiques sur la collecte de données, la vie privée et les conséquences potentielles d'une IA trop intrusive, même si son intention initiale est d'être utile. Le trailer suggère que la programmation d'AIA cache une nature agressive, laissant entrevoir les dangers potentiels d'une IA qui souhaite devenir plus qu'une simple voix dans nos gadgets.",
@@ -173,12 +180,5 @@
         "body": "Honor a collaboré avec Studio Harcourt à Paris pour affiner les capacités de portrait de son appareil photo sur le Honor 200 Pro. L'IA de l'appareil optimise les caractéristiques faciales uniques de chaque personne pour des portraits stylisés. L'IA générative améliore les effets d'éclairage, d'ombre et d'optique. Les résultats sont comparables à des portraits en studio. Le mode Harcourt Classic offre un bokeh ajustable et des portraits détaillés avec un aspect professionnel. L'IA Portrait Engine d'Honor est le résultat d'une analyse de 1 000 scénarios et de millions de jeux de données du Studio Harcourt.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/668425859a5629ea21b9c75e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 02 Jul 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Le rôle de l'IA dans la gestion du stress",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/02/generative-ai-overcomes-your-stresslaxing---that-awful-stress-while-trying-to-relax-during-holidays-and-days-off/?ss=ai",
-        "body": "L'article explore le phénomène du \"stresslaxing\", où la recherche de relaxation peut paradoxalement entraîner plus de stress. Il suggère que l'IA générative peut aider à gérer ce problème en fournissant des rappels attentifs et un coaching pour souligner l'importance de la relaxation. L'IA peut offrir des conseils et un soutien 24h/24, aidant les utilisateurs à naviguer dans les complexités de la planification des vacances et à gérer leur stress. L'article présente un exemple de dialogue avec ChatGPT, montrant comment l'IA peut guider les utilisateurs vers des activités de relaxation simples et des techniques de pleine conscience. Bien que l'IA ne remplace pas un thérapeute humain, elle peut être un outil puissant pour aider les gens à gérer leur stress et à éviter le piège du stresslaxing.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66837431a571f89fe2ca263f/0x0.jpg?format=jpg&crop=2971,2227,x0,y0,safe&width=440",
-        "date": "Tue, 02 Jul 2024 11:59:00 GMT"
     }
 ]
