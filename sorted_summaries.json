@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : équilibrer l'adoption et l'autonomie humaine",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/05/how-to-harness-human-intelligence-in-an-ai-driven-world/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6687a4f9d079909488a0e4a9/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Jul 2024 08:00:00 GMT"
+    },
+    {
         "title": "La domination de la Chine dans la course aux brevets d'IA générative",
         "link": "https://www.forbes.com/sites/roberthart/2024/07/04/china-thrashes-us-in-global-ai-patent-race-heres-why-that-doesnt-mean-its-winning-the-ai-war/?ss=ai",
         "body": "Résumé : La Chine domine largement ses rivaux internationaux dans la course aux brevets d'IA générative, avec plus de 38 000 brevets déposés depuis 2014, selon un rapport de l'ONU publié jeudi. Cela représente 70 % des plus de 50 000 brevets déposés dans le monde au cours de la dernière décennie. Les États-Unis, avec près de 6 300 brevets, arrivent loin derrière en deuxième position. Bien que le nombre de brevets indique la force de la Chine en matière de recherche et développement, des experts soulignent que la qualité et l'impact des innovations sont tout aussi importants que la quantité. Les géants chinois Tencent, Ping An Insurance Group et Baidu détiennent de loin le plus grand nombre de brevets d'IA générative, et les entités chinoises représentent 6 des 10 premiers détenteurs de brevets mondiaux. L'IA générative ne représente que 6 % des brevets d'IA dans le monde, mais le nombre de nouveaux dépôts a augmenté rapidement ces dernières années. L'IA générative a de nombreuses applications potentielles dans divers secteurs, notamment dans la conception de nouveaux médicaments, les chatbots de service client et l'amélioration de la conception de produits et de la conduite autonome.",
@@ -12,6 +19,13 @@
         "body": "Apple Intelligence, la nouvelle offre d'IA intégrée d'Apple, va transformer la façon dont nous utilisons la technologie, concurrençant ainsi les acteurs établis comme ChatGPT, Google AI, etc. Apple Intelligence sera intégrée aux iPhones, MacBooks et iPads, offrant une expérience intelligente et intégrée à des milliards d'utilisateurs. Ce lancement met en lumière la tendance croissante de l'IA intégrée, avec des entreprises comme Meta suivant des approches similaires. Meta AI, avec Llama 3, est déjà intégré à Instagram et WhatsApp, offrant une assistance intelligente et une personnalisation. Cette tendance soulève des questions sur la transparence et l'éthique, car elle soulève des inquiétudes quant à la quantité de données collectées sur les utilisateurs. L'IA intégrée transforme la vie quotidienne, offrant à la fois des avantages en termes de commodité et de productivité, mais soulève également des questions sur l'autonomie de la pensée et de la créativité humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6685c754c6452080c092e3b1/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 04 Jul 2024 13:00:00 GMT"
+    },
+    {
+        "title": "WhatsApp AI Avatars",
+        "link": "https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama",
+        "body": "WhatsApp développe une nouvelle fonctionnalité d'IA générative, permettant aux utilisateurs de créer des avatars personnalisés à partir de leurs propres images et descriptions de texte. La fonctionnalité, repérée dans la version bêta de WhatsApp pour Android, utilisera l'IA Llama de Meta pour générer des images d'utilisateurs dans divers contextes, allant de la forêt à l'espace. Les utilisateurs pourront créer leur avatar en prenant des photos d'eux-mêmes et en fournissant des invites de texte, et pourront ensuite les utiliser dans les conversations WhatsApp en tapant \"@Meta AI imagine me...\". La fonctionnalité sera optionnelle et les images de référence pourront être supprimées à tout moment. Aucune date de sortie officielle n'a été annoncée, mais WhatsApp déploie actuellement son chatbot Meta AI et des fonctionnalités d'IA en temps réel pour les utilisateurs aux États-Unis.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg",
+        "date": "Thu, 04 Jul 2024 09:56:41 GMT"
     },
     {
         "title": "La révolution de l'IA dans les médias et le divertissement",
