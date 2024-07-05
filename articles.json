@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "WhatsApp : un petit aperçu de ce que vous pourrez générer comme image de profil",
+        "title": "WhatsApp : un petit aper\u00e7u de ce que vous pourrez g\u00e9n\u00e9rer comme image de profil",
         "link": "https://www.frandroid.com/android/applications",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/whatsapp-photo-de-profil-ia-1-768x432.jpg?resize=169,169&key=da2ef586",
         "date": "Wed, 03 Jul 2024 23:00:00 GMT",
@@ -110,5 +110,19 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/design-sans-titre-62-768x432.jpg?resize=169,169&key=34557b6c",
         "date": "Wed, 03 Jul 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg",
+        "date": "Thu, 04 Jul 2024 09:56:41 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/05/how-to-harness-human-intelligence-in-an-ai-driven-world/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6687a4f9d079909488a0e4a9/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Jul 2024 08:00:00 GMT",
+        "check": "no"
     }
 ]
