@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sadfishing, Génération IA et Santé Mentale",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/05/that-sadfishing-trend-of-seeking-sympathy-online-rapidly-discovers-that-generative-ai-enlists-and-resists/?ss=ai",
+        "body": "Le \"sadfishing\", ou la publication de récits tristes en ligne pour susciter la sympathie, est de plus en plus populaire, et l'IA générative y joue désormais un rôle. L'IA peut être utilisée pour analyser et identifier les vrais appels à l'aide, fournir des ressources de santé mentale, modérer les contenus et appliquer les règles des plateformes. Cependant, elle peut aussi être utilisée pour créer de faux messages de \"sadfishing\", manipuler les émotions des lecteurs et amplifier le contenu négatif. L'article explore les recherches sur le \"sadfishing\", y compris les motivations et les impacts sur la santé mentale, et souligne l'importance de la sensibilisation et de la prudence dans l'utilisation des médias sociaux pour la santé mentale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/668713a8db4e86c2e22e16b3/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Jul 2024 11:59:00 GMT"
+    },
+    {
+        "title": "L'avenir de la science des données à l'ère de l'IA générative",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2024/07/05/are-data-scientists-still-key-to-ai/?ss=ai",
+        "body": "L'IA générative et les modèles linguistiques larges (LLM) ont démocratisé l'accès aux capacités de l'IA, rendant obsolète la dépendance exclusive aux data scientists pour développer et gérer les systèmes d'IA. L'accent est désormais mis sur l'ingénierie de prompts, qui nécessite des compétences en pensée critique, créativité, collaboration et communication. Bien que les data scientists restent essentiels pour l'avancement de l'IA, la qualité et la pertinence des données deviennent primordiales, mettant en lumière l'importance de l'ingénierie des données pour garantir la disponibilité et l'intégrité des données pour les projets d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/668411a33ed239df388d71c7/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Jul 2024 09:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : équilibrer l'adoption et l'autonomie humaine",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/07/05/how-to-harness-human-intelligence-in-an-ai-driven-world/?ss=ai",
         "body": "Titre",
@@ -110,19 +124,5 @@
         "body": "ChatGPT peut-il aider les joueurs de poker en ligne à améliorer leurs compétences et à prendre de meilleures décisions ? L'article explore cette idée en examinant les capacités de ChatGPT à analyser le jeu de poker et à fournir des conseils stratégiques. Bien que ChatGPT ne soit pas spécifiquement formé pour jouer au poker, une étude de 2023 a révélé qu'il possédait une compréhension avancée du jeu, incluant la valorisation des mains de départ et la connaissance des positions de jeu. Cependant, la stratégie conservatrice de ChatGPT peut être exploitée par des joueurs humains. L'article souligne également l'utilité de ChatGPT dans l'analyse des performances passées, en téléchargeant l'historique des mains jouées et en demandant à l'IA d'évaluer les décisions prises. Des fonctionnalités supplémentaires, telles que le « Poker Hand Analyzer » et la capacité à exécuter des simulations de Monte Carlo, offrent une analyse plus détaillée des mains et des probabilités de victoire. Bien que l'IA puisse aider à corriger les erreurs de base et à améliorer la prise de décision, elle n'est pas infaillible et peut parfois faire des erreurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66854e404bcff9212d0f824b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 03 Jul 2024 14:00:00 GMT"
-    },
-    {
-        "title": "SoftBank's AI Ambitions",
-        "link": "https://www.forbes.com/sites/roberthart/2024/07/03/softbank-shares-hit-record-high-amid-push-into-ai-and-computer-chips/?ss=ai",
-        "body": "SoftBank, sous la direction de Masayoshi Son, se tourne vers l'IA et les puces informatiques. Les actions ont atteint un sommet historique, reflétant la confiance renouvelée des investisseurs dans la société. Masayoshi Son a annoncé que SoftBank se concentrerait sur l'IA et les puces, avec l'intention de faire de l'entreprise un acteur clé dans ces secteurs. La valeur de l'action a augmenté de 1,5 % et la société est désormais considérée comme une valeur liée aux semi-conducteurs. La richesse de Son a augmenté d'environ 600 millions de dollars en une journée, et il prévoit de faire de SoftBank un leader dans l'IA, avec une stratégie centrée sur la société de semi-conducteurs Arm. SoftBank s'intéresse également à Graphcore, mais la vente de technologies d'IA est de plus en plus soumise à des examens de sécurité nationale. Son a déclaré que sa mission dans la vie était de réaliser une superintelligence artificielle, positionnant l'IA au centre des futures opérations de SoftBank.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66853d8ae7a0386f3520963c/0x0.jpg?format=jpg&crop=3489,1962,x0,y76,safe&width=440",
-        "date": "Wed, 03 Jul 2024 12:00:00 GMT"
-    },
-    {
-        "title": "L'ANPD interdit à Meta d'utiliser les données personnelles brésiliennes pour l'IA",
-        "link": "https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data",
-        "body": "L'autorité brésilienne de protection des données (ANPD) a interdit à Meta d'utiliser les données personnelles des utilisateurs brésiliens pour entraîner ses modèles d'IA. Cette décision fait suite à une mise à jour de la politique de confidentialité de Meta en mai, qui lui permettait d'utiliser les données publiques de Facebook, Messenger et Instagram, y compris les publications, les images et les légendes, à des fins d'entraînement de l'IA. L'ANPD a cité les risques de dommages graves et irréparables pour les droits fondamentaux des utilisateurs brésiliens, qui représentent un marché important pour Meta avec 102 millions de comptes Facebook. L'ANPD a donné à Meta cinq jours pour se conformer, sous peine d'amendes quotidiennes. Meta a déclaré que sa politique mise à jour respectait les lois brésiliennes sur la confidentialité, mais a été critiqué pour avoir mis en place des obstacles à l'option de refus des utilisateurs. Cette opposition au Brésil fait écho à des réactions similaires de la part des régulateurs de l'UE, conduisant Meta à suspendre ses plans d'entraînement de l'IA sur les données européennes.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
-        "date": "Wed, 03 Jul 2024 10:18:06 GMT"
     }
 ]
