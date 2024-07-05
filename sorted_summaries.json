@@ -110,54 +110,5 @@
         "body": "L'autorité brésilienne de protection des données (ANPD) a interdit à Meta d'utiliser les données personnelles des utilisateurs brésiliens pour entraîner ses modèles d'IA. Cette décision fait suite à une mise à jour de la politique de confidentialité de Meta en mai, qui lui permettait d'utiliser les données publiques de Facebook, Messenger et Instagram, y compris les publications, les images et les légendes, à des fins d'entraînement de l'IA. L'ANPD a cité les risques de dommages graves et irréparables pour les droits fondamentaux des utilisateurs brésiliens, qui représentent un marché important pour Meta avec 102 millions de comptes Facebook. L'ANPD a donné à Meta cinq jours pour se conformer, sous peine d'amendes quotidiennes. Meta a déclaré que sa politique mise à jour respectait les lois brésiliennes sur la confidentialité, mais a été critiqué pour avoir mis en place des obstacles à l'option de refus des utilisateurs. Cette opposition au Brésil fait écho à des réactions similaires de la part des régulateurs de l'UE, conduisant Meta à suspendre ses plans d'entraînement de l'IA sur les données européennes.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
         "date": "Wed, 03 Jul 2024 10:18:06 GMT"
-    },
-    {
-        "title": "Moshi, l'assistant vocal français qui rivalise avec les géants américains",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2067560_plus-rapide-que-chatgpt-plus-naturelle-que-siri-et-cest-francais-voici-moshi-par-kyutai",
-        "body": "Moshi, une nouvelle IA développée par le laboratoire Kyutai co-fondé par Xavier Niel, promet de révolutionner l'industrie des assistants vocaux. Avec un temps de latence de 160 millisecondes, Moshi offre des conversations fluides et naturelles, traitant directement le son et pouvant reconnaître et imiter 70 émotions. L'équipe a également réduit la latence à 200 millisecondes, rendant les échanges incroyablement naturels. Moshi fonctionne localement sur des appareils comme le MacBook Pro, grâce à l'optimisation du code et la réduction de la taille des modèles. L'approche open source de Kyutai vise à démocratiser l'accès à l'IA de pointe, bien que Moshi ne parle actuellement qu'anglais et soulève des questions éthiques en matière de vie privée. Le lancement de Moshi est un signal fort pour l'industrie de l'IA en Europe, montrant que le continent peut innover de manière significative.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/open-science-ai-lab-kyutai-14-59-screenshot-768x432.jpg?resize=169,169&key=c183a522",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Amazfit Zepp OS 4 : l'assistant vocal amélioré avec ChatGPT",
-        "link": "https://www.frandroid.com/marques/amazfit/2066402_comment-ce-constructeur-de-montres-de-sport-a-devance-google-samsung-et-apple",
-        "body": "Amazfit a annoncé une mise à jour majeure de son système d'exploitation pour montres connectées, Zepp OS 4, qui intègre désormais l'IA de ChatGPT. La nouvelle version de l'assistant vocal Zepp Flow, basée sur cette technologie, offre une interaction vocale plus naturelle et des réponses plus pertinentes aux requêtes des utilisateurs, qu'il s'agisse d'informations liées à la montre, à la santé, à l'entraînement ou même de résultats sportifs. La mise à jour étend également la connectivité Bluetooth à d'autres appareils, tels que les caméras GoPro et les enceintes Sonos. La mise à jour Zepp OS 4 est déjà disponible pour certains modèles de montres Amazfit.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/02/amazfit-cheetah-4-768x512.jpg?resize=200,200&key=3302f7cb",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Faille de sécurité dans l'application ChatGPT sur Mac",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2065768_lapplication-chatgpt-pour-mac-presente-une-faille-de-securite-majeure",
-        "body": "L'application ChatGPT sur macOS présente une faille de sécurité critique, exposant potentiellement les données des utilisateurs. Les requêtes des utilisateurs sont enregistrées dans un dossier non sécurisé, accessible sans leur consentement. Cette vulnérabilité contourne les mesures de protection d'Apple, en place depuis macOS Mojave, qui exigent que les applications demandent l'autorisation avant d'accéder aux données personnelles. La correction de cette faille est attendue, et les utilisateurs sont invités à ne pas télécharger l'application avant sa mise à jour.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/chatgpt-application-mac-2-768x432.jpg?resize=169,169&key=0716b0dd",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "macOS Sequoia : les fonctionnalités d'IA inaccessibles aux Mac Intel",
-        "link": "https://www.frandroid.com/os/macos/2065850_macos-sequoia-voici-les-fonctions-inaccessibles-aux-mac-intel",
-        "body": "La dernière version du système d'exploitation macOS Sequoia d'Apple réserve certaines fonctionnalités aux appareils équipés de processeurs ARM Apple Silicon, excluant ainsi les Mac Intel. Parmi les fonctionnalités exclusives aux puces \"M\" se trouvent Apple Intelligence, une plateforme d'IA intégrée à macOS, iOS et iPadOS, offrant des outils d'IA générative et des expériences avancées pour améliorer la productivité, ainsi que la transcription audio instantanée, qui permet de créer des transcriptions écrites d'enregistrements audio dans l'application \"Notes\". Bien que compatible avec les Mac ARM, Apple Intelligence ne sera disponible que sur les appareils Apple Silicon commercialisés après novembre 2020. La fonctionnalité de transcription audio instantanée, quant à elle, sera également réservée aux Mac dotés de processeurs ARM. Ces limitations impactent l'accès des utilisateurs de Mac Intel aux fonctionnalités d'IA de macOS Sequoia, mais toutes les autres nouveautés annoncées seront disponibles sur les modèles disposant d'une puce de sécurité T2.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/apple-macbook-pro-15-768x512.jpg?resize=200,200&key=dab29afc",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'empreinte carbone de l'IA",
-        "link": "https://www.frandroid.com/marques/google/2066036_google-fait-exploser-son-empreinte-carbone-a-cause-de-lia",
-        "body": "Le rapport environnemental de Google révèle une augmentation de 13 % de ses émissions de gaz à effet de serre par rapport à l'année précédente, et de 49 % depuis 2019. Cette hausse est principalement due à la consommation énergétique croissante de ses centres de données et à l'impact de sa chaîne d'approvisionnement. La transition vers une informatique durable dépendra de l'adoption d'énergies renouvelables, mais la construction de puces, l'artificialisation des sols et la consommation d'eau restent des préoccupations. La course à l'IA à Silicon Valley impacte le bilan carbone de Google et Microsoft, remettant en question leurs objectifs de neutralité carbone d'ici 2030. L'IA peut avoir des effets positifs sur l'environnement, mais la course à la puissance de calcul pourrait avoir des conséquences imprévues.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/01/google-neon-768x481.jpg?resize=300,300&key=11f938a6",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google améliore la recherche d'images sur les Pixel 9",
-        "link": "https://www.frandroid.com/marques/google/2065990_pixel-9-google-sinspirerait-dune-fonction-polemique-de-microsoft",
-        "body": "Google développe une nouvelle fonctionnalité d'IA pour ses smartphones Pixel 9, permettant d'analyser les captures d'écran et d'aider les utilisateurs à retrouver des informations spécifiques. Cette fonctionnalité, nommée \"Capture d'écran\", sera intégrée à une nouvelle application appelée \"Pixel Screenshot\". Elle fonctionnera uniquement sur les captures d'écran manuelles, contrairement à l'outil Recall de Microsoft, qui enregistre automatiquement l'activité de l'écran. Les données seront traitées localement pour protéger la vie privée des utilisateurs. Les Pixel 9 proposeront également d'autres outils d'IA, tels qu'un générateur d'images et un bouton pour ajouter l'utilisateur sur des photos.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/google-pixel-9-pro-rendus-a-768x432.jpeg?resize=169,169&key=8daede4e",
-        "date": "Tue, 02 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI, Apple et l'avenir de ChatGPT",
-        "link": "https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board",
-        "body": "Résumé : \n\nApple a nommé Phil Schiller, responsable de l'App Store et ancien responsable marketing, pour le représenter au conseil d'administration de l'organisation à but non lucratif OpenAI. Schiller occupera un rôle d'observateur, lui permettant d'assister aux réunions du conseil sans droit de vote. Cette nomination intervient alors qu'Apple prévoit d'intégrer ChatGPT à iOS et macOS plus tard dans l'année, offrant ainsi à Siri, assistée par l'IA, la possibilité de traiter des requêtes plus avancées. La collaboration entre Apple et OpenAI ne comprend actuellement aucun échange monétaire, mais Apple devrait recevoir une partie des abonnements ChatGPT souscrits via ses plateformes. Microsoft a également rejoint le conseil d'administration de OpenAI l'année dernière en tant qu'observateur non votant. La présence d'Apple et de Microsoft au conseil pourrait compliquer les discussions sur les plans futurs. La nomination de Schiller fournit à Apple des informations précieuses sur le fonctionnement interne de OpenAI, alors que l'entreprise cherche à intégrer et à tirer parti des technologies d'IA de pointe dans ses produits et services.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23598986/VRG_Illo_5258_K_Radtke_WWDC.jpg",
-        "date": "Tue, 02 Jul 2024 22:20:19 GMT"
     }
 ]
