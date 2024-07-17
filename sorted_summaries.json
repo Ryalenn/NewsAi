@@ -1,10 +1,31 @@
 [
     {
+        "title": "The Downfall of the Opulent",
+        "link": "https://www.theverge.com/2024/7/17/24200354/sam-altman-san-francisco-mansion-lawsuit-lemon-openai",
+        "body": "Résumé : La luxueuse résidence de 27 millions de dollars de Sam Altman, PDG de OpenAI, à San Francisco, est au cœur d'une polémique en raison de problèmes tels qu'une piscine à débordement qui fuit et des canalisations défectueuses. La propriété, située sur la célèbre Lombard Street, comprend une piscine à débordement sur quatre côtés, un garage « Batcave » et un système d'irrigation utilisant l'eau de pluie recyclée. Cependant, des problèmes de construction ont entraîné des fuites et des défauts, ce qui a conduit l'équipe juridique d'Altman à intenter un procès contre le promoteur immobilier Troon Pacific, alléguant une « mauvaise qualité de travail et des raccourcis ». Le coût des réparations de la piscine seule est estimé à plus de 4 millions de dollars. Troon Pacific a également été impliqué dans d'autres controverses, ayant été condamné à rembourser 50 millions de dollars à des investisseurs pour un projet de rénovation inachevé. Pendant ce temps, Altman doit faire face aux inconvénients de la maison pendant la procédure judiciaire.",
+        "image": "",
+        "date": "Wed, 17 Jul 2024 14:11:00 GMT"
+    },
+    {
+        "title": "Google offre Gemini Advanced gratuitement avec le Pixel 9",
+        "link": "https://www.forbes.com/sites/paulmonckton/2024/07/17/google-pixel-9-series-to-launch-with-free-ai-subscription-worth-140-report-claims/?ss=ai",
+        "body": "Résumé : Google prévoit d'offrir une année d'accès gratuit à son modèle IA Premium, Gemini Advanced, avec l'achat d'un Pixel 9 Pro. Cette offre représente une économie importante, car Gemini Advanced est actuellement disponible uniquement via un abonnement Google One AI Premium mensuel facturé 239 $ par an. Cette information provient d'indices cachés dans le code de la dernière version bêta de l'application Google sur Android. L'abonnement gratuit pourrait être réservé aux modèles Pixel Pro et Pixel Pro XL, tandis que le Pixel 9 de base pourrait bénéficier d'un accès gratuit pendant seulement six mois. Gemini Advanced est la version premium du modèle IA Gemini de Google, qui remplace Google Assistant sur les appareils Android. Il offre une gamme de fonctionnalités supplémentaires intégrées de manière transparente dans l'expérience smartphone.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6697c8966fd96c0c6829a9d7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 17 Jul 2024 13:00:00 GMT"
+    },
+    {
         "title": "La vigilance face à l'IA",
         "link": "https://www.forbes.com/sites/charlestowersclark/2024/07/17/from-dont-be-evil-to-legal-ai-tackling-bias-and-complacency/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6692ae46d20caa6b41b2f428/0x0.jpg?format=jpg&crop=1792,1008,x0,y6,safe&width=440",
         "date": "Wed, 17 Jul 2024 11:55:00 GMT"
+    },
+    {
+        "title": "La magie de l'IA de Samsung",
+        "link": "https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image",
+        "body": "Allison Johnson, critique de technologie grand public, partage son expérience avec la nouvelle fonctionnalité « sketch to image » du Samsung Fold 6, qui utilise l'IA générative pour transformer des croquis en images détaillées. Bien que cette fonctionnalité soit amusante et impressionnante, elle soulève des inquiétudes quant à la facilité avec laquelle les images peuvent être manipulées et la difficulté à distinguer le réel du faux. Johnson souligne que la capacité à ajouter des éléments photoréalistes à des photos, comme un flou d'une abeille, pourrait remettre en question notre perception de la réalité et de la vérité dans les images, en particulier à une époque où les médias sociaux et la démocratie sont précaires. Elle se demande également si la définition de la photographie est en train de changer et si l'accessibilité croissante des outils d'IA générative aura un impact sur la perception de l'art et de la création artistique. Malgré ces préoccupations, Johnson admet avoir passé un bon moment avec la fonctionnalité, notant le côté amusant et parfois hilarant des résultats.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4000x3000/2400x1600/filters:focal(2120x1668:2121x1669):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25532159/20240712_102615.jpg",
+        "date": "Wed, 17 Jul 2024 11:00:00 GMT"
     },
     {
         "title": "Tinder lance un outil de sélection de photos assisté par l'IA",
@@ -131,19 +152,5 @@
         "body": "HP lance l'OmniBook Ultra, un nouveau PC portable de la série OmniBook, équipé d'un processeur AMD Ryzen AI 300 et d'un GPU Radeon 800M, offrant jusqu'à 32 Go de RAM. Il dispose de deux ports Thunderbolt 4 USB-C, d'un écran tactile LCD de 14 pouces et d'un système audio quad speakers. L'OmniBook Ultra sera disponible à partir d'août pour 1 449,99 $. Il s'agit d'un des premiers PC Copilot Plus à ne pas utiliser de processeur ARM, offrant ainsi une meilleure compatibilité avec les applications Windows. HP prévoit également de mettre à jour l'OmniBook Ultra pour ajouter les fonctionnalités Copilot Plus, mais la date de sortie dépendra de Microsoft.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x1950/2400x1600/filters:focal(1500x975:1501x976):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531373/HP_OmniBook_Ultra_1.jpg",
         "date": "Mon, 15 Jul 2024 15:50:27 GMT"
-    },
-    {
-        "title": "L'IA, les puces et l'avenir de l'innovation américaine",
-        "link": "https://www.theverge.com/24197237/arati-prabhakar-ostp-director-tech-policy-science-ai-regulation-decoder-podcast",
-        "body": "L'interview de Nilay Patel avec Arati Prabhakar, directrice du Bureau de la politique scientifique et technologique de la Maison Blanche, explore les rôles de Prabhakar dans la formulation des politiques scientifiques et technologiques, en particulier dans les domaines de l'IA et des semi-conducteurs. Prabhakar aborde l'équilibre entre le financement public et privé de la R&D, les défis de la réglementation de l'IA et l'importance de l'innovation pour relever les défis nationaux.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1052x520:1053x521):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25528252/DCD_Arati_Prabhakar.jpg",
-        "date": "Mon, 15 Jul 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Hyperpersonnalisation avec l'IA",
-        "link": "https://www.forbes.com/sites/kathleenwalch/2024/07/15/how-generative-ai-is-driving-hyperpersonalization/?ss=ai",
-        "body": "Résumé : La technologie GenAI révolutionne la personnalisation en permettant aux entreprises d'offrir des expériences sur-mesure à leurs clients. Cette technologie s'appuie sur l'IA et le traitement du langage naturel pour créer du contenu personnalisé, des recommandations de produits et des offres promotionnelles uniques. Les entreprises peuvent désormais proposer un service client plus efficace et engageant grâce à des assistants virtuels et des chatbots alimentés par l'IA. De plus, l'IA permet une personnalisation à grande échelle dans divers domaines tels que l'éducation, la finance et les voyages, améliorant ainsi la vie quotidienne des individus.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66952466f498a1e1f50ea9af/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 15 Jul 2024 13:00:00 GMT"
     }
 ]
