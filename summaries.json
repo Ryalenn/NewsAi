@@ -70,27 +70,6 @@
         "date": "Thu, 18 Jul 2024 06:49:05 GMT"
     },
     {
-        "title": "Les géants de la tech démocratisent les chatbots basés sur l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "De grands acteurs du secteur technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur des modèles linguistiques massifs plus accessibles au grand public. Ces systèmes fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les mots tapés par l'utilisateur. Cependant, ces outils présentent des informations fausses car ils se concentrent sur la plausibilité plutôt que sur la véracité. L'article aborde également d'autres développements dans le domaine de l'IA, notamment l'utilisation de datasets YouTube pour entraîner des systèmes d'IA, les controverses entourant l'utilisation de contenus protégés par le droit d'auteur, et les partenariats entre entreprises pour explorer des applications d'IA en biologie et dans les médias.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Tue, 16 Jul 2024 23:41:56 GMT"
-    },
-    {
-        "title": "Claude sur Android",
-        "link": "https://www.anthropic.com/news/android-app",
-        "body": "L'application Claude Android est désormais disponible sur Google Play. L'application offre aux utilisateurs Android un accès gratuit à l'ensemble des fonctionnalités de Claude, y compris au modèle le plus puissant, Claude 3.5 Sonnet. L'application est conçue pour être utilisée aussi bien pour le travail que pour les loisirs. Que ce soit pour rédiger une proposition commerciale, traduire des menus pendant un voyage, trouver des idées de cadeaux pendant les courses ou préparer un discours en attendant un vol, Claude est prêt à aider.",
-        "image": "",
-        "date": "Tue, 16 Jul 2024 23:41:56 GMT"
-    },
-    {
-        "title": "La consolidation des géants de la tech",
-        "link": "https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection",
-        "body": "Résumé : \n\nDans un contexte de consolidation de l'industrie de l'IA, de jeunes pousses prometteuses comme Inflection et Adept, qui avaient levé des fonds importants pour concurrencer OpenAI, sont absorbées par des géants de la tech comme Microsoft et Amazon. Ces derniers, aux poches bien remplies, sont à l'affût de la prochaine révolution technologique. Bien que les autorités de régulation antitrust veillent à empêcher les acquisitions directes, Microsoft et Amazon ont trouvé une parade en embauchant la majorité des employés de ces startups et en licenciant leur technologie, évitant ainsi l'examen minutieux des régulateurs. Cette tendance, prédite par Reid Hoffman, co-fondateur d'Inflection et investisseur précoce dans Adept, pourrait se poursuivre alors que l'industrie de l'IA se consolide.",
-        "image": "",
-        "date": "Tue, 16 Jul 2024 21:45:43 GMT"
-    },
-    {
         "title": "Tenstorrent lance des kits de développement et des stations de travail pour l'IA",
         "link": "https://www.forbes.com/sites/marcochiappetta/2024/07/18/tenstorrent-unveils-new-wormhole-devkits-and-powerful-ai-workstations/?ss=ai",
         "body": "Tenstorrent, une entreprise de puces d'IA dirigée par l'ingénieur en microprocesseurs Jim Keller, a annoncé de nouveaux kits de développement et des stations de travail d'IA alimentés par ses accélérateurs Wormhole de pointe. Tenstorrent adopte une approche unique de l'accélération de l'IA, en utilisant l'ISA RISC-V sans redevance et des piles logicielles open source. L'objectif ultime est d'offrir des processeurs d'IA hautement évolutifs et performants, avec un faible seuil d'entrée et un coût total de possession inférieur à celui des solutions concurrentes. Wormhole, fabriqué avec un nœud de processus 12nm, offre une architecture plus avancée et de meilleures performances que les kits de développement précédents de Tenstorrent basés sur le processeur Grayskull. Les nouveaux kits de développement et stations de travail sont équipés de cartes Wormhole, avec des options à puce unique (N150) ou à double puce (N300), et sont conçus pour faciliter le développement et le déploiement d'applications d'IA à grande échelle. Blackhole, la prochaine génération de l'ordinateur d'IA autonome de Tenstorrent, offrira encore plus de performances et de fonctionnalités. Les stations de travail TT-LoudBox et TT-QuietBox, équipées de processeurs Intel Xeon et AMD EPYC respectivement, sont également disponibles pour des configurations plus puissantes.",
@@ -152,13 +131,6 @@
         "body": "Elon Musk a choisi Memphis, Tennessee, pour accueillir le nouveau supercalculateur de son startup d'IA, xAI, grâce à son accès à l'électricité et la possibilité de construire rapidement. L'investissement, estimé à plusieurs milliards de dollars, a été annoncé le mois dernier, mais des membres du conseil municipal de Memphis ont exprimé des inquiétudes concernant le manque de transparence dans les négociations et l'impact sur la consommation d'électricité et d'eau. Le supercalculateur sera utilisé pour entraîner Grok, un chatbot concurrent de ChatGPT, et fonctionnera avec 100 000 puces Nvidia H100. xAI a fait des promesses verbales d'améliorer les infrastructures publiques de Memphis, mais il y a des questions sur la quantité d'électricité que la société sera autorisée à utiliser, étant donné les demandes passées de la ville aux résidents de réduire leur consommation d'énergie. xAI a demandé une capacité finale de 150 MW, qui nécessitera l'approbation du conseil d'administration de la Tennessee Valley Authority. Malgré les préoccupations, certains membres du conseil municipal de Memphis restent optimistes et croient que l'accord sera bénéfique pour la ville.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/669821265801cce8211dd83b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 17 Jul 2024 20:33:00 GMT"
-    },
-    {
-        "title": "DeepL surpasse les géants de la tech dans la traduction",
-        "link": "https://www.frandroid.com/culture-tech/2083524_cette-entreprise-ferait-mieux-que-chatgpt-en-termes-de-traduction",
-        "body": "DeepL, entreprise allemande spécialisée dans la traduction, lance une IA dédiée à cette tâche, surpassant OpenAI, Google et Microsoft selon des tests à l'aveugle. Leur LLM a été entraîné par des experts en linguistique pour fournir des traductions de haute qualité. DeepL, déjà présent dans le secteur depuis 2017, se concentre sur la spécialisation et l'impact tangible pour ses clients. L'entreprise assure également que son modèle utilise des données exclusives et éthiques, récoltées sur plusieurs années. Le service est déjà disponible en anglais, japonais, allemand et chinois simplifié, avec plus de langues à venir.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/automatic-social-share-deepl-768x384.png?resize=150,150&key=35bdf0c9",
-        "date": "Tue, 16 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Microsoft Designer : une application de création assistée par IA",
