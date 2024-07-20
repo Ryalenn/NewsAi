@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Ce que Steve Jobs disait de l’intelligence artificielle il y a 40 ans",
+        "title": "Ce que Steve Jobs disait de l\u2019intelligence artificielle il y a 40 ans",
         "link": "https://www.frandroid.com/marques/apple/2085268_ce-que-steve-jobs-disait-de-lintelligence-artificielle-il-y-a-40-ans",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/capture-decran-2024-07-19-a-080349-768x463.jpg?resize=181,181&key=7d037965",
         "date": "Thu, 18 Jul 2024 23:00:00 GMT",
@@ -166,5 +166,12 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/google-chrome-moteur-de-recherche-768x432.jpg?resize=169,169&key=97e881c8",
         "date": "Thu, 18 Jul 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/neilsahota/2024/07/20/ai-shields-kids-by-revolutionizing-child-safety-and-online-protection/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6699ec9bb2c406e9f739ac3c/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 20 Jul 2024 15:00:00 GMT",
+        "check": "no"
     }
 ]
