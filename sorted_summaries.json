@@ -236,33 +236,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6630452a361bb284ddcd2af0/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 18 Jul 2024 02:48:00 GMT"
-    },
-    {
-        "title": "OpenAI lance GPT-4 Mini",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2085162_openai-lance-gpt-4o-mini-une-reponse-aux-modeles-legers-de-google-et-anthropic",
-        "body": "OpenAI, un leader de l'IA, dévoile GPT-4 Mini, un modèle de langage plus accessible et moins coûteux que ses prédécesseurs. GPT-4 Mini surpasse les performances de GPT-3.5, avec un score de 82 % au test MMLU. Il prend en charge le texte, la vision et, bientôt, la vidéo et l'audio. OpenAI cible les développeurs avec un LLM efficace et abordable, comme l'ont démontré des tests avec des start-ups. GPT-3.5 sera remplacé par GPT-4 Mini sur ChatGPT, mais restera accessible via l'API pour les développeurs attachés à ce modèle. La sortie de GPT-4 Mini s'inscrit dans une tendance à la démocratisation de l'IA générative, avec des modèles plus légers proposés par OpenAI, Google et Anthropic.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/gpt-768x432.jpg?resize=169,169&key=4cbe4741",
-        "date": "Wed, 17 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Proton Mail introduit l'IA générative tout en protégeant la vie privée",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2084142_ce-champion-de-la-confidentialite-lance-une-ia-generative-pour-vos-e-mails",
-        "body": "Proton, connu pour ses services respectueux de la vie privée, introduit Proton Scribe, une fonctionnalité d'IA générative pour Proton Mail. Scribe permet aux utilisateurs de générer ou de corriger des e-mails, fonctionnant localement sur leurs appareils sans stocker leurs données. Disponible sur le web et les applications de bureau, Scribe offre une alternative aux outils d'IA tiers qui sacrifient souvent la confidentialité des données. Proton, avec son engagement envers la confidentialité, répond à la demande croissante d'outils d'IA tout en protégeant les informations de ses utilisateurs. La fonctionnalité est facultative et régulièrement contrôlée par des audits indépendants de sécurité et de confidentialité. Proton Scribe est actuellement déployé pour les clients Proton Mail Business, avec une intégration prévue dans les abonnements Visionary et Lifetime.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/proton-scribe-blog2x-1-768x384.jpg?resize=150,150&key=77e5be89",
-        "date": "Wed, 17 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La bataille des chatbots s'intensifie",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2083908_chatgpt-et-gemini-tremblez-lapplication-claude-danthropic-debarque-sur-android",
-        "body": "Le marché des applications d'IA conversationnelle est en pleine effervescence avec l'arrivée de Claude AI sur Android, rejoignant ainsi ChatGPT et Gemini. Anthropic, la société derrière Claude, a reçu un investissement massif d'Amazon et compte de nombreux employés d'Open AI (ChatGPT). L'application Claude offre une interface épurée, des capacités multilingues avancées et un accès au modèle d'IA conversationnelle Sonnet, considéré comme l'un des plus performants. L'application est gratuite, mais propose un abonnement payant \"Pro\" avec des fonctionnalités supplémentaires. Dans cette bataille, Claude devra se faire connaître, bien qu'il bénéficie déjà d'une solide réputation, se classant deuxième dans l'évaluation Chatbot Arena de l'Université de Berkeley.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/logo-anthropic-claude-ai-768x432.jpg?resize=169,169&key=57709a7f",
-        "date": "Wed, 17 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Big Brother AI",
-        "link": "https://www.forbes.com/sites/lesliekatz/2024/07/17/big-brother-season-26-host-julie-chen-moonves-returns-as-ai-hologram/?ss=ai",
-        "body": "L'émission de télé-réalité Big Brother introduit un hologramme AI de taille réelle de l'animatrice Julie Chen Moonves pour sa 26e saison, avec le thème \"Big Brother Intelligence Artificielle\". L'hologramme, créé par Proto Hologram, est capable d'interagir et de converser naturellement, grâce à un logiciel qui a appris le ton de voix, la cadence et les mouvements de Moonves. La maison de Big Brother, avec son décor futuriste, comprend une projection holographique de 7 pieds, équipée de caméras, de capteurs et de microphones. Les invités de la maison, dont un vétéran du Corps des Marines, un ancien policier sous couverture et un agent immobilier, voteront pour un 17e invité, une première pour l'émission.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66984b4b1f90e0fb63a049c9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 17 Jul 2024 23:00:00 GMT"
     }
 ]
