@@ -1,5 +1,12 @@
 [
     {
+        "title": "Forging Symbiotic Relationships with AI",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/21/building-hybrid-resilience-in-a-tech-dependent-world-lessons-learned/?ss=ai",
+        "body": "L'article souligne l'importance de maintenir l'autonomie humaine au centre de l'interaction avec la technologie, en particulier dans le domaine de l'IA. Il met en évidence la nécessité de trouver un équilibre entre l'adoption de l'innovation et la résilience face aux perturbations technologiques. Les systèmes hybrides, combinant des éléments numériques et analogiques, sont présentés comme une solution pour assurer la continuité et la résilience. Des exemples de secteurs tels que la santé, les transports, les services financiers, le commerce de détail, l'éducation et le gouvernement illustrent l'utilisation réussie de ces systèmes hybrides. L'auteur met en garde contre les dangers de déléguer toutes les décisions importantes à la technologie, soulignant que l'intuition et la créativité humaines restent essentielles. L'article aborde également l'importance d'une supervision humaine honnête dans les processus décisionnels assistés par l'IA, en particulier dans les domaines à haut risque. Il propose des stratégies pour les entreprises, soulignant la nécessité d'évaluer régulièrement les dépendances technologiques, de planifier des solutions de secours et de cultiver une culture de résilience. Enfin, il plaide pour une relation symbiotique entre les humains et l'IA, où la technologie améliore le potentiel humain plutôt que de l'éclipser.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669d1b7c1e680dd04f7a161b/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 21 Jul 2024 14:41:00 GMT"
+    },
+    {
         "title": "La réglementation de l'IA générative : un défi pour l'équilibre entre innovation et sécurité",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/07/20/what-if-america-opted-to-validate-or-pre-test-generative-ai-before-public-release-as-china-does/?ss=ai",
         "body": "L'article explore le débat autour de la réglementation de l'IA générative, en particulier la question de savoir si les États-Unis devraient adopter une approche similaire à celle de la Chine, qui exige des tests préalables pour les modèles d'IA générative avant leur mise sur le marché. Il examine les avantages et les inconvénients d'une telle approche, y compris la nécessité de garantir la sécurité du public et d'éviter la diffusion de contenus toxiques, ainsi que les risques de censure et d'interférence gouvernementale. L'article souligne également le rôle des créateurs d'IA dans la filtration des contenus et les préoccupations concernant les biais cachés dans les modèles d'IA. Enfin, il soulève des questions importantes sur le rôle approprié des gouvernements dans la réglementation de l'IA, en particulier dans le contexte de l'innovation et de la liberté d'expression.",
@@ -12,6 +19,20 @@
         "body": "L'intelligence artificielle (IA) émerge comme un allié puissant pour protéger les enfants dans le monde numérique complexe d'aujourd'hui. L'IA surveille et analyse le contenu en ligne à grande échelle, filtrant les contenus nocifs et détectant les comportements prédateurs. Les entreprises comme Google et Facebook utilisent l'IA pour balayer les contenus inappropriés, garantissant ainsi un espace numérique sûr pour les enfants. L'IA lutte également contre le cyberharcèlement et promeut un environnement en ligne plus gentil. De plus, des organisations comme Thorn et le National Center for Missing & Exploited Children utilisent l'IA pour identifier et secourir les victimes de la traite et de l'exploitation sexuelle des enfants. L'IA joue aussi un rôle éducatif, enseignant aux enfants des habitudes en ligne sûres. Les applications de contrôle parental intégrant l'IA aident les parents à surveiller leurs enfants tout en respectant leur vie privée. Alors que l'IA se développe, sa capacité à comprendre le contexte et à reconnaître les nuances du comportement offrira une protection encore plus robuste pour les enfants. La collaboration entre les entreprises technologiques, les organisations à but non lucratif, les gouvernements et les communautés est essentielle pour garantir la sécurité des enfants dans l'évolution du paysage numérique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6699ec9bb2c406e9f739ac3c/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 20 Jul 2024 15:00:00 GMT"
+    },
+    {
+        "title": "OpenAI Échappe à une Poursuite en Justice",
+        "link": "https://news.bloomberglaw.com/ip-law/openai-dropped-from-first-ever-ai-programming-copyright-lawsuit",
+        "body": "OpenAI Inc. a évité une poursuite en justice pour violation de droits d'auteur de la part d'un groupe de programmeurs open-source, qui ont volontairement abandonné leur affaire contre l'entreprise. Les programmeurs alléguaient que l'outil d'IA générative Copilot, développé par OpenAI en collaboration avec GitHub et Microsoft, avait été formé à l'aide de leur code sans attribution adéquate. Bien qu'ils aient abandonné leur poursuite contre OpenAI, les programmeurs continuent leur action en justice contre GitHub et Microsoft, alléguant une violation des accords de licence open-source. La poursuite initiale, déposée en 2022, alléguait une violation du Digital Millennium Copyright Act par Copilot, qui pourrait produire des extraits de code protégés par droits d'auteur sans attribution ni conditions de licence appropriées. Bien que les réclamations DMCA aient été rejetées, les programmeurs poursuivent leurs autres réclamations.",
+        "image": "",
+        "date": "Sat, 20 Jul 2024 13:45:48 GMT"
+    },
+    {
+        "title": "Panne mondiale des machines Windows impactant l'IA",
+        "link": "https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue",
+        "body": "Un nombre important de machines Windows ont subi une panne (« Blue Screen of Death » ou BSOD) suite à une mise à jour défectueuse de CrowdStrike, un fournisseur de cybersécurité. Cette panne a affecté des banques, des compagnies aériennes, des diffuseurs TV, des supermarchés et de nombreuses autres entreprises dans le monde. L'incident a été signalé en premier par des entreprises australiennes, avant de s'étendre en Europe. CrowdStrike a reconnu le problème et déployé une solution, mais la réparation des machines impactées s'avère complexe pour les administrateurs informatiques. L'incident est sans lien avec Microsoft et est spécifique aux machines Windows. La panne a également affecté des centres d'appels d'urgence 911 en Alaska et entraîné des retards dans les aéroports. La solution implique de démarrer les machines Windows en mode sans échec et de supprimer manuellement un fichier système.",
+        "image": "",
+        "date": "Fri, 19 Jul 2024 17:40:28 GMT"
     },
     {
         "title": "Sécurité et transparence dans l'IA : les défis d'OpenAI",
@@ -33,12 +54,5 @@
         "body": "L'IA peut soutenir et améliorer nos capacités cognitives et compenser le déclin potentiel lié à l'âge. Alors que la population mondiale des personnes de 60 ans et plus devrait presque doubler entre 2015 et 2050, selon l'Organisation mondiale de la santé, l'IA peut aider à gérer le déclin cognitif naturel associé au vieillissement. L'IA peut servir d'outil compagnon pour explorer et découvrir des forces inconnues, et peut soutenir diverses fonctions cognitives telles que l'amélioration de la mémoire, la prise de décision, le traitement du langage et la formation cognitive. De plus, l'IA aide à détecter et à gérer précocement les maladies neurodégénératives liées à l'âge. Pour les professionnels qui souhaitent tirer parti de l'IA pour soutenir leurs fonctions cognitives à mesure qu'ils vieillissent, l'adoption d'assistants numériques, l'utilisation de l'IA pour traiter l'information, l'engagement dans la formation cognitive assistée par l'IA et l'exploration de ses forces inconnues grâce à l'IA sont des stratégies clés. L'IA offre des outils utiles pour compenser les changements cognitifs liés à l'âge et détecter précocement les problèmes de santé, tout en permettant de libérer le potentiel créatif latent. Une intégration réfléchie de l'IA dans nos vies personnelles et professionnelles peut potentiellement prolonger nos années productives et maintenir notre efficacité et notre unicité dans des rôles exigeants à un âge plus avancé.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/669a952de3a31d8df2dcc5f2/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 19 Jul 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail : l'intelligence artificielle et l'humain main dans la main",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/07/19/the-synergy-of-humans-and-ai-is-reshaping-the-workforce-for-the-future/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/65b57fc23a90ee2e4823bc16/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 19 Jul 2024 14:00:00 GMT"
     }
 ]
