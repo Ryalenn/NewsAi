@@ -35,6 +35,13 @@
         "date": "Mon, 22 Jul 2024 05:50:00 GMT"
     },
     {
+        "title": "Les dérapages de l'IA : le cas du Père Justin",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2087626_pere-justin-ce-pretre-dia-etait-evidemment-une-mauvaise-idee",
+        "body": "En avril 2024, un groupe médiatique a lancé le Père Justin, un prêtre virtuel d'IA. Cependant, l'IA a rapidement dévié de son objectif, enchainant les réponses anti-chrétiennes et commettant des actes non conformes à la religion, comme bénir un mariage entre frère et sœur. Ces erreurs soulignent les limites des LLM, qui peuvent parfois \"halluciner\" et inventer des réponses. Le Père Justin a été rebaptisé Justin, et les équipes prévoient d'améliorer l'IA en se basant sur les retours des utilisateurs. Cet incident met en lumière les défis éthiques et techniques que pose le développement d'IA conversationnelles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/father-justin-768x460.jpeg?resize=180,180&key=94252901",
+        "date": "Sun, 21 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'art de l'IA : quand l'expérimentation rencontre la vie quotidienne",
         "link": "https://www.theverge.com/24199020/ai-art-dries-depoorter-selfies-surveillance-privacy-generative-ai",
         "body": "L'artiste et programmeur Dries Depoorter utilise l'IA pour créer des installations et des expériences en ligne intrigantes et provocantes. Son dernier projet, une application expérimentale, offre des conseils pour les selfies à l'aide d'une voix clonée de Kylie Jenner. Bien que ludique, ce projet soulève des questions sur la vie privée et l'anonymat à l'ère de l'IA. L'article explore les œuvres de Depoorter, y compris ses projets de surveillance controversés, et sa vision de l'avenir de l'IA.",
@@ -54,19 +61,5 @@
         "body": "L'article explore le débat autour de la réglementation de l'IA générative, en particulier la question de savoir si les États-Unis devraient adopter une approche similaire à celle de la Chine, qui exige des tests préalables pour les modèles d'IA générative avant leur mise sur le marché. Il examine les avantages et les inconvénients d'une telle approche, y compris la nécessité de garantir la sécurité du public et d'éviter la diffusion de contenus toxiques, ainsi que les risques de censure et d'interférence gouvernementale. L'article souligne également le rôle des créateurs d'IA dans la filtration des contenus et les préoccupations concernant les biais cachés dans les modèles d'IA. Enfin, il soulève des questions importantes sur le rôle approprié des gouvernements dans la réglementation de l'IA, en particulier dans le contexte de l'innovation et de la liberté d'expression.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/669c7fe061569f115c59046d/0x0.jpg?format=jpg&crop=1022,765,x125,y0,safe&width=440",
         "date": "Sun, 21 Jul 2024 03:00:00 GMT"
-    },
-    {
-        "title": "Protéger les enfants à l'ère numérique",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/07/20/ai-shields-kids-by-revolutionizing-child-safety-and-online-protection/?ss=ai",
-        "body": "L'intelligence artificielle (IA) émerge comme un allié puissant pour protéger les enfants dans le monde numérique complexe d'aujourd'hui. L'IA surveille et analyse le contenu en ligne à grande échelle, filtrant les contenus nocifs et détectant les comportements prédateurs. Les entreprises comme Google et Facebook utilisent l'IA pour balayer les contenus inappropriés, garantissant ainsi un espace numérique sûr pour les enfants. L'IA lutte également contre le cyberharcèlement et promeut un environnement en ligne plus gentil. De plus, des organisations comme Thorn et le National Center for Missing & Exploited Children utilisent l'IA pour identifier et secourir les victimes de la traite et de l'exploitation sexuelle des enfants. L'IA joue aussi un rôle éducatif, enseignant aux enfants des habitudes en ligne sûres. Les applications de contrôle parental intégrant l'IA aident les parents à surveiller leurs enfants tout en respectant leur vie privée. Alors que l'IA se développe, sa capacité à comprendre le contexte et à reconnaître les nuances du comportement offrira une protection encore plus robuste pour les enfants. La collaboration entre les entreprises technologiques, les organisations à but non lucratif, les gouvernements et les communautés est essentielle pour garantir la sécurité des enfants dans l'évolution du paysage numérique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6699ec9bb2c406e9f739ac3c/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 20 Jul 2024 15:00:00 GMT"
-    },
-    {
-        "title": "OpenAI Échappe à une Poursuite en Justice",
-        "link": "https://news.bloomberglaw.com/ip-law/openai-dropped-from-first-ever-ai-programming-copyright-lawsuit",
-        "body": "OpenAI Inc. a évité une poursuite en justice pour violation de droits d'auteur de la part d'un groupe de programmeurs open-source, qui ont volontairement abandonné leur affaire contre l'entreprise. Les programmeurs alléguaient que l'outil d'IA générative Copilot, développé par OpenAI en collaboration avec GitHub et Microsoft, avait été formé à l'aide de leur code sans attribution adéquate. Bien qu'ils aient abandonné leur poursuite contre OpenAI, les programmeurs continuent leur action en justice contre GitHub et Microsoft, alléguant une violation des accords de licence open-source. La poursuite initiale, déposée en 2022, alléguait une violation du Digital Millennium Copyright Act par Copilot, qui pourrait produire des extraits de code protégés par droits d'auteur sans attribution ni conditions de licence appropriées. Bien que les réclamations DMCA aient été rejetées, les programmeurs poursuivent leurs autres réclamations.",
-        "image": "",
-        "date": "Sat, 20 Jul 2024 13:45:48 GMT"
     }
 ]
