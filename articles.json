@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Père Justin : ce prêtre d’IA était évidemment une mauvaise idée",
+        "title": "P\u00e8re Justin : ce pr\u00eatre d\u2019IA \u00e9tait \u00e9videmment une mauvaise id\u00e9e",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2087626_pere-justin-ce-pretre-dia-etait-evidemment-une-mauvaise-idee",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/father-justin-768x460.jpeg?resize=180,180&key=94252901",
         "date": "Sun, 21 Jul 2024 23:00:00 GMT",
@@ -82,5 +82,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/669eaa34d3b8432d22dded84/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 22 Jul 2024 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/07/22/were-closer-than-we-think-to-new-vr-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669edd58c83916005a3c980f/0x0.png?format=png&width=440",
+        "date": "Mon, 22 Jul 2024 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/07/22/the-urgent-need-to-protect-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669ed0d058cf3cfe27682300/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 22 Jul 2024 21:00:00 GMT",
+        "check": "no"
     }
 ]
