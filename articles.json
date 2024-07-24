@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Ces 3 technologies basées sur l’IA qui transforment complètement le jeu vidéo",
+        "title": "Ces 3 technologies bas\u00e9es sur l\u2019IA qui transforment compl\u00e8tement le jeu vid\u00e9o",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2083224_ces-3-technologies-basees-sur-lia-qui-transforment-completement-le-jeu-video",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/nvidia-ace-digital-human-resized-768x432.jpeg?resize=169,169&key=a7fe2caa",
         "date": "Mon, 22 Jul 2024 23:00:00 GMT",
@@ -145,5 +145,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/669fa090f5bd009e3d9e03a1/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 23 Jul 2024 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Mark Zuckerberg parie sur l\u2019open source : \u00ab Llama 3.1 deviendra la norme \u00bb en intelligence artificielle",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2090716_mark-zuckerberg-parie-sur-lopen-source-llama-3-1-deviendra-la-norme-en-intelligence-artificielle",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/dan-romero-jzcn8mq02ou-unsplash-768x512.jpg?resize=200,200&key=63007a85",
+        "date": "Mon, 22 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/23/use-generative-ai-to-boost-your-stonewalling-skills-so-you-dont-have-to-resign-get-fired-or-be-in-the-doghouse/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a03d0b62cfa29000da16a6/0x0.jpg?format=jpg&crop=1978,1483,x92,y0,safe&width=440",
+        "date": "Tue, 23 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2024/07/23/gms-cruise-kills-its-custom-origin-robotaxi-but-its-not-all-bad/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/650a535a45918eaabbbba905/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 23 Jul 2024 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/07/23/the-prompt-elon-musks-gigafactory-of-compute-is-running-in-memphis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669ff6195853ec3e36f4307d/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 23 Jul 2024 18:00:00 GMT",
+        "check": "no"
     }
 ]
