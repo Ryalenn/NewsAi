@@ -1,5 +1,19 @@
 [
     {
+        "title": "Bing's AI-First Approach",
+        "link": "https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign",
+        "body": "Bing, le moteur de recherche de Microsoft, met désormais l'IA au cœur de son expérience de recherche, avec des réponses générées par l'IA prenant une place centrale dans les résultats de recherche. Cette nouvelle interface, déployée pour un petit nombre de requêtes, propose des résumés générés par l'IA et aborde divers aspects de la question posée. La requête « Qu'est-ce qu'un western spaghetti ? » donne lieu à un résumé définissant le genre cinématographique, accompagné de points clés. Cette nouvelle expérience de recherche combine la recherche Bing avec des modèles linguistiques de grande et petite taille, permettant de comprendre la requête, d'analyser des millions de sources et de générer dynamiquement des résultats dans une nouvelle disposition. Microsoft prend également en compte l'impact potentiel sur le trafic de recherche, et les premières données suggèrent que cette approche maintient le nombre de clics vers les sites Web, soutenant ainsi un écosystème Web sain.",
+        "image": "",
+        "date": "Wed, 24 Jul 2024 20:58:31 GMT"
+    },
+    {
+        "title": "Kamala Harris et l'avenir de la tech",
+        "link": "https://www.theverge.com/24205360/kamala-harris-tech-policy-explainer-democratic-presidential-election",
+        "body": "Bien que la vice-présidente Kamala Harris soit devenue la favorite pour l'investiture présidentielle démocrate, sa position sur les politiques technologiques reste floue. Son expérience en tant que procureure générale de Californie et sénatrice suggère qu'elle pourrait être favorable à la réglementation de la protection de la vie privée et de l'IA, et qu'elle pourrait adopter une approche nuancée en matière de antitrust technologique. Harris a soutenu la réglementation de la vie privée, mais ses commentaires sur la scission des grandes entreprises technologiques sont ambigus. Elle a une expérience de travail sur la législation relative aux images non consensuelles et à la traite des êtres humains en ligne, et a exprimé son inquiétude concernant les préjugés dans les données d'entraînement de l'IA. En ce qui concerne l'immigration, Harris a soutenu la suppression des plafonds par pays pour les cartes vertes liées à l'emploi, ce qui est important pour le secteur technologique. Enfin, Harris a une relation complexe avec l'industrie crypto, et son administration pourrait chercher à améliorer les relations.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25541276/STK205_KAMALA_HARRIS_CVIRGINIA_B.jpg",
+        "date": "Wed, 24 Jul 2024 19:05:20 GMT"
+    },
+    {
         "title": "Protéger les individus contre les abus de l'IA",
         "link": "https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes",
         "body": "Le Sénat a adopté à l'unanimité un projet de loi permettant aux victimes d'images intimes non consensuelles créées par l'IA de poursuivre en justice leurs créateurs pour obtenir des dommages-intérêts. Le projet de loi DEFIANCE (Disrupt Explicit Forged Images and Non-Consensual Edits Act) autorise les victimes de « deepfakes » à intenter une action en justice civile contre les personnes ayant produit ou traité ces images dans l'intention de les distribuer. Le projet de loi prévoit des dommages-intérêts pouvant aller jusqu'à 150 000 dollars pour les victimes identifiables dans ces « deepfakes » et jusqu'à 250 000 dollars si l'incident est lié à une agression sexuelle, un harcèlement ou un stalking. Le chef de la majorité au Sénat, Chuck Schumer, a souligné l'importance de ce projet de loi, le qualifiant de « garde-fou » nécessaire pour prévenir les abus liés à l'IA et protéger les individus des conséquences potentiellement dévastatrices de ces technologies. Le projet de loi doit maintenant être adopté par la Chambre des représentants avant d'être présenté au président pour signature.",
@@ -194,19 +208,5 @@
         "body": "L'article explore l'évolution de la réalité virtuelle (VR) vers ce que les scientifiques appellent la VR 2.0, qui vise à combler le « fossé sensoriel » pour offrir une expérience virtuelle véritablement immersive. La VR 1.0 se concentre principalement sur la vue et l'ouïe, tandis que la VR 2.0 s'intéresse à une gamme plus large de réponses physiologiques, telles que la réponse vestibulaire, l'activité sensorielle et les réponses musculaires. Les chercheurs du MIT travaillent sur des projets qui « génèrent des actions et des sensations synthétiques », ouvrant ainsi la voie à une nouvelle façon de penser la réalité. L'accent est mis sur l'authentification des mondes virtuels, en s'assurant qu'ils semblent réels et en gérant la « maladie » associée aux incohérences entre les environnements physiques et virtuels. Les entreprises reconnaissent le potentiel de la réalité étendue (XR) pour révolutionner la communication, le divertissement et diverses industries. Le programme du MIT xPRO sur la réalité virtuelle et augmentée vise à donner aux professionnels les connaissances et les compétences nécessaires pour développer des applications XR innovantes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/669edd58c83916005a3c980f/0x0.png?format=png&width=440",
         "date": "Mon, 22 Jul 2024 22:00:00 GMT"
-    },
-    {
-        "title": "Sécuriser l'IA pour protéger notre monde numérique",
-        "link": "https://www.forbes.com/sites/tonybradley/2024/07/22/the-urgent-need-to-protect-ai/?ss=ai",
-        "body": "L'IA révolutionne la cybersécurité, améliorant la détection des menaces, les temps de réponse et les mécanismes de défense. Cependant, sa nature à double usage présente un défi significatif : alors que nous l'utilisons pour nous protéger, nous devons également sécuriser l'IA elle-même contre une éventuelle exploitation. L'intégration de l'IA dans les frameworks de cybersécurité a introduit de nouveaux vecteurs d'attaque, permettant aux acteurs malveillants de manipuler les données, de compromettre les modèles d'IA et d'utiliser l'IA pour naviguer au sein des réseaux organisationnels. Dan Lahav, co-auteur d'un rapport du RAND sur la sécurisation des poids des modèles d'IA, souligne la nécessité d'aborder la sécurité de l'IA avec une approche unique, car les mesures traditionnelles sont insuffisantes. Les organisations doivent adopter une approche multifactorielle, créant des benchmarks de sécurité, des systèmes d'alerte précoce et encourageant la recherche collaborative. Avec l'avancée de l'IA, le risque de voir ses capacités être utilisées à des fins néfastes augmente, ce qui nécessite une réévaluation constante des protocoles et des mécanismes de défense. L'article souligne l'urgence de protéger les systèmes d'IA, soulignant que l'avenir de la cybersécurité dépend de notre capacité à les sécuriser.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669ed0d058cf3cfe27682300/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 22 Jul 2024 21:00:00 GMT"
-    },
-    {
-        "title": "L'IA en éducation : transformer l'apprentissage",
-        "link": "https://www.forbes.com/sites/hessiejones/2024/07/22/future-proofing-education-ai-will-redefine-learning-and-teaching/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669eaa34d3b8432d22dded84/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 22 Jul 2024 19:00:00 GMT"
     }
 ]
