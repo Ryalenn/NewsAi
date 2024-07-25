@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises à jour les plus importantes d’Adobe Firefly à ce jour",
+        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises \u00e0 jour les plus importantes d\u2019Adobe Firefly \u00e0 ce jour",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/2092018_firefly-adobe-phostoshop-passe-la-seconde-sur-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/design-sans-titre-25-768x439.jpg?resize=171,171&key=7c41a7dd",
         "date": "Wed, 24 Jul 2024 23:00:00 GMT",
@@ -173,5 +173,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a1f33382896a9e4c63b9b6/0x0.jpg?format=jpg&crop=4008,3005,x519,y0,safe&width=440",
         "date": "Thu, 25 Jul 2024 12:30:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data",
+        "image": "",
+        "date": "Thu, 25 Jul 2024 14:46:02 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/07/25/karen-hao-empowers-journalists-to-unravel-ais-complexities-and-impacts/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a25143c1bb22805f46baa8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 25 Jul 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/neilsahota/2024/07/25/ai-energizes-your-career-path--charts-your-professional-growth-plan/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6676327de6f14acdb8a6a02d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 25 Jul 2024 14:00:00 GMT",
+        "check": "no"
     }
 ]
