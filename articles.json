@@ -203,7 +203,7 @@
         "check": "yes"
     },
     {
-        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises à jour les plus importantes d’Adobe Firefly à ce jour",
+        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises \u00e0 jour les plus importantes d\u2019Adobe Firefly \u00e0 ce jour",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/2092018_firefly-adobe-phostoshop-passe-la-seconde-sur-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/design-sans-titre-25-768x439.jpg?resize=171,171&key=7c41a7dd",
         "date": "Wed, 24 Jul 2024 23:00:00 GMT",
@@ -215,5 +215,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a1e78f55ed61c8edb81ba8/0x0.jpg?format=jpg&crop=3000,1688,x0,y312,safe&width=440",
         "date": "Thu, 25 Jul 2024 05:53:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/microsoft/2092462_microsoft-lance-la-recherche-generative-pour-faire-mieux-que-google-tout-comprendre-sur-cette-nouveaute",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/08/microsoft-bing-768x384.jpeg?resize=150,150&key=6cfc620c",
+        "date": "Wed, 24 Jul 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2092456_pourquoi-gemini-chatgpt-copilot-llama-pourraient-sauto-detruire-selon-ces-experts",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/capture-decran-2024-07-25-a-094511-768x419.jpg?resize=164,164&key=8da9fb1a",
+        "date": "Wed, 24 Jul 2024 23:00:00 GMT",
+        "check": "no"
     }
 ]
