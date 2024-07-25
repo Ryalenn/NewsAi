@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'essor de l'IA dans l'industrie cinématographique",
+        "link": "https://www.forbes.com/sites/charliefink/2024/07/24/civit-ai-film-contest-a-new-ai-feature-dishwashing-cats-more-ai-videos/?ss=ai",
+        "body": "L'IA fait de plus en plus parler d'elle dans l'industrie cinématographique, avec des studios utilisant cette technologie pour créer des films et des expériences visuelles immersives. Civitai a organisé un concours de cinéma en IA, Project Odyssey, avec des catégories variées et des prix totalisant 28 000 $. Pigeon Shrine, une nouvelle société de production de films en IA, a dévoilé son premier long métrage, \"Where the Robots Go\", réalisé par Tom Paton, grâce à un financement de 2 millions de dollars. Jeff Synthesized, un cinéaste de Los Angeles, consacre 16 heures par jour à son art, créant des projets intégrant l'IA. Son court métrage \"Dream Club\" utilise divers outils d'IA. \"Mother\", un court métrage d'horreur en IA de Metapuppet, a été créé avec 22 programmes d'IA différents, combinant des acteurs réels et des images générées par l'IA. L'IA offre de nouvelles possibilités narratives et réduit les coûts de production.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a189df0effa9ecc2b2386e/0x0.jpg?format=jpg&crop=1902,1069,x297,y0,safe&width=440",
+        "date": "Wed, 24 Jul 2024 23:00:00 GMT"
+    },
+    {
+        "title": "La révolution du marketing avec l'IA",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/07/24/enhancing-brand-awareness-through-innovative-storytelling/?ss=ai",
+        "body": "La campagne marketing \"This is Precision AI\" de Palo Alto Networks, avec Keanu Reeves, capture l'attention avec une approche narrative innovante. La campagne, dirigée par David Leitch, met en lumière le rôle crucial de l'IA dans la cybersécurité. L'utilisation d'une célébrité et d'une narration cinématographique élève le message de la marque, créant un lien émotionnel profond avec le public. \n\nLe CMO de Palo Alto Networks, Unnikrishnan KP, explique que l'objectif est de transformer la conversation technique en une expérience créative et attrayante, tout en conservant le discours technique pour le public approprié. L'implication de talents de premier plan dans la réalisation, la musique et les effets visuels garantit une production de haute qualité, rivalisant avec les blockbusters hollywoodiens. \n\nLa campagne établit une nouvelle norme pour le marketing de produits et services complexes, démontrant que l'intégration d'une narration de qualité, l'utilisation de talents reconnaissables et une stratégie d'engagement continue peuvent accroître la sensibilisation et favoriser une compréhension plus profonde de l'offre de l'entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a18d5df804927a13cd34f6/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 24 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "Bing's AI-First Approach",
         "link": "https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign",
         "body": "Bing, le moteur de recherche de Microsoft, met désormais l'IA au cœur de son expérience de recherche, avec des réponses générées par l'IA prenant une place centrale dans les résultats de recherche. Cette nouvelle interface, déployée pour un petit nombre de requêtes, propose des résumés générés par l'IA et aborde divers aspects de la question posée. La requête « Qu'est-ce qu'un western spaghetti ? » donne lieu à un résumé définissant le genre cinématographique, accompagné de points clés. Cette nouvelle expérience de recherche combine la recherche Bing avec des modèles linguistiques de grande et petite taille, permettant de comprendre la requête, d'analyser des millions de sources et de générer dynamiquement des résultats dans une nouvelle disposition. Microsoft prend également en compte l'impact potentiel sur le trafic de recherche, et les premières données suggèrent que cette approche maintient le nombre de clics vers les sites Web, soutenant ainsi un écosystème Web sain.",
         "image": "",
         "date": "Wed, 24 Jul 2024 20:58:31 GMT"
+    },
+    {
+        "title": "L'IA et la vie privée : les défis de la protection des données non structurées",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/07/24/is-unstructured-data-less-private/?ss=ai",
+        "body": "Bien que les discussions autour de l'IA portent souvent sur les questions de confidentialité, une exploration plus approfondie révèle que les données non structurées posent des défis uniques en matière de protection de la vie privée. Les nouveaux systèmes d'IA sont capables d'analyser les données non structurées et d'en extraire des informations sensibles, comme les données médicales protégées par la loi HIPAA. Bien que ces données puissent sembler moins personnelles et moins sensibles, l'IA peut néanmoins en tirer des conclusions et créer des récits personnels intrusifs. Les progrès technologiques, tels que les puces à 900 000 cœurs et 4 milliards de transistors, permettent à l'IA de traiter d'énormes quantités de données non structurées, soulignant ainsi l'importance de la gouvernance des données et de la propriété des données. En résumé, alors que l'IA évolue vers des ensembles de données non structurées, il est essentiel de considérer les implications en matière de confidentialité et de protéger les informations personnelles des individus.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a16582b3ce4845d77bd441/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 24 Jul 2024 20:00:00 GMT"
     },
     {
         "title": "Kamala Harris et l'avenir de la tech",
@@ -187,26 +208,5 @@
         "body": "Bien que l'IA soit présentée comme une technologie révolutionnaire pour tous les secteurs, il est important de nuancer cette affirmation. Si l'IA a le potentiel de transformer profondément les entreprises, les emplois et les industries, la réalité est plus nuancée et progressive. Les prédictions sensationnalistes sont souvent exagérées et basées sur le potentiel théorique de l'IA plutôt que sur ses capacités actuelles. De nombreux défis doivent être relevés avant que l'IA ne réalise pleinement son potentiel, notamment en matière de confiance, de réglementation, de protection des données et de biais. Bien que l'adoption de l'IA puisse prendre plus de temps que prévu, à long terme, son impact sera indéniablement transformateur, conduisant à des avancées et des efficacités significatives dans la façon dont nous travaillons et faisons des affaires.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/669f483457995d5135368bca/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 23 Jul 2024 06:06:00 GMT"
-    },
-    {
-        "title": "L'ambition de Meta avec Llama 3.1",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2090716_mark-zuckerberg-parie-sur-lopen-source-llama-3-1-deviendra-la-norme-en-intelligence-artificielle",
-        "body": "Meta lance Llama 3.1, un modèle d'IA open source avec 405 milliards de paramètres, visant à surpasser les leaders du marché comme OpenAI et Anthropic. Entraîné avec 16 000 GPU Nvidia H100, Llama 3.1 est mis à disposition gratuitement, avec l'ambition d'accélérer l'innovation dans le domaine de l'IA. Mark Zuckerberg compare l'IA open source à l'évolution de Linux dans les systèmes d'exploitation, prédisant que l'assistant IA de Meta, basé sur Llama 3.1, dépassera ChatGPT en termes d'utilisation. Malgré certaines restrictions sur les données d'entraînement et la licence commerciale, la stratégie de Meta pourrait bien disrupter le marché et conduire à une multitude d'applications innovantes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/dan-romero-jzcn8mq02ou-unsplash-768x512.jpg?resize=200,200&key=63007a85",
-        "date": "Mon, 22 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au cœur du jeu vidéo",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2083224_ces-3-technologies-basees-sur-lia-qui-transforment-completement-le-jeu-video",
-        "body": "L'article explore le rôle croissant de l'IA dans l'industrie du jeu vidéo, en se concentrant sur les efforts de Nvidia pour intégrer l'IA à ses technologies de jeu. L'IA est déjà utilisée depuis des années pour améliorer la qualité de l'affichage et les performances en jeu, comme avec la technologie DLSS de Nvidia. La société a récemment dévoilé Nvidia Ace, une technologie permettant de créer des personnages non-joueurs plus réalistes et immersifs, capables de réagir en temps réel aux actions du joueur. Nvidia a également présenté G-Assist, un assistant en jeu qui peut aider les joueurs à configurer leurs paramètres et fournir des réponses à des questions sur le jeu. L'entreprise prévoit de proposer des fonctionnalités plus avancées à l'avenir, telles que l'analyse des performances et la suggestion de stratégies.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/nvidia-ace-digital-human-resized-768x432.jpeg?resize=169,169&key=a7fe2caa",
-        "date": "Mon, 22 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La Réalité Virtuelle 2.0",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/07/22/were-closer-than-we-think-to-new-vr-models/?ss=ai",
-        "body": "L'article explore l'évolution de la réalité virtuelle (VR) vers ce que les scientifiques appellent la VR 2.0, qui vise à combler le « fossé sensoriel » pour offrir une expérience virtuelle véritablement immersive. La VR 1.0 se concentre principalement sur la vue et l'ouïe, tandis que la VR 2.0 s'intéresse à une gamme plus large de réponses physiologiques, telles que la réponse vestibulaire, l'activité sensorielle et les réponses musculaires. Les chercheurs du MIT travaillent sur des projets qui « génèrent des actions et des sensations synthétiques », ouvrant ainsi la voie à une nouvelle façon de penser la réalité. L'accent est mis sur l'authentification des mondes virtuels, en s'assurant qu'ils semblent réels et en gérant la « maladie » associée aux incohérences entre les environnements physiques et virtuels. Les entreprises reconnaissent le potentiel de la réalité étendue (XR) pour révolutionner la communication, le divertissement et diverses industries. Le programme du MIT xPRO sur la réalité virtuelle et augmentée vise à donner aux professionnels les connaissances et les compétences nécessaires pour développer des applications XR innovantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669edd58c83916005a3c980f/0x0.png?format=png&width=440",
-        "date": "Mon, 22 Jul 2024 22:00:00 GMT"
     }
 ]
