@@ -1,5 +1,26 @@
 [
     {
+        "title": "The AI Race Heats Up",
+        "link": "https://www.theverge.com/2024/7/26/24206274/the-ai-race-big-shift-models-to-products",
+        "body": "L'article met en lumière l'évolution rapide de la course à l'IA, avec un recentrage sur les produits alimentés par l'IA plutôt que sur les modèles eux-mêmes. Mark Zuckerberg mène une campagne agressive pour réduire le coût d'accès aux modèles d'IA fondamentaux, avec Llama 3.1 de Meta, qui rivalise avec les performances de l'IA open source et fermée. Zuckerberg espère que le marché des modèles d'IA évoluera comme la compétition Linux vs Unix au début des années 2000, où les standards ouverts ont réduit les coûts et gagné en adoption. Meta et les autres géants technologiques sont bien positionnés dans cette nouvelle ère, car la valeur et l'avantage concurrentiel proviendront des produits alimentés par les modèles d'IA plutôt que des modèles eux-mêmes.",
+        "image": "",
+        "date": "Fri, 26 Jul 2024 18:01:45 GMT"
+    },
+    {
+        "title": "La magie de l'IA avec Pixel 9",
+        "link": "https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak",
+        "body": "Le Pixel 9 de Google fait l'objet de nombreuses fuites, dont une publicité révélant une nouvelle fonctionnalité appelée \"Add Me\". Cette fonctionnalité utilise l'IA pour combiner deux images avec le même arrière-plan, permettant ainsi à l'utilisateur d'être inclus dans une photo de groupe même s'il n'était pas présent initialement. Le téléphone présente également d'autres fonctionnalités d'IA, telles que l'assistant Gemini et \"Pixel Screenshots\", qui utilise l'IA pour rechercher dans les captures d'écran. De plus, une autre fonctionnalité appelée Magic Editor permet de modifier l'arrière-plan d'une photo, tandis que Magic Eraser permet de supprimer des éléments indésirables. Ces outils d'IA offrent une expérience photographique améliorée, brouillant la ligne entre le réel et le virtuel.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2360x1532/2400x1600/filters:focal(1180x766:1181x767):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25547283/google_pixel_add_me.png",
+        "date": "Fri, 26 Jul 2024 17:23:54 GMT"
+    },
+    {
+        "title": "L'IA, une collaboratrice créative de confiance ?",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/26/how-to-use-ai-as-your-creative-sparring-partner/?ss=ai",
+        "body": "L'IA peut être un outil puissant pour stimuler et nourrir notre créativité, mais pouvons-nous lui faire confiance avec nos projets artistiques ? Bien que l'IA ait un potentiel incroyable, notamment dans sa forme créative, une méfiance humaine persiste. L'article explore comment l'IA peut être considérée comme une collaboratrice plutôt qu'une concurrente, aidant les professionnels à révéler leurs étincelles d'inspiration les plus inspirantes. Bien que l'IA ne puisse pas encore rivaliser avec les meilleurs écrivains humains dans la création de récits longs, elle excelle dans certains aspects de la création de contenu, comme le brainstorming, la recherche et le filtrage des contenus. Ces capacités peuvent libérer le temps et l'énergie mentale des professionnels, leur permettant de se concentrer sur les aspects véritablement créatifs. L'IA peut également améliorer la productivité, éliminer les préjugés humains dans les processus de sélection et offrir des avantages dans divers domaines professionnels, notamment le marketing, la publicité, l'éducation et la gestion des tâches ménagères. En fin de compte, l'IA offre la possibilité de transcender le quotidien et de libérer notre créativité tout en travaillant en collaboration.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669a969001242ffde563ca4f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 26 Jul 2024 17:00:00 GMT"
+    },
+    {
         "title": "La fin de Google ?",
         "link": "https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast",
         "body": "Résumé : \n\nL'épisode du Vergecast explore l'avenir de la recherche en ligne, avec l'émergence de produits comme SearchGPT d'OpenAI qui pourraient menacer la domination de Google Search. Malgré la domination continue de Google sur le marché et ses bénéfices énormes, l'évolution de la toile et l'audace croissante des entreprises d'IA remettent en question les règles et les normes établies. L'épisode aborde également d'autres sujets, notamment les projets Alexa d'Amazon, les derniers gadgets Samsung et Asus, et l'avenir de la diffusion en continu avec la prévalence des publicités.",
@@ -194,19 +215,5 @@
         "body": "Bien que la vice-présidente Kamala Harris soit devenue la favorite pour l'investiture présidentielle démocrate, sa position sur les politiques technologiques reste floue. Son expérience en tant que procureure générale de Californie et sénatrice suggère qu'elle pourrait être favorable à la réglementation de la protection de la vie privée et de l'IA, et qu'elle pourrait adopter une approche nuancée en matière de antitrust technologique. Harris a soutenu la réglementation de la vie privée, mais ses commentaires sur la scission des grandes entreprises technologiques sont ambigus. Elle a une expérience de travail sur la législation relative aux images non consensuelles et à la traite des êtres humains en ligne, et a exprimé son inquiétude concernant les préjugés dans les données d'entraînement de l'IA. En ce qui concerne l'immigration, Harris a soutenu la suppression des plafonds par pays pour les cartes vertes liées à l'emploi, ce qui est important pour le secteur technologique. Enfin, Harris a une relation complexe avec l'industrie crypto, et son administration pourrait chercher à améliorer les relations.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25541276/STK205_KAMALA_HARRIS_CVIRGINIA_B.jpg",
         "date": "Wed, 24 Jul 2024 19:05:20 GMT"
-    },
-    {
-        "title": "Protéger les individus contre les abus de l'IA",
-        "link": "https://www.theverge.com/2024/7/24/24205275/senate-passes-defiance-act-non-consensual-intimate-ai-deepfakes",
-        "body": "Le Sénat a adopté à l'unanimité un projet de loi permettant aux victimes d'images intimes non consensuelles créées par l'IA de poursuivre en justice leurs créateurs pour obtenir des dommages-intérêts. Le projet de loi DEFIANCE (Disrupt Explicit Forged Images and Non-Consensual Edits Act) autorise les victimes de « deepfakes » à intenter une action en justice civile contre les personnes ayant produit ou traité ces images dans l'intention de les distribuer. Le projet de loi prévoit des dommages-intérêts pouvant aller jusqu'à 150 000 dollars pour les victimes identifiables dans ces « deepfakes » et jusqu'à 250 000 dollars si l'incident est lié à une agression sexuelle, un harcèlement ou un stalking. Le chef de la majorité au Sénat, Chuck Schumer, a souligné l'importance de ce projet de loi, le qualifiant de « garde-fou » nécessaire pour prévenir les abus liés à l'IA et protéger les individus des conséquences potentiellement dévastatrices de ces technologies. Le projet de loi doit maintenant être adopté par la Chambre des représentants avant d'être présenté au président pour signature.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4500x3001/2400x1600/filters:focal(2250x1501:2251x1502):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25544255/2162439650.jpg",
-        "date": "Wed, 24 Jul 2024 17:47:58 GMT"
-    },
-    {
-        "title": "Reddit restreint l'accès aux données pour les moteurs de recherche",
-        "link": "https://www.theverge.com/2024/7/24/24205244/reddit-blocking-search-engine-crawlers-ai-bot-google",
-        "body": "Résumé : Reddit renforce sa lutte contre les web crawlers et bloque désormais les moteurs de recherche qui souhaitent accéder aux publications et commentaires récents, à moins qu'ils ne paient pour y accéder. Google est actuellement le seul moteur de recherche grand public qui peut afficher des résultats récents de Reddit grâce à un accord de 60 millions de dollars qui lui permet d'utiliser les données de Reddit pour entraîner ses modèles IA. Cette décision s'inscrit dans le cadre des efforts de Reddit pour protéger ses données et générer de nouvelles sources de revenus. La plateforme a également rendu son API plus coûteuse pour les développeurs tiers et a menacé de couper l'accès à Google s'ils continuaient à utiliser ses données gratuitement pour l'IA. Ce changement a conduit de nombreux utilisateurs à se tourner vers Google pour trouver des réponses humaines aux questions, ce qui peut être frustrant pour ceux qui préfèrent d'autres moteurs de recherche.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25137774/STK115_Reddit_04.jpg",
-        "date": "Wed, 24 Jul 2024 16:29:55 GMT"
     }
 ]
