@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nanotechnologie et médecine : une révolution en marche",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/07/25/nanotech-and-bioelectronics-we-have-to-pay-attention-to-this/?ss=ai",
+        "body": "La nanotechnologie est en train de révolutionner le domaine médical, en particulier dans le cadre d'interventions anatomiques. Les implants de plus en plus petits, au niveau cellulaire, permettent une approche non invasive qui pourrait rendre obsolètes de nombreuses chirurgies. Les recherches récentes suggèrent la possibilité de créer des nanostructures complexes coexistant avec la biologie humaine fragile. Deblina Sarkar, une experte en biotechnologie, présente une vision passionnante de la fusion de l'électronique et de la biologie, permettant la création de dispositifs électroniques libres flottants qui imitent les structures biomoléculaires. Cette approche a le potentiel de révolutionner de nombreux domaines, de l'oncologie à la dentisterie, en passant par la lutte contre le vieillissement. Bien que les implications éthiques et réglementaires nécessitent une attention particulière, la nanotechnologie médicale semble prête à transformer radicalement la pratique médicale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65393b34fbd1aefc732f02c4/0x0.jpg?format=jpg&crop=1354,761,x237,y191,safe&width=440",
+        "date": "Thu, 25 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "La formation d'un modèle AI controversé",
         "link": "https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report",
         "body": "Le modèle AI de Runway, capable de générer des vidéos à partir de textes, a été formé à l'aide de milliers de vidéos YouTube et de films piratés, selon un rapport de 404 Media. La liste des données de formation comprend des chaînes YouTube de grandes entreprises du divertissement et de créateurs populaires, ainsi que des sites de piratage de contenus animés. Bien que Runway affirme utiliser des datasets internes pour l'entraînement, la provenance exacte des données du modèle Gen-3 Alpha reste incertaine. Cet incident soulève des questions sur l'éthique de l'utilisation de contenus en ligne pour l'entraînement AI, notamment en ce qui concerne les violations de politiques de plateformes comme YouTube.",
@@ -194,40 +201,5 @@
         "body": "L'intelligence artificielle (IA) fascine depuis des années, mais c'est surtout le sous-domaine de l'IA générative qui a récemment captivé l'imagination du public. L'IA générative désigne des systèmes d'IA capables de créer du contenu original, comme du texte, des images, de la musique ou même du code informatique. Le modèle GPT (Generative Pre-trained Transformer) d'OpenAI est le plus célèbre, notamment grâce à ChatGPT, qui est devenu une célébrité en soi. La popularité de GPT est due à sa capacité à générer du texte cohérent et créatif, et à son adoption généralisée dans diverses applications. Bien que GPT soit en tête, d'autres modèles impressionnants existent, chacun avec ses forces uniques. La course à l'intégration de l'IA générative dans divers produits et services est lancée, avec des assistants à l'écriture, des générateurs de code et même des thérapeutes IA. Cependant, l'évolution rapide de l'IA générative soulève également des questions importantes sur le droit d'auteur, le remplacement des emplois et la désinformation. Alors que l'IA générative s'intègre à nos vies quotidiennes, de l'éducation personnalisée aux diagnostics de santé avancés, son impact ne fait que commencer. La concurrence est féroce et l'IA générative est une révolution technologique qui va durer.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a09354cd6ff91102477f6b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 24 Jul 2024 05:00:00 GMT"
-    },
-    {
-        "title": "Meta AI étend ses fonctionnalités et sa disponibilité",
-        "link": "https://www.frandroid.com/marques/meta/2090996_et-si-les-filtres-snapchat-cetait-depasse-meta-ai-veut-les-enterrer",
-        "body": "Meta a annoncé plusieurs nouveautés concernant son assistant IA, Meta AI. La firme a dévoilé Llama 3.1, une mise à jour de son LLM destinée à surpasser ChatGPT et Gemini. Meta AI est désormais disponible dans de nouveaux pays, bien qu'il ne soit toujours pas accessible au sein de l'Union européenne. Une nouvelle fonctionnalité, \"Imagine Me\", a été introduite, permettant aux utilisateurs de transformer leurs photos en fonction de leurs préférences. \"Imagine Me\" utilise un modèle de personnalisation avancé pour créer des images à partir d'une photo et d'une requête textuelle. De plus, Meta prévoit de déployer la génération d'images directement dans les publications Facebook et Instagram, ainsi que dans les discussions WhatsApp et Messenger en anglais dans un premier temps. La société vise à faciliter la retouche photo pour les utilisateurs non initiés aux logiciels spécialisés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/meta-ai-imagine-me-768x429.jpeg?resize=167,167&key=484d6560",
-        "date": "Tue, 23 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, une machine à billets pour Google",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2090970_lempire-google-senrichit-lia-booste-les-benefices-pas-forcement-la-qualite",
-        "body": "Alphabet, la maison-mère de Google, a annoncé des résultats financiers impressionnants pour le deuxième trimestre 2024, avec un chiffre d'affaires de 84,7 milliards de dollars et un bénéfice en hausse de 29 % à 23,6 milliards de dollars. Sundar Pichai, le PDG de Google, attribue cette réussite aux initiatives en IA, qui génèrent une nouvelle croissance. Les solutions d'IA générative pour le cloud auraient déjà rapporté des milliards et sont utilisées par plus de 2 millions de développeurs. Malgré les controverses et les bugs, Google considère AI Overviews comme un grand progrès. Cependant, ces résultats cachent des zones d'ombre, comme les dépenses astronomiques en infrastructures et les critiques sur la qualité des services de Google. L'entreprise doit maintenant concilier sa croissance fulgurante avec l'amélioration de ses services.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/google-marque-768x512.jpg?resize=200,200&key=08c5368a",
-        "date": "Tue, 23 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Tesla parie sur l'IA pour les robotaxis",
-        "link": "https://www.frandroid.com/marques/tesla/2090880_elon-musk-promet-une-valorisation-de-5000-milliards-pour-tesla-mais-les-chiffres-racontent-une-autre-histoire",
-        "body": "Malgré une chute de 45 % de ses bénéfices, Tesla et Elon Musk misent sur l'avenir de l'entreprise avec les robotaxis. Le projet, repoussé à octobre, vise à transformer tous les véhicules Tesla en une \"flotte autonome géante\", valorisant l'entreprise à 5 000 milliards de dollars. L'entreprise investit massivement dans l'IA, étendant sa \"gigafactory\" au Texas pour accueillir 50 000 puces de supercalculateurs dédiées à l'apprentissage de la conduite autonome. Les dépenses opérationnelles ont grimpé de 39 %, pesant sur les marges. Tesla fait face à un défi de taille, entre la concurrence sur le marché des voitures électriques et son pari risqué sur les technologies futuristes, tout en misant sur l'IA. L'action a chuté de plus de 8 % après l'annonce des résultats, mais Elon Musk reste convaincu que la résolution du problème de la conduite autonome révolutionnera la valeur de Tesla.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/marque-tesla-768x533.jpg?resize=208,208&key=cda2e424",
-        "date": "Tue, 23 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence retardée",
-        "link": "https://www.frandroid.com/marques/apple/2090784_ios-18-apple-intelligence-tarde-a-arriver-au-grand-dam-des-beta-testeurs",
-        "body": "Apple a publié une quatrième bêta de son système d'exploitation mobile iOS 18, mais sa fonctionnalité phare, Apple Intelligence, une IA très attendue, est absente. Apple a annoncé que les fonctionnalités d'IA arriveront plus tard sur les versions bêta et pour le grand public \"cet automne\", mais le calendrier reste vague. Cette attente suscite l'impatience des bêta-testeurs, en particulier en dehors de l'Europe, où les fonctionnalités d'IA seront absentes. Les changements mineurs dans la dernière bêta incluent des ajustements esthétiques et l'adoption progressive du standard RCS.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/ihqkowgxze-768x432.jpg?resize=169,169&key=2bf6de9d",
-        "date": "Tue, 23 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA comme outil d'amélioration des compétences en obstruction",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/23/use-generative-ai-to-boost-your-stonewalling-skills-so-you-dont-have-to-resign-get-fired-or-be-in-the-doghouse/?ss=ai",
-        "body": "L'article explore l'idée d'utiliser l'IA générative pour améliorer ses compétences en obstruction, une tactique courante dans divers contextes de la vie. L'obstruction est considérée à la fois comme répréhensible et récompensée, et l'auteur suggère que c'est une compétence qui peut être affinée. L'IA générative peut servir de tuteur et de confident pour pratiquer l'obstruction, offrant un espace privé pour s'entraîner et recevoir des commentaires. L'article fournit des exemples de conversations avec ChatGPT pour illustrer l'apprentissage de l'obstruction, y compris des stratégies et des phrases spécifiques. Il aborde également les considérations éthiques, soulignant l'importance de la transparence, de l'honnêteté et de la confiance dans les relations. Bien que l'utilisation de l'IA pour améliorer l'obstruction puisse être controversée, l'auteur suggère qu'elle peut également sensibiliser aux risques et potentiellement réduire la dépendance à cette tactique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a03d0b62cfa29000da16a6/0x0.jpg?format=jpg&crop=1978,1483,x92,y0,safe&width=440",
-        "date": "Tue, 23 Jul 2024 23:00:00 GMT"
     }
 ]
