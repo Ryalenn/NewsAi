@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises à jour les plus importantes d’Adobe Firefly à ce jour",
+        "title": "Les nouveaux outils Photoshop et Illustrator sont les mises \u00e0 jour les plus importantes d\u2019Adobe Firefly \u00e0 ce jour",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/2092018_firefly-adobe-phostoshop-passe-la-seconde-sur-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/design-sans-titre-25-768x439.jpg?resize=171,171&key=7c41a7dd",
         "date": "Wed, 24 Jul 2024 23:00:00 GMT",
@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "Mistral Large 2 annoncé : pourquoi vous devez essayer (gratuitement) ce modèle d’IA",
+        "title": "Mistral Large 2 annonc\u00e9 : pourquoi vous devez essayer (gratuitement) ce mod\u00e8le d\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2093724_mistral-large-2-annonce-pourquoi-vous-devez-essayer-gratuitement-ce-modele-dia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/capture-decran-2024-07-25-a-194732-768x416.png?resize=162,162&key=946d445a",
         "date": "Wed, 24 Jul 2024 23:00:00 GMT",
@@ -189,10 +189,17 @@
         "check": "yes"
     },
     {
-        "title": "Google en danger : OpenAI dévoile SearchGPT, son moteur de recherche nouvelle génération, moderne, et propulsé par l’intelligence artificielle",
+        "title": "Google en danger : OpenAI d\u00e9voile SearchGPT, son moteur de recherche nouvelle g\u00e9n\u00e9ration, moderne, et propuls\u00e9 par l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2093752_google-en-danger-openai-devoile-searchgpt-son-moteur-de-recherche-moderne-ameliore-et-propulse-par-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/openai-searchgpt-768x432.jpg?resize=169,169&key=4ded9036",
         "date": "Wed, 24 Jul 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/07/25/nanotech-and-bioelectronics-we-have-to-pay-attention-to-this/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65393b34fbd1aefc732f02c4/0x0.jpg?format=jpg&crop=1354,761,x237,y191,safe&width=440",
+        "date": "Thu, 25 Jul 2024 23:00:00 GMT",
+        "check": "no"
     }
 ]
