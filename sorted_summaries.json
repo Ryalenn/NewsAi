@@ -103,33 +103,5 @@
         "body": "L'ancien quart-arrière de la NFL, Colin Kaepernick, lance Lumi, une plateforme qui utilise l'IA pour démocratiser le processus créatif de création de bandes dessinées et de mangas. Lumi a pour mission de rendre la narration accessible à tous, en aidant les créateurs à développer leurs idées, de la conception des personnages à la publication finale. La plateforme propose des outils d'IA pour aider à la conception des personnages, à la rédaction et à l'édition des dialogues, et même à la création d'images. Lumi se distingue également en permettant aux créateurs de conserver tous les droits sur leur travail et en offrant des outils intégrés de publication et de merchandising pour la monétisation. Bien que prometteuse, la plateforme devra faire face à des défis tels que la qualité du contenu généré par l'IA et la saturation du marché.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a2c73bbbe6f33fa388ec53/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 25 Jul 2024 21:00:00 GMT"
-    },
-    {
-        "title": "La formation d'un modèle AI controversé",
-        "link": "https://www.theverge.com/2024/7/25/24206120/runway-ai-video-generator-scraped-youtube-videos-report",
-        "body": "Le modèle AI de Runway, capable de générer des vidéos à partir de textes, a été formé à l'aide de milliers de vidéos YouTube et de films piratés, selon un rapport de 404 Media. La liste des données de formation comprend des chaînes YouTube de grandes entreprises du divertissement et de créateurs populaires, ainsi que des sites de piratage de contenus animés. Bien que Runway affirme utiliser des datasets internes pour l'entraînement, la provenance exacte des données du modèle Gen-3 Alpha reste incertaine. Cet incident soulève des questions sur l'éthique de l'utilisation de contenus en ligne pour l'entraînement AI, notamment en ce qui concerne les violations de politiques de plateformes comme YouTube.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
-        "date": "Thu, 25 Jul 2024 18:19:03 GMT"
-    },
-    {
-        "title": "Le futur de l'IA",
-        "link": "https://www.forbes.com/sites/charliefink/2024/07/25/cohere-ais-500-million-series-d-musks-memphis-gigagactory-cuts-at-magic-leap-meta-reality-labs/?ss=ai",
-        "body": "Le texte couvre une variété de sujets, mais les points clés pour l'IA sont :\n\n- Cohere, une startup d'IA basée à Toronto, a levé 500 millions de dollars, valorisant l'entreprise à 5,5 milliards de dollars.\n- XAI, une entreprise d'Elon Musk, a ouvert un énorme centre de données à Memphis, avec 100 000 puces Nvidia H100, pour former des modèles d'IA.\n- L'ancien quart-arrière de la NFL, Colin Kaepernick, a lancé Lumi Story AI, qui aide les créateurs de contenu grâce à des outils d'IA.\n- Meta a publié Llama 3.1, son dernier modèle d'IA open source, avec trois versions, dont la plus grande est la plus avancée à ce jour.\n- Les nouvelles fonctionnalités de génération d'images de l'assistant IA de Meta sont désormais disponibles sur WhatsApp, Instagram et Messenger.\n- Meta investit des milliards pour acquérir environ 5 % d'EssilorLuxottica, collaborant ainsi à la fabrication de lunettes de réalité augmentée Ray-Ban.\n- Magic Leap change de stratégie et se concentre sur la vente de composants pour les casques d'autres entreprises.\n\nLe texte mentionne également plusieurs autres développements dans le domaine de l'IA, notamment des concours de films d'IA, des outils de création de contenu AR basés sur l'IA et des améliorations des plateformes de réalité virtuelle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/662b303afc6ae403de9a9e0e/0x0.jpg?format=jpg&crop=2738,1539,x0,y106,safe&width=440",
-        "date": "Thu, 25 Jul 2024 18:17:00 GMT"
-    },
-    {
-        "title": "OpenAI lance SearchGPT, un moteur de recherche alimenté par l'IA",
-        "link": "https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival",
-        "body": "OpenAI lance SearchGPT, un moteur de recherche alimenté par l'IA et basé sur la famille de modèles GPT-4. Il s'agit actuellement d'un prototype accessible à 10 000 utilisateurs test, qui vise à concurrencer Google en organisant et en faisant sens des liens plutôt qu'en fournissant une simple liste. SearchGPT fournit des résumés, des descriptions et des réponses visuelles, et permet aux utilisateurs de poser des questions de suivi. OpenAI collabore avec des partenaires tiers et des organisations médiatiques pour développer la fonctionnalité, qui sera éventuellement intégrée à ChatGPT. La société reconnaît les défis potentiels en matière d'attribution et d'exactitude, et souligne sa collaboration avec des éditeurs pour gérer leur contenu. Les coûts de fonctionnement d'OpenAI augmentent avec les progrès rapides de ChatGPT, et la monétisation de SearchGPT devra être envisagée.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462010/STK155_OPEN_AI_CVirginia_D.jpg",
-        "date": "Thu, 25 Jul 2024 18:00:00 GMT"
-    },
-    {
-        "title": "Gemini 1.5 Flash",
-        "link": "https://www.theverge.com/2024/7/25/24206071/google-gemini-ai-flash-upgrade",
-        "body": "Google améliore son chatbot Gemini AI avec une mise à niveau vers le modèle d'IA Gemini 1.5 Flash, offrant des réponses plus rapides et une meilleure compréhension des images et du raisonnement. La fenêtre de contexte de Gemini est également quadruplée, permettant au modèle de traiter de plus grandes quantités de texte. Ces améliorations sont désormais disponibles dans la version gratuite de Gemini sur le web et les appareils mobiles. De plus, Google annonce l'ajout de liens vers du contenu connexe pour les recherches factuelles, ainsi que le déploiement progressif de Gemini dans Google Messages en Europe et dans d'autres régions. Gemini pour les adolescents sera disponible dans 40 langues dès la semaine prochaine.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
-        "date": "Thu, 25 Jul 2024 16:00:00 GMT"
     }
 ]
