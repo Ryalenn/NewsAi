@@ -7,6 +7,13 @@
         "date": "Sat, 27 Jul 2024 11:59:00 GMT"
     },
     {
+        "title": "Nio Phone 2 : l'IA au cœur de l'expérience utilisateur",
+        "link": "https://www.frandroid.com/marques/nio/2095142_le-nio-phone-2-est-la-un-smartphone-concu-pour-les-passionnes-de-voitures-electriques",
+        "body": "Le constructeur automobile chinois Nio a lancé le Nio Phone 2, un smartphone haut de gamme qui s'intègre parfaitement à l'écosystème de ses voitures électriques. Le téléphone est équipé d'un processeur Snapdragon 8 Gen 3, d'un écran OLED Samsung de 6,82 pouces et d'une batterie de 5 020 mAh. Mais ce qui le distingue, c'est son intégration poussée avec les véhicules Nio, grâce à un bouton dédié permettant de contrôler diverses fonctions de la voiture et à l'assistant IA NOMI, qui offre des interactions en langage naturel avancées. Le Nio Phone 2 incarne ainsi une vision technologique globale, étendant les fonctionnalités de l'IA au-delà de l'habitacle des véhicules.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/img-9145-768x601.jpeg?resize=235,235&key=f69fe06f",
+        "date": "Fri, 26 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "Le réseau social X utilise désormais les tweets pour entraîner son IA Grok",
         "link": "https://www.forbes.com/sites/johnkoetsier/2024/07/26/x-just-gave-itself-permission-to-use-all-your-data-to-train-grok/?ss=ai",
         "body": "Le réseau social X, appartenant à Elon Musk, a discrètement autorisé l'utilisation des publications de ses utilisateurs pour entraîner Grok, un modèle d'IA développé par X.ai, une autre entreprise de Musk. Cette découverte, faite par un utilisateur de Twitter, a soulevé des questions sur la nature agressive de cette collecte de données. Bien que les tweets soient publics et aient probablement été utilisés par d'autres entreprises d'IA, X n'a pas annoncé cette pratique. OpenAI a confirmé l'utilisation de données publiques de Twitter pour entraîner ChatGPT, tandis que Meta utilise également des publications publiques de Facebook et Instagram. Bien que cette pratique soit courante dans le domaine de l'IA, la discrétion de X soulève des préoccupations en matière de vie privée. L'article fournit également des instructions pour désactiver l'utilisation des publications d'un utilisateur à des fins d'entraînement de Grok.",
@@ -124,26 +131,5 @@
         "body": "Google améliore son chatbot Gemini AI avec une mise à niveau vers le modèle d'IA Gemini 1.5 Flash, offrant des réponses plus rapides et une meilleure compréhension des images et du raisonnement. La fenêtre de contexte de Gemini est également quadruplée, permettant au modèle de traiter de plus grandes quantités de texte. Ces améliorations sont désormais disponibles dans la version gratuite de Gemini sur le web et les appareils mobiles. De plus, Google annonce l'ajout de liens vers du contenu connexe pour les recherches factuelles, ainsi que le déploiement progressif de Gemini dans Google Messages en Europe et dans d'autres régions. Gemini pour les adolescents sera disponible dans 40 langues dès la semaine prochaine.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg",
         "date": "Thu, 25 Jul 2024 16:00:00 GMT"
-    },
-    {
-        "title": "ClaudeBot sème la controverse en effectuant une collecte de données intensive",
-        "link": "https://www.theverge.com/2024/7/25/24205943/anthropic-ai-web-crawler-claudebot-ifixit-scraping-training-data",
-        "body": "Le web crawler ClaudeBot, utilisé par Anthropic pour collecter des données d'entraînement pour ses modèles d'IA comme Claude, a surchargé le site web iFixit avec près d'un million de requêtes en 24 heures, violant apparemment les conditions d'utilisation du site. iFixit a souligné que ses conditions d'utilisation interdisent explicitement l'utilisation de son contenu pour l'entraînement de modèles d'IA sans autorisation préalable. En réponse, Anthropic a renvoyé à une FAQ indiquant que son crawler ne peut être bloqué que via un fichier robots.txt. iFixit n'est pas le seul site affecté, d'autres entreprises ont rapporté une activité de scraping agressive de la part de ClaudeBot, entraînant même une panne de site pour Linux Mint. Cette situation soulève des questions sur les méthodes de collecte de données des entreprises d'IA et les options limitées dont disposent les propriétaires de sites web pour contrôler l'utilisation de leurs données.",
-        "image": "",
-        "date": "Thu, 25 Jul 2024 14:46:02 GMT"
-    },
-    {
-        "title": "L'avenir du journalisme sur l'IA",
-        "link": "https://www.forbes.com/sites/hessiejones/2024/07/25/karen-hao-empowers-journalists-to-unravel-ais-complexities-and-impacts/?ss=ai",
-        "body": "Résumé : \n\nKaren Hao, journaliste et contributrice pour *The Atlantic*, a animé une série de cours en ligne intitulée \"AI Spotlight\", axée sur la compréhension de l'intelligence artificielle (IA) en tant que force façonnant les dynamiques de pouvoir et les structures sociales. L'IA, contrairement aux innovations technologiques précédentes, évolue à un rythme que la société et la loi ne peuvent suivre, ce qui profite aux grandes entreprises technologiques. Hao, connue pour sa plume sur l'IA, a souligné l'importance pour les journalistes de démystifier l'IA pour le public, en évitant les pièges courants tels que l'acceptation de l'IA sans remise en question de ses prémisses sous-jacentes ou la dépendance à des sources potentiellement biaisées. La série de cours vise à fournir aux journalistes les connaissances et les outils nécessaires pour couvrir l'IA de manière efficace et responsable, en se concentrant sur les questions de désinformation, de techniques de mitigation des risques de données et de méthodes de sourcing internes. Hao souligne également l'importance de se rappeler l'élément humain dans les histoires d'IA, en mettant l'accent sur l'impact de l'IA sur les individus et la société dans son ensemble. Enfin, elle encourage les journalistes à penser de manière créative et à adapter leur approche à mesure que l'IA évolue, afin de fournir une couverture précise et critique de cette technologie transformatrice.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a25143c1bb22805f46baa8/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 25 Jul 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Carrières et IA : vers un avenir prometteur",
-        "link": "https://www.forbes.com/sites/neilsahota/2024/07/25/ai-energizes-your-career-path--charts-your-professional-growth-plan/?ss=ai",
-        "body": "L'IA est en train de révolutionner la façon dont les individus construisent et font évoluer leur carrière. En offrant des outils personnalisés d'apprentissage, de mentorat et de réseautage, l'IA permet aux professionnels de rester à la pointe de leur domaine et de prendre des décisions éclairées concernant leur trajectoire professionnelle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6676327de6f14acdb8a6a02d/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 25 Jul 2024 14:00:00 GMT"
     }
 ]
