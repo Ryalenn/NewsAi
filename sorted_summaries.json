@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google One AI Premium offert avec le Pixel 9 Pro",
+        "link": "https://www.forbes.com/sites/paulmonckton/2024/07/27/pixel-9-pro-new-report-reveals-bundled-offer-worth-240/?ss=ai",
+        "body": "Google offrira un abonnement d'un an à Google One AI Premium avec les nouveaux smartphones Pixel 9 Pro, Pixel 9 Pro XL et Pixel 9 Pro Fold. Cette information, révélée par OnLeaks, confirme des fuites précédentes et ajoute que l'offre comprend 2 To de stockage cloud et les fonctionnalités IA Gemini Advanced de Google. Gemini Advanced, réservé aux utilisateurs de 18 ans et plus dans certains pays, permet d'utiliser les fonctionnalités Gemini dans Gmail et Docs. L'abonnement Google One AI Premium est facturé 19,99 $ par mois, ce qui représente une valeur totale de 239,88 $ sur l'année. De plus, une rumeur suggère que le modèle Pixel 9 de base pourrait bénéficier d'un abonnement similaire de six mois.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/669948edbe5e9da3f6bafbf7/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 27 Jul 2024 11:59:00 GMT"
+    },
+    {
         "title": "Le réseau social X utilise désormais les tweets pour entraîner son IA Grok",
         "link": "https://www.forbes.com/sites/johnkoetsier/2024/07/26/x-just-gave-itself-permission-to-use-all-your-data-to-train-grok/?ss=ai",
         "body": "Le réseau social X, appartenant à Elon Musk, a discrètement autorisé l'utilisation des publications de ses utilisateurs pour entraîner Grok, un modèle d'IA développé par X.ai, une autre entreprise de Musk. Cette découverte, faite par un utilisateur de Twitter, a soulevé des questions sur la nature agressive de cette collecte de données. Bien que les tweets soient publics et aient probablement été utilisés par d'autres entreprises d'IA, X n'a pas annoncé cette pratique. OpenAI a confirmé l'utilisation de données publiques de Twitter pour entraîner ChatGPT, tandis que Meta utilise également des publications publiques de Facebook et Instagram. Bien que cette pratique soit courante dans le domaine de l'IA, la discrétion de X soulève des préoccupations en matière de vie privée. L'article fournit également des instructions pour désactiver l'utilisation des publications d'un utilisateur à des fins d'entraînement de Grok.",
@@ -138,12 +145,5 @@
         "body": "L'IA est en train de révolutionner la façon dont les individus construisent et font évoluer leur carrière. En offrant des outils personnalisés d'apprentissage, de mentorat et de réseautage, l'IA permet aux professionnels de rester à la pointe de leur domaine et de prendre des décisions éclairées concernant leur trajectoire professionnelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6676327de6f14acdb8a6a02d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 25 Jul 2024 14:00:00 GMT"
-    },
-    {
-        "title": "La solution à l'amnésie générationnelle",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/25/forget-the-past-no-longer-generational-amnesia-getting-overridden-via-advent-of-generative-ai/?ss=ai",
-        "body": "Résumé : L'article explore le concept d'amnésie générationnelle, la perte de mémoire intergénérationnelle, et suggère que l'IA générative pourrait être une solution potentielle. Il explique comment chaque génération ne reçoit qu'une fraction des connaissances des générations précédentes, ce qui conduit à une perte de mémoire collective. L'IA générative, grâce à sa capacité à numériser et archiver de grandes quantités d'informations, pourrait aider à préserver et à transmettre les connaissances aux générations futures. Cependant, l'article souligne également les inconvénients potentiels, tels que la diminution de la pensée critique et l'amplification des biais. Il conclut en suggérant que l'IA générative pourrait jouer un rôle clé dans la lutte contre l'amnésie générationnelle, tout en reconnaissant la nécessité de rester vigilant face aux limitations actuelles de la technologie.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a1f33382896a9e4c63b9b6/0x0.jpg?format=jpg&crop=4008,3005,x519,y0,safe&width=440",
-        "date": "Thu, 25 Jul 2024 12:30:00 GMT"
     }
 ]
