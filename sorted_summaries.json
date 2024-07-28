@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'intelligence humaine à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/solrashidi/2024/07/28/why-intellectual-atrophy-is-the-real-reason-to-fear-ai/?ss=ai",
+        "body": "Bien que l'IA offre de nombreux avantages, tels que l'automatisation des tâches et le traitement rapide de l'information, l'article suggère que notre crainte ne devrait pas tant porter sur la perte d'emplois que sur l'atrophie intellectuelle potentielle due à une dépendance excessive à l'égard de la technologie. À mesure que l'IA devient plus accessible et fournit des réponses rapides, notre capacité à penser de manière critique et indépendante pourrait s'affaiblir. Cette tendance est exacerbée par la demande croissante de compétences en IA sur le marché du travail, les entreprises recherchant des individus capables de concevoir, de créer et de gérer des solutions d'IA. Alors que les psychologues et les dirigeants soulignent souvent l'importance de l'intelligence émotionnelle dans le leadership moderne, l'IA pourrait faire passer au second plan ces « compétences douces » au profit de capacités techniques. Bien que l'IA et l'automatisation créent de nouveaux emplois, il est essentiel de préserver nos forces cognitives et de trouver un équilibre entre technologie et développement intellectuel, en particulier pour les générations futures.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a661c80d189a3926307b7e/0x0.jpg?format=jpg&crop=1471,1103,x446,y117,safe&width=440",
+        "date": "Sun, 28 Jul 2024 17:00:00 GMT"
+    },
+    {
         "title": "Améliorer les recommandations de films et séries avec l'IA",
         "link": "https://www.theverge.com/2024/7/28/24206171/ai-movie-recommendations-chatgpt-vergecast",
         "body": "L'épisode du Vergecast explore les défis des recommandations de films et séries et le rôle potentiel de l'IA pour les améliorer. Bien que des plateformes comme Spotify et YouTube utilisent avec succès l'IA pour les recommandations musicales, les services de streaming de vidéos peinent à offrir des suggestions précises. L'IA peut aider en synthétisant de vastes informations sur les films et séries, y compris les synopsis, les critiques et les commentaires, pour trouver des connexions. Cependant, les goûts et les préférences des utilisateurs sont complexes et varient largement, ce qui rend le problème des recommandations profondément humain. L'article examine les outils IA actuels et futurs qui pourraient aider les utilisateurs à naviguer dans le paysage du streaming et à trouver du contenu plus rapidement.",
@@ -35,6 +42,13 @@
         "date": "Sun, 28 Jul 2024 02:00:00 GMT"
     },
     {
+        "title": "Project G-Assist : l'assistant IA de Nvidia pour les jeux et au-delà",
+        "link": "https://www.frandroid.com/marques/nvidia/2094768_project-nvidia-g-assist-on-a-vu-en-action-le-chatgpt-qui-vous-aide-a-finir-vos-jeux-et-bien-plus-encore",
+        "body": "Nvidia a présenté une démonstration de son projet G-Assist, un assistant IA qui aide les joueurs dans leurs jeux et applications. G-Assist, initialement un poisson d'avril en 2017, est devenu une réalité prometteuse. Il peut fournir des conseils de jeu, optimiser les performances et même proposer des réglages d'overclocking. Le fonctionnement hybride de G-Assist, entre cloud et local, lui permet d'analyser le contexte de jeu et de répondre aux demandes des joueurs. Nvidia souligne que la coopération des développeurs sera essentielle pour exploiter pleinement le potentiel de G-Assist, qui pourrait également être étendu à d'autres applications comme Photoshop ou Blender.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/nvidia-project-g-assist-hero-768x578.jpeg?resize=226,226&key=356556df",
+        "date": "Sat, 27 Jul 2024 23:00:00 GMT"
+    },
+    {
         "title": "Google One AI Premium offert avec le Pixel 9 Pro",
         "link": "https://www.forbes.com/sites/paulmonckton/2024/07/27/pixel-9-pro-new-report-reveals-bundled-offer-worth-240/?ss=ai",
         "body": "Google offrira un abonnement d'un an à Google One AI Premium avec les nouveaux smartphones Pixel 9 Pro, Pixel 9 Pro XL et Pixel 9 Pro Fold. Cette information, révélée par OnLeaks, confirme des fuites précédentes et ajoute que l'offre comprend 2 To de stockage cloud et les fonctionnalités IA Gemini Advanced de Google. Gemini Advanced, réservé aux utilisateurs de 18 ans et plus dans certains pays, permet d'utiliser les fonctionnalités Gemini dans Gmail et Docs. L'abonnement Google One AI Premium est facturé 19,99 $ par mois, ce qui représente une valeur totale de 239,88 $ sur l'année. De plus, une rumeur suggère que le modèle Pixel 9 de base pourrait bénéficier d'un abonnement similaire de six mois.",
@@ -68,26 +82,5 @@
         "body": "La robotique évolue, passant des machines rigides et métalliques à des robots aux contours plus doux et aux enveloppes plus intuitives, plus en adéquation avec les environnements naturels. Ce domaine, appelé « robotique douce », explore de nouvelles voies pour rendre les robots plus efficaces dans des environnements non structurés. L'article introduit le terme « morphologie » et explique comment les scientifiques s'inspirent du monde biologique pour concevoir de nouveaux robots. Les recherches du MIT, présentées par Tsun-Hsuan Wang, illustrent cette approche, en s'inspirant des créatures naturelles pour créer des robots polyvalents capables de marcher, nager et voler. L'IA joue un rôle crucial dans la conception de ces robots, et les avancées dans les réseaux neuronaux convolutifs et la vision informatique améliorent leurs capacités. Bien que cela soulève des inquiétudes quant à l'impact sur l'emploi et des scénarios cauchemardesques de robots menaçant l'existence humaine, la robotique douce offre également de nombreuses applications positives, notamment dans le domaine des technologies d'assistance.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a3f098e911c72caad76ba6/0x0.jpg?format=jpg&crop=720,405,x0,y0,safe&width=440",
         "date": "Fri, 26 Jul 2024 19:00:00 GMT"
-    },
-    {
-        "title": "The AI Race Heats Up",
-        "link": "https://www.theverge.com/2024/7/26/24206274/the-ai-race-big-shift-models-to-products",
-        "body": "L'article met en lumière l'évolution rapide de la course à l'IA, avec un recentrage sur les produits alimentés par l'IA plutôt que sur les modèles eux-mêmes. Mark Zuckerberg mène une campagne agressive pour réduire le coût d'accès aux modèles d'IA fondamentaux, avec Llama 3.1 de Meta, qui rivalise avec les performances de l'IA open source et fermée. Zuckerberg espère que le marché des modèles d'IA évoluera comme la compétition Linux vs Unix au début des années 2000, où les standards ouverts ont réduit les coûts et gagné en adoption. Meta et les autres géants technologiques sont bien positionnés dans cette nouvelle ère, car la valeur et l'avantage concurrentiel proviendront des produits alimentés par les modèles d'IA plutôt que des modèles eux-mêmes.",
-        "image": "",
-        "date": "Fri, 26 Jul 2024 18:01:45 GMT"
-    },
-    {
-        "title": "La magie de l'IA avec Pixel 9",
-        "link": "https://www.theverge.com/2024/7/26/24206969/google-pixel-9-add-me-group-photos-leak",
-        "body": "Le Pixel 9 de Google fait l'objet de nombreuses fuites, dont une publicité révélant une nouvelle fonctionnalité appelée \"Add Me\". Cette fonctionnalité utilise l'IA pour combiner deux images avec le même arrière-plan, permettant ainsi à l'utilisateur d'être inclus dans une photo de groupe même s'il n'était pas présent initialement. Le téléphone présente également d'autres fonctionnalités d'IA, telles que l'assistant Gemini et \"Pixel Screenshots\", qui utilise l'IA pour rechercher dans les captures d'écran. De plus, une autre fonctionnalité appelée Magic Editor permet de modifier l'arrière-plan d'une photo, tandis que Magic Eraser permet de supprimer des éléments indésirables. Ces outils d'IA offrent une expérience photographique améliorée, brouillant la ligne entre le réel et le virtuel.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2360x1532/2400x1600/filters:focal(1180x766:1181x767):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25547283/google_pixel_add_me.png",
-        "date": "Fri, 26 Jul 2024 17:23:54 GMT"
-    },
-    {
-        "title": "L'IA, une collaboratrice créative de confiance ?",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/26/how-to-use-ai-as-your-creative-sparring-partner/?ss=ai",
-        "body": "L'IA peut être un outil puissant pour stimuler et nourrir notre créativité, mais pouvons-nous lui faire confiance avec nos projets artistiques ? Bien que l'IA ait un potentiel incroyable, notamment dans sa forme créative, une méfiance humaine persiste. L'article explore comment l'IA peut être considérée comme une collaboratrice plutôt qu'une concurrente, aidant les professionnels à révéler leurs étincelles d'inspiration les plus inspirantes. Bien que l'IA ne puisse pas encore rivaliser avec les meilleurs écrivains humains dans la création de récits longs, elle excelle dans certains aspects de la création de contenu, comme le brainstorming, la recherche et le filtrage des contenus. Ces capacités peuvent libérer le temps et l'énergie mentale des professionnels, leur permettant de se concentrer sur les aspects véritablement créatifs. L'IA peut également améliorer la productivité, éliminer les préjugés humains dans les processus de sélection et offrir des avantages dans divers domaines professionnels, notamment le marketing, la publicité, l'éducation et la gestion des tâches ménagères. En fin de compte, l'IA offre la possibilité de transcender le quotidien et de libérer notre créativité tout en travaillant en collaboration.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669a969001242ffde563ca4f/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 26 Jul 2024 17:00:00 GMT"
     }
 ]
