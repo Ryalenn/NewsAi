@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'impact des paramètres de température sur les résultats de l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/29/knowing-about-temperature-settings-when-using-generative-ai-is-hot-stuff-for-prompt-engineering/?ss=ai",
+        "body": "Résumé : Cet article explore l'importance des paramètres de température dans l'IA générative et leur impact sur les réponses de l'IA. Les paramètres de température influencent la variété et la créativité des réponses, allant de réponses prévisibles à des réponses plus créatives et moins prévisibles. L'article discute également de l'impact de la température sur la cohérence et la détermination des réponses, et fournit des exemples de réponses de ChatGPT à différentes températures. Enfin, il aborde la façon dont les développeurs et les utilisateurs peuvent ajuster les paramètres de température et leur impact sur des domaines spécifiques tels que la santé mentale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6653b7404b61281c31ca891b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 29 Jul 2024 12:00:00 GMT"
+    },
+    {
+        "title": "L'intelligence artificielle générale : un fantasme technologique ?",
+        "link": "https://www.forbes.com/sites/ericsiegel/2024/07/29/the-great-ai-myth-these-3-misconceptions-fuel-it/?ss=ai",
+        "body": "L'article remet en question l'idée largement répandue selon laquelle l'intelligence artificielle générale (AGI) est imminente et inévitable. Il suggère que la notion d'AGI est vague et repose sur des hypothèses erronées, et que la poursuite de cet objectif peut être dommageable. L'AGI est décrite comme un objectif ambitieux et spéculatif, qui divise le domaine de l'IA entre ceux qui préfèrent des objectifs plus modestes et réalistes, et ceux qui croient en la possibilité de créer une IA capable de tout faire. L'article identifie trois fausses croyances qui alimentent cette foi aveugle dans l'AGI : la croyance en une solution unique, la croyance en la science-fiction comme preuve de plausibilité, et la croyance en un spectre d'intelligence linéaire. Il conclut que l'idée d'une AGI imminente est davantage un fantasme de réalisation de souhaits qu'une réalité basée sur des preuves concrètes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a76609e000b9d4b6a49145/0x0.jpg?format=jpg&crop=3000,2002,x0,y123,safe&width=440",
+        "date": "Mon, 29 Jul 2024 10:33:00 GMT"
+    },
+    {
         "title": "L'avenir du travail avec l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/07/29/the-essential-ai-ready-skills-everyone-needs-for-tomorrows-jobs/?ss=ai",
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a7271df9776583acc6f6bf/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 29 Jul 2024 05:00:00 GMT"
+    },
+    {
+        "title": "Gemini, l'IA de Google, s'enrichit de nouvelles fonctionnalités",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2095722_pourquoi-gemini-pourrait-definitivement-remplacer-google-assistant",
+        "body": "Google s'apprête à ajouter six extensions à son IA Gemini, selon une découverte dans la dernière version bêta de l'application Google. Parmi les extensions, trois sont nouvelles : Google Home, les commandes téléphoniques et \"Utilitaires\". Gemini pourra contrôler les objets connectés, passer des appels et interagir directement avec les paramètres du téléphone et les applications. Les trois autres extensions sont Google Agenda, Keep et Tasks, déjà annoncées précédemment. Ces fonctionnalités seront dévoilées lors de la conférence Made by Google le 13 août, où Gemini pourrait voler la vedette aux Pixel 9 et à Android 15.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
+        "date": "Sun, 28 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "ChatGPT : Advanced Voice Mode",
@@ -75,12 +96,5 @@
         "body": "Nvidia a présenté une démonstration de son projet G-Assist, un assistant IA qui aide les joueurs dans leurs jeux et applications. G-Assist, initialement un poisson d'avril en 2017, est devenu une réalité prometteuse. Il peut fournir des conseils de jeu, optimiser les performances et même proposer des réglages d'overclocking. Le fonctionnement hybride de G-Assist, entre cloud et local, lui permet d'analyser le contexte de jeu et de répondre aux demandes des joueurs. Nvidia souligne que la coopération des développeurs sera essentielle pour exploiter pleinement le potentiel de G-Assist, qui pourrait également être étendu à d'autres applications comme Photoshop ou Blender.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/nvidia-project-g-assist-hero-768x578.jpeg?resize=226,226&key=356556df",
         "date": "Sat, 27 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google One AI Premium offert avec le Pixel 9 Pro",
-        "link": "https://www.forbes.com/sites/paulmonckton/2024/07/27/pixel-9-pro-new-report-reveals-bundled-offer-worth-240/?ss=ai",
-        "body": "Google offrira un abonnement d'un an à Google One AI Premium avec les nouveaux smartphones Pixel 9 Pro, Pixel 9 Pro XL et Pixel 9 Pro Fold. Cette information, révélée par OnLeaks, confirme des fuites précédentes et ajoute que l'offre comprend 2 To de stockage cloud et les fonctionnalités IA Gemini Advanced de Google. Gemini Advanced, réservé aux utilisateurs de 18 ans et plus dans certains pays, permet d'utiliser les fonctionnalités Gemini dans Gmail et Docs. L'abonnement Google One AI Premium est facturé 19,99 $ par mois, ce qui représente une valeur totale de 239,88 $ sur l'année. De plus, une rumeur suggère que le modèle Pixel 9 de base pourrait bénéficier d'un abonnement similaire de six mois.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669948edbe5e9da3f6bafbf7/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 27 Jul 2024 11:59:00 GMT"
     }
 ]
