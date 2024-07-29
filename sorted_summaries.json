@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple déploie ses premières fonctionnalités d'IA",
+        "link": "https://www.theverge.com/2024/7/29/24208732/apple-intelligence-ai-ios-18-1-developer-beta-launch-iphone",
+        "body": "Apple a récemment publié les versions bêta développeurs d'iOS 18.1, iPadOS 18.1 et macOS Sequoia 15.1, introduisant ainsi ses premières fonctionnalités d'IA. Parmi les nouvelles fonctionnalités, on trouve une mise à jour de Siri, capable de maintenir le contexte lors de plusieurs requêtes, de nouvelles fonctionnalités de mail comme les réponses intelligentes et les résumés de mails, ainsi qu'une recherche en langage naturel dans les photos. L'installation de ces mises à jour nécessite un iPhone 15 Pro ou Pro Max, ou un système avec une puce Apple Silicon pour les iPads et Macs. Les utilisateurs doivent ensuite s'inscrire sur une liste d'attente depuis le menu des paramètres de leur appareil. Apple a également publié une deuxième bêta publique pour iOS 18, avec des fonctionnalités telles que le support RCS sur plus d'opérateurs, de nouveaux fonds d'écran CarPlay et la possibilité d'utiliser des widgets en mode sombre en mode clair.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:6379x3694/2400x1600/filters:focal(3272x1956:3273x1957):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25550596/apple_intelligence_layout.jpg",
+        "date": "Mon, 29 Jul 2024 17:32:12 GMT"
+    },
+    {
+        "title": "Inclusive AI",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/07/29/why-ai-inclusion-is-a-matter-of-life-and-death/?ss=ai",
+        "body": "L'IA transforme rapidement notre monde, mais son développement et son entraînement sont entachés par un manque de représentation. Ce problème d'exclusion a des conséquences pratiques et éthiques : il crée ou aggrave les disparités sociales et économiques, et conduit à des biais dans les algorithmes. Ces biais peuvent entraîner une discrimination algorithmique, comme dans la reconnaissance faciale ou les processus d'embauche. Dans le domaine de la santé, les biais algorithmiques peuvent conduire à des diagnostics erronés et des traitements préjudiciables, en particulier pour les communautés sous-représentées. Les risques sont également soulignés dans le rapport Global Risks de 2023, qui met en garde contre l'aggravation des inégalités et de nouvelles formes de discrimination. D'un point de vue éthique, l'exclusion de larges portions de l'humanité dans les systèmes d'IA viole le principe de participation égale aux avancées technologiques. Les implications sont particulièrement inquiétantes dans le domaine de la santé, où l'IA influence de plus en plus les priorités de recherche et les politiques de santé mondiales. L'article propose six recommandations clés pour guider le développement d'une IA plus inclusive, en particulier dans le domaine de la santé, résumées par l'acronyme AGENCY.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a3fd6843048f45b80ac207/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 29 Jul 2024 17:00:00 GMT"
+    },
+    {
         "title": "Apple retarde le lancement de ses fonctionnalités d'IA",
         "link": "https://www.theverge.com/2024/7/29/24208656/apple-intelligence-ai-ios-18-1-iphone-16-launch",
         "body": "Résumé : Apple a annoncé que ses nouvelles fonctionnalités d'IA, y compris une version améliorée de Siri, la génération d'images basée sur l'IA et l'intégration avec ChatGPT, pourraient ne pas être disponibles lors du lancement initial de l'iOS 18 et de l'iPhone 16 en septembre. La société prévoit plutôt de lancer ces fonctionnalités avec iOS 18.1 en octobre, afin de s'assurer que le déploiement se déroule sans encombre. Certaines fonctionnalités d'IA seront néanmoins disponibles avec les versions bêta pour développeurs d'iOS 18.1 et iPad 18.1, permettant ainsi aux développeurs de les tester et de repérer les bogues potentiels avant leur lancement officiel. Cependant, toutes les fonctionnalités d'IA présentées lors de la Worldwide Developers Conference ne seront pas immédiatement disponibles, et certaines pourraient ne pas être lancées avant le printemps 2025.",
@@ -54,6 +68,13 @@
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a7271df9776583acc6f6bf/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 29 Jul 2024 05:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence : la révolution de l'IA sur iPhone",
+        "link": "https://www.frandroid.com/os/ios/2096532_la-beta-ios-18-1-est-la-avec-apple-intelligence-voici-la-liste-des-nouveautes-disponibles-sur-iphone",
+        "body": "Apple a dévoilé Apple Intelligence, sa suite d'outils d'IA, dans la version bêta d'iOS 18.1. Cette fonctionnalité promet de transformer l'interaction des utilisateurs avec leur iPhone. Apple Intelligence améliore Siri, qui brille désormais sur le bord de l'écran lors de son invocation, et comprend mieux les commandes vocales, même bafouillées. Il révolutionne la recherche de photos, la rédaction de mails et la création de souvenirs. Ces fonctions s'appuient sur des modèles de langage pré-entraînés, potentiellement dérivés de l'architecture GPT. Apple Intelligence introduit également un nouveau Focus, qui affiche uniquement les notifications urgentes. Ces fonctionnalités sont réservées aux iPhone 15 Pro et modèles ultérieurs, grâce aux optimisations matérielles spécifiques pour l'IA des puces A17 Pro. La génération d'images, la création d'emojis personnalisés et l'intégration de ChatGPT sont attendues pour plus tard.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/gtq-bpfwkaayull-768x495.jpeg?resize=193,193&key=46325b76",
+        "date": "Sun, 28 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Gemini, l'IA de Google, s'enrichit de nouvelles fonctionnalités",
