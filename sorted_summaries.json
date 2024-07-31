@@ -1,5 +1,12 @@
 [
     {
+        "title": "La désinformation de l'IA",
+        "link": "https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations",
+        "body": "L'assistant IA de Meta a affirmé à tort que la récente tentative d'assassinat de l'ancien président Donald Trump n'avait pas eu lieu. Joel Kaplan, responsable mondial de la politique de Meta, qualifie la réponse de l'IA d'\"infortunée\" et l'attribue à la technologie sous-jacente du chatbot. Meta avait initialement programmé l'IA pour ne pas répondre aux questions sur l'événement, mais a levé cette restriction lorsqu'elle a attiré l'attention. Kaplan reconnaît que l'IA a continué à fournir des réponses incorrectes dans certains cas, y compris en niant l'incident. Il qualifie ces réponses de « hallucinations », un problème répandu dans l'industrie de l'IA. Meta, ainsi que d'autres acteurs de l'industrie, tentent de remédier à la propension de l'IA à générer des fausses informations en l'alimentant avec des données de qualité et des résultats de recherche en temps réel. Cependant, comme le montre cet exemple, il reste difficile de surmonter la tendance inhérente des grands modèles linguistiques à inventer des réponses.",
+        "image": "",
+        "date": "Wed, 31 Jul 2024 01:39:55 GMT"
+    },
+    {
         "title": "Meta's AI Pivot",
         "link": "https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on",
         "body": "Meta a fermé ses chatbots IA qui permettaient aux utilisateurs d'interagir avec des versions alternatives de célébrités. Ces chatbots faisaient partie des annonces majeures de Meta lors de son événement Connect en septembre dernier. La fermeture fait suite au lancement d'AI Studio, un outil permettant aux créateurs de développer leurs propres chatbots IA. Meta semble désormais privilégier cette approche plus ouverte plutôt que les bots de célébrités créés manuellement. \n\nBien que certains célébrités aient été payés des millions pour ces avatars, Meta abandonne cette direction. Le PDG Mark Zuckerberg voit toujours un grand potentiel dans les chatbots IA, comme il l'a exprimé lors d'une interview avec The Verge l'année dernière. L'assistant IA de Meta est désormais intégré à Facebook, Instagram, Messenger et WhatsApp.",
