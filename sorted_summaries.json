@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'IA dans les soins de santé : un potentiel révolutionnaire ou un simple effet de mode ?",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/07/31/ai-in-healthcare-revolutionizing-medicine-or-overhyped-promise/?ss=ai",
+        "body": "Bien que l'IA ait déjà un impact significatif sur les soins de santé, il est important de distinguer la réalité de l'effet de mode. Si l'IA a accéléré la découverte de vaccins et de médicaments, amélioré l'interprétation des analyses médicales et réduit les durées d'hospitalisation, il y a également eu des échecs et des revendications exagérées. Les opinions divergent sur la valeur réelle de l'IA dans les soins de santé, mais la plupart s'accordent à dire que ses applications les plus précieuses impliqueront une augmentation des compétences humaines plutôt qu'un remplacement. Les défis en matière de confidentialité des données, de coûts de mise en œuvre et de formation des professionnels de santé doivent être relevés pour concrétiser les prédictions les plus optimistes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a9ce2ec16ae4ca2d84bf9f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 31 Jul 2024 05:40:00 GMT"
+    },
+    {
+        "title": "L'IA et la déontologie juridique",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/31/american-bar-association-lowers-the-boom-and-lays-down-the-law-on-lawyers-proper-use-of-generative-ai/?ss=ai",
+        "body": "L'American Bar Association (ABA) a récemment publié l'Opinion formelle 512, un document de 15 pages fournissant des directives sur l'utilisation de l'IA générative dans la pratique juridique. L'opinion met en évidence plusieurs considérations importantes pour les avocats, notamment la compétence, la confidentialité, la communication, les revendications et les affirmations méritoires, la franchise envers le tribunal, les responsabilités de supervision et les honoraires. L'opinion souligne que les avocats doivent utiliser l'IA générative de manière compétente et éthique, en veillant à préserver la confidentialité des informations client. Elle aborde également la question de savoir si les avocats doivent informer leurs clients de leur utilisation de l'IA générative. L'opinion souligne la responsabilité des cabinets d'avocats et des superviseurs dans la formation et la supervision appropriées des avocats utilisant l'IA générative. Enfin, elle aborde les implications de l'IA générative sur la facturation et les honoraires juridiques. L'Opinion formelle 512 fournit un guide complet pour les avocats et les cabinets juridiques qui adoptent l'IA générative, garantissant une utilisation éthique et conforme aux règles de déontologie juridique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66a9b69229bee43b04a31e8e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 31 Jul 2024 04:00:00 GMT"
+    },
+    {
         "title": "La désinformation de l'IA",
         "link": "https://www.theverge.com/2024/7/30/24210108/meta-trump-shooting-ai-hallucinations",
         "body": "L'assistant IA de Meta a affirmé à tort que la récente tentative d'assassinat de l'ancien président Donald Trump n'avait pas eu lieu. Joel Kaplan, responsable mondial de la politique de Meta, qualifie la réponse de l'IA d'\"infortunée\" et l'attribue à la technologie sous-jacente du chatbot. Meta avait initialement programmé l'IA pour ne pas répondre aux questions sur l'événement, mais a levé cette restriction lorsqu'elle a attiré l'attention. Kaplan reconnaît que l'IA a continué à fournir des réponses incorrectes dans certains cas, y compris en niant l'incident. Il qualifie ces réponses de « hallucinations », un problème répandu dans l'industrie de l'IA. Meta, ainsi que d'autres acteurs de l'industrie, tentent de remédier à la propension de l'IA à générer des fausses informations en l'alimentant avec des données de qualité et des résultats de recherche en temps réel. Cependant, comme le montre cet exemple, il reste difficile de surmonter la tendance inhérente des grands modèles linguistiques à inventer des réponses.",
         "image": "",
         "date": "Wed, 31 Jul 2024 01:39:55 GMT"
+    },
+    {
+        "title": "Nvidia mise sur l'IA pour révolutionner le jeu vidéo",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2084426_avec-ace-et-g-assist-nvidia-affirme-haut-et-fort-que-lavenir-du-jeu-video-passe-par-lia",
+        "body": "Nvidia dévoile sa feuille de route en matière d'IA lors du Computex, avec un focus particulier sur le jeu vidéo. L'entreprise présente deux projets innovants : Nvidia Ace et Nvidia G-Assist. Ace est une suite logicielle permettant de créer des personnages non-joueurs réalistes et immersifs grâce à l'IA. G-Assist est un assistant virtuel capable de répondre aux questions des joueurs en jeu et hors jeu. Nvidia a une solide expérience en IA grâce à son travail sur l'amélioration graphique de ses GPU, et souhaite désormais appliquer cette technologie à tous les aspects du jeu vidéo. Ces fonctionnalités IA promettent une expérience de jeu révolutionnaire, mais nécessitent des configurations matérielles spécifiques avec des GPU récents.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/earth-computex-2024-1280x854-1-768x432.jpg?resize=169,169&key=a26db3f1",
+        "date": "Tue, 30 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Meta's AI Pivot",
@@ -250,12 +271,5 @@
         "body": "L'article remet en question l'idée largement répandue selon laquelle l'intelligence artificielle générale (AGI) est imminente et inévitable. Il suggère que la notion d'AGI est vague et repose sur des hypothèses erronées, et que la poursuite de cet objectif peut être dommageable. L'AGI est décrite comme un objectif ambitieux et spéculatif, qui divise le domaine de l'IA entre ceux qui préfèrent des objectifs plus modestes et réalistes, et ceux qui croient en la possibilité de créer une IA capable de tout faire. L'article identifie trois fausses croyances qui alimentent cette foi aveugle dans l'AGI : la croyance en une solution unique, la croyance en la science-fiction comme preuve de plausibilité, et la croyance en un spectre d'intelligence linéaire. Il conclut que l'idée d'une AGI imminente est davantage un fantasme de réalisation de souhaits qu'une réalité basée sur des preuves concrètes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a76609e000b9d4b6a49145/0x0.jpg?format=jpg&crop=3000,2002,x0,y123,safe&width=440",
         "date": "Mon, 29 Jul 2024 10:33:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail avec l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/07/29/the-essential-ai-ready-skills-everyone-needs-for-tomorrows-jobs/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a7271df9776583acc6f6bf/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 29 Jul 2024 05:00:00 GMT"
     }
 ]
