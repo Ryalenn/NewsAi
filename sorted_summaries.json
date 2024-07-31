@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tech Trade Truce",
+        "link": "https://www.forbes.com/sites/roberthart/2024/07/31/chip-stocks-rally-after-brutal-rout-as-biden-reportedly-eases-planned-semiconductor-trade-rules/?ss=ai",
+        "body": "Les actions des entreprises de puces électroniques ont rebondi après que les États-Unis aient exempté certains alliés, dont le Japon et les Pays-Bas, des restrictions commerciales sur la technologie des semi-conducteurs. Cette nouvelle a atténué les pertes suite à la chute des actions des grandes entreprises technologiques, les investisseurs s'interrogeant sur la rentabilité des investissements importants dans l'IA. Les actions des principales entreprises de puces ont grimpé, avec des gains notables pour ASML, Tokyo Electron et SK Hynix. Les entreprises américaines Nvidia et AMD ont également rebondi, avec des prévisions de revenus optimistes. Cette nouvelle survient après une journée difficile pour les actions des grandes entreprises technologiques, avec des chutes pour Meta, Microsoft, Nvidia, Amazon et Netflix. Les semi-conducteurs sont essentiels pour le secteur technologique et ont une valeur économique et stratégique, avec une industrie mondiale estimée à 600 milliards de dollars. Ils sont également cruciaux pour le développement de l'IA et d'autres technologies émergentes. Les restrictions commerciales sur la technologie des semi-conducteurs visent à limiter l'accès de la Chine à cette technologie, les États-Unis considérant leur suprématie dans ce domaine comme une priorité stratégique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66aa24d51991b0cc946c2c94/0x0.jpg?format=jpg&crop=3000,1687,x0,y128,safe&width=440",
+        "date": "Wed, 31 Jul 2024 11:50:00 GMT"
+    },
+    {
         "title": "L'IA dans les soins de santé : un potentiel révolutionnaire ou un simple effet de mode ?",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/07/31/ai-in-healthcare-revolutionizing-medicine-or-overhyped-promise/?ss=ai",
         "body": "Bien que l'IA ait déjà un impact significatif sur les soins de santé, il est important de distinguer la réalité de l'effet de mode. Si l'IA a accéléré la découverte de vaccins et de médicaments, amélioré l'interprétation des analyses médicales et réduit les durées d'hospitalisation, il y a également eu des échecs et des revendications exagérées. Les opinions divergent sur la valeur réelle de l'IA dans les soins de santé, mais la plupart s'accordent à dire que ses applications les plus précieuses impliqueront une augmentation des compétences humaines plutôt qu'un remplacement. Les défis en matière de confidentialité des données, de coûts de mise en œuvre et de formation des professionnels de santé doivent être relevés pour concrétiser les prédictions les plus optimistes.",
@@ -19,6 +26,13 @@
         "body": "L'assistant IA de Meta a affirmé à tort que la récente tentative d'assassinat de l'ancien président Donald Trump n'avait pas eu lieu. Joel Kaplan, responsable mondial de la politique de Meta, qualifie la réponse de l'IA d'\"infortunée\" et l'attribue à la technologie sous-jacente du chatbot. Meta avait initialement programmé l'IA pour ne pas répondre aux questions sur l'événement, mais a levé cette restriction lorsqu'elle a attiré l'attention. Kaplan reconnaît que l'IA a continué à fournir des réponses incorrectes dans certains cas, y compris en niant l'incident. Il qualifie ces réponses de « hallucinations », un problème répandu dans l'industrie de l'IA. Meta, ainsi que d'autres acteurs de l'industrie, tentent de remédier à la propension de l'IA à générer des fausses informations en l'alimentant avec des données de qualité et des résultats de recherche en temps réel. Cependant, comme le montre cet exemple, il reste difficile de surmonter la tendance inhérente des grands modèles linguistiques à inventer des réponses.",
         "image": "",
         "date": "Wed, 31 Jul 2024 01:39:55 GMT"
+    },
+    {
+        "title": "Apple choisit Google pour l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2269416_apple-intelligence-nest-pas-entrainee-par-qui-vous-croyez",
+        "body": "Bien qu'étant un leader sur le marché des équipements d'entraînement des modèles d'IA génératives, Nvidia n'a pas été choisi par Apple pour son IA \"Apple Intelligence\". À la place, Apple a opté pour les TPUs (Tensor Processing Units) de Google, des puces customs développées spécifiquement pour traiter les données. Apple utilise des clusters Cloud TPU v4 et v5p, les plus récents de Google, indiquant ainsi sa volonté de faire des progrès rapides dans le domaine de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/apple-intelligence-1200x671-2-768x429.jpg?resize=168,168&key=63c9e1de",
+        "date": "Tue, 30 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Microsoft relance Skype avec l'IA",
@@ -278,19 +292,5 @@
         "body": "La récente panne informatique mondiale a mis en évidence l'interdépendance de la cybersécurité, de l'IA intégrée et des données. L'incident, causé par une mise à jour logicielle, a affecté environ 8,5 millions d'appareils et a eu un impact sur divers secteurs, notamment les services financiers, les soins de santé, les voyages aériens et même les chaînes de télévision internationales. Cet événement souligne la nécessité pour les organisations de disposer d'une cybersécurité robuste et évolutive pour tester les failles potentielles avant toute mise en œuvre. Les plateformes intelligentes, faisant désormais partie intégrante de notre quotidien, nous rendent vulnérables aux « hallucinations de l'IA », où les outils peuvent percevoir des modèles inexistant. Sans une cybersécurité adéquate, les innovations en IA deviennent vulnérables et peuvent fournir des résultats et des recommandations erronés. L'incident soulève des questions importantes sur la protection des systèmes d'IA et la nécessité d'une IA digne de confiance. De plus, il met en lumière la propagation rapide de la désinformation et la nécessité d'une intervention humaine pour y remédier.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a5e203ea986be6d8f20acd/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 29 Jul 2024 13:00:00 GMT"
-    },
-    {
-        "title": "L'impact des paramètres de température sur les résultats de l'IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/29/knowing-about-temperature-settings-when-using-generative-ai-is-hot-stuff-for-prompt-engineering/?ss=ai",
-        "body": "Résumé : Cet article explore l'importance des paramètres de température dans l'IA générative et leur impact sur les réponses de l'IA. Les paramètres de température influencent la variété et la créativité des réponses, allant de réponses prévisibles à des réponses plus créatives et moins prévisibles. L'article discute également de l'impact de la température sur la cohérence et la détermination des réponses, et fournit des exemples de réponses de ChatGPT à différentes températures. Enfin, il aborde la façon dont les développeurs et les utilisateurs peuvent ajuster les paramètres de température et leur impact sur des domaines spécifiques tels que la santé mentale.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6653b7404b61281c31ca891b/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 29 Jul 2024 12:00:00 GMT"
-    },
-    {
-        "title": "L'intelligence artificielle générale : un fantasme technologique ?",
-        "link": "https://www.forbes.com/sites/ericsiegel/2024/07/29/the-great-ai-myth-these-3-misconceptions-fuel-it/?ss=ai",
-        "body": "L'article remet en question l'idée largement répandue selon laquelle l'intelligence artificielle générale (AGI) est imminente et inévitable. Il suggère que la notion d'AGI est vague et repose sur des hypothèses erronées, et que la poursuite de cet objectif peut être dommageable. L'AGI est décrite comme un objectif ambitieux et spéculatif, qui divise le domaine de l'IA entre ceux qui préfèrent des objectifs plus modestes et réalistes, et ceux qui croient en la possibilité de créer une IA capable de tout faire. L'article identifie trois fausses croyances qui alimentent cette foi aveugle dans l'AGI : la croyance en une solution unique, la croyance en la science-fiction comme preuve de plausibilité, et la croyance en un spectre d'intelligence linéaire. Il conclut que l'idée d'une AGI imminente est davantage un fantasme de réalisation de souhaits qu'une réalité basée sur des preuves concrètes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a76609e000b9d4b6a49145/0x0.jpg?format=jpg&crop=3000,2002,x0,y123,safe&width=440",
-        "date": "Mon, 29 Jul 2024 10:33:00 GMT"
     }
 ]
