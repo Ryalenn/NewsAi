@@ -1,5 +1,19 @@
 [
     {
+        "title": "La bataille des données pour l'IA",
+        "link": "https://www.theverge.com/2024/7/31/24210565/reddit-microsoft-anthropic-perplexity-pay-ai-search",
+        "body": "Le PDG de Reddit, Steve Huffman, demande aux entreprises d'IA, notamment Microsoft, Anthropic et Perplexity, de payer pour utiliser les données du site. Reddit a récemment bloqué les crawlers de ces entreprises, car elles refusaient de négocier des accords de licence. Huffman souligne que Microsoft a utilisé les données de Reddit pour entraîner ses IA et a résumé le contenu de Reddit dans les résultats de recherche Bing sans permission. En réponse, Microsoft a déclaré qu'ils respectent les directives des sites web concernant l'utilisation de leurs données dans les modèles d'IA. Reddit rejoint ainsi d'autres éditeurs de médias en cherchant à monétiser leurs contenus pour l'IA. Huffman mentionne également l'annonce récente d'OpenAI concernant SearchGPT, qui pourra afficher les résultats de Reddit grâce à un accord conclu entre les deux entreprises.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg",
+        "date": "Wed, 31 Jul 2024 19:17:47 GMT"
+    },
+    {
+        "title": "Siri et Apple Intelligence : les dernières mises à jour",
+        "link": "https://www.theverge.com/2024/7/31/24209910/apple-intelligence-ios-18-preview-siri",
+        "body": "La dernière version bêta d'iOS 18 pour les développeurs présente une mise à jour importante de l'assistant virtuel Siri, avec une nouvelle interface et des améliorations significatives en matière de compréhension du langage naturel. La fonctionnalité Apple Intelligence, disponible sur l'iPhone 15 Pro et Pro Max, offre une gamme d'outils d'IA, notamment la synthèse de texte, la relecture, les suggestions d'écriture et la création de listes à puces à partir de textes. L'IA d'Apple peut également identifier les e-mails importants et fournir des résumés de ceux-ci, ainsi que des photos en fonction de critères spécifiques. Bien que Siri reste essentiellement un outil de recherche, les futures mises à jour devraient lui permettre d'interagir avec le contenu à l'écran et de prendre des mesures au sein des applications.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(719x696:720x697):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931964/236794_iPhone_15_pro_pro_Max_VPavic_0001.jpg",
+        "date": "Wed, 31 Jul 2024 18:35:00 GMT"
+    },
+    {
         "title": "Taco Bell teste la commande vocale AI dans ses drive",
         "link": "https://www.theverge.com/2024/7/31/24210506/taco-bell-drive-thru-ai-order-expansion",
         "body": "Résumé : \n\nTaco Bell, une chaîne de restauration rapide américaine, teste actuellement une technologie de commande vocale basée sur l'IA dans plus de 100 de ses restaurants drive aux États-Unis, avec l'objectif d'en équiper des centaines d'autres d'ici la fin de l'année. L'IA est conçue pour réduire la charge de travail des employés, améliorer la précision des commandes et diminuer les temps d'attente, tout en augmentant la croissance rentable de l'entreprise. Bien que les expériences de l'industrie de la restauration rapide avec l'IA aient donné des résultats mitigés, Taco Bell espère que cette technologie améliorera l'expérience client et optimisera ses opérations.",
@@ -299,12 +313,5 @@
         "body": "OpenAI, l'entreprise à l'origine de ChatGPT et DALL-E, est confrontée à des défis financiers importants, avec des pertes potentielles de 5 milliards de dollars pour l'année en cours, malgré des investissements massifs. Le fonctionnement quotidien de ChatGPT coûte environ 700 000 dollars par jour, et la formation des modèles d'IA engloutit des milliards. Les coûts de personnel s'élèvent à 1,5 milliard de dollars. Malgré sa valorisation élevée, OpenAI doit gérer des coûts élevés tout en repoussant les limites de la technologie. Bien que d'autres géants de la tech rencontrent des problèmes similaires, ils ont des sources de revenus diversifiées pour les absorber. Malgré les défis, l'engouement pour l'IA reste fort et les investisseurs sont prêts à parier sur son potentiel futur.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=8fa7395e",
         "date": "Mon, 29 Jul 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La confusion des robots.txt",
-        "link": "https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/",
-        "body": "Des centaines de sites Web tentent d'empêcher la société d'IA Anthropic de récupérer leur contenu, mais bloquent en fait les mauvais robots. De nombreux sites copient-collent des instructions obsolètes dans leurs fichiers robots.txt, et les entreprises lancent constamment de nouveaux robots d'exploration associés à l'IA avec des noms différents, ce qui rend difficile le blocage efficace pour les propriétaires de sites Web. Dark Visitors, un site Web qui suit l'évolution des robots d'exploration et des récupérateurs de contenu, a constaté que de nombreux sites bloquent deux anciens robots d'Anthropic, \"ANTHROPIC-AI\" et \"CLAUDE-WEB\", tout en laissant le nouveau robot actif, \"CLAUDEBOT\", accéder librement à leur contenu. Cela souligne la difficulté pour les propriétaires de sites Web de rester à jour avec les constantes évolutions des robots d'IA. L'article mentionne également les coûts financiers associés aux activités de récupération de contenu de certaines entreprises d'IA, qui peuvent s'élever à des milliers de dollars en frais de bande passante pour les sites Web affectés. La confusion entourant les agents de récupération et leur propriété rend difficile pour les créateurs de contenu de bloquer efficacement les activités indésirables. Les experts suggèrent que les propriétaires de sites Web adoptent une approche agressive en bloquant les robots soupçonnés d'être associés à l'IA, même si cela signifie parfois bloquer des agents qui n'existent pas.",
-        "image": "",
-        "date": "Mon, 29 Jul 2024 20:23:50 GMT"
     }
 ]
