@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'essor des générateurs de prompts dans l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/01/seriously-questioning-whether-prompt-generators-for-generative-ai-that-produce-ai-written-prompts-are-better-than-human-devised-prompts/?ss=ai",
+        "body": "Cet article explore l'efficacité des générateurs de prompts dans l'IA générative, en se demandant s'ils peuvent produire de meilleurs prompts qu'un humain. Il définit d'abord les générateurs de prompts comme une utilisation de l'IA générative pour générer des prompts pour l'utilisateur, avec l'objectif de réduire les efforts et la frustration associés à la création manuelle de prompts. L'auteur discute ensuite de la nature des générateurs de prompts, de leurs avantages et inconvénients, et fournit un guide détaillé sur leur utilisation, y compris des exemples pratiques de ChatGPT. Bien que les générateurs de prompts puissent offrir une variété d'avantages, tels que l'efficacité et la créativité, l'auteur souligne également certains inconvénients potentiels, notamment la perte du \"toucher humain\" et des problèmes de qualité et d'originalité. L'article conclut en suggérant que les générateurs de prompts ont leur place dans l'écosystème de l'IA, mais qu'ils ne remplaceront pas complètement la création manuelle de prompts dans un proche avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6652c0b9512838a384cfb9fa/0x0.jpg?format=jpg&crop=883,661,x54,y0,safe&width=440",
+        "date": "Thu, 01 Aug 2024 07:00:00 GMT"
+    },
+    {
         "title": "Meta's Long Game",
         "link": "https://www.theverge.com/2024/7/31/24210786/meta-earnings-q2-2024-ai-llama-zuckerberg",
         "body": "Résumé : \n\nL'article présente les derniers résultats financiers de Meta, soulignant que l'IA générative est là pour rester, mais que la rentabilité prendra du temps. Meta, avec ses revenus importants et sa vaste portée, peut se permettre de faire de gros paris sur l'IA. Le PDG Mark Zuckerberg investit massivement dans le matériel Nvidia et d'autres infrastructures, anticipant les futurs rendements. L'assistant IA de Meta est en bonne voie pour devenir le plus utilisé au monde d'ici la fin de l'année. Bien que les fonctionnalités d'IA générative puissent augmenter l'engagement, les véritables revenus proviendront des cas d'utilisation commerciale, tels que la création d'annonces par l'IA et les agents IA pour le service client.",
         "image": "",
         "date": "Wed, 31 Jul 2024 23:22:03 GMT"
+    },
+    {
+        "title": "L'IA au service de l'espionnage",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2271090_une-etude-prouve-quil-est-possible-de-vous-espionner-a-distance-via-votre-cable-hdmi",
+        "body": "Une équipe de recherche a combiné des techniques d'espionnage classiques avec des modèles d'IA modernes pour intercepter et décoder des signaux vidéo transitant par un câble HDMI. En analysant les ondes électromagnétiques émises par les câbles et en utilisant une IA spécialisée, ils ont pu reconstituer le signal et décoder le contenu affiché à l'écran, y compris les identifiants et mots de passe. Bien que cette méthode nécessite du matériel sophistiqué et une IA puissante, elle démontre les possibilités d'exploitation par des agences gouvernementales. L'ajout de \"bruit\" au signal peut complexifier le déchiffrage, mais l'amélioration des capacités de l'IA pourrait rendre cette technique d'espionnage plus efficace à l'avenir.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/18a-1000x667-1-768x512.jpg?resize=200,200&key=c77d552f",
+        "date": "Wed, 31 Jul 2024 23:00:00 GMT"
     },
     {
         "title": "Google facilite la détection des images générées par IA",
@@ -264,12 +278,5 @@
         "body": "Microsoft incite le Congrès à réglementer l'utilisation des deepfakes générés par l'IA pour prévenir la fraude, les abus et la manipulation. Brad Smith, vice-président de Microsoft, plaide pour une action urgente des décideurs politiques afin de protéger les élections et les personnes vulnérables, telles que les seniors et les enfants. L'entreprise souhaite la mise en place d'une loi complète sur la fraude par deepfake, offrant ainsi un cadre légal pour poursuivre les arnaques et fraudes générées par l'IA. Smith souligne également la nécessité de mettre à jour les lois sur l'exploitation sexuelle des enfants et la création d'images intimes non consensuelles pour y inclure les contenus générés par l'IA. Le Sénat a récemment adopté un projet de loi réprimant les deepfakes à caractère sexuel explicite, permettant aux victimes de poursuivre leurs créateurs en justice. Microsoft, ayant dû renforcer les contrôles de sécurité de ses propres produits IA, reconnaît la responsabilité du secteur privé dans la mise en place de garde-fous pour prévenir les abus. L'article aborde également la responsabilité des plateformes en ligne, comme X, face à la diffusion de deepfakes, et la proposition de Microsoft de les obliger à utiliser des outils de traçabilité pour étiqueter les contenus synthétiques.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22512651/acastro_210512_1777_deepfake_0003.jpg",
         "date": "Tue, 30 Jul 2024 10:41:02 GMT"
-    },
-    {
-        "title": "Google offre une année d'abonnement à Google One AI Premium avec le Pixel 9 Pro",
-        "link": "https://www.forbes.com/sites/paulmonckton/2024/07/30/pixel-9-pro-new-report-reveals-bundled-offer-worth-240/?ss=ai",
-        "body": "Résumé : \n\nGoogle offrira un abonnement d'un an à Google One AI Premium avec les nouveaux smartphones Pixel 9 Pro, Pixel 9 Pro XL et Pixel 9 Pro Fold, selon un rapport détaillé. Cette offre, d'une valeur de 239,88 $, inclut 2 To de stockage cloud et les fonctionnalités Gemini Advanced de Google. Gemini Advanced active le modèle Gemini 1.5 Pro, offrant des fonctionnalités telles que Gemini in Gmail and Docs. Le rapport comprend des supports promotionnels officiels du Pixel 9 Pro confirmant l'offre. Une mise à jour du 30 juillet mentionne également six nouvelles extensions Gemini, dont trois sont entièrement nouvelles, rapprochant Gemini de la possibilité de remplacer Google Assistant.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/669948edbe5e9da3f6bafbf7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 30 Jul 2024 09:00:00 GMT"
     }
 ]
