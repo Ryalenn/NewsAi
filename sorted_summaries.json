@@ -1,5 +1,33 @@
 [
     {
+        "title": "GitHub ouvre ses portes à l'IA Générative",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/08/02/github-launches-integrated-model-playground-for-ai-developers/?ss=ai",
+        "body": "GitHub Models est une nouvelle fonctionnalité qui permet aux développeurs d'accéder et d'interagir avec des modèles d'IA générative directement depuis l'interface web de GitHub, y compris avec des modèles leaders du marché comme Command de Cohere et GPT-4 d'OpenAI. Cette fonctionnalité s'intègre parfaitement à GitHub Codespaces et Visual Studio Code, permettant aux développeurs d'expérimenter, de tester et de comparer différents modèles sans quitter leur environnement de développement. GitHub Models ressemble aux playgrounds de modèles proposés par les fournisseurs de cloud comme Azure, mais avec un accès plus immédiat et sans les étapes préliminaires requises par les plateformes d'entreprise. Cette initiative s'aligne sur la stratégie de Microsoft visant à améliorer l'accessibilité et l'utilisabilité de l'IA, offrant un chemin fluide depuis l'expérimentation jusqu'au déploiement à grande échelle sur Azure. De plus, GitHub Models facilite l'adoption de l'IA générative dans l'éducation, avec des annonces de tests dans des cours universitaires renommés. La fonctionnalité est actuellement en version bêta publique limitée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ac705737d052f7207eb05f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 Aug 2024 05:37:00 GMT"
+    },
+    {
+        "title": "Démocratisation des données grâce à l'IA générative",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/02/17-generative-ai-data-analytics-tools-everyone-should-know-about/?ss=ai",
+        "body": "L'IA générative révolutionne l'analyse de données en la rendant accessible à tous, et non plus réservée aux seuls experts en science des données. Cet article présente 17 outils d'analyse de données basées sur l'IA générative, permettant d'extraire des insights et de prendre des décisions éclairées. \n\n- Alteryx",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ac6eff276498743b6dbcd8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 Aug 2024 05:31:00 GMT"
+    },
+    {
+        "title": "Le déclin d'Intel",
+        "link": "https://www.frandroid.com/marques/intel-materiels-accessoires/2272408_incapable-de-rivaliser-sur-lia-intel-va-licencier-quasiment-19-000-personnes-dici-a-la-fin-de-lannee",
+        "body": "Intel, l'un des géants de l'industrie technologique, est aux prises avec des difficultés financières et des polémiques entourant ses processeurs de 13e et 14e générations. Dans un effort de réduction des coûts, l'entreprise a annoncé un plan de licenciement massif, visant à réduire ses effectifs de 15 %, soit environ 19 000 personnes. Cette décision, selon le PDG Pat Gelsinger, est due au retard qu'a pris Intel dans le domaine de l'IA, ainsi qu'à des investissements massifs dans ses fonderies. La société a investi fortement dans la production de puces capables d'offrir des fonctionnalités d'IA, creusant ainsi son déficit. Gelsinger a également admis que les revenus de l'entreprise n'avaient pas augmenté comme prévu et qu'ils n'avaient pas su tirer pleinement parti de grandes tendances telles que l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/intel-pat-gelsinger-ia-1200x675-1-768x432.jpg?resize=169,169&key=00612f00",
+        "date": "Thu, 01 Aug 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Nvidia RTX : des cartes graphiques au service de l'IA créative",
+        "link": "https://www.frandroid.com/marques/nvidia/2080886_ces-trois-applications-bien-connues-des-creatifs-utilisent-deja-lia-et-ca-change-tout",
+        "body": "Les cartes graphiques Nvidia RTX, grâce à leur puissance et à l'intégration de l'IA, révolutionnent le travail des créateurs en leur faisant gagner un temps précieux. Des applications comme DaVinci Resolve, Premiere Pro et Nvidia Broadcast utilisent l'IA pour effectuer des tâches complexes, telles que le suivi de sujets, l'amélioration audio et la personnalisation de l'arrière-plan. Les Tensor Core, des puces dédiées à l'IA, sont intégrées aux cartes RTX, garantissant des temps de rendu rapides. Nvidia collabore également avec des constructeurs pour proposer des PC optimisés pour la création, comme l'Asus VivoBook 15 Pro OLED.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/nvidia-broadcast-une-768x432.jpg?resize=169,169&key=36c98c22",
+        "date": "Thu, 01 Aug 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : une perspective éthique et pratique",
         "link": "https://voxmedia.stories.usechorus.com/quick-compose/17a3c669-b8ff-4f29-83f3-a3445149ded8",
         "body": "L'article explore les développements actuels et futurs de l'IA, en mettant l'accent sur les considérations éthiques et pratiques qui façonneront son utilisation à l'avenir. Il souligne l'importance de la responsabilité, de la transparence et de l'équité dans le développement et le déploiement de systèmes d'IA. L'auteur suggère que l'avenir de l'IA dépend de notre capacité à gérer les préjugés, à garantir la confidentialité des données et à maintenir la confiance du public. L'article aborde également les défis pratiques, tels que la nécessité de données de haute qualité et de diversifiées, ainsi que les problèmes de mise à l'échelle et d'interopérabilité. Il plaide pour une collaboration intersectorielle et internationale pour relever ces défis et développer des normes et des réglementations cohérentes. L'article conclut que l'avenir de l'IA nécessite une approche réfléchie et éthique, qui équilibre les avantages potentiels avec les risques pour créer une technologie responsable et bénéfique pour la société.",
@@ -243,26 +271,5 @@
         "body": "Les actions des entreprises de puces électroniques ont rebondi après que les États-Unis aient exempté certains alliés, dont le Japon et les Pays-Bas, des restrictions commerciales sur la technologie des semi-conducteurs. Cette nouvelle a atténué les pertes suite à la chute des actions des grandes entreprises technologiques, les investisseurs s'interrogeant sur la rentabilité des investissements importants dans l'IA. Les actions des principales entreprises de puces ont grimpé, avec des gains notables pour ASML, Tokyo Electron et SK Hynix. Les entreprises américaines Nvidia et AMD ont également rebondi, avec des prévisions de revenus optimistes. Cette nouvelle survient après une journée difficile pour les actions des grandes entreprises technologiques, avec des chutes pour Meta, Microsoft, Nvidia, Amazon et Netflix. Les semi-conducteurs sont essentiels pour le secteur technologique et ont une valeur économique et stratégique, avec une industrie mondiale estimée à 600 milliards de dollars. Ils sont également cruciaux pour le développement de l'IA et d'autres technologies émergentes. Les restrictions commerciales sur la technologie des semi-conducteurs visent à limiter l'accès de la Chine à cette technologie, les États-Unis considérant leur suprématie dans ce domaine comme une priorité stratégique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66aa24d51991b0cc946c2c94/0x0.jpg?format=jpg&crop=3000,1687,x0,y128,safe&width=440",
         "date": "Wed, 31 Jul 2024 11:50:00 GMT"
-    },
-    {
-        "title": "Printing Blocks Evolution",
-        "link": "https://www.forbes.com/sites/janakirammsv/2024/07/31/zyphra-launches-zamba2-an-efficient-and-faster-small-language-model/?ss=ai",
-        "body": "Zyphra, une entreprise de calcul probabiliste full-stack, a récemment publié Zamba2-2.7B, un modèle de langage compact et performant. Ce modèle offre une vitesse doublée et une réduction de 27 % de la mémoire par rapport aux autres modèles. Les petits modèles de langage (SLM) sont une évolution importante dans le domaine de l'IA, offrant des capacités avancées avec des exigences informatiques réduites. Zamba2-2.7B utilise des techniques avancées, comme le schéma d'attention partagée interleaved avec des projecteurs LoRA, pour gérer efficacement des tâches complexes. Il présente également une latence de génération inférieure, ce qui le rend adapté aux appareils avec des ressources mémoire limitées. Le modèle est formé sur un vaste ensemble de données de 3 billions de jetons, y compris les ensembles de données propriétaires de Zyphra, et est disponible sous licence open source. De plus, Zyphra a également publié précédemment un modèle SSM-hybride open source de 7 milliards, appelé Zamba, qui vise à réduire les coûts d'inférence tout en apportant l'IA à plus d'appareils. Les avancées de Zyphra soulignent l'importance croissante des SLM, offrant un équilibre entre performances et efficacité, et rendant l'IA avancée plus accessible et durable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a9d314a82b4213f04d0dc2/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 31 Jul 2024 06:00:00 GMT"
-    },
-    {
-        "title": "L'IA dans les soins de santé : un potentiel révolutionnaire ou un simple effet de mode ?",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/07/31/ai-in-healthcare-revolutionizing-medicine-or-overhyped-promise/?ss=ai",
-        "body": "Bien que l'IA ait déjà un impact significatif sur les soins de santé, il est important de distinguer la réalité de l'effet de mode. Si l'IA a accéléré la découverte de vaccins et de médicaments, amélioré l'interprétation des analyses médicales et réduit les durées d'hospitalisation, il y a également eu des échecs et des revendications exagérées. Les opinions divergent sur la valeur réelle de l'IA dans les soins de santé, mais la plupart s'accordent à dire que ses applications les plus précieuses impliqueront une augmentation des compétences humaines plutôt qu'un remplacement. Les défis en matière de confidentialité des données, de coûts de mise en œuvre et de formation des professionnels de santé doivent être relevés pour concrétiser les prédictions les plus optimistes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a9ce2ec16ae4ca2d84bf9f/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 31 Jul 2024 05:40:00 GMT"
-    },
-    {
-        "title": "L'IA et la déontologie juridique",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/07/31/american-bar-association-lowers-the-boom-and-lays-down-the-law-on-lawyers-proper-use-of-generative-ai/?ss=ai",
-        "body": "L'American Bar Association (ABA) a récemment publié l'Opinion formelle 512, un document de 15 pages fournissant des directives sur l'utilisation de l'IA générative dans la pratique juridique. L'opinion met en évidence plusieurs considérations importantes pour les avocats, notamment la compétence, la confidentialité, la communication, les revendications et les affirmations méritoires, la franchise envers le tribunal, les responsabilités de supervision et les honoraires. L'opinion souligne que les avocats doivent utiliser l'IA générative de manière compétente et éthique, en veillant à préserver la confidentialité des informations client. Elle aborde également la question de savoir si les avocats doivent informer leurs clients de leur utilisation de l'IA générative. L'opinion souligne la responsabilité des cabinets d'avocats et des superviseurs dans la formation et la supervision appropriées des avocats utilisant l'IA générative. Enfin, elle aborde les implications de l'IA générative sur la facturation et les honoraires juridiques. L'Opinion formelle 512 fournit un guide complet pour les avocats et les cabinets juridiques qui adoptent l'IA générative, garantissant une utilisation éthique et conforme aux règles de déontologie juridique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a9b69229bee43b04a31e8e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 31 Jul 2024 04:00:00 GMT"
     }
 ]
