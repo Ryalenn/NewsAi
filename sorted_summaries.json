@@ -1,5 +1,19 @@
 [
     {
+        "title": "La grande distribution",
+        "link": "https://www.theverge.com/2024/8/3/24212580/meta-ai-voice-assistant-celebrity-voices-judi-dench-awkwafina-keegan-michael-key",
+        "body": "Résumé : Meta est en pourparlers avec de grandes agences de talents hollywoodiennes pour s'assurer les voix de célébrités telles que Judi Dench, Keegan-Michael Key et Awkwafina pour ses produits d'assistant numérique et d'IA. Ces voix seront utilisées dans l'écosystème de médias sociaux de Meta, y compris Facebook, Instagram et les lunettes intelligentes Meta Ray-Ban. Les contrats seraient temporaires et les acteurs auraient la possibilité de les renouveler. Meta n'est pas le premier à utiliser des voix de célébrités, mais l'utilisation de l'IA pour imiter les voix humaines de manière convaincante est une nouveauté intéressante.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
+        "date": "Sat, 03 Aug 2024 18:05:29 GMT"
+    },
+    {
+        "title": "Les géants de la tech et la course à l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft, Google, OpenAI et Meta investissent massivement dans la technologie des chatbots basée sur des modèles linguistiques de grande taille. Meta prévoit de présenter de nouvelles voix pour son assistant IA, notamment celles de célébrités, lors de sa conférence Meta Connect en septembre. La course à l'IA s'intensifie, avec des entreprises comme Meta et OpenAI développant de nouveaux outils et fonctionnalités, telles que des assistants numériques, des moteurs de recherche et des capacités de génération d'images. Les entreprises de technologie concluent également des accords et des coalitions pour sécuriser les données et la propriété intellectuelle, tout en s'assurant un accès continu aux données pour entraîner leurs modèles d'IA. Les entreprises investissent également dans la sécurité de l'IA, formant la Coalition for Secure AI (CoSAI) pour aborder les questions de sécurité, de confidentialité et de sûreté.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sat, 03 Aug 2024 18:05:29 GMT"
+    },
+    {
         "title": "Nvidia's AI Chip Delay",
         "link": "https://www.theverge.com/2024/8/3/24212518/nvidia-ai-chip-delay-blackwell-b200-microsoft-amazon-google-openai-meta-artificial-intelligence",
         "body": "Nvidia a informé Microsoft et au moins un autre fournisseur de cloud d'un retard de trois mois dans la production de ses puces d'IA \"Blackwell\" B200 en raison d'un défaut de conception découvert tardivement. Les puces B200 succèdent aux populaires puces H100, qui alimentent une grande partie de l'infrastructure cloud d'IA. Nvidia prévoit une augmentation de la production des puces au second semestre. La société travaille actuellement sur une nouvelle série de tests avec le producteur de puces Taiwan Semiconductor Manufacturing Company. Des entreprises comme Microsoft, Google et Meta ont passé des commandes de dizaines de milliards de dollars pour ces puces. Le retard survient alors que Nvidia avait annoncé que les produits basés sur Blackwell seraient disponibles en 2024, et que la société prévoyait de lancer de nouvelles puces d'IA chaque année.",
@@ -145,47 +159,5 @@
         "body": "GitHub lance GitHub Models, donnant aux développeurs un accès sans précédent à des modèles d'IA de pointe, leur permettant de devenir des ingénieurs IA. Avec des modèles comme Llama 3.1, GPT-4o et Phi 3, les développeurs peuvent désormais expérimenter et créer des applications IA directement sur la plateforme GitHub. Cet espace de jeu intégré permet aux utilisateurs d'essayer différents prompts et paramètres de modèle gratuitement. De plus, GitHub Models s'intègre parfaitement à Codespaces et VS Code pour un développement sans friction. Azure AI fournit une sécurité de niveau entreprise et une disponibilité mondiale pour les applications prêtes pour la production. GitHub s'engage à démocratiser l'IA, avec plus de 100 000 projets IA génératifs créés sur sa plateforme l'année dernière. GitHub Copilot, qui écrit déjà près de 50 % du code, évolue vers Copilot Workspace, permettant une programmation en langage naturel. L'auteur, Thomas Dohmke, PDG de GitHub, prévoit un avenir où 10 % de la population mondiale utilisera l'IA pour accélérer les progrès humains.",
         "image": "",
         "date": "Thu, 01 Aug 2024 18:48:08 GMT"
-    },
-    {
-        "title": "L'avenir de la prise de décision en entreprise : l'IA et la salle de conseil",
-        "link": "https://www.forbes.com/sites/hessiejones/2024/08/01/does-ai-deserve-a-seat-at-the-boardroom-table/?ss=ai",
-        "body": "L'intégration de l'IA, notamment des modèles prédictifs et des grands modèles linguistiques, dans les opérations commerciales de haut niveau modifie la dynamique de la salle de conseil et influence les responsabilités de la haute direction. L'IA a un impact profond sur la gouvernance d'entreprise et la prise de décision stratégique, et les conseils d'administration font pression sur les PDG pour qu'ils développent des stratégies globales en matière d'IA et mettent en place des systèmes de prise de décision en temps réel basés sur les données. Cet article explore l'évolution du rôle de l'IA dans la salle de conseil, en mettant en lumière les commentaires d'Andy Byrne, PDG de Clari, et de Rak Garg, associé chez Bain Capital Ventures. Byrne souligne la nécessité d'une transparence accrue, affirmant que les méthodes traditionnelles de partage des informations sur les performances sont obsolètes et constituent une violation des responsabilités fiduciaires. Garg ajoute que l'IA est désormais un impératif stratégique pour les grandes entreprises, leur permettant d'améliorer l'efficacité du travail et de rester compétitives. Les entreprises commencent par identifier les cas d'utilisation à court terme pour l'IA générative, en se concentrant sur la productivité des développeurs, le service client et l'amélioration de la productivité générale. Cependant, des obstacles tels que les compétences limitées en IA et les préoccupations éthiques entravent une adoption plus large. Byrne et Garg soulignent l'importance de la confiance dans les résultats de l'IA, et Byrne suggère que les entreprises doivent aligner les recommandations de l'IA avec leurs objectifs et valeurs organisationnels. Garg propose une approche globale de la mitigation des risques, en tenant compte des intérêts des clients, des partenaires et des employés. Il souligne également la nécessité de nouvelles compétences et de nouveaux rôles pour gérer les défis émergents de l'IA. Enfin, Byrne et Garg insistent sur le fait que l'IA ne remplacera pas le jugement humain, mais le complétera, et que les dirigeants devront développer de nouvelles compétences pour interpréter et évaluer efficacement les recommandations de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66abc6d0b6f1db4f07006002/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 01 Aug 2024 18:01:00 GMT"
-    },
-    {
-        "title": "L'IA, un outil au service de la créativité artistique",
-        "link": "https://www.forbes.com/sites/charliefink/2024/08/01/is-ai-a-writers-best-friend-or-worst-enemy/?ss=ai",
-        "body": "Bien que l'IA, comme ChatGPT, puisse aider les écrivains professionnels, elle ne peut pas remplacer leur créativité. L'IA peut effectuer des recherches approfondies et fournir des suggestions, mais l'écrivain reste l'interprète final. Les écrivains de fiction, en particulier, peuvent bénéficier de l'IA pour les détails et les dialogues, tandis que les écrivains de non-fiction et les journalistes peuvent l'utiliser pour organiser et récupérer des informations rapidement. Malgré les craintes de perte d'emplois et de livres spam, l'IA améliore le travail des écrivains tout en leur permettant de se concentrer sur leur créativité artistique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66abd17d6b163644b1f7c337/0x0.jpg?format=jpg&crop=3113,1753,x0,y36,safe&width=440",
-        "date": "Thu, 01 Aug 2024 18:00:00 GMT"
-    },
-    {
-        "title": "La Révolution de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/08/01/ais-acceleration-point-what-can-we-learn-from-the-internet/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66abcbb8446982209ffef14a/0x0.jpg?format=jpg&crop=3000,1688,x0,y47,safe&width=440",
-        "date": "Thu, 01 Aug 2024 17:53:00 GMT"
-    },
-    {
-        "title": "The Future of AI",
-        "link": "https://www.theverge.com/authors/kylie-robison",
-        "body": "Kylie Robison, Senior AI Reporter pour *The Verge*, couvre l'actualité de l'IA, de la technologie et des politiques publiques. Son travail comprend des reportages sur les coulisses de X d'Elon Musk, OpenAI et des startups d'IA. Robison a récemment rapporté l'engagement d'OpenAI envers la sécurité de l'IA, avec 20 % de ses ressources informatiques dédiées à cet objectif. Elle a également souligné les préoccupations concernant la violation potentielle des règles de l'UE par X en matière de protection des données, en utilisant les publications des utilisateurs pour entraîner son chatbot Grok. DeepMind a fait des progrès en matière d'IA mathématique, avec AlphaProof et AlphaGeometry résolvant des problèmes de l'Olympiade Internationale de Mathématiques.",
-        "image": "",
-        "date": "Thu, 01 Aug 2024 16:25:09 GMT"
-    },
-    {
-        "title": "Hedra, la nouvelle plateforme de création vidéo basée sur l'IA",
-        "link": "https://www.forbes.com/sites/charliefink/2024/08/01/hedra-gen-ai-video-launches-with-10-million-in-seed-funding/?ss=ai",
-        "body": "Hedra, une nouvelle plateforme de création vidéo assistée par l'IA, a été lancée avec un financement de départ de 10 millions de dollars. Malgré un investissement relativement modeste par rapport à ses concurrents, Hedra se distingue par sa vitesse et son contrôle. Character-1, son offre phare, est un modèle de fondation vidéo qui permet aux créateurs de produire des vidéos longues et axées sur les personnages. Les fondateurs d'Hedra affirment que leur outil répond à un besoin critique du marché en termes de vitesse et de contrôle, un équilibre difficile à atteindre pour les modèles vidéo génératifs précédents. Hedra est conçu pour les créateurs de contenu, les marketeurs et les entreprises souhaitant tirer parti des flux de travail de création vidéo assistés par l'IA. La plateforme a déjà attiré plus de 350 000 utilisateurs et a généré 1,6 million de vidéos, soulignant ainsi son attrait et sa polyvalence. L'un des principaux avantages d'Hedra est sa capacité à intégrer plusieurs aspects de la création de contenu dans un flux de travail unifié et transparent. Cet outil rationalisé permet aux utilisateurs de créer des avatars numériques personnalisables avec des apparences, des voix et des personnalités uniques. La technologie d'Hedra utilise des techniques d'IA avancées pour offrir un contrôle expressif élevé, ce qui en fait une solution polyvalente pour différents besoins en matière de création de contenu.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66aafb09ab0459c22470fc5e/0x0.jpg?format=jpg&crop=1021,574,x408,y240,safe&width=440",
-        "date": "Thu, 01 Aug 2024 16:14:00 GMT"
-    },
-    {
-        "title": "Google Lens sur desktop Chrome s'améliore grâce à l'IA",
-        "link": "https://www.theverge.com/2024/8/1/24210670/google-chrome-lens-ai-search-history",
-        "body": "Google Lens, désormais intégré à la version bureau de Chrome, bénéficie d'une mise à jour basée sur l'IA. Cette nouvelle fonctionnalité permet aux utilisateurs de lancer une recherche visuelle directement depuis la barre de recherche de Google, sans avoir à ouvrir un nouvel onglet. En cliquant sur l'icône Google Lens, une barre latérale s'affiche, permettant une \"multirecherche\" combinant texte et image. De plus, Google introduit une fonctionnalité basée sur l'IA pour la recherche dans l'historique, permettant aux utilisateurs de poser des questions sur leurs recherches précédentes. Par exemple, en demandant \"quel était ce glacier que j'ai vu la semaine dernière ?\", les résultats pertinents de l'historique s'afficheront. Ces mises à jour offrent une expérience de recherche plus pratique et intuitive, améliorant ainsi la navigation web.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24418649/STK114_Google_Chrome_02.jpg",
-        "date": "Thu, 01 Aug 2024 16:00:00 GMT"
     }
 ]
