@@ -89,19 +89,5 @@
         "body": "Le Département américain de la Justice (DoJ) a ouvert deux enquêtes distinctes sur Nvidia concernant des pratiques anticoncurrentielles liées à ses activités dans le domaine de l'IA. La première enquête portera sur le rachat de Run:ai par Nvidia, tandis que la seconde évaluera si Nvidia a abusé de sa position dominante sur le marché des puces IA pour décourager les clients d'utiliser les produits de ses concurrents. Nvidia est estimée contrôler entre 70 et 95 % du marché des puces pour l'entraînement des modèles IA, ce qui a attiré l'attention des régulateurs sur ses pratiques commerciales. Les régulateurs américains et internationaux ont récemment examiné de près les acquisitions importantes dans le secteur de la tech, en particulier dans le domaine de l'IA, pour prévenir les pratiques anticoncurrentielles et les monopoles. La seconde enquête du DoJ fait suite à des plaintes de concurrents, alléguant qu'Nvidia a exercé une pression sur les fournisseurs de cloud pour qu'ils achètent ses produits, et qu'elle surfacture ses clients en équipement réseau s'ils achètent des puces IA à des entreprises rivales comme AMD et Intel. Nvidia a déclaré qu'elle se conforme à toutes les lois et que ses produits sont disponibles pour tous les clients, tout en soutenant les innovateurs émergents.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25343250/STK083_B_NVIDIA_A.jpg",
         "date": "Fri, 02 Aug 2024 09:49:57 GMT"
-    },
-    {
-        "title": "GitHub ouvre ses portes à l'IA Générative",
-        "link": "https://www.forbes.com/sites/janakirammsv/2024/08/02/github-launches-integrated-model-playground-for-ai-developers/?ss=ai",
-        "body": "GitHub Models est une nouvelle fonctionnalité qui permet aux développeurs d'accéder et d'interagir avec des modèles d'IA générative directement depuis l'interface web de GitHub, y compris avec des modèles leaders du marché comme Command de Cohere et GPT-4 d'OpenAI. Cette fonctionnalité s'intègre parfaitement à GitHub Codespaces et Visual Studio Code, permettant aux développeurs d'expérimenter, de tester et de comparer différents modèles sans quitter leur environnement de développement. GitHub Models ressemble aux playgrounds de modèles proposés par les fournisseurs de cloud comme Azure, mais avec un accès plus immédiat et sans les étapes préliminaires requises par les plateformes d'entreprise. Cette initiative s'aligne sur la stratégie de Microsoft visant à améliorer l'accessibilité et l'utilisabilité de l'IA, offrant un chemin fluide depuis l'expérimentation jusqu'au déploiement à grande échelle sur Azure. De plus, GitHub Models facilite l'adoption de l'IA générative dans l'éducation, avec des annonces de tests dans des cours universitaires renommés. La fonctionnalité est actuellement en version bêta publique limitée.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ac705737d052f7207eb05f/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 02 Aug 2024 05:37:00 GMT"
-    },
-    {
-        "title": "Démocratisation des données grâce à l'IA générative",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/02/17-generative-ai-data-analytics-tools-everyone-should-know-about/?ss=ai",
-        "body": "L'IA générative révolutionne l'analyse de données en la rendant accessible à tous, et non plus réservée aux seuls experts en science des données. Cet article présente 17 outils d'analyse de données basées sur l'IA générative, permettant d'extraire des insights et de prendre des décisions éclairées. \n\n- Alteryx",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ac6eff276498743b6dbcd8/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 02 Aug 2024 05:31:00 GMT"
     }
 ]
