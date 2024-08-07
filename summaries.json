@@ -1,19 +1,5 @@
 [
     {
-        "title": "Détection des textes générés par ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2274126_il-existe-un-outil-anti-triche-contre-chatgpt-mais-openai-refuse-de-le-sortir-pour-le-moment",
-        "body": "Un outil capable de détecter avec une précision de 99,9 % les textes générés par ChatGPT est prêt depuis près d'un an, mais OpenAI hésite à le déployer en raison de l'impact potentiel sur l'intérêt des utilisateurs pour le chatbot. Le débat divise l'entreprise, certains craignant que l'outil ne pénalise les utilisateurs non anglophones et ne soit contourné par des méthodes simples. Les enseignants utilisent déjà des méthodes créatives pour détecter les textes générés par l'IA, comme demander d'inclure des références à Batman. Le dilemme d'OpenAI reflète la dichotomie entre transparence et intérêts commerciaux.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/openai-chatgpt-1200x900-1-768x576.jpg?resize=225,225&key=eed4e556",
-        "date": "Sun, 04 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La domination de Nvidia dans l'IA sous surveillance",
-        "link": "https://www.frandroid.com/marques/nvidia/2274054_pourquoi-la-domination-de-nvidia-dans-lia-fait-de-plus-en-plus-grincer-des-dents",
-        "body": "Le ministère de la Justice enquête sur Nvidia, soupçonné d'abus de position dominante sur le marché de l'IA. L'entreprise est accusée de vendre certains produits à des prix excessifs et de forcer ses clients à acheter du matériel supplémentaire. Avec 80 % du marché de l'IA, Nvidia est dans le collimateur des autorités de la concurrence aux États-Unis, au Royaume-Uni et en Europe. L'entreprise se défend en invoquant ses décennies d'investissements et d'innovations, mais les régulateurs s'inquiètent de la dépendance du secteur envers ses technologies.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/computex-2023-keynote-nvidia-keynote-2-11-45-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=d3c1094e",
-        "date": "Sun, 04 Aug 2024 23:00:00 GMT"
-    },
-    {
         "title": "Les défis de la mise en place d'un service de robotaxis",
         "link": "https://www.forbes.com/sites/bradtempleton/2024/08/05/so-youve-built-a-robotaxi-now-wheres-your-infrastructure/?ss=ai",
         "body": "Titre",
@@ -26,12 +12,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66b06eacfe1228278089358c/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 05 Aug 2024 06:19:00 GMT"
-    },
-    {
-        "title": "Retour au bercail",
-        "link": "https://www.theverge.com/2024/8/2/24212348/google-hires-character-ai-noam-shazeer",
-        "body": "Google recrute à nouveau les cofondateurs de Character.AI, Noam Shazeer et Daniel De Freitas, ainsi que leur équipe de recherche d'environ 30 personnes. Cette nouvelle fait suite au départ très médiatisé des deux hommes de Google en 2021, motivé par leur frustration face à la bureaucratie du géant de la recherche. Les quelque 140 employés restants de Character.AI sont laissés pour compte et doivent déterminer leurs prochaines étapes. L'accord surprise avec Google est inhabituel à plusieurs égards, notamment parce que les investisseurs de Character.AI sont indemnisés pour la valeur de leurs actions, malgré l'absence de transfert officiel d'actions. De plus, les employés reçoivent également un paiement en espèces correspondant à la valorisation de leurs actions acquises. Cette histoire met en lumière les complexités du monde de l'IA, où les talents et les équipes de recherche sont très demandés et peuvent avoir un impact significatif sur le succès d'une entreprise.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
-        "date": "Mon, 05 Aug 2024 00:18:31 GMT"
     }
 ]
