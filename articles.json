@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Sans limite : la génération d’images par Grok met la liberté d’Elon Musk à l’épreuve",
+        "title": "Sans limite : la g\u00e9n\u00e9ration d\u2019images par Grok met la libert\u00e9 d\u2019Elon Musk \u00e0 l\u2019\u00e9preuve",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2306772_sans-limite-la-generation-dimages-par-grok-met-la-liberte-delon-musk-a-lepreuve",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/pickachu-mario-winnie-et-mickey-cree-par-grok-sur-x-768x576.jpeg?resize=225,225&key=4f0951e8",
         "date": "Wed, 14 Aug 2024 23:00:00 GMT",
@@ -103,5 +103,26 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3437x2252/2400x1600/filters:focal(1719x1126:1720x1127):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25570968/Pixel_Google_Aug13_Live_Blog_The_Verge_084.JPG",
         "date": "Wed, 14 Aug 2024 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/15/24221218/google-ai-image-generator-imagen-3-available",
+        "image": "",
+        "date": "Thu, 15 Aug 2024 21:13:09 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25574000/voice_alpha2.png",
+        "date": "Thu, 15 Aug 2024 18:33:36 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bethkindig/2024/08/15/arm-stock-buy-its-customers-not-the-stock/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65fc6bab23768f19ac08f56d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 15 Aug 2024 20:51:00 GMT",
+        "check": "no"
     }
 ]
