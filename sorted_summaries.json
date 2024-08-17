@@ -1,5 +1,12 @@
 [
     {
+        "title": "Le vol de contenu, une stratégie risquée pour les startups de l'IA ?",
+        "link": "https://www.theverge.com/2024/8/16/24221353/eric-schmidt-says-the-quiet-part-out-loud",
+        "body": "Lors d'une récente conférence à l'Université Stanford, l'ancien PDG de Google, Eric Schmidt, a fait une déclaration surprenante : il a suggéré que les startups de l'IA pouvaient voler du contenu si elles étaient sûres de leur succès, car elles pourraient ensuite engager des avocats pour « nettoyer le désordre ». Schmidt, qui a dirigé Google de 2001 à 2011, a une certaine expérience en matière de gestion des conséquences juridiques de décisions controversées. Il a également reconnu que Google Search et YouTube, dans leurs premières années, ont connu une croissance rapide en partie grâce à du contenu non autorisé. Cette déclaration soulève des questions éthiques et juridiques importantes pour les entreprises travaillant dans le domaine de l'IA, notamment en ce qui concerne la propriété intellectuelle et les responsabilités morales.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2250x1500/2400x1600/filters:focal(1125x750:1126x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25574312/Eric_Schmidt_Command_Line.png",
+        "date": "Fri, 16 Aug 2024 22:53:49 GMT"
+    },
+    {
         "title": "Une Vie Pleine de Sens",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/08/16/how-we-can-harness-ai-and-age-to-navigate-age-spurts/?ss=ai",
         "body": "Titre",
@@ -12,6 +19,13 @@
         "body": "Résumé : \n\nCet article explore le rôle de l'IA, en particulier de l'IA générative et des grands modèles linguistiques, dans l'aide aux individus pour pardonner et oublier. Il commence par définir le concept de \"pardonner et oublier\" et ses variations, puis présente des études de recherche sur le sujet. L'article suggère que l'IA peut être un outil puissant pour aider les gens à travers le processus de pardon et d'oubli, en offrant un soutien en temps réel, en suivant les états émotionnels et en envoyant des rappels quotidiens. Cependant, il met également en garde contre les limites de l'IA, y compris la possibilité de simplifier excessivement les émotions et les situations complexes. L'article conclut en soulignant l'importance de combiner l'IA avec un soutien humain professionnel pour obtenir les meilleurs résultats.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66820b6035bb2e5ebd662241/0x0.jpg?format=jpg&crop=3480,2611,x416,y0,safe&width=440",
         "date": "Fri, 16 Aug 2024 20:00:00 GMT"
+    },
+    {
+        "title": "ChatGPT utilisé pour influencer les élections américaines",
+        "link": "https://www.theverge.com/2024/8/16/24221982/openai-iranian-chatgpt-accounts-banned-chatgpt-us-election",
+        "body": "OpenAI a interdit plusieurs comptes ChatGPT liés à une campagne d'influence iranienne qui créait et partageait du contenu sur les élections présidentielles américaines, entre autres sujets. L'opération utilisait principalement ChatGPT pour générer des articles et des commentaires sur les réseaux sociaux, qui étaient ensuite publiés sur des plateformes comme Instagram et X. OpenAI a lié ces comptes à Storm-2035, une opération iranienne secrète visant à influencer les électeurs américains en créant des sites web déguisés en médias politiques. La campagne a également généré du contenu sur divers autres sujets, notamment la guerre entre Israël et le Hamas, la participation d'Israël aux Jeux olympiques, la politique au Venezuela et les droits des communautés Latinx aux États-Unis. Selon OpenAI, l'enquête a révélé que la campagne n'avait pas réussi à obtenir un engagement significatif du public, la plupart des publications sur les réseaux sociaux n'ayant reçu que peu ou pas de likes, de partages ou de commentaires.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334823/STK466_ELECTION_2024_CVirginia_D.jpg",
+        "date": "Fri, 16 Aug 2024 19:26:31 GMT"
     },
     {
         "title": "Le futur de l'IA selon Google",
@@ -145,26 +159,5 @@
         "body": "Bien que l'expression « quatrième révolution industrielle » puisse sembler exagérée, l'intelligence artificielle (IA) a le potentiel de transformer profondément la société, à l'instar des révolutions industrielles précédentes. L'IA et l'automatisation intelligente auront un impact significatif sur l'emploi, créant de nouvelles opportunités tout en rendant obsolètes certains emplois axés sur des tâches routinières. L'IA promet des innovations révolutionnaires, telles que les voitures autonomes, la maintenance prédictive et la médecine personnalisée. De plus, tout comme les révolutions industrielles passées ont soulevé des questions éthiques et sociales, l'IA soulève également des préoccupations importantes en matière de vie privée, de sécurité et d'éthique. Malgré les critiques selon lesquelles l'IA est simplement une évolution des technologies existantes, les récents progrès dans le domaine, tels que les grands modèles linguistiques, indiquent que l'IA devient de plus en plus polyvalente. Cependant, l'impact environnemental des centres de données d'IA est une préoccupation majeure, et il reste à voir si la transition vers des sources d'énergie propres sera suffisante pour atténuer cet impact. En fin de compte, l'IA a le potentiel de changer le monde de manière aussi significative que les révolutions industrielles passées, mais relever les défis éthiques, sociaux et technologiques qu'elle pose sera crucial pour réaliser ce potentiel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66bd94ed4cf1909180215a4d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 15 Aug 2024 05:42:00 GMT"
-    },
-    {
-        "title": "La réponse de Google à ChatGPT",
-        "link": "https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai",
-        "body": "Résumé : L'ancien PDG et président de Google, Eric Schmidt, a fait des déclarations controversées, suggérant que Google a été pris de court par la montée en puissance de ChatGPT car ses employés ont privilégié le travail à distance plutôt que la performance. Schmidt a également partagé sa vision d'un monde futur où les agents IA pourraient effectuer des tâches complexes pour les humains. Il a suggéré que les entrepreneurs de la Silicon Valley devraient adopter une approche audacieuse et rapide pour tester de nouvelles idées, en utilisant l'exemple de la création d'un concurrent de TikTok. Malgré les controverses, Schmidt reste une figure influente dans la Silicon Valley et un investisseur prolifique dans les startups, y compris dans le domaine de l'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:7496x5379/2400x1600/filters:focal(3909x2019:3910x2020):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25572964/1241460753.jpg",
-        "date": "Thu, 15 Aug 2024 00:00:24 GMT"
-    },
-    {
-        "title": "La liberté de Grok à l'épreuve",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2306772_sans-limite-la-generation-dimages-par-grok-met-la-liberte-delon-musk-a-lepreuve",
-        "body": "Grok, le chatbot d'Elon Musk pour son réseau social X (ex-Twitter), offre une fonctionnalité de génération d'images basée sur des requêtes textuelles, similaire à Dall-E et Midjourney. Cependant, Grok se distingue par son absence apparente de garde-fous, permettant aux utilisateurs de créer des images sans restrictions, y compris celles violentes, pornographiques ou enfreignant les droits d'auteur. Cette liberté soulève des inquiétudes quant à la désinformation et à la violation de droits. Malgré les affirmations de Grok sur la prudence concernant les droits d'auteur et les deepfakes, les utilisateurs ont pu créer des images de personnages protégés et de personnalités politiques dans des situations trompeuses. La qualité des images produites et la capacité de Grok à mettre en avant Donald Trump, même lors de requêtes sur d'autres présidents, soulèvent des questions sur les intentions de X lors du lancement de ce produit.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/pickachu-mario-winnie-et-mickey-cree-par-grok-sur-x-768x576.jpeg?resize=225,225&key=4f0951e8",
-        "date": "Wed, 14 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'arbitrage dans le football avec l'IA",
-        "link": "https://www.theverge.com/2024/8/14/24220197/iphone-offside-violation-ai-detection-soccer-video-assistant-referee-english-premier-league",
-        "body": "La Premier League anglaise de football adopte une nouvelle technologie d'assistance vidéo à l'arbitrage (VAR) basée sur l'intelligence artificielle et des iPhones. Genius Sports, l'entreprise derrière cette innovation, utilise des dizaines d'iPhones et des modèles d'apprentissage automatique pour aider les officiels à prendre des décisions précises sur les hors-jeu. Leur technologie \"Semi-Assisted Offside Technology\" (SAOT) crée des rendus 3D des joueurs, définissant ainsi la ligne de hors-jeu et la position des joueurs. Cette approche fournit entre 7 000 et 10 000 points de données, créant un maillage virtuel 3D des joueurs et améliorant la précision des décisions arbitrales. GeniusIQ, le système de Genius Sports, utilise la vision informatique et des algorithmes prédictifs pour identifier les parties du corps des joueurs et prédire leur position lorsqu'elles sont cachées. La technologie SAOT de Genius Sports sera pleinement utilisée par la Premier League avant la fin de l'année, marquant une étape importante dans l'utilisation de l'IA dans l'arbitrage sportif.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4255x2837/2400x1600/filters:focal(2128x1419:2129x1420):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25572332/2166662646.jpg",
-        "date": "Wed, 14 Aug 2024 21:37:03 GMT"
     }
 ]
