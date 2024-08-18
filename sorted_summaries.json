@@ -1,5 +1,12 @@
 [
     {
+        "title": "La puissance de l'IA au service de la loi",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/18/supreme-court-justice-decries-the-human-toll-of-too-much-law-so-lets-put-generative-ai-to-work-and-overrule-this-problem-for-good/?ss=ai",
+        "body": "L'article explore la proposition d'utiliser l'IA générative et les grands modèles linguistiques pour résoudre les problèmes liés à l'abondance de lois complexes et ambiguës. Il suggère que l'IA peut aider à rédiger, réviser et interpréter les lois, tout en améliorant leur clarté et leur précision. L'auteur souligne l'importance de garder les humains dans la boucle et propose des mesures de contrôle de qualité pour atténuer les risques de \"fabrications\" de l'IA. L'IA peut également aider les citoyens à naviguer dans les complexités juridiques et augmenter la demande de services juridiques professionnels.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c18f6453d3f7dbeddeec46/0x0.jpg?format=jpg&crop=1618,910,x0,y45,safe&width=440",
+        "date": "Sun, 18 Aug 2024 06:09:00 GMT"
+    },
+    {
         "title": "iPhone 16 et l'avenir de l'IA",
         "link": "https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras",
         "body": "L'article fournit des informations sur les prochains iPhone 16 d'Apple, en se concentrant sur les améliorations liées à l'IA. Les rumeurs suggèrent qu'Apple a redessiné la bosse de la caméra et ajouté un bouton de caméra sensible à la pression. Les modèles Pro auraient des écrans plus grands et tous les iPhone 16 prendraient en charge les fonctionnalités d'IA sur l'appareil, grâce à Apple Intelligence. Cela inclut des résumés et des outils d'écriture locaux, ainsi que des fonctionnalités plus avancées comme Image Playground. Les détails de conception suggèrent également une amélioration de la durée de vie de la batterie et une facilité de remplacement, avec un boîtier en acier inoxydable. La date de sortie d'Apple Intelligence avec iOS 18.1 est prévue pour octobre, selon Bloomberg.",
@@ -89,12 +96,5 @@
         "body": "Le bureau du procureur de la ville de San Francisco intente un procès contre 16 des sites Web de « déshabillage » alimentés par l'IA les plus fréquemment visités, souvent utilisés pour créer des deepfakes de femmes et de filles nues sans leur consentement. Le procès, annoncé par le procureur de la ville David Chiu, révèle que les sites ciblés ont enregistré collectivement plus de 200 millions de visites au cours des six premiers mois de 2024. Les sites en question permettent aux utilisateurs de télécharger des images de personnes réelles vêtues, qui sont ensuite « déshabillées » numériquement à l'aide d'outils IA pour simuler la nudité. Les opérateurs de ces sites sont accusés de violer les lois étatiques et fédérales interdisant la pornographie vengeresse, la pornographie deepfake et la pornographie infantile, ainsi que la loi californienne sur la concurrence déloyale. Le procès cherche à obtenir des pénalités civiles, à fermer les sites Web et à empêcher leurs exploitants de créer à l'avenir de la pornographie deepfake. Cette affaire intervient dans un contexte d'attention accrue portée à la création et à la propagation d'images intimes non consensuelles, alimentées par les progrès de l'IA, ce qui conduit à une augmentation des cas de « sextorsion ».",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330613/STK419_DEEPFAKE_CVIRGINIA_E.jpg",
         "date": "Fri, 16 Aug 2024 10:26:34 GMT"
-    },
-    {
-        "title": "Le futur de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/16/where-will-artificial-intelligence-take-us-in-the-future/?ss=ai",
-        "body": "Titre : Le futur de l'IA : une exploration des possibilités",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66bee357cf48b97789cbc270/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 16 Aug 2024 05:29:00 GMT"
     }
 ]
