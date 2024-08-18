@@ -96,33 +96,5 @@
         "body": "Titre : Le futur de l'IA : une exploration des possibilités",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66bee357cf48b97789cbc270/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 16 Aug 2024 05:29:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA et les dernières avancées",
-        "link": "https://www.forbes.com/sites/charliefink/2024/08/15/groq-ai-raises-640-million-arborxr-voyceme-ai-also-in-the-money/?ss=ai",
-        "body": "La nouvelle version de l'IA chatbot Grok, Grok-2, peut désormais générer des images grâce au modèle FLUX.1 de Black Forest Labs. Groq, une startup de semi-conducteurs, a levé 640 millions de dollars pour ses puces d'inférence IA. ArborXR, une plateforme de gestion de dispositifs AR et VR, a sécurisé 12 millions de dollars pour son expansion. VoyceMe, une plateforme de manga et de webtoon, lève 7,5 millions de dollars pour ses outils de création IA. Fly apporte Google Earth sur Quest et Apple Vision Pro, offrant une expérience de vol immersive. Yokai est un court-métrage IA de Luis Riancho et Galeon Studios. L'Omni One de Virtuix, un tapis de course omnidirectionnel pour la VR, sera lancé le mois prochain.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66bea382600ae409453a2a1a/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 16 Aug 2024 01:05:00 GMT"
-    },
-    {
-        "title": "Geekbench AI : un nouvel outil d'évaluation des performances pour les charges de travail liées à l'IA",
-        "link": "https://www.theverge.com/2024/8/15/24221382/geekbench-ai-benchmark-software",
-        "body": "Geekbench, une populaire suite de tests de performance, lance un nouvel outil multiplateforme pour évaluer les capacités de traitement de l'IA d'un appareil, nommé Geekbench AI. L'outil évalue le CPU, le GPU et le NPU d'un appareil, en utilisant différents frameworks d'IA comme ONNX, CoreML et TensorFlow Lite. Geekbench AI fournit trois scores de précision différents et mesure également l'exactitude des sorties de charges de travail par rapport aux résultats attendus. Cet outil pourrait devenir un standard pour évaluer les performances des appareils dans des tâches d'IA en temps réel, comme l'efficacité de la suggestion de texte prédictif ou la qualité des images générées par des outils d'IA.",
-        "image": "",
-        "date": "Thu, 15 Aug 2024 23:50:45 GMT"
-    },
-    {
-        "title": "Google Pixel 9 Pro : l'IA au service de la photographie",
-        "link": "https://www.frandroid.com/produits-android/smartphone/2301222_plus-de-500-euros-de-cadeaux-et-de-remises-la-meilleure-offre-de-precommande-du-pixel-9-pro-est-chez-google",
-        "body": "Google a présenté le Pixel 9 Pro, un smartphone qui met l'accent sur la photographie et l'IA. Le Pixel 9 Pro est doté de trois capteurs photo arrière, dont un capteur ultra grand-angle avec autofocus, et d'un capteur selfie de 42 mégapixels. Google a également amélioré ses algorithmes d'IA pour le traitement des images, permettant des rendus plus nets et précis. Le smartphone intègre Gemini, l'IA de Google capable d'interpréter des photos et de répondre à des questions. L'offre de précommande du Pixel 9 Pro sur le Google Store inclut des avantages tels qu'un étui, un abonnement YouTube Premium et des crédits Google Store.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/google-pixel-9-pro-xp-03-768x432.jpg?resize=169,169&key=12d86119",
-        "date": "Thu, 15 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : l'importance de la collaboration humain-machine",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/08/15/let-humans-drive-the-bus-insights-on-llm-limitations-and-more/?ss=ai",
-        "body": "Usama Fayyad, fondateur et président d'Open Insights, a récemment donné une conférence sur l'IA, abordant des sujets tels que l'enthousiasme et l'excitation autour de l'IA, son impact sur le monde des affaires et le rôle crucial des données et de l'apport humain dans le déploiement de systèmes d'IA/ML. Fayyad souligne que l'IA intégrera de nombreux flux de travail, et que les individus devront s'adapter en utilisant eux-mêmes l'IA pour rester pertinents. Il met en avant l'importance de comparer les résultats de l'IA aux résultats humains pour améliorer la compréhension. En ce qui concerne ChatGPT, Fayyad souligne le rôle de la base d'utilisateurs dans son succès, tout en mettant en garde contre les dangers potentiels de l'IA, tels que les deepfakes. Il fournit également des insights sur le fonctionnement des LLMs, soulignant qu'ils ne pensent pas, ne hallucinent pas et ne font que mimer la conversation. Enfin, il suggère que l'implication humaine dans les projets d'IA et la collaboration entre les milieux universitaires et les entreprises sont essentielles pour façonner l'avenir de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66be7bee83cedf39c86c6def/0x0.jpg?format=jpg&crop=2722,1532,x0,y137,safe&width=440",
-        "date": "Thu, 15 Aug 2024 22:00:00 GMT"
     }
 ]
