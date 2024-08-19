@@ -1,5 +1,12 @@
 [
     {
+        "title": "La menace de l'effondrement des modèles",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/19/why-ai-models-are-collapsing-and-what-it-means-for-the-future-of-technology/?ss=ai",
+        "body": "Résumé : \n\nL'article explore le phénomène de « l'effondrement des modèles », qui se produit lorsque des modèles d'IA sont entraînés sur des données incluant du contenu généré par des versions précédentes d'eux-mêmes, s'éloignant ainsi progressivement de la distribution de données réelles. Cela entraîne une dégradation de la compréhension du monde par l'IA, conduisant à des erreurs et à une sortie de contenu moins diversifiée et moins créative. Ce problème a des implications de grande portée, menaçant la qualité des services basés sur l'IA, et pourrait exacerber les préjugés et les inégalités. Pour éviter l'effondrement des modèles, l'IA doit continuer à être formée à des données humaines de haute qualité, ce qui soulève des défis éthiques et juridiques. De plus, la transparence et la collaboration au sein de la communauté de l'IA sont essentielles, tout comme l'intégration de « réinitialisations » périodiques avec de nouvelles données humaines. La gestion de ce problème est cruciale pour garantir que l'IA reste un outil puissant et pertinent à l'avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c2e0d19ca2a526de761b1f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 Aug 2024 06:06:00 GMT"
+    },
+    {
         "title": "Les limites de l'IA générative",
         "link": "https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza",
         "body": "Bien que prometteuse, l'IA générative de Google fait face à des défis importants, comme en témoigne sa nouvelle fonctionnalité AI Overviews. Malgré les avertissements et les étiquettes « expérimentales », l'IA fournit des informations erronées et des réponses absurdes, remettant en question sa fiabilité. L'article souligne la tendance des entreprises à éviter la responsabilité des échecs de l'IA et souligne les problèmes actuels de l'IA, plutôt que de se concentrer uniquement sur son futur idéal.",
