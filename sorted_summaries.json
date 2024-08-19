@@ -1,5 +1,19 @@
 [
     {
+        "title": "Les limites de l'IA générative",
+        "link": "https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza",
+        "body": "Bien que prometteuse, l'IA générative de Google fait face à des défis importants, comme en témoigne sa nouvelle fonctionnalité AI Overviews. Malgré les avertissements et les étiquettes « expérimentales », l'IA fournit des informations erronées et des réponses absurdes, remettant en question sa fiabilité. L'article souligne la tendance des entreprises à éviter la responsabilité des échecs de l'IA et souligne les problèmes actuels de l'IA, plutôt que de se concentrer uniquement sur son futur idéal.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1128x628/2400x1336/filters:focal(564x314:565x315):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25578075/Screenshot_2024_08_18_at_4.05.06_PM.png",
+        "date": "Sun, 18 Aug 2024 21:28:32 GMT"
+    },
+    {
+        "title": "Les géants de la tech et l'avenir de l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "De grands acteurs de l'industrie technologique, comme Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à des modèles linguistiques de grande taille qui apprennent le langage par autocompletion et l'analyse des propriétés statistiques du langage. Cependant, ces outils peuvent présenter des informations fausses comme vraies. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les réglementations proposées par la FCC sur les appels robotisés utilisant l'IA, les préoccupations concernant la gestion des lanceurs d'alertes et des critiques internes par OpenAI, ainsi que les fonctionnalités d'IA dans les produits Apple, Nvidia, Reddit, Bing et Meta. L'article mentionne également des collaborations entre les géants de l'IA pour améliorer la sécurité et la confidentialité, ainsi que des controverses concernant l'utilisation de l'IA dans la création de contenu.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sun, 18 Aug 2024 21:28:32 GMT"
+    },
+    {
         "title": "L'ère de la redéfinition humaine",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/08/18/how-do-we-navigate-the-uncanny-valley-of-the-soul-/?ss=ai",
         "body": "L'intelligence artificielle (IA) n'est plus une simple notion de science-fiction, elle fait désormais partie intégrante de notre quotidien. Les récents progrès de l'IA, tels que les conversations empathiques avec ChatGPT, soulèvent des questions existentielles sur ce que signifie être humain. Les gens ressentent parfois une plus forte connexion émotionnelle avec les chatbots qu'avec les humains, ce qui met en évidence le manque d'empathie interpersonnelle dans notre société. À mesure que l'IA devient plus sophistiquée dans l'imitation des interactions humaines, nous sommes amenés à réexaminer les fondements de nos relations et à nous interroger sur notre rôle dans un monde où les machines peuvent effectuer des tâches mieux et plus rapidement que nous. L'IA remet en question notre sens de l'identité et de l'objectif, nous poussant à redéfinir notre but dans un paysage en constante évolution. Alors que l'IA envahit des domaines autrefois considérés comme exclusivement humains, de l'art à la science en passant par le droit et la créativité, nous devons affronter notre propre obsolescence ou repenser radicalement notre objectif. L'article suggère que l'avenir de la vie avec l'IA ne consiste pas en un combat entre le code et le carbone, mais plutôt en la promotion de l'agence humaine, en nous aidant à mieux nous comprendre et à découvrir notre véritable potentiel.",
@@ -21,6 +35,13 @@
         "date": "Sun, 18 Aug 2024 06:09:00 GMT"
     },
     {
+        "title": "Waymo Livestream Interview",
+        "link": "https://www.theverge.com/2024/8/17/24222417/waymos-operations-boss-will-join-the-honkfest-livestream",
+        "body": "Sophia Tung, qui diffuse en continu 24 heures sur 24, 7 jours sur 7, un parking Waymo, a annoncé sur Reddit qu'elle interviewera le directeur Vishay Nihalani. L'interview portera sur le problème récent des robotaxis qui klaxonnaient à 4 heures du matin et sur la solution apportée par Waymo. Tung prévoit également de discuter des essais sur autoroute et du comportement inhabituel des véhicules dans le parking. L'interview sera diffusée en direct.",
+        "image": "",
+        "date": "Sat, 17 Aug 2024 16:56:00 GMT"
+    },
+    {
         "title": "iPhone 16 et l'avenir de l'IA",
         "link": "https://www.theverge.com/2024/8/17/24222355/iphone-16-rumors-leaks-cameras",
         "body": "L'article fournit des informations sur les prochains iPhone 16 d'Apple, en se concentrant sur les améliorations liées à l'IA. Les rumeurs suggèrent qu'Apple a redessiné la bosse de la caméra et ajouté un bouton de caméra sensible à la pression. Les modèles Pro auraient des écrans plus grands et tous les iPhone 16 prendraient en charge les fonctionnalités d'IA sur l'appareil, grâce à Apple Intelligence. Cela inclut des résumés et des outils d'écriture locaux, ainsi que des fonctionnalités plus avancées comme Image Playground. Les détails de conception suggèrent également une amélioration de la durée de vie de la batterie et une facilité de remplacement, avec un boîtier en acier inoxydable. La date de sortie d'Apple Intelligence avec iOS 18.1 est prévue pour octobre, selon Bloomberg.",
@@ -40,12 +61,5 @@
         "body": "L'IA transforme l'éducation mondiale, et les enseignants peuvent désormais l'utiliser pour améliorer leur enseignement. Voici cinq étapes pour commencer à exploiter l'IA en classe : \n\n1. Découvrez progressivement de nouveaux outils IA à votre rythme. Commencez par des applications simples et évoluez vers des outils plus complexes lorsque vous vous sentez plus à l'aise. \n\n2. Personnalisez l'apprentissage de chaque élève grâce à des outils de création de contenu assistés par l'IA, en différenciant les supports pédagogiques en fonction de leurs besoins. \n\n3. Gagnez en efficacité sans remplacer vos méthodes actuelles, mais en les améliorant. \n\n4. Familiarisez-vous avec les politiques de votre école en matière d'IA et protégez les données et la confidentialité de vos élèves. \n\n5. Collaborez avec vos collègues et vos élèves pour enrichir votre expérience d'apprentissage de l'IA et affiner votre approche. \n\nN'oubliez pas, l'objectif n'est pas de devenir un expert en IA, mais d'utiliser l'IA pour améliorer votre enseignement et votre confiance en tant qu'enseignant.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66be9713a05cef31a7fb4f29/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 17 Aug 2024 09:00:00 GMT"
-    },
-    {
-        "title": "Le vol de contenu, une stratégie risquée pour les startups de l'IA ?",
-        "link": "https://www.theverge.com/2024/8/16/24221353/eric-schmidt-says-the-quiet-part-out-loud",
-        "body": "Lors d'une récente conférence à l'Université Stanford, l'ancien PDG de Google, Eric Schmidt, a fait une déclaration surprenante : il a suggéré que les startups de l'IA pouvaient voler du contenu si elles étaient sûres de leur succès, car elles pourraient ensuite engager des avocats pour « nettoyer le désordre ». Schmidt, qui a dirigé Google de 2001 à 2011, a une certaine expérience en matière de gestion des conséquences juridiques de décisions controversées. Il a également reconnu que Google Search et YouTube, dans leurs premières années, ont connu une croissance rapide en partie grâce à du contenu non autorisé. Cette déclaration soulève des questions éthiques et juridiques importantes pour les entreprises travaillant dans le domaine de l'IA, notamment en ce qui concerne la propriété intellectuelle et les responsabilités morales.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2250x1500/2400x1600/filters:focal(1125x750:1126x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25574312/Eric_Schmidt_Command_Line.png",
-        "date": "Fri, 16 Aug 2024 22:53:49 GMT"
     }
 ]
