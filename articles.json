@@ -49,14 +49,14 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce spécialiste, Apple aurait plusieurs années de retard face à Google",
+        "title": "Selon ce sp\u00e9cialiste, Apple aurait plusieurs ann\u00e9es de retard face \u00e0 Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2308420_selon-ce-specialiste-apple-aurait-plusieurs-annees-de-retard-face-a-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=88ce61fe",
         "date": "Sun, 18 Aug 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Pixel 9 : comment fonctionne « Pixel Screenshots », l’outil d’analyse de vos captures d’écran ?",
+        "title": "Pixel 9 : comment fonctionne \u00ab Pixel Screenshots \u00bb, l\u2019outil d\u2019analyse de vos captures d\u2019\u00e9cran ?",
         "link": "https://www.frandroid.com/marques/google/2308434_pixel-9-comment-fonctionne-pixel-screenshots-loutil-danalyse-de-vos-captures-decran",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/SCreenshots-1200x500-1-768x320.webp?resize=300,300&key=4c9bd81f",
         "date": "Sun, 18 Aug 2024 23:00:00 GMT",
@@ -68,5 +68,19 @@
         "image": "",
         "date": "Mon, 19 Aug 2024 11:54:58 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/08/19/ultra-processed-mood-appian-injects-ai-deeper-into-business-workflows/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c1eadd8549bb75052c84a2/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 Aug 2024 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/amirhusain/2024/08/19/the-military-applications-of-artificial-intelligence-in-space/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66b3eda1304c67848ad24ea5/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 Aug 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
