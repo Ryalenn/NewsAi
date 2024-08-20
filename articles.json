@@ -21,14 +21,14 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce spécialiste, Apple aurait plusieurs années de retard face à Google",
+        "title": "Selon ce sp\u00e9cialiste, Apple aurait plusieurs ann\u00e9es de retard face \u00e0 Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2308420_selon-ce-specialiste-apple-aurait-plusieurs-annees-de-retard-face-a-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=88ce61fe",
         "date": "Sun, 18 Aug 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Pixel 9 : comment fonctionne « Pixel Screenshots », l’outil d’analyse de vos captures d’écran ?",
+        "title": "Pixel 9 : comment fonctionne \u00ab Pixel Screenshots \u00bb, l\u2019outil d\u2019analyse de vos captures d\u2019\u00e9cran ?",
         "link": "https://www.frandroid.com/marques/google/2308434_pixel-9-comment-fonctionne-pixel-screenshots-loutil-danalyse-de-vos-captures-decran",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/SCreenshots-1200x500-1-768x320.webp?resize=300,300&key=4c9bd81f",
         "date": "Sun, 18 Aug 2024 23:00:00 GMT",
@@ -110,5 +110,47 @@
         "image": "",
         "date": "Mon, 19 Aug 2024 17:41:46 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/7/30/24208979/perplexity-publishers-program-ad-revenue-sharing-ai-time-fortune-der-spiegel",
+        "image": "",
+        "date": "Tue, 20 Aug 2024 18:28:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2024/08/20/inside-the-visual-dome-a-world-prompted-into-existence-with-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c4f2e6c145e1e1ff376f51/0x0.jpg?format=jpg&crop=1500,844,x0,y351,safe&width=440",
+        "date": "Tue, 20 Aug 2024 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/08/20/the-prompt-anti-ai-pledges-gain-popularity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c4efad9dc6caac63c7c577/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 20 Aug 2024 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/angelicageter/2024/08/20/can-ai-solve-the-us-maternal-health-crisis-3-ways-to-prevent-ai-bias-in-womens-healthcare/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c3f1de4cbb927b2f5ff25b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 20 Aug 2024 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/20/minimum-viable-quality-mvq-is-the-heralded-rising-star-for-ai-startups-and-venture-capital-funding/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66b5b188a55e4f6d73dbe0c0/0x0.jpg?format=jpg&crop=2145,1606,x110,y0,safe&width=440",
+        "date": "Tue, 20 Aug 2024 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/karlfreund/2024/08/20/amd-acquires-zt-addressing-a-key-nvidia-advantage-still-two-to-go/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c4b908fd30c69e7266ada2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 20 Aug 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
