@@ -28,6 +28,13 @@
         "date": "Wed, 21 Aug 2024 23:00:08 GMT"
     },
     {
+        "title": "Recall de Microsoft",
+        "link": "https://www.frandroid.com/marques/microsoft/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
+        "body": "Microsoft s'apprête à lancer sa fonctionnalité Recall, qui utilise l'IA pour capturer et reconnaître du texte sur les écrans des utilisateurs. Initialement prévue pour juillet, la sortie a été retardée en raison de préoccupations liées à la sécurité et à la vie privée. La fonctionnalité sera désactivée par défaut et disponible uniquement pour les testeurs Windows Insider sur les PC Copilot+ à partir d'octobre. L'entreprise affirme que la sécurité reste sa priorité et que les données seront chiffrées et sécurisées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
+        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
+    },
+    {
         "title": "Microsoft Recall : une fonctionnalité IA controversée",
         "link": "https://www.frandroid.com/os/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
         "body": "Microsoft s'apprête à lancer sa fonctionnalité Recall, permettant de ne rien perdre sur son ordinateur grâce à des captures d'écran continues et à la reconnaissance de caractères assistée par IA. Initialement prévue pour juillet, la sortie a été retardée en raison de préoccupations liées à la sécurité et à la vie privée. Recall sera désormais désactivé par défaut et disponible uniquement pour les utilisateurs Windows Insider en octobre, avant un déploiement plus large prévu pour 2025. La fonctionnalité ne sera accessible que sur les PC Copilot+ et sera chiffrée avec une authentification requise pour accéder aux données.",
@@ -180,12 +187,5 @@
         "body": "AMD a récemment fait l'acquisition de ZT Systems, une société de conception de systèmes hyperscale, dans le but de concurrencer Nvidia sur le marché de l'IA. Bien qu'AMD ait déjà rattrapé Nvidia en termes de spécifications de puces, les performances revendiquées ne concernent pas spécifiquement l'IA, mais plutôt des benchmarks mathématiques bruts. De plus, ces benchmarks sont effectués au niveau de la puce, et non au niveau du rack, comme le fait Nvidia avec son système NVL-72 basé sur Blackwell. Pour devenir un acteur sérieux dans le domaine de l'IA, AMD doit investir et innover dans trois domaines clés : les systèmes, les logiciels et la mise en réseau. L'acquisition de ZT Systems aidera AMD à améliorer ses solutions de refroidissement, mais la société doit encore combler le retard sur Nvidia en matière de mise en réseau et de logiciels. Nvidia possède des technologies de mise en réseau telles que NVLink, Ethernet et InfiniBand, qui offrent une latence beaucoup plus faible et une bande passante plus élevée que les solutions actuelles d'AMD. De plus, Nvidia dispose d'une suite logicielle robuste, notamment CUDA, qui améliore considérablement les performances de ses GPU. Pour rattraper Nvidia, AMD a récemment acquis Silo.ai, une société européenne de logiciels d'IA, et collabore avec d'autres entreprises technologiques sur l'Ultra Accelerator Link (UALink), une alternative ouverte à la technologie NVLink de Nvidia. Bien qu'AMD soit sur la bonne voie, il lui faudra du temps et peut-être d'autres acquisitions pour combler l'écart avec Nvidia dans le domaine de l'IA à grande échelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c4b908fd30c69e7266ada2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 20 Aug 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir d'Hollywood à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/cathyrubin/2024/08/20/how-to-balance-ai-innovation-and-human-creativity-in-hollywood-storytelling/?ss=ai",
-        "body": "L'industrie cinématographique doit faire face à un défi de taille : intégrer l'IA dans le processus de création cinématographique tout en veillant à ce que la créativité humaine, qui a toujours été au cœur de la narration captivante, ne soit pas éclipsée. L'IA peut révolutionner la narration en améliorant l'efficacité de la production et en permettant de nouvelles formes d'expression créative. Bien que l'IA puisse générer du contenu à une échelle sans précédent, les experts soulignent que la compréhension émotionnelle nuancée, essentielle à la narration, reste l'apanage des êtres humains. L'IA soulève également des questions complexes en matière de propriété intellectuelle et d'éthique. Alors que l'on prévoit que les dépenses liées à l'IA dans l'industrie cinématographique mondiale atteindront près d'un milliard de dollars d'ici 2024, il est essentiel de trouver un équilibre entre les avantages de l'IA et la préservation de l'intégrité artistique. L'avenir de la narration impliquera probablement une collaboration entre l'IA et les créateurs humains, l'IA étant un outil puissant au service de la créativité humaine plutôt qu'un remplacement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66c3d4ac761abb68391b2679/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 20 Aug 2024 07:00:00 GMT"
     }
 ]
