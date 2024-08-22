@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'informatique basée sur le cerveau humain",
+        "link": "https://www.forbes.com/sites/scotttravers/2024/08/22/all-you-need-to-know-about-organoid-intelligence-explained-by-a-biologist/?ss=ai",
+        "body": "Résumé : L'article explore l'idée de recourir à la technologie basée sur le cerveau humain pour alimenter les systèmes d'IA à l'avenir, en raison de la durabilité et de l'efficacité énergétique de cette approche. Il présente des entreprises comme Cortical Labs, Koniku Inc. et FinalSpark, qui travaillent à l'interface entre les neurones et la silice, et à la création de biosenseurs et d'ordinateurs biologiques. L'article souligne l'efficacité naturelle du cerveau humain, qui fonctionne avec une puissance similaire à celle d'une ampoule, mais avec une puissance de calcul incroyable. La convergence de l'IA et de la biologie, appelée « Organoid Intelligence » (OI), pourrait révolutionner le traitement de l'information, en particulier pour les tâches complexes telles que la reconnaissance vocale, le traitement des images et la prise de décision. Bien que prometteuse, cette technologie doit encore surmonter des obstacles importants avant de devenir pratique et évolutive.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c3200c1c03bf8774146fc3/0x0.jpg?format=jpg&crop=2108,987,x0,y105,safe&width=440",
+        "date": "Thu, 22 Aug 2024 14:00:00 GMT"
+    },
+    {
         "title": "L'avenir du travail avec l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/08/22/rogue-ai-why-byoai-is-a-massive-threat-and-opportunity/?ss=ai",
         "body": "Le texte met en lumière une nouvelle tendance dans le domaine de l'IA : BYOAI (Bring Your Own AI) ou, en français, Apportez Votre Propre IA. Cette tendance, qui rappelle le mouvement BYOD (Bring Your Own Device), consiste à voir les employés utiliser de plus en plus leurs propres applications IA dans leur travail quotidien, souvent sans approbation officielle de leur entreprise. Cette tendance reflète le désir des travailleurs de tirer parti du pouvoir de l'IA pour améliorer leur productivité et leur créativité. Le rapport Microsoft et LinkedIn 2024 Work Trend Index révèle que 75 % des travailleurs de la connaissance utilisent aujourd'hui l'IA, et 78 % de ce groupe apportent leurs propres outils IA au travail.",
@@ -26,6 +33,13 @@
         "body": "Un trailer du film Megalopolis de Lionsgate a été retiré car il contenait de fausses citations de critiques épinglant les précédents films du réalisateur Francis Ford Coppola, comme Le Parrain et Apocalypse Now. Lionsgate a présenté ses excuses, admettant une erreur dans son processus de vérification. Cet incident soulève des questions sur l'utilisation possible d'outils d'IA, comme OpenAI's ChatGPT, dans la création de fausses citations. Un cas similaire a été rapporté cette année, où un avocat a cité des décisions judiciaires inexactes, générées par ChatGPT. Variety rapporte également que l'une de ses critiques de film a été falsifiée dans le trailer, soulignant les implications éthiques de l'utilisation irresponsable de l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2644x1428/2400x1600/filters:focal(1322x714:1323x715):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25583515/megaopolis_trailer.png",
         "date": "Wed, 21 Aug 2024 23:00:08 GMT"
+    },
+    {
+        "title": "Google One AI Premium offert avec les Pixel 9 Pro",
+        "link": "https://www.frandroid.com/marques/google/2312030_pixel-9-pro-pingre-google-refuse-de-cumuler-son-offre-google-one",
+        "body": "L'achat d'un Pixel 9 Pro, Pixel 9 Pro XL ou Pixel 9 Pro Fold donne droit à un abonnement gratuit de 12 mois à Google One AI Premium 2 To, incluant 2 To de stockage cloud et l'accès à Gemini Advanced, le modèle d'IA le plus avancé de Google. La valeur de ce cadeau est de 264 euros, mais l'offre ne peut être cumulée sur un même compte Google pour plusieurs appareils.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/pxl-20240822-1038469862-1200x904-1-768x579.jpg?resize=226,226&key=7f85f26b",
+        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
     },
     {
         "title": "Recall de Microsoft",
