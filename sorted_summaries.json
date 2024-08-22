@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir du travail avec l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/22/rogue-ai-why-byoai-is-a-massive-threat-and-opportunity/?ss=ai",
+        "body": "Le texte met en lumière une nouvelle tendance dans le domaine de l'IA : BYOAI (Bring Your Own AI) ou, en français, Apportez Votre Propre IA. Cette tendance, qui rappelle le mouvement BYOD (Bring Your Own Device), consiste à voir les employés utiliser de plus en plus leurs propres applications IA dans leur travail quotidien, souvent sans approbation officielle de leur entreprise. Cette tendance reflète le désir des travailleurs de tirer parti du pouvoir de l'IA pour améliorer leur productivité et leur créativité. Le rapport Microsoft et LinkedIn 2024 Work Trend Index révèle que 75 % des travailleurs de la connaissance utilisent aujourd'hui l'IA, et 78 % de ce groupe apportent leurs propres outils IA au travail.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c6d41f8d7046679a04588f/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 22 Aug 2024 06:02:00 GMT"
+    },
+    {
         "title": "La régulation de l'IA : un appel à une approche fédérale",
         "link": "https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047",
         "body": "Dans une lettre ouverte, Jason Kwon, directeur de la stratégie chez OpenAI, plaide pour que la réglementation de l'IA soit laissée au gouvernement fédéral américain. Il s'oppose à un projet de loi sur la sécurité de l'IA en Californie, affirmant qu'une mosaïque de lois étatiques entraverait le progrès et nuirait à l'innovation. Kwon soutient qu'un ensemble de politiques de l'IA menées au niveau fédéral permettrait aux États-Unis de jouer un rôle de premier plan dans l'établissement de normes mondiales. La lettre est adressée au sénateur californien Scott Wiener, auteur du projet de loi, qui établit des normes pour les modèles d'IA puissants, exige des tests de sécurité avant le déploiement et offre des protections aux lanceurs d'alerte. Wiener répond en soulignant que les exigences proposées s'appliquent à toute entreprise faisant des affaires en Californie, et critique OpenAI pour ne pas avoir remis en cause les dispositions spécifiques du projet de loi. Le projet de loi a été modifié suite à des préoccupations exprimées par des politiciens et des entreprises, et attend maintenant un vote final avant d'être présenté au gouverneur Gavin Newsom.",
@@ -19,6 +26,13 @@
         "body": "Un trailer du film Megalopolis de Lionsgate a été retiré car il contenait de fausses citations de critiques épinglant les précédents films du réalisateur Francis Ford Coppola, comme Le Parrain et Apocalypse Now. Lionsgate a présenté ses excuses, admettant une erreur dans son processus de vérification. Cet incident soulève des questions sur l'utilisation possible d'outils d'IA, comme OpenAI's ChatGPT, dans la création de fausses citations. Un cas similaire a été rapporté cette année, où un avocat a cité des décisions judiciaires inexactes, générées par ChatGPT. Variety rapporte également que l'une de ses critiques de film a été falsifiée dans le trailer, soulignant les implications éthiques de l'utilisation irresponsable de l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2644x1428/2400x1600/filters:focal(1322x714:1323x715):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25583515/megaopolis_trailer.png",
         "date": "Wed, 21 Aug 2024 23:00:08 GMT"
+    },
+    {
+        "title": "Microsoft Recall : une fonctionnalité IA controversée",
+        "link": "https://www.frandroid.com/os/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
+        "body": "Microsoft s'apprête à lancer sa fonctionnalité Recall, permettant de ne rien perdre sur son ordinateur grâce à des captures d'écran continues et à la reconnaissance de caractères assistée par IA. Initialement prévue pour juillet, la sortie a été retardée en raison de préoccupations liées à la sécurité et à la vie privée. Recall sera désormais désactivé par défaut et disponible uniquement pour les utilisateurs Windows Insider en octobre, avant un déploiement plus large prévu pour 2025. La fonctionnalité ne sera accessible que sur les PC Copilot+ et sera chiffrée avec une authentification requise pour accéder aux données.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
+        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
     },
     {
         "title": "TCS : Leader de l'IA et de l'Innovation",
