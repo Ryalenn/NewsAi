@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Microsoft revient timidement à l’attaque avec sa polémique fonctionnalité Recall",
+        "title": "Microsoft revient timidement \u00e0 l\u2019attaque avec sa pol\u00e9mique fonctionnalit\u00e9 Recall",
         "link": "https://www.frandroid.com/os/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
         "date": "Wed, 21 Aug 2024 23:00:00 GMT",
@@ -194,5 +194,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c81bdb2b459a7f20f99860/0x0.jpg?format=jpg&crop=400,300,x253,y0,safe&width=440",
         "date": "Fri, 23 Aug 2024 12:29:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2024/08/23/hype-and-hope-dont-hide-ais-hurdles/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c8833d37130ed6f11b279b/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 23 Aug 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
