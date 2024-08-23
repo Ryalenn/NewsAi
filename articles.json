@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Microsoft revient timidement à l’attaque avec sa polémique fonctionnalité Recall",
+        "title": "Microsoft revient timidement \u00e0 l\u2019attaque avec sa pol\u00e9mique fonctionnalit\u00e9 Recall",
         "link": "https://www.frandroid.com/os/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
         "date": "Wed, 21 Aug 2024 23:00:00 GMT",
@@ -180,5 +180,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c8833d37130ed6f11b279b/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 23 Aug 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/08/23/pioneering-depression-treatment-with-groundbreaking-brain-computer-interface-bci--ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c8f86da09a9201343b9fe3/0x0.jpg?format=jpg&crop=3149,1770,x0,y164,safe&width=440",
+        "date": "Fri, 23 Aug 2024 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2024/08/23/cpp-investments-coo-jonathan-webster-on-modular-architecture-and-security/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c753e73c0987241cb6189b/0x0.jpg?format=jpg&crop=1632,1684,x892,y0,safe&width=440",
+        "date": "Fri, 23 Aug 2024 19:00:00 GMT",
+        "check": "no"
     }
 ]
