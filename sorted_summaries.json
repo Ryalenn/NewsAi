@@ -21,6 +21,13 @@
         "date": "Fri, 23 Aug 2024 16:00:00 GMT"
     },
     {
+        "title": "L'ère de l'analogue privilégié",
+        "link": "https://www.techpolicy.press/the-future-is-analog-if-you-can-afford-it/",
+        "body": "Résumé : \n\nL'article explore la notion de « privilège analogique », qui décrit comment les individus au sommet de l'ordre social se soustraient aux contraintes des produits et services d'IA standardisés et de piètre qualité. Ce phénomène est considéré comme un nouveau clivage dans la capacité des individus à gérer leur relation avec la technologie. Le texte fournit des exemples de la manière dont les élites évitent les systèmes d'IA invasifs et simplistes, notamment en matière de surveillance de la productivité au travail et de modération des contenus en ligne. Il souligne également les conséquences négatives des systèmes d'IA, telles que la reproduction des biais et la limitation des opportunités futures. L'article propose des solutions pour réduire le « privilège analogique », notamment en accordant un « droit à être une exception » basé sur le mérite plutôt que sur le statut social ou économique. Enfin, il souligne l'importance de comprendre le privilège analogique pour lutter contre les avantages injustes et promouvoir des approches équitables dans l'utilisation des systèmes d'IA.",
+        "image": "",
+        "date": "Fri, 23 Aug 2024 13:56:12 GMT"
+    },
+    {
         "title": "La collaboration entre Cruise et Uber",
         "link": "https://www.forbes.com/sites/bradtempleton/2024/08/23/in-2025-you-may-call-a-gmcruise-robotaxi-on-uber--how-about-2030/?ss=ai",
         "body": "Cruise, l'unité de taxis robotisés de General Motors, et Uber ont annoncé un partenariat pour 2024, permettant aux utilisateurs d'appeler un taxi robotisé Cruise via l'application Uber. Cette collaboration soulève des questions sur les avantages pour les deux entreprises et sur la possibilité qu'elle représente une vision future du marché des taxis robotisés. Uber domine le marché du covoiturage, mais Cruise dispose de sa propre application dédiée uniquement à ses taxis robotisés. Les entreprises de taxis robotisés aspirent à contrôler l'expérience client, contrairement aux conducteurs Uber qui occupent une position subalterne. La maîtrise du logiciel de taxi robotisé confère un pouvoir considérable dans ce domaine, ce qui explique les investissements massifs des grandes entreprises. La collaboration entre Cruise et Uber est mutuellement bénéfique, permettant à Cruise de comprendre l'écosystème Uber et à Uber d'acquérir de l'expérience dans la gestion de taxis robotisés externes. De plus, Amazon, Alphabet, GM et Baidu sont également des acteurs importants dans ce domaine, surpassant Uber en termes de revenus. L'avenir d'Uber dans un marché dominé par les taxis robotisés est incertain, et l'entreprise doit naviguer avec prudence tout en tirant des leçons de ses partenariats avec Cruise et Waymo.",
@@ -133,6 +140,13 @@
         "date": "Thu, 22 Aug 2024 16:00:00 GMT"
     },
     {
+        "title": "Cruise Automatisation des Rappel de Voitures",
+        "link": "https://www.theverge.com/2024/8/22/24225962/nhtsa-cruise-gm-robotaxi-investigation-block-traffic-end",
+        "body": "L'Agence américaine de sécurité routière (NHTSA) a clos son enquête sur Cruise, filiale de robotaxis de GM, concernant des arrêts inattendus de véhicules. Bien qu'il n'y ait eu aucun accident ou blessure, l'enquête a révélé que les véhicules Cruise ont contribué à 10 accidents, dont 4 impliquant des usagers vulnérables. Cruise a émis un rappel avec une mise à jour logicielle pour réduire les risques de freinage inattendu. Cet incident est distinct de celui survenu en Californie, où un piéton a été heurté et blessé. Cruise a réagi par un autre rappel et a repris les tests sans passager. GM a investi 850 millions de dollars pour soutenir l'entreprise pendant qu'elle travaille à remettre ses voitures sur la route.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1320x880/2400x1600/filters:focal(660x440:661x441):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481481/windowsrecall.jpg",
+        "date": "Thu, 22 Aug 2024 15:27:27 GMT"
+    },
+    {
         "title": "L'informatique basée sur le cerveau humain",
         "link": "https://www.forbes.com/sites/scotttravers/2024/08/22/all-you-need-to-know-about-organoid-intelligence-explained-by-a-biologist/?ss=ai",
         "body": "Résumé : L'article explore l'idée de recourir à la technologie basée sur le cerveau humain pour alimenter les systèmes d'IA à l'avenir, en raison de la durabilité et de l'efficacité énergétique de cette approche. Il présente des entreprises comme Cortical Labs, Koniku Inc. et FinalSpark, qui travaillent à l'interface entre les neurones et la silice, et à la création de biosenseurs et d'ordinateurs biologiques. L'article souligne l'efficacité naturelle du cerveau humain, qui fonctionne avec une puissance similaire à celle d'une ampoule, mais avec une puissance de calcul incroyable. La convergence de l'IA et de la biologie, appelée « Organoid Intelligence » (OI), pourrait révolutionner le traitement de l'information, en particulier pour les tâches complexes telles que la reconnaissance vocale, le traitement des images et la prise de décision. Bien que prometteuse, cette technologie doit encore surmonter des obstacles importants avant de devenir pratique et évolutive.",
@@ -145,54 +159,5 @@
         "body": "Le texte met en lumière une nouvelle tendance dans le domaine de l'IA : BYOAI (Bring Your Own AI) ou, en français, Apportez Votre Propre IA. Cette tendance, qui rappelle le mouvement BYOD (Bring Your Own Device), consiste à voir les employés utiliser de plus en plus leurs propres applications IA dans leur travail quotidien, souvent sans approbation officielle de leur entreprise. Cette tendance reflète le désir des travailleurs de tirer parti du pouvoir de l'IA pour améliorer leur productivité et leur créativité. Le rapport Microsoft et LinkedIn 2024 Work Trend Index révèle que 75 % des travailleurs de la connaissance utilisent aujourd'hui l'IA, et 78 % de ce groupe apportent leurs propres outils IA au travail.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c6d41f8d7046679a04588f/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 22 Aug 2024 06:02:00 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent l'IA conversationnelle",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) démocratisent l'accès aux technologies de chatbot basées sur des modèles linguistiques de grande taille. Ces outils d'IA fonctionnent comme des systèmes d'autocompletion sophistiqués, prédisant le mot suivant dans une phrase. Bien qu'ils n'aient pas de base de données de faits, ils peuvent présenter des informations fausses comme vraies. OpenAI plaide pour une réglementation fédérale de l'IA, tandis que la FCC propose de nouvelles règles pour les appelants robotisés utilisant l'IA. Google améliore Gemini dans Gmail, Nvidia ACE donne des voix et des compétences conversationnelles aux personnages de jeux, et Apple lance de nouvelles fonctionnalités d'IA dans ses betas développeurs. L'IA est au cœur de la stratégie de Meta, qui développe des voix de célébrités et lance AI Studio pour créer des versions IA de soi-même. L'industrie de l'IA évolue rapidement, avec un accent croissant sur les produits alimentés par l'IA, et les entreprises investissent massivement dans cette technologie.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Thu, 22 Aug 2024 01:15:47 GMT"
-    },
-    {
-        "title": "La régulation de l'IA : un appel à une approche fédérale",
-        "link": "https://www.theverge.com/2024/8/21/24225648/openai-letter-california-ai-safety-bill-sb-1047",
-        "body": "Dans une lettre ouverte, Jason Kwon, directeur de la stratégie chez OpenAI, plaide pour que la réglementation de l'IA soit laissée au gouvernement fédéral américain. Il s'oppose à un projet de loi sur la sécurité de l'IA en Californie, affirmant qu'une mosaïque de lois étatiques entraverait le progrès et nuirait à l'innovation. Kwon soutient qu'un ensemble de politiques de l'IA menées au niveau fédéral permettrait aux États-Unis de jouer un rôle de premier plan dans l'établissement de normes mondiales. La lettre est adressée au sénateur californien Scott Wiener, auteur du projet de loi, qui établit des normes pour les modèles d'IA puissants, exige des tests de sécurité avant le déploiement et offre des protections aux lanceurs d'alerte. Wiener répond en soulignant que les exigences proposées s'appliquent à toute entreprise faisant des affaires en Californie, et critique OpenAI pour ne pas avoir remis en cause les dispositions spécifiques du projet de loi. Le projet de loi a été modifié suite à des préoccupations exprimées par des politiciens et des entreprises, et attend maintenant un vote final avant d'être présenté au gouverneur Gavin Newsom.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg",
-        "date": "Thu, 22 Aug 2024 01:15:47 GMT"
-    },
-    {
-        "title": "L'IA pour la santé mentale : un outil puissant mais complexe",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/21/lifestyle-psychiatry-is-trending-heres-how-generative-ai-can-aid-therapists-clients-and-everyday-folks-in-lifestyle-choice-making/?ss=ai",
-        "body": "L'article explore l'intersection entre la psychiatrie du style de vie et l'IA générative, et son impact potentiel sur la santé mentale. Il commence par expliquer la psychiatrie du style de vie, qui implique de considérer les choix de style de vie (exercice physique, alimentation, sommeil, relations sociales) et leur impact sur la santé mentale. L'IA générative, avec des exemples comme ChatGPT, Gemini et Bard, est ensuite introduite, expliquant comment elle peut générer des réponses fluides aux entrées textuelles. L'article suggère que l'IA générative peut être un outil puissant pour les professionnels de la santé mentale, aidant à la création de plans de traitement et à l'éducation des patients. Cependant, il met également en garde contre les inconvénients, notamment les \"hallucinations de l'IA\", la confidentialité et les complications liées à l'utilisation. L'article explore ensuite comment le grand public utilise l'IA générative pour des conseils en matière de style de vie et de santé mentale, soulignant qu'il s'agit d'un domaine non réglementé avec des risques potentiels. Enfin, il fournit des exemples de dialogues avec ChatGPT, montrant comment l'IA peut aider à surmonter les obstacles aux choix de style de vie sain.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66c68d27c7f5abc570e71c14/0x0.jpg?format=jpg&crop=1946,1458,x182,y0,safe&width=440",
-        "date": "Thu, 22 Aug 2024 01:13:00 GMT"
-    },
-    {
-        "title": "La vérité, enfin ?",
-        "link": "https://www.theverge.com/2024/8/21/24225673/megalopolis-trailer-fake-quotes-movie-critics-pulled",
-        "body": "Un trailer du film Megalopolis de Lionsgate a été retiré car il contenait de fausses citations de critiques épinglant les précédents films du réalisateur Francis Ford Coppola, comme Le Parrain et Apocalypse Now. Lionsgate a présenté ses excuses, admettant une erreur dans son processus de vérification. Cet incident soulève des questions sur l'utilisation possible d'outils d'IA, comme OpenAI's ChatGPT, dans la création de fausses citations. Un cas similaire a été rapporté cette année, où un avocat a cité des décisions judiciaires inexactes, générées par ChatGPT. Variety rapporte également que l'une de ses critiques de film a été falsifiée dans le trailer, soulignant les implications éthiques de l'utilisation irresponsable de l'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2644x1428/2400x1600/filters:focal(1322x714:1323x715):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25583515/megaopolis_trailer.png",
-        "date": "Wed, 21 Aug 2024 23:00:08 GMT"
-    },
-    {
-        "title": "Google One AI Premium offert avec les Pixel 9 Pro",
-        "link": "https://www.frandroid.com/marques/google/2312030_pixel-9-pro-pingre-google-refuse-de-cumuler-son-offre-google-one",
-        "body": "L'achat d'un Pixel 9 Pro, Pixel 9 Pro XL ou Pixel 9 Pro Fold donne droit à un abonnement gratuit de 12 mois à Google One AI Premium 2 To, incluant 2 To de stockage cloud et l'accès à Gemini Advanced, le modèle d'IA le plus avancé de Google. La valeur de ce cadeau est de 264 euros, mais l'offre ne peut être cumulée sur un même compte Google pour plusieurs appareils.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/pxl-20240822-1038469862-1200x904-1-768x579.jpg?resize=226,226&key=7f85f26b",
-        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Recall de Microsoft",
-        "link": "https://www.frandroid.com/marques/microsoft/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
-        "body": "Microsoft s'apprête à lancer sa fonctionnalité Recall, qui utilise l'IA pour capturer et reconnaître du texte sur les écrans des utilisateurs. Initialement prévue pour juillet, la sortie a été retardée en raison de préoccupations liées à la sécurité et à la vie privée. La fonctionnalité sera désactivée par défaut et disponible uniquement pour les testeurs Windows Insider sur les PC Copilot+ à partir d'octobre. L'entreprise affirme que la sécurité reste sa priorité et que les données seront chiffrées et sécurisées.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
-        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft Recall : une fonctionnalité IA controversée",
-        "link": "https://www.frandroid.com/os/2311610_microsoft-revient-timidement-a-lattaque-avec-sa-polemique-fonctionnalite-recall",
-        "body": "Microsoft s'apprête à lancer sa fonctionnalité Recall, permettant de ne rien perdre sur son ordinateur grâce à des captures d'écran continues et à la reconnaissance de caractères assistée par IA. Initialement prévue pour juillet, la sortie a été retardée en raison de préoccupations liées à la sécurité et à la vie privée. Recall sera désormais désactivé par défaut et disponible uniquement pour les utilisateurs Windows Insider en octobre, avant un déploiement plus large prévu pour 2025. La fonctionnalité ne sera accessible que sur les PC Copilot+ et sera chiffrée avec une authentification requise pour accéder aux données.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/RecallS-1200x675-1-768x432.webp?resize=169,169&key=84754583",
-        "date": "Wed, 21 Aug 2024 23:00:00 GMT"
     }
 ]
