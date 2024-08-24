@@ -1,5 +1,12 @@
 [
     {
+        "title": "La renaissance nucléaire",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/08/24/theres-nuclear-in-wyoming-chris-levesque-on-our-modern-power-needs/?ss=ai",
+        "body": "TerraPower, une entreprise fondée par Bill Gates, travaille sur un projet de centrale nucléaire de 4 milliards de dollars à Kemmerer, avec le soutien du gouvernement américain. Chris Levesque, PDG de TerraPower, souligne l'importance de l'énergie nucléaire en tant que source d'énergie dense et efficace en termes d'utilisation des matériaux et des terres, la présentant comme un complément aux énergies renouvelables intermittentes. Levesque suggère que l'énergie nucléaire devrait couvrir 20 à 30 % de nos besoins énergétiques, en complément des sources renouvelables, pour créer un mélange durable capable de répondre aux besoins des générations futures.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c9f646a0285fc7bb08b132/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&width=440",
+        "date": "Sat, 24 Aug 2024 15:04:00 GMT"
+    },
+    {
         "title": "L'Europe fait un pas de géant vers l'autonomie technologique",
         "link": "https://www.forbes.com/sites/federicoguerrini/2024/08/24/geopolitical-chess-europes-new-semiconductor-plant-aims-to-reshape-industry-landscape/?ss=ai",
         "body": "L'Europe a fait un pas important vers l'autonomie technologique avec la création de l'European Semiconductor Manufacturing Company (ESMC), une coentreprise entre TSMC, Robert Bosch, Infineon et NXP Semiconductors. La nouvelle usine, située à Dresden, produira des puces haute performance basées sur une technologie avancée de transistors à effet de champ (FinFET), permettant l'intégration de plusieurs fonctionnalités sur une seule puce. L'ESMC vise à répondre à la demande croissante de puces pour les secteurs automobile et industriel en Europe, tout en réduisant la dépendance envers les installations étrangères. Le projet, d'une valeur de plus de 10 milliards d'euros, créera 2 000 emplois directs et de nombreux autres indirects dans l'UE. Bien que l'Europe célèbre cette avancée, elle doit également faire face à la concurrence des États-Unis et de la Chine, qui investissent massivement dans la technologie des puces. De plus, le plus grand projet de puce du continent, une usine Intel prévue en Allemagne, est confronté à des retards et à des incertitudes. La capacité de l'Europe à mettre en œuvre rapidement et efficacement ses projets ambitieux déterminera son rôle futur dans l'industrie mondiale des semi-conducteurs.",
@@ -166,12 +173,5 @@
         "body": "L'Agence américaine de sécurité routière (NHTSA) a clos son enquête sur Cruise, filiale de robotaxis de GM, concernant des arrêts inattendus de véhicules. Bien qu'il n'y ait eu aucun accident ou blessure, l'enquête a révélé que les véhicules Cruise ont contribué à 10 accidents, dont 4 impliquant des usagers vulnérables. Cruise a émis un rappel avec une mise à jour logicielle pour réduire les risques de freinage inattendu. Cet incident est distinct de celui survenu en Californie, où un piéton a été heurté et blessé. Cruise a réagi par un autre rappel et a repris les tests sans passager. GM a investi 850 millions de dollars pour soutenir l'entreprise pendant qu'elle travaille à remettre ses voitures sur la route.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1320x880/2400x1600/filters:focal(660x440:661x441):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25481481/windowsrecall.jpg",
         "date": "Thu, 22 Aug 2024 15:27:27 GMT"
-    },
-    {
-        "title": "L'informatique basée sur le cerveau humain",
-        "link": "https://www.forbes.com/sites/scotttravers/2024/08/22/all-you-need-to-know-about-organoid-intelligence-explained-by-a-biologist/?ss=ai",
-        "body": "Résumé : L'article explore l'idée de recourir à la technologie basée sur le cerveau humain pour alimenter les systèmes d'IA à l'avenir, en raison de la durabilité et de l'efficacité énergétique de cette approche. Il présente des entreprises comme Cortical Labs, Koniku Inc. et FinalSpark, qui travaillent à l'interface entre les neurones et la silice, et à la création de biosenseurs et d'ordinateurs biologiques. L'article souligne l'efficacité naturelle du cerveau humain, qui fonctionne avec une puissance similaire à celle d'une ampoule, mais avec une puissance de calcul incroyable. La convergence de l'IA et de la biologie, appelée « Organoid Intelligence » (OI), pourrait révolutionner le traitement de l'information, en particulier pour les tâches complexes telles que la reconnaissance vocale, le traitement des images et la prise de décision. Bien que prometteuse, cette technologie doit encore surmonter des obstacles importants avant de devenir pratique et évolutive.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66c3200c1c03bf8774146fc3/0x0.jpg?format=jpg&crop=2108,987,x0,y105,safe&width=440",
-        "date": "Thu, 22 Aug 2024 14:00:00 GMT"
     }
 ]
