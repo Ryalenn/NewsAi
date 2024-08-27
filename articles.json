@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Pourquoi le prix des SSD va monter en flèche",
+        "title": "Pourquoi le prix des SSD va monter en fl\u00e8che",
         "link": "https://www.frandroid.com/produits-android/hardware/stockage/2315378_pourquoi-le-prix-des-ssd-va-monter-en-fleche",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-memory-cucmbjunida-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=3b714960",
         "date": "Mon, 26 Aug 2024 23:00:00 GMT",
@@ -110,5 +110,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c78e0e0db1f77e69cebe83/0x0.jpg?format=jpg&crop=390,259,x0,y79,safe&width=440",
         "date": "Tue, 27 Aug 2024 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2024/08/27/cerebras-speeds-ai-by-putting-entire-foundation-model-on-its-giant-chip/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cd186afc537cb99b7a3454/0x0.jpg?format=jpg&crop=4095,1919,x0,y118,safe&width=440",
+        "date": "Tue, 27 Aug 2024 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/aytekintank/2024/08/27/why-leaders-shouldnt-wait-to-adopt-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cdc6198541d3d5fc3a073e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 27 Aug 2024 12:00:00 GMT",
+        "check": "no"
     }
 ]
