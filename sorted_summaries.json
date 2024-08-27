@@ -1,10 +1,24 @@
 [
     {
+        "title": "Révolution dans l'inférence IA",
+        "link": "https://www.forbes.com/sites/craigsmith/2024/08/27/cerebras-speeds-ai-by-putting-entire-foundation-model-on-its-giant-chip/?ss=ai",
+        "body": "Cerebras Systems, une entreprise spécialisée dans les puces informatiques, s'apprête à exécuter l'un des plus grands modèles d'IA, LLaMA 3.1 de Meta, sur sa puce de la taille d'une assiette. Cette configuration pourrait révolutionner l'inférence traditionnelle en la rendant plus rapide et efficace. Cerebras affirme que ses coûts d'inférence sont inférieurs d'un tiers à ceux de la plateforme Azure de Microsoft, tout en consommant un sixième de l'énergie. Cette avancée pourrait avoir un impact significatif sur l'écosystème de l'IA, permettant aux développeurs de repousser les limites de ce qui est possible. Les applications qui étaient auparavant limitées par le matériel peuvent désormais prospérer, conduisant à des innovations auparavant impensables. L'inférence dans le traitement du langage naturel, par exemple, pourrait devenir plus précise et cohérente, révolutionnant ainsi l'expérience client automatisée. De même, dans le domaine de la santé, le traitement et l'analyse rapides de vastes ensembles de données pourraient accélérer les diagnostics et améliorer les plans de traitement personnalisés. L'offre la plus récente de Cerebras est un service d'inférence IA qui accélère non seulement l'exécution des modèles d'IA, mais pourrait également modifier la manière dont les entreprises déploient et interagissent avec l'IA dans des applications réelles. La vitesse de l'inférence est souvent limitée par les goulots d'étranglement du réseau reliant les GPU à la mémoire et au stockage. Cerebras adopte une nouvelle approche en gravant jusqu'à 900 000 cœurs sur une seule plaquette de silicium, éliminant ainsi le besoin de câblage externe entre les puces. Cette configuration permet un accès aux données et un traitement beaucoup plus rapides. L'entreprise affirme que son architecture peut offrir des performances 10 fois plus rapides que les solutions basées sur GPU pour l'inférence sur des modèles tels que LLaMA 3.1. En optimisant l'inférence sur de grands modèles, Cerebras répond à un besoin croissant du marché en matière de capacités d'inférence IA rapides et efficaces.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cd186afc537cb99b7a3454/0x0.jpg?format=jpg&crop=4095,1919,x0,y118,safe&width=440",
+        "date": "Tue, 27 Aug 2024 16:00:00 GMT"
+    },
+    {
         "title": "Maximiser l'efficacité de l'IA prédictive",
         "link": "https://www.forbes.com/sites/ericsiegel/2024/08/27/to-deploy-predictive-ai-you-must-navigate-these-tradeoffs/?ss=ai",
         "body": "L'IA prédictive peut améliorer les opérations en calculant les probabilités à partir de données historiques. Un exemple est la détection de la désinformation sur les médias sociaux. En ajustant le seuil de décision, une entreprise peut équilibrer les économies, la capture de la désinformation et les faux positifs. La forme de la courbe des économies est importante, car elle montre les compromis entre les différents facteurs. La prise en compte de la courbe complète permet d'évaluer toutes les options et les compromis. Dans cet article, on explique également comment les facteurs commerciaux changeants, tels que la valeur accordée à la prévention de la désinformation, influencent les décisions de déploiement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cbca93abd4ec9f421594e0/0x0.jpg?format=jpg&crop=2299,2298,x79,y0,safe&width=440",
         "date": "Tue, 27 Aug 2024 14:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : ne restez pas à la traîne",
+        "link": "https://www.forbes.com/sites/aytekintank/2024/08/27/why-leaders-shouldnt-wait-to-adopt-ai/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cdc6198541d3d5fc3a073e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 27 Aug 2024 12:00:00 GMT"
     },
     {
         "title": "L'avenir du marketing par e-mail avec l'IA",
@@ -110,26 +124,5 @@
         "body": "Dans un monde où l'IA générative est de plus en plus présente, un nouveau type d'insulte fait surface : accuser un auteur d'avoir utilisé l'IA pour écrire son texte. Cette insulte, souvent formulée sous forme de question, suggère que le contenu est \"sans saveur\", \"banal\" et \"manquant d'humanité\". Bien que certains l'utilisent de manière innocente, d'autres l'utilisent comme une attaque personnelle, une façon de dévaloriser le travail d'un écrivain. Cet article explore les implications de cette tendance, y compris les défis auxquels sont confrontés les écrivains pour se défendre contre ces accusations, et soulève des questions éthiques et juridiques liées à l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66b026c1764e552df86178bc/0x0.jpg?format=jpg&crop=4433,3321,x1106,y0,safe&width=440",
         "date": "Mon, 26 Aug 2024 07:00:00 GMT"
-    },
-    {
-        "title": "Acteur parle de santé mentale et d'IA",
-        "link": "https://www.theverge.com/2024/8/25/24228108/jenna-ortega-on-child-stardom-winona-ryder-ai-and-twitter",
-        "body": "L'actrice Jenna Ortega a discuté de ses luttes pour la santé mentale et de son expérience de travail avec l'actrice Winona Ryder sur les films Beetlejuice. Elle mentionne également ses conflits personnels avec l'IA et son utilisation de Twitter dès son plus jeune âge.",
-        "image": "",
-        "date": "Sun, 25 Aug 2024 17:49:35 GMT"
-    },
-    {
-        "title": "Megalopolis et l'IA des citations fausses",
-        "link": "https://www.theverge.com/2024/8/25/24228003/megalopolis-trailer-fake-quotes-ai-generated-eddie-egan-dropped-lionsgate",
-        "body": "Il a été confirmé que les citations fausses du trailer du film Megalopolis, qui avaient été attribuées à de fausses critiques de films précédents du réalisateur Francis Ford Coppola, ont été générées par l'IA. L'incident a conduit au renvoi d'Eddie Egan, responsable de la création du trailer. Cet événement souligne la facilité avec laquelle l'IA peut être utilisée pour répandre de fausses informations et la nécessité de comprendre les implications éthiques de cette technologie. L'IA a été utilisée pour générer de fausses citations, qui ont trompé même ceux qui travaillent dans l'industrie du cinéma. Cet exemple met en évidence la capacité de l'IA à livrer des fausses informations de manière convaincante, ce qui peut avoir des conséquences importantes, comme le montrent les cas de documents juridiques trompeurs soumis par des avocats.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1543x1190/2400x1600/filters:focal(761x363:762x364):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25588208/Megalopolis_Adam_Driver.png",
-        "date": "Sun, 25 Aug 2024 17:06:20 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent les chatbots basés sur des modèles linguistiques de grande envergure",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) démocratisent les technologies de chatbots basées sur des modèles linguistiques de grande envergure (LLM). Ces outils utilisent des séries de programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés. Cependant, ils peuvent présenter des informations fausses comme vraies. L'article aborde également d'autres développements dans le domaine de l'IA, y compris la réglementation, l'éthique et les partenariats.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Sun, 25 Aug 2024 17:06:20 GMT"
     }
 ]
