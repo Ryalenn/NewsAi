@@ -1,5 +1,12 @@
 [
     {
+        "title": "La responsabilité de l'IA",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/08/28/bridging-ethics-trust-and-inclusivity-three-organizations-are-shaping-the-future-of-responsible-ai/?ss=ai",
+        "body": "L'article met en lumière les efforts de trois organisations, AI4ALL, OneTrust et Partnership on AI (PAI), pour promouvoir un développement responsable de l'IA, en se concentrant sur l'éthique, la diversité et la conformité aux normes. Avec l'évolution rapide de l'IA, les opportunités d'innovation s'accompagnent de préoccupations croissantes en matière de vie privée, de biais et de conséquences imprévues. OneTrust propose des solutions logicielles pour une collecte de données transparente et une automatisation de la conformité. AI4ALL met l'accent sur l'éducation et la diversité, visant à inclure davantage de groupes sous-représentés dans le développement de l'IA. Partnership on AI, quant à lui, établit des normes industrielles pour la transparence et la responsabilité de l'IA. L'article explore les défis de la gouvernance des données, de la confiance et de l'anthropomorphisation de l'IA, soulignant la nécessité d'une littératie et d'une diversité accrues dans le domaine de l'IA pour éviter les préjudices et les conséquences imprévues. Les dirigeants des trois organisations soulignent l'importance de la collaboration intersectorielle, de la conformité aux réglementations et de la promotion de l'éthique pour façonner un avenir de l'IA qui profite à tous.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cf646c3500d6b3c403aa9a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 19:00:00 GMT"
+    },
+    {
         "title": "Les applications de transcription alimentées par l'IA sont de plus en plus utilisées pour enregistrer et transcrire des conversations importantes.",
         "link": "https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to",
         "body": "Les applications de transcription alimentées par l'IA : une tendance en plein essor \n\nLes applications de transcription alimentées par l'IA sont de plus en plus utilisées pour enregistrer et transcrire des conversations importantes, offrant ainsi un moyen pratique de conserver des enregistrements de réunions, d'entrevues et de discussions avec des professionnels. Bien que les services de transcription en ligne existent depuis des années, l'amélioration de la précision de l'IA a récemment accru leur popularité. Cet article explore plusieurs applications de transcription alimentées par l'IA, y compris Otter, Temi, Rev, MeetGeek, Sonix, Alice, Google Recorder, TurboScribe et d'autres, en mettant en évidence leurs fonctionnalités, leurs prix et leurs limitations. Les plans gratuits et d'essai sont disponibles pour la plupart des applications, et les utilisateurs peuvent choisir entre des services de transcription entièrement automatisés ou une combinaison de l'IA et de la transcription humaine. La qualité de la transcription dépend de la clarté de l'audio, des accents des locuteurs et du nombre de voix simultanées.",
@@ -126,6 +133,13 @@
         "date": "Tue, 27 Aug 2024 12:00:00 GMT"
     },
     {
+        "title": "Megalopolis et l'importance de la vérification des faits dans l'IA",
+        "link": "https://www.forbes.com/sites/rogerdooley/2024/08/27/megalopolis-trailer-fiasco-how-to-avoid-your-own-ai-content-blunders/?ss=ai",
+        "body": "Résumé : \n\nL'incident récent impliquant la bande-annonce du film *Megalopolis* de Francis Ford Coppola, dans laquelle des citations de critiques cinématographiques célèbres se sont avérées être des inventions de l'IA, a mis en lumière les pièges potentiels de l'utilisation de l'IA dans la création de contenu. Cet article explore les raisons pour lesquelles les outils d'IA, y compris les grands modèles linguistiques, peuvent parfois fournir des informations erronées et offre des conseils pour éviter des erreurs similaires. Il souligne l'importance de la vérification humaine des informations générées par l'IA, en particulier lorsqu'il s'agit de citations, et fournit des suggestions pour améliorer la précision, telles que l'utilisation de systèmes RAG-locked et l'amélioration des invites pour les modèles linguistiques. Enfin, il met en évidence la nécessité de comprendre les limitations de l'IA et de l'utiliser de manière responsable pour protéger à la fois son emploi et sa réputation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ce3cf33a71e3374f947c25/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 27 Aug 2024 00:00:00 GMT"
+    },
+    {
         "title": "Les géants de la tech et la course à l'IA",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grandes entreprises technologiques comme Microsoft, Google et OpenAI rendent les technologies de chatbots basées sur l'IA plus accessibles au grand public. Ces modèles linguistiques utilisent des programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés précédemment. Cependant, ces outils peuvent présenter des informations fausses comme vraies. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les mises à jour des assistants vocaux, l'utilisation de l'IA dans les bandes-annonces de films, les débats sur la réglementation de l'IA, les améliorations des outils d'écriture assistée par l'IA, les voix de célébrités dans les produits d'IA, les controverses sur l'utilisation des données, les progrès des moteurs de recherche basés sur l'IA et les préoccupations des autorités antitrust concernant la concurrence dans le domaine de l'IA.",
@@ -159,19 +173,5 @@
         "body": "L'IA transforme d'abord les emplois techniques, et le développement de logiciels n'y échappe pas. Andy Jassy, PDG d'Amazon, a révélé que l'assistant IA Amazon Q a permis à l'entreprise d'économiser 260 millions de dollars et 4 500 années-développeur en rationalisant les mises à jour logicielles. Amazon Q réduit considérablement le temps de mise à niveau des logiciels pour les entreprises utilisant Amazon, passant de 50 jours à quelques heures pour la mise à niveau vers Java 17. Outre les économies financières, l'IA révolutionne la collaboration inter-équipes et inter-départements chez Amazon, en fournissant une base de connaissances commune et des meilleures pratiques standardisées. L'IA sert de multiplicateur de force pour les équipes de développement et d'ingénierie, en automatisant les tâches répétitives et en laissant aux développeurs plus de temps et d'énergie pour se concentrer sur les aspects créatifs et complexes de leur travail.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cd02db60e87d451ad7df42/0x0.jpg?format=jpg&crop=2634,1976,x163,y0,safe&width=440",
         "date": "Mon, 26 Aug 2024 22:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : l'IA au service de l'expérience utilisateur",
-        "link": "https://www.forbes.com/sites/prakharkhanna/2024/08/26/iphone-16-event-invite-hints-at-apple-intelligence-steering-the-future/?ss=ai",
-        "body": "Apple s'apprête à dévoiler l'iPhone 16, mettant en avant son IA avec le slogan « It's Glowtime ». L'IA d'Apple sur iOS 18 beta se distingue par son expérience utilisateur, gardant l'utilisateur captivé pendant le chargement. Bien que les smartphones Galaxy et Pixel proposent des fonctionnalités IA impressionnantes, celles-ci manquent parfois de praticité. L'IA d'Apple, avec sa fonction « Create a Memory Movie », offre une expérience engageante et fluide, avec des animations attrayantes qui maintiennent l'intérêt de l'utilisateur. Bien que l'IA ne soit pas encore un facteur décisif dans l'achat d'un smartphone, Apple pourrait changer la donne en améliorant l'expérience utilisateur, la rendant ainsi plus intuitive et attrayante.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ccd4319353b4c869fb677c/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 26 Aug 2024 19:00:00 GMT"
-    },
-    {
-        "title": "La fin de Reviewed",
-        "link": "https://www.theverge.com/2024/8/26/24228880/gannett-usa-today-reviewed-product-reviews-ai-articles",
-        "body": "Le géant des journaux, Gannett, ferme son site de critiques de produits, Reviewed, suscitant des questions sur l'implication de l'IA dans la création de contenu. Les employés syndiqués de Reviewed ont accusé Gannett d'avoir publié des critiques de produits générées par l'IA, ce que l'entreprise a nié. La même société de marketing, AdVon Commerce, était derrière des contenus similaires sur Sports Illustrated. AdVon a été impliquée dans la diffusion de contenu marketing, y compris, selon d'anciens employés, du contenu généré par l'IA. Gannett n'a pas donné de raison à la fermeture de Reviewed, mais les conflits avec le personnel syndiqué et les changements dans le trafic de recherche de Google pourraient avoir contribué à cette décision.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:4818x3240/2400x1600/filters:focal(2678x2526:2679x2527):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25589766/1082804360.jpg",
-        "date": "Mon, 26 Aug 2024 18:45:20 GMT"
     }
 ]
