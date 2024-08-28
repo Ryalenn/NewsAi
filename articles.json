@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Pourquoi le prix des SSD va monter en flèche",
+        "title": "Pourquoi le prix des SSD va monter en fl\u00e8che",
         "link": "https://www.frandroid.com/produits-android/hardware/stockage/2315378_pourquoi-le-prix-des-ssd-va-monter-en-fleche",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-memory-cucmbjunida-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=3b714960",
         "date": "Mon, 26 Aug 2024 23:00:00 GMT",
@@ -140,14 +140,14 @@
         "check": "yes"
     },
     {
-        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n’est pas si innocent que ça",
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n’est pas si innocent que ça",
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2316588_le-patron-de-chatgpt-poste-des-tweets-de-fraise-et-ce-nest-pas-si-innocent-que-ca",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT",
@@ -173,5 +173,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cec7bdbec7c8c70cc5f792/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 Aug 2024 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/28/24229510/plaud-notepin-ai-wearable-transcription",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2167x2010/2400x1600/filters:focal(1270x1364:1271x1365):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25590891/PLAUD_NotePin.jpg",
+        "date": "Wed, 28 Aug 2024 10:57:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://variety.com/2024/politics/news/sag-aftra-limit-ai-digital-replica-california-bill-1236120379/",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 28 Aug 2024 09:25:45 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/karlfreund/2024/08/28/amd-narrows-the-gap-with-nvidia-in-new-mlperf-benchmarks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66c7c386eb24052b7cd5b849/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 14:59:00 GMT",
+        "check": "no"
     }
 ]
