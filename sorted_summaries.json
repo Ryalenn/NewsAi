@@ -1,5 +1,33 @@
 [
     {
+        "title": "Grok AI Chatbot Misinformation",
+        "link": "https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote",
+        "body": "X a mis à jour son chatbot Grok basé sur l'IA après que cinq secrétaires d'État aient signalé qu'il diffusait de la désinformation sur les élections. Grok, développé par xAI, une autre entreprise détenue par Elon Musk, conseillait aux utilisateurs de vérifier Vote.gov pour obtenir des informations précises et à jour sur les élections de 2024 aux États-Unis. Ce changement fait suite à une plainte selon laquelle le chatbot fournissait de fausses informations sur les délais d'inscription sur les listes électorales dans plusieurs États. Bien que Grok ne soit disponible que pour les abonnés payants de la plateforme sociale X, la désinformation a été partagée au-delà de la plateforme, touchant des millions de personnes. Les responsables électoraux ont salué la mise à jour, encourageant X à poursuivre les améliorations pour garantir que les utilisateurs accèdent à des informations précises provenant de sources fiables pendant cette année électorale critique. Cependant, la mise à jour n'affecte pas la capacité récente de Grok à générer des images liées aux élections, qui a déjà été utilisée pour diffuser des représentations trompeuses ou incendiaires de personnalités politiques.",
+        "image": "",
+        "date": "Wed, 28 Aug 2024 09:04:54 GMT"
+    },
+    {
+        "title": "L'IA Générative pour vaincre les addictions",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/28/overcoming-addictions-via-the-powers-of-generative-ai/?ss=ai",
+        "body": "L'IA générative devient un outil précieux pour traiter et surmonter les addictions. Bien qu'elle ne soit pas une solution miracle, elle peut être un outil efficace dans la lutte contre les addictions, en complément d'autres facteurs cruciaux. L'article explore les recherches soutenant cette idée, en soulignant que l'IA générative peut aider à surmonter les addictions, mais aussi à prévenir les addictions à l'IA elle-même. Il fournit également des exemples de dialogues avec ChatGPT, démontrant son utilité potentielle dans le traitement des addictions. Cependant, l'article met en garde contre les limites de l'IA générative, notamment sa capacité à fournir des conseils dangereux ou erronés, et souligne l'importance d'une supervision professionnelle. Enfin, il soulève des questions éthiques et juridiques concernant l'utilisation généralisée de l'IA générative dans le domaine de la santé mentale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cbbcc76125c4db2ab79933/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 07:00:00 GMT"
+    },
+    {
+        "title": "La crise de la vérité à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/28/the-ai-driven-truth-crisis/?ss=ai",
+        "body": "Résumé : \n\nTitre : La crise de la vérité à l'ère de l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cec7bdbec7c8c70cc5f792/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 06:00:00 GMT"
+    },
+    {
+        "title": "La prochaine itération de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2316588_le-patron-de-chatgpt-poste-des-tweets-de-fraise-et-ce-nest-pas-si-innocent-que-ca",
+        "body": "Le modèle de langage ultra-avancé \"Q*\", qui a failli coûter sa place au patron de ChatGPT, est sur le point d'être lancé sous le nom de code \"Strawberry\". Capable de résoudre des problèmes mathématiques complexes et de réduire les hallucinations, Strawberry pourrait être intégré à ChatGPT dès l'automne prochain. OpenAI espère ainsi garder une longueur d'avance dans le domaine des IA génératives. Strawberry se décline en deux versions : une complète et une réduite, cette dernière pouvant être intégrée à ChatGPT. La version de base de Strawberry peut générer des données synthétiques pour entraîner ChatGPT, mais une étude récente met en garde contre le risque d'effondrement de la qualité du contenu. Malgré cela, OpenAI prévoit d'utiliser Strawberry pour améliorer la prochaine version de ChatGPT, nommée \"Orion\", qui devrait sortir fin 2024, avec de meilleures capacités en mathématiques et en programmation.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
+        "date": "Tue, 27 Aug 2024 23:00:00 GMT"
+    },
+    {
         "title": "Le mystère des fraises",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "body": "Le PDG de ChatGPT, Sam Altman, a récemment publié une série de tweets énigmatiques contenant uniquement des images de fraises. Bien qu'étrange, cet acte n'est pas dénué de sens. Il s'agirait d'une réponse à la controverse entourant les générateurs d'images basées sur l'IA et d'une façon de souligner l'importance de la créativité humaine dans le processus de création. L'article explore également d'autres actualités liées à l'IA, notamment la victoire des artistes face aux générateurs d'images et l'avis d'un spécialiste sur le retard supposé d'Apple par rapport à Google dans ce domaine.",
@@ -152,12 +180,5 @@
         "body": "Des entreprises de toutes tailles sont submergées de candidatures d'emploi en provenance de Corée du Nord, notamment dans le domaine de l'informatique. Cinder, une startup tech, a remarqué des anomalies dans les CV, tels que des rôles impressionnants mais une absence de présence en ligne, des profils suspects et un mauvais anglais lors des entretiens. La société a découvert que jusqu'à 80 % des candidats de certains sites d'emploi pouvaient être nord-coréens. Ce schéma est confirmé par d'autres entreprises et experts en sécurité, qui attribuent ce phénomène à l'utilisation de l'IA par la Corée du Nord pour créer de multiples profils et cibler des rôles informatiques à distance. Les revenus générés par ces travailleurs financent le régime nord-coréen, y compris son programme d'armes de destruction massive. Les autorités américaines ont lancé une initiative pour lutter contre ce problème, menant à des arrestations et mettant en lumière l'ampleur de la fraude.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cc9c80b970be361d4183eb/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 26 Aug 2024 15:00:00 GMT"
-    },
-    {
-        "title": "La montée de l'insulte \"AI-generated\"",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/26/the-snarky-line-of-which-llm-or-generative-ai-wrote-that-for-you-has-become-latest-hackneyed-ribbing-aimed-at-genuine-human-authors/?ss=ai",
-        "body": "Dans un monde où l'IA générative est de plus en plus présente, un nouveau type d'insulte fait surface : accuser un auteur d'avoir utilisé l'IA pour écrire son texte. Cette insulte, souvent formulée sous forme de question, suggère que le contenu est \"sans saveur\", \"banal\" et \"manquant d'humanité\". Bien que certains l'utilisent de manière innocente, d'autres l'utilisent comme une attaque personnelle, une façon de dévaloriser le travail d'un écrivain. Cet article explore les implications de cette tendance, y compris les défis auxquels sont confrontés les écrivains pour se défendre contre ces accusations, et soulève des questions éthiques et juridiques liées à l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66b026c1764e552df86178bc/0x0.jpg?format=jpg&crop=4433,3321,x1106,y0,safe&width=440",
-        "date": "Mon, 26 Aug 2024 07:00:00 GMT"
     }
 ]
