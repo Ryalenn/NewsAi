@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Pourquoi le prix des SSD va monter en flèche",
+        "title": "Pourquoi le prix des SSD va monter en fl\u00e8che",
         "link": "https://www.frandroid.com/produits-android/hardware/stockage/2315378_pourquoi-le-prix-des-ssd-va-monter-en-fleche",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-memory-cucmbjunida-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=3b714960",
         "date": "Mon, 26 Aug 2024 23:00:00 GMT",
@@ -147,10 +147,38 @@
         "check": "yes"
     },
     {
-        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n’est pas si innocent que ça",
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2316588_le-patron-de-chatgpt-poste-des-tweets-de-fraise-et-ce-nest-pas-si-innocent-que-ca",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
+        "date": "Tue, 27 Aug 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote",
+        "image": "",
+        "date": "Wed, 28 Aug 2024 09:04:54 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/28/overcoming-addictions-via-the-powers-of-generative-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cbbcc76125c4db2ab79933/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/28/the-ai-driven-truth-crisis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cec7bdbec7c8c70cc5f792/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 06:00:00 GMT",
+        "check": "no"
     }
 ]
