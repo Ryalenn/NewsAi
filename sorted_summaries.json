@@ -1,5 +1,19 @@
 [
     {
+        "title": "Le futur de l'IA sociale",
+        "link": "https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges",
+        "body": "Le nouveau chatbot Grok de xAI, disponible sur le réseau social X d'Elon Musk, permet aux utilisateurs de créer des images à partir de descriptions textuelles, mais son déploiement semble chaotique et soulève des inquiétudes quant aux risques associés à l'IA générative. Grok prétend avoir des garde-fous, mais ceux-ci semblent être des réponses prédictives générées dynamiquement plutôt que des règles réelles. Le chatbot accepte des invites d'image qui seraient bloquées sur d'autres plateformes, ce qui a conduit à la création d'images controversées impliquant des personnalités politiques et des personnages célèbres. Bien que Musk soit conscient des problèmes, il semble les considérer comme une source d'amusement. L'approche de Grok contraste avec celle d'autres entreprises, comme OpenAI, qui refuse les demandes impliquant des personnes réelles, des symboles nazis et d'autres sujets sensibles. Le générateur d'images de Grok arrive à un moment délicat, alors que la Commission européenne enquête déjà sur X pour des violations potentielles de la loi sur la sécurité numérique.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:794x540/2400x1632/filters:focal(397x270:398x271):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25593409/Screen_Shot_2024_08_28_at_4.27.42_PM.png",
+        "date": "Thu, 29 Aug 2024 10:00:00 GMT"
+    },
+    {
+        "title": "L'éthique de l'IA et ses implications pour l'avenir",
+        "link": "https://www.forbes.com/sites/arunshastri/2024/08/29/data-poisoning-is-it-a-good-idea-to-use-it-for-good/?ss=ai",
+        "body": "L'article explore les complexités éthiques entourant le développement et le déploiement de l'IA, soulignant son impact potentiel sur la société et l'importance de pratiques responsables. Il met en évidence les préoccupations concernant les préjugés dans les données, la vie privée et la sécurité, ainsi que les implications sur l'emploi. L'article plaide pour une approche collaborative entre les développeurs, les chercheurs et les décideurs pour établir des normes et des directives garantissant une utilisation éthique de l'IA, protégeant ainsi les individus et la société dans son ensemble.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0410d91d6436939a37de4/0x0.jpg?format=jpg&crop=3182,1789,x0,y164,safe&width=440",
+        "date": "Thu, 29 Aug 2024 09:00:00 GMT"
+    },
+    {
         "title": "Generative AI Tools for Synthetic Data Generation",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/08/29/20-generative-ai-tools-for-creating-synthetic-data/?ss=ai",
         "body": "L'article présente 20 outils d'IA générative permettant de créer des données synthétiques, en soulignant leur utilité pour résoudre les défis liés à la collecte, au stockage et à la protection des données dans le monde réel. Il met en évidence l'importance de ces outils pour préserver la vie privée et la sécurité des données, tout en offrant des possibilités pour divers domaines tels que la finance, la santé et le développement logiciel. \n\n**Résumé des outils présentés** : \n\n- **Mostly** : Plateforme de données synthétiques bien établie, utilisée dans divers secteurs, garantissant la confidentialité et la conformité aux réglementations sur la protection des données. Interface basée sur le langage naturel. \n\n- **Gretel** : Outil simple permettant de créer des données tabulaires, non structurées et des séries chronologiques pour l'analytique et l'apprentissage automatique, avec de nombreuses intégrations et une communauté active. \n\n- **Synthea** : Outil open-source gratuit pour créer des patients synthétiques et leurs dossiers médicaux complets à des fins de recherche en santé, sans soucis de confidentialité. \n\n- **Tonic** : Plateforme complète pour des données synthétiques réalistes, sécurisées et conformes, avec des options de déploiement sur site ou dans le cloud, et une intégration avec des bases de données courantes. \n\n- **Faker** : Bibliothèque pour Python, JavaScript, etc., nécessitant des compétences en codage, permettant de créer des données fictives pour l'entraînement de moteurs de recommandation et la détection des fraudes. \n\nD'autres outils mentionnés incluent Broadcom CTA Test Manager, BizData X, Cvedia, Datomize, Edgecase, GenRocket, Hazy, K2View, KopiKat, MDClone, Simerse, Sogeti, Synthetic Data Vault, Syntho et YData, chacun offrant des fonctionnalités uniques pour la génération de données synthétiques et l'amélioration de la confidentialité et des performances de l'IA.",
@@ -19,6 +33,13 @@
         "body": "L'Assemblée de l'État de Californie a adopté le Safe and Secure Innovation for Frontier Artificial Intelligence Models Act (SB 1047), l'une des premières réglementations importantes de l'IA aux États-Unis. Le projet de loi impose aux entreprises d'IA opérant en Californie de prendre plusieurs précautions avant d'entraîner un modèle de foundation sophistiqué. Ces précautions incluent la possibilité d'arrêter rapidement et complètement le modèle, de le protéger contre les modifications post-entraînement dangereuses et de maintenir une procédure de test pour évaluer les risques de \"dommages critiques\". Le sénateur Scott Wiener, auteur principal du projet de loi, le considère comme raisonnable et aligné sur les engagements des grands laboratoires d'IA en matière de test de sécurité. Malgré les critiques de certaines entreprises et personnalités politiques, le projet de loi a été amendé pour atténuer les inquiétudes concernant l'impact sur les petites entreprises et les développeurs open-source. Les amendements incluent la modification des sanctions pénales en sanctions civiles et la limitation des pouvoirs d'application de la loi. Le projet de loi modifié devrait être voté par le Sénat de l'État et sera ensuite transmis au gouverneur Gavin Newsom pour décision finale.",
         "image": "",
         "date": "Thu, 29 Aug 2024 00:09:31 GMT"
+    },
+    {
+        "title": "L'IA au service de la liberté de la presse",
+        "link": "https://www.frandroid.com/culture-tech/2317558_comment-lia-permet-a-ces-journalistes-de-travailler-en-toute-securite",
+        "body": "Des journalistes utilisent des avatars créés par intelligence artificielle pour présenter un journal télévisé sur la plateforme Connectas, dénonçant ainsi la répression du gouvernement vénézuélien sans risquer la sécurité des reporters impliqués. Carlos Eduardo Huertas, directeur de Connectas, souligne l'importance de l'IA comme outil de réponse à la persécution croissante des journalistes. L'IA peut être un outil puissant, comme l'a démontré Elon Musk en diffusant une fausse vidéo d'une personnalité politique, mais elle doit être réglementée pour éviter la désinformation.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/intelligence-artificielle-1200x904-1-768x579.jpg?resize=226,226&key=f8f154d3",
+        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
     },
     {
         "title": "L'IA, un facteur clé dans l'augmentation des prix des smartphones haut de gamme",
@@ -63,6 +84,20 @@
         "date": "Wed, 28 Aug 2024 17:36:31 GMT"
     },
     {
+        "title": "True Crime Fictions",
+        "link": "https://www.theverge.com/2024/8/28/24230578/viral-true-crime-story-or-just-another-ai-fake",
+        "body": "Résumé : \n\nDes fans de true crime ont signalé des vidéos sur YouTube et Spotify présentant un meurtre fictif de 2014 à Littleton, CO, avec des voix off et des visages apparemment générés par l'IA. Malgré les signalements, les vidéos n'ont pas été supprimées et ont accumulé des millions de vues.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2250x1518/2400x1619/filters:focal(1125x759:1126x760):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25592933/ai_label.png",
+        "date": "Wed, 28 Aug 2024 16:46:47 GMT"
+    },
+    {
+        "title": "Le grand virage de Microsoft vers l'IA",
+        "link": "https://www.theverge.com/2023/9/18/23878759/microsoft-windows-panos-panay-surface-yusuf-mehdi",
+        "body": "Bien qu'il soit surtout connu pour son rôle dans la gamme de tablettes Surface de Microsoft, Panos Panay quitte l'entreprise pour rejoindre Amazon, où il dirigera l'équipe Echo et Alexa. Ce départ inattendu survient juste avant le grand événement Surface de Microsoft, où l'entreprise devrait présenter de nouveaux appareils Surface et mettre en avant les fonctionnalités alimentées par l'IA pour Surface, Windows, Office, Bing et plus encore. Ce changement de direction soulève des questions sur l'avenir de l'innovation matérielle chez Microsoft, alors que l'entreprise se concentre de plus en plus sur l'IA et les services Web pour Windows. La formation d'une nouvelle équipe \"Windows and Web Experiences\" suggère que Microsoft veut utiliser Windows comme véhicule pour ses efforts en matière d'IA et promouvoir Bing et Edge auprès des consommateurs et des entreprises. L'avenir des efforts Android de Microsoft, comme le Surface Duo, est incertain, tout comme l'espace pour des conceptions innovantes de tablettes et d'ordinateurs portables. La stratégie globale de Microsoft semble être de déplacer Windows entièrement vers le cloud, avec des services Web alimentés par l'IA, mais il reste à voir comment cela s'intégrera dans l'écosystème Surface.",
+        "image": "",
+        "date": "Wed, 28 Aug 2024 16:17:40 GMT"
+    },
+    {
         "title": "Gemini lance les Gems",
         "link": "https://www.theverge.com/2024/8/28/24230490/google-custom-ai-chatbots-gems-launch",
         "body": "Google lance bientôt une fonctionnalité permettant aux abonnés de Gemini de créer leurs propres chatbots personnalisés, appelés Gems. Les utilisateurs peuvent donner des personnalités et des spécialités distinctes à ces chatbots en leur fournissant un ensemble d'instructions. Google propose également des Gems préfabriqués pour ceux qui ne souhaitent pas créer leur propre chatbot. Les Gems sont mis à la disposition des utilisateurs de Gemini Advanced, Gemini Business et Gemini Enterprise sur mobile et bureau dans plus de 150 pays et dans la plupart des langues. Cette initiative semble être une réponse à OpenAI, qui permet déjà aux utilisateurs de créer et de partager leurs propres chatbots personnalisés.",
@@ -82,6 +117,20 @@
         "body": "Les nouveaux résultats de référence d'AMD, Untether AI, Google, Intel et Nvidia démontrent une convergence des performances des puces IA. AMD a publié d'excellents résultats d'inférence MLPerf pour sa puce GPU MI300, qui rivalise avec la Nvidia H100. Untether.ai, une startup canadienne, a également présenté de nouveaux benchmarks d'inférence mettant en évidence son efficacité énergétique. MLCommons, le consortium derrière les benchmarks MLPerf, a ajouté un benchmark pour les modèles de mélange d'experts (MoE), de plus en plus populaires dans les grands modèles LLM. Nvidia a publié des benchmarks pour sa puce H200, qui surpasse la MI300 d'AMD de 43 %, ainsi que pour sa puce de prochaine génération, Blackwell, qui offre une performance quatre fois supérieure à la H100. Untether.ai prétend briser le moule des ASIC en offrant une efficacité énergétique exceptionnelle sur Resnet-50, comparable à la Nvidia H100-NV avec une consommation d'énergie beaucoup plus faible. Bien qu'Untether ait manqué la date limite de soumission pour le benchmark BERT-Large, les résultats indiquent une efficacité énergétique exceptionnelle pour les modèles linguistiques. Nvidia reste le leader dans la fourniture d'infrastructures IA grâce à son approche full-stack, mais AMD et d'autres concurrents gagnent du terrain.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c7c386eb24052b7cd5b849/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 Aug 2024 14:59:00 GMT"
+    },
+    {
+        "title": "Pollution Concerns Over xAI's New Data Center",
+        "link": "https://www.cnbc.com/2024/08/28/musk-xai-accused-of-worsening-memphis-smog-with-unauthorized-turbines.html",
+        "body": "Elon Musk's AI startup, xAI, is facing criticism from environmental and health advocates for its use of natural gas-burning turbines at its new data center in Memphis, Tennessee. xAI, which aims to develop large language models and AI products, has installed at least 18 gas combustion turbines to power its facility, with plans to use additional power from local utilities. The Southern Environmental Law Center has sent a letter to regulators, noting that the unpermitted use of these turbines contributes to air pollution, specifically nitrogen oxides, which have negative impacts on human health and the environment. The concern is heightened as the area already struggles with a smog problem, and the added emissions from xAI are estimated to be significant. The letter also highlights the lack of transparency and public input regarding the project. Musk's companies have a history of similar issues, with SpaceX, The Boring Co., and Tesla all previously cited for permit violations related to emissions and pollution. The health and environmental impact of AI data centers is an important consideration for the industry, and xAI's response to these concerns will be crucial.",
+        "image": "",
+        "date": "Wed, 28 Aug 2024 13:20:20 GMT"
+    },
+    {
+        "title": "Deepfake Nudes and the Law",
+        "link": "https://www.theverge.com/2024/3/8/24094633/deepfake-ai-explicit-images-florida-teenagers-arrested",
+        "body": "Deux élèves du secondaire en Floride ont été arrêtés et accusés de délits graves pour avoir créé des deepfakes de camarades de classe. Cet incident met en lumière le problème croissant des mineurs créant des images explicites d'autres enfants à l'aide de l'IA. Bien qu'il existe des lois sur la vengeance pornographique, seules quelques États ont adopté des lois concernant les images à caractère sexuel générées par l'IA. Cet article explore les implications juridiques et éthiques, ainsi que les efforts du gouvernement fédéral pour lutter contre ce phénomène. Le président Biden a émis un ordre exécutif sur l'IA, et le Congrès envisage une législation sur la pornographie deepfake. Les victimes dans les États sans protection juridique ont recours à la justice.",
+        "image": "",
+        "date": "Wed, 28 Aug 2024 13:15:39 GMT"
     },
     {
         "title": "NotePin",
@@ -166,19 +215,5 @@
         "body": "L'IA prédictive peut améliorer les opérations en calculant les probabilités à partir de données historiques. Un exemple est la détection de la désinformation sur les médias sociaux. En ajustant le seuil de décision, une entreprise peut équilibrer les économies, la capture de la désinformation et les faux positifs. La forme de la courbe des économies est importante, car elle montre les compromis entre les différents facteurs. La prise en compte de la courbe complète permet d'évaluer toutes les options et les compromis. Dans cet article, on explique également comment les facteurs commerciaux changeants, tels que la valeur accordée à la prévention de la désinformation, influencent les décisions de déploiement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cbca93abd4ec9f421594e0/0x0.jpg?format=jpg&crop=2299,2298,x79,y0,safe&width=440",
         "date": "Tue, 27 Aug 2024 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : ne restez pas à la traîne",
-        "link": "https://www.forbes.com/sites/aytekintank/2024/08/27/why-leaders-shouldnt-wait-to-adopt-ai/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cdc6198541d3d5fc3a073e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 27 Aug 2024 12:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du marketing par e-mail avec l'IA",
-        "link": "https://www.forbes.com/sites/stephenwunker/2024/08/27/how-ai-is-revolutionizing-e-mail-marketing/?ss=ai",
-        "body": "L'IA révolutionne le marketing par e-mail, permettant une personnalisation à grande échelle et une optimisation de l'impact. Victoria's Secret et L.L.Bean ont adopté l'IA pour améliorer leurs newsletters, avec des résultats impressionnants. Movable Ink, la société d'IA de marketing par e-mail, utilise quatre types d'IA : un modèle de vision, l'IA générative pour le texte, un modèle d'insights et un modèle de prédiction. Cette approche offre une personnalisation et une analyse granulaires, adaptant le contenu, le moment d'envoi, la fréquence et le ton en fonction des préférences des clients. Les résultats sont convaincants, avec une augmentation significative des revenus et une amélioration de l'engagement des clients. L'IA dans le marketing par e-mail offre un potentiel énorme pour une personnalisation efficace et rentable, améliorant ainsi l'expérience client.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66c78e0e0db1f77e69cebe83/0x0.jpg?format=jpg&crop=390,259,x0,y79,safe&width=440",
-        "date": "Tue, 27 Aug 2024 12:00:00 GMT"
     }
 ]
