@@ -49,14 +49,14 @@
         "check": "yes"
     },
     {
-        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n’est pas si innocent que ça",
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n’est pas si innocent que ça",
+        "title": "Le patron de ChatGPT poste des tweets de fraises et ce n\u2019est pas si innocent que \u00e7a",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2316588_le-patron-de-chatgpt-poste-des-tweets-de-fraise-et-ce-nest-pas-si-innocent-que-ca",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT",
@@ -138,5 +138,26 @@
         "image": "",
         "date": "Thu, 29 Aug 2024 00:09:31 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/28/surgeon-general-proclaims-todays-stressed-parents-need-mental-health-support-which-luckily-generative-ai-stands-ready-to-fulfill/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfcf3389027c7a10c32746/0x0.jpg?format=jpg&crop=2622,1964,x275,y0,safe&width=440",
+        "date": "Thu, 29 Aug 2024 01:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/08/28/making-your-way-today-9-tips-for-ai-moonshots/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfb05345cd8199cf8d31ea/0x0.jpg?format=jpg&crop=1772,996,x109,y0,safe&width=440",
+        "date": "Wed, 28 Aug 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/08/28/will-you-let-apple-ai-shape-your-choices/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfa7819c7dea885d533c04/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 Aug 2024 23:00:00 GMT",
+        "check": "no"
     }
 ]
