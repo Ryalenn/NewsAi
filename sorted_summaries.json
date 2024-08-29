@@ -1,5 +1,47 @@
 [
     {
+        "title": "Granite TTM : une nouvelle boîte à outils pour l'IA basée sur les séries chronologiques",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/08/29/ibm-improves-generative-ai-forecasting-using-time-not-just-attention/?ss=ai",
+        "body": "IBM a introduit un nouveau modèle d'IA basé sur les séries chronologiques, Granite TinyTimeMixer (TTM), qui offre une nouvelle approche pour la prévision de résultats dans ce domaine. TTM, basé sur l'architecture Patch-Mixer, apprend les contextes et les corrélations dans les données chronologiques et à variables multiples. Contrairement aux modèles d'IA basés sur le langage et la vision, les modèles de séries chronologiques (TSFM) utilisent des valeurs associées à des patches temporels locaux pour apprendre les modèles temporels. Les TSFM peuvent également tirer parti de grandes fenêtres temporelles historiques et de corrélations avec d'autres données de séries chronologiques à variables multiples, ce qui les rend efficaces pour diverses industries et caractéristiques de données. L'un des défis est l'accès à des données horodatées spécifiques, qui ne sont souvent pas disponibles publiquement. Cependant, la Monash Time Series Forecasting Repository fournit un ensemble de données suffisant pour entraîner les TSFM. IBM a créé une nouvelle architecture, Time Series Mixer (TS Mixer), qui réduit considérablement la taille du modèle tout en conservant une précision similaire aux modèles basés sur les transformateurs. TTM a déjà été téléchargé plus d'un million de fois sur Hugging Face, et est utilisé pour des cas d'utilisation à variables multiples, tels que la prévision des performances des dispositifs de stockage flash et des mouvements boursiers, ainsi que pour l'optimisation de la prévision basée sur la modélisation, comme le contrôle de la température des bâtiments.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0c31bc10c6313053c1d6d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 Aug 2024 20:56:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft",
+        "body": "OpenAI, la société derrière ChatGPT, est sur le point de recevoir un important financement de la part de géants technologiques, notamment Apple et peut-être Nvidia. Apple prévoit d'intégrer ChatGPT à iOS et Siri, et Nvidia est un fournisseur clé de puces pour les services d'IA d'OpenAI. Microsoft, qui a déjà investi dans OpenAI par le passé, est également en pourparlers pour participer à ce tour de table, qui valoriserait OpenAI à plus de 100 milliards de dollars.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462007/STK155_OPEN_AI_CVirginia_C.jpg",
+        "date": "Thu, 29 Aug 2024 20:17:12 GMT"
+    },
+    {
+        "title": "Les défis de l'implémentation de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/08/29/bad-actors-bad-content-and-walled-gardens-looking-out-for-ai-risks/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0c9668951d95761afc417/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 Aug 2024 19:00:00 GMT"
+    },
+    {
+        "title": "Révolution dans l'expérience client",
+        "link": "https://www.forbes.com/sites/adrianswinscoe/2024/08/29/nices-1cx-could-be-a-game-changer-for-solving-knotty-customer-problems/?ss=ai",
+        "body": "Le PDG de NICE, Barak Eilam, présente 1CX, une nouvelle ligne de produits UCaaS, qui révolutionne l'expérience client en permettant une connectivité et une collaboration transparentes entre les agents de centre de contact et les experts du back-office. Dans un scénario décrit, un client ayant un problème complexe contacte le service client. Reconnaissant la complexité du problème, l'agent du centre de contact fait appel à un collègue du back-office, spécialisé dans ce domaine, pour une assistance rapide et efficace. Cette approche collaborative, facilitée par 1CX, garantit une résolution rapide du problème, améliorant ainsi l'expérience globale du client. De plus, le prix compétitif de 1CX, à seulement 5 $ par utilisateur et par mois, en fait une option attrayante pour les centres de contact travaillant avec des contraintes budgétaires.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0bd5f0a030dba555ffa0e/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 Aug 2024 18:00:00 GMT"
+    },
+    {
+        "title": "AI Regulation and Collaboration",
+        "link": "https://www.theverge.com/2024/8/29/24231395/openai-anthropic-share-models-us-ai-safety-institute",
+        "body": "Les entreprises OpenAI et Anthropic ont conclu un accord avec l'US AI Safety Institute pour permettre au gouvernement américain d'accéder à leurs nouveaux modèles d'IA majeurs avant leur sortie publique, dans le but d'améliorer leur sécurité. Cet accès partagé aux modèles d'IA est un pas significatif vers une collaboration entre l'industrie et le gouvernement pour évaluer les risques et atténuer les problèmes potentiels liés à l'IA. Cet accord intervient alors que les législateurs fédéraux et étatiques américains réfléchissent à la réglementation de l'IA pour garantir à la fois l'innovation et la sécurité. La Californie a récemment adopté une loi exigeant des entreprises d'IA qu'elles mettent en place des mesures de sécurité spécifiques pour les modèles de foundation models avancés, bien que cela ait suscité des critiques de la part des entreprises d'IA. Parallèlement, la Maison Blanche a obtenu des engagements volontaires de la part d'entreprises leaders en matière de mesures de sécurité de l'IA. L'US AI Safety Institute a qualifié ces accords de « première étape importante » dans la gestion responsable de l'avenir de l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg",
+        "date": "Thu, 29 Aug 2024 15:25:01 GMT"
+    },
+    {
+        "title": "Sure, here is the title and summary: \n\nWyze AI Search Feature Enhances Footage Review",
+        "link": "https://www.theverge.com/2024/8/29/24231371/wyze-ai-search-camera-footage",
+        "body": "Wyze teste une nouvelle fonctionnalité de recherche par IA pour ses abonnés Cam Unlimited, leur permettant de rechercher des séquences spécifiques à l'aide de mots-clés. La fonctionnalité utilise l'IA pour identifier et récupérer des scènes pertinentes en fonction des termes de recherche, tels que « camion » ou « chat dans la cour ». Bien que Wyze ait noté que la fonctionnalité n'est pas parfaite, elle peut néanmoins économiser beaucoup de temps en évitant de rembobiner ou de parcourir manuellement toutes les images. La fonctionnalité de recherche IA de Wyze est disponible pour les abonnés Cam Unlimited au prix de 9,99 $ par mois, mais l'entreprise a connu des problèmes de sécurité par le passé. De plus, Google et Ring travaillent sur des fonctionnalités similaires pour leurs caméras intelligentes respectives.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2036x1128/2400x1600/filters:focal(708x479:709x480):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25594427/wyze_cam_4_pic.png",
+        "date": "Thu, 29 Aug 2024 15:22:12 GMT"
+    },
+    {
         "title": "La superpuissance de l'IA de Tesla",
         "link": "https://www.forbes.com/sites/torconstantino/2024/08/29/elon-musk-gives-sneak-peek-video-clip-of-new-ai-supercomputer/?ss=ai",
         "body": "Elon Musk a partagé une vidéo de 20 secondes du superordinateur IA Cortex de Tesla, actuellement en construction au siège de l'entreprise à Austin, au Texas. Cortex, qui sera l'un des plus grands et des plus puissants systèmes d'entraînement au monde, est conçu pour entraîner les futurs modèles de l'IA générative de Musk, Grok. Grok a déjà été déployé auprès de plus de 500 millions d'utilisateurs de l'application X (anciennement Twitter). \n\nLe superordinateur utilise des GPU Nvidia H100 de pointe, tout comme le \"Gigafactory of Compute\" de Musk à Memphis. Ces centres de données méga-puissants serviront à entraîner Grok, mais aussi à soutenir les efforts de Tesla en matière de conduite autonome et de robotaxis, ainsi que sa ligne de robots humanoïdes Optimus. \n\nMusk prévoit que Optimus, qui sera proposé à un prix inférieur à celui des véhicules Tesla de base, sera un jour présent dans les foyers du monde entier pour effectuer des tâches ménagères. L'IA Cortex sera initialement exécutée sur 50 000 puces Nvidia H100, avec une capacité d'expansion future pouvant accueillir 300 000 GPU B200 supplémentaires.",
@@ -40,6 +82,13 @@
         "body": "Résumé : \n\nL'article met en lumière la pression et les répercussions sur la santé mentale auxquelles les parents sont confrontés à l'ère actuelle, soulignant le récent rapport du Surgeon General américain sur ce sujet. Il propose l'IA générative comme un outil potentiel pour aider les parents à gérer leur stress et à maintenir leur santé mentale. L'IA peut offrir un soutien émotionnel, des stratégies d'adaptation, des suggestions d'activités pour les enfants, et même guider les parents vers des ressources professionnelles si nécessaire. L'article présente également un dialogue avec ChatGPT, illustrant la fluidité et l'empathie de l'IA dans ce contexte. Enfin, il souligne l'importance de reconnaître le rôle crucial des parents et de leur apporter le soutien nécessaire, tout en mettant en garde contre les pièges potentiels de l'IA générative.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cfcf3389027c7a10c32746/0x0.jpg?format=jpg&crop=2622,1964,x275,y0,safe&width=440",
         "date": "Thu, 29 Aug 2024 01:00:00 GMT"
+    },
+    {
+        "title": "Les géants de la tech démocratisent l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft, Google et OpenAI rendent les technologies de chatbot basées sur des modèles linguistiques importants plus accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les mots tapés précédemment. Cependant, comme ils n'ont pas de base de données de faits codée en dur, ils peuvent présenter des informations fausses comme vraies. La Californie a récemment adopté une loi réglementant l'IA, exigeant des précautions telles que la possibilité de désactiver rapidement les modèles et la protection contre les modifications non sécurisées. Google, Reddit et Meta développent également de nouvelles fonctionnalités d'IA, mais font face à des critiques concernant la désinformation, la protection de la propriété intellectuelle et la gestion des lanceurs d'alertes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Thu, 29 Aug 2024 00:09:31 GMT"
     },
     {
         "title": "Réglementation de l'IA en Californie",
@@ -201,26 +250,5 @@
         "body": "Le PDG de ChatGPT, Sam Altman, a récemment publié une série de tweets énigmatiques contenant uniquement des images de fraises. Bien qu'étrange, cet acte n'est pas dénué de sens. Il s'agirait d'une réponse à la controverse entourant les générateurs d'images basées sur l'IA et d'une façon de souligner l'importance de la créativité humaine dans le processus de création. L'article explore également d'autres actualités liées à l'IA, notamment la victoire des artistes face aux générateurs d'images et l'avis d'un spécialiste sur le retard supposé d'Apple par rapport à Google dans ce domaine.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
         "date": "Tue, 27 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'intelligence de la chorégraphie",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/08/27/dancing-with-ai-in-the-digital-age/?ss=ai",
-        "body": "L'article explore la capacité de l'IA à imiter et à créer des mouvements de danse humains, en se concentrant sur les projets du MIT qui visent à développer une « intelligence chorégraphique ». L'auteur souligne l'importance de reconnaître les connaissances culturelles non occidentales dans le développement de ces systèmes d'IA. Le projet « Dance with AI » déconstruit les danses traditionnelles en événements enseignables à l'IA, permettant ainsi la création de nouvelles chorégraphies et l'interprétation des mouvements du corps humain. Un autre projet, « Democratizing AI for K-12 Education », explore l'utilisation de l'IA pour quantifier et mesurer les mouvements de danse, aidant ainsi les danseurs à améliorer leurs compétences. Ces initiatives soulèvent des questions sur le rôle futur de l'IA dans le monde de la danse et ses implications sur les droits d'auteur, l'attribution, la compensation et le consentement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ce441651c597f955649857/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 27 Aug 2024 21:00:00 GMT"
-    },
-    {
-        "title": "Google Meet ajoute une fonctionnalité de prise de notes alimentée par l'IA",
-        "link": "https://www.theverge.com/2024/8/27/24229843/google-meets-automatic-ai-note-taking-launch",
-        "body": "Google a lancé une nouvelle fonctionnalité d'IA pour Google Meet appelée « Take notes for me », qui crée automatiquement un résumé de la réunion dans un document Google. Cette fonctionnalité est similaire à l'outil de transcription de Meet, mais plutôt que de transcrire mot pour mot, il résume les sujets discutés. La fonctionnalité, annoncée à la conférence Cloud Next 2023, est actuellement disponible uniquement en anglais. Après la réunion, un résumé est automatiquement ajouté à l'événement calendrier, et un document Google avec les notes est partagé avec l'organisateur et les participants qui ont activé la fonctionnalité. Cela permet aux participants en retard de se mettre rapidement à jour. De plus, les liens vers les enregistrements et les transcriptions de la réunion sont inclus dans le document de notes. La fonctionnalité est également utile pour les personnes ayant des difficultés à traiter le langage parlé et à prendre des notes simultanément. Le déploiement complet de la fonctionnalité pour tous les clients de Google Workspace devrait être achevé d'ici le 10 septembre 2024. Cependant, comme toute technologie d'IA, la précision de la fonctionnalité reste à voir, car l'IA peut parfois faire des erreurs.",
-        "image": "",
-        "date": "Tue, 27 Aug 2024 20:35:29 GMT"
-    },
-    {
-        "title": "Réglementation de l'IA en Californie",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/08/27/the-prompt-north-korean-operatives-are-using-ai-to-get-remote-it-jobs/?ss=ai",
-        "body": "Cette semaine, les législateurs californiens voteront sur le projet de loi SB1047, qui vise à réglementer les modèles d'IA avancés et puissants. Le projet de loi exige des développeurs de mettre en œuvre des garde-fous et d'autoriser des audits tiers de leurs pratiques de sécurité. Il exige également des entreprises d'IA qu'elles définissent des méthodes pour arrêter les modèles d'IA et mettent en œuvre un « bouton d'arrêt » si nécessaire. La législation divise les leaders de la Silicon Valley, certains craignant qu'elle n'étouffe l'innovation. Le projet de loi est soutenu par Elon Musk et Dario Amodei, tandis que des dirigeants d'OpenAI, de Meta et de Google ont exprimé leurs préoccupations. Le texte aborde également l'utilisation d'outils d'IA par des Nord-Coréens pour postuler à des emplois informatiques à distance aux États-Unis, ainsi que le recours à l'IA par des « fermes à clics » étrangères pour générer du contenu attrayant et générer des revenus publicitaires. L'article mentionne également des startups d'IA, telles que Cursor AI, et des géants technologiques développant leurs propres outils de programmation d'IA. Enfin, il aborde le déploiement d'entraîneurs de carrière basés sur l'IA et les investissements du rappeur Will.i.am dans des entreprises d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ce2fe87fe872439f8be348/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 27 Aug 2024 20:00:00 GMT"
     }
 ]
