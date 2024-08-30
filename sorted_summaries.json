@@ -1,10 +1,38 @@
 [
     {
+        "title": "Révolution de la main-d'œuvre : l'avènement de l'employé IA universel",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/30/creating-the-universal-ai-employee-of-the-future/?ss=ai",
+        "body": "Résumé : \n\nL'article explore l'émergence de l'employé IA universel, une nouvelle frontière dans le domaine de l'IA qui promet de révolutionner le monde du travail. Il ne s'agit plus de science-fiction, mais d'une réalité naissante qui attire déjà l'attention des entreprises technologiques et des startups de la Silicon Valley et d'ailleurs. L'idée centrale est de créer une IA capable de s'adapter à différents rôles au sein d'une entreprise, libérant ainsi les employés humains des tâches répétitives et fastidieuses. \n\nAu cœur de cette technologie se trouve un réseau sophistiqué d'agents IA, chacun spécialisé dans des tâches différentes. Ce réseau, appelé « agentic mesh », combine les capacités de raisonnement des grands modèles linguistiques avec la compréhension du contexte, la prise de décision autonome et la collaboration transparente avec les collègues humains. \n\nLes applications de ces employés IA sont vastes et en constante évolution, avec un impact particulièrement fort dans les domaines impliquant de grandes quantités d'informations non structurées. Malgré leurs impressionnantes capacités, les experts soulignent que ces employés IA ne sont pas destinés à remplacer complètement les humains, mais plutôt à travailler en tandem avec eux, tirant parti de leurs forces uniques. \n\nLa clé est de créer une synergie entre la créativité humaine et l'efficacité de l'IA, ce qui pourrait entraîner un boom de la productivité similaire aux révolutions technologiques passées. Comme pour tout changement technologique, l'avènement des employés IA nécessitera une adaptation, notamment en développant les compétences nécessaires pour travailler efficacement avec eux. \n\nEnfin, l'article souligne que les progrès de l'IA physique, sous la forme de robots humanoïdes, pourraient également révolutionner la vie quotidienne en prenant en charge les tâches ménagères. L'avenir du travail est donc sur le point de changer de manière spectaculaire, et les entreprises qui embrasseront cette technologie dès maintenant bénéficieront d'un avantage concurrentiel significatif.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d1637056e56a749fc87118/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 Aug 2024 06:15:00 GMT"
+    },
+    {
         "title": "Gemini AI débarque sur mobile",
         "link": "https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android",
         "body": "Google étend l'accès à son outil d'IA Gemini, permettant aux utilisateurs de poser des questions sur leur boîte de réception Gmail et de trouver des informations spécifiques dans leurs e-mails. Cette fonctionnalité, appelée Gmail Q&A, est désormais disponible sur Android et le sera bientôt sur iOS. Gemini peut résumer des e-mails, trouver des messages non lus ou provenant d'un expéditeur spécifique, et extraire des détails particuliers. Cependant, la fonctionnalité est réservée aux abonnés de Google One AI Premium ou aux utilisateurs de Google Workspace avec les add-ons Gemini Business, Enterprise, Education ou Education Premium. Les utilisateurs doivent également rester vigilants quant à la précision des informations fournies par l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
         "date": "Thu, 29 Aug 2024 23:37:06 GMT"
+    },
+    {
+        "title": "Gmail Q&A : l'IA au service de votre boîte mail",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2319808_gmail-profite-dune-nouvelle-fonction-ia-tres-pratique-le-qa",
+        "body": "Google annonce le déploiement de Gmail Q&A, une nouvelle fonctionnalité basée sur l'IA Gemini, qui transforme la boîte de réception Gmail sur mobile en un assistant personnel. Gmail Q&A permet aux utilisateurs de poser des questions ou de demander à leur smartphone de retrouver des emails spécifiques, de résumer des échanges, ou encore d'afficher les messages non lus. Cette fonctionnalité sera disponible pour les utilisateurs de Google One AI Premium et Google Workspace avec les add-ons Gemini. Google recommande toutefois de toujours vérifier les informations fournies par l'IA, car la fiabilité des réponses générées peut varier.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/solen-feyissa-39za5nx3t7o-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=a2b0ca80",
+        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Les géants technologiques s'allient avec OpenAI",
+        "link": "https://www.frandroid.com/culture-tech/2319770_apple-et-nvidia-aussi-veulent-croquer-un-bout-dopenai-et-de-chatgpt",
+        "body": "Apple et Nvidia envisagent d'investir dans OpenAI, valorisant ainsi l'entreprise à 100 milliards de dollars. Cette levée de fonds massive renforcerait la position de leader d'OpenAI dans le domaine de l'IA, notamment grâce au soutien des trois plus grandes capitalisations boursières mondiales : Apple, Nvidia et Microsoft. Apple, qui intègre déjà ChatGPT dans ses outils d'IA, cherche à garder un œil sur le développement du chatbot. Nvidia, quant à lui, bénéficierait de la dépendance croissante d'OpenAI à ses cartes graphiques. La firme de Sam Altman pourrait également recevoir un investissement supplémentaire de Microsoft, consolidant ainsi leur partenariat. Cependant, ces investissements soulèvent des préoccupations réglementaires en matière de concurrence des deux côtés de l'Atlantique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
+        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini : l'IA personnalisable",
+        "link": "https://www.frandroid.com/produits-android/2319322_gemini-google-va-vous-permettre-de-creer-vos-assistants-ia-personnalises",
+        "body": "Google lance une nouvelle fonctionnalité pour son outil Gemini, permettant aux utilisateurs de créer leurs propres assistants IA personnalisés, appelés \"Gems\". Ces assistants peuvent être adaptés pour répondre à des besoins spécifiques, qu'il s'agisse de coaching, de brainstorming ou de codage. La fonctionnalité est basée sur des LLM, des bases de données d'apprentissage synthétisant des données dans divers domaines, offrant ainsi des réponses spécifiques et ciblées. Google propose également des Gems prédéfinis pour ceux qui souhaitent une solution prête à l'emploi. La fonctionnalité est disponible pour les abonnés à Gemini Advanced au prix de 21,99 euros par mois. Cette initiative de Google pourrait influencer le choix du grand public en matière de programmes d'IA, offrant une alternative aux produits d'OpenAI et Copilot.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/design-sans-titre-62-1200x675-1-768x432.jpg?resize=169,169&key=9bb7acd3",
+        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
     },
     {
         "title": "OpenAI's Soaring Userbase",
@@ -243,12 +271,5 @@
         "body": "L'IA générative devient un outil précieux pour traiter et surmonter les addictions. Bien qu'elle ne soit pas une solution miracle, elle peut être un outil efficace dans la lutte contre les addictions, en complément d'autres facteurs cruciaux. L'article explore les recherches soutenant cette idée, en soulignant que l'IA générative peut aider à surmonter les addictions, mais aussi à prévenir les addictions à l'IA elle-même. Il fournit également des exemples de dialogues avec ChatGPT, démontrant son utilité potentielle dans le traitement des addictions. Cependant, l'article met en garde contre les limites de l'IA générative, notamment sa capacité à fournir des conseils dangereux ou erronés, et souligne l'importance d'une supervision professionnelle. Enfin, il soulève des questions éthiques et juridiques concernant l'utilisation généralisée de l'IA générative dans le domaine de la santé mentale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cbbcc76125c4db2ab79933/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 Aug 2024 07:00:00 GMT"
-    },
-    {
-        "title": "La crise de la vérité à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/08/28/the-ai-driven-truth-crisis/?ss=ai",
-        "body": "Résumé : \n\nTitre : La crise de la vérité à l'ère de l'IA",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cec7bdbec7c8c70cc5f792/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 Aug 2024 06:00:00 GMT"
     }
 ]
