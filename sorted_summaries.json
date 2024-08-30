@@ -7,11 +7,25 @@
         "date": "Fri, 30 Aug 2024 06:15:00 GMT"
     },
     {
+        "title": "L'IA générative en tant que thérapeute en médecine énergétique",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/30/making-use-of-generative-ai-to-perform-energy-healing-mind-body-therapy/?ss=ai",
+        "body": "Résumé : \n\nL'article explore le rôle de l'IA générative dans la thérapie de médecine énergétique, une pratique controversée qui implique la manipulation de l'énergie du corps pour améliorer la santé mentale et physique. L'IA générative, grâce à son aptitude à générer des réponses fluides, peut guider les utilisateurs à travers des techniques de méditation, de relaxation et de visualisation, ainsi qu'à utiliser des cristaux et d'autres artefacts produisant de l'énergie. L'efficacité de cette approche doit encore être prouvée par des études empiriques rigoureuses, mais l'accessibilité et la disponibilité de l'IA générative pourraient élargir l'attrait de la médecine énergétique et créer une nouvelle demande pour les thérapeutes humains.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d163be5d0f41d9808adc72/0x0.jpg?format=jpg&crop=3868,2577,x0,y103,safe&width=440",
+        "date": "Fri, 30 Aug 2024 06:00:00 GMT"
+    },
+    {
         "title": "Gemini AI débarque sur mobile",
         "link": "https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android",
         "body": "Google étend l'accès à son outil d'IA Gemini, permettant aux utilisateurs de poser des questions sur leur boîte de réception Gmail et de trouver des informations spécifiques dans leurs e-mails. Cette fonctionnalité, appelée Gmail Q&A, est désormais disponible sur Android et le sera bientôt sur iOS. Gemini peut résumer des e-mails, trouver des messages non lus ou provenant d'un expéditeur spécifique, et extraire des détails particuliers. Cependant, la fonctionnalité est réservée aux abonnés de Google One AI Premium ou aux utilisateurs de Google Workspace avec les add-ons Gemini Business, Enterprise, Education ou Education Premium. Les utilisateurs doivent également rester vigilants quant à la précision des informations fournies par l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
         "date": "Thu, 29 Aug 2024 23:37:06 GMT"
+    },
+    {
+        "title": "Apple Intelligence : une révolution retardée",
+        "link": "https://www.frandroid.com/marques/2319832_le-lancement-dapple-intelligence-se-precise-aux-etats-unis",
+        "body": "La très attendue suite logicielle Apple Intelligence, annoncée en juin, tarde à arriver, même pour les développeurs. Les premières fonctionnalités d'IA incluses dans iOS 18.1 bêta donnent un indice sur la date de sortie officielle, qui devrait être fin octobre, comme pour les versions iOS 15.1, 16.1 et 17.1. Apple Intelligence ne sera disponible qu'aux États-Unis et uniquement sur les iPhone 15 Pro/Pro Max, iPad et Mac avec puce M1 ou supérieure. La guerre d'Apple avec Bruxelles retarde le lancement en Europe, et seules quelques bidouilles permettent d'accéder à l'IA sur les Mac européens. Les fonctionnalités seront déployées en plusieurs phases, avec des outils d'aide à l'écriture et un assistant de synthèse des mails en premier. ChatGPT et le vrai Siri 2.0 arriveront plus tard. Avec un lancement retardé et aucune information sur la sortie en Europe, Apple doit faire des efforts pour rendre les iPhone 16 attractifs pour la clientèle européenne.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/ihqkowgxze-1200x674-3-768x431.jpg?resize=169,169&key=097d956d",
+        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
     },
     {
         "title": "Gmail Q&A : l'IA au service de votre boîte mail",
@@ -257,19 +271,5 @@
         "body": "Le Sénat de Californie a approuvé un projet de loi protégeant les artistes contre l'utilisation de leur image par l'IA sans leur consentement explicite, répondant ainsi aux préoccupations du syndicat d'acteurs SAG-AFTRA. Le projet de loi, similaire au contrat du syndicat, étend ces protections à d'autres types de performances et aux travaux non syndiqués. Le MPA, qui s'opposait initialement au projet, est maintenant neutre après des modifications. Le projet de loi, approuvé par l'Assemblée et le Sénat, doit à présent être approuvé par l'Assemblée avant d'être transmis au gouverneur. SAG-AFTRA propose également une loi fédérale, le \"No Fakes Act\", pour protéger les individus contre l'utilisation non autorisée de leur image par l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Wed, 28 Aug 2024 09:25:45 GMT"
-    },
-    {
-        "title": "Grok AI Chatbot Misinformation",
-        "link": "https://www.theverge.com/2024/8/28/24230325/x-grok-chatbot-election-misinformation-warnings-vote",
-        "body": "X a mis à jour son chatbot Grok basé sur l'IA après que cinq secrétaires d'État aient signalé qu'il diffusait de la désinformation sur les élections. Grok, développé par xAI, une autre entreprise détenue par Elon Musk, conseillait aux utilisateurs de vérifier Vote.gov pour obtenir des informations précises et à jour sur les élections de 2024 aux États-Unis. Ce changement fait suite à une plainte selon laquelle le chatbot fournissait de fausses informations sur les délais d'inscription sur les listes électorales dans plusieurs États. Bien que Grok ne soit disponible que pour les abonnés payants de la plateforme sociale X, la désinformation a été partagée au-delà de la plateforme, touchant des millions de personnes. Les responsables électoraux ont salué la mise à jour, encourageant X à poursuivre les améliorations pour garantir que les utilisateurs accèdent à des informations précises provenant de sources fiables pendant cette année électorale critique. Cependant, la mise à jour n'affecte pas la capacité récente de Grok à générer des images liées aux élections, qui a déjà été utilisée pour diffuser des représentations trompeuses ou incendiaires de personnalités politiques.",
-        "image": "",
-        "date": "Wed, 28 Aug 2024 09:04:54 GMT"
-    },
-    {
-        "title": "L'IA Générative pour vaincre les addictions",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/28/overcoming-addictions-via-the-powers-of-generative-ai/?ss=ai",
-        "body": "L'IA générative devient un outil précieux pour traiter et surmonter les addictions. Bien qu'elle ne soit pas une solution miracle, elle peut être un outil efficace dans la lutte contre les addictions, en complément d'autres facteurs cruciaux. L'article explore les recherches soutenant cette idée, en soulignant que l'IA générative peut aider à surmonter les addictions, mais aussi à prévenir les addictions à l'IA elle-même. Il fournit également des exemples de dialogues avec ChatGPT, démontrant son utilité potentielle dans le traitement des addictions. Cependant, l'article met en garde contre les limites de l'IA générative, notamment sa capacité à fournir des conseils dangereux ou erronés, et souligne l'importance d'une supervision professionnelle. Enfin, il soulève des questions éthiques et juridiques concernant l'utilisation généralisée de l'IA générative dans le domaine de la santé mentale.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cbbcc76125c4db2ab79933/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 Aug 2024 07:00:00 GMT"
     }
 ]
