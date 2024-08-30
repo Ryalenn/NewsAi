@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gemini AI débarque sur mobile",
+        "link": "https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android",
+        "body": "Google étend l'accès à son outil d'IA Gemini, permettant aux utilisateurs de poser des questions sur leur boîte de réception Gmail et de trouver des informations spécifiques dans leurs e-mails. Cette fonctionnalité, appelée Gmail Q&A, est désormais disponible sur Android et le sera bientôt sur iOS. Gemini peut résumer des e-mails, trouver des messages non lus ou provenant d'un expéditeur spécifique, et extraire des détails particuliers. Cependant, la fonctionnalité est réservée aux abonnés de Google One AI Premium ou aux utilisateurs de Google Workspace avec les add-ons Gemini Business, Enterprise, Education ou Education Premium. Les utilisateurs doivent également rester vigilants quant à la précision des informations fournies par l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
+        "date": "Thu, 29 Aug 2024 23:37:06 GMT"
+    },
+    {
+        "title": "OpenAI's Soaring Userbase",
+        "link": "https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users",
+        "body": "L'article rapporte que plus de 200 millions de personnes utilisent désormais ChatGPT chaque semaine, ce qui représente une augmentation significative par rapport aux 100 millions d'utilisateurs rapportés en novembre dernier. De plus, 92 % des entreprises du Fortune 500 utilisent les produits d'OpenAI, et l'utilisation de l'API a doublé suite à la sortie du modèle GPT-4o Mini, plus abordable et plus intelligent. Malgré la concurrence de Google, Microsoft et Meta sur le marché des interfaces de discussion IA, la base d'utilisateurs d'OpenAI continue de croître. L'assistant IA de Meta compte au moins 400 millions d'utilisateurs mensuels et 40 millions d'utilisateurs quotidiens. De plus, OpenAI et Anthropic ont accepté de soumettre leurs modèles IA majeurs à une évaluation gouvernementale avant leur lancement public, et Apple et Nvidia pourraient figurer parmi les prochains investisseurs d'OpenAI.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
+        "date": "Thu, 29 Aug 2024 21:49:45 GMT"
+    },
+    {
         "title": "Granite TTM : une nouvelle boîte à outils pour l'IA basée sur les séries chronologiques",
         "link": "https://www.forbes.com/sites/tiriasresearch/2024/08/29/ibm-improves-generative-ai-forecasting-using-time-not-just-attention/?ss=ai",
         "body": "IBM a introduit un nouveau modèle d'IA basé sur les séries chronologiques, Granite TinyTimeMixer (TTM), qui offre une nouvelle approche pour la prévision de résultats dans ce domaine. TTM, basé sur l'architecture Patch-Mixer, apprend les contextes et les corrélations dans les données chronologiques et à variables multiples. Contrairement aux modèles d'IA basés sur le langage et la vision, les modèles de séries chronologiques (TSFM) utilisent des valeurs associées à des patches temporels locaux pour apprendre les modèles temporels. Les TSFM peuvent également tirer parti de grandes fenêtres temporelles historiques et de corrélations avec d'autres données de séries chronologiques à variables multiples, ce qui les rend efficaces pour diverses industries et caractéristiques de données. L'un des défis est l'accès à des données horodatées spécifiques, qui ne sont souvent pas disponibles publiquement. Cependant, la Monash Time Series Forecasting Repository fournit un ensemble de données suffisant pour entraîner les TSFM. IBM a créé une nouvelle architecture, Time Series Mixer (TS Mixer), qui réduit considérablement la taille du modèle tout en conservant une précision similaire aux modèles basés sur les transformateurs. TTM a déjà été téléchargé plus d'un million de fois sur Hugging Face, et est utilisé pour des cas d'utilisation à variables multiples, tels que la prévision des performances des dispositifs de stockage flash et des mouvements boursiers, ainsi que pour l'optimisation de la prévision basée sur la modélisation, comme le contrôle de la température des bâtiments.",
@@ -236,19 +250,5 @@
         "body": "Résumé : \n\nTitre : La crise de la vérité à l'ère de l'IA",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cec7bdbec7c8c70cc5f792/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 Aug 2024 06:00:00 GMT"
-    },
-    {
-        "title": "La prochaine itération de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2316588_le-patron-de-chatgpt-poste-des-tweets-de-fraise-et-ce-nest-pas-si-innocent-que-ca",
-        "body": "Le modèle de langage ultra-avancé \"Q*\", qui a failli coûter sa place au patron de ChatGPT, est sur le point d'être lancé sous le nom de code \"Strawberry\". Capable de résoudre des problèmes mathématiques complexes et de réduire les hallucinations, Strawberry pourrait être intégré à ChatGPT dès l'automne prochain. OpenAI espère ainsi garder une longueur d'avance dans le domaine des IA génératives. Strawberry se décline en deux versions : une complète et une réduite, cette dernière pouvant être intégrée à ChatGPT. La version de base de Strawberry peut générer des données synthétiques pour entraîner ChatGPT, mais une étude récente met en garde contre le risque d'effondrement de la qualité du contenu. Malgré cela, OpenAI prévoit d'utiliser Strawberry pour améliorer la prochaine version de ChatGPT, nommée \"Orion\", qui devrait sortir fin 2024, avec de meilleures capacités en mathématiques et en programmation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
-        "date": "Tue, 27 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Le mystère des fraises",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
-        "body": "Le PDG de ChatGPT, Sam Altman, a récemment publié une série de tweets énigmatiques contenant uniquement des images de fraises. Bien qu'étrange, cet acte n'est pas dénué de sens. Il s'agirait d'une réponse à la controverse entourant les générateurs d'images basées sur l'IA et d'une façon de souligner l'importance de la créativité humaine dans le processus de création. L'article explore également d'autres actualités liées à l'IA, notamment la victoire des artistes face aux générateurs d'images et l'avis d'un spécialiste sur le retard supposé d'Apple par rapport à Google dans ce domaine.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/altman-fraise-768x476.jpg?resize=186,186&key=35466f46",
-        "date": "Tue, 27 Aug 2024 23:00:00 GMT"
     }
 ]
