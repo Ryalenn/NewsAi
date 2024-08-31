@@ -98,6 +98,13 @@
         "date": "Thu, 29 Aug 2024 23:00:00 GMT"
     },
     {
+        "title": "La montée en puissance de l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "L'IA est de plus en plus présente dans le quotidien, avec des applications dans divers domaines tels que les véhicules électriques, l'informatique et les médias. Des entreprises comme Microsoft, Google et OpenAI rendent la technologie des chatbots basée sur des modèles linguistiques massifs plus accessible au grand public. Ces systèmes d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage, mais ils peuvent également présenter des informations fausses comme vraies. OpenAI, en particulier, a connu une croissance importante, avec 200 millions d'utilisateurs hebdomadaires de ChatGPT et une adoption significative parmi les entreprises Fortune 500. Parallèlement, des réglementations sur l'IA émergent, comme la loi californienne SB 1047, qui exige des précautions lors de l'entraînement de modèles sophistiqués. L'IA est également utilisée pour créer du contenu, comme des images de personnes, des résumés de nouvelles et même des fausses critiques de films. Les entreprises technologiques comme Google, Nvidia et Meta investissent massivement dans l'IA, ce qui soulève des questions sur l'éthique, la propriété intellectuelle et la désinformation.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Thu, 29 Aug 2024 21:49:45 GMT"
+    },
+    {
         "title": "OpenAI's Soaring Userbase",
         "link": "https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users",
         "body": "L'article rapporte que plus de 200 millions de personnes utilisent désormais ChatGPT chaque semaine, ce qui représente une augmentation significative par rapport aux 100 millions d'utilisateurs rapportés en novembre dernier. De plus, 92 % des entreprises du Fortune 500 utilisent les produits d'OpenAI, et l'utilisation de l'API a doublé suite à la sortie du modèle GPT-4o Mini, plus abordable et plus intelligent. Malgré la concurrence de Google, Microsoft et Meta sur le marché des interfaces de discussion IA, la base d'utilisateurs d'OpenAI continue de croître. L'assistant IA de Meta compte au moins 400 millions d'utilisateurs mensuels et 40 millions d'utilisateurs quotidiens. De plus, OpenAI et Anthropic ont accepté de soumettre leurs modèles IA majeurs à une évaluation gouvernementale avant leur lancement public, et Apple et Nvidia pourraient figurer parmi les prochains investisseurs d'OpenAI.",
@@ -180,68 +187,5 @@
         "body": "L'article présente 20 outils d'IA générative permettant de créer des données synthétiques, en soulignant leur utilité pour résoudre les défis liés à la collecte, au stockage et à la protection des données dans le monde réel. Il met en évidence l'importance de ces outils pour préserver la vie privée et la sécurité des données, tout en offrant des possibilités pour divers domaines tels que la finance, la santé et le développement logiciel. \n\n**Résumé des outils présentés** : \n\n- **Mostly** : Plateforme de données synthétiques bien établie, utilisée dans divers secteurs, garantissant la confidentialité et la conformité aux réglementations sur la protection des données. Interface basée sur le langage naturel. \n\n- **Gretel** : Outil simple permettant de créer des données tabulaires, non structurées et des séries chronologiques pour l'analytique et l'apprentissage automatique, avec de nombreuses intégrations et une communauté active. \n\n- **Synthea** : Outil open-source gratuit pour créer des patients synthétiques et leurs dossiers médicaux complets à des fins de recherche en santé, sans soucis de confidentialité. \n\n- **Tonic** : Plateforme complète pour des données synthétiques réalistes, sécurisées et conformes, avec des options de déploiement sur site ou dans le cloud, et une intégration avec des bases de données courantes. \n\n- **Faker** : Bibliothèque pour Python, JavaScript, etc., nécessitant des compétences en codage, permettant de créer des données fictives pour l'entraînement de moteurs de recommandation et la détection des fraudes. \n\nD'autres outils mentionnés incluent Broadcom CTA Test Manager, BizData X, Cvedia, Datomize, Edgecase, GenRocket, Hazy, K2View, KopiKat, MDClone, Simerse, Sogeti, Synthetic Data Vault, Syntho et YData, chacun offrant des fonctionnalités uniques pour la génération de données synthétiques et l'amélioration de la confidentialité et des performances de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66d01a47cc070ac24d9b4484/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 29 Aug 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Parents et IA : des alliés inattendus",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/08/28/surgeon-general-proclaims-todays-stressed-parents-need-mental-health-support-which-luckily-generative-ai-stands-ready-to-fulfill/?ss=ai",
-        "body": "Résumé : \n\nL'article met en lumière la pression et les répercussions sur la santé mentale auxquelles les parents sont confrontés à l'ère actuelle, soulignant le récent rapport du Surgeon General américain sur ce sujet. Il propose l'IA générative comme un outil potentiel pour aider les parents à gérer leur stress et à maintenir leur santé mentale. L'IA peut offrir un soutien émotionnel, des stratégies d'adaptation, des suggestions d'activités pour les enfants, et même guider les parents vers des ressources professionnelles si nécessaire. L'article présente également un dialogue avec ChatGPT, illustrant la fluidité et l'empathie de l'IA dans ce contexte. Enfin, il souligne l'importance de reconnaître le rôle crucial des parents et de leur apporter le soutien nécessaire, tout en mettant en garde contre les pièges potentiels de l'IA générative.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfcf3389027c7a10c32746/0x0.jpg?format=jpg&crop=2622,1964,x275,y0,safe&width=440",
-        "date": "Thu, 29 Aug 2024 01:00:00 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques comme Microsoft, Google et OpenAI rendent les technologies de chatbot basées sur des modèles linguistiques importants plus accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les mots tapés précédemment. Cependant, comme ils n'ont pas de base de données de faits codée en dur, ils peuvent présenter des informations fausses comme vraies. La Californie a récemment adopté une loi réglementant l'IA, exigeant des précautions telles que la possibilité de désactiver rapidement les modèles et la protection contre les modifications non sécurisées. Google, Reddit et Meta développent également de nouvelles fonctionnalités d'IA, mais font face à des critiques concernant la désinformation, la protection de la propriété intellectuelle et la gestion des lanceurs d'alertes.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Thu, 29 Aug 2024 00:09:31 GMT"
-    },
-    {
-        "title": "Réglementation de l'IA en Californie",
-        "link": "https://www.theverge.com/2024/8/28/24229068/california-sb-1047-ai-safety-bill-passed-state-assembly-governor-newsom-signature",
-        "body": "L'Assemblée de l'État de Californie a adopté le Safe and Secure Innovation for Frontier Artificial Intelligence Models Act (SB 1047), l'une des premières réglementations importantes de l'IA aux États-Unis. Le projet de loi impose aux entreprises d'IA opérant en Californie de prendre plusieurs précautions avant d'entraîner un modèle de foundation sophistiqué. Ces précautions incluent la possibilité d'arrêter rapidement et complètement le modèle, de le protéger contre les modifications post-entraînement dangereuses et de maintenir une procédure de test pour évaluer les risques de \"dommages critiques\". Le sénateur Scott Wiener, auteur principal du projet de loi, le considère comme raisonnable et aligné sur les engagements des grands laboratoires d'IA en matière de test de sécurité. Malgré les critiques de certaines entreprises et personnalités politiques, le projet de loi a été amendé pour atténuer les inquiétudes concernant l'impact sur les petites entreprises et les développeurs open-source. Les amendements incluent la modification des sanctions pénales en sanctions civiles et la limitation des pouvoirs d'application de la loi. Le projet de loi modifié devrait être voté par le Sénat de l'État et sera ensuite transmis au gouverneur Gavin Newsom pour décision finale.",
-        "image": "",
-        "date": "Thu, 29 Aug 2024 00:09:31 GMT"
-    },
-    {
-        "title": "Plaud NotePin : révolutionner la prise de notes avec ChatGPT",
-        "link": "https://www.frandroid.com/produits-android/accessoires/2318806_comment-plaud-notepin-veut-revolutionner-la-prise-de-note-grace-a-chatgpt",
-        "body": "Bien que les IA comme ChatGPT et Gemini soient prometteuses, elles ne révolutionnent pas encore le marché des gadgets. Plaud propose le NotePin, un appareil dédié à la traduction, à l'enregistrement et à la transcription de conversations. De la taille d'une pilule, il peut être porté au poignet, au cou ou sur un vêtement, offrant une autonomie de 20 heures d'enregistrement continu. Le NotePin vise les étudiants et les professionnels qui ont besoin de transcrire ou de résumer des cours, des réunions ou des entretiens. Les données audio ne sont pas envoyées à des serveurs distants, seules les retranscriptions sont transférées à OpenAI pour GPT-4. L'utilité de l'appareil est discutée, car il nécessite une application mobile et pourrait être remplacé par un smartphone avec une application dédiée. Le NotePin se spécialise dans la transcription et saura-t-il le faire correctement ? Réponse en septembre lors des premières livraisons aux États-Unis.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/plaud-note-1200x675-1-768x432.jpg?resize=169,169&key=27429817",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service de la liberté de la presse",
-        "link": "https://www.frandroid.com/culture-tech/2317558_comment-lia-permet-a-ces-journalistes-de-travailler-en-toute-securite",
-        "body": "Des journalistes utilisent des avatars créés par intelligence artificielle pour présenter un journal télévisé sur la plateforme Connectas, dénonçant ainsi la répression du gouvernement vénézuélien sans risquer la sécurité des reporters impliqués. Carlos Eduardo Huertas, directeur de Connectas, souligne l'importance de l'IA comme outil de réponse à la persécution croissante des journalistes. L'IA peut être un outil puissant, comme l'a démontré Elon Musk en diffusant une fausse vidéo d'une personnalité politique, mais elle doit être réglementée pour éviter la désinformation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/intelligence-artificielle-1200x904-1-768x579.jpg?resize=226,226&key=f8f154d3",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un facteur clé dans l'augmentation des prix des smartphones haut de gamme",
-        "link": "https://www.frandroid.com/produits-android/smartphone/2318160_pourquoi-lia-va-faire-exploser-le-prix-des-smartphones-en-2025",
-        "body": "L'article souligne l'impact de l'intelligence artificielle sur les coûts de production des smartphones haut de gamme. Thomas Wang, de Xiaomi, met en évidence un dilemme : des caractéristiques moins attrayantes au même prix ou un prix plus élevé pour des spécifications améliorées. L'IA exige beaucoup de mémoire vive, ce qui pousse les fabricants à intégrer plus de RAM dans leurs appareils, augmentant ainsi les prix. De plus, les processeurs mobiles, comme le Snapdragon 8 Gen 4, voient également leurs coûts augmenter en raison de l'accent mis sur les capacités d'IA. Les constructeurs pourraient rogner sur leurs marges, mais l'article suggère que les circonstances économiques et les attentes technologiques pourraient plutôt conduire à des téléphones encore plus chers à l'avenir.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/prix-stonks-1200x800-1-768x512.jpg?resize=200,200&key=bf993a5c",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Retour de Google sur la scène de la génération d'images par IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2318098_gemini-revu-et-corrige-google-reintroduit-la-generation-dimages-de-personnes-realistes",
-        "body": "Google fait son retour dans le domaine de la génération d'images par IA avec une mise à jour majeure de son outil Gemini, incluant le nouveau modèle Imagen 3. Ce dernier est capable de créer des images photoréalistes de personnes à partir de descriptions textuelles, tout en mettant l'accent sur la diversité et l'éthique. Google a renforcé les garde-fous pour éviter les controverses passées, en interdisant la création d'individus identifiables, de mineurs, ou de contenus violents et sexuels. L'entreprise a également amélioré ses outils de détection et de blocage des images problématiques. Le déploiement d'Imagen 3 se fera progressivement, d'abord pour les abonnés payants de Gemini Advanced, avec une stratégie prudente pour éviter tout bad buzz.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/imagen-founding-980x621-1-768x487.jpg?resize=190,190&key=bbbc8263",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/08/28/making-your-way-today-9-tips-for-ai-moonshots/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfb05345cd8199cf8d31ea/0x0.jpg?format=jpg&crop=1772,996,x109,y0,safe&width=440",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple's AI Assistant: A Guide or a Decision-Maker?",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/08/28/will-you-let-apple-ai-shape-your-choices/?ss=ai",
-        "body": "L'article explore l'influence d'Apple sur les choix des consommateurs, en particulier avec la sortie du nouvel iPhone et l'évolution de Siri, son assistant alimenté par l'IA. Il souligne comment la puissance de la marque Apple, associée à l'IA, peut influencer subtilement les préférences et les décisions des utilisateurs, érodant ainsi leur autonomie cognitive. L'auteur suggère que la capacité de Siri à prédire les désirs des utilisateurs et à offrir des suggestions personnalisées peut conduire à un abandon cognitif, où les utilisateurs acceptent les suggestions sans les remettre en question. L'article met en lumière les recherches en neurosciences qui montrent comment les connexions émotionnelles profondes créées par les marques fortes influencent les décisions au niveau subconscient. Il conclut en offrant un cadre pratique (CHOICE) pour aider les utilisateurs à préserver leur autonomie cognitive tout en profitant des avantages de la technologie.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66cfa7819c7dea885d533c04/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 Aug 2024 23:00:00 GMT"
     }
 ]
