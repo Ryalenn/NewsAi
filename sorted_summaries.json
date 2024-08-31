@@ -117,26 +117,5 @@
         "body": "L'article rapporte que plus de 200 millions de personnes utilisent désormais ChatGPT chaque semaine, ce qui représente une augmentation significative par rapport aux 100 millions d'utilisateurs rapportés en novembre dernier. De plus, 92 % des entreprises du Fortune 500 utilisent les produits d'OpenAI, et l'utilisation de l'API a doublé suite à la sortie du modèle GPT-4o Mini, plus abordable et plus intelligent. Malgré la concurrence de Google, Microsoft et Meta sur le marché des interfaces de discussion IA, la base d'utilisateurs d'OpenAI continue de croître. L'assistant IA de Meta compte au moins 400 millions d'utilisateurs mensuels et 40 millions d'utilisateurs quotidiens. De plus, OpenAI et Anthropic ont accepté de soumettre leurs modèles IA majeurs à une évaluation gouvernementale avant leur lancement public, et Apple et Nvidia pourraient figurer parmi les prochains investisseurs d'OpenAI.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
         "date": "Thu, 29 Aug 2024 21:49:45 GMT"
-    },
-    {
-        "title": "Granite TTM : une nouvelle boîte à outils pour l'IA basée sur les séries chronologiques",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2024/08/29/ibm-improves-generative-ai-forecasting-using-time-not-just-attention/?ss=ai",
-        "body": "IBM a introduit un nouveau modèle d'IA basé sur les séries chronologiques, Granite TinyTimeMixer (TTM), qui offre une nouvelle approche pour la prévision de résultats dans ce domaine. TTM, basé sur l'architecture Patch-Mixer, apprend les contextes et les corrélations dans les données chronologiques et à variables multiples. Contrairement aux modèles d'IA basés sur le langage et la vision, les modèles de séries chronologiques (TSFM) utilisent des valeurs associées à des patches temporels locaux pour apprendre les modèles temporels. Les TSFM peuvent également tirer parti de grandes fenêtres temporelles historiques et de corrélations avec d'autres données de séries chronologiques à variables multiples, ce qui les rend efficaces pour diverses industries et caractéristiques de données. L'un des défis est l'accès à des données horodatées spécifiques, qui ne sont souvent pas disponibles publiquement. Cependant, la Monash Time Series Forecasting Repository fournit un ensemble de données suffisant pour entraîner les TSFM. IBM a créé une nouvelle architecture, Time Series Mixer (TS Mixer), qui réduit considérablement la taille du modèle tout en conservant une précision similaire aux modèles basés sur les transformateurs. TTM a déjà été téléchargé plus d'un million de fois sur Hugging Face, et est utilisé pour des cas d'utilisation à variables multiples, tels que la prévision des performances des dispositifs de stockage flash et des mouvements boursiers, ainsi que pour l'optimisation de la prévision basée sur la modélisation, comme le contrôle de la température des bâtiments.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0c31bc10c6313053c1d6d/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 29 Aug 2024 20:56:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/2024/8/29/24231626/apple-nvidia-openai-invest-microsoft",
-        "body": "OpenAI, la société derrière ChatGPT, est sur le point de recevoir un important financement de la part de géants technologiques, notamment Apple et peut-être Nvidia. Apple prévoit d'intégrer ChatGPT à iOS et Siri, et Nvidia est un fournisseur clé de puces pour les services d'IA d'OpenAI. Microsoft, qui a déjà investi dans OpenAI par le passé, est également en pourparlers pour participer à ce tour de table, qui valoriserait OpenAI à plus de 100 milliards de dollars.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462007/STK155_OPEN_AI_CVirginia_C.jpg",
-        "date": "Thu, 29 Aug 2024 20:17:12 GMT"
-    },
-    {
-        "title": "Les défis de l'implémentation de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/08/29/bad-actors-bad-content-and-walled-gardens-looking-out-for-ai-risks/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66d0c9668951d95761afc417/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 29 Aug 2024 19:00:00 GMT"
     }
 ]
