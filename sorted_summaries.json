@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'essor de l'IA dans l'industrie technologique",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques volumineux (LLM) plus accessible au grand public. Bien que ces outils d'IA soient capables de générer des réponses plausibles, ils peuvent également présenter des informations fausses comme vraies. La réglementation de l'IA est en cours de discussion, en particulier en Californie, où un projet de loi vise à obliger les entreprises d'IA à prendre des précautions pour éviter les préjudices potentiels. OpenAI signale que ChatGPT compte désormais 200 millions d'utilisateurs hebdomadaires, et Google et Meta lancent de nouvelles fonctionnalités d'IA pour leurs produits. La course à l'IA s'intensifie, les entreprises cherchant à tirer parti de l'IA pour alimenter de nouveaux produits et fonctionnalités.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sat, 31 Aug 2024 17:20:23 GMT"
+    },
+    {
         "title": "L'avenir de l'emploi : l'IA, collègue ou patron ?",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2024/08/31/will-ai-be-your-childs-future-boss/?ss=ai",
         "body": "L'IA pourrait bien jouer un rôle crucial dans le parcours professionnel des enfants d'aujourd'hui. Deux startups, Skyfire et Payman, développent des solutions permettant à l'IA non seulement d'embaucher, mais aussi de gérer et de rémunérer des employés. Cette évolution soulève des questions importantes sur la relation future entre l'IA et les humains sur le lieu de travail. Au lieu de se concentrer sur la course aux compétences face à l'IA, l'auteur suggère de mettre l'accent sur le développement personnel et l'éducation des enfants, afin qu'ils deviennent des individus confiants et compétents, capables de travailler en collaboration avec l'IA plutôt que de simplement combler les lacunes laissées par celle-ci. L'avenir de l'emploi réside dans une relation symbiotique entre l'IA et les humains, où la valeur unique de chacun est reconnue et exploitée.",
@@ -54,68 +61,5 @@
         "body": "Résumé : \n\nL'article explore le rôle de l'IA générative dans la thérapie de médecine énergétique, une pratique controversée qui implique la manipulation de l'énergie du corps pour améliorer la santé mentale et physique. L'IA générative, grâce à son aptitude à générer des réponses fluides, peut guider les utilisateurs à travers des techniques de méditation, de relaxation et de visualisation, ainsi qu'à utiliser des cristaux et d'autres artefacts produisant de l'énergie. L'efficacité de cette approche doit encore être prouvée par des études empiriques rigoureuses, mais l'accessibilité et la disponibilité de l'IA générative pourraient élargir l'attrait de la médecine énergétique et créer une nouvelle demande pour les thérapeutes humains.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66d163be5d0f41d9808adc72/0x0.jpg?format=jpg&crop=3868,2577,x0,y103,safe&width=440",
         "date": "Fri, 30 Aug 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Gemini AI débarque sur mobile",
-        "link": "https://www.theverge.com/2024/8/29/24231824/google-gmail-q-a-gemini-ai-chatbot-android",
-        "body": "Google étend l'accès à son outil d'IA Gemini, permettant aux utilisateurs de poser des questions sur leur boîte de réception Gmail et de trouver des informations spécifiques dans leurs e-mails. Cette fonctionnalité, appelée Gmail Q&A, est désormais disponible sur Android et le sera bientôt sur iOS. Gemini peut résumer des e-mails, trouver des messages non lus ou provenant d'un expéditeur spécifique, et extraire des détails particuliers. Cependant, la fonctionnalité est réservée aux abonnés de Google One AI Premium ou aux utilisateurs de Google Workspace avec les add-ons Gemini Business, Enterprise, Education ou Education Premium. Les utilisateurs doivent également rester vigilants quant à la précision des informations fournies par l'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
-        "date": "Thu, 29 Aug 2024 23:37:06 GMT"
-    },
-    {
-        "title": "L'essor de l'IA avec ChatGPT",
-        "link": "https://www.frandroid.com/produits-android/2320714_lia-sinstalle-dans-nos-vies-openai-a-double-son-nombre-dutilisateurs-hebdomadaires",
-        "body": "L'intelligence artificielle (IA) a connu une adoption massive ces dernières années, avec des entreprises comme OpenAI à l'avant-garde. Leur chatbot, ChatGPT, a conquis 200 millions d'utilisateurs actifs hebdomadaires, doublant ainsi son audience par rapport à l'année dernière. La flexibilité de l'outil, avec un modèle plus léger, a séduit à la fois les particuliers et les entreprises. OpenAI affirme que 92 % des entreprises du Fortune 500 l'utilisent. Cet engouement a attiré l'attention d'investisseurs majeurs comme Apple et Nvidia, qui envisagent d'investir dans OpenAI, valorisant l'entreprise à plus de 100 milliards de dollars. Microsoft, bien qu'ayant développé son propre chatbot, Copilot, reste un investisseur majeur d'OpenAI. L'IA s'immisce dans nos vies quotidiennes, impactant des domaines tels que la santé et l'éducation, et suscitant un intérêt croissant de la part des entreprises.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=8fa7395e",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini de Google : une IA pour organiser et retrouver vos photos",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2319942_gemini-pourrait-bientot-se-montrer-plus-utile-sur-google-photos",
-        "body": "Google avait annoncé la fonctionnalité \"Ask Photos\" lors de sa conférence Google I/O en mai. Bien qu'elle ait pris du retard, elle n'a pas été abandonnée. La fonctionnalité, qui repose sur l'IA de Google, Gemini, permettra aux utilisateurs d'interagir avec leur photothèque Google Photos via des requêtes en langage naturel. Gemini sera capable de retrouver des photos spécifiques, de les organiser intelligemment et même de les partager. La fonctionnalité est encore en phase de développement précoce, mais elle suscite déjà beaucoup d'intérêt.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=a537e893",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : une révolution retardée",
-        "link": "https://www.frandroid.com/marques/2319832_le-lancement-dapple-intelligence-se-precise-aux-etats-unis",
-        "body": "La très attendue suite logicielle Apple Intelligence, annoncée en juin, tarde à arriver, même pour les développeurs. Les premières fonctionnalités d'IA incluses dans iOS 18.1 bêta donnent un indice sur la date de sortie officielle, qui devrait être fin octobre, comme pour les versions iOS 15.1, 16.1 et 17.1. Apple Intelligence ne sera disponible qu'aux États-Unis et uniquement sur les iPhone 15 Pro/Pro Max, iPad et Mac avec puce M1 ou supérieure. La guerre d'Apple avec Bruxelles retarde le lancement en Europe, et seules quelques bidouilles permettent d'accéder à l'IA sur les Mac européens. Les fonctionnalités seront déployées en plusieurs phases, avec des outils d'aide à l'écriture et un assistant de synthèse des mails en premier. ChatGPT et le vrai Siri 2.0 arriveront plus tard. Avec un lancement retardé et aucune information sur la sortie en Europe, Apple doit faire des efforts pour rendre les iPhone 16 attractifs pour la clientèle européenne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/ihqkowgxze-1200x674-3-768x431.jpg?resize=169,169&key=097d956d",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Gmail Q&A : l'IA au service de votre boîte mail",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2319808_gmail-profite-dune-nouvelle-fonction-ia-tres-pratique-le-qa",
-        "body": "Google annonce le déploiement de Gmail Q&A, une nouvelle fonctionnalité basée sur l'IA Gemini, qui transforme la boîte de réception Gmail sur mobile en un assistant personnel. Gmail Q&A permet aux utilisateurs de poser des questions ou de demander à leur smartphone de retrouver des emails spécifiques, de résumer des échanges, ou encore d'afficher les messages non lus. Cette fonctionnalité sera disponible pour les utilisateurs de Google One AI Premium et Google Workspace avec les add-ons Gemini. Google recommande toutefois de toujours vérifier les informations fournies par l'IA, car la fiabilité des réponses générées peut varier.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/solen-feyissa-39za5nx3t7o-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=a2b0ca80",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les géants technologiques s'allient avec OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/2319770_apple-et-nvidia-aussi-veulent-croquer-un-bout-dopenai-et-de-chatgpt",
-        "body": "Apple et Nvidia envisagent d'investir dans OpenAI, valorisant ainsi l'entreprise à 100 milliards de dollars. Cette levée de fonds massive renforcerait la position de leader d'OpenAI dans le domaine de l'IA, notamment grâce au soutien des trois plus grandes capitalisations boursières mondiales : Apple, Nvidia et Microsoft. Apple, qui intègre déjà ChatGPT dans ses outils d'IA, cherche à garder un œil sur le développement du chatbot. Nvidia, quant à lui, bénéficierait de la dépendance croissante d'OpenAI à ses cartes graphiques. La firme de Sam Altman pourrait également recevoir un investissement supplémentaire de Microsoft, consolidant ainsi leur partenariat. Cependant, ces investissements soulèvent des préoccupations réglementaires en matière de concurrence des deux côtés de l'Atlantique.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : l'IA personnalisable",
-        "link": "https://www.frandroid.com/produits-android/2319322_gemini-google-va-vous-permettre-de-creer-vos-assistants-ia-personnalises",
-        "body": "Google lance une nouvelle fonctionnalité pour son outil Gemini, permettant aux utilisateurs de créer leurs propres assistants IA personnalisés, appelés \"Gems\". Ces assistants peuvent être adaptés pour répondre à des besoins spécifiques, qu'il s'agisse de coaching, de brainstorming ou de codage. La fonctionnalité est basée sur des LLM, des bases de données d'apprentissage synthétisant des données dans divers domaines, offrant ainsi des réponses spécifiques et ciblées. Google propose également des Gems prédéfinis pour ceux qui souhaitent une solution prête à l'emploi. La fonctionnalité est disponible pour les abonnés à Gemini Advanced au prix de 21,99 euros par mois. Cette initiative de Google pourrait influencer le choix du grand public en matière de programmes d'IA, offrant une alternative aux produits d'OpenAI et Copilot.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/design-sans-titre-62-1200x675-1-768x432.jpg?resize=169,169&key=9bb7acd3",
-        "date": "Thu, 29 Aug 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "L'IA est de plus en plus présente dans le quotidien, avec des applications dans divers domaines tels que les véhicules électriques, l'informatique et les médias. Des entreprises comme Microsoft, Google et OpenAI rendent la technologie des chatbots basée sur des modèles linguistiques massifs plus accessible au grand public. Ces systèmes d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage, mais ils peuvent également présenter des informations fausses comme vraies. OpenAI, en particulier, a connu une croissance importante, avec 200 millions d'utilisateurs hebdomadaires de ChatGPT et une adoption significative parmi les entreprises Fortune 500. Parallèlement, des réglementations sur l'IA émergent, comme la loi californienne SB 1047, qui exige des précautions lors de l'entraînement de modèles sophistiqués. L'IA est également utilisée pour créer du contenu, comme des images de personnes, des résumés de nouvelles et même des fausses critiques de films. Les entreprises technologiques comme Google, Nvidia et Meta investissent massivement dans l'IA, ce qui soulève des questions sur l'éthique, la propriété intellectuelle et la désinformation.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Thu, 29 Aug 2024 21:49:45 GMT"
-    },
-    {
-        "title": "OpenAI's Soaring Userbase",
-        "link": "https://www.theverge.com/2024/8/29/24231685/openai-chatgpt-200-million-weekly-users",
-        "body": "L'article rapporte que plus de 200 millions de personnes utilisent désormais ChatGPT chaque semaine, ce qui représente une augmentation significative par rapport aux 100 millions d'utilisateurs rapportés en novembre dernier. De plus, 92 % des entreprises du Fortune 500 utilisent les produits d'OpenAI, et l'utilisation de l'API a doublé suite à la sortie du modèle GPT-4o Mini, plus abordable et plus intelligent. Malgré la concurrence de Google, Microsoft et Meta sur le marché des interfaces de discussion IA, la base d'utilisateurs d'OpenAI continue de croître. L'assistant IA de Meta compte au moins 400 millions d'utilisateurs mensuels et 40 millions d'utilisateurs quotidiens. De plus, OpenAI et Anthropic ont accepté de soumettre leurs modèles IA majeurs à une évaluation gouvernementale avant leur lancement public, et Apple et Nvidia pourraient figurer parmi les prochains investisseurs d'OpenAI.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390406/STK149_AI_03.jpg",
-        "date": "Thu, 29 Aug 2024 21:49:45 GMT"
     }
 ]
