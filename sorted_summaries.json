@@ -42,6 +42,13 @@
         "date": "Mon, 02 Sep 2024 03:19:00 GMT"
     },
     {
+        "title": "TSMC et la course à la nanogravure",
+        "link": "https://www.frandroid.com/produits-android/2323088_comment-apple-pourrait-encore-plus-senrichir-grace-a-openai",
+        "body": "TSMC, le principal fabricant de puces électroniques, travaille sur un nouveau processus de nanogravure, le A16 Angström, qui pourrait révolutionner l'industrie de l'IA. OpenAI, en partenariat avec Apple, s'intéresse de près à cette technologie pour booster les performances de son application de création vidéo, Sora. La finesse de la gravure permettrait d'améliorer l'efficacité énergétique et d'augmenter les performances, une avancée significative pour le traitement de l'intelligence artificielle. Bien que la production de masse ne soit pas prévue avant 2026, les bénéfices attendus, avec une augmentation de la vitesse d'action et une réduction de la consommation d'énergie, en font une technologie très prometteuse.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=9d4b169d",
+        "date": "Sun, 01 Sep 2024 23:00:00 GMT"
+    },
+    {
         "title": "Samsung investit dans l'IA médicale française",
         "link": "https://www.frandroid.com/marques/samsung/2323006_samsung-soffre-une-startup-francaise-pour-86-millions-deuros",
         "body": "Samsung a récemment acquis Sonio, une start-up française spécialisée dans l'échographie assistée par IA, pour 86 millions d'euros. Sonio s'est distinguée par son assistant intelligent qui améliore la précision et la rapidité des échographies, grâce à un entraînement sur plus d'un million d'images. Cette acquisition reflète l'intérêt de Samsung pour l'innovation dans le domaine de l'IA médicale, tout en permettant à Sonio de conserver son indépendance et la compatibilité de ses produits avec les appareils concurrents. Ce rachat s'inscrit dans un contexte d'essor de l'IA en France, avec des entreprises comme Mistral AI et H attirant l'attention internationale et soulignant le potentiel de l'écosystème tech français.",
@@ -68,12 +75,5 @@
         "body": "Un projet de loi sur la réglementation de l'IA est actuellement sur le bureau du gouverneur de Californie, Gavin Newsom, mais il est critiqué pour sa définition vague de l'IA. Le projet de loi définit l'IA comme \"un système conçu ou basé sur une machine qui varie dans son niveau d'autonomie et qui peut, pour des objectifs explicites ou implicites, déduire des entrées reçues comment générer des sorties qui peuvent influencer les environnements physiques ou virtuels\". Cette définition est considérée comme trop vague et pouvant s'appliquer à presque n'importe quel programme informatique. Le projet de loi ne précise pas clairement ce qu'est un \"modèle IA\", ce qui signifie qu'il pourrait s'appliquer à de nombreux programmes non liés à l'IA. Cette vague définition pourrait rendre la loi inefficace et sujette à des abus. Bien que la réglementation de l'IA soit nécessaire dans certains domaines, comme la lutte contre les préjugés dans la prise de décision algorithmique et le développement d'armes autonomes, il est essentiel de définir clairement ces technologies pour que la réglementation soit efficace et crédible.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66d304e1b85c1884321b9ff6/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 01 Sep 2024 15:00:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans l'industrie technologique",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques volumineux (LLM) plus accessible au grand public. Bien que ces outils d'IA soient capables de générer des réponses plausibles, ils peuvent également présenter des informations fausses comme vraies. La réglementation de l'IA est en cours de discussion, en particulier en Californie, où un projet de loi vise à obliger les entreprises d'IA à prendre des précautions pour éviter les préjudices potentiels. OpenAI signale que ChatGPT compte désormais 200 millions d'utilisateurs hebdomadaires, et Google et Meta lancent de nouvelles fonctionnalités d'IA pour leurs produits. La course à l'IA s'intensifie, les entreprises cherchant à tirer parti de l'IA pour alimenter de nouveaux produits et fonctionnalités.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Sat, 31 Aug 2024 17:20:23 GMT"
     }
 ]
