@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution de l'IA a un coût caché",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/09/02/tech-firms-keep-users-in-the-dark-on-ais-climate-costs-tesla-manifesto-hybrid-trucks/?ss=ai",
+        "body": "Les géants technologiques et les startups investissent massivement dans le développement de plateformes d'IA capables de générer divers contenus en quelques secondes. Si ces technologies peuvent être amusantes et améliorer l'efficacité, les processeurs spécialisés qui les alimentent nécessitent d'importantes quantités d'électricité et d'eau. Par exemple, les requêtes ChatGPT peuvent consommer jusqu'à 10 fois plus d'électricité qu'une recherche Google standard. De plus, l'IA généreuse utilise une quantité significative d'eau, l'équivalent d'une bouteille de 16 onces en seulement 10 requêtes. Ces coûts énergétiques et environnementaux sont souvent occultés par les développeurs d'IA, mais ils pourraient conduire à une augmentation des émissions de carbone et à une plus grande dépendance aux combustibles fossiles. L'article souligne également l'évolution de la vision d'Elon Musk concernant le rôle de Tesla dans la lutte contre le changement climatique, ainsi que les discussions sur l'utilisation de camions hybrides pour réduire les émissions de gaz à effet de serre.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d223807cb4382b2bd857e6/0x0.jpg?format=jpg&crop=3000,1688,x0,y110,safe&width=440",
+        "date": "Mon, 02 Sep 2024 10:00:00 GMT"
+    },
+    {
         "title": "La vérité à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/09/02/battling-ai-fakes-are-social-platforms-doing-enough/?ss=ai",
         "body": "Les réseaux sociaux luttent contre la désinformation et les fausses informations générées par l'IA. Les stratégies varient, mais incluent l'utilisation d'algorithmes, de vérificateurs de faits humains et de politiques pour signaler ou restreindre le contenu trompeur. Meta utilise des balises d'avertissement, X compte sur les notes de la communauté, YouTube supprime activement le contenu et TikTok utilise Content Credentials. Malgré ces efforts, la désinformation générée par l'IA reste répandue. Les solutions technologiques et réglementaires sont essentielles, mais l'éducation est cruciale pour développer l'esprit critique nécessaire pour naviguer dans un monde « post-vérité ». La collaboration entre les parties prenantes est essentielle pour relever les défis futurs, car des outils IA plus sophistiqués pourraient exacerber la désinformation et la tromperie.",
@@ -12,6 +19,13 @@
         "body": "L'IA générative peut aider à surmonter la procrastination en fournissant des suggestions et des conseils d'utilisation. La procrastination peut avoir un impact négatif sur la vie et les moyens de subsistance des gens, et même avoir des conséquences sur la santé mentale. L'IA générative peut aider à faire face à la procrastination en proposant des actions concrètes et en offrant un soutien continu. Cependant, l'IA générative peut également exacerber la procrastination si elle est utilisée pour effectuer le travail à la place de l'utilisateur. L'article présente une étude de cas utilisant ChatGPT pour surmonter la procrastination, mettant en évidence les avantages et les pièges potentiels. L'IA générative peut être un outil puissant pour gérer la procrastination, mais une utilisation réfléchie est essentielle pour éviter les conséquences indésirables.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/667c77617a4ac0d177f81aac/0x0.jpg?format=jpg&crop=1982,1485,x247,y0,safe&width=440",
         "date": "Mon, 02 Sep 2024 03:19:00 GMT"
+    },
+    {
+        "title": "Amazon s'associe à Anthropic pour améliorer Alexa",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2322338_pour-son-assistant-vocal-alexa-amazon-mise-gros-sur-cette-ia-exterieure",
+        "body": "Amazon prévoit de mettre à niveau son assistant vocal Alexa en utilisant la technologie de l'IA Claude AI, développée par Anthropic. Cette décision fait suite à des problèmes techniques avec l'IA d'Amazon, notamment des temps de latence élevés. La nouvelle version d'Alexa, qui devrait être lancée en octobre, sera proposée à un prix mensuel de 5 à 10 dollars. Amazon investit ainsi dans une technologie externe pour améliorer l'expérience utilisateur et relancer sa division d'assistants vocaux, qui a connu des difficultés récentes.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/alexa-amazon-1200x900-1-768x576.jpg?resize=225,225&key=330dddc3",
+        "date": "Sun, 01 Sep 2024 23:00:00 GMT"
     },
     {
         "title": "La révolution de la blockchain et de la décentralisation",
