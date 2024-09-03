@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Pour son assistant vocal Alexa, Amazon mise gros sur cette IA extérieure",
+        "title": "Pour son assistant vocal Alexa, Amazon mise gros sur cette IA ext\u00e9rieure",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2322338_pour-son-assistant-vocal-alexa-amazon-mise-gros-sur-cette-ia-exterieure",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/alexa-amazon-1200x900-1-768x576.jpg?resize=225,225&key=330dddc3",
         "date": "Sun, 01 Sep 2024 23:00:00 GMT",
@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment Apple pourrait encore plus s’enrichir grâce à OpenAI",
+        "title": "Comment Apple pourrait encore plus s\u2019enrichir gr\u00e2ce \u00e0 OpenAI",
         "link": "https://www.frandroid.com/produits-android/2323088_comment-apple-pourrait-encore-plus-senrichir-grace-a-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=9d4b169d",
         "date": "Sun, 01 Sep 2024 23:00:00 GMT",
@@ -103,5 +103,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/669679ca440c62b51965b350/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Sep 2024 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/03/using-generative-ai-to-perform-life-reviews-at-any-stage-of-life/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d6a3c790df925be9ed8562/0x0.jpg?format=jpg&crop=910,682,x67,y0,safe&width=440",
+        "date": "Tue, 03 Sep 2024 06:07:00 GMT",
+        "check": "no"
     }
 ]
