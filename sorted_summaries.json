@@ -1,5 +1,12 @@
 [
     {
+        "title": "Les géants de la tech démocratisent les chatbots basés sur des LLM",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "De plus en plus de grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur des modèles linguistiques de grande taille (LLM) accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à une série de programmes d'autocompletion qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les mots tapés par l'utilisateur. Cependant, comme ils ne disposent pas de base de données de faits codés en dur, ils peuvent parfois présenter des informations fausses comme vraies. OpenAI a annoncé la sortie d'un nouveau modèle appelé o1, conçu pour répondre à des questions complexes plus rapidement qu'un être humain. Dans le même temps, Google a lancé Gemini Live, un chatbot conversationnel basé sur l'IA, pour tous les utilisateurs Android, et améliore ses outils d'écriture Gemini dans Gmail. De plus, Volkswagen a commencé à déployer son assistant vocal en voiture amélioré, IDA, qui utilise des réponses traitées localement et basées sur le cloud à partir de ChatGPT et d'autres modèles. Enfin, des réglementations sur l'IA sont en cours de discussion, notamment en Californie, où un projet de loi sur la sécurité de l'IA pourrait avoir un impact sur les entreprises du secteur.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sat, 14 Sep 2024 16:43:06 GMT"
+    },
+    {
         "title": "L'intelligence artificielle transforme l'industrie financière",
         "link": "https://www.forbes.com/sites/kathleenwalch/2024/09/14/how-ai-is-transforming-the-finance-industry/?ss=ai",
         "body": "L'IA a un impact significatif sur l'industrie financière, en améliorant l'efficacité opérationnelle, l'expérience client, la gestion des risques et la détection des fraudes. En automatisant les tâches répétitives et en améliorant les processus, l'IA permet aux entreprises financières de gagner en efficacité et de réduire les erreurs humaines. De plus, l'IA améliore la prise de décision en fournissant des informations et des analyses en temps réel. Les institutions financières utilisent l'IA pour offrir des services personnalisés et adaptés aux besoins individuels des clients. Les chatbots et les assistants activés par l'IA fournissent une assistance 24 heures sur 24, effectuent des tâches simples à complexes et offrent une expérience client personnalisée et agréable. L'IA joue également un rôle crucial dans la gestion des risques et la détection des fraudes, en analysant de grands ensembles de données en temps réel pour identifier les modèles et les anomalies indiquant des activités potentielles. En résumé, l'IA transforme l'industrie financière en améliorant l'efficacité, la personnalisation et la surveillance, aidant ainsi les entreprises à naviguer dans un paysage complexe et dynamique.",
@@ -68,19 +75,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66e462b2d3504e89a2c9e296/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Sep 2024 19:00:00 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent les chatbots basés sur des modèles linguistiques",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques, telles que Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4o), rendent les technologies de chatbots basées sur des modèles linguistiques plus accessibles au grand public. Gemini de Google est désormais disponible gratuitement pour tous les utilisateurs Android, tandis qu'OpenAI annonce la sortie d'un nouveau modèle appelé o1, capable de résoudre des problèmes complexes plus rapidement qu'un humain. Volkswagen lance également son assistant vocal IDA, intégrant des réponses basées sur ChatGPT. Dans le même temps, des préoccupations surgissent concernant l'utilisation de l'IA dans la création de fausses critiques, comme cela a été le cas pour le film \"Megalopolis\". De plus, des réglementations sur l'IA sont en cours de discussion en Californie, ce qui suscite des inquiétudes chez certaines entreprises du secteur.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Fri, 13 Sep 2024 14:19:13 GMT"
-    },
-    {
-        "title": "L'art généré par l'IA : une collaboration entre l'homme et la machine",
-        "link": "https://www.theverge.com/2024/9/13/24241189/generative-ai-interactivity-art",
-        "body": "Bien que les outils d'IA comme ChatGPT et DALL-E soient impressionnants d'un point de vue technique, leur production est souvent considérée comme fade et sans âme. Les artistes craignent que l'IA ne dévalue leur travail et ne leur fasse perdre de l'argent. Cependant, ces outils sont devenus très populaires sur Internet, car les gens aiment le processus de création et de partage de contenu. L'article explore l'idée que l'art généré par l'IA est plus intéressant lorsqu'il s'agit d'une collaboration entre l'homme et la machine, avec un va-et-vient créatif. L'IA peut automatiser certaines parties du processus artistique traditionnel, mais le véritable intérêt réside dans l'interaction humaine avec ces systèmes. L'article mentionne également des projets d'art interactif basés sur l'IA, comme \"Hey Robot\" et \"AI Dungeon 2\", qui impliquent le public dans le processus de prise de décision et de création. Bien que les entreprises d'IA se concentrent sur les outils d'productivité et de recherche, l'article soutient que l'art interactif basé sur l'IA pourrait être un genre médiatique unique et fascinant, à condition que les créateurs y accordent les efforts nécessaires.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25617503/247249_Interactive_AI_CVirginia_2CA.jpg",
-        "date": "Fri, 13 Sep 2024 13:00:00 GMT"
     }
 ]
