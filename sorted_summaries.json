@@ -1,5 +1,12 @@
 [
     {
+        "title": "Le renforcement de l'apprentissage pour l'IA generative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/17/the-new-openai-o1-generative-ai-model-makes-an-important-right-turn-when-it-comes-to-reinforcement-learning/?ss=ai",
+        "body": "Résumé : \n\nL'auteur suggère que l'apprentissage par renforcement (RL) est l'ingrédient secret derrière les performances impressionnantes du modèle d'IA generative OpenAI o1. Bien qu'OpenAI ne révèle pas tous les détails de son approche, l'auteur déduit que leur utilisation de l'apprentissage par renforcement basé sur le processus, combiné à la fonction de chaîne de pensée (CoT) automatique d'o1, est probablement un facteur clé. L'apprentissage par renforcement, en particulier lorsqu'il est appliqué à chaque étape du processus de pensée de l'IA, peut améliorer considérablement les performances de l'IA generative, en particulier dans des domaines tels que les sciences, les mathématiques et la programmation, qui nécessitent une réflexion en plusieurs étapes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/64bc98b80ad55c9a28d3e1a6/0x0.jpg?format=jpg&crop=1849,1385,x110,y0,safe&width=440",
+        "date": "Tue, 17 Sep 2024 07:00:00 GMT"
+    },
+    {
         "title": "La transformation de la guerre par l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/?ss=ai",
         "body": "L'IA transforme la guerre, comme le montre son utilisation dans le conflit en Ukraine. Des drones autonomes aux algorithmes de reconnaissance faciale, l'IA joue un rôle crucial dans les opérations militaires et humanitaires. L'article explore l'impact de l'IA sur l'issue des conflits, la façon dont elle est utilisée sur le terrain, et soulève des questions éthiques importantes sur le rôle des entreprises technologiques et le pouvoir décisionnel des machines. \n\nTitre : L'IA sur le champ de bataille",
@@ -12,6 +19,13 @@
         "body": "L'IA peut-elle contribuer à améliorer le discours public et politique, ou présente-t-elle un risque de manipulation et de déstabilisation de nos institutions démocratiques ? C'est la question centrale abordée lors d'un panel à Davos, impliquant des experts de l'IA et des sciences politiques. L'Acte sur l'IA de l'UE, bien qu'il ne traite pas directement de la modération des débats, établit des directives de transparence pour les interactions numériques et les données. Les intervenants, dont Gabriele Mazzini de la Commission européenne et Lily Tsai, directrice du programme GOV/LAB du MIT, soulignent l'importance de créer des espaces en ligne qui favorisent la délibération et la démocratie, tout en gérant les risques associés à l'IA, tels que les deepfakes. Les participants discutent également de la nécessité de réglementer les objectifs de l'IA et de dialoguer entre régulateurs et innovateurs. L'article conclut sur la réflexion que l'IA est une arme à double tranchant, pouvant améliorer le discours public mais nécessitant une gestion rigoureuse pour éviter des influences inappropriées.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66e8cc283ad71e2fe9c4d696/0x0.jpg?format=jpg&crop=2999,1687,x0,y120,safe&width=440",
         "date": "Tue, 17 Sep 2024 00:24:00 GMT"
+    },
+    {
+        "title": "Microsoft Copilot s'améliore en collaboration",
+        "link": "https://www.frandroid.com/marques/microsoft/2340042_microsoft-veut-que-vous-utilisiez-copilot-a-plusieurs-voici-comment",
+        "body": "Microsoft améliore son chatbot Copilot avec un nouvel outil appelé Copilot Pages. Il s'intègre à l'espace de travail Business Chat, qui centralise l'interaction avec Copilot et l'accès aux données. Copilot Pages, basé sur Loop, une application de collaboration concurrente de Notion, permet aux utilisateurs de créer, de modifier et de partager du contenu généré par Copilot. Les utilisateurs peuvent également ajouter du contenu à partir de leurs fichiers et du web, et créer des pages imbriquées. Copilot Pages est conçu pour améliorer le travail d'équipe, en permettant à plusieurs personnes de modifier et de collaborer sur une même page. La mise à jour vise à rationaliser les outils de Microsoft et à améliorer l'expérience des utilisateurs de Copilot. Le déploiement est en cours pour les abonnés à Microsoft 365 Copilot, qui devraient tous y avoir accès d'ici fin septembre 2024.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/microsoft-365-copilot-copilot-pages-0-3-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=e69602d9",
+        "date": "Mon, 16 Sep 2024 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'ingénierie des prompts avec OpenAI o1",
