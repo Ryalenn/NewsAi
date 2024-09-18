@@ -14,6 +14,13 @@
         "date": "Wed, 18 Sep 2024 18:10:00 GMT"
     },
     {
+        "title": "iPhone 16 et l'IA",
+        "link": "https://www.forbes.com/sites/davidphelan/2024/09/18/apple-iphone-16-and-iphone-16-plus-review-who-needs-pro/?ss=ai",
+        "body": "Bien que l'article se concentre principalement sur les caractéristiques matérielles et esthétiques de l'iPhone 16 et 16 Plus, il y a quelques points clés relatifs à l'IA :\n\nRésumé :\n- L'iPhone 16 et l'iPhone 16 Plus sont équipés du nouveau processeur A18 d'Apple, conçu pour prendre en charge Apple Intelligence, la technologie d'IA de la société.\n- Apple Intelligence peut assister l'utilisateur dans l'écriture, résumer des e-mails et des sites web, créer des emojis et des images uniques, et propose une version plus intelligente de l'assistant virtuel Siri.\n- Les fonctionnalités Apple Intelligence seront disponibles à partir d'octobre.\n- L'application Passwords, une nouvelle application utile, utilise les données précédemment enfouies dans les paramètres et les met en avant dans sa propre application.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66eafbabc2cd59c0ebc17816/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 18 Sep 2024 16:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'éducation avec l'IA",
         "link": "https://www.forbes.com/sites/torconstantino/2024/09/18/students-learned-twice-as-much-with-ai-tutor-than-typical-lectures/?ss=ai",
         "body": "Des chercheurs de l'Université Harvard ont découvert que des tuteurs IA conçus selon les meilleures pratiques pédagogiques peuvent améliorer de manière significative les résultats d'apprentissage des étudiants, suggérant ainsi une percée révolutionnaire dans le domaine de l'éducation. L'étude, menée par Gregory Kestin et Kelly Miller, a comparé l'efficacité d'un tuteur IA à celle d'un cours magistral traditionnel pour 194 étudiants en physique. Les résultats ont montré que les étudiants qui ont suivi le cours du tuteur IA ont appris plus de deux fois plus de contenu que ceux qui ont suivi le cours magistral, mettant en évidence les avantages d'un apprentissage personnalisé et adapté au rythme de chaque étudiant. Les chercheurs attribuent ces résultats à la capacité de l'IA à offrir un apprentissage actif et personnalisé, permettant aux étudiants de poser des questions, de travailler à leur rythme et de se concentrer sur les concepts qu'ils trouvent difficiles. Bien que la recherche supplémentaire soit nécessaire, Kestin souligne que les tuteurs IA pourraient alléger la charge des éducateurs et améliorer les résultats d'apprentissage, tout en insistant sur le fait qu'ils ne sont pas destinés à remplacer les enseignants en classe, mais plutôt à les assister.",
@@ -215,12 +222,5 @@
         "body": "OpenAI renforce son engagement en matière de sécurité et d'éthique en créant un comité de surveillance indépendant, calqué sur le modèle du comité de surveillance de Meta. Ce comité, composé de membres de la direction d'OpenAI, aura le pouvoir de retarder le lancement de nouveaux modèles d'IA s'il existe des préoccupations en matière de sécurité. Cette décision fait suite à une évaluation de 90 jours des processus et garanties de sécurité de l'entreprise. OpenAI cherche également à améliorer la collaboration et la transparence au sein de l'industrie, en partageant ses travaux en matière de sécurité et en encourageant les tests indépendants de ses systèmes.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
         "date": "Mon, 16 Sep 2024 22:08:31 GMT"
-    },
-    {
-        "title": "L'avenir de l'ingénierie des prompts avec OpenAI o1",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/16/prompting-and-prompt-engineering-facing-notable-changes-due-to-openai-latest-o1-generative-ai-model/?ss=ai",
-        "body": "L'article fournit des conseils et des techniques pour améliorer les compétences en ingénierie des prompts, en se concentrant sur le nouveau modèle d'IA générative OpenAI o1. Il souligne que, contrairement aux modèles précédents, o1 intègre désormais automatiquement la chaîne de pensée (CoT), ce qui peut améliorer la précision mais augmenter les coûts et les temps de réponse. Les utilisateurs ne peuvent pas choisir de désactiver CoT, ce qui ajoute une complexité aux prompts. L'auteur fournit six conseils pour utiliser o1 efficacement, notamment de garder les prompts simples, d'utiliser des délimiteurs et d'être conscient des coûts supplémentaires liés à CoT. o1 excelle dans des domaines spécifiques comme les sciences, les mathématiques et la programmation, mais peut ne pas être aussi performant que d'autres modèles d'IA générative dans d'autres domaines.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/65ff9aac8a137e38a0d5d4e0/0x0.jpg?format=jpg&crop=2019,1513,x75,y0,safe&width=440",
-        "date": "Mon, 16 Sep 2024 21:00:00 GMT"
     }
 ]
