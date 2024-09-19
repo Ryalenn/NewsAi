@@ -187,12 +187,5 @@
         "body": "Résumé : \n\nL'auteur suggère que l'apprentissage par renforcement (RL) est l'ingrédient secret derrière les performances impressionnantes du modèle d'IA generative OpenAI o1. Bien qu'OpenAI ne révèle pas tous les détails de son approche, l'auteur déduit que leur utilisation de l'apprentissage par renforcement basé sur le processus, combiné à la fonction de chaîne de pensée (CoT) automatique d'o1, est probablement un facteur clé. L'apprentissage par renforcement, en particulier lorsqu'il est appliqué à chaque étape du processus de pensée de l'IA, peut améliorer considérablement les performances de l'IA generative, en particulier dans des domaines tels que les sciences, les mathématiques et la programmation, qui nécessitent une réflexion en plusieurs étapes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/64bc98b80ad55c9a28d3e1a6/0x0.jpg?format=jpg&crop=1849,1385,x110,y0,safe&width=440",
         "date": "Tue, 17 Sep 2024 07:00:00 GMT"
-    },
-    {
-        "title": "La transformation de la guerre par l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/09/17/how-ai-is-used-in-war-today/?ss=ai",
-        "body": "L'IA transforme la guerre, comme le montre son utilisation dans le conflit en Ukraine. Des drones autonomes aux algorithmes de reconnaissance faciale, l'IA joue un rôle crucial dans les opérations militaires et humanitaires. L'article explore l'impact de l'IA sur l'issue des conflits, la façon dont elle est utilisée sur le terrain, et soulève des questions éthiques importantes sur le rôle des entreprises technologiques et le pouvoir décisionnel des machines. \n\nTitre : L'IA sur le champ de bataille",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e918da3efe1bacd7e623af/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 17 Sep 2024 05:52:00 GMT"
     }
 ]
