@@ -1,55 +1,13 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/2024/9/17/24243884/openai-o1-model-research-safety-alignment",
-        "image": "",
-        "date": "Tue, 17 Sep 2024 20:10:42 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/17/chatgpt-speak-first-incident-stirs-worries-that-generative-ai-is-getting-too-big-for-its-britches/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e9ee7df80f63d41aa6b8a3/0x0.jpg?format=jpg&crop=2276,1707,x193,y0,safe&width=440",
-        "date": "Tue, 17 Sep 2024 21:07:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/17/the-library-of-congress-is-a-training-data-playground-for-ai-companies/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e9b4d30f96416e27c8d875/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 17 Sep 2024 20:51:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/09/17/has-the-risk-of-an-ai-apocalypse-faded-or-are-we-just-numb-to-it/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e9e9e0d56f8d4f089225c8/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 17 Sep 2024 20:46:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2160x1341/2400x1600/filters:focal(300x578:301x579):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626560/460264039_906672184700408_4145817641773315617_n.jpg",
-        "date": "Tue, 17 Sep 2024 20:20:14 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/17/the-prompt-openai-says-its-new-models-perform-like-an-extremely-smart-phd/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e9f518cc9775b022d61d3a/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 17 Sep 2024 21:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/09/18/the-geopolitics-of-ai/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66ea6aefbfd5accb326f59ad/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 18 Sep 2024 05:54:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Futur du jeu vid\u00e9o : la conf\u00e9rence terrifiante d\u2019EA \u00e0 ses actionnaires",
+        "title": "Futur du jeu vidéo : la conférence terrifiante d’EA à ses actionnaires",
         "link": "https://www.frandroid.com/produits-android/console/2341288_futur-du-jeu-video-la-conference-terrifiante-dea-a-ses-actionnaires",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/electronic-arts-investor-day-2024-28-59-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=b6bccd82",
         "date": "Tue, 17 Sep 2024 23:00:00 GMT",
@@ -168,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Pas de panique, LinkedIn n\u2019a pas siphonn\u00e9 vos donn\u00e9es pour entra\u00eener son IA\u2026 si vous habitez en Europe",
+        "title": "Pas de panique, LinkedIn n’a pas siphonné vos données pour entraîner son IA… si vous habitez en Europe",
         "link": "https://www.frandroid.com/culture-tech/2342728_pas-de-panique-linkedin-na-pas-siphonne-vos-donnees-pour-entrainer-son-ia-si-vous-habitez-en-europe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/linkedin-headquarters-mountain-view-1200x800-1-768x512.jpg?resize=200,200&key=1cd1750a",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
@@ -189,14 +147,14 @@
         "check": "yes"
     },
     {
-        "title": "Apple Intelligence activ\u00e9 en France : un jailbreak d\u00e9fie les restrictions en Europe et en Chine",
+        "title": "Apple Intelligence activé en France : un jailbreak défie les restrictions en Europe et en Chine",
         "link": "https://www.frandroid.com/marques/2344028_apple-intelligence-en-france-un-hack-defie-les-restrictions-en-europe-et-en-chine",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/ia-europe-1200x800-1-768x512.jpg?resize=200,200&key=ee309f44",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "YouTube brise la barri\u00e8re des langues avec cette IA de doublage",
+        "title": "YouTube brise la barrière des langues avec cette IA de doublage",
         "link": "https://www.frandroid.com/produits-android/2343370_youtube-veut-doubler-toutes-les-videos-avec-une-ia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
