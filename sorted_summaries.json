@@ -1,10 +1,24 @@
 [
     {
+        "title": "La promesse de l'IA générative avec la chaîne de pensée multiple et la méta-raison",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/19/speculation-brims-that-openai-o1-leverages-multiple-chain-of-thought-and-meta-reasoning/?ss=ai",
+        "body": "Résumé : \n\nL'article explore les derniers développements de l'IA générative, en particulier l'utilisation potentielle de la chaîne de pensée multiple et de la méta-raison pour améliorer les performances et la précision. Il commence par discuter de la récente mise à jour du modèle o1 d'OpenAI, qui a suscité beaucoup d'enthousiasme et de spéculations. La « sauce secrète » d'o1 est encore inconnue, mais certains croient qu'elle implique une approche de chaîne de pensée multiple et de méta-raison. Cette approche consiste à faire en sorte que l'IA traite les demandes ou résolve les problèmes de manière progressive, améliorant ainsi la délibération et la précision. L'article fournit des exemples de la façon dont cette approche peut conduire à des réponses plus nuancées et informatives, en particulier pour les problèmes logiques en science, en mathématiques et en programmation. La méta-raison, ou la « raison sur la raison », est un aspect crucial, mais complexe, car il implique de combiner plusieurs chaînes de pensée de manière cohérente et sensée. Les chercheurs explorent actuellement les meilleures méthodes pour y parvenir, avec des résultats prometteurs. L'article conclut en soulignant l'enthousiasme autour de ces développements et les nombreuses questions qui restent à résoudre, soulignant le mystère et la beauté de l'exploration de ces nouvelles frontières de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ebd90dce9b785b4a15ca31/0x0.jpg?format=jpg&crop=3558,2667,x219,y0,safe&width=440",
+        "date": "Thu, 19 Sep 2024 08:00:00 GMT"
+    },
+    {
         "title": "Les géants de la tech démocratisent l'IA conversationnelle",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "De grands acteurs du secteur technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques massifs plus accessibles au grand public. LinkedIn a discrètement utilisé les données de ses utilisateurs pour entraîner des modèles d'IA sans leur consentement, suscitant des inquiétudes en matière de confidentialité. OpenAI annonce la sortie d'un nouveau modèle, o1, capable de résoudre des problèmes complexes plus rapidement qu'un humain. Google lance Gemini Live, un chatbot conversationnel gratuit pour Android, tandis qu'ESPN utilise l'IA de Microsoft pour générer des résumés de matchs de football féminin. Volkswagen intègre des assistants vocaux basés sur ChatGPT dans ses voitures, et Meta commence à utiliser les publications publiques sur Facebook et Instagram au Royaume-Uni pour entraîner ses modèles d'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Wed, 18 Sep 2024 23:25:47 GMT"
+    },
+    {
+        "title": "LinkedIn et l'utilisation des données des utilisateurs pour l'IA",
+        "link": "https://www.frandroid.com/culture-tech/2342728_pas-de-panique-linkedin-na-pas-siphonne-vos-donnees-pour-entrainer-son-ia-si-vous-habitez-en-europe",
+        "body": "Le site 404 Media a révélé que LinkedIn utilise les données de ses utilisateurs pour entraîner ses modèles d'IA générative, sans le consentement explicite des utilisateurs. LinkedIn, propriété de Microsoft, a accédé à de grandes quantités de données sur sa plateforme avant de clarifier a posteriori comment ces données sont collectées et utilisées. La plateforme a ajouté un paramètre permettant aux utilisateurs de refuser ce traitement automatisé, mais uniquement pour les utilisateurs en dehors de l'UE, du EEE et de la Suisse, respectant ainsi le RGPD. LinkedIn précise que la désactivation de cette option n'affecte pas le traitement des données déjà effectuées. Les utilisateurs doivent remplir un autre formulaire pour s'opposer au traitement des données par les IA non génératives.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/linkedin-headquarters-mountain-view-1200x800-1-768x512.jpg?resize=200,200&key=1cd1750a",
+        "date": "Wed, 18 Sep 2024 23:00:00 GMT"
     },
     {
         "title": "L'évolution de l'infrastructure IA",
@@ -61,6 +75,13 @@
         "body": "Pour sa critique de l'iPhone de cette année, Joanna Stern du Wall Street Journal a adopté une approche unique en créant un chatbot basé sur ses critiques précédentes d'iPhone et ses notes de test pour les nouveaux modèles. Cette expérience démontre la puissance de l'IA dans le traitement du langage naturel et la création de conversations engageantes. L'article souligne également l'évolution des méthodes de critique et d'évaluation des produits technologiques, en utilisant l'IA pour offrir une expérience interactive et approfondie aux lecteurs.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1348x696/2400x1239/filters:focal(674x348:675x349):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25628040/Screenshot_2024_09_18_at_10.55.18_AM.png",
         "date": "Wed, 18 Sep 2024 14:57:47 GMT"
+    },
+    {
+        "title": "Apple Intelligence Beta Test",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "body": "Apple a publié iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant de nouvelles fonctionnalités et préparant le terrain pour les fonctionnalités d'IA générative. iPadOS 18 propose une application calculatrice et peut résoudre des équations mathématiques dans les notes. watchOS intègre la détection de l'apnée du sommeil. Apple Intelligence, la suite de fonctionnalités d'IA d'Apple, sera testée en version bêta le mois prochain dans la mise à jour iOS 18.1. Les utilisateurs pourront interagir avec Siri par écrit, voir des notifications résumées par l'IA et tester de nouveaux outils d'écriture. D'autres fonctionnalités, telles que la génération d'images et l'accès à ChatGPT, seront disponibles dans les mises à jour ultérieures.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg",
+        "date": "Wed, 18 Sep 2024 14:55:25 GMT"
     },
     {
         "title": "YouTube adopte l'IA",
@@ -180,12 +201,5 @@
         "body": "Google va intégrer une nouvelle fonctionnalité à ses résultats de recherche qui indiquera si une image a été créée ou modifiée à l'aide d'outils d'IA. Cette initiative fait partie des efforts de la Coalition for Content Provenance and Authenticity (C2PA), dont Google est membre, pour lutter contre la prolifération des images générées par l'IA. Le système d'authentification de la C2PA crée un historique numérique en ajoutant des métadonnées sur l'origine des images, et fonctionne à la fois sur le matériel et les logiciels. Bien que soutenu par de grandes entreprises technologiques, l'adoption de la norme C2PA a été lente. Google est l'une des premières entreprises à l'intégrer à grande échelle, ce qui représente un test important pour l'initiative. L'entreprise prévoit également d'utiliser les métadonnées C2PA pour faire respecter ses politiques et potentiellement identifier les contenus générés par l'IA sur YouTube. Cependant, des défis restent à relever en termes d'adoption et d'interopérabilité, avec un nombre limité d'appareils photo et de logiciels prenant actuellement en charge la norme C2PA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016885/STK093_Google_04.jpg",
         "date": "Tue, 17 Sep 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Le renforcement de l'apprentissage pour l'IA generative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/17/the-new-openai-o1-generative-ai-model-makes-an-important-right-turn-when-it-comes-to-reinforcement-learning/?ss=ai",
-        "body": "Résumé : \n\nL'auteur suggère que l'apprentissage par renforcement (RL) est l'ingrédient secret derrière les performances impressionnantes du modèle d'IA generative OpenAI o1. Bien qu'OpenAI ne révèle pas tous les détails de son approche, l'auteur déduit que leur utilisation de l'apprentissage par renforcement basé sur le processus, combiné à la fonction de chaîne de pensée (CoT) automatique d'o1, est probablement un facteur clé. L'apprentissage par renforcement, en particulier lorsqu'il est appliqué à chaque étape du processus de pensée de l'IA, peut améliorer considérablement les performances de l'IA generative, en particulier dans des domaines tels que les sciences, les mathématiques et la programmation, qui nécessitent une réflexion en plusieurs étapes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/64bc98b80ad55c9a28d3e1a6/0x0.jpg?format=jpg&crop=1849,1385,x110,y0,safe&width=440",
-        "date": "Tue, 17 Sep 2024 07:00:00 GMT"
     }
 ]
