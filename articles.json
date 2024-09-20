@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Pas de panique, LinkedIn n’a pas siphonné vos données pour entraîner son IA… si vous habitez en Europe",
+        "title": "Pas de panique, LinkedIn n\u2019a pas siphonn\u00e9 vos donn\u00e9es pour entra\u00eener son IA\u2026 si vous habitez en Europe",
         "link": "https://www.frandroid.com/culture-tech/2342728_pas-de-panique-linkedin-na-pas-siphonne-vos-donnees-pour-entrainer-son-ia-si-vous-habitez-en-europe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/linkedin-headquarters-mountain-view-1200x800-1-768x512.jpg?resize=200,200&key=1cd1750a",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
@@ -119,14 +119,14 @@
         "check": "yes"
     },
     {
-        "title": "Apple Intelligence activé en France : un jailbreak défie les restrictions en Europe et en Chine",
+        "title": "Apple Intelligence activ\u00e9 en France : un jailbreak d\u00e9fie les restrictions en Europe et en Chine",
         "link": "https://www.frandroid.com/marques/2344028_apple-intelligence-en-france-un-hack-defie-les-restrictions-en-europe-et-en-chine",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/ia-europe-1200x800-1-768x512.jpg?resize=200,200&key=ee309f44",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "YouTube brise la barrière des langues avec cette IA de doublage",
+        "title": "YouTube brise la barri\u00e8re des langues avec cette IA de doublage",
         "link": "https://www.frandroid.com/produits-android/2343370_youtube-veut-doubler-toutes-les-videos-avec-une-ia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
@@ -203,7 +203,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple ouvre timidement l’accès à ses outils d’IA… mais toujours pas pour l’Europe",
+        "title": "Apple ouvre timidement l\u2019acc\u00e8s \u00e0 ses outils d\u2019IA\u2026 mais toujours pas pour l\u2019Europe",
         "link": "https://www.frandroid.com/marques/2344152_apple-ouvre-timidement-lacces-a-ses-outils-dia-mais-toujours-pas-pour-leurope",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/ihqkowgxze-1200x674-2-768x431.jpg?resize=169,169&key=0eb09a83",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
@@ -215,5 +215,19 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/web-recherche-1200x673-1-768x431.jpg?resize=168,168&key=fa6e2c95",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/19/24249206/apple-intelligence-ios-18-1-public-beta",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1960x1102/2400x1600/filters:focal(980x551:981x552):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25630049/Apple_WWDC24_Apple_Intelligence_hero_240610.jpg",
+        "date": "Thu, 19 Sep 2024 19:37:50 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charlestowersclark/2024/09/20/unlocking-sustainable-ai-the-game-changing-tsetlin-machine-approach/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ed401a1ce0f9dfe19c4124/0x0.jpg?format=jpg&crop=699,393,x0,y102,safe&width=440",
+        "date": "Fri, 20 Sep 2024 09:00:00 GMT",
+        "check": "no"
     }
 ]
