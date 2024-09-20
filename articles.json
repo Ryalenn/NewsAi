@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Pas de panique, LinkedIn n’a pas siphonné vos données pour entraîner son IA… si vous habitez en Europe",
+        "title": "Pas de panique, LinkedIn n\u2019a pas siphonn\u00e9 vos donn\u00e9es pour entra\u00eener son IA\u2026 si vous habitez en Europe",
         "link": "https://www.frandroid.com/culture-tech/2342728_pas-de-panique-linkedin-na-pas-siphonne-vos-donnees-pour-entrainer-son-ia-si-vous-habitez-en-europe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/linkedin-headquarters-mountain-view-1200x800-1-768x512.jpg?resize=200,200&key=1cd1750a",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
@@ -133,14 +133,14 @@
         "check": "yes"
     },
     {
-        "title": "Apple Intelligence activé en France : un jailbreak défie les restrictions en Europe et en Chine",
+        "title": "Apple Intelligence activ\u00e9 en France : un jailbreak d\u00e9fie les restrictions en Europe et en Chine",
         "link": "https://www.frandroid.com/marques/2344028_apple-intelligence-en-france-un-hack-defie-les-restrictions-en-europe-et-en-chine",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/ia-europe-1200x800-1-768x512.jpg?resize=200,200&key=ee309f44",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "YouTube brise la barrière des langues avec cette IA de doublage",
+        "title": "YouTube brise la barri\u00e8re des langues avec cette IA de doublage",
         "link": "https://www.frandroid.com/produits-android/2343370_youtube-veut-doubler-toutes-les-videos-avec-une-ia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Wed, 18 Sep 2024 23:00:00 GMT",
@@ -172,6 +172,34 @@
         "link": "https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/",
         "image": "",
         "date": "Thu, 19 Sep 2024 17:05:39 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bethkindig/2024/09/19/4-things-investors-must-know-about-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/664d4c5406b3fee19e2faad9/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Sep 2024 00:29:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2024/09/19/fei-fei-lis-world-labs-ai-out-of-stealth-with-230-million-new-snap-specs-neuralink-targets-blindness/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ecb20f63008a584e41f41d/0x0.jpg?format=jpg&crop=1971,1109,x624,y368,safe&width=440",
+        "date": "Thu, 19 Sep 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/09/19/the-brains-and-the-brawn/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ec83a3929bad70600322b5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 19 Sep 2024 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/09/19/5-easy-ways-to-tell-if-an-image-is-ai-generated/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ec6e7f7d9c1c153ef1cb38/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 19 Sep 2024 19:00:00 GMT",
         "check": "no"
     }
 ]
