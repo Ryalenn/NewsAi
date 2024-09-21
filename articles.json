@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple ouvre timidement l’accès à ses outils d’IA… mais toujours pas pour l’Europe",
+        "title": "Apple ouvre timidement l\u2019acc\u00e8s \u00e0 ses outils d\u2019IA\u2026 mais toujours pas pour l\u2019Europe",
         "link": "https://www.frandroid.com/marques/2344152_apple-ouvre-timidement-lacces-a-ses-outils-dia-mais-toujours-pas-pour-leurope",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/ihqkowgxze-1200x674-2-768x431.jpg?resize=169,169&key=0eb09a83",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "« Sans contrôle, les dangers posés par l’intelligence artificielle pourraient avoir des implications graves pour la démocratie » : l’ONU veut statuer sur l’intelligence artificielle",
+        "title": "\u00ab Sans contr\u00f4le, les dangers pos\u00e9s par l\u2019intelligence artificielle pourraient avoir des implications graves pour la d\u00e9mocratie \u00bb : l\u2019ONU veut statuer sur l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2344612_sans-controle-les-dangers-poses-par-lintelligence-artificielle-pourraient-avoir-des-implications-graves-pour-la-democratie-lonu-veut-statuer-sur",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/intelligence-artificielle-1200x640-1-768x410.jpg?resize=160,160&key=fbb0d750",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
@@ -112,14 +112,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT à quel prix ? Si on l’avait utilisé pour écrire cet article, nous aurions consommé 12 bouteilles d’eau",
+        "title": "ChatGPT \u00e0 quel prix ? Si on l\u2019avait utilis\u00e9 pour \u00e9crire cet article, nous aurions consomm\u00e9 12 bouteilles d\u2019eau",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2344938_chatgpt-a-quel-prix-si-on-lavait-utilise-pour-ecrire-cet-article-nous-aurions-consomme-12-bouteilles-deau",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-1200x675-1-768x432.jpg?resize=169,169&key=0ea1b9c9",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Thin, Cyborg ou Stealth : découvrez les PC IA de MSI en promotion pour la rentrée",
+        "title": "Thin, Cyborg ou Stealth : d\u00e9couvrez les PC IA de MSI en promotion pour la rentr\u00e9e",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/2341592_thin-cyborg-ou-stealth-decouvrez-les-pc-ia-de-msi-en-promotion-pour-la-rentree",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/cyborg-15-ai-a1v-scenario-photo-41-768x432.jpg?resize=169,169&key=94188430",
         "date": "Thu, 19 Sep 2024 23:00:00 GMT",
@@ -173,5 +173,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66ede9e11f02bc035f33bbef/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 20 Sep 2024 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/09/21/the-automation-takeover-are-software-engineers-becoming-obsolete/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66eeaba6c3f0f28400015f77/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 21 Sep 2024 12:00:00 GMT",
+        "check": "no"
     }
 ]
