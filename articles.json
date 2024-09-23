@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Qu’est-ce qu’un NPU, cette nouvelle puce qui s’invite dans votre ordinateur portable ?",
+        "title": "Qu\u2019est-ce qu\u2019un NPU, cette nouvelle puce qui s\u2019invite dans votre ordinateur portable ?",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/2343608_quest-ce-quun-npu-cette-nouvelle-puce-qui-sinvite-dans-votre-ordinateur-portable",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/dossier-npu-1200x675-1-768x432.jpg?resize=169,169&key=5d4864f4",
         "date": "Sat, 21 Sep 2024 23:00:00 GMT",
@@ -68,5 +68,26 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631812/The_Vergecast_chatbot_Site__1_.jpg",
         "date": "Sun, 22 Sep 2024 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg",
+        "date": "Sun, 22 Sep 2024 15:04:21 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/09/22/the-new-un-global-digital-compact-what-it-is-and-why-we-matter/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f0a2d73ef3b7662d258a5d/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 22 Sep 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/22/why-some-are-predicting-that-governor-newsom-is-going-to-veto-that-ai-existential-risk-bill-pending-in-california/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1623,1216,x263,y0,safe&width=440",
+        "date": "Sun, 22 Sep 2024 22:00:00 GMT",
+        "check": "no"
     }
 ]
