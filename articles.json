@@ -7,7 +7,7 @@
         "check": "yes"
     },
     {
-        "title": "Qu’est-ce qu’un NPU, cette nouvelle puce qui s’invite dans votre ordinateur portable ?",
+        "title": "Qu\u2019est-ce qu\u2019un NPU, cette nouvelle puce qui s\u2019invite dans votre ordinateur portable ?",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/2343608_quest-ce-quun-npu-cette-nouvelle-puce-qui-sinvite-dans-votre-ordinateur-portable",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/dossier-npu-1200x675-1-768x432.jpg?resize=169,169&key=5d4864f4",
         "date": "Sat, 21 Sep 2024 23:00:00 GMT",
@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Il vous reste encore quelques jours pour profiter des offres de rentrée MSI (mais ne tardez pas trop)",
+        "title": "Il vous reste encore quelques jours pour profiter des offres de rentr\u00e9e MSI (mais ne tardez pas trop)",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/2341592_il-vous-reste-encore-quelques-jours-pour-profiter-des-offres-de-rentree-msi-mais-ne-tardez-pas-trop",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/cyborg-15-ai-a1v-scenario-photo-41-768x432.jpg?resize=169,169&key=94188430",
         "date": "Sun, 22 Sep 2024 23:00:00 GMT",
@@ -89,5 +89,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f1a2d5b215bffc785910bf/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 23 Sep 2024 17:37:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions",
+        "image": "",
+        "date": "Mon, 23 Sep 2024 18:46:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.semafor.com/article/09/20/2024/ai-startup-aaru-uses-chatbots-instead-of-humans-for-political-polls",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Mon, 23 Sep 2024 18:46:27 GMT",
+        "check": "no"
     }
 ]
