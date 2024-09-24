@@ -14,6 +14,13 @@
         "date": "Tue, 24 Sep 2024 01:00:00 GMT"
     },
     {
+        "title": "Meta's AI Pivot",
+        "link": "https://www.theverge.com/2024/7/30/24209918/meta-celebrity-lookalike-ai-chatbots-moves-on",
+        "body": "Meta a fermé ses chatbots IA qui permettaient aux utilisateurs d'interagir avec des versions alternatives de célébrités. Ces chatbots faisaient partie des annonces majeures de Meta lors de son événement Connect en septembre dernier. La fermeture survient après le lancement d'AI Studio, un outil permettant aux créateurs de développer leurs propres chatbots IA. Meta semble désormais privilégier cette approche plus ouverte plutôt que les bots de célébrités créés manuellement. \n\nLa société avait initialement lancé des chatbots basés sur des personnalités comme Charli D'Amelio, Dwyane Wade et Paris Hilton, avec des personnages alternatifs et des histoires uniques. Meta avait également prévu de lancer d'autres chatbots basés sur des célébrités comme Bear Grylls, Chloe Kim et Josh Richards, mais ces plans n'ont pas abouti. \n\nBien que les chatbots de célébrités n'aient pas eu le succès escompté, Meta reste convaincu du potentiel des chatbots IA. Le PDG Mark Zuckerberg a souvent discuté de leur importance, et Meta a intégré son assistant IA à Facebook, Instagram, Messenger et WhatsApp. La société voit les chatbots comme un moyen de connecter et d'engager les utilisateurs sur ses plateformes.",
+        "image": "",
+        "date": "Tue, 24 Sep 2024 00:12:10 GMT"
+    },
+    {
         "title": "OpenAI Scammed",
         "link": "https://www.theverge.com/2024/9/23/24252664/openai-x-account-crypto-scam-newsroom",
         "body": "Un compte officiel d'OpenAI sur X a été piraté pour promouvoir une arnaque aux crypto-monnaies. Le compte, qui partageait des actualités d'OpenAI, a publié un message annonçant un jeton « $OPENAI », prétendant combler le fossé entre l'IA et la blockchain. Le message comprenait un lien vers une version contrefaite du site Web d'OpenAI, incitant les utilisateurs à réclamer la crypto-monnaie. L'incident soulève des préoccupations concernant la sécurité et la réputation dans l'espace de l'IA, mettant en évidence la nécessité de mesures de sécurité robustes pour protéger à la fois les entreprises et les utilisateurs.",
@@ -103,19 +110,5 @@
         "body": "Steven Johnson, auteur et passionné de science et de technologie, a rejoint Google pour travailler sur NotebookLM, un outil d'IA pour la prise de notes et la recherche. NotebookLM, initialement lancé sous le nom de Project Tailwind, utilise l'IA pour aider les utilisateurs à organiser leurs idées, à effectuer des recherches et à rédiger. Johnson, fasciné par l'IA, discute de son expérience chez Google, des complexités éthiques de l'IA et de l'impact de celle-ci sur son processus créatif. L'épisode explore également les fonctionnalités de NotebookLM, y compris la récente fonction Audio Overviews, qui génère un podcast à partir des informations fournies par l'utilisateur.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25631812/The_Vergecast_chatbot_Site__1_.jpg",
         "date": "Sun, 22 Sep 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Hyperfixed",
-        "link": "https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer",
-        "body": "Alex Goldman, ancien co-animateur de \"Reply All\", lance une nouvelle émission, \"Hyperfixed\", où il aide les gens à résoudre divers problèmes. Il partage son écran d'accueil d'iPhone, mettant en lumière des applications telles que Notes, Voice Memos, Threes et Overcast. L'article comprend également des recommandations de la communauté Installer, telles qu'un canal YouTube d'horreur, un jeu de déduction sociale et un livre sur la fin de Twitter. Il met également en lumière D4vd, un auteur-compositeur-interprète qui a parlé d'un projet IA lors de l'événement \"Made on YouTube\".",
-        "image": "",
-        "date": "Sun, 22 Sep 2024 12:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'éducation avec l'IA",
-        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/09/22/5-ai-education-experts-share-their-secrets/?ss=ai",
-        "body": "Plus de 1700 éducateurs du monde entier ont participé au webinaire sur l'IA de la rentrée scolaire 2024 la semaine dernière. Cinq présentateurs de premier plan ont partagé leurs expériences sur l'utilisation de l'IA pour transformer les pratiques d'enseignement. Sabba Quidwai a parlé de l'utilisation de ChatGPT et de Canva pour la génération collaborative d'idées, en soulignant l'importance de l'équilibre entre la créativité humaine et l'assistance de l'IA. Jason Gulya a présenté son utilisation innovante de ChatGPT et de Perplexity pour développer des jeux d'apprentissage interactifs, générant des idées créatives et les validant avec l'IA. Aileen Wallace a partagé la plateforme Curipod, qui crée un environnement sûr et inclusif pour encourager la participation des étudiants timides. Eric Curts a présenté Brisk Teaching, une extension Chrome qui agit comme un assistant IA pour les éducateurs, offrant une gamme de fonctionnalités pour rationaliser la création de ressources. Matthew Wemyss a partagé ses stratégies d'utilisation de l'IA pour la planification des ressources et le développement professionnel, soulignant la rapidité et l'adaptabilité des outils d'IA pour répondre aux besoins des enseignants. Le webinaire a également abordé des préoccupations importantes concernant la confidentialité des données des étudiants et l'accessibilité, soulignant l'importance de l'éducation à l'utilisation responsable de l'IA. L'événement a été un rappel puissant du potentiel de l'IA dans l'éducation, offrant des stratégies pratiques pour des salles de classe plus engageantes, inclusives et efficaces.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66eede6d448aa788be5145bd/0x0.jpg?format=jpg&crop=2639,1484,x0,y0,safe&width=440",
-        "date": "Sun, 22 Sep 2024 10:00:00 GMT"
     }
 ]
