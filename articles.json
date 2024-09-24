@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Il vous reste encore quelques jours pour profiter des offres de rentrée MSI (mais ne tardez pas trop)",
+        "title": "Il vous reste encore quelques jours pour profiter des offres de rentr\u00e9e MSI (mais ne tardez pas trop)",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/2341592_il-vous-reste-encore-quelques-jours-pour-profiter-des-offres-de-rentree-msi-mais-ne-tardez-pas-trop",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/cyborg-15-ai-a1v-scenario-photo-41-768x432.jpg?resize=169,169&key=94188430",
         "date": "Sun, 22 Sep 2024 23:00:00 GMT",
@@ -173,5 +173,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f2c99ae3e6f27f94788d5d/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 24 Sep 2024 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/24/24253272/james-cameron-stability-ai",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3094x2225/2400x1600/filters:focal(1427x1037:1428x1038):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25638175/1456244157.jpg",
+        "date": "Tue, 24 Sep 2024 19:58:53 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24247369/the-browser-company-ceo-josh-miller-arc-google-chrome-ai-search-web-decoder-interview",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2760x1839/2400x1600/filters:focal(1384x846:1385x847):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626411/DCD_Josh_Miller_Decoder.png",
+        "date": "Mon, 23 Sep 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/09/24/ibms-qiskit-takes-lead-in-quantum-computing-software/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f317e67885aba41cb0d55b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/24/the-prompt-can-ai-teach-better-than-humans/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f311c22bdd1969015ac68d/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 19:00:00 GMT",
+        "check": "no"
     }
 ]
