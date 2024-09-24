@@ -1,5 +1,26 @@
 [
     {
+        "title": "Qiskit : l'outil ultime pour l'informatique quantique ?",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/09/24/ibms-qiskit-takes-lead-in-quantum-computing-software/?ss=ai",
+        "body": "Résumé : \n\nL'informatique quantique dépend fortement de la performance, et le kit de développement logiciel (SDK) Qiskit d'IBM se positionne comme un leader dans ce domaine. Qiskit excelle dans la création, la manipulation et l'optimisation de circuits quantiques, des tâches essentielles pour exploiter le potentiel de l'informatique quantique. Ses avancées en matière de vitesse, d'efficacité du code et d'optimisation des circuits le rendent indispensable pour les développeurs travaillant sur des applications réelles. La réduction du nombre de portes à deux qubits, plus sujettes aux erreurs, améliore la qualité des circuits. De plus, l'optimiseur de circuits alimenté par l'IA de Qiskit est particulièrement utile pour les circuits de grande taille, améliorant la performance et la fiabilité des programmes quantiques. La polyvalence de Qiskit, sa capacité à s'intégrer à différents systèmes d'informatique quantique et l'écosystème complet d'outils qu'IBM construit autour de lui en font un choix sûr et attractif pour les développeurs, accélérant ainsi l'adoption de l'informatique quantique dans les entreprises, les universités et les institutions de recherche.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f317e67885aba41cb0d55b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 20:00:00 GMT"
+    },
+    {
+        "title": "Hollywood Embrasse l'IA",
+        "link": "https://www.theverge.com/2024/9/24/24253272/james-cameron-stability-ai",
+        "body": "Le réalisateur James Cameron rejoint le conseil d'administration de Stability AI, l'entreprise derrière Stable Diffusion, une décision qui souligne l'intérêt croissant de l'industrie cinématographique pour l'IA. Cameron, connu pour son adoption précoce des technologies émergentes, cite l'intersection de l'IA générative et de la création d'images CGI comme prochaine grande avancée révolutionnaire pour le cinéma. Cette nouvelle arrive alors que les studios manifestent un intérêt croissant pour une collaboration étroite avec les entreprises d'IA, comme en témoignent le partenariat de Lionsgate avec Runway et l'intention de Sony Pictures de déployer l'IA pour réaliser des économies importantes. Cependant, la transition vers ces collaborations a également suscité des grèves de la part des acteurs et des écrivains de Hollywood, ainsi que des controverses entourant l'utilisation de l'IA par Cameron pour remasteriser ses films classiques. Stability AI fait également face à des poursuites judiciaires pour entraînement de modèles sur du matériel protégé par droit d'auteur. Malgré les incertitudes, Cameron semble enthousiaste à l'idée de se plonger dans l'espace de l'IA et de façonner son avenir.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3094x2225/2400x1600/filters:focal(1427x1037:1428x1038):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25638175/1456244157.jpg",
+        "date": "Tue, 24 Sep 2024 19:58:53 GMT"
+    },
+    {
+        "title": "The AI Revolution: Transforming Industries, Raising Concerns",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/24/the-prompt-can-ai-teach-better-than-humans/?ss=ai",
+        "body": "L'article présente les récents développements dans le domaine de l'IA, avec un accent particulier sur ses applications et ses implications. OpenAI CEO, Sam Altman, prédit que l'IA améliorera considérablement la vie des gens, allant de l'éducation à la santé. Cependant, des préoccupations surgissent également, comme en témoigne la nouvelle loi californienne contre les publicités politiques deepfake. L'Arabie Saoudite investit massivement dans des startups d'IA, LinkedIn utilise les données des utilisateurs pour entraîner ses modèles d'IA, et des plateformes comme Mercor révolutionnent le recrutement grâce à l'IA. Duolingo, dirigé par Luis von Ahn, vise à créer un tuteur linguistique IA automatisé, tout en reconnaissant les défis futurs de l'automatisation pour les travailleurs. Enfin, l'IA est utilisée pour découvrir de anciens dessins de Nazca et pour détecter les deepfakes vidéo.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f311c22bdd1969015ac68d/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 19:00:00 GMT"
+    },
+    {
         "title": "First Draft",
         "link": "https://www.theverge.com/2024/9/24/24253252/figma-ai-make-designs-first-draft-app-ui-generator",
         "body": "Figma, une plateforme de design, a lancé un nouvel outil basé sur l'IA, « First Draft », qui permet aux designers d'utiliser l'IA pour créer des maquettes d'applications. L'outil utilise des modèles d'IA prêts à l'emploi, tels que GPT-4 d'OpenAI, et ne s'entraîne pas sur les données des clients. Les utilisateurs peuvent choisir parmi quatre bibliothèques, du wireframing aux designs haute fidélité, et fournir un bref pour guider l'IA. First Draft sélectionne et personnalise ensuite les composants du système de design, offrant un point de départ pour les créations. Figma a d'autres fonctionnalités d'IA, y compris la génération automatique de texte.",
@@ -124,6 +145,13 @@
         "body": "Le marché des vidéos générées par l'IA devrait atteindre 1,96 milliard de dollars d'ici 2030, ce qui soulève des inquiétudes quant aux deepfakes et à la désinformation. Les vidéos deepfake, créées à l'aide de l'IA, peuvent enfreindre les lois sur la vie privée, la sécurité nationale et la maltraitance. La Californie a récemment adopté une législation contre les deepfakes, mais sa constitutionnalité pourrait être remise en question. Pour l'instant, la réglementation sur les vidéos générées par l'IA est floue. Il existe des outils de détection de deepfakes, tels que Deepware et InVid, qui analysent les incohérences et les micro-irrégularités dans les expressions faciales. Ces outils sont importants car le cerveau traite les images vidéo 60 000 fois plus rapidement que le texte, ce qui rend les messages vidéo très convaincants.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f1a2d5b215bffc785910bf/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 23 Sep 2024 17:37:00 GMT"
+    },
+    {
+        "title": "The Future of Browsers and the Web",
+        "link": "https://www.theverge.com/24247369/the-browser-company-ceo-josh-miller-arc-google-chrome-ai-search-web-decoder-interview",
+        "body": "L'article explore l'avenir des navigateurs web et leur rôle en tant que plateformes d'applications, avec un focus particulier sur l'IA. Il présente The Browser Company, une startup qui développe le navigateur Arc, conçu pour améliorer la productivité des utilisateurs. L'article aborde les défis de la monétisation, la concurrence avec les géants du secteur, et les questions éthiques liées à l'IA et à l'extraction de contenu web.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2760x1839/2400x1600/filters:focal(1384x846:1385x847):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25626411/DCD_Josh_Miller_Decoder.png",
+        "date": "Mon, 23 Sep 2024 14:00:00 GMT"
     },
     {
         "title": "Civitai lance SPINE, un workflow consolidé pour la création de contenu AI",
