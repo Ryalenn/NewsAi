@@ -1,5 +1,12 @@
 [
     {
+        "title": "La face cachée de l'IA : les hallucinations dans la chaîne de pensée",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/23/ai-hallucinations-invade-openai-latest-gpt-model-o1-in-quite-surprising-places/?ss=ai",
+        "body": "Résumé : \n\nL'article explore un aspect intrigant et troublant du dernier modèle de langage de ChatGPT d'OpenAI, connu sous le nom de o1, et son utilisation de la chaîne de pensée (CoT). Il met en lumière un problème potentiel avec la fonction de chaîne de pensée du modèle, à savoir l'apparition d'hallucinations d'IA dans la chaîne de pensée affichée. L'auteur explique que, contrairement à la chaîne de pensée cachée réelle qui se produit pendant le traitement de la demande, o1 affiche une chaîne de pensée spéciale et résumée, qui est potentiellement une version modifiée de la vraie chaîne de pensée. Cela soulève des inquiétudes quant à la possibilité d'hallucinations d'IA dans la chaîne de pensée affichée, qui pourraient tromper les utilisateurs. L'article fournit un exemple de cette situation, où une réponse apparemment logique est précédée d'une étape d'hallucination indiquant que les avions n'existent pas. L'auteur discute des implications et des débats entourant ce problème, y compris la possibilité que d'autres développeurs d'IA adoptent des approches similaires, forçant une chaîne de pensée cachée. Il souligne l'importance de la détection des hallucinations d'IA et de la transparence de la chaîne de pensée réelle pour améliorer la confiance dans les résultats générés par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f217bb9fa3d2d00fff105c/0x0.jpg?format=jpg&crop=3550,2366,x257,y0,safe&width=440",
+        "date": "Tue, 24 Sep 2024 01:00:00 GMT"
+    },
+    {
         "title": "OpenAI Scammed",
         "link": "https://www.theverge.com/2024/9/23/24252664/openai-x-account-crypto-scam-newsroom",
         "body": "Un compte officiel d'OpenAI sur X a été piraté pour promouvoir une arnaque aux crypto-monnaies. Le compte, qui partageait des actualités d'OpenAI, a publié un message annonçant un jeton « $OPENAI », prétendant combler le fossé entre l'IA et la blockchain. Le message comprenait un lien vers une version contrefaite du site Web d'OpenAI, incitant les utilisateurs à réclamer la crypto-monnaie. L'incident soulève des préoccupations concernant la sécurité et la réputation dans l'espace de l'IA, mettant en évidence la nécessité de mesures de sécurité robustes pour protéger à la fois les entreprises et les utilisateurs.",
