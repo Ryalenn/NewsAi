@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de l'IA : propriété intellectuelle, modèles et données utilisateur",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/09/24/the-ownership-issue-three-big-questions-with-new-ai-models/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f34e8381789dbd3ab25ce1/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 23:00:00 GMT"
+    },
+    {
+        "title": "La bataille de l'IA",
+        "link": "https://www.theverge.com/2024/9/24/24253439/california-sb-1047-newsom-hollywood-sag-aftra-ai-safety",
+        "body": "Résumé : \n\nLe texte présente la bataille entre Hollywood et la Silicon Valley autour du projet de loi californien sur la sécurité de l'IA, le SB 1047. Plus de 125 célébrités d'Hollywood ont publié une lettre ouverte au gouverneur Gavin Newsom, l'exhortant à signer le projet de loi. Le SB 1047 est une législation importante en matière de sécurité de l'IA, qui obligerait les plus grands développeurs d'IA à mettre en place des mesures de sécurité pour réduire le risque de catastrophe causée par leurs modèles. Le projet de loi a suscité à la fois le soutien et les critiques intenses, avec des opposants comme l'industrie de l'IA, d'anciens politiciens et des maires. Les célébrités, dont beaucoup sont membres du syndicat SAG-AFTRA, soulignent que le projet de loi concerne la protection de tous, et non pas seulement des artistes. La décision de Newsom est considérée comme un choix difficile entre les industries de la technologie et du divertissement, pour lesquelles la Californie est connue. Le soutien des célébrités au SB 1047 met en évidence la division croissante entre les élites d'Hollywood et de la Silicon Valley, avec des milliardaires de la technologie se tournant vers la droite et les stars restant solidement à gauche.",
+        "image": "",
+        "date": "Tue, 24 Sep 2024 21:06:52 GMT"
+    },
+    {
         "title": "Qiskit : l'outil ultime pour l'informatique quantique ?",
         "link": "https://www.forbes.com/sites/stevemcdowell/2024/09/24/ibms-qiskit-takes-lead-in-quantum-computing-software/?ss=ai",
         "body": "Résumé : \n\nL'informatique quantique dépend fortement de la performance, et le kit de développement logiciel (SDK) Qiskit d'IBM se positionne comme un leader dans ce domaine. Qiskit excelle dans la création, la manipulation et l'optimisation de circuits quantiques, des tâches essentielles pour exploiter le potentiel de l'informatique quantique. Ses avancées en matière de vitesse, d'efficacité du code et d'optimisation des circuits le rendent indispensable pour les développeurs travaillant sur des applications réelles. La réduction du nombre de portes à deux qubits, plus sujettes aux erreurs, améliore la qualité des circuits. De plus, l'optimiseur de circuits alimenté par l'IA de Qiskit est particulièrement utile pour les circuits de grande taille, améliorant la performance et la fiabilité des programmes quantiques. La polyvalence de Qiskit, sa capacité à s'intégrer à différents systèmes d'informatique quantique et l'écosystème complet d'outils qu'IBM construit autour de lui en font un choix sûr et attractif pour les développeurs, accélérant ainsi l'adoption de l'informatique quantique dans les entreprises, les universités et les institutions de recherche.",
@@ -68,6 +82,13 @@
         "body": "Le marché des chatbots, évalué à 7,01 milliards de dollars en 2023, devrait atteindre 20,81 milliards de dollars d'ici 2029, selon un rapport du Forum économique mondial de juillet 2023. OpenAI a récemment lancé son dernier modèle de langage, o1, qui rivalise avec les experts en biologie, physique et chimie. Les progrès des LLM, notamment en matière de raisonnement pas à pas, facilitent la programmation, la conception de jeux, le raisonnement mathématique et l'analyse de données. GitHub Copilot, par exemple, peut résoudre des problèmes de codage complexes et optimiser les codes. Les chatbots sont de plus en plus intégrés dans les applications grand public, comme les plateformes de médias sociaux et de commerce électronique, ainsi que dans les infrastructures et les flux de travail des entreprises. Microsoft Dynamics 365 Copilot et Google Dialogflow en sont des exemples. Les startups de l'IA attirent des milliards d'investissements, repoussant les limites de l'innovation et créant de nouveaux marchés. Cependant, l'adoption de chatbots avancés soulève des défis éthiques et des préoccupations environnementales. Il est crucial de garantir leur sécurité et leur responsabilité tout en profitant de leurs avantages.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66edeffc62a62f5ea887f07f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 24 Sep 2024 13:00:00 GMT"
+    },
+    {
+        "title": "Battre le Burnout avec l'IA",
+        "link": "https://www.forbes.com/sites/aytekintank/2024/09/24/how-ai-can-help-combat-burnout/?ss=ai",
+        "body": "L'épuisement professionnel est un problème courant, avec 77 % de personnes touchées selon une étude de Deloitte. Heureusement, l'IA peut aider à réduire ce phénomène. L'IA peut soulager la charge de travail en automatisant les tâches répétitives et fastidieuses, redonnant ainsi un sentiment de contrôle aux employés. Chez Jotform, par exemple, l'IA détecte les tentatives de hameçonnage, libérant ainsi les équipes de support pour d'autres tâches. L'IA peut également aider à gérer les valeurs et les récompenses, en permettant aux employés de se concentrer sur un travail plus visible et gratifiant, et en créant ainsi un sentiment de satisfaction et d'équité. Bien que l'IA ne puisse pas résoudre tous les problèmes liés à l'épuisement professionnel, elle peut faire une différence significative en équilibrant la charge de travail et en améliorant le bien-être des employés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f2b22b14671b8884b3c1e9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Sep 2024 12:00:00 GMT"
     },
     {
         "title": "Gemini AI de Google rejoint la suite de productivité Google Workspace",
@@ -166,26 +187,5 @@
         "body": "L'IA est désormais ancrée dans notre quotidien, et les avancées dans ce domaine continueront de façonner notre monde en 2025. Les cas d'utilisation les plus impactants de l'IA seront ceux qui favorisent les relations symbiotiques entre les humains et les machines, améliorant ainsi nos compétences et notre productivité quotidiennes. Bien que les percées spectaculaires attirent l'attention, la tendance sera à l'intégration subtile de l'IA dans nos vies, améliorant la prise de décision basée sur les données et augmentant notre créativité. Les avancées en matière de vidéo générative, d'agents IA autonomes et d'IA quantique continueront de repousser les limites, mais soulèveront également des questions éthiques. \n\nEn 2025, la biotechnologie continuera de révolutionner la santé, l'agriculture et la durabilité environnementale. Les thérapies personnalisées et les modifications génétiques offriront des traitements pour diverses maladies, tandis que l'agriculture résistante aux maladies et au climat réduira la nécessité des pesticides. \n\nLa technologie climatique gagnera en importance, avec un accent sur la réduction des émissions de carbone et l'atténuation des dommages environnementaux. Les innovations dans les énergies propres et le stockage de l'énergie, ainsi que les avancées dans les véhicules électriques et la capture du carbone, seront intégrées à la vie quotidienne. \n\nLa cybersécurité deviendra un enjeu crucial pour la société, dépassant le simple cadre des entreprises. Les attaques contre les infrastructures critiques augmenteront, affectant les services essentiels, l'économie et la confiance du public. La collaboration entre les États et l'utilisation de l'IA pour la détection et la prévention seront essentielles. \n\nEnfin, l'informatique quantique pourrait avoir un impact important en 2025, révolutionnant divers domaines tels que la modélisation climatique, la découverte de médicaments et l'IA elle-même. Cependant, \"Q-Day\", le jour où l'informatique quantique rendra obsolètes les méthodes de cryptage actuelles, pourrait également poser des problèmes de sécurité et de confidentialité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66ee757103e60ee7d2daacaa/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 23 Sep 2024 05:00:00 GMT"
-    },
-    {
-        "title": "PC IA : les nouvelles machines de MSI",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/2341592_il-vous-reste-encore-quelques-jours-pour-profiter-des-offres-de-rentree-msi-mais-ne-tardez-pas-trop",
-        "body": "MSI dévoile une nouvelle gamme d'ordinateurs portables, les PC IA, équipés de processeurs Intel de dernière génération et de GPU Nvidia de série 40, offrant ainsi des performances améliorées pour les tâches liées à l'IA. Les modèles Thin 15, Cyborg 15 AI et Stealth 16 AI Studio se distinguent par leur puissance, leur design et leur polyvalence, à des prix compétitifs. MSI se démarque en intégrant des technologies maison basées sur l'IA pour améliorer l'expérience utilisateur.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/cyborg-15-ai-a1v-scenario-photo-41-768x432.jpg?resize=169,169&key=94188430",
-        "date": "Sun, 22 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Une IA équitable pour un avenir équitable",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/09/22/the-new-un-global-digital-compact-what-it-is-and-why-we-matter/?ss=ai",
-        "body": "L'Assemblée générale des Nations Unies adopte le Global Digital Compact, un ensemble de principes et de lignes directrices pour une gouvernance numérique mondiale responsable et durable. Le cœur de cet accord est de s'assurer que la révolution numérique profite à l'humanité tout en protégeant les droits universels et en promouvant une croissance équitable. Le défi consiste maintenant à traduire ces principes dans la pratique, et c'est ici qu'intervient le cadre d'implémentation de l'IA pro-sociale. L'IA pro-sociale est conçue pour améliorer les interactions sociales, renforcer la coopération et promouvoir une distribution équitable des ressources et des opportunités, tout en soutenant le bien-être des individus et de la société dans son ensemble. En appliquant les principes du GDC, les entreprises, les gouvernements et les organisations peuvent guider, développer et collaborer pour traduire cette vision en actions concrètes, créant ainsi un avenir numérique plus sûr et inclusif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f0a2d73ef3b7662d258a5d/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 22 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la législation californienne sur l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/22/why-some-are-predicting-that-governor-newsom-is-going-to-veto-that-ai-existential-risk-bill-pending-in-california/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/650e566b156305914269917e/0x0.jpg?format=jpg&crop=1623,1216,x263,y0,safe&width=440",
-        "date": "Sun, 22 Sep 2024 22:00:00 GMT"
     }
 ]
