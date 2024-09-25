@@ -1,5 +1,19 @@
 [
     {
+        "title": "La stratégie de l'IA pour la conformité réglementaire",
+        "link": "https://www.forbes.com/sites/peterhigh/2024/09/25/discover-financial-services-cio-on-innovation-and-fintechs-future/?ss=ai",
+        "body": "Bien qu'opérant dans un environnement hautement réglementé, Discover Financial Services se distingue par son approche innovante de la conformité réglementaire. Jason Strle, récemment nommé DSI, considère la gestion des risques comme la pierre angulaire de la stratégie de l'entreprise. Au lieu d'employer des milliers de personnes pour garantir manuellement la conformité, Discover se concentre sur l'utilisation de l'IA pour automatiser et rationaliser les processus. Strle pense que l'IA générative peut aider les institutions financières à analyser les données non structurées, telles que les textes juridiques complexes, et à en tirer des informations exploitables. Tout en reconnaissant les risques liés à une trop grande dépendance à l'égard de l'IA, il souligne l'importance d'une supervision humaine pour atténuer ces risques. Discover adopte une structure « verticale-horizontale » dans son organisation informatique pour rester compétitif, garantissant ainsi un alignement étroit avec les lignes de métier tout en maintenant des efforts de transformation centralisés. L'entreprise prévoit également de rester à l'avant-garde de la technologie, notamment l'IA générative, l'informatique quantique et l'amélioration de la cybersécurité, tout en naviguant dans son avenir, qu'il s'agisse de l'intégration potentielle de l'IA ou de la fusion avec Capital One.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f465d986ff02f0adf73693/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 25 Sep 2024 20:00:00 GMT"
+    },
+    {
+        "title": "Départ du CTO d'OpenAI, Mira Murati",
+        "link": "https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving",
+        "body": "Mira Murati, directrice de la technologie chez OpenAI, a annoncé son départ de l'entreprise. Cette annonce survient presque un an après un coup d'État en salle de réunion qui a brièvement évincé le PDG Sam Altman, laissant Murati comme leader temporaire. Chez OpenAI, Murati était responsable de la gestion de ChatGPT, le chatbot populaire de l'entreprise, ainsi que de son générateur d'images à partir de texte, DALL-E. Son départ survient à un moment crucial, juste avant la conférence annuelle Dev Day de l'entreprise, où des mises à jour des outils pour développeurs d'IA sont généralement annoncées. Murati a passé six ans et demi chez OpenAI et a également travaillé chez Tesla sur ses efforts en matière d'IA. Altman a exprimé sa profonde gratitude pour les contributions de Murati à l'entreprise et a déclaré que des plans de transition seraient annoncés prochainement.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1815x1018/2400x1600/filters:focal(484x473:485x474):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25445944/Screenshot_2024_05_13_at_12.06.39_PM.png",
+        "date": "Wed, 25 Sep 2024 19:41:31 GMT"
+    },
+    {
         "title": "Meta Connect",
         "link": "https://www.theverge.com/2024/9/25/24250234/meta-connect-rayban-glasses-orion-ai-llama",
         "body": "Meta a présenté ses lunettes de réalité augmentée Orion lors de sa conférence annuelle Connect, ainsi que de nombreuses nouveautés en matière d'IA. La société a dévoilé des fonctionnalités d'IA telles que la traduction en direct, la reconnaissance d'images et la création de contenus, et a annoncé l'expansion de ses fonctionnalités d'IA sur Instagram, WhatsApp et Facebook. Meta a également présenté ses lunettes intelligentes Ray-Ban, avec de nouvelles fonctionnalités et un nouveau style translucide, ainsi que son nouveau casque VR Quest 3S. La société a également montré des démonstrations impressionnantes de l'utilisation de l'IA pour aider les créateurs de contenu, y compris la recréation d'influenceurs réels en tant que personnages IA. Enfin, Meta a présenté son nouveau modèle d'IA open source, Llama 3.2, qui peut traiter à la fois les images et le texte, permettant des applications IA plus avancées.",
@@ -56,6 +70,13 @@
         "date": "Wed, 25 Sep 2024 17:50:08 GMT"
     },
     {
+        "title": "The Future of AI: Celebrity Voices and Chatbot Updates",
+        "link": "https://www.theverge.com/2024/9/25/24253420/meta-ai-celebrity-voices-awkwafina-john-cena-judi-dench-connect",
+        "body": "Meta intègre des voix de célébrités à son chatbot IA sur Instagram, WhatsApp et Facebook. Les utilisateurs peuvent désormais choisir parmi plusieurs voix, dont des imitations de célébrités comme Awkwafina, John Cena, et Dame Judi Dench. Ces voix de célébrités ne sont disponibles qu'aux États-Unis pour le moment. Meta a payé des millions de dollars à chaque célébrité pour l'utilisation de sa voix, selon le Wall Street Journal. \n\nL'IA de Meta propose également de nouvelles fonctionnalités, telles que la possibilité de répondre à des questions sur les photos téléchargées et de modifier les images en fonction des demandes de l'utilisateur. Ces mises à jour soulèvent des questions sur les limites éthiques de cette technologie et sur la manière dont d'autres entreprises, comme Google et Apple, géreront des fonctionnalités similaires.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg",
+        "date": "Wed, 25 Sep 2024 17:28:45 GMT"
+    },
+    {
         "title": "Réalité Augmentée et Vie Privée",
         "link": "https://www.theverge.com/2024/9/25/24253329/meta-ai-generated-images-facebook-instagram-feeds",
         "body": "Meta (Facebook et Instagram) teste une nouvelle fonctionnalité intégrant des images générées par IA dans les fils d'actualité des utilisateurs, basées sur leurs intérêts ou tendances actuelles. Ces images peuvent inclure le visage de l'utilisateur, ce qui soulève des inquiétudes en matière de vie privée. Bien que partageable, cette fonctionnalité semble destinée à un usage personnel, mais les paramètres de confidentialité restent flous. Mark Zuckerberg justifie cette évolution comme un saut logique pour les plateformes, mais cela s'éloigne de leur rôle initial de mise en relation avec ses amis.",
@@ -96,6 +117,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/643ee55c832bb162a41e5605/0x0.jpg?format=jpg&crop=4248,3183,x200,y0,safe&width=440",
         "date": "Wed, 25 Sep 2024 04:00:00 GMT"
+    },
+    {
+        "title": "Llama 3.2 : Meta améliore son IA",
+        "link": "https://www.frandroid.com/marques/meta/2349720_llama-3-2-meta-met-a-nouveau-les-bouchees-doubles-en-matiere-dintelligence-artificielle",
+        "body": "Meta a présenté la mise à jour de son IA Llama, qui devient multimodale et peut désormais traiter à la fois texte et image. L'IA peut répondre à des questions sur des photos et modifier des images. De plus, Llama peut désormais converser vocalement, y compris avec les voix de personnalités connues. Meta a également développé un outil de doublage automatique pour les Reels Instagram. Llama 3.2 se décline en quatre modèles, dont deux pour l'image et deux pour le texte, avec des paramètres allant de 1 à 90 milliards. Ces versions allégées sont conçues pour fonctionner localement sur les appareils des utilisateurs. Llama 3.2 sera disponible gratuitement via les applications de Meta, sauf en Europe, où les réglementations strictes sur l'IA doivent être respectées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/screenshot-2024-09-25-at-19-29-40-3-facebook-1200x696-1-768x445.jpg?resize=174,174&key=4e135ec4",
+        "date": "Tue, 24 Sep 2024 23:00:00 GMT"
     },
     {
         "title": "L'IA de Google arrive sur YouTube",
@@ -250,26 +278,5 @@
         "body": "Apple a annoncé que sa nouvelle suite d'outils d'IA, Apple Intelligence, nécessitera au moins 4 Go d'espace libre sur les iPhone compatibles pour son utilisation initiale. Bien que la société n'ait pas fourni d'estimation pour les iPad et les Mac, il est probable que les besoins en espace de stockage soient similaires. De plus, Apple a averti que les besoins en stockage augmenteront avec le déploiement de fonctionnalités supplémentaires. Les utilisateurs avec des appareils à faible stockage devront donc envisager de libérer de l'espace pour les prochaines mises à jour. L'article souligne également l'évolution de la capacité de stockage des iPhone depuis l'iPhone 2G, qui n'offrait que 4 Go de mémoire, jusqu'aux modèles actuels offrant au moins 128 Go.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/apple-event-september-9-56-45-screenshot-1200x675-3-768x432.jpg?resize=169,169&key=56606455",
         "date": "Mon, 23 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'essor des grands modèles linguistiques",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes d'IA, connus sous le nom de grands modèles linguistiques (LLM), fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage. Bien qu'ils n'aient pas de base de données de faits codée en dur, ils peuvent faire des suppositions éclairées basées sur le contexte. L'article aborde également l'implication de LinkedIn dans l'utilisation des données des utilisateurs pour entraîner des modèles d'IA sans leur consentement explicite, ainsi que les changements structurels chez OpenAI, qui s'éloigne de son statut à but non lucratif. L'article mentionne ensuite les mises à jour de Google Gemini, les plans de Volkswagen pour des assistants vocaux en voiture alimentés par ChatGPT, et les réglementations proposées par la FCC pour divulguer l'utilisation de l'IA dans les appels robotisés.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Mon, 23 Sep 2024 18:46:27 GMT"
-    },
-    {
-        "title": "Megalopolis : l'expérience interactive",
-        "link": "https://www.theverge.com/2024/9/14/24244876/megalopolis-voice-recognition-tech-amazon-adam-driver-questions",
-        "body": "Le réalisateur Francis Ford Coppola avait envisagé d'utiliser un logiciel de reconnaissance vocale pour permettre aux spectateurs de poser des questions au personnage de Cesar, interprété par Adam Driver, lors des projections de son film *Megalopolis*. La réponse la plus pertinente de Driver aurait alors été projetée en fonction de la question posée. Bien que le projet ait été abandonné en grande partie à cause des licenciements chez Amazon en 2022, une version simplifiée a tout de même vu le jour dans certains cinémas lors de la sortie du film au Royaume-Uni. Pendant la projection, un homme est monté sur scène avec un micro et a posé une question à Driver, créant ainsi une expérience interactive unique.",
-        "image": "",
-        "date": "Mon, 23 Sep 2024 18:46:27 GMT"
-    },
-    {
-        "title": "L'avenir des sondages électoraux avec l'IA",
-        "link": "https://www.semafor.com/article/09/20/2024/ai-startup-aaru-uses-chatbots-instead-of-humans-for-political-polls",
-        "body": "Deux jeunes entrepreneurs de 19 ans, Cam Fink et Ned Koh, ont fondé Aaru, une startup qui utilise l'IA pour prédire les résultats des élections. Leur approche innovante consiste à ignorer les sondages traditionnels auprès des humains et à interroger des chatbots IA sur leurs préférences politiques. En utilisant les données du recensement pour répliquer les districts électoraux et en attribuant aux agents IA des traits de personnalité divers, Aaru parvient à simuler le comportement des électeurs. Cette méthode a permis de prédire avec précision l'issue d'une primaire démocrate à New York, devançant les sondages traditionnels. L'entreprise ambitionne de simuler l'ensemble des comportements globaux, des cultures aux élections locales. Bien que les grands modèles linguistiques puissent parfois se tromper, Aaru affirme que sa méthode améliore la précision et permet un suivi en temps réel de l'opinion publique, offrant ainsi un outil puissant pour les politiciens et les entreprises.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Mon, 23 Sep 2024 18:46:27 GMT"
     }
 ]
