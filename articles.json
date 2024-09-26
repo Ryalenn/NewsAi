@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Si vous souhaitez tester l’IA de YouTube il faudra passer à la caisse",
+        "title": "Si vous souhaitez tester l\u2019IA de YouTube il faudra passer \u00e0 la caisse",
         "link": "https://www.frandroid.com/android/2349456_si-vous-souhaitez-tester-lia-de-youtube-il-faudra-passer-a-la-caisse",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Tue, 24 Sep 2024 23:00:00 GMT",
@@ -292,5 +292,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f4cb99a646e8ef89c8d28b/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 26 Sep 2024 02:58:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/09/26/18-generative-ai-tools-transforming-customer-service/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f4fc138d5d16f6f876f5f9/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 26 Sep 2024 06:17:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/26/irked-about-openai-new-o1-model-losing-its-train-of-thought/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f491610dee1c0d8f6bfdc0/0x0.jpg?format=jpg&crop=1631,1222,x242,y0,safe&width=440",
+        "date": "Thu, 26 Sep 2024 05:37:00 GMT",
+        "check": "no"
     }
 ]
