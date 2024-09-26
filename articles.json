@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Si vous souhaitez tester l’IA de YouTube il faudra passer à la caisse",
+        "title": "Si vous souhaitez tester l\u2019IA de YouTube il faudra passer \u00e0 la caisse",
         "link": "https://www.frandroid.com/android/2349456_si-vous-souhaitez-tester-lia-de-youtube-il-faudra-passer-a-la-caisse",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Tue, 24 Sep 2024 23:00:00 GMT",
@@ -292,5 +292,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f47f00fe3e021932e84407/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 25 Sep 2024 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/09/25/vultr-expands-gpu-offerings-with-powerful-amd-instinct-mi300x/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f4cb99a646e8ef89c8d28b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 26 Sep 2024 02:58:00 GMT",
+        "check": "no"
     }
 ]
