@@ -1,20 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25636776/VST_0924_Site.jpg",
-        "date": "Tue, 24 Sep 2024 13:19:09 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/geruiwang/2024/09/24/how-tomorrows-chatbots-will-reshape-our-daily-life/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66edeffc62a62f5ea887f07f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 24 Sep 2024 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.theverge.com/2024/9/24/24253252/figma-ai-make-designs-first-draft-app-ui-generator",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25515612/STK273_FIGMA_D.jpg",
         "date": "Tue, 24 Sep 2024 17:25:09 GMT",
@@ -25,27 +11,6 @@
         "link": "https://www.theverge.com/2024/9/24/24253107/warner-bros-discovery-caption-ai-google-cloud-closed-captioning",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg",
         "date": "Tue, 24 Sep 2024 15:40:16 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/9/24/24252979/google-maps-updated-street-view-images",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png",
-        "date": "Tue, 24 Sep 2024 14:06:45 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1440x820/2400x1600/filters:focal(720x410:721x411):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25637289/_FTR_Header__AI_Playlist_Green.png",
-        "date": "Tue, 24 Sep 2024 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/24/this-21-billion-ai-company-is-making-tens-of-millions-in-revenue-by-automating-dull-workplace-tasks/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f2c99ae3e6f27f94788d5d/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 24 Sep 2024 15:00:00 GMT",
         "check": "yes"
     },
     {
@@ -105,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Si vous souhaitez tester l\u2019IA de YouTube il faudra passer \u00e0 la caisse",
+        "title": "Si vous souhaitez tester l’IA de YouTube il faudra passer à la caisse",
         "link": "https://www.frandroid.com/android/2349456_si-vous-souhaitez-tester-lia-de-youtube-il-faudra-passer-a-la-caisse",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/youtube-frandroid-illustration-4-1200x673-3-768x431.png?resize=168,168&key=f5ab6b21",
         "date": "Tue, 24 Sep 2024 23:00:00 GMT",
@@ -239,13 +204,6 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Tue, 24 Sep 2024 14:04:53 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.theverge.com/2024/9/25/24253712/meta-rayban-ai-features-reminders-translation-transparent-style",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25637474/247282_Meta_Ray_Ban_ltd_edition_VPavic_0042.jpg",
         "date": "Wed, 25 Sep 2024 17:38:48 GMT",
@@ -287,21 +245,21 @@
         "check": "yes"
     },
     {
-        "title": "Spotify : cette fonction qui fait vos playlists n\u2019est toujours pas disponible en France",
+        "title": "Spotify : cette fonction qui fait vos playlists n’est toujours pas disponible en France",
         "link": "https://www.frandroid.com/services/streaming-musical/2349962_spotify-cette-fonction-qui-fait-vos-playlists-nest-toujours-pas-disponible-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/img-5082-1200x900-1-768x576.jpg?resize=225,225&key=68325e31",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gemini : m\u00eame les premiers \u00e9couteurs Pixel Buds vont y avoir droit",
+        "title": "Gemini : même les premiers écouteurs Pixel Buds vont y avoir droit",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2350452_gemini-meme-les-premiers-ecouteurs-pixel-buds-vont-y-avoir-droit",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/google-pixel-buds-2-pro-images-officielles-2-1200x800-1-768x512.jpeg?resize=200,200&key=b06fb9d2",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des d\u00e9parts en pagaille et un changement probable de philosophie",
+        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des départs en pagaille et un changement probable de philosophie",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2350000_nouveaux-remous-chez-openai-chatgpt-des-departs-en-pagaille-et-un-changement-probable-de-philosophie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-spring-update-59-54-screenshot-1200x675-1-768x432.webp?resize=169,169&key=c3b2583a",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
