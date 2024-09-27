@@ -7,6 +7,13 @@
         "date": "Fri, 27 Sep 2024 06:19:00 GMT"
     },
     {
+        "title": "Le piège de la pensée irrationnelle",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/27/this-simple-prompting-act-surprisingly-befuddles-advanced-ai-especially-openai-new-o1-model/?ss=ai",
+        "body": "Bien qu'il soit communément admis que fournir plus d'informations est bénéfique pour la résolution de problèmes, cela peut parfois être contre-productif, en particulier avec l'IA. L'article met en lumière un problème intéressant avec l'IA générative, en particulier avec le nouveau modèle OpenAI o1, qui utilise systématiquement la \"chaîne de pensée\" (CoT). CoT est une approche de traitement qui vise à améliorer les performances de l'IA en l'orientant vers une pensée plus systématique et logique. Cependant, l'article souligne que l'inclusion d'informations superflues ou hors sujet dans les invites peut embrouiller l'IA, entraînant des réponses erronées ou illogiques. Ce problème est exacerbé par le fait que le modèle o1 utilise toujours CoT, ce qui signifie qu'il ne peut pas être désactivé ou contourné. L'article suggère plusieurs solutions, notamment l'amélioration de la capacité de l'IA à distinguer les informations pertinentes des informations non pertinentes, ainsi que l'utilisation d'invites interactives pour permettre à l'IA de clarifier les informations potentiellement hors sujet. En conclusion, l'article souligne l'importance de fournir des informations pertinentes à l'IA tout en évitant les détails inutiles qui pourraient nuire à ses performances.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f64e8619b8df2d76d1913f/0x0.jpg?format=jpg&crop=2049,1537,x143,y0,safe&width=440",
+        "date": "Fri, 27 Sep 2024 06:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : stratégies pour les dirigeants",
         "link": "https://www.forbes.com/sites/steveandriole/2024/09/26/how-executives-should-think-about-ai-in-23-questions/?ss=ai",
         "body": "Titre",
