@@ -154,21 +154,21 @@
         "check": "yes"
     },
     {
-        "title": "Spotify : cette fonction qui fait vos playlists n’est toujours pas disponible en France",
+        "title": "Spotify : cette fonction qui fait vos playlists n\u2019est toujours pas disponible en France",
         "link": "https://www.frandroid.com/services/streaming-musical/2349962_spotify-cette-fonction-qui-fait-vos-playlists-nest-toujours-pas-disponible-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/img-5082-1200x900-1-768x576.jpg?resize=225,225&key=68325e31",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gemini : même les premiers écouteurs Pixel Buds vont y avoir droit",
+        "title": "Gemini : m\u00eame les premiers \u00e9couteurs Pixel Buds vont y avoir droit",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2350452_gemini-meme-les-premiers-ecouteurs-pixel-buds-vont-y-avoir-droit",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/google-pixel-buds-2-pro-images-officielles-2-1200x800-1-768x512.jpeg?resize=200,200&key=b06fb9d2",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des départs en pagaille et un changement probable de philosophie",
+        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des d\u00e9parts en pagaille et un changement probable de philosophie",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2350000_nouveaux-remous-chez-openai-chatgpt-des-departs-en-pagaille-et-un-changement-probable-de-philosophie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-spring-update-59-54-screenshot-1200x675-1-768x432.webp?resize=169,169&key=c3b2583a",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
@@ -299,5 +299,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f64e8619b8df2d76d1913f/0x0.jpg?format=jpg&crop=2049,1537,x143,y0,safe&width=440",
         "date": "Fri, 27 Sep 2024 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/microsoft/2350758_comment-microsoft-veut-creer-une-ia-digne-de-confiance",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/maxresdefault-1200x675-1-768x432.jpg?resize=169,169&key=826ac2bf",
+        "date": "Thu, 26 Sep 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/2351510_nintendo-ne-veut-ni-de-lintelligence-artificielle-ni-de-la-guerre-des-consoles",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/miyamoto-apple-event-1000x563-1-768x432.jpg?resize=169,169&key=0a6ff545",
+        "date": "Thu, 26 Sep 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.chinalawtranslate.com/en/ai-content-labels/",
+        "image": "",
+        "date": "Fri, 27 Sep 2024 09:33:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
+        "date": "Fri, 27 Sep 2024 09:29:23 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.bbc.com/news/articles/cj4d5jjqg2qo",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):no_upscale():format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25299636/STK419_DEEPFAKE_CVIRGINIA_B.gif",
+        "date": "Thu, 26 Sep 2024 17:54:22 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/19/24249093/waymo-in-talks-with-hyundai-about-future-robotaxi-partnership",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25262997/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg",
+        "date": "Wed, 25 Sep 2024 21:18:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2024/09/27/bcgs-chatbot-gene-using-wider-context-windows-and-faster-inference/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f5dda1021e74a9a0676bb9/0x0.jpg?format=jpg&crop=3456,1943,x0,y175,safe&width=440",
+        "date": "Fri, 27 Sep 2024 10:00:00 GMT",
+        "check": "no"
     }
 ]
