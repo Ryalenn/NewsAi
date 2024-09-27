@@ -154,21 +154,21 @@
         "check": "yes"
     },
     {
-        "title": "Spotify : cette fonction qui fait vos playlists n’est toujours pas disponible en France",
+        "title": "Spotify : cette fonction qui fait vos playlists n\u2019est toujours pas disponible en France",
         "link": "https://www.frandroid.com/services/streaming-musical/2349962_spotify-cette-fonction-qui-fait-vos-playlists-nest-toujours-pas-disponible-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/img-5082-1200x900-1-768x576.jpg?resize=225,225&key=68325e31",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gemini : même les premiers écouteurs Pixel Buds vont y avoir droit",
+        "title": "Gemini : m\u00eame les premiers \u00e9couteurs Pixel Buds vont y avoir droit",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2350452_gemini-meme-les-premiers-ecouteurs-pixel-buds-vont-y-avoir-droit",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/google-pixel-buds-2-pro-images-officielles-2-1200x800-1-768x512.jpeg?resize=200,200&key=b06fb9d2",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des départs en pagaille et un changement probable de philosophie",
+        "title": "Nouveaux remous chez OpenAI (ChatGPT) : des d\u00e9parts en pagaille et un changement probable de philosophie",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2350000_nouveaux-remous-chez-openai-chatgpt-des-departs-en-pagaille-et-un-changement-probable-de-philosophie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/openai-spring-update-59-54-screenshot-1200x675-1-768x432.webp?resize=169,169&key=c3b2583a",
         "date": "Wed, 25 Sep 2024 23:00:00 GMT",
@@ -348,5 +348,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f5dda1021e74a9a0676bb9/0x0.jpg?format=jpg&crop=3456,1943,x0,y175,safe&width=440",
         "date": "Fri, 27 Sep 2024 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Gmail : les r\u00e9ponses sugg\u00e9r\u00e9es deviennent plus pertinentes et pratiques \u00e0 utiliser gr\u00e2ce \u00e0 l\u2019IA",
+        "link": "https://www.frandroid.com/marques/google/2352218_gmail-les-reponses-suggerees-deviennent-plus-pertinentes-et-pratiques-a-utiliser-grace-a-lia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/copy-of-logo-simple-f-1200x675-1-768x432.jpg?resize=169,169&key=cf8a9c70",
+        "date": "Thu, 26 Sep 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast",
+        "image": "",
+        "date": "Fri, 27 Sep 2024 13:03:08 GMT",
+        "check": "no"
     }
 ]
