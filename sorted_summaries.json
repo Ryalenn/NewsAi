@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'ère de l'IA en entreprise",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/09/27/how-to-embrace-the-enterprise-ai-era/?ss=ai",
+        "body": "Résumé : \n\nL'intelligence artificielle (IA) révolutionne le monde des affaires, et des leaders de l'industrie partagent leurs idées sur la mise en œuvre responsable de l'IA et les stratégies axées sur les données. Sridhar Ramaswamy, PDG de Snowflake, met en évidence l'importance des données comme élément fondamental des systèmes intelligents, soulignant la nécessité d'une stratégie de données robuste. Alors que les entreprises se précipitent pour adopter l'IA, une préoccupation croissante concernant l'utilisation responsable de ces outils puissants émerge. Ramaswamy souligne l'importance d'une approche réfléchie, avec un accent sur l'éthique et la prévention des abus. L'IA a un large éventail d'applications en entreprise, et Snowflake met en valeur la valeur de l'IA dans la résolution de divers défis commerciaux. Pour les entreprises qui se préparent pour l'ère de l'IA en entreprise, Ramaswamy offre plusieurs conseils clés, notamment de démystifier l'IA, de se concentrer sur la création de valeur et de développer des stratégies de données robustes. L'interopérabilité, la rupture des silos de données et une approche holistique de la mise en œuvre de l'IA sont également essentielles. Enfin, l'ère de l'IA en entreprise promet une innovation et une transformation sans précédent, et les organisations doivent se concentrer sur une mise en œuvre responsable et sur la création de valeur réelle pour réussir dans ce nouveau paysage.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f64e32435260b12f5a13b9/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 27 Sep 2024 06:19:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : stratégies pour les dirigeants",
         "link": "https://www.forbes.com/sites/steveandriole/2024/09/26/how-executives-should-think-about-ai-in-23-questions/?ss=ai",
         "body": "Titre",
@@ -285,26 +292,5 @@
         "body": "L'arrivée de l'IA générative a rendu possible le clonage de la voix humaine, posant de nouveaux défis en matière de protection de l'identité et du droit d'auteur. Le YouTubeur Jeff Geerling a découvert qu'une entreprise avait utilisé un logiciel d'IA pour copier sa voix et créer des tutoriels de produits. Cet incident soulève des inquiétudes quant à la facilité avec laquelle l'IA peut être utilisée pour usurper l'identité et enfreindre les droits d'auteur, avec peu de réglementations en place. Des outils comme AI Voice Detector et Eleven Labs AI Speech Classifier peuvent détecter les voix générées par l'IA, mais des protections plus strictes sont nécessaires. D'autres cas notables incluent l'allégation de Scarlett Johansson selon laquelle OpenAI aurait cloné sa voix, et l'utilisation de l'IA par un consultant politique pour créer de faux appels automatisés. Les escrocs n'ont besoin que de quelques secondes d'audio pour créer un clone vocal convaincant, ce qui rend les gens vulnérables aux arnaques. La sensibilisation et les mots de passe secrets peuvent aider à se protéger contre ces attaques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f2fa23ce79ea36d3d11f69/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 25 Sep 2024 17:00:00 GMT"
-    },
-    {
-        "title": "L'art de la conception de prompts",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/09/25/how-to-write-amazing-generative-ai-prompts/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f3a9d86dfaed820875fcbd/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 25 Sep 2024 06:14:00 GMT"
-    },
-    {
-        "title": "L'avènement de l'IA générative : une nouvelle pile technologique",
-        "link": "https://www.forbes.com/sites/janakirammsv/2024/09/25/if-generative-ai-is-the-new-operating-system-agents-are-the-new-apps/?ss=ai",
-        "body": "Résumé : \n\nL'IA générative évolue rapidement pour devenir une pile technologique parallèle, remettant en question les systèmes d'exploitation traditionnels comme Windows, Linux et Unix. Ce changement de paradigme a des implications profondes sur la manière dont les organisations fonctionnent, innovent et concurrencent. L'article explore comment l'IA générative, avec son intégration dans l'infrastructure informatique, est en train de redéfinir les applications, les modèles informatiques et les stratégies commerciales. Les auteurs soulignent l'importance pour les dirigeants technologiques (CXOs) de comprendre cette évolution, car elle offre des opportunités de transformation des opérations et d'obtention d'un avantage concurrentiel. Ils mettent en évidence le rôle des agents IA, qui vont au-delà de l'automatisation simple, en agissant comme des assistants personnalisés, en rationalisant les flux de travail et en prenant des décisions éclairées. En adoptant cette nouvelle pile, en redéfinissant l'infrastructure informatique, en exploitant les agents IA et en investissant dans les talents et la culture de l'innovation, les entreprises peuvent prospérer dans cette nouvelle ère numérique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f3afd8098d3497db47ca0b/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 25 Sep 2024 06:00:00 GMT"
-    },
-    {
-        "title": "La force et la faiblesse de la chaîne de pensée dans l'IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/09/25/poetic-irony-that-openai-o1-new-superpower-artificially-convinces-you-that-pigs-can-fly/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/643ee55c832bb162a41e5605/0x0.jpg?format=jpg&crop=4248,3183,x200,y0,safe&width=440",
-        "date": "Wed, 25 Sep 2024 04:00:00 GMT"
     }
 ]
