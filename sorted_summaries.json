@@ -7,6 +7,13 @@
         "date": "Sun, 29 Sep 2024 15:00:00 GMT"
     },
     {
+        "title": "Apple's Smart Home Ambitions",
+        "link": "https://www.theverge.com/2024/9/29/24257391/apple-smart-home-display-homeos-apple-intelligence-homepod-ipad-robot",
+        "body": "Apple prévoit de s'attaquer au marché de la maison intelligente avec un nouvel écran intelligent fonctionnant sous homeOS, un système d'exploitation basé sur tvOS. Cet écran, qui pourrait sortir dès l'année prochaine, exécutera des applications Apple telles que Calendar, Notes et Home, et prendra en charge Apple Intelligence, une fonctionnalité actuellement absente des HomePods. Les prototypes testés incluent des aimants pour une fixation murale facile. Les rumeurs sur ce dispositif circulent depuis un moment, avec des conceptions allant d'un HomePod avec écran à un écran fixé à un bras robotisé. Cependant, les récents bruits de couloir suggèrent un appareil plus conventionnel, contrôlable à distance par des gestes de la main. Des indices dans le code font référence à l'appareil et à homeOS. L'écran intelligent offrirait une alternative plus pratique et économique à l'utilisation d'un iPad comme contrôleur de maison intelligente.",
+        "image": "",
+        "date": "Sun, 29 Sep 2024 14:43:10 GMT"
+    },
+    {
         "title": "Réinventer l'interaction humain-machine",
         "link": "https://www.theverge.com/24255887/social-ai-bots-social-network-chatgpt-vergecast",
         "body": "L'article présente SocialAI, une application innovante développée par Michael Sayman, qui propose un réseau social où tous les utilisateurs, à l'exception de l'utilisateur principal, sont des bots IA. L'application a suscité des réactions mitigées, certains la trouvant amusante et utile, tandis que d'autres la percevant comme une vision dystopienne. Sayman considère SocialAI comme une nouvelle façon d'interagir avec les modèles IA, offrant des options et des filtres sous forme de réponses, plutôt qu'une simple boîte de dialogue. L'interface familière des réseaux sociaux est utilisée pour offrir une expérience sociale et interactive, permettant aux utilisateurs de guider leurs propres aventures IA. Sayman envisage l'avenir de l'IA comme allant au-delà des simples boîtes de dialogue, et voit un potentiel dans SocialAI pour offrir une connexion secondaire lorsque les interactions humaines ne sont pas disponibles.",
@@ -54,19 +61,5 @@
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur des modèles linguistiques volumineux plus accessibles au grand public. Ces systèmes d'IA utilisent des programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de « faits », ils peuvent présenter des informations fausses comme vraies. OpenAI, avec son modèle o1, vise une IA plus humaine, capable de résoudre des problèmes complexes plus rapidement qu'un humain. Dans le même temps, Google améliore son chatbot Gemini, et Meta commence à utiliser les données publiques de Facebook et Instagram au Royaume-Uni pour entraîner ses produits IA. Ces développements soulèvent des questions éthiques, comme en témoigne le débat autour du projet de loi californien sur la réglementation de l'IA.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Fri, 27 Sep 2024 21:30:30 GMT"
-    },
-    {
-        "title": "La chute d'OpenAI",
-        "link": "https://www.theverge.com/2024/9/27/24255177/openai-safety-mira-murati-quit-sam-altman-cofounders-exodus",
-        "body": "L'article explore les récents bouleversements au sein d'OpenAI, une entreprise d'intelligence artificielle (IA) qui a connu une ascension fulgurante dans la Silicon Valley. Fondée avec une mission altruiste, OpenAI est désormais confrontée à des tensions entre ses objectifs initiaux et sa quête de rentabilité. Le PDG Sam Altman consolide son pouvoir après une tentative de renvoi par le conseil d'administration, tandis que plusieurs cadres supérieurs, dont la directrice de la technologie, quittent l'entreprise. OpenAI envisage de passer à un modèle à but lucratif, ce qui soulève des inquiétudes quant à l'équilibre entre la recherche en IA et la création de produits rentables. Malgré les assurances d'Altman, cette transition soulève des questions sur l'engagement d'OpenAI envers la sécurité et les avantages pour l'humanité. L'article souligne également la concurrence croissante d'autres startups d'IA et les préoccupations concernant la priorité accordée aux lancements rapides par rapport à la prudence et à la sécurité.",
-        "image": "",
-        "date": "Fri, 27 Sep 2024 20:58:38 GMT"
-    },
-    {
-        "title": "L'Ukraine utilise des avatars générés par l'IA pour fournir des informations sur les services sociaux",
-        "link": "https://www.forbes.com/sites/lesliekatz/2024/09/27/ai-generated-humans-will-help-ukrainians-access-vital-services-amid-war/?ss=ai",
-        "body": "Résumé : Le gouvernement ukrainien utilise des avatars générés par l'IA, comme Ada, pour aider les citoyens à accéder aux services sociaux en ligne, notamment les pensions, les allocations de chômage et l'aide au logement. Ces avatars font partie d'une campagne d'information sur une nouvelle plateforme en ligne centralisant les services sociaux. La situation de guerre et les contraintes budgétaires ont poussé le ministère de la Protection sociale à adopter cette approche innovante. La plateforme Synthesia, qui propose une vaste bibliothèque d'avatars et de voix générées par l'IA, a été choisie pour créer les vidéos explicatives. L'avantage de cette méthode est la rapidité et le faible coût de production, ainsi qu'une meilleure engagement des citoyens via les réseaux sociaux. Le partenariat entre Synthesia et le ministère a déjà permis de former 20 000 professionnels des services sociaux et d'autres vidéos sont prévues. L'Ukraine avait déjà utilisé des avatars générés par l'IA par le passé, notamment avec la création d'une porte-parole virtuelle pour le ministère des Affaires étrangères.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f6f667dcaa2c25763fcdd2/0x0.jpg?format=jpg&crop=1047,541,x24,y18,safe&width=440",
-        "date": "Fri, 27 Sep 2024 19:00:00 GMT"
     }
 ]
