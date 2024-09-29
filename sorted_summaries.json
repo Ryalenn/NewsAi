@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI dans la tourmente",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2353298_openai-en-crise-pourquoi-apple-aurait-jete-leponge",
+        "body": "OpenAI, l'entreprise à l'origine de ChatGPT, est confrontée à des difficultés. Des démissions en série, des scandales financiers et des dilemmes éthiques menacent son existence. Les employés s'inquiètent d'un éloignement de la mission originelle de l'entreprise, qui visait à créer une IA bénéfique pour l'humanité. La course aux profits et à l'innovation semble prendre le pas sur les valeurs éthiques. De plus, malgré des revenus mensuels importants, l'entreprise est dans le rouge en raison des coûts élevés de développement et de maintenance des modèles d'IA. La recherche de fonds devient une priorité, mais les investisseurs potentiels, comme Apple, se font rares. La gestion de l'entreprise par Sam Altman est remise en question, et les employés se plaignent d'un manque de direction claire. Les conflits internes et les rivalités s'intensifient, ce qui contribue à un climat d'incertitude au sein d'OpenAI.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/image-15-15-768x512.jpg?resize=200,200&key=c52102f8",
+        "date": "Sat, 28 Sep 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'artiste contre l'Office",
         "link": "https://www.forbes.com/sites/rashishrivastava/2024/09/28/why-this-artist-is-suing-the-us-copyright-office-to-protect-his-ai-generated-images/?ss=ai",
         "body": "Résumé : Jason Allen, un concepteur de jeux de société devenu créateur numérique, utilise l'IA pour créer des illustrations élaborées. Malgré ses centaines d'heures de travail et de minutieux ajustements, l'Office américain du droit d'auteur refuse de protéger son œuvre, arguant un manque de « créativité humaine ». Allen intente un procès, soulignant l'ironie de la situation : son œuvre, intitulée « Théâtre D'opéra Spatial », est plagiée et vendue par d'autres artistes. Cet incident s'inscrit dans un débat plus large sur la légalité de l'utilisation de données protégées par le droit d'auteur pour entraîner des systèmes d'IA. Les artistes et créateurs s'interrogent sur la propriété et la protection de leurs œuvres créées avec l'aide de l'IA. Allen, qui se considère comme un créateur numérique plutôt qu'un artiste, souhaite que ses illustrations générées par l'IA soient protégées par le droit d'auteur.",
@@ -82,19 +89,5 @@
         "body": "Bien que les lunettes intelligentes de Meta, baptisées Orion, ne soient pas disponibles à la vente, elles représentent une déclaration d'intention de la part de l'entreprise : l'avenir appartient aux lunettes de réalité augmentée. David Pierce et Alex Heath, de The Verge, discutent de leur expérience avec Orion, y compris une partie de Pong avec le PDG de Meta, Mark Zuckerberg. L'épisode de Vergecast explore également les autres annonces de Meta Connect, notamment de nouveaux casques de VR, des célébrités IA et des modes vocaux. L'équipe aborde également les changements chez OpenAI et présente un tour d'horizon de l'actualité des gadgets AI, notamment le profil de Jony Ive, la PS5 Pro et les derniers gadgets de Google.",
         "image": "",
         "date": "Fri, 27 Sep 2024 13:03:08 GMT"
-    },
-    {
-        "title": "GENE, l'agent conversationnel de BCG",
-        "link": "https://www.forbes.com/sites/craigsmith/2024/09/27/bcgs-chatbot-gene-using-wider-context-windows-and-faster-inference/?ss=ai",
-        "body": "Boston Consulting Group (BCG) a développé GENE, un agent conversationnel basé sur des modèles linguistiques de grande taille, comme preuve de concept pour ses clients. GENE se distingue par son utilisation innovante de fenêtres de contexte élargies et de l'inférence rapide, plutôt que des bases de données de vecteurs et de la génération augmentée de la récupération (RAG). GENE est construit sur de grands modèles linguistiques, actuellement GPT-4o, avec un réglage fin et une personnalisation supplémentaires. Il utilise une voix personnalisée, intentionnellement robotique pour la transparence. Au lieu de bases de données externes, GENE utilise une longue invite, ou \"directive première\", qui définit son comportement de base et ses connaissances, et peut être modifiée à la volée. Cette approche simplifie l'architecture et améliore les performances, offrant une alternative convaincante aux méthodes traditionnelles. GENE est actuellement utilisé pour co-animer des podcasts, synthétiser du contenu, participer à des événements en direct et démontrer les capacités d'IA de BCG. BCG envisage un avenir où l'IA améliorera de nombreux rôles exécutifs dans les entreprises Fortune 500, améliorant la prise de décision et libérant du temps pour la réflexion stratégique et l'innovation. L'exploration de BCG avec GENE souligne l'importance de la maîtrise de la technologie des chatbots, car elle sert de tremplin vers des capacités d'IA plus avancées, tout en abordant les questions d'éthique, de biais et de sécurité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f5dda1021e74a9a0676bb9/0x0.jpg?format=jpg&crop=3456,1943,x0,y175,safe&width=440",
-        "date": "Fri, 27 Sep 2024 10:00:00 GMT"
-    },
-    {
-        "title": "Gmail introduit des réponses intelligentes contextuelles",
-        "link": "https://www.theverge.com/2024/9/27/24255722/google-gemini-gmail-contextual-smart-replies-availability",
-        "body": "Google met à jour Gmail avec des \"Réponses intelligentes contextuelles\" qui offrent des suggestions de réponses plus détaillées et adaptées au contenu de l'e-mail. Les utilisateurs peuvent prévisualiser les suggestions, les modifier ou les envoyer directement. Cette fonctionnalité, disponible pour certains abonnés Gemini, vise à gagner du temps et à améliorer la variété des réponses automatisées.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3000x2000/2400x1600/filters:focal(1500x1000:1501x1001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954509/acastro_STK459_11.jpg",
-        "date": "Fri, 27 Sep 2024 09:29:23 GMT"
     }
 ]
