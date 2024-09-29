@@ -110,47 +110,5 @@
         "body": "Bien qu'il soit communément admis que fournir plus d'informations est bénéfique pour la résolution de problèmes, cela peut parfois être contre-productif, en particulier avec l'IA. L'article met en lumière un problème intéressant avec l'IA générative, en particulier avec le nouveau modèle OpenAI o1, qui utilise systématiquement la \"chaîne de pensée\" (CoT). CoT est une approche de traitement qui vise à améliorer les performances de l'IA en l'orientant vers une pensée plus systématique et logique. Cependant, l'article souligne que l'inclusion d'informations superflues ou hors sujet dans les invites peut embrouiller l'IA, entraînant des réponses erronées ou illogiques. Ce problème est exacerbé par le fait que le modèle o1 utilise toujours CoT, ce qui signifie qu'il ne peut pas être désactivé ou contourné. L'article suggère plusieurs solutions, notamment l'amélioration de la capacité de l'IA à distinguer les informations pertinentes des informations non pertinentes, ainsi que l'utilisation d'invites interactives pour permettre à l'IA de clarifier les informations potentiellement hors sujet. En conclusion, l'article souligne l'importance de fournir des informations pertinentes à l'IA tout en évitant les détails inutiles qui pourraient nuire à ses performances.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f64e8619b8df2d76d1913f/0x0.jpg?format=jpg&crop=2049,1537,x143,y0,safe&width=440",
         "date": "Fri, 27 Sep 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de Gmail grâce à l'IA",
-        "link": "https://www.frandroid.com/marques/google/2352218_gmail-les-reponses-suggerees-deviennent-plus-pertinentes-et-pratiques-a-utiliser-grace-a-lia",
-        "body": "Gmail, à l'avant-garde de l'utilisation de l'IA chez Google, intègre désormais Gemini, améliorant ainsi les réponses suggérées. L'IA résume les messages, suggère ou génère des réponses adaptées au contexte et au style d'écriture de l'utilisateur. Les réponses sont plus complètes et polies, incluant des formules d'appel et de politesse. Disponible sur iOS et Android, cette fonctionnalité n'est pour l'instant offerte qu'en anglais et à certains utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/copy-of-logo-simple-f-1200x675-1-768x432.jpg?resize=169,169&key=cf8a9c70",
-        "date": "Thu, 26 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Microsoft et la correction en temps réel",
-        "link": "https://www.frandroid.com/marques/microsoft/2350758_comment-microsoft-veut-creer-une-ia-digne-de-confiance",
-        "body": "Microsoft présente un nouvel outil d'IA, \"Correction\", qui vise à traiter les réponses aberrantes générées par les modèles linguistiques. Cet outil, intégré à l'API Azure AI Content Safety, corrige en temps réel les erreurs de l'IA, garantissant ainsi une expérience plus fiable pour les utilisateurs. Bien que certains experts suggèrent qu'éliminer ces erreurs pourrait être impossible, Microsoft souligne l'importance de promouvoir une IA digne de confiance, en mettant l'accent sur la sécurité, la confidentialité et la fiabilité. L'outil \"Correction\" de Microsoft démontre l'engagement de l'entreprise à améliorer la précision et la pertinence des réponses de l'IA, tout en reconnaissant les défis inhérents à la technologie de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/maxresdefault-1200x675-1-768x432.jpg?resize=169,169&key=826ac2bf",
-        "date": "Thu, 26 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La résistance de Nintendo face à la tendance de l'IA générative",
-        "link": "https://www.frandroid.com/marques/2351510_nintendo-ne-veut-ni-de-lintelligence-artificielle-ni-de-la-guerre-des-consoles",
-        "body": "Dans une industrie du jeu vidéo de plus en plus dominée par l'intelligence artificielle générative, Nintendo adopte une approche différente. Shigeru Miyamoto, directeur général de Nintendo, a déclaré au New York Times que la société n'avait pas l'intention de suivre aveuglément la tendance de l'IA. Bien qu'il ne s'agisse pas de s'opposer complètement à l'IA, Nintendo souhaite préserver son originalité et éviter la « guerre des consoles » axée sur les performances techniques. La déclaration de Miyamoto clarifie la position de la société, déjà suggérée par le PDG de Nintendo, qui avait exprimé des préoccupations concernant les problèmes de propriété intellectuelle liés à l'IA générative. Cette position contraste avec celle d'entreprises comme Electronic Arts et Nvidia, qui font l'éloge de l'IA et de son potentiel pour l'industrie.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/miyamoto-apple-event-1000x563-1-768x432.jpg?resize=169,169&key=0a6ff545",
-        "date": "Thu, 26 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : stratégies pour les dirigeants",
-        "link": "https://www.forbes.com/sites/steveandriole/2024/09/26/how-executives-should-think-about-ai-in-23-questions/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f099373ab6e61ba846b58f/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 26 Sep 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Le futur de la réalité mixte",
-        "link": "https://www.forbes.com/sites/esatdedezade/2024/09/26/the-biggest-announcements-from-meta-connect-2024-prototype-ar-glasses-quest-3s-and-ai/?ss=ai",
-        "body": "Meta, dirigée par Mark Zuckerberg, a dévoilé une série de produits et de fonctionnalités axés sur la réalité mixte et l'intelligence artificielle lors de sa conférence annuelle Connect. Les annonces incluent :\n\n- Les lunettes de réalité augmentée Orion, qui superposent des informations virtuelles sur la vision de l'utilisateur grâce à la diffraction de la lumière, créant des projections holographiques.\n- Le casque de réalité mixte Quest 3S, une version plus abordable offrant des fonctionnalités de base de réalité mixte et une intégration avec Windows 11 PCs.\n- L'assistant IA de Meta, désormais capable de traiter à la fois les images et le texte, et doté de capacités vocales avec des voix de célébrités.\n- Des mises à jour des lunettes de soleil intelligentes Ray-Ban Meta, avec une meilleure intégration de l'IA, la traduction en temps réel et des partenariats de contenu élargis.\n\nMeta investit fortement dans la réalité mixte et l'IA, envisageant un avenir où les réalités numérique et physique sont étroitement intégrées. Les annonces de Connect 2024 soulignent l'engagement de l'entreprise à façonner l'interaction humain-ordinateur, avec des produits qui pourraient changer la façon dont les utilisateurs interagissent avec les informations numériques dans leur vie quotidienne.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f5c89214975c44d80bbc32/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 26 Sep 2024 22:25:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'informatique et de la connexion humaine",
-        "link": "https://www.forbes.com/sites/charliefink/2024/09/26/metas-many-xr-updates-distance-technologies-raises-11m-for-3d-without-glasses/?ss=ai",
-        "body": "Meta a dévoilé un prototype de lunettes d'ordinateur capable d'afficher des objets numériques sur des verres transparents, indiquant la direction future de l'informatique et de la connexion humaine. Le prototype, nommé Orion, est un casque de réalité augmentée trop coûteux pour être produit, avec une technologie de vision transparente réelle et un large champ de vision. Meta AI intègre également des voix de célébrités à son assistant IA, qui sera disponible sur Instagram, WhatsApp, Messenger et Facebook. De plus, les lunettes de soleil intelligentes Meta Ray-Ban sont améliorées avec des fonctionnalités d'IA supplémentaires, notamment la traduction de conversations en plusieurs langues. L'entreprise Distance Technologies lève des fonds pour son affichage holographique, visant les marchés de l'automobile, de l'aérospatiale et de la défense. Civitai présente SPINE, un flux de travail consolidé qui intègre des outils d'IA générative pour la génération d'images, de vidéos et de musique. Zapbox, un casque XR alimenté par iPhone, est maintenant disponible à un prix abordable, offrant une expérience immersive avec un large champ de vision. Enfin, plusieurs initiatives liées à l'IA générative dans le cinéma et les jeux sont en cours, avec des entreprises telles que RunwayML, Alchemy et MASSIVE, qui repoussent les limites des possibilités créatives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f5d4cb75f6d48c9a4cdb04/0x0.jpg?format=jpg&crop=2546,1433,x0,y127,safe&width=440",
-        "date": "Thu, 26 Sep 2024 22:00:00 GMT"
     }
 ]
