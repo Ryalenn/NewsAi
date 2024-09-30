@@ -1,6 +1,6 @@
 [
     {
-        "title": "OpenAI en crise : pourquoi Apple aurait jeté l’éponge",
+        "title": "OpenAI en crise : pourquoi Apple aurait jet\u00e9 l\u2019\u00e9ponge",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2353298_openai-en-crise-pourquoi-apple-aurait-jete-leponge",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/image-15-15-768x512.jpg?resize=200,200&key=c52102f8",
         "date": "Sat, 28 Sep 2024 23:00:00 GMT",
@@ -89,5 +89,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66fa9a44db109fba2e9321e0/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 30 Sep 2024 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2024/09/30/agentforce-from-salesforce-impacts-on-enterprise-data-erp-and-scm/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fad3c1f59b637b415ddbcd/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 30 Sep 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/geruiwang/2024/09/30/meta-orion-ar-glasses-dazzle-our-eyes-but-will-they-obscure-our-minds/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fa38b0a74ee014b0d1ff9c/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 30 Sep 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
