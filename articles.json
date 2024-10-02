@@ -133,14 +133,14 @@
         "check": "yes"
     },
     {
-        "title": "Circle to Search : la fonction de recherche devrait s’étendre aux vidéos",
+        "title": "Circle to Search : la fonction de recherche devrait s\u2019\u00e9tendre aux vid\u00e9os",
         "link": "https://www.frandroid.com/marques/google/2355574_circle-to-search-la-fonction-de-recherche-devrait-setendre-aux-videos",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/circle-to-search-1200x848-1-768x543.webp?resize=212,212&key=67f9b6a7",
         "date": "Mon, 30 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Paint devient le cocréateur de vos dessins grâce au remplissage génératif",
+        "title": "Paint devient le cocr\u00e9ateur de vos dessins gr\u00e2ce au remplissage g\u00e9n\u00e9ratif",
         "link": "https://www.frandroid.com/marques/microsoft/2352556_comment-paint-veut-remplacer-le-firefly-de-photoshop",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/windows-xp-paint-revisite-1200x675-1-768x432.jpeg?resize=169,169&key=1c46d8eb",
         "date": "Mon, 30 Sep 2024 23:00:00 GMT",
@@ -194,5 +194,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66fc7fb0371ad2f795a544c0/0x0.jpg?format=jpg&crop=1584,891,x0,y81,safe&width=440",
         "date": "Tue, 01 Oct 2024 22:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/10/02/why-hybrid-ai-is-the-next-big-thing-in-tech/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fcdc589e002dcb85799ece/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Oct 2024 05:40:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/10/02/on-using-chatgpt-and-generative-ai-to-figure-out-if-you-have-low-iq/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/623cf233e9cd7e6052c8524d/0x0.jpg?format=jpg&crop=1857,1238,x0,y0,safe&width=440",
+        "date": "Wed, 02 Oct 2024 05:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/cathyrubin/2024/10/02/the-future-of-work-new-skills-for-thriving-in-the-ai-driven-economy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fc9921707e77497c1827d8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Oct 2024 04:00:00 GMT",
+        "check": "no"
     }
 ]
