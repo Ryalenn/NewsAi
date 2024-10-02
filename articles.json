@@ -154,14 +154,14 @@
         "check": "yes"
     },
     {
-        "title": "Circle to Search : la fonction de recherche devrait s’étendre aux vidéos",
+        "title": "Circle to Search : la fonction de recherche devrait s\u2019\u00e9tendre aux vid\u00e9os",
         "link": "https://www.frandroid.com/marques/google/2355574_circle-to-search-la-fonction-de-recherche-devrait-setendre-aux-videos",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/circle-to-search-1200x848-1-768x543.webp?resize=212,212&key=67f9b6a7",
         "date": "Mon, 30 Sep 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Paint devient le cocréateur de vos dessins grâce au remplissage génératif",
+        "title": "Paint devient le cocr\u00e9ateur de vos dessins gr\u00e2ce au remplissage g\u00e9n\u00e9ratif",
         "link": "https://www.frandroid.com/marques/microsoft/2352556_comment-paint-veut-remplacer-le-firefly-de-photoshop",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/windows-xp-paint-revisite-1200x675-1-768x432.jpeg?resize=169,169&key=1c46d8eb",
         "date": "Mon, 30 Sep 2024 23:00:00 GMT",
@@ -194,5 +194,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66fbfb369376254d2802f20c/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Oct 2024 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/danielnewman/2024/10/01/as-ai-growth-explodes-will-saas-come-crashing-down/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fc85ce59a145641386be50/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Oct 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/10/01/vast-datas-new-features-and-partnerships-transform-enterprise-ai-workflows/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fc7f33a9600f829338d045/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Oct 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2024/10/01/breaking-down-the-latest-ai-developer-benchmark-from-codesignal/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fc7fb0371ad2f795a544c0/0x0.jpg?format=jpg&crop=1584,891,x0,y81,safe&width=440",
+        "date": "Tue, 01 Oct 2024 22:00:00 GMT",
+        "check": "no"
     }
 ]
