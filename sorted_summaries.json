@@ -208,12 +208,5 @@
         "body": "Résumé : \n\nWispr, une startup, lance un nouveau logiciel de dictée, Wispr Flow, qui pourrait révolutionner la manière dont nous entrons du texte dans nos ordinateurs, en remplaçant potentiellement le clavier traditionnel. Wispr Flow utilise la voix pour dicter du texte, qui apparaît instantanément à l'écran dans le style d'écriture de l'utilisateur. Le logiciel est capable de supprimer les tics verbaux et de formater le texte pour une clarté et une lisibilité optimales. Il prend également en charge plus de 100 langues et offre un mode de chuchotement pour dicter des informations sensibles. Wispr Flow est conçu pour améliorer la productivité, en particulier pour les professionnels occupés, les créateurs de contenu et les développeurs, et peut être particulièrement bénéfique pour les personnes ayant des handicaps. Le logiciel est disponible gratuitement pour macOS, avec des plans Pro et Business à partir de 12 $ par mois.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66f7ce9a9f4f63b84d04655f/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 30 Sep 2024 11:59:00 GMT"
-    },
-    {
-        "title": "Raspberry Pi lance un module de caméra IA abordable",
-        "link": "https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability",
-        "body": "Résumé : Raspberry Pi et Sony ont co-développé un nouveau module de caméra IA Raspberry Pi, offrant un traitement d'images IA intégré à un prix abordable de 70 $. Le module, compatible avec tous les ordinateurs mono-carte Raspberry Pi, associe le microcontrôleur RP2040 de Raspberry Pi à un capteur d'image IMX500 de Sony, capable de gérer le traitement IA. Cette combinaison élimine le besoin de composants supplémentaires coûteux, tels que des accélérateurs ou des GPU, souvent nécessaires pour gérer des données visuelles à grande échelle. La caméra IA de 12,3 mégapixels peut capturer des images à 10 images par seconde en 4056 x 3040 ou à 40 images par seconde en 2028 x 1520, offrant ainsi une flexibilité aux développeurs. Ce lancement s'inscrit dans le cadre du plan de Raspberry Pi visant à proposer des puces et des modules supplémentaires pour les développeurs d'IA, élargissant ainsi les possibilités de création de solutions d'IA aux marges.",
-        "image": "",
-        "date": "Mon, 30 Sep 2024 08:53:02 GMT"
     }
 ]
