@@ -1,62 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/2024/10/1/24259209/microsoft-ai-ceo-mustafa-suleyman-copilot-ai-companion-memo",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:5504x3670/2400x1600/filters:focal(2752x1835:2753x1836):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652471/1935721560.jpg",
-        "date": "Tue, 01 Oct 2024 14:05:08 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/10/1/24259239/microsoft-paint-generative-erase-fill-photos-upscaling",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2400/2400x1600/filters:focal(1920x1200:1921x1201):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652496/Generative_Erase_in_Paint.png",
-        "date": "Tue, 01 Oct 2024 14:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2640x1760/2400x1600/filters:focal(1320x880:1321x881):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652460/copilothed.jpg",
-        "date": "Tue, 01 Oct 2024 14:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg",
-        "date": "Tue, 01 Oct 2024 14:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/10/01/ai-making-pdfs-into-podcasts-the-future-is-here-now/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66fbf4b4c4e643925c4d10d2/0x0.jpg?format=jpg&crop=4000,2250,x0,y118,safe&width=440",
-        "date": "Tue, 01 Oct 2024 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/gillianoakenfull/2024/10/01/how-mondelez-humanizes-ai-with-empathy-for-powerful-marketing/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66fad2872bbe31e21cb3729e/0x0.jpg?format=jpg&crop=1933,905,x0,y189,safe&width=440",
-        "date": "Tue, 01 Oct 2024 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/torconstantino/2024/10/01/5-critical-ai-issues-every-business-must-navigate/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66fae855186373dcef549be1/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Oct 2024 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows",
-        "image": "",
-        "date": "Tue, 01 Oct 2024 14:05:26 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/rashishrivastava/2024/10/01/the-prompt-youtuber-accuses-company-of-stealing-his-voice/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66fc49cf042ffe5cd798906c/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Oct 2024 19:00:00 GMT",
@@ -67,13 +11,6 @@
         "link": "https://www.forbes.com/sites/corneliawalther/2024/10/01/5-ways-to-optimize-your-brain-not-because-but-in-spite-of-ai/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66fc1fb726dda947a965e431/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Oct 2024 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/aytekintank/2024/10/01/5-chatgpt-prompts-to-validate-your-business-ideas/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66fbfb369376254d2802f20c/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Oct 2024 13:00:00 GMT",
         "check": "yes"
     },
     {
@@ -133,14 +70,14 @@
         "check": "yes"
     },
     {
-        "title": "Cette nouveaut\u00e9 de Gmail va vous faire gagner du temps",
+        "title": "Cette nouveauté de Gmail va vous faire gagner du temps",
         "link": "https://www.frandroid.com/android/applications/2357260_cette-nouveaute-de-gmail-va-vous-faire-gagner-du-temps",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/Gmail-2-scaled-1-1200x675-1-768x432.webp?resize=169,169&key=ed36393f",
         "date": "Tue, 01 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Copilot d\u00e9barque sur WhatsApp, on vous montre comment l\u2019activer",
+        "title": "Copilot débarque sur WhatsApp, on vous montre comment l’activer",
         "link": "https://www.frandroid.com/marques/microsoft/2356778_copilot-debarque-sur-whatsapp-on-vous-montre-comment-lactiver",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=4b4c0a3b",
         "date": "Tue, 01 Oct 2024 23:00:00 GMT",
@@ -196,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "157 milliards de valorisation pour le cr\u00e9ateur de ChatGPT apr\u00e8s une lev\u00e9e de fonds records",
+        "title": "157 milliards de valorisation pour le créateur de ChatGPT après une levée de fonds records",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2357348_157-milliards-de-valorisation-pour-le-createur-de-chatgpt-apres-une-levee-de-fonds-records",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/altman-dev-day-8-1200x801-1-768x513.jpg?resize=200,200&key=0715f0e7",
         "date": "Wed, 02 Oct 2024 23:00:00 GMT",
