@@ -1,31 +1,10 @@
 [
     {
-        "title": "Google étend les capacités de Gemini avec les Pixel Buds Pro",
-        "link": "https://www.frandroid.com/marques/google/2359680_si-vous-avez-les-pixel-buds-pro-ne-passez-pas-a-cote-de-cette-mise-a-jour",
-        "body": "Google continue d'améliorer son IA Gemini et élargit désormais ses fonctionnalités aux Pixel Buds Pro de première génération. En configurant Gemini comme assistant vocal par défaut sur un smartphone Android et en activant la commande vocale \"Hey Google\", les utilisateurs peuvent accéder à Gemini via les écouteurs dans les régions où l'IA est disponible. Gemini peut répondre aux questions, traiter les requêtes et lire à voix haute les derniers messages reçus. De plus, la fonctionnalité Gemini Live, qui permet des conversations fluides avec l'IA, est également accessible sans abonnement supplémentaire. Google a également introduit l'option \"Un seul déverrouillage nécessaire\", qui permet d'accéder aux réponses personnalisées de Gemini en déverrouillant simplement le smartphone une fois, tant que les écouteurs restent connectés. La mise à jour est actuellement en cours de déploiement, et les autres anciennes versions de Pixel Buds devraient également recevoir ces fonctionnalités dans les jours et semaines à venir.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/google-pixel-buds-pro-14-1200x750-1-768x480.jpg?resize=188,188&key=fee95b3d",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
         "title": "La révolution des agents IA",
         "link": "https://www.forbes.com/sites/geruiwang/2024/10/04/openai-fast-tracks-ai-agents-how-do-we-balance-benefits-with-risks/?ss=ai",
         "body": "OpenAI a levé 6,6 milliards de dollars, ce qui lui a permis d'améliorer ses modèles d'IA et de se rapprocher de son objectif de créer des agents IA autonomes. Ces agents IA sont capables de comprendre et d'exécuter des tâches complexes, comme planifier une journée ou suggérer des recettes en fonction des ingrédients disponibles. Les innovations d'OpenAI, telles que l'API en temps réel et l'amélioration de la vision, rapprochent l'IA de notre vie quotidienne. Sam Altman, PDG d'OpenAI, prédit que les agents IA feront partie de notre quotidien d'ici 2025. \n\nL'article souligne également les avantages potentiels des agents IA dans divers domaines, notamment la recherche médicale et l'industrie du jeu vidéo. Cependant, il met en garde contre les risques potentiels, tels que la fraude, la création de codes malveillants et la perte de contrôle. Pour éviter ces dangers, l'article suggère de maintenir une supervision humaine et de limiter l'accès des agents IA aux données et à certaines activités. \n\nAlors que les agents IA ont le potentiel de transformer notre vie en offrant commodité et efficacité, une vigilance, une surveillance et une réglementation appropriées sont nécessaires pour éviter les risques potentiels.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66feb9e8409aabe32453b001/0x0.jpg?format=jpg&crop=2313,1302,x0,y23,safe&width=440",
         "date": "Fri, 04 Oct 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Navigateur Arc : une alternative intelligente à Chrome",
-        "link": "https://www.frandroid.com/android/2359422_la-meilleure-alternative-a-chrome-est-bientot-disponible-sur-android",
-        "body": "Un ancien employé de Google a développé Arc, un nouveau navigateur web qui se veut une alternative plus simple, rapide et intuitive à Chrome, désormais disponible sur Android après une sortie initiale sur iOS. Arc utilise l'IA pour fournir une fonction \"Parcourir pour moi\", qui génère des réponses claires à partir de plusieurs sites web. Basé sur Chromium, il est compatible avec les extensions Chrome et intègre un bloqueur de publicité par défaut. La version bêta est disponible sur le Google Play Store, avec des fonctionnalités supplémentaires prévues pour être ajoutées progressivement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/arc-search-1200x675-1-768x432.jpg?resize=169,169&key=bd5fc474",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La demande folle pour la gamme Blackwell d'NVIDIA",
-        "link": "https://www.frandroid.com/produits-android/2359320_nvidia-la-demande-pour-la-puce-blackwell-est-demente-selon-son-pdg-jensen-huang",
-        "body": "Le PDG d'NVIDIA, Jensen Huang, a révélé que la demande pour la gamme Blackwell, leur nouvelle technologie de pointe centrée sur l'IA, est extrêmement élevée. Cette technologie, qui utilise un nouveau système de gravure, a attiré l'attention d'entreprises majeures comme OpenAI, Microsoft et Meta. Huang a déclaré que la course pour acquérir ces cartes, dont le prix unitaire est estimé entre 30 000 et 40 000 dollars, reflète l'importance de l'IA dans l'ère technologique actuelle. Il a également souligné l'engagement d'NVIDIA à stimuler l'innovation, à améliorer les capacités et à réduire les coûts et la consommation d'énergie. La forte demande et la priorité accordée à l'industrie signifient que les prix de ces composants resteront probablement élevés pour les consommateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/nvidia-ceo-jensen-huang-geforce-rtx-3070-1200x675-1-768x432.png?resize=169,169&key=c265b3a6",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
     },
     {
         "title": "The AI Revolution and Beyond",
@@ -49,46 +28,11 @@
         "date": "Fri, 04 Oct 2024 14:00:00 GMT"
     },
     {
-        "title": "Amazon démocratise l'IA sur ses tablettes",
-        "link": "https://www.frandroid.com/produits-android/tablette/2358444_amazon-ajoute-de-lia-a-ses-tablettes-voici-les-fonctionnalites-prevues",
-        "body": "Amazon annonce l'intégration de fonctionnalités d'IA générative sur sa nouvelle tablette Fire HD 8 2024, offrant ainsi une expérience améliorée à ses utilisateurs. La société prévoit également de déployer ces fonctionnalités sur des modèles de tablettes plus anciens, y compris la Fire HD 8 lancée en 2018. Les fonctionnalités d'IA incluent la lecture de vidéos YouTube en plein écran, la personnalisation de l'écran d'accueil et la génération de résumés de pages web. La Fire HD 8 2024 est disponible en deux versions avec différentes options de mémoire, et son prix de départ est de 99,99 dollars.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/fire-hd-8-2024-amazon-1200x857-1-768x548.jpg?resize=214,214&key=192827c1",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
         "title": "Waymo Adopte les Véhicules Électriques Hyundai",
         "link": "https://www.forbes.com/sites/alanohnsman/2024/10/04/waymo-bulking-up-robotaxi-fleet-with-electric-hyundais/?ss=ai",
         "body": "Waymo, le service de robotaxis leader aux États-Unis, s'associe à Hyundai Motor pour ajouter des véhicules électriques Ioniq 5 à sa flotte. L'accord \"multiannuel\" vise à réduire les coûts et à étendre les opérations de Waymo, en utilisant des véhicules construits dans une nouvelle usine de Hyundai en Géorgie et équipés de la technologie de conduite autonome de Waymo. Le nombre exact de véhicules et les détails financiers de l'accord n'ont pas été divulgués. La réduction des coûts est cruciale pour la rentabilité de Waymo, sa flotte actuelle comprenant au moins 1 000 SUV électriques Jaguar I-PACE, d'une valeur de 75 000 $ chacun avant l'ajout de la technologie Waymo. L'Ioniq 5, en comparaison, a un prix de base de 42 000 $. Waymo a également annoncé que sa nouvelle technologie de sixième génération, utilisée dans ces véhicules, offre un coût réduit tout en améliorant la résolution, la portée et la puissance de calcul. Cet accord intervient alors que Waymo élargit rapidement sa zone de service après 15 ans de R&D, offrant plus de 100 000 trajets payants par semaine à Phoenix, San Francisco et Los Angeles. La société prévoit également de lancer son service à Austin et Atlanta en 2025. L'accord avec Hyundai est particulièrement opportun, car les plans de Waymo pour utiliser des vans électriques de la marque chinoise Zeekr sont menacés par les récentes taxes élevées sur les véhicules importés de Chine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66ff1f5abb0d492b247abbd1/0x0.jpg?format=jpg&crop=2015,1125,x425,y161,safe&width=440",
         "date": "Fri, 04 Oct 2024 09:00:00 GMT"
-    },
-    {
-        "title": "Copilot, l'assistant IA de Microsoft",
-        "link": "https://www.frandroid.com/marques/microsoft/2354414_voici-les-5-nouveautes-de-microsoft-copilot-pour-concurrencer-chatgpt",
-        "body": "Microsoft dévoile une mise à jour majeure pour son assistant IA, Copilot, dans le cadre de la prochaine mise à jour de Windows 11. L'entreprise souhaite en faire \"un compagnon IA pour tout le monde\", avec de nouvelles fonctionnalités telles que l'interaction vocale, Copilot Daily (un mini podcast personnalisé), et Copilot Vision, qui intègre l'IA au navigateur Edge pour une assistance en temps réel lors de la navigation. L'application mobile Copilot a également été redessinée pour offrir des réponses plus courtes et favoriser un ton conversationnel. Ces mises à jour visent à rendre Copilot plus accessible et utile au quotidien pour les utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/microsoft-copilot-resized-1200x676-1-768x433.jpeg?resize=169,169&key=6ad7a40d",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung mise sur l'IA pour ses appareils de 2025",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2358680_samsung-risque-tout-sur-lia-un-pari-necessaire",
-        "body": "Lors de la SDC 2024, Samsung a dévoilé sa vision pour 2025, avec l'IA au cœur de ses appareils, des smartphones aux machines à laver. Galaxy AI offrira une expérience sur-mesure avec traduction instantanée, suggestions contextuelles et optimisation des photos. Samsung compte profiter du retard d'Apple dans ce domaine pour prendre de l'avance. L'entreprise coréenne ambitionne de créer un écosystème où les appareils anticipent les habitudes des utilisateurs. SmartThings transformera les domiciles en assistants personnels géants, avec des appareils électroménagers intelligents et un suivi de santé personnalisé. Samsung met également l'accent sur la confidentialité et la sécurité des données, avec une approche hybride et le développement d'IA éthique.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/sdc24-keynote-live-17-2-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=eb45bb95",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung mise sur Tizen OS",
-        "link": "https://www.frandroid.com/os/tizen-2/2358688_samsung-mise-sur-tizen-os-en-2025-risc-v-flutter-ia-et-nouvelles-fonctions",
-        "body": "Samsung a dévoilé une feuille de route ambitieuse pour son système d'exploitation maison, Tizen OS, lors de la Samsung Developer Conference 2024. L'entreprise adopte l'architecture RISC-V pour Tizen, offrant une flexibilité et une efficacité énergétique supérieures. Samsung a également amélioré son support pour Flutter, un framework de développement multiplateforme de Google, et a intégré des fonctionnalités IA natives à Tizen OS. Ces changements ouvrent la plateforme aux développeurs, leur permettant de créer des applications innovantes, notamment pour la reconnaissance vocale, le traitement d'images et l'analyse de données. De plus, Samsung étend progressivement Tizen OS à d'autres appareils de sa gamme, offrant une interopérabilité sans précédent. Enfin, d'autres constructeurs de TV adoptent également Tizen OS, élargissant ainsi sa portée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/sdc24-keynote-live-38-47-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=87f2d3e3",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT se réinvente avec Canvas",
-        "link": "https://www.frandroid.com/culture-tech/2358682_chatgpt-se-transforme-en-clippy-2-0-avec-sa-nouvelle-fonctionnalite-canvas",
-        "body": "OpenAI a introduit une nouvelle fonctionnalité appelée \"Canvas\", qui transforme ChatGPT en un assistant d'écriture polyvalent. Canvas offre une interface épurée avec trois sections : une zone d'écriture principale, un panneau de discussion avec ChatGPT et une barre d'outils de formatage. Canvas aide les utilisateurs à se concentrer sur l'écriture, qu'il s'agisse de code, de courriels ou de comptes rendus de réunion. Il fournit des suggestions de ton, vérifie la grammaire, et offre des traductions de code. La fonctionnalité est actuellement en version bêta pour les abonnés ChatGPT Plus, mais sera disponible pour tous les utilisateurs une fois la phase de test terminée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/Canvas_Hero-1200x675-1-768x432.webp?resize=169,169&key=b31ab226",
-        "date": "Thu, 03 Oct 2024 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : perspectives et défis",
