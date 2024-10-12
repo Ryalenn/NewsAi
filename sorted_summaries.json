@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'éducation avec l'IA",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/10/12/could-elon-musks-ai-robots-save-a-troubled-education-system/?ss=ai",
+        "body": "L'article explore la possibilité d'utiliser les robots humanoïdes d'Elon Musk, Optimus, dans les salles de classe pour réduire la charge de travail administrative des enseignants et améliorer l'expérience d'apprentissage des élèves. Optimus, avec son IA avancée, sa vision par ordinateur et ses capteurs LIDAR, pourrait assister les enseignants dans des tâches routinières, superviser les activités et fournir une instruction personnalisée. Musk prévoit que ces robots coûteront entre 20 000 et 30 000 dollars, les rendant potentiellement accessibles aux écoles et aux ménages. Les experts en éducation et en IA envisagent déjà les avantages potentiels, y compris une attention plus individualisée pour les élèves ayant des besoins spéciaux. Cependant, des préoccupations sont soulevées concernant la confidentialité des données et une dépendance excessive à la technologie. Alors que les écoles adoptent déjà des politiques d'IA, la question reste ouverte : sommes-nous prêts pour des salles de classe où robots et enseignants collaborent pour inspirer la prochaine génération ?",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670999e5c6bc3636daa446b8/0x0.jpg?format=jpg&crop=2087,1173,x0,y30,safe&width=440",
+        "date": "Sat, 12 Oct 2024 09:00:00 GMT"
+    },
+    {
         "title": "L'IA au service d'une expérience client proactive et personnalisée",
         "link": "https://www.forbes.com/sites/tonybradley/2024/10/11/how-ai-is-revolutionizing-customer-experience/?ss=ai",
         "body": "L'IA révolutionne l'expérience client en permettant aux entreprises de passer d'un modèle réactif à un modèle de service client prédictif et personnalisé. Plutôt que d'attendre que les clients rencontrent un problème, l'IA permet d'anticiper leurs besoins, d'automatiser les tâches routinières et de proposer des solutions sur-mesure en temps réel. \n\nTitre : L'IA, clé d'une expérience client proactive et personnalisée",
@@ -152,12 +159,5 @@
         "body": "Les grandes entreprises technologiques comme Microsoft, Google et OpenAI rendent les technologies de chatbot IA plus accessibles au grand public. Ces modèles de langage utilisent des programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les entrées de l'utilisateur. Malgré les progrès, il existe encore des défis, comme la présentation d'informations fausses comme vraies et les problèmes de droits d'auteur avec les générateurs d'images. Les entreprises se concentrent désormais sur les « agents IA », des programmes autonomes qui effectuent des tâches et interagissent avec l'environnement avec un minimum d'intervention humaine. Microsoft, Google et OpenAI développent tous des agents pour automatiser diverses tâches. OpenAI a également publié un nouveau modèle appelé o1, capable de répondre à des questions complexes plus rapidement qu'un être humain. L'IA est de plus en plus intégrée dans divers domaines, notamment les voitures, les médias et le sport.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Thu, 10 Oct 2024 13:00:00 GMT"
-    },
-    {
-        "title": "La course aux robotaxis",
-        "link": "https://www.forbes.com/sites/alanohnsman/2024/10/10/elon-musk-sees-teslas-future-in-self-driving-robotaxis-but-hes-far-behind-waymo/?ss=ai",
-        "body": "Tesla a dévoilé son nouveau modèle électrique, la CyberCab, qui servira de base à sa flotte futuriste de taxis autonomes. Cependant, des experts en IA comme Missy Cummings remettent en question les capacités de conduite autonome de Tesla, affirmant qu'ils sont loin d'être prêts pour une utilisation réelle. Waymo, de son côté, a déjà lancé un programme de robotaxis fonctionnel, effectuant plus de 100 000 trajets payants par semaine. Bien que les véhicules de Waymo ne soient pas parfaits, ils évitent les accidents majeurs et continuent d'apprendre grâce à des capteurs robustes et à des moniteurs humains à distance. Waymo adopte une approche méthodique pour maîtriser la conduite autonome, tandis que Tesla utilise les données du monde réel de ses clients. Les chercheurs en véhicules autonomes s'inquiètent de la dépendance de Tesla aux caméras uniquement, affirmant que des capteurs supplémentaires sont nécessaires pour une sécurité et une fiabilité accrues. L'enthousiasme des investisseurs pour les robotaxis pourrait ne pas se traduire par des résultats financiers à court terme, mais Waymo et Tesla continuent de se concentrer sur la maîtrise de la technologie de conduite autonome.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6706ec75e02eb10ea51f7124/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 10 Oct 2024 10:00:00 GMT"
     }
 ]
