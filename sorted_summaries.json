@@ -89,19 +89,5 @@
         "body": "Elon Musk, PDG de Tesla, a présenté la nouvelle flotte de robotaxis appelée Cybercabs, des véhicules électriques autonomes qui devraient coûter moins de 30 000 dollars et être lancés d'ici 2027. Musk a également teasé le Robovan, une version plus grande pouvant transporter 20 personnes. Il a souligné que l'autonomie permettrait aux gens de gagner du temps, et a présenté une nouvelle vision pour Tesla, allant au-delà de la simple fabrication et vente de véhicules électriques. L'événement a également inclus une démonstration des robots humanoïdes Optimus, qui pourraient effectuer diverses tâches quotidiennes. Musk a affirmé que ces avancées dans l'IA et la mobilité autonome révolutionneraient l'expérience de transport et auraient un impact significatif sur l'industrie automobile.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6708a49c8640640f04d1b996/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 11 Oct 2024 04:00:00 GMT"
-    },
-    {
-        "title": "L'évolution des GPU et l'ascension de Nvidia",
-        "link": "https://www.frandroid.com/marques/nvidia/2367722_le-gpu-a-un-quart-de-siecle-il-a-change-le-monde-du-pc-pour-toujours",
-        "body": "L'article retrace l'évolution des unités de traitement graphique (GPU) depuis les premiers accélérateurs de jeux vidéo 3D jusqu'aux GPU modernes, en se concentrant sur leur rôle crucial dans le traitement parallèle massif de données. La GeForce 256, lancée en 1999, a marqué un tournant en intégrant la fonction T&L, soulageant ainsi le processeur central (CPU) des tâches graphiques. Cette avancée a permis une amélioration significative des graphismes dans les jeux vidéo et a stimulé la créativité des développeurs. L'auteur souligne également l'importance croissante des GPU dans l'intelligence artificielle, le rendu 3D et la recherche scientifique, ainsi que leur utilisation dans le minage de cryptomonnaies. L'article explore ensuite l'ascension de Nvidia, qui est passée d'une jeune entreprise prometteuse à un géant technologique incontournable dans le domaine des GPU. Nvidia a élargi ses activités au-delà du matériel pour devenir un acteur majeur du logiciel, avec sa plateforme CUDA permettant aux développeurs d'exploiter pleinement la puissance des GPU. L'entreprise s'est également lancée dans la conception de serveurs spécialisés pour l'IA, la positionnant ainsi dans une position dominante sur le marché de l'intelligence artificielle en pleine expansion.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/29587991824-346d187795-k-1200x800-1-768x512.jpg?resize=200,200&key=7e182e0c",
-        "date": "Thu, 10 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Photos : Détection d'images IA",
-        "link": "https://www.frandroid.com/android/applications/google-apps/2367050_google-photos-obtiendrait-une-fonction-indispensable-pour-les-images-generees-par-ia",
-        "body": "Android Authority a découvert du code dans la version 7.3 de Google Photos suggérant que Google développe une fonctionnalité permettant aux utilisateurs d'obtenir plus d'informations sur les images, notamment sur leur création potentielle à l'aide d'une IA. Le code fait référence à l'affichage du crédit de l'image et à la source numérique, ce qui pourrait aider à identifier les images modifiées ou générées par l'IA. Cette fonctionnalité serait précieuse pour vérifier l'authenticité et la provenance des images. Cependant, sa mise en œuvre dépend de la présence de métadonnées suffisantes dans les fichiers image.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/google-pixel-9-pro-2-1200x801-2-768x513.jpg?resize=200,200&key=71f38f69",
-        "date": "Thu, 10 Oct 2024 23:00:00 GMT"
     }
 ]
