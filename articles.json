@@ -35,14 +35,14 @@
         "check": "yes"
     },
     {
-        "title": "Plus besoin d’être un expert : créez des vidéos époustouflantes grâce à l’IA d’Adobe",
+        "title": "Plus besoin d\u2019\u00eatre un expert : cr\u00e9ez des vid\u00e9os \u00e9poustouflantes gr\u00e2ce \u00e0 l\u2019IA d\u2019Adobe",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2369136_plus-besoin-detre-un-expert-creez-des-videos-epoustouflantes-grace-a-lia-dadobe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/0-1-1200x600-1-768x384.jpg?resize=150,150&key=94022621",
         "date": "Sun, 13 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Cet étrange robot prend soin de votre santé mentale",
+        "title": "Cet \u00e9trange robot prend soin de votre sant\u00e9 mentale",
         "link": "https://www.frandroid.com/produits-android/2369316_cet-etrange-robot-prend-soin-de-votre-sante-mentale",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2024/10/image-19.jpg?resize=201,201&key=99d750af",
         "date": "Sun, 13 Oct 2024 23:00:00 GMT",
@@ -68,5 +68,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/670d4bd813d31828c2b1c6ce/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Oct 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24267841/luis-von-ahn-duolingo-owl-language-learning-gamification-generative-ai-android-decoder",
+        "image": "",
+        "date": "Mon, 14 Oct 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/robertolsen-1/2024/10/14/us-tech-companies-to-invest-82-billion-in-uk-data-centers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670d79c36b689be0f1222cfd/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Oct 2024 20:31:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/nishatalagala/2024/10/14/californias-new-ai-lawswhat-you-should-know/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670d71a9bd188a4acf61e8fb/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Oct 2024 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/karlfreund/2024/10/14/how-ai-changes-the-role-of-memory-companies-and-their-value/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66fdcbcb7ddbbabe52678073/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Oct 2024 19:00:00 GMT",
+        "check": "no"
     }
 ]
