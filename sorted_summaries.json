@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI's Pentagon Partnership",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/10/15/openai-is-going-after-defense-contracts/?ss=ai",
+        "body": "OpenAI, la société derrière ChatGPT, collabore avec Carahsoft, un important sous-traitant du gouvernement américain, pour faciliter la fourniture de ses produits logiciels au Pentagone. Cette collaboration a commencé cette année, OpenAI ayant modifié ses politiques d'utilisation pour supprimer les restrictions sur l'utilisation de ses produits à des fins militaires. Carahsoft, dirigée par le milliardaire Craig Abod, a été accusée de surfacturation du Pentagone et a récemment fait l'objet d'une perquisition du FBI. Malgré cela, OpenAI a été ajoutée à un contrat de défense en mai et à un véhicule de contrat DoD appelé CHESS, qui permet des achats rapides de services technologiques auprès d'entreprises privées. Bien qu'OpenAI n'ait pas encore exécuté de contrat DoD via CHESS, Carahsoft a facilité d'autres contrats gouvernementaux, notamment avec la NASA et le Département de l'Agriculture. OpenAI cherche à développer des liens étroits avec le Pentagone, ayant dépensé plus de 200 000 dollars en lobbying l'année dernière. L'entreprise collabore également avec l'armée américaine sur des outils de cybersécurité et cible activement les agences gouvernementales avec des événements et des webinaires. Carahsoft, quant à lui, s'intéresse de plus en plus à l'IA, en partenariat avec d'autres startups de l'IA, et facilite leur entrée dans les affaires gouvernementales.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670dab52607b76894203b438/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Oct 2024 10:00:00 GMT"
+    },
+    {
         "title": "L'IA, nouveau participant aux débats politiques",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/10/15/ai-standing-in-for-absent-no-show-candidates-during-political-debates/?ss=ai",
         "body": "L'article explore une nouvelle tendance : l'utilisation de l'IA pour remplacer un candidat absent lors de débats politiques. L'IA peut représenter la position politique du candidat absent, débattant avec les autres candidats ou leurs propres IA. Bien que cela mette en valeur les capacités conversationnelles de l'IA, certains s'y opposent, arguant qu'elle ne représente pas équitablement un candidat humain. L'article examine les complexités de cette approche, y compris les considérations éthiques et juridiques, ainsi que les défis de la formation des données pour s'assurer que l'IA représente avec précision les points de vue du candidat. Il soulève également la question de l'authenticité et des limites de la représentation par l'IA, ainsi que les implications pour l'avenir des débats politiques.",
@@ -12,6 +19,13 @@
         "body": "L'IA prédictive, prescriptive et générative façonne l'avenir, offrant des capacités sans précédent dans divers domaines. L'IA prédictive utilise les données historiques et l'apprentissage automatique pour prédire les résultats futurs avec précision. Elle est utilisée dans la prévision météorologique, l'anticipation des tendances de consommation et la détection des fraudes. L'IA prescriptive, quant à elle, recommande des actions spécifiques basées sur les prévisions de l'IA prédictive, optimisant ainsi les décisions et les stratégies. L'IA générative, la plus récente, crée du contenu original, des œuvres d'art aux designs en ingénierie, et révolutionne le processus créatif. Ensemble, ces trois types d'IA peuvent révolutionner les industries, mais posent également des défis éthiques et soulèvent des questions sur la nature de la créativité et de l'originalité. Alors que l'IA évolue, les entreprises, les professionnels de la santé et les particuliers doivent en comprendre les forces et les limites pour en tirer le meilleur parti et naviguer dans les complexités morales qu'elle soulève.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/670dfe32ab93837db35e7ec5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Oct 2024 05:33:00 GMT"
+    },
+    {
+        "title": "Les limites de l'IA en mathématiques",
+        "link": "https://www.frandroid.com/marques/apple/2369850_des-ingenieurs-de-chez-apple-prouvent-que-lintelligence-artificielle-nest-pas-si-intelligente-que-ca",
+        "body": "Une étude menée par des ingénieurs d'Apple révèle les limites des grands modèles de langage en mathématiques. Si les IA génératives peuvent résoudre des problèmes simples, elles échouent lorsque des informations sans rapport sont ajoutées aux énoncés. Leur manque de raisonnement est mis en évidence, car elles ne font que convertir les énoncés en opérations sans en comprendre le sens. Les modèles d'IA ont tendance à interpréter toutes les informations comme étant pertinentes, ce qui les induit en erreur. L'étude conclut que les capacités de raisonnement des IA sont fragiles et qu'elles ressemblent plus à un système de correspondance de modèle qu'à un véritable raisonnement logique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/abacus-1866497-1920-1200x800-1-768x512.jpg?resize=200,200&key=f64531aa",
+        "date": "Mon, 14 Oct 2024 23:00:00 GMT"
     },
     {
         "title": "L'ère de l'IA",
