@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'IA, nouveau participant aux débats politiques",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/10/15/ai-standing-in-for-absent-no-show-candidates-during-political-debates/?ss=ai",
+        "body": "L'article explore une nouvelle tendance : l'utilisation de l'IA pour remplacer un candidat absent lors de débats politiques. L'IA peut représenter la position politique du candidat absent, débattant avec les autres candidats ou leurs propres IA. Bien que cela mette en valeur les capacités conversationnelles de l'IA, certains s'y opposent, arguant qu'elle ne représente pas équitablement un candidat humain. L'article examine les complexités de cette approche, y compris les considérations éthiques et juridiques, ainsi que les défis de la formation des données pour s'assurer que l'IA représente avec précision les points de vue du candidat. Il soulève également la question de l'authenticité et des limites de la représentation par l'IA, ainsi que les implications pour l'avenir des débats politiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670de55be7f1e388df233fc7/0x0.jpg?format=jpg&crop=4743,3560,x591,y0,safe&width=440",
+        "date": "Tue, 15 Oct 2024 05:51:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : prédiction, prescription et génération",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/10/15/the-ai-revolution-how-predictive-prescriptive-and-generative-ai-are-reshaping-our-world/?ss=ai",
+        "body": "L'IA prédictive, prescriptive et générative façonne l'avenir, offrant des capacités sans précédent dans divers domaines. L'IA prédictive utilise les données historiques et l'apprentissage automatique pour prédire les résultats futurs avec précision. Elle est utilisée dans la prévision météorologique, l'anticipation des tendances de consommation et la détection des fraudes. L'IA prescriptive, quant à elle, recommande des actions spécifiques basées sur les prévisions de l'IA prédictive, optimisant ainsi les décisions et les stratégies. L'IA générative, la plus récente, crée du contenu original, des œuvres d'art aux designs en ingénierie, et révolutionne le processus créatif. Ensemble, ces trois types d'IA peuvent révolutionner les industries, mais posent également des défis éthiques et soulèvent des questions sur la nature de la créativité et de l'originalité. Alors que l'IA évolue, les entreprises, les professionnels de la santé et les particuliers doivent en comprendre les forces et les limites pour en tirer le meilleur parti et naviguer dans les complexités morales qu'elle soulève.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670dfe32ab93837db35e7ec5/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Oct 2024 05:33:00 GMT"
+    },
+    {
         "title": "L'ère de l'IA",
         "link": "https://www.forbes.com/sites/geruiwang/2024/10/14/nobel-prizes-show-how-ai-is-shaping-history-5-reasons-you-should-care/?ss=ai",
         "body": "Le prix Nobel de physique 2024 est décerné à John J. Hopfield et Geoffrey E. Hinton pour leurs découvertes dans le domaine des réseaux de neurones artificiels, posant ainsi les fondations de l'apprentissage automatique et de l'intelligence artificielle. Le prix Nobel de chimie est attribué aux développeurs d'AlphaFold, des algorithmes d'IA qui prédisent les structures de protéines, ce qui pourrait accélérer la découverte de médicaments. Ces récompenses soulignent l'importance de l'IA dans l'histoire des sciences et annoncent une nouvelle ère. L'IA est comparée à la révolution industrielle, et les pays qui domineront son développement et sa gouvernance stratégique gagneront en influence sur la scène mondiale. L'article explore les implications sociétales, économiques et éthiques de cette course à l'IA, tout en soulignant l'importance de normes de sécurité globales et de l'utilisation de l'IA pour le bien social. L'IA va transformer le travail, la communication et la réflexion critique sur l'intelligence humaine, et nous devons nous adapter en créant de nouvelles opportunités tout en gérant ses risques.",
@@ -110,12 +124,5 @@
         "body": "Casio et Vanguard Industries collaborent pour créer Moflin, un robot « animal de compagnie » ressemblant à un croisement entre un cochon d'Inde et une chouette. Conçu pour être câliné, Moflin utilise l'IA pour reconnaître les voix et les comportements, et peut simuler des émotions, comme la tristesse et le stress s'il est ignoré. Ce robot peluche, disponible en précommande au Japon, s'inscrit dans la lignée du phoque PARO, un robot thérapeutique utilisé pour réduire l'anxiété et la dépression.",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2024/10/image-19.jpg?resize=201,201&key=99d750af",
         "date": "Sun, 13 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les secrets de la manipulation de l'IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/10/13/how-to-bamboozle-generative-ai/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66a5a4a93197d9da9c82e7ad/0x0.jpg?format=jpg&crop=2685,2012,x62,y0,safe&width=440",
-        "date": "Sun, 13 Oct 2024 06:14:00 GMT"
     }
 ]
