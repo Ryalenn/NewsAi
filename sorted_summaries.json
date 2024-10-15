@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google Shopping : une expérience d'achat personnalisée",
+        "link": "https://www.theverge.com/2024/10/15/24268117/google-shopping-personalized-feed-products-ai",
+        "body": "Google Shopping lance un fil d'actualité personnalisé qui suggère des produits en fonction des recherches récentes et des vidéos YouTube visionnées. L'objectif est de créer une expérience d'achat sur mesure, similaire aux pages « Pour vous » d'autres plateformes de médias sociaux. De plus, un nouvel onglet « Deals » proposera des offres personnalisées. Lorsque les utilisateurs effectuent une recherche de produit sur Google et cliquent sur l'onglet « Shopping », ils obtiennent un résumé généré par l'IA avec des conseils et des suggestions de produits. Google utilise des mots-clés pour rechercher des critiques de produits et créer ces résumés. L'expérience d'achat repensée est déployée aux États-Unis pour les utilisateurs mobiles et de bureau.",
+        "image": "",
+        "date": "Tue, 15 Oct 2024 13:00:00 GMT"
+    },
+    {
         "title": "OpenAI's Pentagon Partnership",
         "link": "https://www.forbes.com/sites/rashishrivastava/2024/10/15/openai-is-going-after-defense-contracts/?ss=ai",
         "body": "OpenAI, la société derrière ChatGPT, collabore avec Carahsoft, un important sous-traitant du gouvernement américain, pour faciliter la fourniture de ses produits logiciels au Pentagone. Cette collaboration a commencé cette année, OpenAI ayant modifié ses politiques d'utilisation pour supprimer les restrictions sur l'utilisation de ses produits à des fins militaires. Carahsoft, dirigée par le milliardaire Craig Abod, a été accusée de surfacturation du Pentagone et a récemment fait l'objet d'une perquisition du FBI. Malgré cela, OpenAI a été ajoutée à un contrat de défense en mai et à un véhicule de contrat DoD appelé CHESS, qui permet des achats rapides de services technologiques auprès d'entreprises privées. Bien qu'OpenAI n'ait pas encore exécuté de contrat DoD via CHESS, Carahsoft a facilité d'autres contrats gouvernementaux, notamment avec la NASA et le Département de l'Agriculture. OpenAI cherche à développer des liens étroits avec le Pentagone, ayant dépensé plus de 200 000 dollars en lobbying l'année dernière. L'entreprise collabore également avec l'armée américaine sur des outils de cybersécurité et cible activement les agences gouvernementales avec des événements et des webinaires. Carahsoft, quant à lui, s'intéresse de plus en plus à l'IA, en partenariat avec d'autres startups de l'IA, et facilite leur entrée dans les affaires gouvernementales.",
@@ -19,6 +26,13 @@
         "body": "L'IA prédictive, prescriptive et générative façonne l'avenir, offrant des capacités sans précédent dans divers domaines. L'IA prédictive utilise les données historiques et l'apprentissage automatique pour prédire les résultats futurs avec précision. Elle est utilisée dans la prévision météorologique, l'anticipation des tendances de consommation et la détection des fraudes. L'IA prescriptive, quant à elle, recommande des actions spécifiques basées sur les prévisions de l'IA prédictive, optimisant ainsi les décisions et les stratégies. L'IA générative, la plus récente, crée du contenu original, des œuvres d'art aux designs en ingénierie, et révolutionne le processus créatif. Ensemble, ces trois types d'IA peuvent révolutionner les industries, mais posent également des défis éthiques et soulèvent des questions sur la nature de la créativité et de l'originalité. Alors que l'IA évolue, les entreprises, les professionnels de la santé et les particuliers doivent en comprendre les forces et les limites pour en tirer le meilleur parti et naviguer dans les complexités morales qu'elle soulève.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/670dfe32ab93837db35e7ec5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Oct 2024 05:33:00 GMT"
+    },
+    {
+        "title": "Elon Musk frappe fort dans le domaine de l'IA",
+        "link": "https://www.frandroid.com/marques/nvidia/2370724_elon-musk-reussit-une-prouesse-dans-ses-data-centers-meme-nvidia-nen-revient-pas",
+        "body": "Elon Musk et son équipe xAI ont installé un supercluster de 100 000 GPU Nvidia H200 Blackwell en 19 jours, un projet surnommé \"Colossus\". Jensen Huang, PDG de Nvidia, a qualifié cette réalisation de \"surhumaine\", soulignant qu'un tel projet nécessite habituellement environ quatre ans. Huang a également exprimé son admiration pour la compréhension et la capacité de mobilisation de ressources de Musk, le qualifiant d'unique en son genre. L'exploit technique a eu un impact immédiat sur les marchés financiers, avec une augmentation de 14 % de l'action Nvidia. Huang a rassuré le marché sur la production de la puce Blackwell et a déclaré que la demande était forte. On s'attend à ce que le superordinateur améliore considérablement Grok, l'assistant personnel du réseau social X, et la conduite autonome des voitures électriques Tesla.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/elon-musk-1200x845-1-768x541.jpeg?resize=211,211&key=4f91252d",
+        "date": "Mon, 14 Oct 2024 23:00:00 GMT"
     },
     {
         "title": "Les limites de l'IA en mathématiques",
