@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Pourquoi Google passe au nucléaire pour alimenter son IA",
+        "title": "Pourquoi Google passe au nucl\u00e9aire pour alimenter son IA",
         "link": "https://www.frandroid.com/marques/2371032_pourquoi-google-passe-au-nucleaire-pour-alimenter-son-ia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/telephone-google-768x430.jpg?resize=168,168&key=7f3e6792",
         "date": "Mon, 14 Oct 2024 23:00:00 GMT",
@@ -194,5 +194,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6631343ad38b80800f967d5a/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Oct 2024 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/10/16/how-heineken-is-brewing-success-with-generative-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670f55252174417e5c9d3049/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Oct 2024 05:56:00 GMT",
+        "check": "no"
     }
 ]
