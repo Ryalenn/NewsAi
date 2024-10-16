@@ -1,5 +1,12 @@
 [
     {
+        "title": "La dualité de la pensée : l'avenir de l'IA neuro-symbolique",
+        "link": "https://www.forbes.com/sites/joshuadupuy/2024/10/16/will-ai-replace-lawyers-openais-o1-and-the-evolving-legal-landscape/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670f27a90cbae284e5771007/0x0.jpg?format=jpg&crop=1370,1370,x0,y22,safe&width=440",
+        "date": "Wed, 16 Oct 2024 08:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA chez Heineken",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/10/16/how-heineken-is-brewing-success-with-generative-ai/?ss=ai",
         "body": "Heineken, le brasseur le plus international au monde, utilise l'IA générative pour révolutionner ses opérations dans plusieurs départements. La société a développé un système de gestion des connaissances basé sur l'IA, nommé « Kim », qui permet aux employés d'accéder aux informations et aux idées consommateurs de manière efficace. L'IA est également utilisée dans les processus d'innovation, en collaboration avec les équipes marketing, pour développer de nouveaux concepts de produits. Heineken adopte une approche progressive et prudente en matière d'éthique de l'IA, en participant à des discussions sectorielles et en veillant à ce que l'IA ne soit pas utilisée dans des applications grand public. La vision de l'entreprise pour l'avenir comprend des assistants IA pour diverses fonctions, augmentant les capacités des rôles humains. Heineken reconnaît également les limites actuelles de l'IA, notamment dans la gestion des données numériques structurées, et travaille à les surmonter. L'approche de Heineken en matière d'IA générative positionne l'entreprise pour tirer parti de la transformation numérique et améliorer les idées consommateurs, rationaliser les opérations et favoriser l'innovation.",
@@ -12,6 +19,20 @@
         "body": "Résumé : \n\nOpenAI a récemment dévoilé Swarm, une nouvelle plateforme qui marque une étape importante dans l'évolution de l'IA agentique, la prochaine grande avancée dans le domaine de l'IA générative et des modèles linguistiques. Swarm, en tant que produit expérimental et éducatif, permet aux développeurs d'IA d'explorer les capacités de l'IA agentique, où plusieurs agents IA collaborent pour accomplir des tâches complexes. L'article explique le concept d'IA agentique en utilisant l'exemple de la planification d'un voyage, où un agent IA basé sur l'IA générative pourrait non seulement discuter des options de voyage, mais également effectuer les réservations nécessaires en interagissant avec d'autres agents IA spécialisés. L'IA agentique promet une approche plus efficace du développement logiciel, permettant de définir des tâches complexes à l'aide du langage naturel plutôt que de coder chaque étape individuellement. Cependant, l'auteur met également en garde contre les inconvénients potentiels, notamment la nécessité de définir des instructions complètes et précises pour éviter des résultats indésirables, la nature ambiguë du langage naturel et les risques associés à l'absence de sens commun dans l'IA. L'article conclut en soulignant l'importance de comprendre les forces et les faiblesses de l'IA agentique alors que cette technologie émerge et évolue rapidement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/670f01d712e7e9207c8c8cab/0x0.jpg?format=jpg&crop=3468,2598,x83,y0,safe&width=440",
         "date": "Wed, 16 Oct 2024 00:00:00 GMT"
+    },
+    {
+        "title": "YouTube clarifie l'utilisation de l'IA",
+        "link": "https://www.frandroid.com/android/applications/google-apps/2371514_cette-video-nest-pas-faite-par-ia-a-quoi-va-servir-ce-nouveau-label-sur-youtube",
+        "body": "YouTube introduit un nouvel étiquetage pour les vidéos, indiquant si le contenu a été créé avec des outils d'IA ou non. Ce label, basé sur le standard C2PA, vise à aider les utilisateurs à comprendre la provenance des vidéos et à s'assurer qu'ils \"croient ce qu'ils voient\". Le label sera niché dans la description de la vidéo, mais ne s'affichera que si la vidéo est capturée, montée et non modifiée selon les directives C2PA. Cependant, l'absence de l'étiquette ne confirme pas l'utilisation de l'IA, ce qui pourrait prêter à confusion. La plateforme de streaming de Google cherche ainsi à améliorer la transparence et à gérer les attentes des utilisateurs concernant le contenu généré par l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/youtube-frandroid-illustration-3-1200x673-1-768x431.jpg?resize=168,168&key=53517937",
+        "date": "Tue, 15 Oct 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Motorola dévoile son chatbot alimenté par IA",
+        "link": "https://www.frandroid.com/marques/2371558_motorola-veut-optimiser-votre-vie-avec-son-chatbot-qui-analyse-votre-environnement",
+        "body": "Motorola a présenté son propre chatbot, alimenté par des LLM, lors du Lenovo Tech World 2024. Ce chatbot peut converser de manière fluide avec l'utilisateur, analyser l'environnement du smartphone et apprendre de ses habitudes. Par exemple, il peut commander un café ou un Uber de manière autonome en fonction de la localisation de l'utilisateur. Motorola va plus loin que Google Gemini en permettant à son chatbot d'analyser l'environnement du téléphone, bien qu'il ne s'agisse pour l'instant que d'un concept. La société a également fourni des détails sur les fonctions précédemment annoncées, qui seront disponibles dans la bêta de Hello UI d'ici la fin de l'année.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/moto-ai-llm-powered-order-coffee-w1280-1200x675-1-768x432.jpg?resize=169,169&key=db223e2c",
+        "date": "Tue, 15 Oct 2024 23:00:00 GMT"
     },
     {
         "title": "Authentic Footage Verification",
