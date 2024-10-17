@@ -173,33 +173,5 @@
         "body": "L'IA prédictive, prescriptive et générative façonne l'avenir, offrant des capacités sans précédent dans divers domaines. L'IA prédictive utilise les données historiques et l'apprentissage automatique pour prédire les résultats futurs avec précision. Elle est utilisée dans la prévision météorologique, l'anticipation des tendances de consommation et la détection des fraudes. L'IA prescriptive, quant à elle, recommande des actions spécifiques basées sur les prévisions de l'IA prédictive, optimisant ainsi les décisions et les stratégies. L'IA générative, la plus récente, crée du contenu original, des œuvres d'art aux designs en ingénierie, et révolutionne le processus créatif. Ensemble, ces trois types d'IA peuvent révolutionner les industries, mais posent également des défis éthiques et soulèvent des questions sur la nature de la créativité et de l'originalité. Alors que l'IA évolue, les entreprises, les professionnels de la santé et les particuliers doivent en comprendre les forces et les limites pour en tirer le meilleur parti et naviguer dans les complexités morales qu'elle soulève.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/670dfe32ab93837db35e7ec5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Oct 2024 05:33:00 GMT"
-    },
-    {
-        "title": "FullyRamped lève 2,3 millions de dollars pour former les équipes de vente grâce à l'IA",
-        "link": "https://www.forbes.com/sites/davidprosser/2024/10/15/why-fullyramped-thinks-ai-is-the-key-to-training-up-the-sales-team/?ss=ai",
-        "body": "FullyRamped, une start-up californienne, a levé 2,3 millions de dollars pour développer sa solution d'IA destinée à former et à préparer les équipes de vente avant qu'elles n'interagissent avec les clients. L'entreprise, fondée par Aaron Marks, propose une plateforme en temps réel qui permet aux nouveaux représentants des ventes de s'entraîner et d'affiner leurs techniques de vente. L'IA simule différentes personnalités de clients, permettant aux représentants de s'exercer à leur argumentaire et à la gestion des objections sans risquer de perdre des opportunités commerciales réelles. La technologie de FullyRamped repose sur les derniers modèles linguistiques de grande envergure et les progrès rapides de l'IA, offrant une latence très faible et une réponse instantanée de l'IA, ce qui n'était pas possible auparavant. L'entreprise a déjà signé quelques clients payants et prévoit d'accélérer sa croissance avec le soutien de ses nouveaux investisseurs. Les investisseurs sont enthousiastes quant au potentiel de la plateforme à redéfinir la formation des équipes de vente et à améliorer leur productivité. Aaron Marks, fort de son expérience en traitement du langage naturel, prévoit également d'étendre la technologie à d'autres industries et rôles qui nécessitent une communication efficace.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/670e2bffec231f3028de9588/0x0.jpg?format=jpg&crop=692,324,x0,y149,safe&width=440",
-        "date": "Tue, 15 Oct 2024 00:00:00 GMT"
-    },
-    {
-        "title": "Google se tourne vers le nucléaire pour alimenter son IA",
-        "link": "https://www.frandroid.com/marques/2371032_pourquoi-google-passe-au-nucleaire-pour-alimenter-son-ia",
-        "body": "Google, conscient de l'importante consommation énergétique de l'IA, s'engage à atteindre un fonctionnement 24h/24 avec une énergie sans carbone d'ici 2030. Pour y parvenir, l'entreprise a signé un accord avec Kairos Power pour acheter de l'électricité provenant de petits réacteurs nucléaires en développement, qui devraient être lancés en 2030. Ces réacteurs, appelés SMR, sont plus petits que les centrales classiques mais soulèvent des questions environnementales, notamment concernant le stockage des déchets radioactifs. Google vise également à réduire de moitié ses émissions de gaz à effet de serre d'ici 2030 par rapport à 2019, bien que ses émissions aient augmenté de 48% depuis cette année-là.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/telephone-google-768x430.jpg?resize=168,168&key=7f3e6792",
-        "date": "Mon, 14 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Elon Musk frappe fort dans le domaine de l'IA",
-        "link": "https://www.frandroid.com/marques/nvidia/2370724_elon-musk-reussit-une-prouesse-dans-ses-data-centers-meme-nvidia-nen-revient-pas",
-        "body": "Elon Musk et son équipe xAI ont installé un supercluster de 100 000 GPU Nvidia H200 Blackwell en 19 jours, un projet surnommé \"Colossus\". Jensen Huang, PDG de Nvidia, a qualifié cette réalisation de \"surhumaine\", soulignant qu'un tel projet nécessite habituellement environ quatre ans. Huang a également exprimé son admiration pour la compréhension et la capacité de mobilisation de ressources de Musk, le qualifiant d'unique en son genre. L'exploit technique a eu un impact immédiat sur les marchés financiers, avec une augmentation de 14 % de l'action Nvidia. Huang a rassuré le marché sur la production de la puce Blackwell et a déclaré que la demande était forte. On s'attend à ce que le superordinateur améliore considérablement Grok, l'assistant personnel du réseau social X, et la conduite autonome des voitures électriques Tesla.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/elon-musk-1200x845-1-768x541.jpeg?resize=211,211&key=4f91252d",
-        "date": "Mon, 14 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les limites de l'IA en mathématiques",
-        "link": "https://www.frandroid.com/marques/apple/2369850_des-ingenieurs-de-chez-apple-prouvent-que-lintelligence-artificielle-nest-pas-si-intelligente-que-ca",
-        "body": "Une étude menée par des ingénieurs d'Apple révèle les limites des grands modèles de langage en mathématiques. Si les IA génératives peuvent résoudre des problèmes simples, elles échouent lorsque des informations sans rapport sont ajoutées aux énoncés. Leur manque de raisonnement est mis en évidence, car elles ne font que convertir les énoncés en opérations sans en comprendre le sens. Les modèles d'IA ont tendance à interpréter toutes les informations comme étant pertinentes, ce qui les induit en erreur. L'étude conclut que les capacités de raisonnement des IA sont fragiles et qu'elles ressemblent plus à un système de correspondance de modèle qu'à un véritable raisonnement logique.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/abacus-1866497-1920-1200x800-1-768x512.jpg?resize=200,200&key=f64531aa",
-        "date": "Mon, 14 Oct 2024 23:00:00 GMT"
     }
 ]
