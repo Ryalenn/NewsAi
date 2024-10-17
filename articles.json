@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette vidéo n’est PAS faite par IA : à quoi va servir ce nouveau label sur YouTube ?",
+        "title": "Cette vid\u00e9o n\u2019est PAS faite par IA : \u00e0 quoi va servir ce nouveau label sur YouTube ?",
         "link": "https://www.frandroid.com/android/applications/google-apps/2371514_cette-video-nest-pas-faite-par-ia-a-quoi-va-servir-ce-nouveau-label-sur-youtube",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/youtube-frandroid-illustration-3-1200x673-1-768x431.jpg?resize=168,168&key=53517937",
         "date": "Tue, 15 Oct 2024 23:00:00 GMT",
@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Gonfler, écraser, transformer en gâteau : comment utiliser les effets hallucinants à la mode sur TikTok",
+        "title": "Gonfler, \u00e9craser, transformer en g\u00e2teau : comment utiliser les effets hallucinants \u00e0 la mode sur TikTok",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2371522_gonfler-ecraser-transformer-en-gateau-comment-utiliser-les-effets-hallucinants-a-la-mode-sur-tiktok",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/pika-ai-tiktok-illustration-1200x600-1-768x384.jpg?resize=150,150&key=b28e1e81",
         "date": "Tue, 15 Oct 2024 23:00:00 GMT",
@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Gemini : la génération d’images est beaucoup moins contraignante grâce à ces nouvelles options",
+        "title": "Gemini : la g\u00e9n\u00e9ration d\u2019images est beaucoup moins contraignante gr\u00e2ce \u00e0 ces nouvelles options",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2372116_gemini-la-generation-dimages-est-beaucoup-moins-contraignante-grace-a-ces-nouvelles-options",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=e7754360",
         "date": "Tue, 15 Oct 2024 23:00:00 GMT",
@@ -215,5 +215,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/670ff805c7553ff9f1a3aa0b/0x0.jpg?format=jpg&crop=973,547,x219,y0,safe&width=440",
         "date": "Thu, 17 Oct 2024 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/17/24268007/modders-ai-companions-stardew-valley-skyrim",
+        "image": "",
+        "date": "Thu, 17 Oct 2024 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/16/24268209/anthropic-ai-dario-amodei-agi-funding-blog",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg",
+        "date": "Wed, 16 Oct 2024 16:21:42 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rogerdooley/2024/10/17/googles-notebooklm-unveils-smarter-eerily-human-ai-audio-overviews/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67105b884960a123bc29eda0/0x0.jpg?format=jpg&crop=3469,1952,x0,y173,safe&width=440",
+        "date": "Thu, 17 Oct 2024 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/geruiwang/2024/10/17/school-sued-over-disciplining-ai-use--how-should-education-adapt/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670ff0af6bc4eedc8d91d07d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Oct 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
