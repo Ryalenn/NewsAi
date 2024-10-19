@@ -96,12 +96,5 @@
         "body": "OpenAI teste actuellement une application ChatGPT pour Windows, mais elle est pour l'instant réservée aux utilisateurs payants. L'application, disponible en version préliminaire sur le Microsoft Store, permet aux utilisateurs de poser des questions au chatbot alimenté par l'IA dans une fenêtre dédiée qui peut rester ouverte en même temps que d'autres applications. L'application offre également la possibilité de télécharger des fichiers et des photos, et donne accès à un aperçu du modèle o1 d'OpenAI, qui possède des capacités de « raisonnement ». Certaines fonctionnalités, comme le mode vocal avancé, sont cependant encore absentes. Suite à la découverte d'une faille de sécurité dans la version Mac de l'application en juin, OpenAI a corrigé le problème et crypte désormais les données stockées localement. Bien que l'application Windows soit actuellement limitée aux abonnés payants, OpenAI prévoit de la rendre accessible à tous plus tard dans l'année.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg",
         "date": "Thu, 17 Oct 2024 21:54:23 GMT"
-    },
-    {
-        "title": "L'essor de l'IA : les derniers développements et les acteurs clés",
-        "link": "https://www.forbes.com/sites/charliefink/2024/10/17/nvidias-ai-software-funding-for-ai-startups-firefly-video-ai-released/?ss=ai",
-        "body": "Nvidia entre sur le marché des logiciels d'IA, concurrençant directement ses plus gros clients. Son modèle d'IA, Llama-3.1-Nemotron-70B-Instruct, surpasse les performances de GPT-4 d'OpenAI et de Claude 3.5 d'Anthropic. SynthBee, une startup fondée par Rony Abovitz, lève 20 millions de dollars pour développer une plateforme d'intelligence informatique. Adobe lance Firefly Video Model, un outil d'IA générative pour l'édition vidéo. Apple prévoit de sortir un casque de réalité virtuelle grand public à 2 000 dollars en 2025. Horizon of Khufu, une expérience VR de 11 000 pieds carrés, plonge les visiteurs dans l'Égypte ancienne.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6711664ea4fa70530f96d966/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Oct 2024 19:00:00 GMT"
     }
 ]
