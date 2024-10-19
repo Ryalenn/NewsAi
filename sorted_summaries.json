@@ -7,6 +7,13 @@
         "date": "Fri, 18 Oct 2024 19:00:00 GMT"
     },
     {
+        "title": "La montée en puissance de l'IA chez Google",
+        "link": "https://www.theverge.com/2024/10/18/24273748/google-deepmind-gemini-search-chaptgpt-meta-ai-interview",
+        "body": "Deux hommes ont accru leur influence au sein de Google, avec des implications importantes pour l'avenir de l'IA de l'entreprise. Demis Hassabis, déjà à la tête de la recherche en IA de Google, a désormais un contrôle plus important sur l'expérience utilisateur de Gemini, la plateforme de chatbot de Google. Nick Fox, un vétéran de l'entreprise, supervise désormais la recherche, une division cruciale pour les revenus de l'entreprise. Ces changements positionnent Google pour mieux concurrencer ChatGPT et soulignent l'importance croissante de l'IA dans les stratégies des géants de la tech.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016883/STK093_Google_06.jpg",
+        "date": "Fri, 18 Oct 2024 18:37:17 GMT"
+    },
+    {
         "title": "Microsoft's AI Bet",
         "link": "https://www.forbes.com/sites/johnwerner/2024/10/18/microsoft-chip-and-rack-orders-are-through-the-roof/?ss=ai",
         "body": "Microsoft accélère ses investissements dans l'infrastructure liée à l'IA, avec une forte demande pour les puces GB200 et le système NVL72 d'Nvidia, dépassant même les commandes des autres entreprises combinées. L'entreprise prévoit d'utiliser ces systèmes dans des centres de données à des températures stratégiques basses pour optimiser le refroidissement. Cet achat s'inscrit dans le cadre d'un partenariat d'investissement de 100 milliards de dollars entre Microsoft et Blackrock pour l'infrastructure IA compétitive. Ces nouvelles architectures IA auront un impact significatif sur nos vies et sont clés pour l'avenir de l'industrie.",
@@ -173,19 +180,5 @@
         "body": "L'article explore le concept de méta-prompts, des instructions utilisées pour améliorer et optimiser les prompts entrés dans les modèles d'IA générative. Les méta-prompts sont considérés comme la \"sauce secrète\" derrière les capacités améliorées de ces modèles. En se concentrant sur l'analyse d'un méta-prompt d'OpenAI, l'article explique comment ces instructions peuvent guider l'IA pour améliorer les prompts des utilisateurs, rendant leurs intentions plus claires et précises. Le méta-prompt d'OpenAI fournit des directives globales, telles que la compréhension de la tâche associée, la minimisation des modifications, la structuration du raisonnement et des conclusions, et l'ajout d'exemples. Ces techniques font partie du domaine de l'ingénierie des prompts, qui vise à améliorer les capacités de génération de texte de l'IA. L'article souligne également l'importance de la personnalisation des méta-prompts et de leur utilisation stratégique pour améliorer les résultats de l'IA générative.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671023cbb142fad2afcfb83b/0x0.jpg?format=jpg&crop=721,540,x77,y0,safe&width=440",
         "date": "Thu, 17 Oct 2024 02:32:00 GMT"
-    },
-    {
-        "title": "Police Tech Revolution",
-        "link": "https://www.forbes.com/sites/dariashunina/2024/10/17/abel-launches-to-address-police-shortage-and-keep-communities-safe/?ss=ai",
-        "body": "Daniel Francis annonce le lancement public d'Abel Abel, une entreprise de technologie policière qui utilise l'IA pour transformer les images des caméras corporelles des agents en rapports. L'objectif est d'automatiser la paperasse pour les agents de patrouille, leur permettant ainsi de se concentrer sur leur mission principale. Abel vise à restaurer la confiance des citoyens dans les forces de l'ordre. L'entreprise a déjà levé 5 millions de dollars de financement et son équipe fondatrice comprend des vétérans d'Axon, du Département de la Sécurité Intérieure, de Palo Alto Networks, d'OpenAI et de la police. En automatisant la création de rapports grâce à l'IA, Abel entend réduire de zéro le temps consacré par les agents à la paperasse, augmentant ainsi leur temps disponible de 50 %. Cette approche innovante pourrait servir de modèle pour les forces de l'ordre du pays, leur permettant de relever les défis actuels tout en améliorant la sécurité publique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6710aba523dcd1a8e0972a06/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Oct 2024 00:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA à domicile",
-        "link": "https://www.frandroid.com/marques/2372586_lenovo-veut-vous-prendre-par-les-sentiments-avec-cet-assistant-pas-comme-les-autres",
-        "body": "Lenovo présente son prototype d'assistant domestique, \"AI Buddy\", lors du salon TechWorld 2024. Doté d'un écran rond et de ports USB, il peut afficher des informations de base et interagir visuellement avec les utilisateurs grâce à des yeux animés simulant des émotions via des emojis. AI Buddy s'adapte aux habitudes des utilisateurs et fournit des réponses de plus en plus adaptées grâce à l'IA Llama de Meta. Lenovo vise à créer une expérience utilisateur plus naturelle et adaptative. L'assistant est actuellement à l'état de concept, mais son regard plein de vie pourrait lui valoir une place sur le marché.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/LENOVO_AI_BUDDY-1200x900-1-768x576.webp?resize=225,225&key=f00b7889",
-        "date": "Wed, 16 Oct 2024 23:00:00 GMT"
     }
 ]
