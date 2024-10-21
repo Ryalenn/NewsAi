@@ -35,10 +35,17 @@
         "check": "yes"
     },
     {
-        "title": "Apple aurait « deux ans de retard sur l’IA » d’après des employés… d’Apple",
+        "title": "Apple aurait \u00ab deux ans de retard sur l\u2019IA \u00bb d\u2019apr\u00e8s des employ\u00e9s\u2026 d\u2019Apple",
         "link": "https://www.frandroid.com/marques/2376378_apple-aurait-deux-ans-de-retard-sur-lia-dapres-des-employes-dapple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/apple-event-september-9-56-45-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=7190dda6",
         "date": "Sun, 20 Oct 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sun, 20 Oct 2024 21:18:12 GMT",
+        "check": "no"
     }
 ]
