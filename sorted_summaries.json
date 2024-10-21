@@ -21,6 +21,13 @@
         "date": "Mon, 21 Oct 2024 03:21:00 GMT"
     },
     {
+        "title": "Réorganisation stratégique chez Google",
+        "link": "https://www.frandroid.com/culture-tech/2376984_grosse-reorganisation-en-interne-chez-google-ce-que-ca-change-pour-gemini",
+        "body": "Google annonce une restructuration majeure en intégrant les équipes de Google Gemini à DeepMind, marquant ainsi un changement dans son approche de l'IA. Ce mouvement vise à accélérer le développement et le déploiement de nouveaux modèles d'IA, en mettant l'accent sur l'amélioration de l'expérience utilisateur. Les équipes de Gemini, dirigées par Sissie Hsiao, rejoindront DeepMind sous la direction de Demis Hassabis. Sundar Pichai, PDG de Google et Alphabet, souligne que cette fusion permettra un déploiement plus rapide des modèles d'IA dans l'application Gemini. Bien qu'il soit trop tôt pour connaître les implications pratiques, Google semble déterminé à accélérer ses innovations en IA tout en améliorant l'expérience utilisateur.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
+        "date": "Sun, 20 Oct 2024 23:00:00 GMT"
+    },
+    {
         "title": "La bourde de France 2",
         "link": "https://www.frandroid.com/culture-tech/web/2376566_la-honte-internationale-france-2-diffuse-un-faux-trailer-de-superman",
         "body": "Le journal télévisé de France 2 a diffusé de fausses images de \"Superman\" générées par une IA, sans en préciser la source. La vidéo, publiée sur YouTube par une chaîne spécialisée dans les bandes-annonces \"Concept/Fan-Made\", a été mal interprétée par la chaîne de télévision. Cet incident souligne la nécessité de rester vigilant avec les contenus générés par l'IA et de toujours citer les sources pour éviter toute confusion. Le réalisateur James Gunn, à la tête du nouvel univers DC au cinéma, a exprimé son mécontentement sur les réseaux sociaux.",
@@ -61,12 +68,5 @@
         "body": "L'article explore une nouvelle approche pour améliorer les capacités de raisonnement des grands modèles linguistiques (LLM) et de l'IA générative. Il suggère que, comme les humains, l'IA devrait « réfléchir avant d'agir » pour améliorer la qualité de ses réponses. Cette technique, connue sous le nom de « chain-of-thought » (CoT) ou raisonnement par chaîne de pensées, implique que l'IA effectue un pré-traitement pour logiquer une réponse potentielle. Une nouvelle étude de recherche en IA propose que l'IA améliore ses capacités CoT en s'entraînant sur des chaînes de pensées internes, améliorant ainsi la logique globale de la production de réponses. L'auteur compare cela à un enseignant qui insiste pour que les élèves montrent leur raisonnement lors de la résolution de problèmes. En appliquant cette approche à l'IA, on peut améliorer ses capacités de résolution de problèmes et de raisonnement logique. L'article inclut également une discussion sur l'anthropomorphisme en IA et soulève des questions sur la nature de la « pensée » de l'IA par rapport à celle des humains. Enfin, il souligne l'importance de se concentrer sur l'amélioration de la logique sous-jacente de l'IA pour atteindre l'intelligence artificielle générale (AGI).",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67142ebe11368452de010d5c/0x0.jpg?format=jpg&crop=2893,2170,x180,y0,safe&width=440",
         "date": "Sun, 20 Oct 2024 06:23:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : les prédictions de Lex Fridman",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/10/19/5-things-lex-fridman-notes-as-big-benchmarks-for-ai-in-2024/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/671127b0607064f9d785a2fb/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 19 Oct 2024 15:00:00 GMT"
     }
 ]
