@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple aurait « deux ans de retard sur l’IA » d’après des employés… d’Apple",
+        "title": "Apple aurait \u00ab deux ans de retard sur l\u2019IA \u00bb d\u2019apr\u00e8s des employ\u00e9s\u2026 d\u2019Apple",
         "link": "https://www.frandroid.com/marques/2376378_apple-aurait-deux-ans-de-retard-sur-lia-dapres-des-employes-dapple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/apple-event-september-9-56-45-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=7190dda6",
         "date": "Sun, 20 Oct 2024 23:00:00 GMT",
@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Grosse réorganisation en interne chez Google : ce que ça change pour Gemini",
+        "title": "Grosse r\u00e9organisation en interne chez Google : ce que \u00e7a change pour Gemini",
         "link": "https://www.frandroid.com/culture-tech/2376984_grosse-reorganisation-en-interne-chez-google-ce-que-ca-change-pour-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
         "date": "Sun, 20 Oct 2024 23:00:00 GMT",
@@ -105,21 +105,21 @@
         "check": "yes"
     },
     {
-        "title": "Microsoft lance des « employés virtuels » capables de gérer les demandes clients",
+        "title": "Microsoft lance des \u00ab employ\u00e9s virtuels \u00bb capables de g\u00e9rer les demandes clients",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2378160_microsoft-lance-des-employes-virtuels-capables-de-gerer-les-demandes-clients",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/02/google-robot-768x512.jpg?resize=200,200&key=b5422ff0",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Sabotage chez TikTok : comment un stagiaire aurait fait perdre des millions de dollars à ByteDance",
+        "title": "Sabotage chez TikTok : comment un stagiaire aurait fait perdre des millions de dollars \u00e0 ByteDance",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2378150_sabotage-chez-tiktok-comment-un-stagiaire-aurait-fait-perdre-des-millions-de-dollars-a-bytedance",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/tiktok-5064078-1280-1200x800-1-768x512.jpg?resize=200,200&key=f799f22f",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT gratuit pour tous : la ville d’Arcachon tente l’expérience",
+        "title": "ChatGPT gratuit pour tous : la ville d\u2019Arcachon tente l\u2019exp\u00e9rience",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2377848_chatgpt-gratuit-pour-tous-la-ville-darcachon-tente-lexperience",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/1625px-mairie-darcachon-2015-crop-1200x798-1-768x511.jpg?resize=200,200&key=cc9744f2",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
@@ -145,5 +145,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6717b305291e18e7c94901d7/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Oct 2024 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/22/24276747/microsoft-openai-news-outlets-10-million-ai-tools",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
+        "date": "Tue, 22 Oct 2024 16:46:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/22/24276662/canva-ai-update-new-text-to-image-generator-leonardo",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2160/2400x1600/filters:focal(1920x1080:1921x1081):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693064/Canva_Dream_Lab.png",
+        "date": "Tue, 22 Oct 2024 14:08:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x1600/2400x1600/filters:focal(1880x915:1881x916):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691971/Blade_Runner_2049_frame_4k_208.jpg",
+        "date": "Mon, 21 Oct 2024 21:23:16 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2024/10/22/future-medicine-physics-biology-and-ai-will-transform-human-health/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/610019b43b7cf97576907f91/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Oct 2024 17:00:00 GMT",
+        "check": "no"
     }
 ]
