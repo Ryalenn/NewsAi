@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple aurait « deux ans de retard sur l’IA » d’après des employés… d’Apple",
+        "title": "Apple aurait \u00ab deux ans de retard sur l\u2019IA \u00bb d\u2019apr\u00e8s des employ\u00e9s\u2026 d\u2019Apple",
         "link": "https://www.frandroid.com/marques/2376378_apple-aurait-deux-ans-de-retard-sur-lia-dapres-des-employes-dapple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/apple-event-september-9-56-45-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=7190dda6",
         "date": "Sun, 20 Oct 2024 23:00:00 GMT",
@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Grosse réorganisation en interne chez Google : ce que ça change pour Gemini",
+        "title": "Grosse r\u00e9organisation en interne chez Google : ce que \u00e7a change pour Gemini",
         "link": "https://www.frandroid.com/culture-tech/2376984_grosse-reorganisation-en-interne-chez-google-ce-que-ca-change-pour-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
         "date": "Sun, 20 Oct 2024 23:00:00 GMT",
@@ -89,5 +89,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67167524cba98a65b05a6000/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 21 Oct 2024 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2024/10/21/is-the-future-of-agriculture-autonomous-farms/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6716f9047001460a11df2863/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Oct 2024 01:06:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/10/21/overcoming-ai-induced-imposter-syndrome-practical-steps/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6716c30030d6220467e9cbe6/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 21 Oct 2024 21:00:00 GMT",
+        "check": "no"
     }
 ]
