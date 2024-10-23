@@ -1,34 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.forbes.com/sites/beatajones/2024/10/20/transforming-pedagogy-for--generative-ai-era-a-vision-for-the-future/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67158125ace8fe6ca355358c/0x0.jpg?format=jpg&crop=4000,2249,x0,y40,safe&width=440",
-        "date": "Sun, 20 Oct 2024 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/10/20/generative-ai-and-subliminal-messaging/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6715c6a94ecb573625e1be4d/0x0.jpg?format=jpg&crop=2440,1830,x227,y0,safe&width=440",
-        "date": "Mon, 21 Oct 2024 03:21:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Apple aurait \u00ab deux ans de retard sur l\u2019IA \u00bb d\u2019apr\u00e8s des employ\u00e9s\u2026 d\u2019Apple",
-        "link": "https://www.frandroid.com/marques/2376378_apple-aurait-deux-ans-de-retard-sur-lia-dapres-des-employes-dapple",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/apple-event-september-9-56-45-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=7190dda6",
-        "date": "Sun, 20 Oct 2024 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "La honte internationale : France 2 diffuse un faux trailer de Superman",
-        "link": "https://www.frandroid.com/culture-tech/web/2376566_la-honte-internationale-france-2-diffuse-un-faux-trailer-de-superman",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/france-2-superman-1200x675-1-768x432.jpg?resize=169,169&key=c9d0d620",
-        "date": "Sun, 20 Oct 2024 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/johnwerner/2024/10/21/microsoft-head-holds-forth-on-new-copilot-tech/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671649d25e0ef88a9dbf96f6/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 21 Oct 2024 12:33:00 GMT",
@@ -39,13 +11,6 @@
         "link": "https://www.forbes.com/sites/amyfeldman/2024/10/21/climate-change-made-hurricane-milton-more-destructive-amazon-data-centers-nuclear-power-batteries/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/670d9fd24f8e5e579854d37b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 21 Oct 2024 10:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Grosse r\u00e9organisation en interne chez Google : ce que \u00e7a change pour Gemini",
-        "link": "https://www.frandroid.com/culture-tech/2376984_grosse-reorganisation-en-interne-chez-google-ce-que-ca-change-pour-gemini",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
-        "date": "Sun, 20 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
@@ -98,21 +63,21 @@
         "check": "yes"
     },
     {
-        "title": "Microsoft lance des \u00ab employ\u00e9s virtuels \u00bb capables de g\u00e9rer les demandes clients",
+        "title": "Microsoft lance des « employés virtuels » capables de gérer les demandes clients",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2378160_microsoft-lance-des-employes-virtuels-capables-de-gerer-les-demandes-clients",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/02/google-robot-768x512.jpg?resize=200,200&key=b5422ff0",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Sabotage chez TikTok : comment un stagiaire aurait fait perdre des millions de dollars \u00e0 ByteDance",
+        "title": "Sabotage chez TikTok : comment un stagiaire aurait fait perdre des millions de dollars à ByteDance",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2378150_sabotage-chez-tiktok-comment-un-stagiaire-aurait-fait-perdre-des-millions-de-dollars-a-bytedance",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/tiktok-5064078-1280-1200x800-1-768x512.jpg?resize=200,200&key=f799f22f",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT gratuit pour tous : la ville d\u2019Arcachon tente l\u2019exp\u00e9rience",
+        "title": "ChatGPT gratuit pour tous : la ville d’Arcachon tente l’expérience",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2377848_chatgpt-gratuit-pour-tous-la-ville-darcachon-tente-lexperience",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/1625px-mairie-darcachon-2015-crop-1200x798-1-768x511.jpg?resize=200,200&key=cc9744f2",
         "date": "Mon, 21 Oct 2024 23:00:00 GMT",
