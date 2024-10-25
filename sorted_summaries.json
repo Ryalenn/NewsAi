@@ -7,6 +7,13 @@
         "date": "Fri, 25 Oct 2024 01:29:43 GMT"
     },
     {
+        "title": "La bataille juridique de l'IA",
+        "link": "https://www.theverge.com/2024/10/24/24278950/perplexity-news-corp-response-lawsuit",
+        "body": "L'article traite de la réponse de la startup d'IA Perplexity à une poursuite judiciaire intentée par News Corp, alléguant un vol de propriété intellectuelle à grande échelle par le moteur de recherche AI de Perplexity. Perplexity nie les accusations, arguant que les faits ne peuvent être détenus par des entreprises et que leur moteur de recherche ne copie pas le contenu, mais plutôt les faits publiquement rapportés. La startup critique également la posture antagoniste entre les médias et la tech, citant son programme de partage des revenus avec des publications comme preuve de sa bonne foi. News Corp maintient sa position, accusant Perplexity de nuire aux journalistes et aux éditeurs en copiant du matériel protégé par le droit d'auteur sans compensation. La réponse de Perplexity met en lumière les tensions croissantes entre les entreprises de technologie d'IA et les organisations de médias sur la propriété et l'utilisation des contenus générés par l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
+        "date": "Fri, 25 Oct 2024 00:10:36 GMT"
+    },
+    {
         "title": "Apple ouvre son système Private Cloud Compute aux investigations",
         "link": "https://www.theverge.com/2024/10/24/24278881/apple-intelligence-bug-bounty-security-researchers-private-cloud-compute",
         "body": "Apple invite les chercheurs en sécurité à examiner son système Private Cloud Compute (PCC), qui traite les requêtes Apple Intelligence plus complexes. L'entreprise étend également son programme de primes aux bogues, offrant jusqu'à 1 million de dollars pour la découverte de vulnérabilités dans le PCC. Apple, connue pour son engagement envers la vie privée des utilisateurs, souhaite garantir la sécurité de ses opérations basées sur l'IA. Le PCC est conçu pour respecter les garanties de sécurité et de confidentialité d'Apple, et les chercheurs peuvent désormais les vérifier de manière indépendante. L'entreprise offre des primes pour les vulnérabilités découvertes dans plusieurs catégories, ainsi que pour tout problème de sécurité ayant un impact significatif sur le PCC. Les premières fonctionnalités Apple Intelligence seront disponibles avec iOS 18.1 la semaine prochaine, tandis que des fonctionnalités plus importantes, telles que l'intégration de ChatGPT, sont en bêta.",
