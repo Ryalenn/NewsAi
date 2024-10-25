@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici pourquoi cette RTX 4070 Ti Super de PNY à une longueur d’avance en matière d’IA",
+        "title": "Voici pourquoi cette RTX 4070 Ti Super de PNY \u00e0 une longueur d\u2019avance en mati\u00e8re d\u2019IA",
         "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2373380_voici-pourquoi-cette-rtx-4070-ti-super-de-pny-a-une-longueur-davance-en-matiere-dia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/une-pny-1-1200x675-1-768x432.jpg?resize=169,169&key=cb78c823",
         "date": "Wed, 23 Oct 2024 23:00:00 GMT",
@@ -203,7 +203,7 @@
         "check": "yes"
     },
     {
-        "title": "Le nouveau ChatGPT pourrait arriver d’ici à la fin de l’année, mais probablement pas pour vous",
+        "title": "Le nouveau ChatGPT pourrait arriver d\u2019ici \u00e0 la fin de l\u2019ann\u00e9e, mais probablement pas pour vous",
         "link": "https://www.frandroid.com/culture-tech/2381784_le-nouveau-chatgpt-pourrait-arriver-dici-a-la-fin-de-lannee-mais-probablement-pas-pour-vous",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -217,7 +217,7 @@
         "check": "yes"
     },
     {
-        "title": "« Le monde n’est pas prêt » : un ancien employé d’OpenAI alerte sur les dangers de l’intelligence artificielle",
+        "title": "\u00ab Le monde n\u2019est pas pr\u00eat \u00bb : un ancien employ\u00e9 d\u2019OpenAI alerte sur les dangers de l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/2381866_le-monde-nest-pas-pret-un-ancien-employe-dopenai-alerte-sur-les-dangers-de-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/openai-1200x675-1-768x432.jpg?resize=169,169&key=b7b0630e",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -236,5 +236,19 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/logitech-mx-mechanical-et-mechanical-mini-test-6-1200x800-1-768x512.jpg?resize=200,200&key=00c9b492",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/10/25/accelerating-and-improving-cyber-defense-with-an-autonomous-soc/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671b8e76e9638dd7cbaf6864/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Oct 2024 12:39:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charlestowersclark/2024/10/25/ai-agents-are-we-ready-for-machines-that-make-decisions/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671b602a57051df058238224/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Oct 2024 09:00:00 GMT",
+        "check": "no"
     }
 ]
