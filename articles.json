@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici pourquoi cette RTX 4070 Ti Super de PNY à une longueur d’avance en matière d’IA",
+        "title": "Voici pourquoi cette RTX 4070 Ti Super de PNY \u00e0 une longueur d\u2019avance en mati\u00e8re d\u2019IA",
         "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2373380_voici-pourquoi-cette-rtx-4070-ti-super-de-pny-a-une-longueur-davance-en-matiere-dia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/une-pny-1-1200x675-1-768x432.jpg?resize=169,169&key=cb78c823",
         "date": "Wed, 23 Oct 2024 23:00:00 GMT",
@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "Le nouveau ChatGPT pourrait arriver d’ici à la fin de l’année, mais probablement pas pour vous",
+        "title": "Le nouveau ChatGPT pourrait arriver d\u2019ici \u00e0 la fin de l\u2019ann\u00e9e, mais probablement pas pour vous",
         "link": "https://www.frandroid.com/culture-tech/2381784_le-nouveau-chatgpt-pourrait-arriver-dici-a-la-fin-de-lannee-mais-probablement-pas-pour-vous",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -189,7 +189,7 @@
         "check": "yes"
     },
     {
-        "title": "« Le monde n’est pas prêt » : un ancien employé d’OpenAI alerte sur les dangers de l’intelligence artificielle",
+        "title": "\u00ab Le monde n\u2019est pas pr\u00eat \u00bb : un ancien employ\u00e9 d\u2019OpenAI alerte sur les dangers de l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/2381866_le-monde-nest-pas-pret-un-ancien-employe-dopenai-alerte-sur-les-dangers-de-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/openai-1200x675-1-768x432.jpg?resize=169,169&key=b7b0630e",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -271,5 +271,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/671ab18c7f0c6d1674b84128/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 25 Oct 2024 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/25/24279259/meta-reuters-ai-chatbot-deal-news-licensing-media",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg",
+        "date": "Fri, 25 Oct 2024 14:46:33 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/10/25/openai-reported-to-launch-its-orion-model-in-december---or-maybe-not/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671bd28c01581b12a8e996d4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Oct 2024 17:40:00 GMT",
+        "check": "no"
     }
 ]
