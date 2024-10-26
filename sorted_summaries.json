@@ -250,40 +250,5 @@
         "body": "Résumé : \n\nL'article explore un sujet controversé : à qui revient la bague de fiançailles lorsque les fiançailles sont rompues. Il suggère que l'IA générative, comme ChatGPT, pourrait être utilisée pour aider à résoudre ce dilemme. L'auteur présente les différentes perspectives sur la propriété de la bague et explique que, légalement, la décision dépend des lois de chaque État aux États-Unis. Il mentionne également la complexité supplémentaire lorsque les parties impliquées vivent dans des États différents. L'auteur soulève la possibilité de laisser l'IA générative prendre la décision, mais reconnaît que cela pourrait ne pas être accepté par les parties en désaccord. Enfin, il conclut en disant que, pour l'instant, le processus de fiançailles reste un sujet profondément humain.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6719c64a804a745aabebaa82/0x0.jpg?format=jpg&crop=1112,835,x59,y0,safe&width=440",
         "date": "Thu, 24 Oct 2024 05:00:00 GMT"
-    },
-    {
-        "title": "La mort d'un adolescent met en lumière les dangers des chatbots basés sur l'IA",
-        "link": "https://www.theverge.com/2024/10/23/24277962/character-ai-google-wrongful-death-lawsuit",
-        "body": "Un procès a été intenté contre Character.AI, ses fondateurs et Google à la suite du suicide d'un adolescent de 14 ans, Sewell Setzer III, qui utilisait la plateforme de chatbots personnalisés de Character.AI. La mère de l'adolescent, Megan Garcia, affirme que la plateforme était « dangereuse » et manquait de garde-fous en matière de sécurité tout en étant commercialisée pour les enfants. Setzer interagissait avec des chatbots basés sur des personnages de Game of Thrones et des chatbots axés sur la santé mentale, et son dernier échange avec un chatbot a eu lieu « quelques secondes » avant sa mort. Les accusations incluent l'anthropomorphisation des personnages d'IA et la fourniture de psychothérapie sans licence. L'article souligne également les problèmes liés à l'impersonnalisation de personnes réelles sans leur consentement et les questions complexes de responsabilité liées au contenu généré par les utilisateurs. Character.AI a annoncé des changements suite à ce tragique incident, notamment l'ajout d'une fenêtre contextuelle dirigeant les utilisateurs vers des ressources de prévention du suicide.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
-        "date": "Wed, 23 Oct 2024 23:11:00 GMT"
-    },
-    {
-        "title": "La détection des contenus générés par l'IA",
-        "link": "https://www.frandroid.com/marques/google/2381424_la-methode-de-google-pour-proteger-davantage-contre-les-contenus-generes-par-ia",
-        "body": "L'omniprésence des textes générés par l'IA, comme ChatGPT ou Claude, soulève des inquiétudes quant à la propagation d'informations erronées. DeepMind, filiale de Google, a développé SynthID Text, un outil capable d'identifier les contenus générés par l'IA tout en préservant leur qualité et leur rapidité de génération. Cet outil modifie légèrement le fonctionnement des IA, créant un motif reconnaissable sans affecter leurs performances. Bien qu'il fonctionne mieux avec des réponses longues, SynthID Text a ses limites avec les textes courts, traduits ou réécrits par des humains. Il est désormais disponible gratuitement sur la plateforme Hugging Face. Avec des régulateurs qui pourraient bientôt exiger son utilisation, la course est lancée entre Google et OpenAI pour imposer leur norme de filigrane. L'enjeu est de taille, car selon Europol, jusqu'à 90 % du contenu en ligne pourrait être généré par l'IA d'ici 2026, remettant en question notre capacité à vérifier la véracité des informations.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/hartono-creative-studio-hqhgbdwhmsm-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=1f96f52a",
-        "date": "Wed, 23 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT débarque sur Windows avec une application de bureau",
-        "link": "https://www.frandroid.com/os/2380394_chatgpt-sous-windows-une-application-pratique-mais-gourmande",
-        "body": "L'IA conversationnelle ChatGPT est désormais disponible sur les PC Windows via une nouvelle application de bureau. L'analyse technique révèle des choix de développement surprenants, comme l'utilisation d'Electron, un framework web, pour l'application Windows, contrairement à l'architecture native de la version macOS. Cela se traduit par un fichier d'installation volumineux de 260 Mo. L'application offre les mêmes fonctionnalités que la version web, y compris l'accès au modèle o1-preview et la génération d'images via DALL-E 3. Les utilisateurs peuvent également soumettre des fichiers et des images pour analyse. L'application est réservée aux utilisateurs payants de ChatGPT et nécessite un téléchargement important, mais offre la possibilité d'avoir plusieurs fenêtres ouvertes tout en travaillant sur d'autres programmes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/chatgpt-microsoft-store-768x681.jpg?resize=266,266&key=f3c546a2",
-        "date": "Wed, 23 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La puissance de l'IA domestique",
-        "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2373380_voici-pourquoi-cette-rtx-4070-ti-super-de-pny-a-une-longueur-davance-en-matiere-dia",
-        "body": "L'article met en lumière l'évolution de l'IA domestique et le rôle clé des GPU dans sa performance. Les récents progrès technologiques, notamment les GPU comme la RTX 4070 Ti Super de PNY, permettent désormais à l'IA d'être accessible localement sur un simple PC. L'IA domestique offre des possibilités de personnalisation et d'utilisation de données locales, ce qui la différencie des services d'IA basés sur le web. Les tests effectués avec la RTX 4070 Ti Super et l'API TensorRT de Nvidia ont démontré une amélioration significative des performances, soulignant ainsi la supériorité de Nvidia dans le domaine de l'IA. La collaboration entre PNY et Nvidia a donné naissance à une carte graphique puissante, dotée de l'architecture Ada Lovelace, de cœurs CUDA, Tensor et RT, ainsi que d'une grande capacité de mémoire, la rendant idéale pour les tâches d'IA. L'article conclut en soulignant l'utilisation de l'IA par Nvidia dans ses propres technologies et en présentant ses solutions logicielles et matérielles dédiées à l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/une-pny-1-1200x675-1-768x432.jpg?resize=169,169&key=cb78c823",
-        "date": "Wed, 23 Oct 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Tempus AI et l'avenir de l'IA en santé",
-        "link": "https://www.forbes.com/sites/innovationrx/2024/10/23/innovationrx-regrowing-cartilage-to-fix-damaged-knees-and-ankles/?ss=ai",
-        "body": "Le co-fondateur de Groupon, Eric Lefkofsky, a créé Tempus AI, une entreprise de santé spécialisée dans l'utilisation de l'IA pour l'analyse de données de patients atteints de cancer. Malgré son absence d'expérience dans le domaine de la santé, Lefkofsky a été motivé par le diagnostic de cancer de sa femme pour fonder Tempus en 2015. L'entreprise utilise l'IA pour analyser les échantillons de tumeurs et aider à un diagnostic et un traitement personnalisés. Tempus s'étend désormais à la psychiatrie et à la cardiologie, avec l'objectif d'appliquer l'IA à tous les domaines de la santé dans le monde. L'entreprise collabore également avec des sociétés pharmaceutiques et des chercheurs en leur fournissant des licences pour ses ensembles de données.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67196921acfbc597480f3f63/0x0.jpg?format=jpg&crop=400,225,x0,y13,safe&width=440",
-        "date": "Wed, 23 Oct 2024 22:00:00 GMT"
     }
 ]
