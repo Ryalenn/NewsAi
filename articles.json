@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Le nouveau ChatGPT pourrait arriver d’ici à la fin de l’année, mais probablement pas pour vous",
+        "title": "Le nouveau ChatGPT pourrait arriver d\u2019ici \u00e0 la fin de l\u2019ann\u00e9e, mais probablement pas pour vous",
         "link": "https://www.frandroid.com/culture-tech/2381784_le-nouveau-chatgpt-pourrait-arriver-dici-a-la-fin-de-lannee-mais-probablement-pas-pour-vous",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "« Le monde n’est pas prêt » : un ancien employé d’OpenAI alerte sur les dangers de l’intelligence artificielle",
+        "title": "\u00ab Le monde n\u2019est pas pr\u00eat \u00bb : un ancien employ\u00e9 d\u2019OpenAI alerte sur les dangers de l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/2381866_le-monde-nest-pas-pret-un-ancien-employe-dopenai-alerte-sur-les-dangers-de-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/openai-1200x675-1-768x432.jpg?resize=169,169&key=b7b0630e",
         "date": "Thu, 24 Oct 2024 23:00:00 GMT",
@@ -236,5 +236,19 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=a49b9a0f",
         "date": "Fri, 25 Oct 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lutzfinger/2024/10/26/bidens-ai-plan--why-central-control-might-not-work/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671d1ffe14be1d9169188bc9/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 26 Oct 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2024/10/26/the-future-of-patient-care-is-ai-enhanced/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671cfcb4b3b7937f2dc8d196/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 26 Oct 2024 14:00:00 GMT",
+        "check": "no"
     }
 ]
