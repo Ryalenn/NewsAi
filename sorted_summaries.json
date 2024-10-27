@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : des modèles plus petits et plus efficaces",
+        "link": "https://www.forbes.com/sites/danielnewman/2024/10/26/small-language-models--more-effective-and-efficient-for-enterprise-ai/?ss=ai",
+        "body": "L'enthousiasme pour l'IA générative a conduit à l'émergence de modèles massifs nécessitant d'importantes ressources. Cependant, des alternatives plus petites et plus efficaces en termes d'énergie et de coûts gagnent en popularité. NVIDIA a présenté NIM, une technologie de conteneurisation des modèles IA, tandis qu'IBM a dévoilé ses modèles Granite 3.0, des modèles linguistiques petits mais performants. Ces développements soulignent l'importance de l'optimisation des modèles IA pour des cas d'utilisation spécifiques, réduisant ainsi la consommation d'énergie et les coûts. L'avenir de l'IA dans les entreprises réside dans des modèles plus petits et plus flexibles, soutenus par des infrastructures adaptables, permettant des projets axés sur les résultats et une adoption à grande échelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671da2c8586180377691eb7a/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Oct 2024 02:00:00 GMT"
+    },
+    {
         "title": "La course à l'IA s'intensifie",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grands acteurs de l'IA, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques volumineux plus accessible au grand public. Google prévoit de présenter son propre modèle de langage, \"Project Jarvis\", qui assistera les utilisateurs dans diverses tâches en ligne. OpenAI lance également un nouveau modèle, Orion, et Anthropic présente une fonctionnalité permettant à son chatbot Claude de contrôler un ordinateur. La course à l'IA s'intensifie, avec des entreprises investissant dans de nouvelles fonctionnalités et des améliorations pour leurs modèles linguistiques.",
@@ -145,12 +152,5 @@
         "body": "L'intelligence artificielle et les technologies immersives transforment la formation en entreprise, rendant obsolètes les méthodes traditionnelles de formation basées sur les présentations PowerPoint. L'IA révolutionne la création, la livraison et l'analyse des contenus pédagogiques, offrant des parcours d'apprentissage personnalisés et un feedback instantané. La réalité virtuelle et augmentée ouvre de nouvelles possibilités d'apprentissage pratique. La gamification évolue vers un engagement significatif pour de meilleurs résultats d'apprentissage. Le travail hybride nécessite des expériences d'apprentissage cohérentes pour les employés à distance et en présentiel. L'avenir de la formation en entreprise réside dans des expériences engageantes, accessibles et efficaces, conduisant à un réel changement de comportement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671b33fc927bf5ca303f31d4/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 25 Oct 2024 06:01:00 GMT"
-    },
-    {
-        "title": "La collaboration entre Microsoft et OpenAI pour le prochain modèle Orion",
-        "link": "https://www.theverge.com/2024/10/24/24278363/microsoft-openai-next-model-orion-notepad",
-        "body": "Microsoft se prépare à accueillir le prochain modèle d'IA d'OpenAI, nommé Orion, d'ici la fin de l'année, selon Tom Warren, un rédacteur senior couvrant les nouvelles technologies. Les ingénieurs de Microsoft travaillent sur le projet dans le secret, sans connaître tous les détails du modèle, pour préserver sa confidentialité avant son annonce officielle. La collaboration entre Microsoft et OpenAI continue donc, malgré certaines tensions rapportées dans leur relation complexe.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1331x746/2400x1600/filters:focal(666x373:667x374):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25098511/openai.jpeg",
-        "date": "Fri, 25 Oct 2024 01:45:52 GMT"
     }
 ]
