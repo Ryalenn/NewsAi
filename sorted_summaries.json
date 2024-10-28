@@ -1,5 +1,26 @@
 [
     {
+        "title": "Disney's AI Revolution",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/10/28/3-big-ai-changes-at-disney--with-more-to-come/?ss=ai",
+        "body": "Résumé : \n\nDisney adopte de nouvelles technologies d'IA pour améliorer l'engagement du public, notamment l'analyse faciale pour évaluer les réactions des téléspectateurs. L'entreprise utilise également l'IA pour créer des mondes immersifs 3D et des expériences de métavers. Dans le cadre d'un nouveau projet d'IA en post-production, Disney licencie des milliers de travailleurs humains, ce qui soulève des questions sur l'impact pratique de cette technologie sur l'industrie. Le PDG de Disney, Bob Iger, considère l'IA comme un outil puissant pour améliorer le récit et atteindre un public plus large, suivant l'héritage de Walt Disney lui-même.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671fa4a89407cc67bf3dc2ca/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Oct 2024 14:51:00 GMT"
+    },
+    {
+        "title": "Défense Cyber Renforcée",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/10/28/crowdstrike-and-fortinet-join-forces-to-stop-threats-across-networks-and-endpoints/?ss=ai",
+        "body": "CrowdStrike et Fortinet s'allient pour offrir une solution de sécurité informatique intégrée et multi-couches. L'objectif est de remédier aux lacunes des outils de sécurité traditionnels en silo. La plateforme Falcon de CrowdStrike, reconnue pour son IA sophistiquée et ses capacités de renseignement sur les menaces, est combinée aux pare-feu de nouvelle génération FortiGate de Fortinet. Cette approche alimentée par l'IA améliore la vitesse et la précision de la détection des menaces. La solution offre une vue unifiée des activités réseau et des points d'extrémité, simplifiant ainsi les opérations de sécurité et permettant aux équipes de sécurité de travailler plus efficacement. L'intégration met également l'accent sur la flexibilité, permettant aux clients de créer une stratégie de sécurité personnalisée. La solution conjointe est conçue pour être évolutive, desservant les petites et moyennes entreprises ainsi que les grandes entreprises. Les deux entreprises prévoient de poursuivre l'intégration de leurs capacités d'IA et d'explorer l'utilisation de l'IA générative pour améliorer encore leur partenariat.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671f953f91a661371506aa1c/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Oct 2024 13:00:00 GMT"
+    },
+    {
+        "title": "L'impact de l'élection présidentielle américaine de 2024 sur l'avenir de l'IA",
+        "link": "https://www.theverge.com/24279103/2024-election-guide-trump-harris-policy-issues",
+        "body": "L'article explore l'impact potentiel du résultat de l'élection présidentielle américaine de 2024 sur diverses questions, notamment l'IA. Bien que l'accent soit mis sur les candidats Donald Trump et Kamala Harris, l'article souligne l'importance du pouvoir du président en matière de nominations et de politiques. Le président nomme les chefs des agences indépendantes, qui influencent les politiques antitrust, de large bande et de changement climatique. De plus, ils nomment les juges fédéraux, ce qui a des répercussions durables dans ces domaines. En ce qui concerne l'IA, le président peut émettre des ordres exécutifs pour guider l'utilisation de l'IA par le gouvernement et le secteur de la défense. Le résultat de l'élection aura donc un impact sur la réglementation de l'IA, la protection des consommateurs et la direction de la recherche et du développement en matière d'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693284/247224_Election_Package_The_pessimists_guide.jpg",
+        "date": "Mon, 28 Oct 2024 12:00:00 GMT"
+    },
+    {
         "title": "Project Jarvis",
         "link": "https://www.forbes.com/sites/torconstantino/2024/10/28/when-google-wont-talk-ask-its-ai-gemini-hints-at-chromes-future/?ss=ai",
         "body": "Google prévoit de lancer un outil d'IA compatible avec Chrome, nommé Project Jarvis, dès décembre. L'IA de bureau, nommée d'après l'intelligence artificielle de Tony Stark dans les films Marvel, coïnciderait avec la sortie de Gemini 2.0 de Google. Jarvis pourrait automatiser des tâches web et interagir avec l'interface de l'ordinateur en prenant des captures d'écran et en les analysant. Les utilisateurs devront faire confiance à l'IA avec leurs informations personnelles, y compris les détails de carte de crédit et les mots de passe. Anthropic a lancé un système similaire, Claude, qui peut rechercher des fichiers et naviguer sur l'ordinateur d'un utilisateur. Google n'a pas commenté les détails, mais a suggéré que l'entreprise travaille sur des capacités d'agent IA. L'IA de Google, Gemini, a évalué la probabilité de l'article à 85 %, suggérant qu'il pourrait être légitime. L'article explore également les stratégies de lancement de produits, les défis de l'IA générative et les implications de la prise de parole publique des IA des entreprises.",
@@ -26,6 +47,13 @@
         "body": "L'IA transforme notre façon de célébrer Halloween avec des fonctionnalités amusantes et effrayantes. ChatGPT et Google proposent de nouvelles expériences vocales et visuelles, créant un compagnon AI divertissant et addictif. ChatGPT Advanced Voice, basé sur GPT-4o, offre une conversation humaine empathique, réagissant même aux indices non verbaux. NotebookLM de Google crée des podcasts engageants à partir de documents téléchargés. OpenAI lance o1-preview et o1-mini, des modèles de raisonnement plus avancés, tandis que des rumeurs suggèrent que Orion d'OpenAI et Jarvis de Google pourraient être lancés en décembre. L'IA devient plus accessible, plus humaine et plus addictive, améliorant notre quotidien et notre divertissement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671e817c4c8b26e125b03767/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 28 Oct 2024 04:00:00 GMT"
+    },
+    {
+        "title": "Les dangers de l'hallucination de l'IA",
+        "link": "https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies",
+        "body": "L'article met en lumière un problème potentiel avec l'outil de transcription AI Whisper d'OpenAI, qui est utilisé dans un outil de transcription médicale par Nabla, une entreprise estimée à 7 millions de conversations médicales transcrites. L'étude, présentée à la conférence de l'Association for Computing Machinery FAccT, a révélé que Whisper a inventé des phrases et des conditions médicales dans environ 1 % des transcriptions, ce qui soulève des inquiétudes quant à son utilisation dans des contextes sensibles. OpenAI a déclaré qu'il prenait ce problème au sérieux et travaillait à l'améliorer, soulignant que ses politiques d'utilisation interdisent l'utilisation de Whisper dans certains contextes de prise de décision à haut risque.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg",
+        "date": "Sun, 27 Oct 2024 23:19:36 GMT"
     },
     {
         "title": "Apple M4 et l'IA",
@@ -84,6 +112,13 @@
         "date": "Sun, 27 Oct 2024 02:00:00 GMT"
     },
     {
+        "title": "Project Jarvis",
+        "link": "https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent",
+        "body": "Google travaille sur un outil d'automatisation des tâches basé sur l'IA, nommé \"Project Jarvis\", qui pourrait être présenté en décembre. Ce projet confidentiel, fonctionnant sur une future version de Gemini, vise à aider les utilisateurs à automatiser les tâches web quotidiennes, comme la recherche d'informations, les achats en ligne ou la réservation de vols. L'outil, optimisé pour le navigateur Chrome, interprète les captures d'écran, clique sur les boutons et saisit du texte. Bien que d'autres grandes entreprises d'IA développent des modèles similaires, Jarvis se distingue par sa capacité à fonctionner uniquement avec un navigateur web. La démonstration prévue en décembre pourrait être modifiée, Google envisageant de le tester auprès d'un petit groupe pour identifier et corriger les bogues.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg",
+        "date": "Sat, 26 Oct 2024 22:32:33 GMT"
+    },
+    {
         "title": "La course à l'IA s'intensifie",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grands acteurs de l'IA, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur des modèles linguistiques volumineux plus accessible au grand public. Google prévoit de présenter son propre modèle de langage, \"Project Jarvis\", qui assistera les utilisateurs dans diverses tâches en ligne. OpenAI lance également un nouveau modèle, Orion, et Anthropic présente une fonctionnalité permettant à son chatbot Claude de contrôler un ordinateur. La course à l'IA s'intensifie, avec des entreprises investissant dans de nouvelles fonctionnalités et des améliorations pour leurs modèles linguistiques.",
@@ -103,12 +138,5 @@
         "body": "Le plan de Biden pour réglementer l'IA met l'accent sur le contrôle, la sécurité nationale et la responsabilité, mais il néglige des aspects importants tels que la transparence et la gestion des données. Bien qu'il s'agisse d'un pas dans la bonne direction, le plan traite l'IA comme une entité monolithique, alors qu'en réalité, elle est accessible à tous et a un large éventail d'applications. L'IA est un outil puissant qui peut être utilisé à la fois pour le bien, comme dans le domaine de la santé, et pour le mal, comme avec les armes autonomes. Plutôt que de se concentrer uniquement sur le contrôle, le gouvernement devrait aider les entreprises et le public à comprendre et à gérer l'IA, tout en encourageant la collaboration entre les secteurs public et privé pour surveiller son utilisation. De plus, la collecte de données agressives par des pays comme la Chine pourrait leur donner un avantage économique, soulignant la nécessité de stratégies de gestion des données à long terme. Enfin, la transparence est essentielle pour comprendre l'impact de l'IA et éviter les préjugés et la désinformation.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671d1ffe14be1d9169188bc9/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 26 Oct 2024 17:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé : l'intelligence artificielle",
-        "link": "https://www.forbes.com/sites/kathleenwalch/2024/10/26/the-future-of-patient-care-is-ai-enhanced/?ss=ai",
-        "body": "L'IA transforme rapidement le domaine de la santé, améliorant les diagnostics, les plans de traitement et les interactions avec les patients. Les systèmes d'IA peuvent analyser rapidement et précisément les images médicales, aidant ainsi les médecins dans leurs diagnostics. De plus, l'IA permet d'analyser d'importantes quantités de données, telles que les données des patients, des essais cliniques et de la recherche médicale, pour fournir des recommandations de traitement personnalisées et fondées sur des preuves. La prédiction analytique est un autre avantage de l'IA, permettant de prédire les risques de maladies et de complications. L'IA améliore également l'efficacité opérationnelle des hôpitaux et des cliniques, optimisant la gestion du personnel et de la chaîne d'approvisionnement. L'adoption de l'IA dans les soins de santé conduit à des soins plus personnalisés, efficaces et efficaces.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/671cfcb4b3b7937f2dc8d196/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 26 Oct 2024 14:00:00 GMT"
     }
 ]
