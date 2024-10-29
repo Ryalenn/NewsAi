@@ -7,11 +7,39 @@
         "date": "Mon, 28 Oct 2024 23:00:00 GMT"
     },
     {
+        "title": "L'avenir de l'IA ouverte",
+        "link": "https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama",
+        "body": "L'Open Source Initiative (OSI) a publié sa définition officielle de l'IA « ouverte », entrant ainsi en conflit avec les géants de la tech comme Meta, dont les modèles ne respectent pas ces règles. La définition de l'OSI pour l'IA ouverte exige que les systèmes fournissent un accès aux données d'entraînement et n'imposent pas de restrictions sur l'utilisation commerciale, ce que Meta ne fait pas avec son modèle Llama, promu comme le plus grand modèle d'IA open source. L'article explore la réaction de Meta et les implications pour l'industrie, avec des critiques suggérant que la protection de leur avantage compétitif est une motivation clé. L'OSI a consulté des experts mondiaux pendant deux ans pour développer sa définition, soulignant l'importance des données d'entraînement et des valeurs open source traditionnelles dans l'ère de l'IA.",
+        "image": "",
+        "date": "Mon, 28 Oct 2024 21:35:15 GMT"
+    },
+    {
+        "title": "KLAY Vision",
+        "link": "https://www.theverge.com/2024/10/28/24282030/universal-music-group-partners-with-klay-ai-company-ethical-music-generator-foundational-model",
+        "body": "Universal Music Group (UMG) s'associe à Klay Vision pour développer un modèle d'IA éthique et respectueux des droits d'auteur pour la génération de musique. Klay Vision, dirigée par Ary Attie, Thomas Hesse (ancien président de Sony Music Entertainment) et Björn Winckler (ancien chercheur chez Google Deepmind), développe un \"Large Music Model\" nommé KLayMM. L'objectif est de créer un écosystème mondial pour les expériences et contenus générés par l'IA, tout en respectant les droits des artistes humains et en offrant de nouvelles opportunités de monétisation. UMG, impliquée dans des poursuites judiciaires contre des sites de génération de musique par IA, cherche ainsi à influencer positivement le développement de l'IA dans l'industrie musicale.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383595/STK467_AI_MUSIC_CVirginia_D.jpg",
+        "date": "Mon, 28 Oct 2024 21:30:47 GMT"
+    },
+    {
+        "title": "Les géants de la tech démocratisent les chatbots basés sur des modèles linguistiques massifs",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques, telles que Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4), rendent les technologies de chatbots basées sur des modèles linguistiques massifs plus accessibles au grand public. Ces outils d'IA fonctionnent grâce à des systèmes d'autocompletion sophistiqués qui analysent les propriétés statistiques du langage pour faire des prédictions. Cependant, comme ils ne disposent pas de base de données de faits codés en dur, ils peuvent parfois fournir des informations erronées. OpenAI prévoit de lancer Orion, son prochain modèle de pointe, d'ici décembre. Dans le même temps, Google pourrait présenter son propre modèle d'action basé sur le lapin, nommé \"Project Jarvis\", d'ici décembre. Ce projet vise à aider les utilisateurs à automatiser des tâches quotidiennes basées sur le Web. De plus, Universal Music Group et Klay Vision collaborent pour créer un modèle de musique éthique basé sur l'IA, tandis que d'autres entreprises explorent des applications d'IA dans des domaines tels que la transcription médicale et la génération d'images.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Mon, 28 Oct 2024 21:30:47 GMT"
+    },
+    {
         "title": "La créativité de l'IA et le dilemme des hallucinations",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/10/28/fine-line-between-ai-hallucinations-and-ai-creativity-raises-the-thought-provoking-question-whether-getting-rid-of-the-zaniness-will-squash-the-inventiveness/?ss=ai",
         "body": "L'article explore le lien entre la créativité de l'IA et les « hallucinations » de l'IA, où l'IA génère des réponses fausses ou fictives. Il soulève la question de savoir si la suppression des hallucinations de l'IA pourrait également étouffer sa créativité. L'auteur suggère qu'il existe un parallèle entre la créativité humaine et les hallucinations, et que ce lien pourrait également s'appliquer à l'IA. L'article présente des opinions contrastées sur le sujet, certaines suggérant qu'il s'agit d'un compromis inévitable, tandis que d'autres proposent des mécanismes pour équilibrer les hallucinations et la créativité de l'IA. Il souligne également l'importance de rester critique face aux réponses de l'IA et de ne pas les prendre pour argent comptant.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/672007f32608bf5eb0ecd8be/0x0.jpg?format=jpg&crop=2422,1816,x17,y0,safe&width=440",
         "date": "Mon, 28 Oct 2024 21:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence arrive en Europe",
+        "link": "https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april",
+        "body": "Apple a annoncé le lancement prochain de ses fonctionnalités d'IA pour les utilisateurs d'iPhone et d'iPad en Europe, incluant Writing Tools, Genmoji, une version améliorée de Siri avec une meilleure compréhension du langage, l'intégration de ChatGPT, et plus encore. Les utilisateurs européens peuvent déjà avoir un aperçu de ces fonctionnalités sur leurs Macs avec la mise à jour macOS Sequoia 15.1, qui inclut des outils d'écriture assistée par l'IA, des améliorations de Siri et des résumés de mails. Apple Intelligence sera également disponible en anglais localisée dans plusieurs autres pays en décembre, probablement avec la mise à jour iOS 18.2 qui apportera encore plus de fonctionnalités liées à l'IA, comme la mise à niveau de Siri avec ChatGPT.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697385/STK071_APPLE_E.jpg",
+        "date": "Mon, 28 Oct 2024 19:47:03 GMT"
     },
     {
         "title": "L'avenir de la conception des systèmes à l'ère de l'IA",
@@ -166,12 +194,5 @@
         "body": "Résumé : \n\nChatGPT peut être un outil précieux pour les nouveaux leaders dans le domaine de l'éducation, en les aidant à naviguer dans les complexités de leur rôle et à améliorer leur efficacité. L'article propose six invites de ChatGPT conçues pour aider les nouveaux directeurs d'école à prospérer dans leur rôle, en se concentrant sur des aspects tels que la conscience de soi, la gestion des tâches, le développement de nouveaux leaders, la communication claire et inspirante, la compréhension du contexte de leur nouvel établissement et l'établissement de relations positives avec les parents et la communauté scolaire. Ces invites visent à fournir une base solide pour des conversations approfondies avec ChatGPT, qui peuvent à leur tour conduire à des résultats significatifs et à une meilleure prise de décision. L'article souligne également l'importance d'adapter ces invites aux besoins individuels et d'utiliser ChatGPT de manière réfléchie pour un impact positif maximal sur la communauté scolaire.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671e06ed8aabd99492735a01/0x0.jpg?format=jpg&crop=1639,922,x0,y27,safe&width=440",
         "date": "Sun, 27 Oct 2024 09:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des modèles plus petits et plus efficaces",
-        "link": "https://www.forbes.com/sites/danielnewman/2024/10/26/small-language-models--more-effective-and-efficient-for-enterprise-ai/?ss=ai",
-        "body": "L'enthousiasme pour l'IA générative a conduit à l'émergence de modèles massifs nécessitant d'importantes ressources. Cependant, des alternatives plus petites et plus efficaces en termes d'énergie et de coûts gagnent en popularité. NVIDIA a présenté NIM, une technologie de conteneurisation des modèles IA, tandis qu'IBM a dévoilé ses modèles Granite 3.0, des modèles linguistiques petits mais performants. Ces développements soulignent l'importance de l'optimisation des modèles IA pour des cas d'utilisation spécifiques, réduisant ainsi la consommation d'énergie et les coûts. L'avenir de l'IA dans les entreprises réside dans des modèles plus petits et plus flexibles, soutenus par des infrastructures adaptables, permettant des projets axés sur les résultats et une adoption à grande échelle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/671da2c8586180377691eb7a/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 27 Oct 2024 02:00:00 GMT"
     }
 ]
