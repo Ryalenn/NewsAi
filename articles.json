@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "Facebook développe son propre moteur de recherche : un nouveau danger pour Google et Bing",
+        "title": "Facebook d\u00e9veloppe son propre moteur de recherche : un nouveau danger pour Google et Bing",
         "link": "https://www.frandroid.com/marques/2385112_facebook-developpe-son-propre-moteur-de-recherche-un-nouveau-danger-pour-google-et-bing",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/facebook-meta-1200x800-1-768x512.jpg?resize=200,200&key=f6c0f79e",
         "date": "Mon, 28 Oct 2024 23:00:00 GMT",
@@ -236,5 +236,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6720da8cc7db8737ced13a41/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Oct 2024 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1820x1213/2400x1600/filters:focal(910x607:911x608):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+        "date": "Tue, 29 Oct 2024 19:05:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/29/24282821/microsoft-windows-recall-feature-optional-uninstall",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1842x1036/2400x1600/filters:focal(921x518:922x519):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25456809/Gen_AI_feature3_VP5_1842x1036.jpg",
+        "date": "Tue, 29 Oct 2024 18:05:51 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/29/24282544/github-copilot-multi-model-anthropic-google-open-ai-github-spark-announcement",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23437369/acastro_220504_STK121_0001.jpg",
+        "date": "Tue, 29 Oct 2024 16:10:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/10/29/the-prompt-hackers-compete-to-jailbreak-ai-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67214cb722e1bb3d17514b01/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Oct 2024 21:19:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/drektadang/2024/10/29/microsofts-30-billion-infrastructure-fund-is-driving-vertical-integration-of-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67214a0889ce601dbf8ca779/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Oct 2024 20:49:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/10/29/ai-in-disability-care-unlocking-agency-to-empower-people/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672128d16d3f01af4e32edff/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Oct 2024 18:00:00 GMT",
+        "check": "no"
     }
 ]
