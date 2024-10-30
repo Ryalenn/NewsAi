@@ -147,7 +147,7 @@
         "check": "yes"
     },
     {
-        "title": "Facebook développe son propre moteur de recherche : un nouveau danger pour Google et Bing",
+        "title": "Facebook d\u00e9veloppe son propre moteur de recherche : un nouveau danger pour Google et Bing",
         "link": "https://www.frandroid.com/marques/2385112_facebook-developpe-son-propre-moteur-de-recherche-un-nouveau-danger-pour-google-et-bing",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/facebook-meta-1200x800-1-768x512.jpg?resize=200,200&key=f6c0f79e",
         "date": "Mon, 28 Oct 2024 23:00:00 GMT",
@@ -271,5 +271,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66cd073f245b56c254dcc9e9/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Oct 2024 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/10/30/the-10-most-powerful-data-trends-that-will-transform-business-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6721d749e380539a5abc79c3/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Oct 2024 07:12:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/10/30/the-new-era-of-ai-native-development-emerges-at-github-universe-2024/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6721d5fcfcc6c438c15b9e2d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Oct 2024 06:00:00 GMT",
+        "check": "no"
     }
 ]
