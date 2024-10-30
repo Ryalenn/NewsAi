@@ -1,10 +1,31 @@
 [
     {
+        "title": "La stratégie d'IA de T-Mobile pour stimuler la croissance future",
+        "link": "https://www.forbes.com/sites/moorinsights/2024/10/29/t-mobile-outlines-its-next-big-steps-at-capital-markets-day/?ss=ai",
+        "body": "Lors de sa récente journée Capital Markets à San Francisco, T-Mobile a présenté sa vision à long terme, mettant en avant l'IA comme un élément clé de sa stratégie de croissance future. L'entreprise a souligné ses succès passés, y compris la fusion avec Sprint, qui a accéléré sa croissance et sa rentabilité. T-Mobile prévoit d'utiliser l'IA pour améliorer son réseau 5G, la satisfaction client et ses opérations. L'entreprise a formé des partenariats avec des leaders de l'IA tels qu'OpenAI et Nvidia pour créer une plateforme de service client basée sur l'IA, appelée IntentCX, et pour développer un réseau AI-RAN, appelé AI Aerial. T-Mobile vise également à servir les premiers intervenants avec son service T-Priority, offrant une capacité et une vitesse accrues. La stratégie d'IA de T-Mobile englobe tous les aspects de son activité, depuis son réseau 5G de classe mondiale jusqu'à l'amélioration de l'expérience client et l'efficacité opérationnelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6721687ffdb49babd0f3855e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Oct 2024 00:57:00 GMT"
+    },
+    {
         "title": "OpenAI's Military Ties and AI Industry Insights",
         "link": "https://www.forbes.com/sites/rashishrivastava/2024/10/29/the-prompt-hackers-compete-to-jailbreak-ai-models/?ss=ai",
         "body": "L'article résume les dernières nouvelles sur OpenAI et ses liens avec l'armée américaine, ainsi que d'autres développements importants dans le domaine de l'IA. OpenAI, la plus grande entreprise d'IA au monde, a récemment été liée au Pentagone et au Secrétaire de l'Armée, suggérant une collaboration croissante avec le complexe militaro-industriel américain. L'article mentionne également la prolifération de contenus générés par l'IA sur des plateformes comme Medium, les préoccupations éthiques concernant les applications d'accompagnement de l'IA, et les efforts de Meta pour développer son propre moteur de recherche alimenté par l'IA. Il souligne également les risques potentiels associés à l'IA, comme le montre le cas d'un adolescent qui s'est suicidé après avoir interagi avec un chatbot. L'article met également en lumière les startups de l'IA, telles que Nooks et Gray Swan AI, qui travaillent sur des solutions pour identifier et atténuer les risques associés aux modèles d'IA sophistiqués. Enfin, il propose des façons amusantes d'utiliser l'IA pendant Halloween.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67214cb722e1bb3d17514b01/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Oct 2024 21:19:00 GMT"
+    },
+    {
+        "title": "Google, leader de l'IA",
+        "link": "https://www.theverge.com/2024/10/29/24282757/google-new-code-generated-ai-q3-2024",
+        "body": "Google mise fortement sur l'IA, avec plus d'un quart de son nouveau code généré par l'IA, puis révisé par ses ingénieurs. Les résultats financiers d'Alphabet pour le troisième trimestre 2024 soulignent l'importance de l'IA pour l'entreprise, avec des revenus en hausse pour Google Services et Google Cloud, grâce à des fonctionnalités basées sur l'IA. Les récents produits de Google, tels que les smartphones Pixel 9 et les fonctionnalités IA de recherche, de Google Meet et de YouTube, démontrent l'engagement de l'entreprise envers l'IA. Cependant, l'entreprise fait face à des défis potentiels suite à une décision selon laquelle elle est un monopole dans les marchés de la recherche et de la publicité.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+        "date": "Tue, 29 Oct 2024 21:05:27 GMT"
+    },
+    {
+        "title": "Waymo en pleine croissance",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/10/29/alphabets-waymo-logging-150000-robotaxi-rides-and-1-million-miles-a-week/?ss=ai",
+        "body": "Waymo, la filiale de taxis robot d'Alphabet, connaît une croissance rapide, avec plus de 150 000 courses payantes par semaine, soit une augmentation de plus de 50 % depuis août. Cette performance place la société en tête de la course à la conduite autonome, devant des concurrents potentiels comme Tesla d'Elon Musk. La société, qui opère à Phoenix, San Francisco et Los Angeles, prévoit de s'étendre à Austin et Atlanta, et vise la rentabilité grâce à de nouveaux investissements, à un nouveau système de capteurs et à des véhicules électriques basés sur le modèle Hyundai Ioniq 5. Waymo bénéficie d'un avantage technique significatif, avec plus d'un million de miles parcourus en mode autonome, et est en bonne voie pour devenir un acteur majeur de l'industrie des taxis robots.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66cd073f245b56c254dcc9e9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Oct 2024 21:00:00 GMT"
     },
     {
         "title": "Microsoft et BlackRock s'associent pour investir 30 milliards de dollars dans l'infrastructure IA",
@@ -264,19 +285,5 @@
         "body": "L'IA transforme notre façon de célébrer Halloween avec des fonctionnalités amusantes et effrayantes. ChatGPT et Google proposent de nouvelles expériences vocales et visuelles, créant un compagnon AI divertissant et addictif. ChatGPT Advanced Voice, basé sur GPT-4o, offre une conversation humaine empathique, réagissant même aux indices non verbaux. NotebookLM de Google crée des podcasts engageants à partir de documents téléchargés. OpenAI lance o1-preview et o1-mini, des modèles de raisonnement plus avancés, tandis que des rumeurs suggèrent que Orion d'OpenAI et Jarvis de Google pourraient être lancés en décembre. L'IA devient plus accessible, plus humaine et plus addictive, améliorant notre quotidien et notre divertissement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671e817c4c8b26e125b03767/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 28 Oct 2024 04:00:00 GMT"
-    },
-    {
-        "title": "Les dangers de l'hallucination de l'IA",
-        "link": "https://www.theverge.com/2024/10/27/24281170/open-ai-whisper-hospitals-transcription-hallucinations-studies",
-        "body": "L'article met en lumière un problème potentiel avec l'outil de transcription AI Whisper d'OpenAI, qui est utilisé dans un outil de transcription médicale par Nabla, une entreprise estimée à 7 millions de conversations médicales transcrites. L'étude, présentée à la conférence de l'Association for Computing Machinery FAccT, a révélé que Whisper a inventé des phrases et des conditions médicales dans environ 1 % des transcriptions, ce qui soulève des inquiétudes quant à son utilisation dans des contextes sensibles. OpenAI a déclaré qu'il prenait ce problème au sérieux et travaillait à l'améliorer, soulignant que ses politiques d'utilisation interdisent l'utilisation de Whisper dans certains contextes de prise de décision à haut risque.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg",
-        "date": "Sun, 27 Oct 2024 23:19:36 GMT"
-    },
-    {
-        "title": "Apple M4 et l'IA",
-        "link": "https://www.frandroid.com/marques/apple/2383646_cest-la-grande-semaine-des-annonces-apple-voici-ce-que-lon-attend",
-        "body": "Apple a confirmé une série d'annonces pour la semaine du 28 octobre 2024, notamment le lancement de la puce Apple M4 pour ses Mac, qui inclut la compatibilité totale avec Apple Intelligence, sa suite d'outils d'IA générative. La puce M4 sera accompagnée des puces M4 Pro et M4 Max pour les MacBook Pro. Le nouveau Mac mini est la star de cet événement, avec un design plus compact et une connectique USB-C dominante. Apple renouvelle également sa gamme d'iMac et de MacBook Pro avec un minimum de 16 Go de RAM pour l'IA générative. La Magic Mouse, le Magic Keyboard et le Magic TrackPad passeront à l'USB-C. iOS 18.1 sera déployé avec des fonctions Apple Intelligence, mais pas encore en France.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/semaine-apple-28-octobre-1200x675-1-768x432.jpg?resize=169,169&key=1a8a46c0",
-        "date": "Sun, 27 Oct 2024 23:00:00 GMT"
     }
 ]
