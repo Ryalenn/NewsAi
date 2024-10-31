@@ -217,7 +217,7 @@
         "check": "yes"
     },
     {
-        "title": "Un quart du code généré par l’IA : Google montre l’exemple pour accroître « la productivité et l’efficacité »",
+        "title": "Un quart du code g\u00e9n\u00e9r\u00e9 par l\u2019IA : Google montre l\u2019exemple pour accro\u00eetre \u00ab la productivit\u00e9 et l\u2019efficacit\u00e9 \u00bb",
         "link": "https://www.frandroid.com/marques/2388642_un-quart-du-code-genere-par-lia-google-montre-lexemple-pour-accroitre-la-productivite-et-lefficacite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2010/08/google-logo-1024x426.jpg?resize=262,262&key=cb845cb7",
         "date": "Wed, 30 Oct 2024 23:00:00 GMT",
@@ -264,5 +264,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672224a729151b4833660ca0/0x0.jpg?format=jpg&crop=3564,1670,x0,y582,safe&width=440",
         "date": "Thu, 31 Oct 2024 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2389380_chatgpt-search-le-nouveau-moteur-de-recherche-dopenai-qui-fait-trembler-google",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/image-49-2-1200x675-1-768x432.jpg?resize=169,169&key=0b3aaa78",
+        "date": "Wed, 30 Oct 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/google/2388888_google-maps-et-waze-profitent-de-gemini-les-petites-fonctions-pratiques-a-decouvrir",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/copy-of-logo-simple-f-1200x675-1-768x432.jpg?resize=169,169&key=c4ab8c00",
+        "date": "Wed, 30 Oct 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
+        "date": "Thu, 31 Oct 2024 16:49:58 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/31/24284037/waze-report-incidents-voice",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2844x1592/2400x1600/filters:focal(1422x796:1423x797):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25708121/waze_conversational_report.png",
+        "date": "Thu, 31 Oct 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/31/24283970/google-maps-gemini-ai-answer-questions",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1685x862/2400x1600/filters:focal(843x431:844x432):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25707359/google_maps_ai_update.png",
+        "date": "Thu, 31 Oct 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/10/31/re-wirement-vs-retirement---51-of-older-workers-demand-ai-training/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6723a3145ebc71100d4ae02f/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Oct 2024 15:00:00 GMT",
+        "check": "no"
     }
 ]
