@@ -243,5 +243,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672326cebcecab861ba3cb9b/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Oct 2024 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/30/24284038/ai-is-big-business-for-microsoft",
+        "image": "",
+        "date": "Wed, 30 Oct 2024 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/30/24282906/avride-sidewalk-delivery-robot-update-wheels",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+        "date": "Tue, 29 Oct 2024 21:05:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2024/10/31/this-ai-model-could-keep-thousands-of-cancer-patients-from-getting-unnecessary-treatments/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67229b0277fdc9156ac89878/0x0.jpg?format=jpg&crop=2008,1506,x0,y879,safe&width=440",
+        "date": "Thu, 31 Oct 2024 12:29:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/10/31/how-the-2025-presidential-election-could-transform-the-future-of-ai-in-america-and-beyond/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672367d3ea8366db2c3661c4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Oct 2024 11:00:00 GMT",
+        "check": "no"
     }
 ]
