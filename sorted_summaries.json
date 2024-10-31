@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir de l'investissement à impact : le rôle de l'IA",
+        "link": "https://www.forbes.com/sites/annefield/2024/10/31/impact-investors-are-larger-skeptical-of-ai-for-now-finds-the-giin/?ss=ai",
+        "body": "Le monde de l'investissement à impact mûrit et se développe, tandis que les investisseurs peinent à comprendre l'impact de l'IA sur leur travail. C'est l'une des conclusions de l'enquête annuelle de GIIN, qui a interrogé 305 organisations d'investissement à impact gérant chacune plus de 10 millions de dollars d'actifs. L'enquête révèle que les investisseurs institutionnels jouent un rôle clé dans la croissance de ce secteur, avec 92 % des actifs provenant d'investisseurs plus importants. Les actifs à impact ont connu un taux de croissance annuel composé de 14 %, les investisseurs utilisant des classes d'actifs plus complexes. La demande des clients a également été citée comme un facteur important de progrès.\n\nBien que le monde des affaires adopte l'IA à un rythme rapide, les investisseurs à impact semblent plus réticents, 38 % d'entre eux souhaitant mieux comprendre la technologie avant de la déployer. Cependant, le paysage pourrait changer rapidement, car un quart d'entre eux prévoient d'utiliser l'IA dans leur stratégie d'ici un an. Le potentiel de l'IA dans la mesure de l'impact est particulièrement prometteur, selon Dean Hand, responsable de la recherche chez GIIN.\n\nLes investissements dans le climat présentent une image contrastée, avec un déclin au cours des cinq dernières années, mais une récente pointe d'investisseurs (52 %) effectuant au moins un investissement dans le climat. Les investisseurs prévoient d'adapter leurs stratégies pour faire face aux défis croissants du changement climatique. Enfin, la majorité des investisseurs sont satisfaits des performances financières et d'impact, qui ont répondu ou dépassé les attentes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6706e0e33412ea9159086f7d/0x0.jpg?format=jpg&crop=2543,1429,x0,y131,safe&width=440",
+        "date": "Thu, 31 Oct 2024 14:43:00 GMT"
+    },
+    {
+        "title": "La domination du marché de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/10/31/is-there-game-theory-to-todays-ai-industry/?ss=ai",
+        "body": "Résumé : \n\nL'article examine l'évolution du paysage de l'IA d'entreprise à la fin de 2024, avec un focus particulier sur l'émergence de modèles de raisonnement plus avancés capables de simuler la pensée humaine de manière plus complète. Il mentionne également la dynamique de marché intéressante entre les grandes entreprises technologiques et leur collaboration respective avec des organisations de pointe en IA, telles que Microsoft avec OpenAI, AWS avec Anthropic, Google avec Deepmind, et Meta qui semble se débrouiller seule pour le moment. L'auteur souligne la nécessité d'une puissance de calcul importante pour exploiter pleinement les derniers progrès de l'IA, comme le montre le système Colossus d'Elon Musk. La course à la domination du marché de l'IA est décrite comme un \"combat de couteaux\", avec l'émergence d'une architecture cognitive plus complexe.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6723909e79f79b44b2858991/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Oct 2024 14:00:00 GMT"
+    },
+    {
+        "title": "Persana AI lève des fonds pour développer sa plateforme d'agents numériques autonomes",
+        "link": "https://www.forbes.com/sites/davidprosser/2024/10/31/how-persana-ai-plans-to-help-sales-teams-get-back-to-what-they-do-best/?ss=ai",
+        "body": "Persana AI, une start-up basée à San Francisco, annonce un financement de 2,3 millions de dollars pour développer sa plateforme d'intelligence artificielle (IA) destinée aux équipes de vente et de marketing. La société, fondée par d'anciens cadres de LinkedIn, Rush Shahani et Sriya Maram, vise à automatiser les tâches manuelles associées aux activités de vente. En agrégant les données de multiples bases de données, Persana AI permet aux utilisateurs de rechercher simultanément des leads de vente dans plus de 75 bases de données, en apprenant de chaque recherche pour affiner les résultats. L'entreprise affirme que sa plateforme peut réduire le cycle de vente de 25 % et augmenter les taux de conversion de 30 %. Avec des investisseurs tels que Y Combinator et Race Capital, Persana AI prévoit d'étendre les capacités de sa plateforme en développant des agents numériques autonomes pour la recherche en temps réel, le suivi automatique et l'analyse prédictive des tendances pour identifier les prospects à haute priorité. La société s'aventure également dans d'autres fonctions GTM à haute valeur, telles que l'engagement des clients et l'intégration.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672224a729151b4833660ca0/0x0.jpg?format=jpg&crop=3564,1670,x0,y582,safe&width=440",
+        "date": "Thu, 31 Oct 2024 14:00:00 GMT"
+    },
+    {
         "title": "Une approche innovante de l'IA pour prédire la gravité du cancer du sein",
         "link": "https://www.forbes.com/sites/alexknapp/2024/10/31/this-ai-model-could-keep-thousands-of-cancer-patients-from-getting-unnecessary-treatments/?ss=ai",
         "body": "Ataraxis, une startup qui est sortie de l'ombre jeudi, a développé un modèle basé sur l'IA capable de prédire la gravité du cancer du sein avec une précision jusqu'à 30 % supérieure aux tests actuels. La société, fondée en 2023 par Jan Witowski et Krzysztof Geras, a développé un test de diagnostic assisté par l'IA, Ataraxis Breast, qui peut évaluer avec précision si un cancer du sein présente un risque élevé ou faible, aidant ainsi les médecins à déterminer si un patient nécessite un traitement agressif. Le système s'appuie sur plusieurs modèles de prédiction, dont les erreurs sont atténuées en utilisant la moyenne de leurs prédictions. Cette approche, combinée à d'autres techniques telles que l'apprentissage auto-supervisé, a permis d'obtenir une précision avec un ordre de grandeur de données et de puissance de calcul inférieur, réduisant ainsi les coûts de développement. Ataraxis a validé les résultats de son test en l'appliquant à des images historiques de stade précoce de 3 500 patients, et prévoit de mener d'autres études pour valider davantage son modèle et développer d'autres insights assistés par l'IA pour le traitement du cancer du sein.",
@@ -12,6 +33,13 @@
         "body": "L'affrontement à venir entre Donald Trump et Kamala Harris représente bien plus qu'un simple affrontement politique, c'est un moment décisif pour l'avenir de l'intelligence artificielle. Les candidats présentent des visions radicalement différentes de l'approche de la révolution de l'IA, avec des conséquences potentielles de grande envergure. Harris, suivant les pas de Biden, préconise une \"innovation responsable\", mettant l'accent sur des directives éthiques, la coopération internationale et la protection de la vie privée. De l'autre côté, Trump propose un assouplissement des réglementations, y compris le démantèlement de l'ordre exécutif de Biden, arguant que la surveillance excessive menace la compétitivité de l'Amérique dans la course mondiale à l'IA. Cette élection est cruciale pour l'industrie technologique, avec des implications pour la compétitivité mondiale et les investissements futurs dans l'IA. Une victoire de Harris renforcerait la coopération internationale et l'éthique dans la gouvernance de l'IA, tandis qu'une victoire de Trump conduirait à une intervention gouvernementale minimale, accélérant potentiellement le développement de l'IA mais soulevant des inquiétudes éthiques et sociétales.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/672367d3ea8366db2c3661c4/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Oct 2024 11:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la réalité mixte",
+        "link": "https://www.theverge.com/2024/9/5/24236545/qualcomm-mixed-reality-smart-glasses-google-samsung",
+        "body": "Le PDG de Qualcomm, Cristiano Amon, a révélé que le partenariat entre Samsung, Qualcomm et Google, annoncé l'année dernière, vise à développer des lunettes de réalité mixte fonctionnant avec le smartphone de l'utilisateur. Amon souhaite que ces lunettes deviennent un produit grand public, accessible à tous les possesseurs de smartphones, et qu'elles soient aussi courantes que les lunettes de vue ou de soleil. Il souligne que l'ingrédient manquant pour l'expansion du marché de la réalité mixte était l'IA générative, qui fonctionnera à la fois sur l'appareil, dans le cloud, et offrira de toutes nouvelles expériences. Google a également teasé ses propres lunettes AR fonctionnant avec son futur assistant AI multimodal Project Astra. Le PDG de Qualcomm se dit ravi des Ray-Ban Meta Smart Glasses, sorties l'année dernière et équipées de leur puce Snapdragon AR1 Gen 1.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:856x772/2400x2164/filters:focal(432x530:433x531):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25708015/samsung_xr_2025.png",
+        "date": "Thu, 31 Oct 2024 09:53:08 GMT"
     },
     {
         "title": "Démocratisation de l'IA",
@@ -28,11 +56,25 @@
         "date": "Thu, 31 Oct 2024 06:00:00 GMT"
     },
     {
+        "title": "L'IA au cœur de la stratégie de Google",
+        "link": "https://www.frandroid.com/marques/2388642_un-quart-du-code-genere-par-lia-google-montre-lexemple-pour-accroitre-la-productivite-et-lefficacite",
+        "body": "L'intelligence artificielle (IA) est au cœur de la stratégie de Google, comme l'a révélé Sundar Pichai, PDG d'Alphabet, lors d'une conférence téléphonique sur les résultats du troisième trimestre de l'entreprise. Pichai a souligné que plus d'un quart du nouveau code de Google est désormais généré par l'IA, ce qui permet d'accroître la productivité et l'efficacité de l'entreprise. Cette stratégie a un impact financier positif, avec une augmentation de 15 % du chiffre d'affaires au troisième trimestre 2024 par rapport à l'année dernière, atteignant 88,3 milliards de dollars. Cependant, l'investissement dans l'IA a également entraîné une augmentation de 13 % de l'empreinte carbone de Google, incitant l'entreprise à explorer des sources d'énergie alternatives comme le nucléaire. Pichai a également annoncé que Google se prépare à améliorer ses services d'IA existants et à lancer de nouveaux projets, tels que le \"Projet Astra\" prévu pour 2025.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2010/08/google-logo-1024x426.jpg?resize=262,262&key=cb845cb7",
+        "date": "Wed, 30 Oct 2024 23:00:00 GMT"
+    },
+    {
         "title": "Le futur de la recherche en IA",
         "link": "https://www.forbes.com/sites/johnwerner/2024/10/30/the-ai-search-wars-are-heating-up/?ss=ai",
         "body": "Meta, anciennement Facebook, développe son propre moteur de recherche basé sur l'IA pour son outil Meta AI, marquant une évolution vers des outils d'IA intelligents et autonomes. Meta a conclu un partenariat avec Reuters pour intégrer leurs actualités à la plateforme, suivant ainsi les traces d'OpenAI avec son système SearchGPT. Cette tendance s'inscrit dans le phénomène plus large de l'évolution des assistants IA vers des agents IA plus autonomes et proactifs. Des modèles comme Claude d'Anthropic, o1 d'OpenAI et Gemini de Google démontrent des capacités de raisonnement avancées, permettant une délégation de responsabilités plus importante de la part des humains. Les experts prédisent que ces systèmes révolutionneront la façon dont les tâches complexes sont gérées, impactant ainsi divers secteurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6722b2b99824694fe443872b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 30 Oct 2024 22:00:00 GMT"
+    },
+    {
+        "title": "Meta's AI Ambitions",
+        "link": "https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings",
+        "body": "Meta, sous la direction de Mark Zuckerberg, cherche à promouvoir son modèle d'IA Llama auprès du gouvernement américain, suscitant ainsi de nombreuses interrogations. Bien que Meta ait refusé tout paiement dans le cadre de ces partenariats, la société a annoncé des collaborations avec le Département d'État, le Département de l'Éducation, et d'autres agences pour explorer les applications de Llama dans divers domaines. Ces efforts interviennent à un moment intéressant, alors que Donald Trump a récemment menacé de prison Zuckerberg, et que les concurrents de Meta dans le domaine de l'IA, tels qu'OpenAI et Anthropic, se rapprochent eux aussi du gouvernement pour des tests de sécurité. Pendant ce temps, Zuckerberg a révélé que la prochaine version de Llama serait formée sur un cluster plus grand que tout ce qui a été rapporté, et qu'il s'attend à des améliorations significatives en termes de modalités, de raisonnement et de vitesse. Malgré les dépenses croissantes dans l'IA, Meta continue de croître, avec des revenus et des bénéfices en hausse, et une base d'utilisateurs quotidienne impressionnante.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263315/STK169_Zuckerberg_B_CVirginia.jpg",
+        "date": "Wed, 30 Oct 2024 21:51:36 GMT"
     },
     {
         "title": "L'obéissance anticipatoire et l'IA générative",
@@ -68,6 +110,13 @@
         "body": "Christopher Gray, le fondateur de Scholly, une application de recherche de bourses d'études, s'associe à Chandler Malone pour lancer Path, une plateforme d'IA destinée à rendre la préparation aux tests plus accessible et abordable. Path propose des examens pratiques et un entraînement personnalisé pour divers examens, des tests d'admission aux certifications techniques, à un prix annuel abordable de 60 $. La plateforme utilise l'IA pour évaluer les réponses des utilisateurs, générer des cours sur mesure et prédire leurs résultats finaux. L'objectif est d'offrir des opportunités économiques aux étudiants et aux demandeurs d'emploi qui n'ont pas les moyens de s'offrir des cours particuliers coûteux. Malone, qui a fondé un studio de capital-risque axé sur les fondateurs noirs et Bootup, une plateforme pour les camps d'entraînement technique, a constaté que les coûts de ces camps étaient souvent élevés. Path vise à combler cette lacune et offre également une bourse de 25 000 $ pour les étudiants.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67226300913b1190087bcce7/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 30 Oct 2024 17:00:00 GMT"
+    },
+    {
+        "title": "Les géants de la tech et la course à l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. Universal Music Group s'associe à Klay Vision pour créer un modèle de musique éthique, tandis que Google prévoit de présenter son propre modèle d'action basé sur le lapin en décembre. OpenAI lance Orion d'ici décembre, et Anthropic présente une nouvelle fonctionnalité \"computer use\" pour son modèle Claude 3.5 Sonnet AI, permettant de contrôler un ordinateur. Google étend Gemini Live à plusieurs langues et lance des fonds d'écran AI pour Google TV. L'IA de Meta génère des images de l'aurore boréale, et Google NotebookLM crée un podcast sur l'IA. OpenAI prévoit de changer sa structure à but non lucratif, et LinkedIn utilise les données des utilisateurs pour entraîner des modèles d'IA sans leur consentement.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 30 Oct 2024 16:54:36 GMT"
     },
     {
         "title": "Apple introduit des résumés des avis des utilisateurs sur l'App Store",
@@ -250,26 +299,5 @@
         "body": "L'IA a récemment évolué, passant de la simple génération de phrases à l'interaction avec l'environnement physique, comme l'illustre l'interface informatique utilisée par l'IA Claude d'Anthropic. Ethan Mollick, scientifique, professeur à la Wharton School et auteur, souligne que cette nouvelle approche agentique implique de donner des instructions à l'IA et de la laisser travailler de manière autonome, ce qui diffère des conversations typiques avec les chatbots. Mollick a testé Claude en lui demandant de créer un plan de leçon, et a été impressionné par sa capacité à gérer des tâches complexes sans supervision. Il souligne également la capacité de l'IA à apprendre de ses erreurs et à s'améliorer, comme le montre sa réalisation de tests A/B. Bien que l'IA ne soit pas parfaite et puisse parfois être têtue, sa volonté d'autonomie est remarquable. Les entreprises doivent s'adapter rapidement à cette nouvelle réalité, en développant de nouvelles compétences et en changeant leur façon de penser le travail et l'organisation. L'IA évolue rapidement et nous devons nous préparer à un avenir où elle sera plus intelligente que nous.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67210ab16c12786a974ba7e2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Oct 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA selon les PDG d'OpenAI et Anthropic",
-        "link": "https://www.theverge.com/2024/10/29/24282333/ai-vision-anthropic-openai-shakealert-vergecast",
-        "body": "David Pierce explore les visions de l'avenir de l'IA présentées par les PDG de deux des plus grandes entreprises du domaine, OpenAI et Anthropic. Dans des articles de blog récents, Sam Altman (OpenAI) et Dario Amodei (Anthropic) partagent leurs idées sur le rôle potentiel de l'IA dans la création d'un monde incroyable, beau et égal. L'épisode du Vergecast comprend une discussion entre Pierce et Kylie Robison sur les points de vue de ces PDG, y compris leurs convergences et divergences. L'épisode couvre également les prochains lancements de modèles LLMs, l'application ShakeAlert pour les alertes aux tremblements de terre et le bouton de contrôle de la caméra de l'iPhone 16.",
-        "image": "",
-        "date": "Tue, 29 Oct 2024 13:30:00 GMT"
-    },
-    {
-        "title": "Maîtriser sa voix avec ChatGPT",
-        "link": "https://www.forbes.com/sites/aytekintank/2024/10/29/7-chatgpt-prompts-to-train-ai-to-write-like-you/?ss=ai",
-        "body": "L'article fournit des conseils pour les professionnels de l'IA et les écrivains sur la façon d'utiliser ChatGPT pour refléter leur voix unique et maintenir leur créativité. Il souligne l'importance de la « voix » dans l'écriture, qui englobe le ton, le style et la diction. L'auteur suggère d'entraîner ChatGPT avec des échantillons d'écriture pour analyser et reproduire la voix de l'utilisateur, en adaptant le ton et le style à différents publics et plateformes. L'outil peut aider à générer du contenu original, à reformuler du contenu existant et à maintenir une voix cohérente sur différentes plateformes. L'article fournit des invites spécifiques pour guider ChatGPT, y compris l'analyse de la voix, la génération de contenu et la reformulation pour des publics spécifiques. Il souligne que ChatGPT peut améliorer la créativité et l'impact des écrivains, tout en leur apprenant quelque chose de nouveau sur leur propre écriture.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6720da8cc7db8737ced13a41/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Oct 2024 13:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un allié puissant au service de l'humain",
-        "link": "https://www.forbes.com/sites/solrashidi/2024/10/29/when-to-use-ai-and-when-not-tostep-by-step-guidance/?ss=ai",
-        "body": "Résumé : \n\nL'intelligence artificielle (IA) est de plus en plus présente dans notre quotidien et offre des possibilités fascinantes. Cependant, il est essentiel de se rappeler que l'IA devrait compléter nos capacités plutôt que de les remplacer. L'article guide le lecteur sur l'utilisation efficace de l'IA en tant qu'outil pour stimuler la curiosité intellectuelle, la pensée critique et le besoin de travailleurs du savoir qualifiés. L'IA excelle dans l'exécution de tâches répétitives, l'analyse de grandes quantités de données et l'automatisation des processus ne nécessitant pas de jugement humain. En tirant parti de ces capacités, nous pouvons libérer nos ressources mentales pour résoudre des problèmes plus complexes et développer notre pensée créative. La clé est de ne pas laisser l'IA penser pour nous, mais de l'utiliser comme un allié puissant tout en continuant à cultiver et à renforcer nos compétences en matière de pensée critique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6720dfba5ea45a7633992b11/0x0.jpg?format=jpg&crop=1490,941,x0,y0,safe&width=440",
-        "date": "Tue, 29 Oct 2024 13:00:00 GMT"
     }
 ]
