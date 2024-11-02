@@ -1,5 +1,26 @@
 [
     {
+        "title": "La révolution de la recherche avec ChatGPT",
+        "link": "https://www.forbes.com/sites/geruiwang/2024/11/02/chatgpts-new-search-function-efficiency-clashes-with-exploitations/?ss=ai",
+        "body": "L'intégration d'une fonction de recherche dans ChatGPT marque un tournant dans l'accès à l'information. Cette évolution offre des avantages évidents en termes de commodité et d'efficacité, permettant aux utilisateurs d'accéder aux données et aux informations en un seul endroit. Cependant, elle soulève également des préoccupations importantes. L'article explore l'impact de cette fonctionnalité sur la façon dont les utilisateurs trouvent et utilisent l'information, en soulignant les risques potentiels liés à la concentration du pouvoir sur l'information et à l'exploitation du temps et des données des utilisateurs. Avec l'évolution de l'IA, une gouvernance responsable et des politiques claires sont essentielles pour éviter les pièges de l'exploitation par le capitalisme numérique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6725d87169bf30af7d3de47f/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 02 Nov 2024 17:38:00 GMT"
+    },
+    {
+        "title": "La Révolution de l'Animation",
+        "link": "https://www.forbes.com/sites/geruiwang/2024/11/02/runway-ai-is-changing-animation-how-to-use-it-to-tell-untold-stories/?ss=ai",
+        "body": "Runway, une plateforme d'IA générant des vidéos, a lancé Act-One, une fonctionnalité révolutionnaire permettant de créer des expressions faciales nuancées et de maintenir la cohérence des personnages dans les vidéos générées par IA, sans équipement complexe de capture de mouvement. Cette avancée démocratise la création de contenus animés, abaissant les barrières techniques et financières. Act-One a le potentiel d'impacter diverses industries, de l'e-commerce au divertissement, en passant par les médias sociaux et la formation en entreprise. L'article souligne également l'importance de l'IA dans l'industrie de l'animation, en retraçant son évolution depuis \"Blanche-Neige et les Sept Nains\" de Disney en 1937 jusqu'aux productions modernes utilisant la capture de mouvement et la CGI. Enfin, il met en lumière les possibilités créatives et narratives qu'offre Act-One, encourageant les créateurs à utiliser cette technologie pour promouvoir la justice sociale, la durabilité et la diversité des histoires et des voix représentées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67255bd1777e2c107c1e9eb7/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 02 Nov 2024 16:00:00 GMT"
+    },
+    {
+        "title": "L'utilisation de l'IA par les témoins experts : défis et considérations",
+        "link": "https://www.forbes.com/sites/larsdaniel/2024/11/02/in-the-courtroom-can-expert-witnesses-use-ai/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672642bbe2351ac07f61cf43/0x0.jpg?format=jpg&crop=2222,1249,x0,y85,safe&width=440",
+        "date": "Sat, 02 Nov 2024 15:00:00 GMT"
+    },
+    {
         "title": "America's AI Future",
         "link": "https://www.forbes.com/sites/jamesbroughel/2024/11/02/americas-ai-security-strategy-acknowledges-theres-no-stopping-ai/?ss=ai",
         "body": "Le mémorandum de sécurité nationale sur l'IA de l'administration Biden indique que le développement de l'IA est essentiel pour la sécurité nationale et inarrêtable. Au lieu de ralentir le développement de l'IA, le mémo se concentre sur le soutien et la sécurisation de l'infrastructure de l'IA américaine. Il aborde la consommation énergétique massive de l'IA, proposant d'étendre les sources d'énergie renouvelables pour les centres de données de l'IA. Une force opérationnelle est créée pour rationaliser les processus d'autorisation des nouveaux centres de données. Le mémo traite également de la nature à double usage de l'IA, de sa cybersécurité et du renforcement de la production de semi-conducteurs américains. La sécurité de la chaîne d'approvisionnement est également une priorité. Le mémo reconnaît les avantages de l'IA pour la sécurité nationale, en particulier dans les domaines du renseignement et des applications militaires. Il s'agit d'une approche pragmatique de la gouvernance de l'IA, se concentrant sur la construction d'infrastructures et la garantie d'une progression responsable et sécurisée de l'IA, tout en reconnaissant son rôle crucial dans la défense et la sécurité nationales.",
@@ -152,40 +173,5 @@
         "body": "L'IA conversationnelle Claude d'Anthropic dispose désormais d'une application de bureau pour Windows et Mac, accessible gratuitement sur le site web d'Anthropic. La semaine dernière, Anthropic a lancé en version bêta publique sa fonction « utilisation de l'ordinateur », qui permet au modèle Claude 3.5 Sonnet de contrôler un ordinateur en regardant l'écran, en déplaçant le curseur, en cliquant sur des boutons et en saisissant du texte. De plus, Anthropic déploie la fonction de dictée pour les applications Android et iOS de Claude, permettant aux utilisateurs de poser des questions à l'aide de leur voix. L'application de bureau offre une expérience similaire à la version web, avec des fonctionnalités supplémentaires pour une utilisation plus pratique et directe depuis le bureau de l'utilisateur.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263505/STK_414_AI_C.jpg",
         "date": "Thu, 31 Oct 2024 18:47:16 GMT"
-    },
-    {
-        "title": "Copilot Recall Delays",
-        "link": "https://www.theverge.com/2024/10/31/24284572/microsoft-recall-delay-december-windows-insider-testing",
-        "body": "Microsoft retarde à nouveau le déploiement de sa fonction Recall pour les PC Copilot Plus, initialement prévue pour octobre. Recall, qui capture des captures d'écran de presque tout ce que vous voyez ou faites sur un PC Copilot Plus, soulève des inquiétudes en matière de sécurité. Microsoft s'engage à améliorer la sécurité et à rendre Recall optionnel, avec la possibilité de le désinstaller complètement. La fonction utilise des modèles IA locaux intégrés à Windows 11 pour capturer des captures d'écran, qui peuvent être consultées via une chronologie explorable. Les retards sont dus à la refonte de la sécurité de Recall, avec un accès à la base de données de Recall uniquement via l'authentification Windows Hello.",
-        "image": "",
-        "date": "Thu, 31 Oct 2024 18:19:40 GMT"
-    },
-    {
-        "title": "La promesse de l'IA",
-        "link": "https://www.forbes.com/sites/richardnieva/2024/10/31/google-deepmind-john-jumper-nobel-prize-alphafold/?ss=ai",
-        "body": "Le directeur de Google DeepMind, John Jumper, et le cofondateur de DeepMind, Demis Hassabis, ont reçu le prix Nobel de chimie pour la création d'AlphaFold, un modèle d'IA qui prédit la structure des protéines. Jumper discute de l'impact actuel de l'IA, notamment dans les chatbots et la génération d'images, ainsi que de son potentiel dans la résolution de problèmes scientifiques complexes. Il souligne l'échange de connaissances entre les technologies de chatbots et les applications scientifiques, et prévoit une intégration plus poussée des modèles de base dans AlphaFold. Jumper aborde également les préoccupations en matière de sécurité et l'impact de la fusion de DeepMind avec Google Brain. Enfin, il exprime son enthousiasme pour les progrès futurs en matière de prédiction de la structure des protéines et de compréhension cellulaire.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6723cc3ae0041ba20dcd1346/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 31 Oct 2024 18:00:00 GMT"
-    },
-    {
-        "title": "Humane Recalls AI Pin Charging Cases Due to Fire Hazard",
-        "link": "https://www.theverge.com/2024/10/31/24284691/humane-ai-pin-charge-case-recall-fire-hazard",
-        "body": "Humane rappelle environ 10 500 unités de son étui de chargement pour l'AI Pin en raison d'un risque potentiel de surchauffe et d'incendie de la batterie au lithium-polymère. L'entreprise a récemment réduit le prix de l'appareil et propose désormais un modèle moins cher sans l'étui de chargement. Les clients peuvent choisir entre un remboursement complet ou un étui de remplacement. L'entreprise prévoit de lancer un nouvel étui de chargement plus sûr dans les trois à six prochains mois. L'avenir de Humane est incertain, et on se demande si l'entreprise trouvera un acheteur ou réussira à implémenter son logiciel CosmOS sur d'autres produits.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2700x1800/2400x1600/filters:focal(1350x900:1351x901):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379367/247075_Humane_AI_pin_AKrales_0326.jpg",
-        "date": "Thu, 31 Oct 2024 17:37:15 GMT"
-    },
-    {
-        "title": "ChatGPT se lance dans la recherche web alimentée par l'IA",
-        "link": "https://www.theverge.com/2024/10/31/24283906/openai-chatgpt-live-web-search-searchgpt",
-        "body": "ChatGPT, le populaire chatbot basé sur l'IA, se lance officiellement dans la recherche web alimentée par l'IA, comblant ainsi l'écart avec ses rivaux comme Microsoft Copilot et Google Gemini. La fonctionnalité de recherche web sera intégrée à l'interface existante de ChatGPT, offrant aux utilisateurs des résultats en temps réel en plus des réponses générées par l'IA. La recherche web de ChatGPT est basée sur un mélange de technologies de recherche, y compris Microsoft Bing, et utilise un modèle affiné de GPT-4. Cette fonctionnalité améliore considérablement les capacités de ChatGPT, lui permettant d'accéder à des informations à jour et de rivaliser avec les moteurs de recherche traditionnels. La fonctionnalité sera disponible pour tous les utilisateurs de ChatGPT sur iOS, Android et les applications de bureau. Alors que le lancement intervient à un moment où les géants de la tech s'intéressent de plus en plus à la recherche alimentée par l'IA, il soulève également des questions sur le financement de cette fonctionnalité pour les utilisateurs gratuits, ainsi que sur la précision et la responsabilité des résultats. OpenAI, l'entreprise derrière ChatGPT, a déclaré qu'elle travaillait en étroite collaboration avec des partenaires médiatiques pour garantir une utilisation responsable du contenu et offrir aux éditeurs un contrôle sur la façon dont leur contenu apparaît dans ChatGPT.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
-        "date": "Thu, 31 Oct 2024 16:49:58 GMT"
-    },
-    {
-        "title": "Apple lance Genmoji, un outil de création d'autocollants basé sur l'IA",
-        "link": "https://blog.emojipedia.org/hands-on-with-apples-genmoji-ai-emoji-generator-beta/",
-        "body": "Apple a lancé la première version bêta développeur d'iOS 18.2, introduisant l'outil de génération d'images Genmoji. Genmoji, annoncé précédemment comme une fonctionnalité « Apple Intelligence » basée sur l'IA, permet aux utilisateurs de créer des autocollants similaires aux émojis à partir de descriptions textuelles. Les utilisateurs inscrits au programme bêta développeur d'Apple peuvent désormais télécharger la bêta et accéder à Genmoji sur les iPhone 15 Pro, 15 Pro Max et 16. Genmoji est intégré au clavier émoji par défaut d'Apple, avec un temps de génération rapide. Les utilisateurs peuvent également créer des Genmojis basés sur les photos de leurs contacts. La fonctionnalité offre plusieurs options pour utiliser les images créées, y compris les ajouter à des messages ou les enregistrer. Bien que Genmoji ne soit pas basé sur les normes textuelles ou les systèmes de polices des émojis traditionnels, une récente mise à jour des plateformes Apple permet d'intégrer des autocollants directement dans le texte, brouillant ainsi la ligne entre les émojis et les autocollants. La fonctionnalité Genmoji sera disponible pour le grand public d'ici la fin de 2024, mais sera limitée aux modèles d'iPhone spécifiés.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Thu, 31 Oct 2024 15:51:21 GMT"
     }
 ]
