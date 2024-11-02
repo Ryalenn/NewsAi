@@ -222,5 +222,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672153f4a04d011e6ef1037d/0x0.jpg?format=jpg&crop=1691,1267,x108,y0,safe&width=440",
         "date": "Fri, 01 Nov 2024 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jamesbroughel/2024/11/02/americas-ai-security-strategy-acknowledges-theres-no-stopping-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67260b389f20789a3f89a6a6/0x0.jpg?format=jpg&crop=5740,2690,x0,y367,safe&width=440",
+        "date": "Sat, 02 Nov 2024 11:41:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/barrycollins/2024/11/02/how-to-replace-google-with-chatgpt-search-in-your-browser/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6725fcb4ee971e32eb1c885e/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 02 Nov 2024 10:00:00 GMT",
+        "check": "no"
     }
 ]
