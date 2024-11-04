@@ -1,5 +1,12 @@
 [
     {
+        "title": "La singularité approche",
+        "link": "https://www.forbes.com/sites/robtoews/2024/11/03/ai-that-can-invent-ai-is-coming-buckle-up/?ss=ai",
+        "body": "Titre : La singularité approche",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6722d6dbc9d82af97e5a7a0d/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 03 Nov 2024 22:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA générative",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/11/03/lets-start-thinking-of-breathtaking-ways-to-leverage-generative-ai-far-beyond-what-we-are-doing-right-now/?ss=ai",
         "body": "L'article explore l'idée que l'IA générative et les grands modèles linguistiques sont sous-exploités, malgré leur omniprésence. Il suggère d'élargir leur utilisation au-delà du traitement du langage naturel, en les considérant comme des outils de prédiction statistique. L'auteur encourage les lecteurs à réfléchir à de nouveaux domaines d'application, en particulier ceux avec des modèles inconnus, où l'IA pourrait découvrir de nouveaux modèles et apporter des avancées révolutionnaires. L'IA générative a le potentiel de révolutionner divers domaines, y compris la programmation, l'audio et la vidéo, et ceux qui trouvent des applications innovantes peuvent s'attendre à de grandes récompenses.",
@@ -54,12 +61,5 @@
         "body": "L'article explique comment remplacer Google par ChatGPT en tant que moteur de recherche par défaut dans différents navigateurs web. OpenAI a sorti une extension de navigateur qui remplace facilement Google par ChatGPT dans Chrome. L'extension est également compatible avec Microsoft Edge, basé sur Chromium. Pour Firefox et Vivaldi, il n'y a pas encore d'extension officielle, mais il est possible d'ajouter manuellement ChatGPT en tant que moteur de recherche. L'article fournit des instructions détaillées pour chaque navigateur, ainsi que des astuces pour utiliser des raccourcis de recherche.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6725fcb4ee971e32eb1c885e/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 02 Nov 2024 10:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT Search vs Google : la bataille des moteurs de recherche",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2389864_on-compare-chatgpt-search-et-google-6-exemples-qui-montrent-que-la-bataille-est-serree",
-        "body": "L'article présente une comparaison pratique entre ChatGPT Search, le nouveau moteur de recherche d'OpenAI, et Google, en évaluant leurs performances dans différents contextes de recherche. ChatGPT Search se distingue par sa capacité à fournir des résumés synthétiques, une approche pédagogique progressive et des réponses objectives, tandis que Google excelle dans la recherche approfondie, les informations pratiques et l'exhaustivité. La complémentarité des deux plateformes est soulignée, avec un avantage pour ChatGPT Search dans la compréhension et l'analyse, et pour Google dans l'action et l'approfondissement. La monétisation de ChatGPT Search sans publicité et l'impact potentiel sur le trafic des éditeurs de contenu sont également discutés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/comparo-google-chatgpt-search-1200x674-1-768x431.jpg?resize=169,169&key=c97966b0",
-        "date": "Fri, 01 Nov 2024 23:00:00 GMT"
     }
 ]
