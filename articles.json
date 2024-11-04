@@ -49,10 +49,45 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce fabricant américain, les boutons physiques dans la voiture « sont un bug, pas une fonctionnalité »",
+        "title": "Selon ce fabricant am\u00e9ricain, les boutons physiques dans la voiture \u00ab sont un bug, pas une fonctionnalit\u00e9 \u00bb",
         "link": "https://www.frandroid.com/marques/rivian/2390340_selon-ce-fabricant-americain-les-boutons-physiques-dans-la-voiture-sont-un-bug-pas-une-fonctionnalite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/24nwsrm-g2-r1s-025-copie-1200x800-1-768x512.jpg?resize=200,200&key=e9e4829a",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/samsung/2390482_one-ui-7-samsung-sinspirerait-dune-fonction-bien-pratique-des-iphone-avec-sa-future-interface",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/samsung-galaxy-z-fold-6-9-2-1200x800-1-768x512.jpg?resize=200,200&key=4ac5dcc2",
+        "date": "Sun, 03 Nov 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2024/11/04/how-ai-will-make-it-easier-to-understand-your-dental-x-rays/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67253e8f38d20583fa5fcc69/0x0.jpg?format=jpg&crop=2167,1219,x0,y92,safe&width=440",
+        "date": "Mon, 04 Nov 2024 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2024/11/04/wonder-studios-new-ai-video-to-3d-animation-puts-the-power-of-pixar-in-your-phone/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67279b54d0d0a9980723a99c/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 10:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/04/the-7-revolutionary-cloud-computing-trends-that-will-define-business-success-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67286cdd50b8ad02d79d7c83/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 06:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/11/04/why-agent-orchestration-is-the-new-enterprise-integration-backbone-for-the-ai-era/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67285a3a279fcaefaa7a670a/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 05:00:00 GMT",
+        "check": "no"
     }
 ]
