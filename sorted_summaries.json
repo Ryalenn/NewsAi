@@ -1,5 +1,33 @@
 [
     {
+        "title": "L'Amérique d'abord avec Llama AI",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2024/11/04/meta-extends-llama-support-to-us-government-for-national-security/?ss=ai",
+        "body": "Meta met à disposition ses modèles Llama AI pour la défense et la sécurité nationale aux États-Unis et dans les pays alliés. Cette décision intervient alors que la Chine investit massivement dans l'IA open source, et que Meta souhaite promouvoir le leadership technologique américain et l'émergence d'une norme open source mondiale pour les modèles d'IA. La politique d'ouverture de Meta contraste avec l'approche plus fermée de concurrents comme OpenAI et Google, et s'inscrit dans sa stratégie globale d'innovation ouverte. Les entreprises américaines de défense et de sécurité nationale, ainsi que leurs partenaires du secteur privé, peuvent désormais utiliser les modèles Llama pour diverses applications, de la création de contenu à la génération de code et aux chatbots. Meta collabore également avec AWS et Microsoft Azure pour fournir des environnements d'hébergement sécurisés pour Llama, conformes aux normes fédérales de sécurité des données. Cette annonce souligne l'engagement de Meta envers les valeurs américaines et la sécurité du pays, tout en offrant un avantage compétitif aux agences gouvernementales américaines dans le domaine de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728f6ebd8c1c4d62f7e26ee/0x0.jpg?format=jpg&crop=3722,2093,x0,y191,safe&width=440",
+        "date": "Mon, 04 Nov 2024 17:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : l'inférence et le matériel spécialisé",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/04/nvidia-cerebras-race-to-supply-big-chips-for-ai-inference-activities/?ss=ai",
+        "body": "L'article met en lumière l'évolution de l'IA, passant de l'apprentissage supervisé à l'apprentissage moins supervisé, avec un accent particulier sur l'inférence, qui permet à l'IA d'apprendre en temps réel à partir de données en direct. Cerebras, qui s'apprête à entrer en bourse, a dévoilé le Wafer Scale Engine (WSE), un matériel spécialisé impressionnant avec 4 billions de transistors et une mémoire sur puce massive, qui devrait révolutionner les capacités d'inférence de l'IA. L'auteur souligne également l'importance de l'évolution du matériel pour soutenir les progrès de l'IA, avec des exemples d'applications dans la santé, la détection des fraudes et la conduite autonome. La course à l'armement de l'IA est en marche, et les développements matériels sont un signe avant-coureur de systèmes technologiques spectaculaires à venir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ed6622cba48b27d7aef6/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 15:00:00 GMT"
+    },
+    {
+        "title": "ChatGPT subit des pannes répétées",
+        "link": "https://www.forbes.com/sites/barrycollins/2024/11/04/chatgpt-down-days-after-search-engine-launch/?ss=ai",
+        "body": "ChatGPT, le populaire chatbot basé sur l'IA de OpenAI, a connu des problèmes techniques répétés, notamment des messages d'erreur 404, quelques jours seulement après l'ajout d'un moteur de recherche à ses fonctionnalités. Bien que les problèmes semblent avoir été résolus, avec une restauration du service normal, cet incident a causé une interruption notable pour les utilisateurs, comme l'indiquent les graphiques de DownDetector. L'ajout du moteur de recherche, disponible uniquement pour les abonnés ChatGPT Plus, permet aux utilisateurs de rechercher des informations en ligne via l'IA, offrant des résultats enrichis tels que le repérage de restaurants sur une carte ou l'affichage d'images d'articles recherchés. Malgré les affirmations d'OpenAI sur un taux de fonctionnement élevé, cet incident est le premier d'une série de problèmes techniques rencontrés par ChatGPT depuis août.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ec789b1bcdbb498b9c0b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 15:00:00 GMT"
+    },
+    {
+        "title": "Démocratie assistée par l'IA",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/11/04/perplexitys-new-election-hub-triggers-reactions-from-ai-experts/?ss=ai",
+        "body": "Perplexity, une entreprise d'IA, a lancé le premier outil de suivi des élections basé sur l'IA, disponible publiquement, pour les élections générales de mardi aux États-Unis. L'outil fournit des informations sur les courses nationales, y compris les sièges du Sénat et de la Chambre des représentants, ainsi que sur les courses aux niveaux des États et des comtés. Les experts en IA ont salué le concept, mais ont exprimé des préoccupations concernant les incohérences, les hallucinations et les résumés inexacts. L'outil de Perplexity utilise des modèles linguistiques larges pour résumer le contenu, en mettant l'accent sur la précision, et collabore avec l'Associated Press et Democracy Works pour obtenir des données à jour. Les experts soulignent l'importance de sources fiables pour réduire la désinformation et maintenir l'intégrité des élections, tout en reconnaissant que la surveillance et l'amélioration continues des modèles d'IA sont essentielles pour garantir la fiabilité et réduire les hallucinations.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728409c8c6c6b137947b8a3/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 13:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'imagerie dentaire",
         "link": "https://www.forbes.com/sites/alexknapp/2024/11/04/how-ai-will-make-it-easier-to-understand-your-dental-x-rays/?ss=ai",
         "body": "La startup de Boston, Overjet, lance un système d'imagerie innovant, Iris, qui transforme les radiographies dentaires en images claires et annotées, aidant ainsi les dentistes et les patients dans le traitement des problèmes de santé bucco-dentaire. Dirigée par Wardah Inam, l'entreprise utilise l'IA pour améliorer la netteté des radiographies, y ajouter de la couleur et d'autres visualisations, afin de mettre en évidence les problèmes dentaires potentiels. Fondée en 2018 par une équipe de scientifiques en informatique et de dentistes, Overjet a déjà levé plus de 134 millions de dollars et ses produits sont utilisés par des milliers de dentistes. Leur dernier logiciel, Iris, combine les capacités IA de l'entreprise pour détecter et visualiser les problèmes dentaires, améliorant ainsi le diagnostic et la compréhension des patients. Avec des fonctionnalités supplémentaires prévues, telles que l'imagerie 3D, Overjet révolutionne l'imagerie dentaire et améliore les soins bucco-dentaires.",
@@ -26,6 +54,13 @@
         "body": "La prochaine vague de transformation des entreprises ne consiste pas simplement à connecter les systèmes, mais à leur donner une capacité de réflexion grâce à l'IA générative. Une nouvelle approche architecturale, appelée orchestration d'agents, émerge comme lien critique entre les données de l'entreprise et l'engagement client. Cette évolution marque un changement fondamental par rapport aux méthodes d'intégration traditionnelles, plaçant l'orchestration pilotée par l'IA au cœur de l'architecture des entreprises modernes. L'orchestration d'agents, en tant que nouveau paradigme, transforme le flux de données en actions intelligentes, permettant une prise de décision adaptative et autonome. Les entreprises découvrent que l'intégration traditionnelle ne peut plus suivre le rythme des opérations commerciales en temps réel. L'orchestration d'agents introduit une couche alimentée par l'IA qui gère et améliore activement les interactions entre les systèmes d'enregistrement et les plateformes d'engagement client. Cette approche va au-delà de l'automatisation, offrant une intégration cognitive qui apprend et s'adapte en temps réel aux conditions changeantes. La sécurité et la gouvernance restent des priorités, avec l'émergence de protocoles standardisés garantissant la conformité des opérations autonomes. L'agilité résultante permet aux entreprises de s'adapter rapidement aux changements du marché, ce qui devient un différenciateur clé dans les marchés compétitifs. L'orchestration d'agents représente un changement fondamental dans la manière dont les entreprises fonctionnent, permettant des flux de travail intelligents et adaptatifs à l'échelle de l'entreprise tout en maintenant la sécurité et la gouvernance. Les premiers adoptants signalent déjà des améliorations significatives en termes d'efficacité opérationnelle, de satisfaction client et de réactivité du marché.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67285a3a279fcaefaa7a670a/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Nov 2024 05:00:00 GMT"
+    },
+    {
+        "title": "OpenAI recrute un ancien de Twitter, signe d'un intérêt pour les réseaux sociaux ?",
+        "link": "https://www.frandroid.com/culture-tech/2390934_apres-chatgpt-openai-voudrait-creer-un-nouveau-twitter",
+        "body": "OpenAI, la société derrière ChatGPT, a récemment recruté Gabor Cselle, ancien chef de produit de groupe chez Twitter et co-fondateur de Pebble, un réseau social axé sur la sécurité, la modération et l'IA. Bien que Cselle reste discret sur ses missions au sein d'OpenAI, son expérience dans les réseaux sociaux et l'IA pourrait suggérer que l'entreprise explore de nouvelles directions, notamment en matière d'interactions sociales et d'intégration des utilisateurs. Ce recrutement soulève des interrogations sur les projets futurs d'OpenAI et son intérêt potentiel pour le développement d'outils de modération et d'expériences utilisateur innovantes.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=7ef5297f",
+        "date": "Sun, 03 Nov 2024 23:00:00 GMT"
     },
     {
         "title": "One UI 7 et ses fonctionnalités IA",
@@ -68,19 +103,5 @@
         "body": "L'article explore le rôle potentiel de l'IA générative dans la gestion de l'insomnie, un trouble du sommeil chronique affectant 10 à 30 % des adultes. L'IA peut fournir des techniques de relaxation personnalisées, des conseils d'hygiène du sommeil et du contenu apaisant, ainsi que des thérapies cognitivo-comportementales (TCC). L'auteur met en garde contre une dépendance excessive à l'IA, soulignant que l'IA ne remplace pas les professionnels de la santé mentale, et souligne l'importance de la confidentialité des données.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66a7057fbf6bce682bd110d8/0x0.jpg?format=jpg&crop=1472,1103,x41,y0,safe&width=440",
         "date": "Sat, 02 Nov 2024 19:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la recherche avec ChatGPT",
-        "link": "https://www.forbes.com/sites/geruiwang/2024/11/02/chatgpts-new-search-function-efficiency-clashes-with-exploitations/?ss=ai",
-        "body": "L'intégration d'une fonction de recherche dans ChatGPT marque un tournant dans l'accès à l'information. Cette évolution offre des avantages évidents en termes de commodité et d'efficacité, permettant aux utilisateurs d'accéder aux données et aux informations en un seul endroit. Cependant, elle soulève également des préoccupations importantes. L'article explore l'impact de cette fonctionnalité sur la façon dont les utilisateurs trouvent et utilisent l'information, en soulignant les risques potentiels liés à la concentration du pouvoir sur l'information et à l'exploitation du temps et des données des utilisateurs. Avec l'évolution de l'IA, une gouvernance responsable et des politiques claires sont essentielles pour éviter les pièges de l'exploitation par le capitalisme numérique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6725d87169bf30af7d3de47f/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 02 Nov 2024 17:38:00 GMT"
-    },
-    {
-        "title": "La Révolution de l'Animation",
-        "link": "https://www.forbes.com/sites/geruiwang/2024/11/02/runway-ai-is-changing-animation-how-to-use-it-to-tell-untold-stories/?ss=ai",
-        "body": "Runway, une plateforme d'IA générant des vidéos, a lancé Act-One, une fonctionnalité révolutionnaire permettant de créer des expressions faciales nuancées et de maintenir la cohérence des personnages dans les vidéos générées par IA, sans équipement complexe de capture de mouvement. Cette avancée démocratise la création de contenus animés, abaissant les barrières techniques et financières. Act-One a le potentiel d'impacter diverses industries, de l'e-commerce au divertissement, en passant par les médias sociaux et la formation en entreprise. L'article souligne également l'importance de l'IA dans l'industrie de l'animation, en retraçant son évolution depuis \"Blanche-Neige et les Sept Nains\" de Disney en 1937 jusqu'aux productions modernes utilisant la capture de mouvement et la CGI. Enfin, il met en lumière les possibilités créatives et narratives qu'offre Act-One, encourageant les créateurs à utiliser cette technologie pour promouvoir la justice sociale, la durabilité et la diversité des histoires et des voix représentées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67255bd1777e2c107c1e9eb7/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 02 Nov 2024 16:00:00 GMT"
     }
 ]
