@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce fabricant américain, les boutons physiques dans la voiture « sont un bug, pas une fonctionnalité »",
+        "title": "Selon ce fabricant am\u00e9ricain, les boutons physiques dans la voiture \u00ab sont un bug, pas une fonctionnalit\u00e9 \u00bb",
         "link": "https://www.frandroid.com/marques/rivian/2390340_selon-ce-fabricant-americain-les-boutons-physiques-dans-la-voiture-sont-un-bug-pas-une-fonctionnalite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/24nwsrm-g2-r1s-025-copie-1200x800-1-768x512.jpg?resize=200,200&key=e9e4829a",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
@@ -68,5 +68,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67285a3a279fcaefaa7a670a/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Nov 2024 05:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Apr\u00e8s ChatGPT, OpenAI voudrait cr\u00e9er un nouveau Twitter",
+        "link": "https://www.frandroid.com/culture-tech/2390934_apres-chatgpt-openai-voudrait-creer-un-nouveau-twitter",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=7ef5297f",
+        "date": "Sun, 03 Nov 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2024/11/04/meta-extends-llama-support-to-us-government-for-national-security/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728f6ebd8c1c4d62f7e26ee/0x0.jpg?format=jpg&crop=3722,2093,x0,y191,safe&width=440",
+        "date": "Mon, 04 Nov 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/04/nvidia-cerebras-race-to-supply-big-chips-for-ai-inference-activities/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ed6622cba48b27d7aef6/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/barrycollins/2024/11/04/chatgpt-down-days-after-search-engine-launch/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ec789b1bcdbb498b9c0b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/11/04/perplexitys-new-election-hub-triggers-reactions-from-ai-experts/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6728409c8c6c6b137947b8a3/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
