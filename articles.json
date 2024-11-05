@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce fabricant américain, les boutons physiques dans la voiture « sont un bug, pas une fonctionnalité »",
+        "title": "Selon ce fabricant am\u00e9ricain, les boutons physiques dans la voiture \u00ab sont un bug, pas une fonctionnalit\u00e9 \u00bb",
         "link": "https://www.frandroid.com/marques/rivian/2390340_selon-ce-fabricant-americain-les-boutons-physiques-dans-la-voiture-sont-un-bug-pas-une-fonctionnalite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/24nwsrm-g2-r1s-025-copie-1200x800-1-768x512.jpg?resize=200,200&key=e9e4829a",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Après ChatGPT, OpenAI voudrait créer un nouveau Twitter",
+        "title": "Apr\u00e8s ChatGPT, OpenAI voudrait cr\u00e9er un nouveau Twitter",
         "link": "https://www.frandroid.com/culture-tech/2390934_apres-chatgpt-openai-voudrait-creer-un-nouveau-twitter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=7ef5297f",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
@@ -124,5 +124,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67291a641b56871b28f4b854/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Nov 2024 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings",
+        "image": "",
+        "date": "Mon, 04 Nov 2024 19:56:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/4/24287951/meta-ai-llama-war-us-government-national-security",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951352/STK043_VRG_Illo_N_Barclay_4_Meta.jpg",
+        "date": "Mon, 04 Nov 2024 19:55:44 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg",
+        "date": "Mon, 04 Nov 2024 00:36:12 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/amirhusain/2024/11/04/humanoid-robotics-will-transform-manufacturing-and-the-global-economy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6729609cb8b23dab38cd272b/0x0.jpg?format=jpg&crop=1337,752,x0,y0,safe&width=440",
+        "date": "Tue, 05 Nov 2024 00:00:00 GMT",
+        "check": "no"
     }
 ]
