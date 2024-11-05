@@ -7,7 +7,7 @@
         "check": "yes"
     },
     {
-        "title": "Selon ce fabricant américain, les boutons physiques dans la voiture « sont un bug, pas une fonctionnalité »",
+        "title": "Selon ce fabricant am\u00e9ricain, les boutons physiques dans la voiture \u00ab sont un bug, pas une fonctionnalit\u00e9 \u00bb",
         "link": "https://www.frandroid.com/marques/rivian/2390340_selon-ce-fabricant-americain-les-boutons-physiques-dans-la-voiture-sont-un-bug-pas-une-fonctionnalite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/24nwsrm-g2-r1s-025-copie-1200x800-1-768x512.jpg?resize=200,200&key=e9e4829a",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Après ChatGPT, OpenAI voudrait créer un nouveau Twitter",
+        "title": "Apr\u00e8s ChatGPT, OpenAI voudrait cr\u00e9er un nouveau Twitter",
         "link": "https://www.frandroid.com/culture-tech/2390934_apres-chatgpt-openai-voudrait-creer-un-nouveau-twitter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=7ef5297f",
         "date": "Sun, 03 Nov 2024 23:00:00 GMT",
@@ -161,14 +161,14 @@
         "check": "yes"
     },
     {
-        "title": "L’IA a la rescousse des systèmes d’armement nucléaire du Pentagone ?",
+        "title": "L\u2019IA a la rescousse des syst\u00e8mes d\u2019armement nucl\u00e9aire du Pentagone ?",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2392354_lia-a-la-rescousse-des-systemes-darmement-nucleaire-du-pentagone",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-chatgpt-768x512.jpg?resize=300,300&key=27835a17",
         "date": "Mon, 04 Nov 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Les ambitions en intelligence artificielle de Facebook stoppées par des abeilles",
+        "title": "Les ambitions en intelligence artificielle de Facebook stopp\u00e9es par des abeilles",
         "link": "https://www.frandroid.com/marques/meta/2391922_les-ambitions-en-intelligence-artificielle-de-facebook-stoppees-par-des-abeilles",
         "image": "",
         "date": "Mon, 04 Nov 2024 23:00:00 GMT",
@@ -180,5 +180,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672922f3c9f60bb756d29fcb/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 05 Nov 2024 14:57:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/11/05/the-prompt-perplexitys-erroneous-ai-election-info/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672a69e1b9911718e4a74942/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 05 Nov 2024 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2024/11/05/ibm-granite-30-models-point-the-way-to-enterprise-ai-at-scale/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672a569bcbd7a1999935c6b7/0x0.jpg?format=jpg&crop=2092,1177,x0,y0,safe&width=440",
+        "date": "Tue, 05 Nov 2024 18:19:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davealtavilla/2024/11/05/snapdragon-x-long-term-review-lenovo-laptop-wins-as-a-daily-driver/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6729353bcb306fdc22294555/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 05 Nov 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/aytekintank/2024/11/05/how-to-get-started-in-ai-even-if-you-dont-have-technical-skills/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672a2f3655fac2776b70ab6b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 05 Nov 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/daveywinder/2024/11/04/passwords-are-hot-garbage-ai-promises-something-better-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67164261864654ae9a18d3d1/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Nov 2024 00:00:00 GMT",
+        "check": "no"
     }
 ]
