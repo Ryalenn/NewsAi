@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : ouvert ou fermé ?",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/06/open-ai-systems-lag-behind-proprietary-and-closed-models/?ss=ai",
+        "body": "L'article aborde le débat actuel sur l'avenir des systèmes d'IA, en particulier la question de savoir si les modèles d'IA devraient être ouverts ou fermés. Il définit d'abord les termes « open source » et « closed source » dans le contexte de l'IA, puis présente les conclusions d'un rapport d'Epoch AI selon lesquelles les modèles ouverts accusent un retard de 5 à 22 mois en moyenne par rapport aux modèles fermés. L'article souligne les avantages et les inconvénients de chaque approche, y compris les incitations commerciales à garder les modèles privés et les risques de sécurité associés à la publication de modèles, de codes et de jeux de données. Le débat est résumé par la citation d'Ilya Sutskever, co-fondateur d'OpenAI, qui suggère qu'il est acceptable de ne pas partager la science derrière l'IA, mais que les avantages de l'IA devraient être accessibles à tous. L'article conclut en soulignant l'incertitude quant à l'avenir des modèles ouverts, en particulier compte tenu de l'évolution rapide des capacités de raisonnement de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672b8158b8c942544737ae89/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 06 Nov 2024 14:50:00 GMT"
+    },
+    {
         "title": "L'utilisation de listes de contrôle pour améliorer les performances de l'IA générative",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/11/06/the-checklist-prompting-technique-for-generative-ai-does-a-bang-up-job-of-keeping-ai-on-track-with-better-results/?ss=ai",
         "body": "L'article met en évidence une technique de formulation de requêtes, appelée \"liste de contrôle\", qui peut améliorer les résultats obtenus avec des systèmes d'IA générative comme ChatGPT. La technique consiste à demander à l'IA de créer une liste de contrôle pour répondre à une question ou résoudre un problème. Cette approche structurée permet à l'IA de vérifier qu'elle a couvert tous les aspects de la question et peut être particulièrement utile pour les requêtes complexes ou détaillées. L'article fournit des exemples de la façon d'utiliser cette technique et présente les résultats d'une étude de recherche qui démontre son efficacité.",
@@ -152,26 +159,5 @@
         "body": "Meta met à disposition ses modèles Llama AI pour la défense et la sécurité nationale aux États-Unis et dans les pays alliés. Cette décision intervient alors que la Chine investit massivement dans l'IA open source, et que Meta souhaite promouvoir le leadership technologique américain et l'émergence d'une norme open source mondiale pour les modèles d'IA. La politique d'ouverture de Meta contraste avec l'approche plus fermée de concurrents comme OpenAI et Google, et s'inscrit dans sa stratégie globale d'innovation ouverte. Les entreprises américaines de défense et de sécurité nationale, ainsi que leurs partenaires du secteur privé, peuvent désormais utiliser les modèles Llama pour diverses applications, de la création de contenu à la génération de code et aux chatbots. Meta collabore également avec AWS et Microsoft Azure pour fournir des environnements d'hébergement sécurisés pour Llama, conformes aux normes fédérales de sécurité des données. Cette annonce souligne l'engagement de Meta envers les valeurs américaines et la sécurité du pays, tout en offrant un avantage compétitif aux agences gouvernementales américaines dans le domaine de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6728f6ebd8c1c4d62f7e26ee/0x0.jpg?format=jpg&crop=3722,2093,x0,y191,safe&width=440",
         "date": "Mon, 04 Nov 2024 17:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : l'inférence et le matériel spécialisé",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/11/04/nvidia-cerebras-race-to-supply-big-chips-for-ai-inference-activities/?ss=ai",
-        "body": "L'article met en lumière l'évolution de l'IA, passant de l'apprentissage supervisé à l'apprentissage moins supervisé, avec un accent particulier sur l'inférence, qui permet à l'IA d'apprendre en temps réel à partir de données en direct. Cerebras, qui s'apprête à entrer en bourse, a dévoilé le Wafer Scale Engine (WSE), un matériel spécialisé impressionnant avec 4 billions de transistors et une mémoire sur puce massive, qui devrait révolutionner les capacités d'inférence de l'IA. L'auteur souligne également l'importance de l'évolution du matériel pour soutenir les progrès de l'IA, avec des exemples d'applications dans la santé, la détection des fraudes et la conduite autonome. La course à l'armement de l'IA est en marche, et les développements matériels sont un signe avant-coureur de systèmes technologiques spectaculaires à venir.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ed6622cba48b27d7aef6/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 04 Nov 2024 15:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT subit des pannes répétées",
-        "link": "https://www.forbes.com/sites/barrycollins/2024/11/04/chatgpt-down-days-after-search-engine-launch/?ss=ai",
-        "body": "ChatGPT, le populaire chatbot basé sur l'IA de OpenAI, a connu des problèmes techniques répétés, notamment des messages d'erreur 404, quelques jours seulement après l'ajout d'un moteur de recherche à ses fonctionnalités. Bien que les problèmes semblent avoir été résolus, avec une restauration du service normal, cet incident a causé une interruption notable pour les utilisateurs, comme l'indiquent les graphiques de DownDetector. L'ajout du moteur de recherche, disponible uniquement pour les abonnés ChatGPT Plus, permet aux utilisateurs de rechercher des informations en ligne via l'IA, offrant des résultats enrichis tels que le repérage de restaurants sur une carte ou l'affichage d'images d'articles recherchés. Malgré les affirmations d'OpenAI sur un taux de fonctionnement élevé, cet incident est le premier d'une série de problèmes techniques rencontrés par ChatGPT depuis août.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6728ec789b1bcdbb498b9c0b/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 04 Nov 2024 15:00:00 GMT"
-    },
-    {
-        "title": "Démocratie assistée par l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2024/11/04/perplexitys-new-election-hub-triggers-reactions-from-ai-experts/?ss=ai",
-        "body": "Perplexity, une entreprise d'IA, a lancé le premier outil de suivi des élections basé sur l'IA, disponible publiquement, pour les élections générales de mardi aux États-Unis. L'outil fournit des informations sur les courses nationales, y compris les sièges du Sénat et de la Chambre des représentants, ainsi que sur les courses aux niveaux des États et des comtés. Les experts en IA ont salué le concept, mais ont exprimé des préoccupations concernant les incohérences, les hallucinations et les résumés inexacts. L'outil de Perplexity utilise des modèles linguistiques larges pour résumer le contenu, en mettant l'accent sur la précision, et collabore avec l'Associated Press et Democracy Works pour obtenir des données à jour. Les experts soulignent l'importance de sources fiables pour réduire la désinformation et maintenir l'intégrité des élections, tout en reconnaissant que la surveillance et l'amélioration continues des modèles d'IA sont essentielles pour garantir la fiabilité et réduire les hallucinations.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6728409c8c6c6b137947b8a3/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 04 Nov 2024 13:00:00 GMT"
     }
 ]
