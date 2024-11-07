@@ -1,5 +1,19 @@
 [
     {
+        "title": "Réinventer l'éducation pour un avenir dominé par l'IA",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2024/11/07/5-chatgpt-prompts-for-educators-preparing-students-for-an-ai-world/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672c24820474dde763de49ac/0x0.jpg?format=jpg&crop=916,516,x0,y54,safe&width=440",
+        "date": "Thu, 07 Nov 2024 08:00:00 GMT"
+    },
+    {
+        "title": "L'équilibre entre l'IA et les compétences humaines",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/07/ai-your-careers-silent-killer/?ss=ai",
+        "body": "Bien que l'IA transforme notre vie quotidienne et nos lieux de travail, elle pourrait entraîner une érosion des compétences humaines essentielles en raison d'une trop grande dépendance aux outils d'IA. L'article met en garde contre le risque de perte d'aptitudes cognitives et professionnelles cruciales lorsque nous déléguons systématiquement nos tâches complexes à l'IA. Il souligne l'importance de compétences humaines irremplaçables telles que la lecture des émotions, l'empathie et la créativité dans la résolution de problèmes complexes. Le succès à l'ère de l'IA nécessite une compréhension à la fois des possibilités et des limites de l'IA, ainsi qu'une approche équilibrée de l'utilisation stratégique des outils d'IA tout en cultivant activement nos capacités humaines. Les professionnels les plus performants sauront quand tirer parti de la technologie et quand compter sur leurs propres capacités. Pour maintenir nos compétences et conserver notre avantage concurrentiel, nous devons nous challenger à résoudre des problèmes sans l'aide de l'IA, cultiver des compétences interpersonnelles fortes et développer un jugement nuancé. L'IA doit être considérée comme un outil puissant complétant l'expertise humaine, et non comme son remplaçant.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672c6277f78a5bc3b6845888/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Nov 2024 06:00:00 GMT"
+    },
+    {
         "title": "La fiabilité des grands modèles linguistiques est-elle un leurre ?",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/11/06/as-generative-ai-models-get-bigger-and-better-the-reliability-veers-straight-off-a-cliff---or-maybe-thats-a-mirage/?ss=ai",
         "body": "Bien que les modèles linguistiques génératifs deviennent plus grands et meilleurs, leur fiabilité semble diminuer, ce qui soulève des questions troublantes. Des études récentes suggèrent que cette baisse de fiabilité pourrait être due à des statistiques trompeuses plutôt qu'à de véritables défauts de l'IA. L'article explore le dilemme de la notation de la fiabilité de l'IA, en comparant la situation à la notation des tests humains. Il souligne l'importance de la façon dont nous décidons de noter l'IA, qui peut avoir un impact significatif sur sa fiabilité perçue. L'exemple de ChatGPT montre comment la modification des paramètres peut conduire à une augmentation des réponses correctes, mais aussi à une augmentation des réponses incorrectes, mettant en évidence la complexité de l'évaluation de la fiabilité de l'IA.",
@@ -131,19 +145,5 @@
         "body": "L'article retrace l'histoire d'Alexa et de l'Echo d'Amazon, lancé il y a dix ans, et son impact sur la révolution de l'informatique ambiante. Bien qu'Alexa soit devenue un succès incontestable et une partie intégrante de notre vie technologique, elle n'a pas répondu aux objectifs ambitieux d'Amazon. L'article explore les raisons de ce lancement surprise en 2014, la croissance explosive de l'écosystème Alexa et les défis auxquels Amazon a été confronté pour définir les fonctionnalités réelles de ses enceintes intelligentes. L'article aborde également un prochain changement majeur pour Alexa, alors qu'Amazon fait évoluer sa technologie sous-jacente vers des modèles de langage volumineux et l'IA générative, ce qui pourrait potentiellement révolutionner les capacités de l'assistant virtuel.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25715695/VST_1105_SIte.jpg",
         "date": "Tue, 05 Nov 2024 13:47:20 GMT"
-    },
-    {
-        "title": "Le respect de l'IA : une nouvelle compétence essentielle pour les leaders",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/05/why-you-should-be-polite-to-chatgpt-and-other-ais/?ss=ai",
-        "body": "De nouvelles recherches révèlent un double avantage convaincant au fait de traiter les systèmes d'IA avec respect : cela améliore non seulement nos capacités de leadership, mais également la qualité des sorties de l'IA. Une étude récente a montré que la politesse améliore de manière mesurable les performances de l'IA, avec des modèles montrant jusqu'à 30 % de baisse de performance avec des invites impolies. De plus, le maintien d'une courtoisie professionnelle dans les interactions avec l'IA est corrélé à une plus grande intelligence émotionnelle dans les relations humaines, ce qui améliore les capacités de leadership. Les entreprises qui mettent l'accent sur le respect dans les initiatives de transformation numérique constatent des avantages mesurables, notamment une meilleure collaboration d'équipe, des notes de service client plus élevées et une adoption plus fluide des nouvelles technologies. Traiter l'IA avec respect n'est pas seulement une question de bonnes manières, mais aussi de bonne pratique commerciale, améliorant les résultats et favorisant un environnement de travail positif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6729e0860722b0e410708aa5/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 05 Nov 2024 09:09:00 GMT"
-    },
-    {
-        "title": "L'IA trompeuse : une confiance excessive ?",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/05/openai-newly-released-simpleqa-helps-reveal-that-generative-ai-blatantly-and-alarmingly-overstates-what-it-knows/?ss=ai",
-        "body": "Une nouvelle étude importante révèle que l'IA générative surestime considérablement les niveaux de confiance, remettant ainsi en question la fiabilité de ses réponses. L'article explore les implications de cette découverte, suggérant que l'IA peut induire les utilisateurs en erreur en leur présentant des réponses avec une fausse impression de certitude. L'IA peut affirmer avec confiance une réponse qui, en réalité, est beaucoup moins fiable qu'elle ne le laisse croire. L'article encourage les utilisateurs à examiner de près les niveaux de confiance de l'IA et à ne pas prendre ses réponses pour argent comptant. L'étude d'OpenAI, créateur de ChatGPT, révèle que l'IA générative surestime souvent sa confiance, ce qui peut avoir des conséquences importantes dans des domaines tels que la médecine, la finance et le support technique. Les exemples donnés illustrent comment une confiance excessive de l'IA peut conduire à des diagnostics médicaux erronés, à des pertes financières et à des conseils techniques inefficaces. L'article conclut en soulignant l'importance de la prudence lors de l'utilisation de l'IA générative et en appelant les développeurs et les utilisateurs à être conscients des limites de la technologie.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6729c1cd17102b98d1de667a/0x0.jpg?format=jpg&crop=2760,2070,x85,y0,safe&width=440",
-        "date": "Tue, 05 Nov 2024 07:00:00 GMT"
     }
 ]
