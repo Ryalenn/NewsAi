@@ -1,5 +1,19 @@
 [
     {
+        "title": "",
+        "link": "https://www.forbes.com/sites/calumchace/2024/11/08/the-race-for-ai-supremacy-discussion-with-parmy-olson/?ss=ai",
+        "body": "Titre : La course à la superintelligence",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672df8b0b879fef0685b0aca/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Nov 2024 11:51:00 GMT"
+    },
+    {
+        "title": "America First, AI First",
+        "link": "https://www.forbes.com/sites/sarahemerson/2024/11/08/ai-startups-investors-eagerly-await-less-red-tape-under-trump/?ss=ai",
+        "body": "Les leaders de l'industrie de l'IA anticipent un environnement plus favorable aux entreprises sous la nouvelle administration Trump, avec un allègement des réglementations et un assouplissement des contrôles à l'exportation. L'ordre exécutif du président Biden sur l'IA, qui exigeait des entreprises qu'elles signalent les risques potentiels pour la sécurité nationale, sera probablement abrogé. Les acquisitions de startups par les géants de la tech devraient reprendre, et les politiques de Trump pourraient favoriser l'innovation et la fabrication américaine. L'influence d'Elon Musk sur les politiques de Trump en matière d'IA est incertaine, bien qu'il ait déjà exprimé des préoccupations en matière de sécurité. Les experts en IA sont prêts à soutenir l'administration, mais il y a une incertitude quant à la compréhension de l'IA par Trump et à l'équilibre entre les positions de sécurité de Musk et les politiques pro-capitalistes de son colistier, JD Vance.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672d53f446a2ec4facb9d1b8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Nov 2024 11:00:00 GMT"
+    },
+    {
         "title": "Virtual Friends",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/11/08/the-rise-of-ai-enabled-virtual-pets-why-millions-are-raising-digital-companions/?ss=ai",
         "body": "L'article explore l'émergence de nouveaux animaux de compagnie virtuels, alimentés par l'IA, qui gagnent en popularité dans le monde entier. L'application Pengu, développée par la société Slay, se distingue en exigeant que deux personnes s'occupent ensemble de leur animal de compagnie virtuel, favorisant ainsi des expériences sociales qui combinent interactions numériques et humaines. La technologie de pointe en matière de langage permet à ces animaux de compagnie de développer des personnalités uniques et d'engager des conversations significatives, créant ainsi un sentiment de connexion authentique avec leurs propriétaires. Les animaux de compagnie virtuels peuvent se souvenir des interactions passées, aider avec les devoirs et même développer leurs propres vies grâce à un journal numérique. Slay a mis en place des garde-fous stricts pour garantir des interactions saines et positives, en particulier pour les utilisateurs plus jeunes. L'avenir, selon le PDG de Slay, Fabian Kamberi, verra l'émergence d'amis virtuels de plus en plus sophistiqués, qui renforceront les liens humains grâce à des expériences numériques partagées. Bien que les animaux de compagnie numériques comme Pengu représentent un nouveau paradigme dans l'interaction avec l'IA, l'article soulève également des questions importantes sur l'équilibre entre les connexions numériques et les relations humaines authentiques à l'ère du numérique.",
@@ -19,6 +33,13 @@
         "body": "L'industrie des microprocesseurs est en pleine évolution, en particulier dans le domaine des centres de données. Si la fabrication de petits appareils reste stable, les centres de données deviennent plus grands et plus puissants, et les clients recherchent de nouvelles solutions pour alimenter ces réseaux étendus. AMD gagne du terrain sur Intel sur le marché des serveurs, avec ses processeurs EPYC, offrant de meilleures performances à un prix plus abordable. De plus, les puces Ryzen d'AMD attirent l'attention dans le domaine du jeu. Nvidia connaît également un succès considérable avec ses ventes de GPU, atteignant 42 milliards de dollars au premier semestre de cette année. La course à la puissance informatique est en partie motivée par les progrès rapides de l'IA, avec des modèles comme ceux d'OpenAI et d'Anthropic, qui acquièrent des capacités de raisonnement et d'interaction avec les ordinateurs physiques d'une manière similaire aux humains. Les fabricants de matériel doivent donc s'adapter et innover pour soutenir cette révolution de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/672d8376e6ef24550dc946ee/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 08 Nov 2024 03:00:00 GMT"
+    },
+    {
+        "title": "Samsung Bixby 3.0",
+        "link": "https://www.frandroid.com/marques/2396152_samsung-ressort-bixby-des-oubliettes-pour-lui-coller-de-lia-generative-voici-les-nouveautes-prevues",
+        "body": "Samsung a annoncé une mise à jour majeure pour son assistant virtuel Bixby, lui donnant des capacités de génération de vidéos, de traitement de texte et de compréhension du contexte à l'écran. Cette nouvelle version, actuellement disponible uniquement sur les marchés chinois, utilise l'apprentissage profond pour améliorer ses fonctionnalités. Bien que ces capacités soient déjà présentes chez d'autres assistants virtuels, Samsung semble fier de sa propre technologie d'IA. Bixby 3.0 pourrait être lancé à l'international avec la mise à jour logicielle One UI 7 début 2025, positionnant ainsi Samsung pour concurrencer Google et Apple sur le marché des assistants virtuels intelligents.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/blague-bixby-1200x675-1-768x432.jpg?resize=169,169&key=4d2bdb03",
+        "date": "Thu, 07 Nov 2024 23:00:00 GMT"
     },
     {
         "title": "Google présente Jarvis, son nouvel agent IA",
