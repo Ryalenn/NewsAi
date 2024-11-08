@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT est accessible via une nouvelle adresse et ça a probablement coûté très cher à OpenAI",
+        "title": "ChatGPT est accessible via une nouvelle adresse et \u00e7a a probablement co\u00fbt\u00e9 tr\u00e8s cher \u00e0 OpenAI",
         "link": "https://www.frandroid.com/culture-tech/2394798_chatgpt-est-accessible-via-une-nouvelle-adresse-et-ca-a-probablement-coute-tres-cher-a-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/beautiful-cat-1463992207ugj-1200x668-1-768x428.jpg?resize=167,167&key=a97f5d3a",
         "date": "Wed, 06 Nov 2024 23:00:00 GMT",
@@ -152,5 +152,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672ba06aed2e538add855d47/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 07 Nov 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2024/11/07/mawari-raises-108-million-to-tokenize-spatial-streaming-a-peek-at-googles-ai-agent-jarvis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672d3b4c9130eb1684f00a2e/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Nov 2024 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/11/07/inside-canadas-24-billion-bet-to-close-the-ai-adoption-gap/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672d3330041900adc4d67a26/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Nov 2024 22:00:00 GMT",
+        "check": "no"
     }
 ]
