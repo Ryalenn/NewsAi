@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT est accessible via une nouvelle adresse et ça a probablement coûté très cher à OpenAI",
+        "title": "ChatGPT est accessible via une nouvelle adresse et \u00e7a a probablement co\u00fbt\u00e9 tr\u00e8s cher \u00e0 OpenAI",
         "link": "https://www.frandroid.com/culture-tech/2394798_chatgpt-est-accessible-via-une-nouvelle-adresse-et-ca-a-probablement-coute-tres-cher-a-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/beautiful-cat-1463992207ugj-1200x668-1-768x428.jpg?resize=167,167&key=a97f5d3a",
         "date": "Wed, 06 Nov 2024 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Jarvis, l’IA de Google qui surfe le web à votre place, pointe accidentellement le bout de son nez",
+        "title": "Jarvis, l\u2019IA de Google qui surfe le web \u00e0 votre place, pointe accidentellement le bout de son nez",
         "link": "https://www.frandroid.com/culture-tech/2396070_jarvis-lia-de-google-qui-surfe-le-web-a-votre-place-pointe-accidentellement-le-bout-de-son-nez",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/UltronJarvis-768x322.webp?resize=300,300&key=60b46fbc",
         "date": "Thu, 07 Nov 2024 23:00:00 GMT",
@@ -180,5 +180,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/672db3bda758ef6b40fde260/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 08 Nov 2024 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Samsung ressort Bixby des oubliettes pour lui coller de l\u2019IA g\u00e9n\u00e9rative : voici les nouveaut\u00e9s pr\u00e9vues",
+        "link": "https://www.frandroid.com/marques/2396152_samsung-ressort-bixby-des-oubliettes-pour-lui-coller-de-lia-generative-voici-les-nouveautes-prevues",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/blague-bixby-1200x675-1-768x432.jpg?resize=169,169&key=4d2bdb03",
+        "date": "Thu, 07 Nov 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/calumchace/2024/11/08/the-race-for-ai-supremacy-discussion-with-parmy-olson/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672df8b0b879fef0685b0aca/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Nov 2024 11:51:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/sarahemerson/2024/11/08/ai-startups-investors-eagerly-await-less-red-tape-under-trump/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672d53f446a2ec4facb9d1b8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Nov 2024 11:00:00 GMT",
+        "check": "no"
     }
 ]
