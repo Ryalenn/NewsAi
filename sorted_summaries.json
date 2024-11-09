@@ -7,6 +7,13 @@
         "date": "Fri, 08 Nov 2024 23:00:00 GMT"
     },
     {
+        "title": "La fin de la lune de miel entre l'industrie technologique et le gouvernement américain",
+        "link": "https://www.theverge.com/2024/11/8/24291333/second-trump-tech-policy-antitrust-ai-crypto",
+        "body": "Titre : La tech sous Trump, vers une dérégulation ?",
+        "image": "",
+        "date": "Fri, 08 Nov 2024 17:00:53 GMT"
+    },
+    {
         "title": "Gemini AI de Google",
         "link": "https://www.theverge.com/2024/11/8/24291241/google-vids-ai-presentation-video-general-availability-rollout",
         "body": "Google lance largement son application Vids alimentée par l'IA Gemini, qui permet aux utilisateurs de créer des présentations vidéo à partir d'un prompt. L'application Vids se distingue par sa capacité à laisser l'IA Gemini insérer automatiquement des images d'archives, à générer des scripts et à créer des voix off IA, soulageant ainsi l'utilisateur de la nécessité de parler. Vids est conçu pour aider à transformer les articles de support client en vidéos, créer des vidéos de formation, partager des annonces d'entreprise et plus encore. L'application prend en charge plusieurs langues, mais les fonctionnalités IA sont actuellement limitées à l'anglais. Le déploiement de Vids a commencé le 7 novembre et pourrait prendre plus de 15 jours pour être disponible pour tous les utilisateurs.",
@@ -131,19 +138,5 @@
         "body": "La demande de Nvidia pour les technologies de pointe de TSMC, en particulier la conception CoWoS, influence fortement le marché du matériel informatique. TSMC prévoit de doubler sa capacité de production l'année prochaine, dont plus de 50 % sera dédiée à Nvidia. La conception CoWoS de TSMC, qui permet des connexions d'entrée/sortie plus nombreuses et un empilement 3D des composants, est particulièrement avantageuse pour les applications d'IA en raison de ses besoins en puissance et en refroidissement. Cette conception innovante permet un transit plus rapide des données et une réduction de la latence, ce qui améliore les capacités de traitement et de prise de décision des systèmes d'IA. La domination de Nvidia sur le marché, avec sa part importante de la production de TSMC, ainsi que l'innovation rapide d'entreprises telles qu'OpenAI dans le domaine de l'IA, soulignent l'importance de suivre de près l'évolution rapide du matériel et des modèles dans ce domaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/672ba06aed2e538add855d47/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 07 Nov 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des appareils intelligents à la périphérie",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2024/11/07/system-design-for-the-ai-era-the-path-to-ai-native-iot/?ss=ai",
-        "body": "L'IA à la périphérie (Edge AI) annonce une ère d'appareils intelligents qui transformeront la méthodologie de conception dans l'ensemble de la chaîne de valeur de l'électronique. La vague actuelle de réarchitecturation des centres de données cloud sera suivie par une deuxième vague d'appareils Edge et d'une troisième vague d'IoT et de systèmes intégrés. Synaptics, avec sa plateforme Astra IoT, est à l'avant-garde de cette évolution, proposant des systèmes sur puce (SoC) pour l'IoT grand public, professionnel et industriel. Astra associe un matériel évolutif à un logiciel unifié, des outils d'IA open source et une connectivité sans fil. La série SL est conçue pour être native IA, avec des unités de traitement neuronal (NPU) intégrées, des cœurs Arm, des GPU et des DSP pour gérer les charges de travail IA ciblées. La plateforme est conçue pour l'écosystème des développeurs, en utilisant des logiciels open source, des modèles IA optimisés pour la périphérie et des outils de développement. Cet environnement ouvert est essentiel pour rassembler les développeurs d'applications et favoriser l'innovation dans l'utilisation et l'intégration de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/672cd5e4c36983e91aff526e/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 07 Nov 2024 15:14:00 GMT"
-    },
-    {
-        "title": "Entrepreneurs Boost ROI with AI",
-        "link": "https://www.forbes.com/sites/jodiecook/2024/11/07/8-ways-to-generate-roi-from-ai-by-entrepreneurs-actually-doing-it/?ss=ai",
-        "body": "L'adoption de l'IA a bondi à 35 % en 2022, les entrepreneurs expérimentant et affinant leurs approches. Les véritables retours sur investissement proviennent d'outils IA qui, en plus de réduire les coûts, transforment fondamentalement le fonctionnement et la croissance des entreprises. Les co-PDG d'Infinite AI, Isabella Bedoya et Chase Fowler, ont construit un système de vente IA qui a généré 30 millions de dollars pour un client de prêt commercial. Le Dr Denise Turley, de la Chambre de commerce des États-Unis, a signalé que leur LLM personnalisé rédige des propositions de subvention en quelques minutes, une tâche qui prenait auparavant plus de 30 heures. Kristina Flynn, de StoryEngine, a réduit le travail des clients de 30 à 5 heures grâce à des systèmes IA. Valeriya Pilkevich, de mixNmatch, a construit un système IA qui analyse les actualités de la mode, économisant ainsi plus de 10 heures de recherche hebdomadaire. Marie Speakman, consultante en comptabilité IA, a créé \"Jack the AI bookkeeper\", qui rationalise la saisie et le traitement des données financières, remplaçant ainsi l'externalisation. Krystle Church a adopté un système entièrement alimenté par l'IA pour son podcast, économisant 2 000 dollars par mois en éditeurs audio et rédacteurs de contenu. Claire Farwell, éducatrice en IA, a rationalisé sa création de contenu avec Descript et Supergrow, augmentant son engagement LinkedIn de 30 % et ses réservations d'ateliers de 20 %. Le Dr Nici Sweaney, fondateur d'Ai Her Way, a mis en place un flux de travail IA pour la prospection client, la préparation des propositions et le suivi, économisant 100 heures par mois à son équipe. Ces cas d'utilisation démontrent les avantages concrets de l'IA, qu'il s'agisse d'augmenter les revenus, de réduire les coûts ou d'améliorer l'efficacité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/672c2419b006059683b8b6ed/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 07 Nov 2024 13:00:00 GMT"
     }
 ]
