@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'avenir incertain des travailleurs étrangers dans l'industrie technologique américaine",
+        "link": "https://www.forbes.com/sites/amyfeldman/2024/11/11/immigrant-tech-workers-scrambling-to-secure-visas-ahead-of-trumps-inauguration/?ss=ai",
+        "body": "L'élection de Donald Trump à la présidence américaine a suscité des inquiétudes chez les travailleurs étrangers de la Silicon Valley, en particulier ceux détenteurs de visas H-1B, accordés aux travailleurs hautement qualifiés. Les avocats en immigration signalent une augmentation des demandes d'information de la part de travailleurs étrangers inquiets pour leur statut. Les travailleurs étrangers s'efforcent d'accélérer leurs démarches d'immigration avant l'investiture de Trump en janvier. L'administration Trump est connue pour ses politiques d'immigration restrictives, ayant déjà augmenté le nombre de refus de visas H-1B et réduit l'immigration légale lors de son premier mandat. L'impact sur les travailleurs de la tech est incertain, malgré les liens de Trump avec la Silicon Valley. Les avocats conseillent aux détenteurs de visas de renouveler leurs documents avant le 6 janvier et anticipent une augmentation des demandes de cartes vertes discrétionnaires. Les entreprises technologiques pourraient reconsidérer l'embauche de travailleurs étrangers en raison des politiques restrictives anticipées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/672e96d03cb831d6b6ff7418/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Nov 2024 11:00:00 GMT"
+    },
+    {
+        "title": "Smartphone Wars",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/11/4-smartphone-with-the-best-artificial-intelligence/?ss=ai",
+        "body": "L'intelligence artificielle a ouvert un nouveau chapitre fascinant dans la technologie mobile, donnant aux consommateurs un choix significatif entre les smartphones. Les approches varient, allant de la priorité à la vie privée d'Apple à la magie photographique de Google, en passant par les performances de Samsung et les fonctionnalités pratiques de Huawei. Le marché des smartphones, évalué à 500 milliards de dollars, est devenu un champ de bataille pour l'IA, chaque fabricant essayant de surpasser les autres avec des capacités IA de plus en plus sophistiquées. L'article explore les approches uniques d'Apple, Samsung, Google et Huawei, mettant en évidence leurs innovations IA respectives et la manière dont elles façonnent l'expérience utilisateur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6731ad74312aad6d89358b4e/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Nov 2024 07:00:00 GMT"
+    },
+    {
         "title": "Les chaînes de Markov et les secrets internes de l'IA générative",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/11/11/revealing-secrets-of-large-language-models-and-generative-ai-via-old-fashioned-markov-chain-mathematics/?ss=ai",
         "body": "L'analyse statistique des chaînes de Markov pourrait être un outil crucial pour comprendre le fonctionnement interne de l'IA générative et des grands modèles linguistiques. Cet article explore une façon innovante d'aborder ce sujet en utilisant une technique de modélisation mathématique ancienne. Il explique les bases des chaînes de Markov et leur potentiel pour modéliser les processus impliquant une série d'étapes ou d'états. L'auteur suggère que les chaînes de Markov pourraient être la clé pour percer les secrets les plus profonds de l'IA générative et des grands modèles linguistiques, car ils impliquent des processus, des états et des transitions d'état basés sur des probabilités. Bien que certains chercheurs soient enthousiastes à l'idée d'appliquer les chaînes de Markov dans ce domaine, d'autres sont sceptiques quant à leur pertinence et à leur capacité à gérer la complexité des modèles les plus avancés. L'article présente également une étude récente qui explore les grands modèles linguistiques en tant que chaînes de Markov, soulignant leur potentiel pour fournir des insights théoriques et pratiques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/0x0.jpg?format=jpg&crop=859,644,x169,y0,safe&width=440",
         "date": "Mon, 11 Nov 2024 05:00:00 GMT"
+    },
+    {
+        "title": "Gemini Live sur iPhone",
+        "link": "https://www.frandroid.com/marques/google/2397956_gemini-live-sur-iphone-cest-le-siri-dapple-intelligence-avant-lheure",
+        "body": "Google prépare le lancement de son application de chat basée sur l'IA, Gemini Live, sur l'App Store. Bien qu'actuellement inaccessible, l'application devrait offrir un outil conversationnel avancé, similaire à Siri d'Apple. Gemini Live sera capable de fonctionner en arrière-plan et d'utiliser l'écran de verrouillage de l'iPhone, y compris Dynamic Island. La période de test ciblée exclut actuellement les États-Unis et l'Europe, mais la disponibilité de l'application pourrait changer rapidement, offrant ainsi une alternative à Apple Intelligence, qui ne sera pas lancé en France avant avril 2025.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/sans-titre-1200x898-1-768x575.jpg?resize=225,225&key=8504a4df",
+        "date": "Sun, 10 Nov 2024 23:00:00 GMT"
     },
     {
         "title": "L'avènement des grands modèles comportementaux",
