@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT rivalise désormais avec Google Chrome en termes d’utilisation mensuelle",
+        "title": "ChatGPT rivalise d\u00e9sormais avec Google Chrome en termes d\u2019utilisation mensuelle",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2397744_chatgpt-rivalise-desormais-avec-google-chrome-en-termes-dutilisation-mensuelle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/chatgpt-1200x800-1-768x512.jpg?resize=200,200&key=697ffb21",
         "date": "Sat, 09 Nov 2024 23:00:00 GMT",
@@ -33,5 +33,12 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952250/HT012_google_0006.jpg",
         "date": "Sat, 09 Nov 2024 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/11/revealing-secrets-of-large-language-models-and-generative-ai-via-old-fashioned-markov-chain-mathematics/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/0x0.jpg?format=jpg&crop=859,644,x169,y0,safe&width=440",
+        "date": "Mon, 11 Nov 2024 05:00:00 GMT",
+        "check": "no"
     }
 ]
