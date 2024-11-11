@@ -1,5 +1,12 @@
 [
     {
+        "title": "ChatGPT Power Moves",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/11/11/bad-chatgpt-output-5-genius-prompts-to-improve-it-in-seconds/?ss=ai",
+        "body": "Les utilisateurs expérimentés de ChatGPT connaissent l'importance de prompts bien construits. Cet article révèle cinq prompts géniaux pour transformer des réponses médiocres en contenu engageant. En ajustant le ton, en affinant le style, en ajoutant des exemples concrets et en structurant le texte, vous pouvez créer du contenu captivant qui retient l'attention des lecteurs. Ces prompts améliorent la qualité et l'impact des réponses de ChatGPT, en les rendant plus concises, plus pertinentes et plus accessibles. Ainsi, vous pouvez exploiter pleinement le potentiel de ChatGPT pour créer du contenu percutant et efficace.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6730420ce623c97fae3ed0a6/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Nov 2024 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir incertain des travailleurs étrangers dans l'industrie technologique américaine",
         "link": "https://www.forbes.com/sites/amyfeldman/2024/11/11/immigrant-tech-workers-scrambling-to-secure-visas-ahead-of-trumps-inauguration/?ss=ai",
         "body": "L'élection de Donald Trump à la présidence américaine a suscité des inquiétudes chez les travailleurs étrangers de la Silicon Valley, en particulier ceux détenteurs de visas H-1B, accordés aux travailleurs hautement qualifiés. Les avocats en immigration signalent une augmentation des demandes d'information de la part de travailleurs étrangers inquiets pour leur statut. Les travailleurs étrangers s'efforcent d'accélérer leurs démarches d'immigration avant l'investiture de Trump en janvier. L'administration Trump est connue pour ses politiques d'immigration restrictives, ayant déjà augmenté le nombre de refus de visas H-1B et réduit l'immigration légale lors de son premier mandat. L'impact sur les travailleurs de la tech est incertain, malgré les liens de Trump avec la Silicon Valley. Les avocats conseillent aux détenteurs de visas de renouveler leurs documents avant le 6 janvier et anticipent une augmentation des demandes de cartes vertes discrétionnaires. Les entreprises technologiques pourraient reconsidérer l'embauche de travailleurs étrangers en raison des politiques restrictives anticipées.",
@@ -21,11 +28,25 @@
         "date": "Mon, 11 Nov 2024 05:00:00 GMT"
     },
     {
+        "title": "L'art créé par l'IA atteint de nouveaux sommets",
+        "link": "https://www.frandroid.com/produits-android/robots/2398158_plus-dun-million-de-dollars-pour-cette-peinture-realisee-par-un-robot-humanoide",
+        "body": "Le tableau \"AI God: Portrait of Alan Turing\", créé par Ai-Da, un robot humanoïde artiste, a été vendu pour un montant record de plus d'un million de dollars chez Sotheby's, dépassant de loin les estimations. Ai-Da, nommé en l'honneur d'Ada Lovelace, choisit de manière autonome le style, les couleurs et le contenu de ses œuvres, et son œuvre représentant Alan Turing, une figure emblématique de l'informatique moderne, a suscité des discussions sur la créativité des machines et leur place dans l'art. Cette vente historique soulève des questions sur l'avenir de l'art à l'ère de l'IA, et sur la définition même de la créativité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/robot-ai-da-768x432.jpg?resize=169,169&key=407f578c",
+        "date": "Sun, 10 Nov 2024 23:00:00 GMT"
+    },
+    {
         "title": "Gemini Live sur iPhone",
         "link": "https://www.frandroid.com/marques/google/2397956_gemini-live-sur-iphone-cest-le-siri-dapple-intelligence-avant-lheure",
         "body": "Google prépare le lancement de son application de chat basée sur l'IA, Gemini Live, sur l'App Store. Bien qu'actuellement inaccessible, l'application devrait offrir un outil conversationnel avancé, similaire à Siri d'Apple. Gemini Live sera capable de fonctionner en arrière-plan et d'utiliser l'écran de verrouillage de l'iPhone, y compris Dynamic Island. La période de test ciblée exclut actuellement les États-Unis et l'Europe, mais la disponibilité de l'application pourrait changer rapidement, offrant ainsi une alternative à Apple Intelligence, qui ne sera pas lancé en France avant avril 2025.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/sans-titre-1200x898-1-768x575.jpg?resize=225,225&key=8504a4df",
         "date": "Sun, 10 Nov 2024 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA est partout, mais la touche humaine reste irremplaçable",
+        "link": "https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp",
+        "body": "Bien qu'elle soit présente dans de nombreux aspects de notre vie quotidienne, l'IA ne peut pas tout faire. L'article met en lumière les limites de l'IA en prenant l'exemple de Spotify et de sa fonctionnalité AI DJ. Bien que l'IA de Spotify soit capable de créer des playlists personnalisées en se basant sur les goûts musicaux de l'utilisateur, l'auteure préfère l'expérience humaine offerte par une station de radio indépendante locale, KEXP, où de vrais DJs sélectionnent la musique. L'article souligne la valeur de la connexion humaine et de l'imprévisibilité qu'apporte une station de radio dirigée par des humains, par opposition à l'expérience plus prévisible et algorithmique offerte par l'IA DJ de Spotify. L'auteure suggère que les entreprises technologiques surestiment la demande pour l'IA et sous-estiment la valeur qu'apporte un être humain dans l'échange.",
+        "image": "",
+        "date": "Sun, 10 Nov 2024 13:00:00 GMT"
     },
     {
         "title": "L'avènement des grands modèles comportementaux",
@@ -54,12 +75,5 @@
         "body": "L'article explore les idées présentées par Kristen Holmes, une chercheuse spécialisée dans le lien entre les comportements psychologiques et physiques et le système nerveux autonome du corps humain. Holmes suggère d'utiliser les données des signes vitaux pour cartographier le stress et la récupération, afin d'améliorer notre résilience et notre longévité. L'IA peut jouer un rôle crucial dans l'analyse des données de fréquence cardiaque en temps réel, permettant aux individus de comprendre leurs réponses physiques et de prendre des décisions éclairées pour améliorer leurs performances et leur bien-être à long terme. L'IA peut aider à gérer les données de santé, à analyser les cycles de sommeil, à fournir des recommandations personnalisées pour améliorer les performances et à guider les individus vers des choix de mode de vie plus sains.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/672fb1cbd34572bb6aa607f1/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 09 Nov 2024 19:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de l'édition vidéo dans Google Photos",
-        "link": "https://www.theverge.com/24290456/google-photos-ai-clip-how-to",
-        "body": "Google Photos a récemment introduit de nouvelles fonctionnalités d'édition vidéo, notamment sur Android. L'application offre désormais la possibilité de modifier la vitesse des clips, de les stabiliser et de les améliorer automatiquement, le tout avec des contrôles plus intuitifs. Les utilisateurs peuvent également appliquer des effets tels que des ralentis, des zooms et des coupes, suggérés par l'IA de l'application, qui analyse le contenu de la vidéo. Ces outils simplifient le processus d'édition vidéo sur mobile, permettant d'obtenir des résultats impressionnants rapidement et facilement. Les changements incluent également une interface plus claire, avec des icônes et un texte plus grands. Les outils d'édition vidéo de Google Photos sont disponibles sur Android et iOS, offrant ainsi une expérience d'édition vidéo plus accessible et efficace pour les utilisateurs de smartphones.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952250/HT012_google_0006.jpg",
-        "date": "Sat, 09 Nov 2024 15:00:00 GMT"
     }
 ]
