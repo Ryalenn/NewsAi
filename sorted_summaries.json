@@ -1,10 +1,73 @@
 [
     {
+        "title": "La domination masculine dans le secteur technologique",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/11/12/71-of-ai-workforce-is-men-just-29-are-women---how-do-we-fix-this/?ss=ai",
+        "body": "Le texte met en lumière la domination masculine dans le secteur technologique, avec une attention particulière sur la sous-représentation des femmes dans le domaine de l'IA. L'analyse de Randstad révèle que 71 % des travailleurs qualifiés en IA sont des hommes, ce qui crée un écart important entre les genres. Les femmes sont moins susceptibles d'avoir accès à l'IA sur le lieu de travail et sont moins confiantes dans leurs compétences en IA que les hommes. Les experts soulignent que cette situation est critique, car l'IA façonnera l'avenir de chaque secteur. Ils proposent des solutions telles que l'investissement des entreprises dans la formation de leurs employées, l'intégration de l'IA dans les programmes scolaires, et la promotion de modèles féminins dans le domaine de l'IA. Malgré des signes encourageants chez les jeunes générations, les experts insistent sur l'urgence d'agir pour combler l'écart et éviter de laisser de côté la moitié de la main-d'œuvre mondiale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6732e5c51f27a5f56804a758/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 15:12:00 GMT"
+    },
+    {
+        "title": "La course aux modèles linguistiques larges",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'IA, tels que Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4), rendent la technologie des chatbots basée sur des modèles linguistiques larges (LLM) plus accessible au grand public. Anthropic, avec son modèle Sonnet Claude 3.5, et OpenAI, avec Orion, prévoient également de lancer de nouveaux modèles LLM. Ces modèles LLM fonctionnent en utilisant une série de programmes d'autocompletion pour apprendre et prédire les mots, mais ils peuvent parfois fournir des informations fausses. Google a également lancé un outil expérimental Learn About, différent des chatbots traditionnels, et prévoit de dévoiler son propre modèle d'action large, Project Jarvis. L'IA est également utilisée dans divers domaines, tels que la création artistique, la transcription médicale et la génération de musique. L'article aborde les problèmes de droits d'auteur avec les images générées par l'IA et les préoccupations concernant la formation des modèles d'IA sur les données des utilisateurs. Enfin, il mentionne les plans de monétisation de l'IA, y compris les abonnements et les augmentations de prix.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Tue, 12 Nov 2024 14:53:30 GMT"
+    },
+    {
+        "title": "Particle, une nouvelle plateforme d'information alimentée par l'IA",
+        "link": "https://www.theverge.com/2024/11/12/24293993/particle-news-app-ai-summaries",
+        "body": "Particle est une nouvelle plateforme conçue pour aider les utilisateurs à trouver et à comprendre les actualités, en utilisant l'IA pour organiser les articles en collections appelées « Stories » et fournir des résumés. L'IA offre différents styles de résumés, de la présentation des points de vue opposés à une explication simplifiée pour les enfants. L'application utilise également l'IA pour personnaliser les flux d'informations, évaluer les biais politiques et mettre en évidence les informations partielles. Les fondateurs de Particle, d'anciens leaders produit de Twitter, croient que l'IA peut améliorer la diffusion de l'information à grande échelle et ont collaboré avec Reuters, Time, Fortune, etc. L'article soulève des questions sur la faisabilité de l'application, mais les fondateurs sont convaincus que Particle peut réussir grâce à l'IA et à la supervision humaine pour réduire les hallucinations et les inexactitudes de l'IA.",
+        "image": "",
+        "date": "Tue, 12 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence : les résumés de notifications par IA",
+        "link": "https://www.theverge.com/2024/11/12/24289939/apple-intelligence-ai-notification-summaries-awkward-funny-bad",
+        "body": "Apple a introduit une nouvelle fonctionnalité d'IA dans iOS / iPadOS 18.1 et macOS 15.1 qui résume les notifications pour les iPhones, iPads et Macs. Un petit LLM tente de fournir un bref aperçu lorsqu'il y a plusieurs notifications pour une application. Bien que parfois utile, il est souvent drôle et hors contexte, en particulier pour les messages texte, les e-mails et les notifications Slack. L'auteur partage des exemples amusants, mais conclut que bien que cette fonctionnalité ne change pas la vie, elle ajoute un peu de piquant aux notifications intrusives.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2000x1333/2400x1600/filters:focal(1000x667:1001x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25699386/DSC08608_processed.jpg",
+        "date": "Tue, 12 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "La révolution de la médecine avec la technologie de l'ARNm et l'excellence opérationnelle",
+        "link": "https://www.forbes.com/sites/peterhigh/2024/11/12/inside-modernas-tech-driven-culture-insights-from-cio-brad-miller/?ss=ai",
+        "body": "Moderna, une entreprise de biotechnologie de premier plan, a pour mission de révolutionner la médecine grâce à la technologie de l'ARN messager (ARNm). Cet article explore le rôle crucial de la technologie et de l'intelligence artificielle (IA) dans la réalisation de cette mission, ainsi que la culture entrepreneuriale dynamique de l'entreprise.\n\nL'ARNm, un type d'ARN à simple brin, est utilisé par Moderna pour stimuler la production de protéines par le corps afin de lutter contre les maladies. La solide fondation technologique de l'entreprise, qui comprend des plateformes d'IA et une infrastructure cloud native, est essentielle pour soutenir ses ambitions scientifiques. Brad Miller, directeur de l'information de Moderna, souligne que la technologie est un élément central de l'ADN de l'entreprise, intégrant parfaitement la recherche, le développement et la fabrication.\n\nL'IA est un composant critique de la stratégie numérique de Moderna, facilitant la découverte de médicaments, la fabrication et les opérations commerciales. Les partenariats avec OpenAI et Microsoft ont permis à l'entreprise de développer des solutions d'IA adaptées à ses besoins spécifiques. L'« Academy of Digital » de Moderna, une plateforme d'apprentissage structurée, prépare les employés à tirer parti efficacement des technologies émergentes, garantissant ainsi que les compétences du personnel sont alignées sur les objectifs stratégiques de l'entreprise.\n\nLa culture jeune et agile de Moderna, fondée sur des principes directeurs solides, lui permet de s'adapter rapidement aux exigences du marché et aux avancées technologiques. L'expérience de Miller dans des entreprises technologiques de premier plan, telles que Microsoft et Amazon, a contribué à la conception de systèmes évolutifs et efficaces chez Moderna. La dynamique d'équipe et les normes de recrutement rigoureuses sont essentielles pour maintenir une équipe hautement performante, passionnée et engagée dans la mission de l'entreprise.\n\nL'article met en évidence l'approche innovante de Moderna en matière de médecine, tirée par la technologie, et son engagement à rester à l'avant-garde de la technologie et de l'IA, tout en cultivant une culture dynamique et axée sur la mission.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67336188710ee7561fd3cb57/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "La démocratisation de l'IA",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/11/12/distributed-intelligence-nutanix-extends-ai-to-public-cloud/?ss=ai",
+        "body": "L'article aborde l'évolution de l'IA, qui passe d'un phénomène hypé à une technologie accessible sur différentes plateformes et appareils. L'IA devient multi-modèle (capable de tâches intelligentes variées) et multi-modale (offerte via différents services cloud). L'exemple de l'IA générative et de RAG illustre cette tendance. Nutanix, une entreprise de cloud computing hybride, propose une solution pour gérer la complexité de l'IA distribuée avec son offre Nutanix Enterprise AI. Cette solution offre un modèle opérationnel cohérent pour les charges de travail IA, permettant aux ingénieurs et scientifiques des données de travailler en toute sécurité sur différents clouds et à la périphérie. L'optimisation des microservices d'inférence et des modèles de langage à grande échelle accélère le déploiement d'applications IA génératives. Nutanix Enterprise AI propose également un modèle de tarification transparent et prévisible basé sur les ressources infrastructurelles, ce qui est attrayant pour maximiser le retour sur investissement. L'offre s'intègre à Nutanix GPT-in-a-Box 2.0, offrant une solution complète pour le déploiement de l'IA dans le cloud public et privé. Les cas d'utilisation incluent l'amélioration de l'expérience client, l'accélération du développement logiciel et le renforcement de la sécurité grâce à la détection des fraudes et des menaces. L'évolution clé est de rendre l'infrastructure IA plus accessible et d'élever le rôle des administrateurs système en administrateurs IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6731d1e6cbbf1b03d34d44a7/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "L'IA pour une productivité accrue",
+        "link": "https://www.forbes.com/sites/aytekintank/2024/11/12/6-chatgpt-prompts-to-eliminate-hours-of-boring-tasks/?ss=ai",
+        "body": "L'article met en lumière les avantages de l'utilisation de l'IA, et plus particulièrement de ChatGPT, pour améliorer la productivité au travail. Il s'adresse à ceux qui souhaitent tirer parti de l'IA pour automatiser les tâches fastidieuses et gagner du temps. En utilisant des invites ciblées, les professionnels peuvent déléguer diverses tâches à ChatGPT, de la création de modèles de communication à l'aide à la rédaction de contenu, en passant par l'organisation d'événements d'équipe et la prise de notes lors des réunions. L'IA peut également aider à la recherche, en fournissant un aperçu rapide de grandes quantités d'informations. L'article souligne que l'impatience et la paresse, lorsqu'elles sont associées à des outils d'IA, peuvent conduire à une plus grande efficacité et à des processus de travail rationalisés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67335b676befb6dca7cde91a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "Créer du contenu de leadership pensée à partir d'appels clients avec ChatGPT",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/11/12/5-chatgpt-prompts-to-turn-client-calls-into-thought-leadership-content/?ss=ai",
+        "body": "Résumé : \n\nLes entreprises peuvent transformer les commentaires et les conversations clients en un riche contenu de leadership pensée grâce à ChatGPT. En anonymisant les transcriptions d'appels et en extrayant les points douloureux, les entreprises peuvent créer des articles engageants qui répondent directement aux besoins des clients cibles. Les entreprises peuvent également utiliser les questions fréquentes des clients comme base pour des articles de blog, des tweets et des publications LinkedIn, en fournissant des réponses détaillées et des conseils pratiques. Les histoires de réussite des clients peuvent être transformées en récits convaincants, mettant en valeur l'impact réel de l'entreprise. De plus, les commentaires des clients peuvent être transformés en études de cas détaillées, démontrant ainsi la pensée de leadership et établissant la crédibilité. En utilisant ChatGPT pour guider le processus, les entreprises peuvent créer un contenu précieux qui résonne auprès du public cible et attire de nouveaux clients.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6731481a501a4a12d550693f/0x0.jpg?format=jpg&crop=2228,1252,x0,y31,safe&width=440",
+        "date": "Tue, 12 Nov 2024 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir du marketing : l'IA à l'avant-garde",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/11/12/the-6-most-powerful-ai-marketing-trends-that-will-transform-your-business-in-2025/?ss=ai",
         "body": "Titre : L'avenir du marketing : l'IA à l'avant-garde",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6733073fe633220a38e28ce7/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 12 Nov 2024 07:16:00 GMT"
+    },
+    {
+        "title": "Google lance un nouvel outil IA éducatif",
+        "link": "https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational",
+        "body": "Google a présenté un nouvel outil IA expérimental, \"Learn About\", qui se distingue des chatbots traditionnels comme Gemini ou ChatGPT. Basé sur le modèle IA LearnLM de Google, cet outil est conçu pour offrir une expérience éducative enrichie, avec des réponses visuelles, interactives et pédagogiques. Lors d'un test, à la question \"Quelle est la taille de l'univers ?\", Learn About a fourni une réponse similaire à Gemini, mais avec un accent plus prononcé sur l'apprentissage, incluant des images, du contenu éducatif et des encadrés de style manuel. L'outil propose également une section \"Pourquoi est-ce important\" et une autre pour enrichir son vocabulaire. Learn About semble être un outil efficace pour l'exploration de sujets et l'apprentissage autonome.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3322x2215/2400x1600/filters:focal(1661x1108:1662x1109):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727343/Screenshot_2024_11_11_at_3.53.01_PM.jpeg",
+        "date": "Mon, 11 Nov 2024 23:36:43 GMT"
     },
     {
         "title": "Le futur d'Apple",
@@ -110,19 +173,5 @@
         "body": "Google prépare le lancement de son application de chat basée sur l'IA, Gemini Live, sur l'App Store. Bien qu'actuellement inaccessible, l'application devrait offrir un outil conversationnel avancé, similaire à Siri d'Apple. Gemini Live sera capable de fonctionner en arrière-plan et d'utiliser l'écran de verrouillage de l'iPhone, y compris Dynamic Island. La période de test ciblée exclut actuellement les États-Unis et l'Europe, mais la disponibilité de l'application pourrait changer rapidement, offrant ainsi une alternative à Apple Intelligence, qui ne sera pas lancé en France avant avril 2025.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/sans-titre-1200x898-1-768x575.jpg?resize=225,225&key=8504a4df",
         "date": "Sun, 10 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La domination d'Auto-Tune dans l'industrie musicale et son impact sur l'avenir de la musique",
-        "link": "https://www.theverge.com/2024/11/10/24291307/auto-tune-plugin-culture-music-vergecast",
-        "body": "L'article retrace l'évolution d'Auto-Tune, un outil de traitement audio initialement conçu dans les années 1990, pour devenir une force dominante dans l'industrie musicale. Auto-Tune est désormais omniprésent, influençant le style de chant des artistes et le son général de la musique populaire. L'article explore l'histoire d'Auto-Tune, depuis ses origines inattendues dans l'industrie du pétrole et du gaz jusqu'à son adoption généralisée par des artistes comme Cher et T-Pain. Malgré certaines critiques et controverses, Auto-Tune reste populaire et influence l'avenir de la musique, en particulier avec l'avènement de l'intelligence artificielle. L'article examine comment les artistes pourraient utiliser (et abuser) de l'IA, et comment des outils comme Suno et Udio façonnent déjà un son distinct. Alors que l'ère de la musique basée sur l'IA approche, l'histoire d'Auto-Tune offre des indices sur les changements à venir dans l'industrie musicale.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1280x853/2400x1600/filters:focal(640x427:641x428):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25724178/The_Vergecast_Auto_Tune_3000x2000px_without_logo_Large.jpeg",
-        "date": "Sun, 10 Nov 2024 15:00:00 GMT"
-    },
-    {
-        "title": "L'IA est partout, mais la touche humaine reste irremplaçable",
-        "link": "https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp",
-        "body": "Bien qu'elle soit présente dans de nombreux aspects de notre vie quotidienne, l'IA ne peut pas tout faire. L'article met en lumière les limites de l'IA en prenant l'exemple de Spotify et de sa fonctionnalité AI DJ. Bien que l'IA de Spotify soit capable de créer des playlists personnalisées en se basant sur les goûts musicaux de l'utilisateur, l'auteure préfère l'expérience humaine offerte par une station de radio indépendante locale, KEXP, où de vrais DJs sélectionnent la musique. L'article souligne la valeur de la connexion humaine et de l'imprévisibilité qu'apporte une station de radio dirigée par des humains, par opposition à l'expérience plus prévisible et algorithmique offerte par l'IA DJ de Spotify. L'auteure suggère que les entreprises technologiques surestiment la demande pour l'IA et sous-estiment la valeur qu'apporte un être humain dans l'échange.",
-        "image": "",
-        "date": "Sun, 10 Nov 2024 13:00:00 GMT"
     }
 ]
