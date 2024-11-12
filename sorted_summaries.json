@@ -1,5 +1,33 @@
 [
     {
+        "title": "Améliorer les résultats de l'IA générative avec la technique d'incitation Logic-of-Thought",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/12/new-logic-of-thought-prompting-technique-is-sensibly-remarkable-and-advances-generative-ai-responses/?ss=ai",
+        "body": "La technique d'incitation Logic-of-Thought (LoT) améliore les résultats de l'IA générative en encourageant une approche hautement logique et raisonnée. Bien que l'IA générative soit déjà basée sur la logique, la spécification de LoT permet d'obtenir des réponses plus fiables et approfondies. LoT est particulièrement utile pour les questions ou problèmes logiques, comme ceux impliquant la logique propositionnelle. L'article fournit un exemple de question du Law School Admission Test (LSAT) et montre comment LoT peut aider l'IA à fournir la bonne réponse. LoT est une technique spécialisée qui complète d'autres techniques d'incitation, comme Chain-of-Thought (CoT). L'auteur recommande d'utiliser LoT avec grâce et discernement, uniquement lorsque la logique est essentielle pour résoudre un problème.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673383d93e2f25f2c432c9e0/0x0.jpg?format=jpg&crop=2386,1788,x346,y0,safe&width=440",
+        "date": "Tue, 12 Nov 2024 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : l'architecture au cœur de la révolution",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/12/4-big-benefits-of-dbos-from-turing-prize-winner-mike-stonebraker/?ss=ai",
+        "body": "L'article met en lumière l'importance de l'architecture dans le domaine de l'IA, en particulier à l'ère de l'IA agentique, où les ordinateurs effectuent des tâches avec une supervision minimale. Mike Stonebraker, pionnier de la base de données relationnelle et lauréat du prix Turing, présente le concept de DBOS (Database Operating System), qui combine une base de données et un système d'exploitation pour offrir une solution de backend cloud aux entreprises. Le DBOS présente plusieurs avantages majeurs : une réduction significative du temps de développement, une augmentation de la vitesse grâce à une planification efficace du backend, une simplification de l'administration et une amélioration de la cybersécurité grâce à une surface d'attaque réduite. L'auteur souligne également l'importance des principes de gestion des erreurs et des systèmes de sauvegarde en cas de catastrophe pour garantir le bon fonctionnement de ces systèmes. Alors que l'industrie de l'IA évolue, la réflexion sur l'architecture devient cruciale pour le succès des entreprises dans l'ère de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67337b229ddf6d1e4092171b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Waymo ouvre son service à Los Angeles",
+        "link": "https://www.forbes.com/sites/bradtempleton/2024/11/12/waymo-robotaxi-now-open-to-all-in-los-angeles/?ss=ai",
+        "body": "Waymo, l'unité de robotaxis d'Alphabet/Google, a ouvert son service à Los Angeles à tous les utilisateurs, sans liste d'attente. La zone de service couvre environ 207 km2 du centre-ville de LA à Santa Monica. Waymo effectue 150 000 trajets par semaine dans ses zones de service, avec uniquement les passagers à bord. La société maintient également son service à Phoenix et San Francisco, et prévoit de s'étendre à Austin et Atlanta via Uber. Waymo a récemment levé 5,6 milliards de dollars, valorisant l'entreprise à 45 milliards de dollars, ce qui est relativement bas par rapport au potentiel de l'entreprise. La suppression de la liste d'attente est une étape importante dans le développement d'un service de robotaxis, indiquant que Waymo est prêt à gérer un grand volume de clients et à offrir une expérience accessible à tous. Los Angeles, en tant que ville très dépendante de la voiture, représente un marché intéressant pour Waymo, et l'expansion du service à une plus grande partie de la ville sera un défi en raison de son étalement urbain. La possibilité pour davantage de personnes d'essayer le service est significative, car les études montrent que l'opinion publique sur les robotaxis change positivement après une expérience personnelle. Waymo reste le leader incontesté dans le domaine des robotaxis aux États-Unis, avec des concurrents comme Cruise et Zoox qui prévoient de se lancer dans les prochaines années.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6732b7ab54e2237ecbfadf9e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Waymo élargit son service de robotaxis à Los Angeles",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/11/12/waymo-opens-robotaxi-rides-to-anyone-in-la-tesla/?ss=ai",
+        "body": "Waymo, l'unité de taxis robotisés d'Alphabet, élargit son service à Los Angeles en supprimant la liste d'attente pour télécharger l'application nécessaire pour héler ses véhicules électriques équipés de capteurs. Toute personne dans la deuxième plus grande ville des États-Unis peut désormais télécharger l'application Waymo et réserver des trajets, mais le service n'est disponible que dans une zone de 80 miles carrés, soit moins de 20 % de la métropole. Environ 300 000 personnes étaient sur la liste d'attente pour utiliser l'application, soit le double du nombre d'utilisateurs hebdomadaires de Waymo. La société prévoit de passer à un matériel moins coûteux l'année prochaine et d'utiliser le véhicule électrique Ioniq 5 d'Hyundai dans sa flotte de robotaxis. Waymo s'associe également à des groupes locaux à Los Angeles qui promeuvent la sécurité pour les femmes et la communauté LGBTQ+, y compris She is Hope et le Los Angeles LGBT Center.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6732980454e1222bf504bb58/0x0.jpg?format=jpg&crop=2767,1558,x0,y179,safe&width=440",
+        "date": "Tue, 12 Nov 2024 16:00:00 GMT"
+    },
+    {
         "title": "La domination masculine dans le secteur technologique",
         "link": "https://www.forbes.com/sites/torconstantino/2024/11/12/71-of-ai-workforce-is-men-just-29-are-women---how-do-we-fix-this/?ss=ai",
         "body": "Le texte met en lumière la domination masculine dans le secteur technologique, avec une attention particulière sur la sous-représentation des femmes dans le domaine de l'IA. L'analyse de Randstad révèle que 71 % des travailleurs qualifiés en IA sont des hommes, ce qui crée un écart important entre les genres. Les femmes sont moins susceptibles d'avoir accès à l'IA sur le lieu de travail et sont moins confiantes dans leurs compétences en IA que les hommes. Les experts soulignent que cette situation est critique, car l'IA façonnera l'avenir de chaque secteur. Ils proposent des solutions telles que l'investissement des entreprises dans la formation de leurs employées, l'intégration de l'IA dans les programmes scolaires, et la promotion de modèles féminins dans le domaine de l'IA. Malgré des signes encourageants chez les jeunes générations, les experts insistent sur l'urgence d'agir pour combler l'écart et éviter de laisser de côté la moitié de la main-d'œuvre mondiale.",
@@ -68,6 +96,13 @@
         "body": "Google a présenté un nouvel outil IA expérimental, \"Learn About\", qui se distingue des chatbots traditionnels comme Gemini ou ChatGPT. Basé sur le modèle IA LearnLM de Google, cet outil est conçu pour offrir une expérience éducative enrichie, avec des réponses visuelles, interactives et pédagogiques. Lors d'un test, à la question \"Quelle est la taille de l'univers ?\", Learn About a fourni une réponse similaire à Gemini, mais avec un accent plus prononcé sur l'apprentissage, incluant des images, du contenu éducatif et des encadrés de style manuel. L'outil propose également une section \"Pourquoi est-ce important\" et une autre pour enrichir son vocabulaire. Learn About semble être un outil efficace pour l'exploration de sujets et l'apprentissage autonome.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3322x2215/2400x1600/filters:focal(1661x1108:1662x1109):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727343/Screenshot_2024_11_11_at_3.53.01_PM.jpeg",
         "date": "Mon, 11 Nov 2024 23:36:43 GMT"
+    },
+    {
+        "title": "Orion",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2399918_orion-le-prochain-chatgpt-ne-serait-pas-si-different",
+        "body": "Bien que l'IA générative ait connu une évolution rapide depuis ChatGPT, la prochaine mise à jour d'OpenAI, connue sous le nom de code Orion, ne proposerait qu'une amélioration incrémentale par rapport à GPT-4. Cette nouvelle version devrait donc offrir une expérience similaire à ChatGPT, sans changements majeurs. De plus, OpenAI fait face à des défis liés à la lourdeur du modèle et à la puissance de calcul nécessaire pour le faire fonctionner, ce qui implique des coûts importants en termes d'infrastructure et d'électricité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/chatgpt-1200x800-2-768x512.jpg?resize=200,200&key=595a2041",
+        "date": "Mon, 11 Nov 2024 23:00:00 GMT"
     },
     {
         "title": "Le futur d'Apple",
