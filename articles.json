@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Le futur selon Apple serait une caméra intelligente et des AirPods santé",
+        "title": "Le futur selon Apple serait une cam\u00e9ra intelligente et des AirPods sant\u00e9",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2398782_le-futur-selon-apple-serait-une-camera-intelligente-et-des-airpods-sante",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/image-21-768x432.png?resize=169,169&key=4e3bc2c6",
         "date": "Mon, 11 Nov 2024 23:00:00 GMT",
@@ -161,7 +161,7 @@
         "check": "yes"
     },
     {
-        "title": "Orion : le prochain ChatGPT ne serait pas si différent",
+        "title": "Orion : le prochain ChatGPT ne serait pas si diff\u00e9rent",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2399918_orion-le-prochain-chatgpt-ne-serait-pas-si-different",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/chatgpt-1200x800-2-768x512.jpg?resize=200,200&key=595a2041",
         "date": "Mon, 11 Nov 2024 23:00:00 GMT",
@@ -208,5 +208,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6690072201877eb350f5ad02/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 12 Nov 2024 08:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/12/former-meta-wearables-pro-comes-to-openai-for-device-design/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6733f765acdfba679118b972/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 13 Nov 2024 00:51:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/richardnieva/2024/11/12/the-prompt-the-race-for-the-chips-act/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6733d436927099a2ef33073c/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/11/12/generative-ais-impact-on-climate-change-benefits-and-costs/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6733c66cfbadfcdc48e46c49/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 12 Nov 2024 21:00:00 GMT",
+        "check": "no"
     }
 ]
