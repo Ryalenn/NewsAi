@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Le futur selon Apple serait une caméra intelligente et des AirPods santé",
+        "title": "Le futur selon Apple serait une cam\u00e9ra intelligente et des AirPods sant\u00e9",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2398782_le-futur-selon-apple-serait-une-camera-intelligente-et-des-airpods-sante",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/image-21-768x432.png?resize=169,169&key=4e3bc2c6",
         "date": "Mon, 11 Nov 2024 23:00:00 GMT",
@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Orion : le prochain ChatGPT ne serait pas si différent",
+        "title": "Orion : le prochain ChatGPT ne serait pas si diff\u00e9rent",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2399918_orion-le-prochain-chatgpt-ne-serait-pas-si-different",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/chatgpt-1200x800-2-768x512.jpg?resize=200,200&key=595a2041",
         "date": "Mon, 11 Nov 2024 23:00:00 GMT",
@@ -187,5 +187,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/673400d724153425a12d4e85/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 13 Nov 2024 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving",
+        "image": "",
+        "date": "Tue, 12 Nov 2024 21:50:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
+        "date": "Tue, 12 Nov 2024 19:52:53 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24201441/ai-terminology-explained-humans",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535281/247181_AI_Explainer_LEDE_HHerrera.jpg",
+        "date": "Tue, 12 Nov 2024 14:53:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://9to5google.com/2024/11/10/google-gemini-app-iphone/",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3322x2215/2400x1600/filters:focal(1661x1108:1662x1109):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727343/Screenshot_2024_11_11_at_3.53.01_PM.jpeg",
+        "date": "Mon, 11 Nov 2024 22:50:55 GMT",
+        "check": "no"
     }
 ]
