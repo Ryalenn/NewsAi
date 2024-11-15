@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'intelligence artificielle surpasse les poètes humains",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/11/15/people-cant-tell-ai-from-shakespeare---they-prefer-ais-verse-study/?ss=ai",
+        "body": "L'étude publiée dans Nature jeudi a révélé que les participants ont systématiquement mieux noté la poésie générée par l'IA que celle de poètes humains célèbres, et qu'ils ont eu du mal à les distinguer. L'IA a battu les humains sur des critères tels que la qualité globale, la profondeur émotionnelle et la complexité des idées. L'étude a utilisé des poèmes de Shakespeare, Chaucer, Whitman, Dickinson, Ginsberg et Plath, et a montré que les participants préféraient l'accessibilité des poèmes générés par l'IA, même s'ils ont montré un biais envers les poèmes écrits par des humains une fois qu'ils en étaient informés. L'IA a imité avec succès les structures et les règles de la poésie, mais manque d'expériences personnelles pour communiquer de nouvelles idées et émotions.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6737a0cf1f077ccd5bf0d648/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 15 Nov 2024 20:24:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une évolution en sept étapes",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/15/the-big-ai-slowdown/?ss=ai",
+        "body": "Bien que l'on ait récemment suggéré que le développement de l'IA atteignait un plateau, Ethan Caballero affirme que ce n'est qu'un léger ralentissement et que l'IA continuera de progresser de manière complexe. Fei-Fei Li souligne l'importance de l'intelligence visuo-spatiale et du potentiel des systèmes actuels. Chris et Mike Sharkey invitent à se concentrer sur les capacités des modèles existants plutôt que sur des prédictions. L'IA évolue en sept étapes : 1) IA basée sur des règles, 2) systèmes de rétention sensibles au contexte, 3) maîtrise spécifique à un domaine, 4) systèmes de réflexion et de raisonnement, 5) forte intelligence artificielle, 6) super-intelligence et 7) singularité, où l'IA fusionne avec l'intelligence humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673798fa1e38cff935de555d/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 15 Nov 2024 19:00:00 GMT"
+    },
+    {
+        "title": "La guerre de l'IA : Microsoft et OpenAI accusés de pratiques anticoncurrentielles",
+        "link": "https://www.theverge.com/2024/11/15/24297271/elon-musk-openai-microsoft-amended-lawsuit",
+        "body": "Elon Musk a modifié sa plainte contre OpenAI, ajoutant des accusations de pratiques anticoncurrentielles visant à monopoliser le marché de l'IA générative. La plainte amendée nomme Microsoft, ainsi que Reid Hoffman et l'ancienne membre du conseil d'administration d'OpenAI, Dee Templeton, comme nouveaux défendeurs. Musk affirme qu'OpenAI et Microsoft échangent des informations sensibles et empêchent leurs investisseurs de financer des entreprises concurrentes, comme xAI, la société d'IA de Musk. La plainte allègue également que l'ancien PDG d'OpenAI, Sam Altman, s'est livré à des pratiques d'auto-transaction pour créer une fusion de facto entre les deux entreprises. OpenAI a qualifié la plainte de « coup publicitaire », tandis que Musk a obtenu un rôle consultatif auprès de l'administration Trump, ce qui pourrait lui conférer une influence sur les politiques en matière d'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906796/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.jpg",
+        "date": "Fri, 15 Nov 2024 15:51:18 GMT"
+    },
+    {
         "title": "Redesign de l'interface par l'IA",
         "link": "https://www.theverge.com/2024/11/15/24297208/rabbit-r1-custom-interface-ai",
         "body": "L'interface de l'appareil Rabbit R1 peut désormais être entièrement personnalisée grâce à l'IA. En se connectant à son compte RabbitHole, l'utilisateur peut activer la fonctionnalité \"Generative UI\" et fournir un prompt décrivant le design souhaité. L'IA concevra alors une interface unique basée sur ce prompt. Le PDG de Rabbit, Jesse Lyu, a partagé des exemples de designs inspirés de la Légende de Zelda, de Windows XP et d'un fond à rayures vert foncé. Bien que cette fonctionnalité ajoute une touche de fun, Rabbit précise qu'elle ralentit les temps de réponse. Depuis son lancement en mai, Rabbit a publié plusieurs mises à jour pour améliorer les fonctionnalités du R1, notamment le déploiement de son Large Action Model (LAM) Playground, qui permet à l'appareil d'effectuer des tâches sur des sites Web comme Amazon ou Google. Malgré ces améliorations, certains critiques restent sceptiques quant à l'utilité du R1 par rapport à un smartphone.",
@@ -215,12 +236,5 @@
         "body": "OpenAI s'apprête à dévoiler un agent IA autonome, nommé « Operator », capable de contrôler de manière indépendante des ordinateurs et d'effectuer des tâches sans assistance. Cette annonce intensifie la compétition entre les géants technologiques développant des agents IA, tels qu'Anthropic et Google. Bien que la date de sortie grand public d'Operator reste inconnue, son développement marque un tournant vers des systèmes IA capables d'interagir activement avec les interfaces informatiques, au-delà du simple traitement de texte et d'images. Les laboratoires d'IA font face à une pression croissante pour monétiser leurs modèles coûteux, et les agents autonomes sont considérés comme le prochain produit révolutionnaire, à l'image de ChatGPT, justifiant ainsi les investissements massifs dans le développement de l'IA.",
         "image": "",
         "date": "Wed, 13 Nov 2024 22:08:29 GMT"
-    },
-    {
-        "title": "AI Summaries in Action",
-        "link": "https://www.theverge.com/2024/11/13/24295838/the-wall-street-journal-ai-article-summaries-key-points",
-        "body": "The Wall Street Journal teste actuellement des résumés d'articles générés par IA, présentés sous forme de liste de points clés. Ces résumés, vérifiés par des éditeurs, sont créés à l'aide d'outils d'IA et visent à offrir plus de valeur aux abonnés. Taneth Evans, responsable du numérique au WSJ, déclare que le journal évalue constamment de nouvelles technologies et méthodes de narration. Gannett, propriétaire de USA Today, et l'application Particle utilisent également des résumés d'articles générés par IA. Bien que pratiques, ces résumés automatiques peuvent parfois contenir des informations incorrectes, ce qui souligne l'importance de lire les articles en entier lorsque cela est possible.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg",
-        "date": "Wed, 13 Nov 2024 20:55:31 GMT"
     }
 ]
