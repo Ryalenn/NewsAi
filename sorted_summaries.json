@@ -1,5 +1,12 @@
 [
     {
+        "title": "Coca-Cola lance des publicités générées par IA pour les fêtes",
+        "link": "https://www.theverge.com/2024/11/15/24297586/coca-cola-is-airing-ai-generated-ads-for-the-holidays",
+        "body": "Résumé : Coca-Cola a dévoilé des publicités de vacances générées par IA, dont une nouvelle version de sa célèbre publicité avec un convoi de camions Coke. Les trois publicités seront diffusées à la télévision et sur les plateformes vidéo en ligne pendant la saison des fêtes.",
+        "image": "",
+        "date": "Fri, 15 Nov 2024 20:43:22 GMT"
+    },
+    {
         "title": "L'intelligence artificielle surpasse les poètes humains",
         "link": "https://www.forbes.com/sites/torconstantino/2024/11/15/people-cant-tell-ai-from-shakespeare---they-prefer-ais-verse-study/?ss=ai",
         "body": "L'étude publiée dans Nature jeudi a révélé que les participants ont systématiquement mieux noté la poésie générée par l'IA que celle de poètes humains célèbres, et qu'ils ont eu du mal à les distinguer. L'IA a battu les humains sur des critères tels que la qualité globale, la profondeur émotionnelle et la complexité des idées. L'étude a utilisé des poèmes de Shakespeare, Chaucer, Whitman, Dickinson, Ginsberg et Plath, et a montré que les participants préféraient l'accessibilité des poèmes générés par l'IA, même s'ils ont montré un biais envers les poèmes écrits par des humains une fois qu'ils en étaient informés. L'IA a imité avec succès les structures et les règles de la poésie, mais manque d'expériences personnelles pour communiquer de nouvelles idées et émotions.",
@@ -12,6 +19,13 @@
         "body": "Bien que l'on ait récemment suggéré que le développement de l'IA atteignait un plateau, Ethan Caballero affirme que ce n'est qu'un léger ralentissement et que l'IA continuera de progresser de manière complexe. Fei-Fei Li souligne l'importance de l'intelligence visuo-spatiale et du potentiel des systèmes actuels. Chris et Mike Sharkey invitent à se concentrer sur les capacités des modèles existants plutôt que sur des prédictions. L'IA évolue en sept étapes : 1) IA basée sur des règles, 2) systèmes de rétention sensibles au contexte, 3) maîtrise spécifique à un domaine, 4) systèmes de réflexion et de raisonnement, 5) forte intelligence artificielle, 6) super-intelligence et 7) singularité, où l'IA fusionne avec l'intelligence humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673798fa1e38cff935de555d/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 15 Nov 2024 19:00:00 GMT"
+    },
+    {
+        "title": "Protection des données et confidentialité",
+        "link": "https://www.bloomberg.com/news/articles/2024-11-15/musk-s-x-sues-to-block-california-s-deepfake-deception-act",
+        "body": "Résumé : \n\nCe texte met en évidence l'importance de protéger les données et de maintenir la confidentialité en ligne. Il s'agit d'une préoccupation majeure pour toute personne travaillant dans le domaine de l'IA, car la collecte et l'utilisation responsables des données sont essentielles pour développer et déployer des technologies d'IA éthiques et conformes aux réglementations. Le texte souligne la nécessité de s'assurer que les navigateurs prennent en charge JavaScript et les cookies, tout en respectant les conditions de service et la politique de confidentialité. Il est important de trouver un équilibre entre l'utilisation de données pour l'IA et la protection de la vie privée des utilisateurs.",
+        "image": "",
+        "date": "Fri, 15 Nov 2024 17:27:00 GMT"
     },
     {
         "title": "La guerre de l'IA : Microsoft et OpenAI accusés de pratiques anticoncurrentielles",
@@ -91,6 +105,13 @@
         "date": "Thu, 14 Nov 2024 22:00:00 GMT"
     },
     {
+        "title": "OpenAI's Operator",
+        "link": "https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai",
+        "body": "OpenAI s'apprête à dévoiler un agent IA autonome, nommé « Operator », capable d'effectuer des tâches sur un ordinateur de manière indépendante. Cette annonce intensifie la compétition entre géants technologiques développant des agents IA, tels qu'Anthropic et Google. Bien que la date de sortie grand public d'Operator reste inconnue, son développement marque un tournant vers des systèmes IA capables d'interagir activement avec des interfaces informatiques, au-delà du simple traitement de texte et d'images. Les laboratoires d'IA sont de plus en plus sous pression pour monétiser leurs modèles coûteux, et les agents autonomes sont considérés comme le prochain produit révolutionnaire, à l'échelle de ChatGPT, justifiant ainsi les investissements massifs dans le développement de l'IA.",
+        "image": "",
+        "date": "Thu, 14 Nov 2024 21:11:53 GMT"
+    },
+    {
         "title": "TikTok AI Ads",
         "link": "https://www.theverge.com/2024/11/14/24296636/tiktok-ai-ads-getty-images-content",
         "body": "TikTok annonce une nouvelle fonctionnalité permettant aux annonceurs d'accéder aux images et vidéos de Getty Images lors de la création d'annonces avec son outil de création d'annonces basé sur l'IA. L'outil, appelé Symphony Creative Studio, utilise l'IA pour générer des vidéos basées sur des descriptions de produits, y compris des avatars IA et du doublage en différentes langues. Les annonceurs peuvent également créer plusieurs versions d'une annonce et « remixer » des annonces existantes. Cette intégration offre un contenu visuel engageant et prêt à l'emploi, tout en garantissant que les images utilisées sont autorisées pour une utilisation commerciale. Cette collaboration entre TikTok et Getty Images facilite la création de contenu publicitaire efficace et immersif sur la plateforme TikTok.",
@@ -117,6 +138,13 @@
         "body": "Gartner a publié sa liste annuelle des tendances technologiques, organisée en trois grands thèmes : les impératifs et les risques de l'IA, les nouvelles frontières de l'informatique et la synergie homme-machine. L'article souligne l'importance de l'IA agentique et de la gouvernance de l'IA, ainsi que les défis liés à la désinformation et à la sécurité. Le domaine de l'informatique évolue vers la cryptographie post-quantique, l'intelligence ambiante invisible, l'informatique éconergétique et l'informatique hybride. La synergie homme-machine, avec la réalité augmentée et virtuelle, les robots polyfonctionnels et l'amélioration neurologique, est également mise en avant. L'article reflète les tendances observées dans les cours universitaires sur l'IA, l'apprentissage automatique et les technologies émergentes, soulignant la nécessité de suivre les évolutions rapides et leur impact sur les industries.\n\nTitre : Tendances technologiques : IA, informatique et synergie humaine",
         "image": "https://imageio.forbes.com/specials-images/imageserve/671ee634d8e677df856ece42/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Nov 2024 17:48:00 GMT"
+    },
+    {
+        "title": "IA publicitaire",
+        "link": "https://www.theverge.com/2024/10/7/24264888/the-ai-generated-ads-are-coming",
+        "body": "Les plateformes de médias sociaux comme TikTok, Meta et Google proposent désormais des outils d'IA pour la création de publicités. L'IA de TikTok, Smart+, permet aux marketeurs de créer et de diffuser automatiquement des publicités ciblées pour augmenter les conversions, les prospects ou les téléchargements d'applications. L'argument de vente est la simplicité et la rapidité, éliminant ainsi les semaines de tests A/B et de devinettes.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:5760x3200/2400x1333/filters:focal(2880x1600:2881x1601):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25733408/Symphony_Creative_Studio_Screenshot_ft._Your_Daily_Video_Generations_Homepage.png",
+        "date": "Thu, 14 Nov 2024 16:04:11 GMT"
     },
     {
         "title": "XAI's Colossus Supercomputer",
@@ -194,47 +222,5 @@
         "body": "L'IA générative transforme fondamentalement la manière dont les organisations se défendent contre les cybermenaces, créant à la fois de nouvelles vulnérabilités et des opportunités sans précédent en matière de protection. Alors que la société s'appuie de plus en plus sur les plateformes numériques, la connectivité en ligne et le transfert et le stockage des données, le nombre de vecteurs d'attaque potentiels augmente. L'IA, et en particulier l'IA générative, joue désormais un rôle important dans ce domaine. Bien que cette technologie révolutionnaire crée de nouveaux risques, elle offre également de nouvelles possibilités. Les professionnels de la cybersécurité qui travaillent en collaboration avec des machines intelligentes et l'IA générative seront en première ligne pour faire face à cette nouvelle vague de menaces. L'IA générative a des implications pour tous les aspects de la cybersécurité, de la gestion des risques à la protection des données, en passant par l'architecture de sécurité et la réponse aux incidents. Par exemple, l'IA peut automatiser la classification des informations sensibles, identifier les points faibles dans l'infrastructure de sécurité, suggérer des implémentations de sécurité et simuler des attaques pour tester leur efficacité. De plus, l'IA peut suivre le comportement des utilisateurs et identifier les anomalies, détecter les attaques de phishing et automatiser la création de programmes de test et de rapports de résultats. Comprendre comment l'IA générative peut être intégrée dans ces domaines permet aux professionnels de la cybersécurité de renforcer leurs défenses et de mieux répondre aux menaces. L'IA générative aura un impact sur la cybersécurité, en aidant les professionnels à automatiser les tâches quotidiennes, à libérer du temps pour des activités stratégiques et à identifier les menaces émergentes. De plus, comprendre les nuances culturelles d'une organisation reste une compétence humaine essentielle pour atténuer les menaces. Enfin, l'évolution des compétences et l'adaptation aux nouvelles responsabilités seront essentielles pour prospérer dans ce domaine en constante évolution.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6735a1a2b5efce023778c682/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Nov 2024 07:00:00 GMT"
-    },
-    {
-        "title": "IA et médecine : des avancées prometteuses",
-        "link": "https://www.forbes.com/sites/innovationrx/2024/11/13/innovationrx-positive-clinical-trial-results-for-generative-ai-designed-drug/?ss=ai",
-        "body": "Insilico Medicine, une entreprise utilisant l'IA pour concevoir des traitements, annonce des résultats positifs pour un essai clinique de phase IIa de son traitement ISM001-055 contre la fibrose pulmonaire idiopathique. Enveda, une startup du Colorado, débute des essais cliniques pour ENV-294, un traitement anti-inflammatoire oral de la dermatite atopique, développé grâce à des modèles IA entraînés sur des données biologiques. Ces avancées soulignent le potentiel de l'IA dans la découverte et le développement de nouveaux médicaments. De plus, Genesis Therapeutics, une autre entreprise d'IA pour la découverte de médicaments, reçoit un investissement de la part de Nvidia, et Vesalius, une plateforme de découverte computationnelle, collabore avec GSK pour développer des traitements contre la maladie de Parkinson. Ces annonces mettent en lumière les progrès de l'IA dans le domaine médical, avec des implications potentielles de grande envergure.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67351418f6df086af088489f/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 14 Nov 2024 00:47:00 GMT"
-    },
-    {
-        "title": "La thérapie par l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/13/generative-ai-gets-emotional-as-people-seek-name-your-feelings-therapy-via-large-language-models/?ss=ai",
-        "body": "Résumé : \n\nL'article explore l'utilisation croissante de l'IA générative et des grands modèles linguistiques dans une forme de thérapie émotionnelle appelée « nommez vos sentiments ». Il s'agit d'encourager les gens à identifier et à réfléchir sur leurs sentiments. L'auteur examine les avantages potentiels de l'IA dans ce contexte, mais aussi les pièges possibles, notamment la possibilité de fausses interprétations ou de conseils inappropriés. L'article présente également un exemple de conversation avec un modèle d'IA populaire, illustrant comment l'IA peut guider les utilisateurs à travers l'exercice « nommez vos sentiments ». Enfin, il soulève des préoccupations concernant la confidentialité et l'anthropomorphisme de l'IA, mettant en garde contre le fait de considérer l'IA comme sentiente.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673541e2172d0b75c1358ae4/0x0.jpg?format=jpg&crop=3020,2265,x357,y0,safe&width=440",
-        "date": "Thu, 14 Nov 2024 00:29:00 GMT"
-    },
-    {
-        "title": "Nvidia s'attaque au marché des robots humanoïdes",
-        "link": "https://www.frandroid.com/marques/nvidia/2402868_nvidia-se-prepare-a-chambouler-le-marche-des-robots-humanoides-des-2025",
-        "body": "Nvidia, leader dans le domaine des semi-conducteurs pour l'IA, se lance dans le marché des robots humanoïdes avec sa plateforme Jetson Thor. L'entreprise vise à fournir une technologie permettant de développer des robots capables d'interagir avec les humains et leur environnement. Selon un dirigeant de Nvidia, la technologie pourrait être commercialisée dès le premier semestre 2025, renforçant ainsi la position de l'entreprise sur le marché des semi-conducteurs. Nvidia se positionne en tant que fournisseur de technologie pour les constructeurs de robots, plutôt que comme créateur de robots. Bien que la technologie de Nvidia soit prête pour 2025, un développement généralisé de robots humanoïdes de qualité industrielle n'est pas attendu pour cette date.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/computex-2023-keynote-nvidia-keynote-2-11-45-screenshot-1200x675-2-768x432.jpg?resize=169,169&key=8db8572c",
-        "date": "Wed, 13 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Daisy, la grand-mère IA qui combat les arnaqueurs",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2402308_cet-operateur-a-une-nouvelle-astuce-hilarante-pour-faire-perdre-du-temps-aux-arnaqueurs",
-        "body": "L'opérateur britannique O2 a créé une intelligence artificielle nommée Daisy, une grand-mère virtuelle, pour lutter contre les arnaques téléphoniques. Daisy engage les arnaqueurs dans des conversations sans fin, jouant sur les stéréotypes des personnes âgées peu familières avec la technologie. Son but est de les garder au téléphone le plus longtemps possible, les empêchant ainsi de cibler de vraies personnes. Daisy est disponible 24h/24 et 7j/7, et fait partie d'une liste de \"leurres\" en ligne utilisée par les arnaqueurs. Cette approche innovante met en lumière l'utilisation de l'IA pour contrer les activités malhonnêtes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/arnaques-ia-grand-mere-768x433.jpg?resize=169,169&key=0c5fc9ab",
-        "date": "Wed, 13 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini de Google sur iPhone",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2402504_ca-y-est-vous-pouvez-telecharger-google-gemini-sur-iphone",
-        "body": "Google lance discrètement son application Gemini pour iPhone dans le monde entier, offrant une interface simple pour interagir avec son IA. L'application gratuite permet aux utilisateurs d'accéder à l'IA de Google via du texte, de la voix ou une caméra, et fournit des réponses et des interactions similaires à celles de l'application Google ou du site web de Gemini. La principale caractéristique de l'application est la commodité, en plaçant l'icône sur l'écran d'accueil et en permettant un accès rapide à l'IA. De plus, Gemini Live, un mode de discussion plus interactif, est désormais disponible pour les utilisateurs d'iPhone, offrant une expérience similaire au mode vocal de ChatGPT. L'application a des limitations, mais peut accéder à d'autres applications Google, comme YouTube Music et Google Maps, offrant ainsi une expérience plus intégrée. La course pour l'écran d'accueil des utilisateurs est lancée, et Google Gemini espère séduire les utilisateurs avec sa commodité et ses fonctionnalités interactives.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/gemini-sur-iphone-2-768x579.jpg?resize=226,226&key=2c8c8086",
-        "date": "Wed, 13 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI's Operator",
-        "link": "https://www.theverge.com/2024/11/13/24295879/openai-agent-operator-autonomous-ai",
-        "body": "OpenAI s'apprête à dévoiler un agent IA autonome, nommé « Operator », capable de contrôler de manière indépendante des ordinateurs et d'effectuer des tâches sans assistance. Cette annonce intensifie la compétition entre les géants technologiques développant des agents IA, tels qu'Anthropic et Google. Bien que la date de sortie grand public d'Operator reste inconnue, son développement marque un tournant vers des systèmes IA capables d'interagir activement avec les interfaces informatiques, au-delà du simple traitement de texte et d'images. Les laboratoires d'IA font face à une pression croissante pour monétiser leurs modèles coûteux, et les agents autonomes sont considérés comme le prochain produit révolutionnaire, à l'image de ChatGPT, justifiant ainsi les investissements massifs dans le développement de l'IA.",
-        "image": "",
-        "date": "Wed, 13 Nov 2024 22:08:29 GMT"
     }
 ]
