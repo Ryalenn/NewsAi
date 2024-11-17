@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : l'intégrité artificielle",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2024/11/17/in-ai-businesses-trust-but-are-still-accountable-for-integrity-lapses/?ss=ai",
+        "body": "L'article met en évidence les risques associés à l'intégration de l'IA dans les opérations commerciales sans accorder suffisamment d'attention à l'intégrité de ses résultats. Il souligne que l'intégrité artificielle est cruciale pour éviter les conséquences juridiques, l'érosion de la réputation de la marque et même l'effondrement potentiel de l'entreprise. L'article fournit des exemples de domaines clés où l'intégrité artificielle est essentielle, notamment la prévention de la désinformation, la protection de la santé et de la précision, le maintien de l'intégrité dans les contextes sensibles et la protection des utilisateurs vulnérables. Il souligne également l'importance de garantir des réponses sûres et attentives de la part de l'IA, de lutter contre les préjugés et de rendre des comptes dans les applications de police assistées par l'IA. Enfin, il fournit des recommandations aux entreprises pour intégrer l'intégrité artificielle dans leurs pratiques liées à l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673a554a252e09af44c96306/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 17 Nov 2024 20:55:00 GMT"
+    },
+    {
         "title": "Le futur de l'IA selon Sam Altman",
         "link": "https://www.forbes.com/sites/johnwerner/2024/11/17/sam-altman-speaks-on-tech-progress/?ss=ai",
         "body": "Sam Altman, PDG d'OpenAI, s'exprime sur l'avenir de l'IA et répond aux craintes concernant son impact sur le marché du travail. Il prévoit une amélioration rapide de la technologie, les lacunes actuelles étant comblées par les générations futures de modèles. Altman souligne le potentiel de l'IA dans le codage et les solutions sans code, suggérant que les entreprises se concentrent sur l'innovation plutôt que sur la résolution de problèmes obsolètes. Il définit l'IA « agentic » comme capable d'exécuter des tâches à long terme avec une supervision minimale et donne des exemples pratiques de son utilisation. Tout en admettant que les prédictions sont spéculatives, Altman aborde le remplacement de la main-d'œuvre humaine et les défis de la formation des modèles. Il discute de l'équilibre entre les besoins à court et à long terme dans la planification des entreprises et des problèmes surmontés grâce aux progrès continus. Il prévoit un taux de progression rapide de l'IA dans les cinq prochaines années, tout en estimant que la société s'adaptera sans changements drastiques.",
@@ -35,31 +42,10 @@
         "date": "Sat, 16 Nov 2024 07:00:00 GMT"
     },
     {
-        "title": "Gemini AI Image Generator",
-        "link": "https://www.theverge.com/2024/11/15/24297524/google-docs-gemini-ai-image-generator-clip-art",
-        "body": "Google Workspace déploie un générateur d'images alimenté par l'IA Gemini directement dans Google Docs. Cette fonctionnalité, réservée aux comptes Workspace payants avec certains modules complémentaires, permet aux utilisateurs de créer rapidement des visuels pour leurs documents. Les utilisateurs peuvent décrire l'image souhaitée et choisir un style artistique, avec des options telles que « Photographie » ou « Esquisse ». La fonctionnalité utilise le dernier générateur d'images Imagen 3 de Google, qui promet une meilleure qualité et des artefacts moins distrayants. La sortie débutera sur les domaines de publication rapide à partir d'aujourd'hui, avec un déploiement progressif pour les domaines de publication planifiée à partir du 16 décembre.",
+        "title": "ESPN teste un avatar généré par l'IA",
+        "link": "https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts",
+        "body": "ESPN teste un avatar généré par l'IA, nommé FACTS, dans le cadre de son émission de football universitaire du samedi, SEC Nation. FACTS a pour but de promouvoir l'éducation et le divertissement autour des analyses sportives, en utilisant des données d'ESPN Analytics, notamment l'indice de puissance footballistique (FPI), les statistiques des joueurs et des équipes, et les calendriers des matchs. FACTS utilise la technologie ACE (Avatar Cloud Engine) de Nvidia, une intégration OpenAI Azure pour le traitement du langage naturel, et ElevenLabs pour la synthèse texte-parole. ESPN affirme que FACTS n'est absolument pas destiné à remplacer les journalistes ou autres talents, mais plutôt à tester des innovations et à rendre les données d'ESPN Analytics plus accessibles aux fans.",
         "image": "",
-        "date": "Fri, 15 Nov 2024 20:57:46 GMT"
-    },
-    {
-        "title": "Coca-Cola lance des publicités générées par IA pour les fêtes",
-        "link": "https://www.theverge.com/2024/11/15/24297586/coca-cola-is-airing-ai-generated-ads-for-the-holidays",
-        "body": "Résumé : Coca-Cola a dévoilé des publicités de vacances générées par IA, dont une nouvelle version de sa célèbre publicité avec un convoi de camions Coke. Les trois publicités seront diffusées à la télévision et sur les plateformes vidéo en ligne pendant la saison des fêtes.",
-        "image": "",
-        "date": "Fri, 15 Nov 2024 20:43:22 GMT"
-    },
-    {
-        "title": "L'intelligence artificielle surpasse les poètes humains",
-        "link": "https://www.forbes.com/sites/torconstantino/2024/11/15/people-cant-tell-ai-from-shakespeare---they-prefer-ais-verse-study/?ss=ai",
-        "body": "L'étude publiée dans Nature jeudi a révélé que les participants ont systématiquement mieux noté la poésie générée par l'IA que celle de poètes humains célèbres, et qu'ils ont eu du mal à les distinguer. L'IA a battu les humains sur des critères tels que la qualité globale, la profondeur émotionnelle et la complexité des idées. L'étude a utilisé des poèmes de Shakespeare, Chaucer, Whitman, Dickinson, Ginsberg et Plath, et a montré que les participants préféraient l'accessibilité des poèmes générés par l'IA, même s'ils ont montré un biais envers les poèmes écrits par des humains une fois qu'ils en étaient informés. L'IA a imité avec succès les structures et les règles de la poésie, mais manque d'expériences personnelles pour communiquer de nouvelles idées et émotions.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6737a0cf1f077ccd5bf0d648/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 15 Nov 2024 20:24:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une évolution en sept étapes",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/11/15/the-big-ai-slowdown/?ss=ai",
-        "body": "Bien que l'on ait récemment suggéré que le développement de l'IA atteignait un plateau, Ethan Caballero affirme que ce n'est qu'un léger ralentissement et que l'IA continuera de progresser de manière complexe. Fei-Fei Li souligne l'importance de l'intelligence visuo-spatiale et du potentiel des systèmes actuels. Chris et Mike Sharkey invitent à se concentrer sur les capacités des modèles existants plutôt que sur des prédictions. L'IA évolue en sept étapes : 1) IA basée sur des règles, 2) systèmes de rétention sensibles au contexte, 3) maîtrise spécifique à un domaine, 4) systèmes de réflexion et de raisonnement, 5) forte intelligence artificielle, 6) super-intelligence et 7) singularité, où l'IA fusionne avec l'intelligence humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673798fa1e38cff935de555d/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 15 Nov 2024 19:00:00 GMT"
+        "date": "Fri, 15 Nov 2024 21:51:38 GMT"
     }
 ]
