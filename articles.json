@@ -54,5 +54,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67398234ef26864e3da47765/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 18 Nov 2024 14:59:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/nvidia/2406286_nvidia-les-nouvelles-puces-blackwell-provoquent-des-surchauffes-dans-les-serveurs",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/keynote-by-nvidia-ceo-jensen-huang-at-2024-siepr-economic-summit-48-49-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=89156ae8",
+        "date": "Sun, 17 Nov 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/karlfreund/2024/11/18/nvidia-leads-the-hpc-landscape-at-supercomputing-24/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673a3555d1f810b04237c0df/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 18 Nov 2024 18:29:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2024/11/18/5-cybersecurity-priorities-for-the-trump-administration/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673b782a208126628450ed73/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 18 Nov 2024 17:50:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ericsiegel/2024/11/18/predictive-ai-usually-fails-because-its-not-usually-valuated/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673b6b45cf25fcebab92452f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 18 Nov 2024 16:00:00 GMT",
+        "check": "no"
     }
 ]
