@@ -110,12 +110,5 @@
         "body": "L'article met en lumière les efforts de l'avocate et entrepreneure française Marie Potel-Saville et de sa société Fair Patterns pour lutter contre les \"dark patterns\", ces designs trompeurs qui manipulent les utilisateurs en ligne. Avec l'adoption croissante de l'IA, ces pratiques deviennent plus sophistiquées et répandues. Potel-Saville explique comment l'IA peut amplifier les dark patterns, personnaliser les interactions et exploiter les données des utilisateurs pour les pousser à des achats non désirés. Fair Patterns utilise un algorithme multimodal pour détecter ces designs trompeurs et aider les entreprises à adopter des pratiques plus éthiques et conformes à la loi. L'article souligne également les conséquences négatives des dark patterns sur la confiance des consommateurs et la valeur à long terme des entreprises.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6739c49b2d06ae84a081cecf/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 17 Nov 2024 10:00:00 GMT"
-    },
-    {
-        "title": "L'orchestration des agents IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/16/multi-agent-ai-orchestration-shaping-up-but-heres-why-it-might-not-be-fully-shipshape/?ss=ai",
-        "body": "L'article explore les avantages et les inconvénients de l'utilisation d'un agent IA centralisé pour orchestrer les tâches de plusieurs agents IA dans un système multi-agents. Il présente un cas d'utilisation de planification de voyage, où un agent IA de voyage principal interagit avec d'autres agents IA spécialisés dans la réservation de vols et d'hôtels. L'auteur souligne les compromis cruciaux, notamment les risques de défaillance unique, les goulots d'étranglement et les vulnérabilités aux attaques, associés à l'utilisation d'un agent d'orchestration unique. Il compare également l'orchestration centralisée à d'autres modes de commandement et de contrôle, tels que la distribution et la hiérarchie, et souligne les similitudes avec les structures d'autorité humaines. Enfin, l'article met en garde contre le potentiel de corruption associé à la concentration du pouvoir dans des systèmes complexes d'agents IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673963a06bc67ca7387a3cc5/0x0.jpg?format=jpg&crop=1191,892,x28,y0,safe&width=440",
-        "date": "Sun, 17 Nov 2024 03:00:00 GMT"
     }
 ]
