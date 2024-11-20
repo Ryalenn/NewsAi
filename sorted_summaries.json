@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'avenir de l'IA dans le ciblage publicitaire",
+        "link": "https://www.theverge.com/2024/5/7/24151171/openai-dotdash-meredith-people-instyle-licensing",
+        "body": "Dotdash Meredith, l'éditeur de magazines populaires, s'associe à OpenAI pour utiliser ses modèles d'IA dans son produit de ciblage publicitaire, D/Cipher. En échange, Dotdash Meredith fournira du contenu à ChatGPT et collaborera sur de nouvelles fonctionnalités IA pour ses lecteurs. OpenAI apportera le contenu des publications de Dotdash Meredith à ChatGPT, avec des liens vers les articles, et formera ses modèles IA sur ces articles. Dotdash Meredith utilisera les modèles d'OpenAI pour améliorer son produit publicitaire, le rendant plus précis et nuancé dans un monde qui se prépare à l'après-cookies. Neil Vogel, PDG de Dotdash Meredith, insiste sur l'importance de la rémunération des éditeurs pour l'utilisation de leur contenu par les plateformes IA. D'autres organisations médiatiques, telles que The Financial Times et Business Insider, ont également conclu des accords avec OpenAI. Cependant, certains journaux ont intenté des poursuites contre OpenAI et Microsoft pour violation du droit d'auteur.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 20 Nov 2024 01:07:49 GMT"
+    },
+    {
         "title": "L'IA, un reflet de notre intelligence naturelle",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/11/19/2-years-of-chatgpt-4-lessons-about-ai---and-ourselves/?ss=ai",
         "body": "L'adoption rapide de ChatGPT et d'autres modèles linguistiques a mis en lumière non seulement le potentiel de l'IA, mais aussi les limites et le potentiel latent de l'intelligence naturelle (NI). L'article explore quatre tendances humaines clés révélées par la réaction à l'IA générative : notre propension à utiliser des raccourcis cognitifs, à privilégier les avantages immédiats par rapport aux conséquences à long terme, à s'appuyer sur des modèles familiers et à succomber à la fatigue décisionnelle face à une pléthore d'options. Il souligne l'importance d'une participation critique, de garde-fous éthiques, d'une collaboration IA-NI complémentaire et d'une utilisation intentionnelle de l'IA pour équilibrer ses avantages et ses risques. L'IA nous apprend sur notre NI, révélant nos biais cognitifs et nous poussant à repenser ce qui est possible lorsque les deux sont combinés.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673a61cddfc90d42d286eb27/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 19 Nov 2024 20:25:00 GMT"
+    },
+    {
+        "title": "Chatbots: Microsoft contre-attaque",
+        "link": "https://www.theverge.com/2024/11/19/24300826/journalism-with-impact",
+        "body": "Microsoft poursuit sa bataille juridique avec le New York Times au sujet des règles de droit d'auteur liées à l'IA. La nouvelle ligne d'attaque de l'entreprise cible l'amour des chatbots par l'animateur du podcast technologique du Times, Kevin Roose, que les avocats de Microsoft ont omis de nommer.",
+        "image": "",
+        "date": "Tue, 19 Nov 2024 19:48:38 GMT"
     },
     {
         "title": "Google Gemini, l'assistant numérique de Google",
@@ -40,6 +54,13 @@
         "body": "OpenAI dévoile ses projets ambitieux pour stimuler l'innovation américaine en matière d'IA, avec un financement important et un nouveau « plan directeur » à cinq piliers : zones économiques d'IA, un « Acte d'autoroute de transmission nationale », l'implication du gouvernement dans des projets majeurs d'IA, une grande alliance avec des alliés et le développement de l'énergie nucléaire. OpenAI vise également à contrer ses concurrents avec son agent « Operator », capable d'exécuter des tâches sur le Web et hors ligne, suscitant des inquiétudes quant au déplacement des emplois. Les observateurs s'attendent à ce que le plan d'OpenAI influence considérablement l'administration publique dans le cadre des changements fédéraux à venir.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673b9ed4288463f03846ad2f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 19 Nov 2024 14:00:00 GMT"
+    },
+    {
+        "title": "Microsoft Places",
+        "link": "https://www.theverge.com/2024/5/13/24155204/microsoft-places-ai-hybrid-office-feature",
+        "body": "Microsoft lance une nouvelle application, Microsoft Places, qui utilise l'IA pour aider les entreprises à mieux coordonner le temps passé au bureau par les employés. L'application, intégrée à Outlook et Microsoft Teams, permet aux employés de définir et de partager leurs jours de présence au bureau et aux gestionnaires de mettre en place des jours prioritaires. Ces données de localisation sont ensuite intégrées au calendrier Outlook et à Microsoft Copilot, permettant aux utilisateurs d'obtenir des suggestions sur les jours où ils devraient se rendre au bureau et de demander à l'assistant IA de modifier leur emploi du temps en conséquence. Microsoft Places comprend également une fonctionnalité de recherche pour réserver des salles de réunion ou des bureaux partagés, avec des rappels dans le calendrier. L'expérience de réservation sera également disponible dans Copilot plus tard dans l'année. Les données de localisation alimenteront également d'autres applications Microsoft 365, comme Teams, pour indiquer la proximité des collègues. L'application comprend également une fonctionnalité d'analyse de l'espace pour les gestionnaires de biens immobiliers et de facilities management, et fera finalement partie de Microsoft Teams Premium.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535281/247181_AI_Explainer_LEDE_HHerrera.jpg",
+        "date": "Tue, 19 Nov 2024 13:30:00 GMT"
     },
     {
         "title": "Microsoft Ignite 2023",
@@ -154,6 +175,13 @@
         "date": "Mon, 18 Nov 2024 18:29:00 GMT"
     },
     {
+        "title": "Sécurité des piétons et des cyclistes face aux véhicules autonomes",
+        "link": "https://www.theverge.com/2024/11/11/24290338/waymo-vru-pedestrian-cyclist-injury-dataset",
+        "body": "La sécurité des piétons, cyclistes et autres usagers vulnérables de la route est un enjeu crucial pour l'avenir des véhicules autonomes (VA). Waymo, entreprise de robotaxis détenue par Alphabet, a récemment publié une étude sur les centaines d'accidents impliquant ces usagers, constituant ainsi la plus grande base de données de ce type aux États-Unis. Bien que les constructeurs automobiles aient grandement amélioré la sécurité des occupants des véhicules, la sécurité des piétons et des cyclistes n'a pas reçu la même attention. L'étude de Waymo, en collaboration avec Nexar et VUFO, vise à combler cette lacune en analysant les facteurs contribuant aux accidents et aux blessures. Les résultats aideront à améliorer la technologie des VA et à réduire les risques pour les usagers vulnérables. Bien que les conclusions initiales semblent évidentes, avec une probabilité accrue de blessures lors de situations inattendues ou d'obstructions visuelles, une compréhension approfondie de ces risques est essentielle pour développer des stratégies efficaces de réduction des accidents et des blessures. Les opérateurs de VA doivent être préparés à assumer la pleine responsabilité en cas d'incident, ce qui souligne l'importance de la simulation et des tests en conditions réelles pour améliorer la sécurité.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24533927/STK149_AI_Writing.jpg",
+        "date": "Mon, 18 Nov 2024 18:02:50 GMT"
+    },
+    {
         "title": "Cybersécurité et IA : une alliance essentielle pour la protection des données",
         "link": "https://www.forbes.com/sites/chuckbrooks/2024/11/18/5-cybersecurity-priorities-for-the-trump-administration/?ss=ai",
         "body": "La cybersécurité est un domaine en constante évolution, nécessitant des investissements technologiques et humains pour rester résilient face aux menaces numériques. L'administration Trump, à travers la Cybersecurity and Infrastructure Protection Agency (CISA), se concentre sur la protection des infrastructures critiques américaines, la coopération inter-agences et public-privé, la gestion des risques cybernétiques, les technologies émergentes et la sécurité des systèmes spatiaux. La CISA identifie 16 infrastructures critiques, dont les systèmes financiers, les usines chimiques, les services publics et les hôpitaux. Les attaques sur ces infrastructures critiques ont augmenté de 30 % en 2024, selon KnowBe4. La protection de ces infrastructures nécessite une vigilance, une préparation et une résilience à plusieurs niveaux. La cybersécurité est un enjeu bipartisan, et l'administration reconnaît l'importance de protéger les données et les systèmes sensibles. L'auteur souligne l'importance de l'intelligence artificielle (IA) dans la détection et l'identification rapides des menaces cybernétiques, permettant ainsi une réponse plus efficace. L'IA automatise les tâches de cybersécurité, améliorant la prise de décision et la protection des données. Le gouvernement américain a publié une feuille de route pour l'IA, soulignant son importance pour la sécurité intérieure. La puissance de l'informatique quantique, qui se profile à l'horizon, posera également de nouveaux défis en matière de cybersécurité, notamment en matière de cryptage des données. L'intégration de l'IA, de la robotique et de l'informatique quantique transformera le paysage de la cybersécurité, et l'administration Trump, avec des conseillers comme Elon Musk, est consciente de ces développements.",
@@ -194,19 +222,5 @@
         "body": "Le texte explore le concept d'évolution conjointe de l'humain et de l'IA, où l'IA influence les humains et vice versa. Bien que l'idée soit controversée, l'auteur suggère qu'avec la popularité croissante de l'IA générative et des modèles linguistiques, l'impact sur les utilisateurs est indéniable. L'IA peut influencer la pensée et le comportement humains, tandis que les interactions humaines peuvent faire évoluer l'IA. L'auteur met en évidence les préoccupations concernant la direction de cette évolution conjointe, y compris la possibilité que l'IA puisse conduire les humains sur un chemin néfaste ou que les humains puissent utiliser l'IA de manière à causer du tort. La conclusion souligne l'incertitude quant à l'avenir de l'évolution conjointe de l'humain et de l'IA, laissant la question ouverte à la réflexion et à la discussion.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673aafff715b5d548a22f667/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 18 Nov 2024 03:15:00 GMT"
-    },
-    {
-        "title": "L'avenir de la poésie ?",
-        "link": "https://www.forbes.com/sites/gabrielasilva/2024/11/17/a-new-study-suggests-humans-prefer-ai-over-human-written-poems-do-you/?ss=ai",
-        "body": "Un article récent publié dans Nature Scientific Reports suggère que les humains ont généralement du mal à distinguer la poésie écrite par des humains de celle générée par un modèle linguistique basé sur l'IA. Les participants à l'étude ont même tendance à préférer les poèmes écrits par l'IA, les trouvant plus faciles à comprendre et présentant des thèmes plus clairs. Cependant, leur appréciation diminue lorsqu'ils sont informés de l'origine des poèmes, révélant un biais contre les créations de l'IA. L'étude soulève des questions intrigantes sur la nature de la créativité et sur la frontière de plus en plus floue entre les productions artistiques des machines et les domaines traditionnellement considérés comme purement humains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673a9c69e86efb79276b094a/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 18 Nov 2024 01:00:00 GMT"
-    },
-    {
-        "title": "Nvidia : les puces Blackwell surchauffent dans les serveurs",
-        "link": "https://www.frandroid.com/marques/nvidia/2406286_nvidia-les-nouvelles-puces-blackwell-provoquent-des-surchauffes-dans-les-serveurs",
-        "body": "Les puces Nvidia de la gamme Blackwell, très attendues par les industriels, rencontrent des problèmes de surchauffe lorsqu'elles sont installées sur des racks de serveurs. Cette surchauffe entraîne des retards dans le traitement de l'information. Nvidia est au courant du problème et a demandé à plusieurs reprises à ses fournisseurs de revoir la conception des racks. Les puces Blackwell sont pensées pour l'intelligence artificielle et équiperont notamment le centre de données de l'IA Grok d'Elon Musk.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/keynote-by-nvidia-ceo-jensen-huang-at-2024-siepr-economic-summit-48-49-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=89156ae8",
-        "date": "Sun, 17 Nov 2024 23:00:00 GMT"
     }
 ]
