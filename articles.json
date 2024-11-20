@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Avec l’arrivée de l’IA de Meta, les lunettes connectées de Facebook viennent de gagner un argument de plus",
+        "title": "Avec l\u2019arriv\u00e9e de l\u2019IA de Meta, les lunettes connect\u00e9es de Facebook viennent de gagner un argument de plus",
         "link": "https://www.frandroid.com/marques/2407056_avec-larrivee-de-lia-de-meta-les-lunettes-connectees-de-facebook-viennent-de-gagner-un-argument-de-plus",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/dsc09744-copie-1200x801-1-768x513.jpg?resize=200,200&key=845e5e00",
         "date": "Mon, 18 Nov 2024 23:00:00 GMT",
@@ -91,14 +91,14 @@
         "check": "yes"
     },
     {
-        "title": "Ça y est, Copilot devient vraiment intéressant dans Microsoft 365",
+        "title": "\u00c7a y est, Copilot devient vraiment int\u00e9ressant dans Microsoft 365",
         "link": "https://www.frandroid.com/produits-android/2406516_ca-y-est-copilot-devient-vraiment-interessant-dans-microsoft-365",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/microsoft-365-copilot-office-word-2-1200x675-1-768x432.jpeg?resize=169,169&key=4c69bf2b",
         "date": "Mon, 18 Nov 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "« Le Chat », rival français de ChatGPT présente des fonctions prometteuses",
+        "title": "\u00ab Le Chat \u00bb, rival fran\u00e7ais de ChatGPT pr\u00e9sente des fonctions prometteuses",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2407344_le-chat-rival-francais-de-chatgpt-presente-des-fonctions-prometteuses",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/mistral-ai-1200x591-1-768x378.jpg?resize=300,300&key=c01775c4",
         "date": "Mon, 18 Nov 2024 23:00:00 GMT",
@@ -215,5 +215,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25739950/247386_Elon_Musk_Open_AI_CVirginia.jpg",
         "date": "Mon, 18 Nov 2024 20:43:07 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/20/all-that-vocal-clamor-for-ai-sovereignty-is-plainly-sensible-or-maybe-completely-off-the-charts/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673d9e8c4661aa3e9a7dce06/0x0.jpg?format=jpg&crop=2620,1964,x228,y0,safe&width=440",
+        "date": "Wed, 20 Nov 2024 08:36:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/20/7-healthcare-trends-that-will-transform-medicine-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673d88a0e27e58f1e9c20483/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Nov 2024 07:00:00 GMT",
+        "check": "no"
     }
 ]
