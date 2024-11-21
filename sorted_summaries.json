@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avènement des étudiants IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/20/artificial-intelligence-students-go-to-school-to-learn-math/?ss=ai",
+        "body": "Les modèles LLM peuvent désormais être évalués sur leurs compétences en mathématiques, grâce à un ensemble de données mathématiques créé par OpenAI. Cet ensemble de données comprend 12 500 problèmes mathématiques couvrant l'algèbre, la géométrie, la probabilité et la théorie des nombres. Les modèles LLM sont formés sur ces problèmes, et leurs performances sont évaluées, ce qui donne un aperçu de leurs capacités de raisonnement logique et mathématique. Par exemple, le modèle Minerva de Google a obtenu un taux d'exactitude de 50 %, tandis qu'un modèle Qwen d'Alibaba a atteint 83,6 %. Ces évaluations visent à améliorer les capacités de raisonnement mathématique des modèles LLM, qui constituent un aspect crucial de l'intelligence générale. Les applications potentielles incluent le tutorat automatisé, l'amélioration des capacités de codage et la recherche scientifique. L'évaluation des performances des modèles LLM sur des tâches mathématiques complexes ouvre de nouvelles perspectives pour l'interaction entre l'IA et les étudiants humains, notamment grâce au tutorat assisté par l'IA et à la notation automatisée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673e59b23d68849acd581646/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Nov 2024 21:00:00 GMT"
+    },
+    {
+        "title": "Préserver l'avance américaine dans l'IA",
+        "link": "https://www.forbes.com/sites/jamesbroughel/2024/11/20/a-trump-20-agenda-for-artificial-intelligence/?ss=ai",
+        "body": "L'article plaide pour un changement de politique en matière d'intelligence artificielle (IA) aux États-Unis à la suite de l'élection de Donald Trump. Il suggère que la deuxième administration Trump devrait adopter une approche globale de l'IA, en mettant l'accent sur la déréglementation, la promotion de la production d'énergie domestique et la réforme de la réglementation en matière d'infrastructures. L'ordre exécutif détaillé de l'administration Biden sur l'IA devrait être abrogé en faveur d'une approche plus ciblée, comme l'ordre de Trump de 2019, qui se concentre sur l'amélioration des opérations gouvernementales grâce à l'IA. La directive de Biden est considérée comme trop réglementaire, imposant des exigences de rapport lourdes aux entreprises privées sur la base des évaluations de sécurité des systèmes d'IA. L'article souligne que les entreprises ont déjà des incitations à garantir la sécurité de leurs produits d'IA et sont les mieux placées pour évaluer les besoins de test de leurs modèles. De plus, les réglementations strictes pourraient ralentir l'innovation et donner un avantage compétitif à des pays comme la Chine. La sécurité de l'IA devrait être traitée comme un défi de sécurité nationale, avec une surveillance agile capable de s'adapter aux nouvelles menaces. L'article critique également l'accent mis par l'administration Biden sur les sources d'énergie renouvelables pour répondre aux besoins énergétiques de l'IA, suggérant que cela pourrait ne pas être pratique ou économiquement viable. Au lieu de cela, il préconise un approvisionnement énergétique fiable et abondant, y compris le nucléaire et les combustibles fossiles, pour garantir la compétitivité de l'industrie américaine de l'IA face à la concurrence mondiale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673e07e448f52276f6a8628d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Nov 2024 21:00:00 GMT"
+    },
+    {
         "title": "Meta améliore Messenger",
         "link": "https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds",
         "body": "Meta améliore son application Messenger en y intégrant la vidéo HD et la suppression du bruit pour les appels, ainsi que des fonctionnalités basées sur l'IA, comme des arrière-plans générés par l'IA et des messages vidéo ou vocaux. Ces fonctionnalités, déjà présentes sur d'autres applications de vidéoconférence populaires, permettent à Messenger de se mettre à niveau. Les utilisateurs peuvent désormais profiter d'appels vidéo de haute qualité et d'une expérience audio améliorée, tout en profitant des arrière-plans personnalisés offerts par l'IA de Meta. De plus, l'ajout de la fonctionnalité mains libres via Siri améliore la facilité d'utilisation. Ces mises à jour positionnent Messenger comme un outil de communication compétitif dans l'espace numérique actuel.",
@@ -187,12 +201,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673cdaadedab71e35982bbbb/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 19 Nov 2024 05:00:00 GMT"
-    },
-    {
-        "title": "L'IA, une nouvelle forme d'intelligence collective ?",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/18/ai-is-now-co-creator-of-our-collective-intelligence-so-watch-your-back/?ss=ai",
-        "body": "L'intelligence artificielle (IA) génère désormais des résultats qui s'intègrent à l'intelligence collective (IC), soulevant des questions sur les implications de cette convergence. L'article explore l'idée que l'IA, bien qu'non-sentiente, devient un co-créateur de l'intelligence distribuée à travers le monde via le traitement mathématique et informatique. L'IA et l'IC sont désormais étroitement liées, mais les opinions divergent sur l'accueil à leur réserver. L'IA générative et les modèles linguistiques (LLM) s'appuient sur l'IC pour l'apprentissage, mais vont au-delà en reconstituant les modèles de langage, créant ainsi de nouvelles phrases et expressions. Cette dynamique a des implications pour l'IC, car l'IA contribue indirectement et directement à son évolution. Les discussions sur la qualité et la quantité de l'IA dans l'IC sont complexes, car certains attendent une IA de qualité supérieure, tandis que d'autres la comparent aux publications humaines en ligne. L'article conclut en soulignant l'importance de la réflexion sur l'IA et l'IC, invitant les lecteurs à contribuer à cette réflexion.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673c077e68f99a1faaee67d8/0x0.jpg?format=jpg&crop=3456,2304,x158,y0,safe&width=440",
-        "date": "Tue, 19 Nov 2024 03:00:00 GMT"
     }
 ]
