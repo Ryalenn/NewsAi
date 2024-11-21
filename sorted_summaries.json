@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta améliore Messenger",
+        "link": "https://www.theverge.com/2024/11/20/24301722/meta-facebook-messenger-hd-video-noise-suppression-video-calls-ai-backgrounds",
+        "body": "Meta améliore son application Messenger en y intégrant la vidéo HD et la suppression du bruit pour les appels, ainsi que des fonctionnalités basées sur l'IA, comme des arrière-plans générés par l'IA et des messages vidéo ou vocaux. Ces fonctionnalités, déjà présentes sur d'autres applications de vidéoconférence populaires, permettent à Messenger de se mettre à niveau. Les utilisateurs peuvent désormais profiter d'appels vidéo de haute qualité et d'une expérience audio améliorée, tout en profitant des arrière-plans personnalisés offerts par l'IA de Meta. De plus, l'ajout de la fonctionnalité mains libres via Siri améliore la facilité d'utilisation. Ces mises à jour positionnent Messenger comme un outil de communication compétitif dans l'espace numérique actuel.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1188/2400x1600/filters:focal(957x616:958x617):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25745137/02_HD_Video_Calls_Carousel_01_2.png",
+        "date": "Wed, 20 Nov 2024 20:46:29 GMT"
+    },
+    {
         "title": "Génération IA",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/11/20/world-childrens-day-2024-preparing-kids-for-an-ai-driven-future/?ss=ai",
         "body": "L'article souligne l'importance de la Journée mondiale de l'enfance 2024 pour définir des objectifs ambitieux en matière d'autonomisation de la nouvelle génération, en se concentrant sur le rôle de l'IA. Il explore la complexité de la protection des droits des enfants dans un monde hybride, amplifié par l'IA générative. Les besoins des enfants dans ce monde sont divers, allant de la protection de la vie privée et des données à la gestion de l'exposition à la technologie. L'article souligne le fossé numérique, avec deux tiers des enfants en âge scolaire n'ayant pas accès à Internet à la maison, ce qui perpétue les inégalités. Il plaide pour l'alphabétisation double : la compréhension de l'intelligence naturelle et de l'IA, garantissant que les enfants façonnent activement la technologie et naviguent de manière réfléchie dans un monde hybride. Les parents, les éducateurs et les gouvernements ont un rôle collectif à jouer pour préparer les enfants à prospérer dans un monde façonné par l'IA, en cultivant la curiosité, la pensée critique et la créativité. L'article conclut en appelant à une action immédiate pour autonomiser la prochaine génération dans un monde axé sur l'IA.",
@@ -63,11 +70,25 @@
         "date": "Wed, 20 Nov 2024 07:00:00 GMT"
     },
     {
+        "title": "Niantic dévoile un nouveau modèle d'IA basé sur les données des joueurs",
+        "link": "https://www.theverge.com/2024/11/19/24300975/niantic-pokemon-go-data-large-geospatial-model",
+        "body": "Niantic, l'entreprise derrière Pokémon Go, développe un nouveau modèle d'IA appelé « Large Geospatial Model » (LGM). Ce modèle combine des millions de scans effectués par les smartphones des joueurs de Pokémon Go et d'autres produits Niantic. Selon l'entreprise, ce modèle d'IA pourrait permettre aux ordinateurs et aux robots de comprendre et d'interagir avec le monde réel d'une toute nouvelle manière. Le LGM utilise des réseaux neuronaux et le système de positionnement visuel de Niantic pour créer une « intelligence spatiale » unique, basée sur des scans pédestres et incluant des lieux inaccessibles en voiture. Les données des joueurs ont permis de créer des cartes 3D détaillées du monde réel, comprenant à la fois la géométrie 3D et la compréhension sémantique de l'environnement.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9045295/DSCF5354.jpg",
+        "date": "Wed, 20 Nov 2024 01:07:49 GMT"
+    },
+    {
         "title": "L'avenir de l'IA dans le ciblage publicitaire",
         "link": "https://www.theverge.com/2024/5/7/24151171/openai-dotdash-meredith-people-instyle-licensing",
         "body": "Dotdash Meredith, l'éditeur de magazines populaires, s'associe à OpenAI pour utiliser ses modèles d'IA dans son produit de ciblage publicitaire, D/Cipher. En échange, Dotdash Meredith fournira du contenu à ChatGPT et collaborera sur de nouvelles fonctionnalités IA pour ses lecteurs. OpenAI apportera le contenu des publications de Dotdash Meredith à ChatGPT, avec des liens vers les articles, et formera ses modèles IA sur ces articles. Dotdash Meredith utilisera les modèles d'OpenAI pour améliorer son produit publicitaire, le rendant plus précis et nuancé dans un monde qui se prépare à l'après-cookies. Neil Vogel, PDG de Dotdash Meredith, insiste sur l'importance de la rémunération des éditeurs pour l'utilisation de leur contenu par les plateformes IA. D'autres organisations médiatiques, telles que The Financial Times et Business Insider, ont également conclu des accords avec OpenAI. Cependant, certains journaux ont intenté des poursuites contre OpenAI et Microsoft pour violation du droit d'auteur.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Wed, 20 Nov 2024 01:07:49 GMT"
+    },
+    {
+        "title": "Microsoft s'associe à HarperCollins pour entraîner des modèles d'IA",
+        "link": "https://www.theverge.com/2024/11/19/24300893/microsoft-ai-training-deal-harpercollins-report",
+        "body": "Microsoft a conclu un accord avec la maison d'édition HarperCollins pour utiliser son contenu et entraîner un nouveau modèle d'IA, selon Bloomberg. L'accord comprend des titres de non-fiction et les auteurs peuvent choisir d'y participer. Cet accord fait suite à un autre similaire entre News Corp, société mère de HarperCollins, et OpenAI, permettant à cette dernière d'entraîner ses modèles sur le contenu de divers médias numériques de News Corp. Bien que les détails du modèle de Microsoft ne soient pas encore connus, une source indique qu'il ne sera pas utilisé pour générer des livres écrits par l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+        "date": "Tue, 19 Nov 2024 21:37:09 GMT"
     },
     {
         "title": "L'IA, un reflet de notre intelligence naturelle",
@@ -173,33 +194,5 @@
         "body": "L'intelligence artificielle (IA) génère désormais des résultats qui s'intègrent à l'intelligence collective (IC), soulevant des questions sur les implications de cette convergence. L'article explore l'idée que l'IA, bien qu'non-sentiente, devient un co-créateur de l'intelligence distribuée à travers le monde via le traitement mathématique et informatique. L'IA et l'IC sont désormais étroitement liées, mais les opinions divergent sur l'accueil à leur réserver. L'IA générative et les modèles linguistiques (LLM) s'appuient sur l'IC pour l'apprentissage, mais vont au-delà en reconstituant les modèles de langage, créant ainsi de nouvelles phrases et expressions. Cette dynamique a des implications pour l'IC, car l'IA contribue indirectement et directement à son évolution. Les discussions sur la qualité et la quantité de l'IA dans l'IC sont complexes, car certains attendent une IA de qualité supérieure, tandis que d'autres la comparent aux publications humaines en ligne. L'article conclut en soulignant l'importance de la réflexion sur l'IA et l'IC, invitant les lecteurs à contribuer à cette réflexion.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673c077e68f99a1faaee67d8/0x0.jpg?format=jpg&crop=3456,2304,x158,y0,safe&width=440",
         "date": "Tue, 19 Nov 2024 03:00:00 GMT"
-    },
-    {
-        "title": "Copilot s'intègre à l'écosystème Microsoft",
-        "link": "https://www.frandroid.com/produits-android/2406516_ca-y-est-copilot-devient-vraiment-interessant-dans-microsoft-365",
-        "body": "Microsoft étend les capacités de son assistant IA, Copilot, en l'intégrant à ses logiciels populaires tels qu'Outlook, PowerPoint et Teams. Copilot peut désormais automatiser diverses tâches quotidiennes, comme résumer les activités marquantes d'une journée, créer des newsletters à partir d'interactions de groupe et préparer des réunions. Il peut également traduire des présentations et des conversations en temps réel dans près de 40 langues. De plus, Copilot peut comprendre et récapituler le contenu visuel partagé, générer des organigrammes interactifs et des blocs de code pour le travail collaboratif. Microsoft a amélioré les performances de Copilot, doublant la rapidité de ses réponses en moyenne. Ces fonctionnalités visent à améliorer la productivité des utilisateurs et à faciliter le travail en équipe, en particulier dans un contexte multilingue. L'entreprise prévoit de rendre ces fonctionnalités disponibles d'ici 2025.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/microsoft-365-copilot-office-word-2-1200x675-1-768x432.jpeg?resize=169,169&key=4c69bf2b",
-        "date": "Mon, 18 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La start-up française de l'IA, Mistral AI, présente son chatbot \"Le Chat\"",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2407344_le-chat-rival-francais-de-chatgpt-presente-des-fonctions-prometteuses",
-        "body": "Mistral AI, une start-up française, a développé un chatbot nommé \"Le Chat\", qui se veut être une alternative aux grands noms de l'IA. Avec une interface intuitive similaire à ChatGPT, \"Le Chat\" se distingue par sa fonctionnalité de sourcing des réponses, permettant aux utilisateurs de vérifier la véracité des informations. De plus, il offre un espace de création libre, \"Canva\", pour générer du texte, des graphiques et du code. Mistral AI met également en avant la création d' \"agents\" pour mémoriser et répéter rapidement des demandes régulières. L'entreprise adopte une approche différente de ses concurrents, se concentrant sur la qualité du service plutôt que sur la course à la \"Super Intelligence\". Toutes les fonctionnalités sont actuellement proposées gratuitement en version bêta.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/mistral-ai-1200x591-1-768x378.jpg?resize=300,300&key=c01775c4",
-        "date": "Mon, 18 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Meta AI débarque en France",
-        "link": "https://www.frandroid.com/marques/2407056_avec-larrivee-de-lia-de-meta-les-lunettes-connectees-de-facebook-viennent-de-gagner-un-argument-de-plus",
-        "body": "L'agent conversationnel de Meta, concurrent de ChatGPT, est désormais disponible en français. Pour l'instant, l'IA n'est accessible qu'aux utilisateurs des lunettes connectées Meta Ray-Ban, et ne propose pas toutes les fonctionnalités avancées, notamment l'analyse du champ de vision. Le déploiement complet est attendu prochainement, offrant ainsi une nouvelle option aux amateurs de chatbots et d'IA conversationnelle.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/dsc09744-copie-1200x801-1-768x513.jpg?resize=200,200&key=845e5e00",
-        "date": "Mon, 18 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "HarperCollins et l'IA",
-        "link": "https://www.theverge.com/2024/11/18/24299882/harpercollins-authors-license-books-ai-training",
-        "body": "HarperCollins a conclu un accord avec une entreprise technologique d'IA pour utiliser certains titres non romanesques dans l'entraînement de ses modèles, à condition que les auteurs donnent leur consentement. Cet accord intervient alors que des auteurs poursuivent actuellement des entreprises comme OpenAI pour utilisation de leurs œuvres sans autorisation. HarperCollins affirme que l'accord protège la valeur des œuvres des auteurs ainsi que les flux de revenus et de redevances. L'auteur Daniel Kibblesmith a partagé des captures d'écran d'un e-mail indiquant qu'il recevrait 2 500 $ s'il autorisait l'utilisation de l'un de ses livres.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24533927/STK149_AI_Writing.jpg",
-        "date": "Mon, 18 Nov 2024 21:25:28 GMT"
     }
 ]
