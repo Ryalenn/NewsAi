@@ -1,10 +1,31 @@
 [
     {
+        "title": "Command Respect with AI-Assisted Charisma",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/11/22/5-chatgpt-prompts-to-instantly-gain-respect-from-strangers/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6739cf3065ea6517f3124a7a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Nov 2024 17:00:00 GMT"
+    },
+    {
+        "title": "La domination tranquille d'OpenAI",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/22/open-ai-roundup-happenings-in-the-end-of-an-ai-year/?ss=ai",
+        "body": "OpenAI, l'entreprise américaine de pointe dans le domaine de l'IA, fait à nouveau la une de l'actualité cette semaine avec plusieurs développements importants. Tout d'abord, la banque BBVA a acheté 3 000 licences ChatGPT pour créer des entités IA qui l'aideront dans des tâches telles que l'approbation des crédits et l'analyse des comptes. OpenAI revendique un million de clients entreprises, ce qui souligne le potentiel de perturbation de l'IA sur le marché du travail et l'amélioration de l'efficacité des entreprises. De plus, OpenAI a investi 150 millions de dollars supplémentaires dans Rain AI, une entreprise spécialisée dans l'IA et les puces, fondée par Gordon Wilson et employant d'anciens cadres d'Apple. Cet investissement souligne l'importance de surveiller les alliances stratégiques dans le paysage en évolution rapide de l'IA. Enfin, OpenAI fait face à une controverse concernant la destruction de jeux de données liés à une action en justice intentée par des journaux, qui accusent l'entreprise d'avoir utilisé leurs articles sans autorisation pour entraîner ses modèles. OpenAI affirme que la suppression des données était accidentelle, mais la chronologie des événements soulève des questions. Pendant ce temps, OpenAI continue de développer de nouveaux modèles, notamment un système de raisonnement appelé Orion, qui devrait sortir début 2024.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6740b62a018da0c5c84c62d2/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Nov 2024 16:00:00 GMT"
+    },
+    {
         "title": "Le futur est ici",
         "link": "https://www.forbes.com/sites/alexknapp/2024/11/22/the-prototype-5-million-xprize-awarded-for-using-drones-to-monitor-rainforests/?ss=ai",
         "body": "Cette édition du Prototype explore diverses innovations technologiques et leurs impacts. L'article met en lumière la compétition XPrize Rainforest et son gagnant, Limelight Rainforest, qui a développé un système de drones et d'apprentissage automatique pour identifier les espèces de la forêt tropicale. Il souligne également la réussite de Rocket Lab et de son fondateur, Peter Beck, devenu milliardaire grâce à ses succès dans l'industrie spatiale. L'article mentionne également une avancée dans la prédiction des naissances prématurées grâce à un test sanguin, ainsi que les progrès de SpaceX avec son vaisseau spatial Starship. Enfin, il aborde divers sujets, dont l'importance de l'activité physique pour la santé, les progrès dans le domaine de l'énergie de fusion et une critique du roman Civilizations de Laurent Binet.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67401cfe40989281890d80fd/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 22 Nov 2024 14:18:00 GMT"
+    },
+    {
+        "title": "Domaines .ai : la nouvelle tendance pour les startups axées sur l'IA ?",
+        "link": "https://www.forbes.com/sites/darpanmunjal/2024/11/22/ai-vs-com-choosing-the-right-domain-for-your-ai-startup/?ss=ai",
+        "body": "L'article explore la popularité croissante des domaines .ai pour les startups axées sur l'IA, en raison de la disponibilité limitée des domaines .com et de la nécessité de se démarquer dans un marché concurrentiel. Il souligne que les domaines .ai offrent des avantages en termes de disponibilité, de coûts initiaux plus bas et d'identité de marque ciblée pour les nouvelles startups. Bien que .com reste l'extension de domaine la plus populaire, .ai gagne en popularité et différencie clairement votre marque en tant que centrée sur l'IA. L'article présente également les résultats d'une enquête indiquant que .com reste l'extension de domaine préférée, mais que .ai est considérée comme plus forte que .com parmi les jeunes de 18 à 24 ans et les personnes technophiles. Enfin, il souligne l'importance de trouver un équilibre entre le budget, la marque et l'ambition lors du choix d'un domaine, et suggère que les domaines .ai peuvent être un choix judicieux pour les startups axées sur l'IA qui souhaitent se démarquer tout en conservant des coûts raisonnables.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673fe357dba46ba963c46f42/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Nov 2024 13:00:00 GMT"
     },
     {
         "title": "Democratizing AI: Empowering Employees, Transforming Work and Innovation",
@@ -19,6 +40,13 @@
         "body": "Cet article explore les récents développements dans le domaine de l'IA générative, en se concentrant sur l'émergence de modèles linguistiques larges (LLM) basés sur la technologie 1-bit. L'auteur explique comment ces LLM 1-bit permettent de créer des applications d'IA générative capables de fonctionner avec des ressources limitées, comme sur un smartphone ou un appareil de bord autonome. La clé de cette approche est de compresser les LLM en utilisant moins de bits, ce qui réduit leur taille et accélère leur traitement. L'article décrit en détail le processus de tokenisation et de pondération, en expliquant comment la conversion de valeurs flottantes en valeurs binaires (0 et 1) peut réduire considérablement l'espace de stockage et accélérer les calculs. L'article conclut en soulignant l'importance de cette technologie pour l'avenir de l'IA, en particulier pour atteindre l'objectif ultime de l'intelligence artificielle générale (AGI).",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674022c4868ff8e4ae76a77b/0x0.jpg?format=jpg&crop=2839,2128,x210,y0,safe&width=440",
         "date": "Fri, 22 Nov 2024 06:00:00 GMT"
+    },
+    {
+        "title": "OpenAI entre dans l'arène des navigateurs web",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2414852_openai-travaille-sur-son-propre-navigateur-web-pour-concurrencer-google-chrome",
+        "body": "OpenAI, la société derrière ChatGPT, se lance dans une nouvelle aventure : le développement d'un navigateur web. Selon des sources, l'entreprise est en discussion avec des acteurs clés du secteur et dispose déjà de prototypes. Ce navigateur intégrerait la technologie de ChatGPT et son nouveau moteur de recherche SearchGPT. OpenAI fait appel à d'anciens développeurs de Google Chrome pour relever ce défi, ce qui pourrait représenter une menace pour la domination de Chrome sur le marché des navigateurs. La firme a déjà prouvé sa capacité à concurrencer Google en signant des partenariats avec Microsoft et Apple, et pourrait bientôt collaborer avec Samsung pour le développement de Galaxy AI. La concurrence entre les deux géants de la tech s'intensifie, notamment dans le domaine de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/copy-of-android-151-1200x675-1-768x432.jpg?resize=169,169&key=6d726c92",
+        "date": "Thu, 21 Nov 2024 23:00:00 GMT"
     },
     {
         "title": "Apple prépare son assistant virtuel Siri pour concurrencer ChatGPT",
@@ -166,12 +194,5 @@
         "body": "Veritone lance un nouvel outil, Veritone Data Refinery, pour répondre au manque croissant de données de qualité pour entraîner les systèmes d'IA. L'outil transforme les données non structurées en ressources prêtes pour l'IA, répondant à la demande des industries qui repoussent les limites de l'apprentissage automatique. La plateforme permet de consolider et de standardiser les flux de données textuelles, audio et d'images, aidant ainsi les entreprises à exploiter pleinement le potentiel de l'IA. L'accent est mis sur la qualité des données pour éviter les « hallucinations » dans les sorties de l'IA. Veritone, fort de son expérience dans la gestion de volumes de données importants, garantit une gestion unifiée, sécurisée et conforme des données, permettant ainsi aux organisations d'innover et de tirer parti de leurs données.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673e3a64f24582c8ec081894/0x0.jpg?format=jpg&crop=2823,1323,x0,y130,safe&width=440",
         "date": "Wed, 20 Nov 2024 19:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'interface utilisateur : l'IA au cœur de l'interaction homme-machine",
-        "link": "https://www.forbes.com/sites/johnsviokla/2024/11/20/ai-is-the-new-ui-3-steps-business-leaders-must-take-now/?ss=ai",
-        "body": "L'intelligence artificielle (IA) est en train de révolutionner la manière dont nous interagissons avec la technologie, marquant une rupture avec les interfaces traditionnelles basées sur les écrans, les boutons et les menus. Cette transformation va bien au-delà des simples chatbots, plaçant l'IA au cœur des interactions entre les utilisateurs, les systèmes, les données et les machines. Les entreprises pionnières dans ce domaine, telles que Johnson Controls, S&P Global et Jerry Insurance, obtiennent déjà des résultats remarquables. En permettant aux utilisateurs d'interagir par le langage naturel, l'IA améliore l'accessibilité et l'efficacité opérationnelle, tout en réduisant les coûts. La confiance des consommateurs dans les recommandations de l'IA et l'acceptation des interfaces IA indiquent une forte demande pour ces nouvelles technologies. Les entreprises doivent donc repenser leurs stratégies d'engagement client et d'opérations internes. Avec l'évolution constante de l'IA, chaque produit et processus complexe intégrera une interface IA, rendant obsolètes les entreprises qui ne s'adaptent pas à cette nouvelle réalité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673e0fe5ce96c06392f2ba1d/0x0.jpg?format=jpg&crop=612,345,x0,y54,safe&width=440",
-        "date": "Wed, 20 Nov 2024 16:00:00 GMT"
     }
 ]
