@@ -1,5 +1,26 @@
 [
     {
+        "title": "Democratizing AI: Empowering Employees, Transforming Work and Innovation",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/22/the-ai-powered-citizen-revolution-how-every-employee-is-becoming-a-technology-creator/?ss=ai",
+        "body": "La démocratisation de la technologie grâce à l'IA transforme la manière dont les organisations innovent et fonctionnent. Les employés, des infirmiers aux comptables, deviennent des créateurs de solutions, développant des applications, des processus automatisés et exploitant les données. Cette révolution des « citoyens développeurs » nécessite une évolution du rôle des départements informatiques, passant de gardiens à facilitateurs, offrant formation, conseils et environnements de développement sécurisés. Les organisations qui embrassent ce mouvement peuvent innover plus rapidement en tirant parti de l'expertise de leurs employés. La clé du succès réside dans une gouvernance appropriée et dans l'équipement des employés avec les bons outils et formations pour libérer leur potentiel créatif.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67402bd002f70706b572f3a6/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Nov 2024 06:00:00 GMT"
+    },
+    {
+        "title": "Révolution 1-bit",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/22/small-bits-big-ideas-the-amazing-rise-of-1-bit-llms-for-building-faster-and-slimer-generative-ai-apps/?ss=ai",
+        "body": "Cet article explore les récents développements dans le domaine de l'IA générative, en se concentrant sur l'émergence de modèles linguistiques larges (LLM) basés sur la technologie 1-bit. L'auteur explique comment ces LLM 1-bit permettent de créer des applications d'IA générative capables de fonctionner avec des ressources limitées, comme sur un smartphone ou un appareil de bord autonome. La clé de cette approche est de compresser les LLM en utilisant moins de bits, ce qui réduit leur taille et accélère leur traitement. L'article décrit en détail le processus de tokenisation et de pondération, en expliquant comment la conversion de valeurs flottantes en valeurs binaires (0 et 1) peut réduire considérablement l'espace de stockage et accélérer les calculs. L'article conclut en soulignant l'importance de cette technologie pour l'avenir de l'IA, en particulier pour atteindre l'objectif ultime de l'intelligence artificielle générale (AGI).",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/674022c4868ff8e4ae76a77b/0x0.jpg?format=jpg&crop=2839,2128,x210,y0,safe&width=440",
+        "date": "Fri, 22 Nov 2024 06:00:00 GMT"
+    },
+    {
+        "title": "Apple prépare son assistant virtuel Siri pour concurrencer ChatGPT",
+        "link": "https://www.frandroid.com/marques/apple/2413988_apple-voudrait-faire-de-siri-un-vrai-concurrent-a-chatgpt-mais-pas-tout-de-suite",
+        "body": "Apple se prépare à donner un coup de fouet à son assistant virtuel Siri, avec l'objectif de concurrencer ChatGPT et Google Gemini. La société prévoit de déployer un Siri amélioré, capable de tenir une conversation et de répondre à des questions complexes, tout en interagissant de manière efficace avec des applications tierces et des systèmes domotiques, le tout avec des données chiffrées de bout en bout. Bien qu'Apple ait intégré ChatGPT dans sa suite Apple Intelligence, la société souhaite développer son propre assistant conversationnel basé sur des modèles de langage de grande taille. Selon Bloomberg, ce nouveau Siri 3.0 ne devrait pas être annoncé avant 2025 et pourrait être lancé au printemps 2026.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/siri-sur-iphone-scaled-1-768x512.jpg?resize=200,200&key=a8c288f9",
+        "date": "Thu, 21 Nov 2024 23:00:00 GMT"
+    },
+    {
         "title": "Apple's Siri se met à l'IA",
         "link": "https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt",
         "body": "Apple prévoit de donner un coup de jeune à Siri en utilisant des modèles d'IA propriétaires, créant ainsi une expérience utilisateur plus conversationnelle et naturelle. Baptisé \"LLM Siri\", l'assistant numérique sera capable de gérer des tâches plus avancées et d'interagir de manière plus efficace avec les applications tierces grâce à la technologie App Intents. Apple Intelligence permettra également à Siri de résumer et de rédiger du texte. Bien qu'aucune annonce officielle n'ait été faite, Apple prévoit de remplacer le logiciel sous-jacent de Siri par ce nouveau système au printemps 2026. Cette mise à jour s'inscrit dans la stratégie d'Apple d'intégrer davantage d'IA dans ses iPhones, avec un accent particulier sur l'amélioration de l'utilité et des fonctionnalités locales de Siri par rapport à ses concurrents.",
