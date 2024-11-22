@@ -1,5 +1,12 @@
 [
     {
+        "title": "Le futur est ici",
+        "link": "https://www.forbes.com/sites/alexknapp/2024/11/22/the-prototype-5-million-xprize-awarded-for-using-drones-to-monitor-rainforests/?ss=ai",
+        "body": "Cette édition du Prototype explore diverses innovations technologiques et leurs impacts. L'article met en lumière la compétition XPrize Rainforest et son gagnant, Limelight Rainforest, qui a développé un système de drones et d'apprentissage automatique pour identifier les espèces de la forêt tropicale. Il souligne également la réussite de Rocket Lab et de son fondateur, Peter Beck, devenu milliardaire grâce à ses succès dans l'industrie spatiale. L'article mentionne également une avancée dans la prédiction des naissances prématurées grâce à un test sanguin, ainsi que les progrès de SpaceX avec son vaisseau spatial Starship. Enfin, il aborde divers sujets, dont l'importance de l'activité physique pour la santé, les progrès dans le domaine de l'énergie de fusion et une critique du roman Civilizations de Laurent Binet.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67401cfe40989281890d80fd/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Nov 2024 14:18:00 GMT"
+    },
+    {
         "title": "Democratizing AI: Empowering Employees, Transforming Work and Innovation",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/11/22/the-ai-powered-citizen-revolution-how-every-employee-is-becoming-a-technology-creator/?ss=ai",
         "body": "La démocratisation de la technologie grâce à l'IA transforme la manière dont les organisations innovent et fonctionnent. Les employés, des infirmiers aux comptables, deviennent des créateurs de solutions, développant des applications, des processus automatisés et exploitant les données. Cette révolution des « citoyens développeurs » nécessite une évolution du rôle des départements informatiques, passant de gardiens à facilitateurs, offrant formation, conseils et environnements de développement sécurisés. Les organisations qui embrassent ce mouvement peuvent innover plus rapidement en tirant parti de l'expertise de leurs employés. La clé du succès réside dans une gouvernance appropriée et dans l'équipement des employés avec les bons outils et formations pour libérer leur potentiel créatif.",
@@ -19,6 +26,13 @@
         "body": "Apple se prépare à donner un coup de fouet à son assistant virtuel Siri, avec l'objectif de concurrencer ChatGPT et Google Gemini. La société prévoit de déployer un Siri amélioré, capable de tenir une conversation et de répondre à des questions complexes, tout en interagissant de manière efficace avec des applications tierces et des systèmes domotiques, le tout avec des données chiffrées de bout en bout. Bien qu'Apple ait intégré ChatGPT dans sa suite Apple Intelligence, la société souhaite développer son propre assistant conversationnel basé sur des modèles de langage de grande taille. Selon Bloomberg, ce nouveau Siri 3.0 ne devrait pas être annoncé avant 2025 et pourrait être lancé au printemps 2026.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/siri-sur-iphone-scaled-1-768x512.jpg?resize=200,200&key=a8c288f9",
         "date": "Thu, 21 Nov 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Rendre l'IA plus accessible avec le mode d'apprentissage de Rabbit",
+        "link": "https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks",
+        "body": "Rabbit, une entreprise spécialisée dans l'IA, lance un nouveau mode « Teach » pour ses appareils R1, permettant aux utilisateurs de créer leur propre agent IA pour effectuer des tâches en ligne. Le mode d'apprentissage fonctionne en enregistrant et en reproduisant les actions de l'utilisateur sur différents sites web, comme Spotify, X, YouTube et Discord. L'utilisateur crée une « leçon » en décrivant une tâche, puis en enregistrant les étapes nécessaires à son exécution. L'agent IA peut ensuite reproduire ces actions à la demande. Bien que cette fonctionnalité soit annoncée comme fonctionnant sur « tous les sites web », Rabbit reconnaît qu'elle est encore expérimentale et que des problèmes peuvent survenir, en particulier avec les sites utilisant des CAPTCHAs. Cette nouvelle fonctionnalité s'ajoute à d'autres capacités de l'appareil R1, telles que le modèle d'action large (LAM) qui permet de naviguer sur le Web, et la personnalisation de l'interface utilisateur avec des invites IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:6000x4000/2400x1600/filters:focal(3000x2000:3001x2001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25429565/Rabbit_R1_Settings.JPG",
+        "date": "Thu, 21 Nov 2024 22:04:13 GMT"
     },
     {
         "title": "Apple's Siri se met à l'IA",
@@ -159,33 +173,5 @@
         "body": "L'intelligence artificielle (IA) est en train de révolutionner la manière dont nous interagissons avec la technologie, marquant une rupture avec les interfaces traditionnelles basées sur les écrans, les boutons et les menus. Cette transformation va bien au-delà des simples chatbots, plaçant l'IA au cœur des interactions entre les utilisateurs, les systèmes, les données et les machines. Les entreprises pionnières dans ce domaine, telles que Johnson Controls, S&P Global et Jerry Insurance, obtiennent déjà des résultats remarquables. En permettant aux utilisateurs d'interagir par le langage naturel, l'IA améliore l'accessibilité et l'efficacité opérationnelle, tout en réduisant les coûts. La confiance des consommateurs dans les recommandations de l'IA et l'acceptation des interfaces IA indiquent une forte demande pour ces nouvelles technologies. Les entreprises doivent donc repenser leurs stratégies d'engagement client et d'opérations internes. Avec l'évolution constante de l'IA, chaque produit et processus complexe intégrera une interface IA, rendant obsolètes les entreprises qui ne s'adaptent pas à cette nouvelle réalité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673e0fe5ce96c06392f2ba1d/0x0.jpg?format=jpg&crop=612,345,x0,y54,safe&width=440",
         "date": "Wed, 20 Nov 2024 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans les entreprises",
-        "link": "https://www.forbes.com/sites/richardnieva/2024/11/20/the-prompt-a-manhattan-project-for-ai/?ss=ai",
-        "body": "Le rapport annuel du US-China Economic and Security Review Commission propose un projet similaire au Manhattan Project, mais pour l'IA. Meta, Google et Elon Musk investissent massivement dans l'IA, avec des applications variées. Tessl, une startup d'automatisation du développement logiciel, lève 100 millions de dollars. L'IA est de plus en plus adoptée par les entreprises, avec 67 % d'entre elles prévoyant d'investir davantage dans les trois prochaines années. La liste Forbes CIO Next honore les dirigeants qui naviguent dans ce nouveau territoire, avec un focus sur l'IA en 2024. OpenAI dépense au moins 16 millions de dollars pour la licence de contenu de DotDash Meredith, et Niantic utilise les données de Pokémon Go pour entraîner un modèle d'IA géospatiale.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673d0b837fd68a54995990ed/0x0.jpg?format=jpg&crop=3234,1818,x0,y0,safe&width=440",
-        "date": "Wed, 20 Nov 2024 15:05:00 GMT"
-    },
-    {
-        "title": "Le futur de l'IA : l'évolution des centres de données",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/11/20/whats-el-capitan-and-other-big-data-center-questions/?ss=ai",
-        "body": "Deux nouveaux systèmes informatiques puissants, Colossus d'Elon Musk et 'El Capitan' de Hewlett-Packard, rivalisent pour la suprématie dans le domaine de l'informatique à haute performance. Bien que Colossus possède un plus grand nombre de GPU Nvidia Hopper (100 000 unités), El Capitan, avec ses 30 000 AMD APUs, offre une puissance de calcul plus élevée, atteignant 1,742 exaflops en performances réelles soutenues. Les experts conviennent qu'El Capitan est plus adapté aux calculs de haute précision, tandis que Colossus brille dans les tâches d'IA et d'apprentissage automatique. Ces systèmes nécessitent des centres de données à grande échelle et une importante consommation d'énergie, ce qui incite les États-Unis à investir dans de petites centrales nucléaires. Le marché des puces est également en ébullition, avec AMD cherchant à rattraper Nvidia, qui a récemment surpassé Apple et Microsoft en tant que valeur technologique dominante. L'évolution de l'IA dépend de ces infrastructures et de ces fabricants.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673deeaad210b0e4f073801b/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 20 Nov 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Mieux gérer le stress des fêtes avec l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2024/11/20/5-chatgpt-prompts-for-stress-free-holidays/?ss=ai",
-        "body": "L'article met en lumière l'augmentation du stress, de l'anxiété et de la dépression chez 38 % des personnes interrogées pendant la période des fêtes, selon l'American Psychological Association. Il propose d'utiliser des invites stratégiques pour les grands modèles linguistiques, comme ChatGPT, pour aider à gérer ce stress. Six invites sont présentées, chacune avec une explication de leur objectif :\n\n1. \"Guide de gestion du stress pour les fêtes\" : propose des exercices de pleine conscience pour réduire le stress, améliorer la concentration et profiter de la saison.\n\n2. \"Gérer les invitations et les attentes familiales\" : aide à établir des limites saines et à refuser poliment les invitations tout en maintenant des relations positives.\n\n3. \"Gestion du budget des fêtes\" : fournit des conseils financiers pour réduire le stress lié aux dépenses des fêtes, y compris un modèle de budget et des stratégies pour éviter les pièges financiers.\n\n4. \"Manger sainement pendant les fêtes\" : guide pratique pour équilibrer les indulgences avec des habitudes saines, y compris des routines d'exercices rapides et des suggestions pour des plats de vacances nutritifs.\n\n5. \"Gérer les tensions familiales\" : stratégies étape par étape pour gérer les conversations difficiles, désamorcer les conflits et favoriser des relations harmonieuses lors des rassemblements familiaux.\n\n6. Ces invites visent à fournir des outils pratiques et des conseils d'experts pour aider les individus à naviguer dans les complexités de la saison des fêtes, à améliorer leur bien-être général et à réduire le stress.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673ce3f2e31ba3171d9fd5d2/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 20 Nov 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Réinventer les règles du jeu avec l'IA : Déverrouiller le potentiel de l'IA pour des résultats explosifs",
-        "link": "https://www.forbes.com/sites/jodiecook/2024/11/20/5-chatgpt-prompts-to-stop-playing-small-and-10x-your-reality/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6739c941aafbe49f7788491d/0x0.jpg?format=jpg&crop=1629,916,x0,y27,safe&width=440",
-        "date": "Wed, 20 Nov 2024 13:00:00 GMT"
     }
 ]
