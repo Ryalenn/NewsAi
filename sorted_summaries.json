@@ -138,40 +138,5 @@
         "body": "L'article aborde la prolifération du contenu synthétique en ligne, généré par l'IA, et présente les outils et technologies conçus pour le détecter. Il distingue entre \"fake news\" et \"fake content\", soulignant que le premier terme désigne des histoires délibérément construites pour tromper, tandis que le second fait référence au contenu généré par l'IA. L'auteur souligne l'importance de développer des méthodes pour identifier et combattre la montée du contenu deepfake, qui pourrait nuire aux élections, éroder la confiance dans les figures publiques et propager la propagande géopolitique. Les détecteurs de contenu IA analysent le contenu et recherchent des modèles suggérant une génération IA, en utilisant souvent l'IA elle-même. Bien que ces outils offrent des informations précieuses, ils ne sont pas infaillibles, et l'auteur suggère de les utiliser dans le cadre d'une approche plus large de vérification du contenu, en les associant à la pensée critique et à la littératie numérique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673edaa0545079e996b686a6/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 21 Nov 2024 07:12:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de Nvidia dans le domaine de l'IA",
-        "link": "https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings",
-        "body": "Nvidia est devenue l'entreprise la plus valorisée au monde grâce à ses puces d'IA, dépassant des géants comme Microsoft et Apple. L'entreprise a annoncé des bénéfices et des revenus records grâce à ses produits liés à l'IA, notamment son serveur AI Blackwell et ses puces H100 et H200. La société a également déclaré que sa division de centres de données, axée sur l'IA, a généré des milliards de dollars de revenus, surpassant de loin son activité historique dans les jeux vidéo. Les rivaux de Nvidia, tels qu'AMD et Intel, adaptent également leurs stratégies pour se concentrer davantage sur l'IA, soulignant l'importance croissante de ce domaine.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(931x536:932x537):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25343060/NVIDIA_Blackwell_Architecture_Image.jpg",
-        "date": "Wed, 20 Nov 2024 23:21:41 GMT"
-    },
-    {
-        "title": "Nouvelles puces Nvidia au CES 2025",
-        "link": "https://www.frandroid.com/marques/nvidia/2413272_on-pense-en-savoir-plus-sur-ce-que-nvidia-va-devoiler-au-ces-2025",
-        "body": "Nvidia devrait dévoiler de nouveaux produits lors du CES 2025 en janvier, dont potentiellement les GeForce RTX 5000 basées sur l'architecture Blackwell. L'entreprise a également laissé entendre qu'elle commencerait à livrer de nouvelles puces RTX AI pour des PC portables fabriqués par ASUS et MSI, offrant 321 billions d'opérations AI par seconde et des capacités Microsoft Copilot+. Ces machines, équipées de processeurs AMD ou Intel, devraient être présentées au CES 2025, élargissant ainsi la gamme de PC Copilot+ existants.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/earth-computex-2024-1280x854-1-1200x674-1-768x431.jpg?resize=169,169&key=b0eb1c15",
-        "date": "Wed, 20 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini lance son IA en français",
-        "link": "https://www.frandroid.com/marques/google/2412966_google-docs-sheets-et-gmail-evoluent-grandement-en-france",
-        "body": "Google a annoncé le 21 novembre que son assistant IA Gemini, intégré à la suite Google Workspace, est désormais disponible pour les utilisateurs francophones. Gemini peut être utilisé avec Google Drive, Google Docs, Google Sheets et Gmail, et offrira bientôt la prise en charge de Google Slides. L'IA peut résumer les e-mails, synthétiser des documents, analyser des données et adapter des documents à différents formats. Les utilisateurs peuvent interagir avec Gemini via un panneau latéral, en utilisant un langage naturel, et peuvent également y accéder pour ajouter du contexte à leurs demandes à l'aide de documents externes de leur Google Drive professionnel. Le déploiement de Gemini en français, ainsi qu'en italien, japonais, coréen, portugais, espagnol et allemand, marque une étape importante dans l'accessibilité de l'IA de Google à un public mondial. Cependant, l'accès à Gemini dans Google Workspace est payant, avec un supplément de 20 ou 30 euros par mois en fonction de l'abonnement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/google-keynote-google-i-o-24-2-22-40-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=0ae9e7f2",
-        "date": "Wed, 20 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La domination de Nvidia dans le domaine de l'IA",
-        "link": "https://www.frandroid.com/marques/nvidia/2412884_chez-nvidia-le-gaming-rapporte-33-milliards-sur-35-milliards-de-revenus",
-        "body": "Nvidia a connu une croissance financière impressionnante, avec une augmentation de 94 % de son chiffre d'affaires annuel, atteignant 35,082 milliards de dollars au troisième trimestre 2025. La division datacenter de l'entreprise, qui comprend les puces dédiées à l'IA, représente désormais 87,7 % de son chiffre d'affaires total, avec des revenus de 30,771 milliards de dollars. Cette croissance explosive est attribuée à la forte demande de puces pour l'entraînement des modèles de langage et les applications d'IA générative. Bien que le secteur du gaming de Nvidia connaisse toujours une croissance de 15 % sur un an, sa part dans les revenus totaux a diminué, passant de 46 % en 2021 à seulement 9,4 % au dernier trimestre. L'entreprise repousse également le lancement de nouvelles séries de cartes graphiques, ce qui suggère un changement de priorités vers l'IA et d'autres innovations.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/nvidia-geforce-rtx-4080-super-hero-1200x800-1-768x512.jpeg?resize=200,200&key=67bdbd8d",
-        "date": "Wed, 20 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "SafeRent abandonne les scores basés sur l'IA",
-        "link": "https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement",
-        "body": "SafeRent, un outil de sélection des locataires basé sur l'IA, a accepté de payer une indemnisation de 2,3 millions de dollars et de cesser d'utiliser des \"scores\" pour évaluer les candidats locataires qui utilisent des bons de logement. Le règlement fait suite à une action en justice intentée en 2022, alléguant que l'algorithme de notation de SafeRent était discriminatoire envers les locataires noirs et hispaniques, ainsi que les personnes utilisant des bons de logement. Selon le règlement, SafeRent ne pourra plus afficher de score de sélection pour ces candidats et devra fournir aux propriétaires un dossier complet plutôt qu'un score unique. La décision souligne les défis liés à l'utilisation de l'IA dans la prise de décisions sensibles, et l'importance de garantir la transparence et l'équité dans de tels systèmes.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25479106/STK476_LOCATION_DATA_CVIRGINIA_B.jpg",
-        "date": "Wed, 20 Nov 2024 22:19:04 GMT"
     }
 ]
