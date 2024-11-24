@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/24/generative-ai-is-helping-to-clear-up-brain-fog/?ss=ai",
+        "body": "L'IA, une priorité stratégique mondiale",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6742bd86c3e3f33f6f0ec417/0x0.jpg?format=jpg&crop=2882,2160,x664,y0,safe&width=440",
+        "date": "Sun, 24 Nov 2024 05:52:00 GMT"
+    },
+    {
         "title": "Transportation Revolutionisé",
         "link": "https://www.forbes.com/sites/kathleenwalch/2024/11/23/how-ai-is-driving-the-future-of-transportation/?ss=ai",
         "body": "L'IA a un impact significatif sur l'industrie du transport, allant de la gestion du flux de trafic à l'optimisation de la logistique et du transport en commun. L'IA améliore la sécurité, l'efficacité et la durabilité des voyages. En analysant les données en temps réel, l'IA peut ajuster les signaux de trafic, réduire les embouteillages et optimiser les itinéraires, diminuant ainsi le stress des conducteurs et les émissions de gaz à effet de serre. Les applications de navigation, telles que Google Maps et Waze, utilisent l'IA pour fournir des itinéraires efficaces, tenant compte des conditions routières, des accidents et des fermetures de routes. L'IA améliore également la gestion de la chaîne d'approvisionnement, optimisant la distribution de la charge et la prévision de la demande pour le transport maritime. La dernière étape de la livraison, ou « dernier kilomètre », est révolutionnée par l'IA, qui prédit la demande, optimise les itinéraires et gère l'inventaire pour réduire les coûts et accélérer les livraisons. Les villes utilisent l'IA pour créer des systèmes de transport en commun plus intelligents et efficaces, en analysant la demande des passagers et les données en temps réel pour optimiser les horaires des bus et des trains. La maintenance prédictive, basée sur l'analyse des données de capteurs et des registres d'entretien, permet d'anticiper les pannes d'équipement, réduisant ainsi les temps d'arrêt et les coûts de maintenance. L'impact de l'IA sur le transport est vaste et bénéfique, créant des systèmes plus intelligents, plus sûrs et plus durables.",
@@ -61,19 +68,5 @@
         "body": "L'article explore la popularité croissante des domaines .ai pour les startups axées sur l'IA, en raison de la disponibilité limitée des domaines .com et de la nécessité de se démarquer dans un marché concurrentiel. Il souligne que les domaines .ai offrent des avantages en termes de disponibilité, de coûts initiaux plus bas et d'identité de marque ciblée pour les nouvelles startups. Bien que .com reste l'extension de domaine la plus populaire, .ai gagne en popularité et différencie clairement votre marque en tant que centrée sur l'IA. L'article présente également les résultats d'une enquête indiquant que .com reste l'extension de domaine préférée, mais que .ai est considérée comme plus forte que .com parmi les jeunes de 18 à 24 ans et les personnes technophiles. Enfin, il souligne l'importance de trouver un équilibre entre le budget, la marque et l'ambition lors du choix d'un domaine, et suggère que les domaines .ai peuvent être un choix judicieux pour les startups axées sur l'IA qui souhaitent se démarquer tout en conservant des coûts raisonnables.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/673fe357dba46ba963c46f42/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 22 Nov 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Democratizing AI: Empowering Employees, Transforming Work and Innovation",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/22/the-ai-powered-citizen-revolution-how-every-employee-is-becoming-a-technology-creator/?ss=ai",
-        "body": "La démocratisation de la technologie grâce à l'IA transforme la manière dont les organisations innovent et fonctionnent. Les employés, des infirmiers aux comptables, deviennent des créateurs de solutions, développant des applications, des processus automatisés et exploitant les données. Cette révolution des « citoyens développeurs » nécessite une évolution du rôle des départements informatiques, passant de gardiens à facilitateurs, offrant formation, conseils et environnements de développement sécurisés. Les organisations qui embrassent ce mouvement peuvent innover plus rapidement en tirant parti de l'expertise de leurs employés. La clé du succès réside dans une gouvernance appropriée et dans l'équipement des employés avec les bons outils et formations pour libérer leur potentiel créatif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67402bd002f70706b572f3a6/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 22 Nov 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Révolution 1-bit",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/22/small-bits-big-ideas-the-amazing-rise-of-1-bit-llms-for-building-faster-and-slimer-generative-ai-apps/?ss=ai",
-        "body": "Cet article explore les récents développements dans le domaine de l'IA générative, en se concentrant sur l'émergence de modèles linguistiques larges (LLM) basés sur la technologie 1-bit. L'auteur explique comment ces LLM 1-bit permettent de créer des applications d'IA générative capables de fonctionner avec des ressources limitées, comme sur un smartphone ou un appareil de bord autonome. La clé de cette approche est de compresser les LLM en utilisant moins de bits, ce qui réduit leur taille et accélère leur traitement. L'article décrit en détail le processus de tokenisation et de pondération, en expliquant comment la conversion de valeurs flottantes en valeurs binaires (0 et 1) peut réduire considérablement l'espace de stockage et accélérer les calculs. L'article conclut en soulignant l'importance de cette technologie pour l'avenir de l'IA, en particulier pour atteindre l'objectif ultime de l'intelligence artificielle générale (AGI).",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674022c4868ff8e4ae76a77b/0x0.jpg?format=jpg&crop=2839,2128,x210,y0,safe&width=440",
-        "date": "Fri, 22 Nov 2024 06:00:00 GMT"
     }
 ]
