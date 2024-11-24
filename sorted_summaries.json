@@ -68,40 +68,5 @@
         "body": "Cet article explore les récents développements dans le domaine de l'IA générative, en se concentrant sur l'émergence de modèles linguistiques larges (LLM) basés sur la technologie 1-bit. L'auteur explique comment ces LLM 1-bit permettent de créer des applications d'IA générative capables de fonctionner avec des ressources limitées, comme sur un smartphone ou un appareil de bord autonome. La clé de cette approche est de compresser les LLM en utilisant moins de bits, ce qui réduit leur taille et accélère leur traitement. L'article décrit en détail le processus de tokenisation et de pondération, en expliquant comment la conversion de valeurs flottantes en valeurs binaires (0 et 1) peut réduire considérablement l'espace de stockage et accélérer les calculs. L'article conclut en soulignant l'importance de cette technologie pour l'avenir de l'IA, en particulier pour atteindre l'objectif ultime de l'intelligence artificielle générale (AGI).",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674022c4868ff8e4ae76a77b/0x0.jpg?format=jpg&crop=2839,2128,x210,y0,safe&width=440",
         "date": "Fri, 22 Nov 2024 06:00:00 GMT"
-    },
-    {
-        "title": "OpenAI entre dans l'arène des navigateurs web",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2414852_openai-travaille-sur-son-propre-navigateur-web-pour-concurrencer-google-chrome",
-        "body": "OpenAI, la société derrière ChatGPT, se lance dans une nouvelle aventure : le développement d'un navigateur web. Selon des sources, l'entreprise est en discussion avec des acteurs clés du secteur et dispose déjà de prototypes. Ce navigateur intégrerait la technologie de ChatGPT et son nouveau moteur de recherche SearchGPT. OpenAI fait appel à d'anciens développeurs de Google Chrome pour relever ce défi, ce qui pourrait représenter une menace pour la domination de Chrome sur le marché des navigateurs. La firme a déjà prouvé sa capacité à concurrencer Google en signant des partenariats avec Microsoft et Apple, et pourrait bientôt collaborer avec Samsung pour le développement de Galaxy AI. La concurrence entre les deux géants de la tech s'intensifie, notamment dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/copy-of-android-151-1200x675-1-768x432.jpg?resize=169,169&key=6d726c92",
-        "date": "Thu, 21 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Apple prépare son assistant virtuel Siri pour concurrencer ChatGPT",
-        "link": "https://www.frandroid.com/marques/apple/2413988_apple-voudrait-faire-de-siri-un-vrai-concurrent-a-chatgpt-mais-pas-tout-de-suite",
-        "body": "Apple se prépare à donner un coup de fouet à son assistant virtuel Siri, avec l'objectif de concurrencer ChatGPT et Google Gemini. La société prévoit de déployer un Siri amélioré, capable de tenir une conversation et de répondre à des questions complexes, tout en interagissant de manière efficace avec des applications tierces et des systèmes domotiques, le tout avec des données chiffrées de bout en bout. Bien qu'Apple ait intégré ChatGPT dans sa suite Apple Intelligence, la société souhaite développer son propre assistant conversationnel basé sur des modèles de langage de grande taille. Selon Bloomberg, ce nouveau Siri 3.0 ne devrait pas être annoncé avant 2025 et pourrait être lancé au printemps 2026.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/siri-sur-iphone-scaled-1-768x512.jpg?resize=200,200&key=a8c288f9",
-        "date": "Thu, 21 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Rendre l'IA plus accessible avec le mode d'apprentissage de Rabbit",
-        "link": "https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks",
-        "body": "Rabbit, une entreprise spécialisée dans l'IA, lance un nouveau mode « Teach » pour ses appareils R1, permettant aux utilisateurs de créer leur propre agent IA pour effectuer des tâches en ligne. Le mode d'apprentissage fonctionne en enregistrant et en reproduisant les actions de l'utilisateur sur différents sites web, comme Spotify, X, YouTube et Discord. L'utilisateur crée une « leçon » en décrivant une tâche, puis en enregistrant les étapes nécessaires à son exécution. L'agent IA peut ensuite reproduire ces actions à la demande. Bien que cette fonctionnalité soit annoncée comme fonctionnant sur « tous les sites web », Rabbit reconnaît qu'elle est encore expérimentale et que des problèmes peuvent survenir, en particulier avec les sites utilisant des CAPTCHAs. Cette nouvelle fonctionnalité s'ajoute à d'autres capacités de l'appareil R1, telles que le modèle d'action large (LAM) qui permet de naviguer sur le Web, et la personnalisation de l'interface utilisateur avec des invites IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:6000x4000/2400x1600/filters:focal(3000x2000:3001x2001):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25429565/Rabbit_R1_Settings.JPG",
-        "date": "Thu, 21 Nov 2024 22:04:13 GMT"
-    },
-    {
-        "title": "Apple's Siri se met à l'IA",
-        "link": "https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt",
-        "body": "Apple prévoit de donner un coup de jeune à Siri en utilisant des modèles d'IA propriétaires, créant ainsi une expérience utilisateur plus conversationnelle et naturelle. Baptisé \"LLM Siri\", l'assistant numérique sera capable de gérer des tâches plus avancées et d'interagir de manière plus efficace avec les applications tierces grâce à la technologie App Intents. Apple Intelligence permettra également à Siri de résumer et de rédiger du texte. Bien qu'aucune annonce officielle n'ait été faite, Apple prévoit de remplacer le logiciel sous-jacent de Siri par ce nouveau système au printemps 2026. Cette mise à jour s'inscrit dans la stratégie d'Apple d'intégrer davantage d'IA dans ses iPhones, avec un accent particulier sur l'amélioration de l'utilité et des fonctionnalités locales de Siri par rapport à ses concurrents.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg",
-        "date": "Thu, 21 Nov 2024 22:01:34 GMT"
-    },
-    {
-        "title": "OpenAI efface par erreur des preuves clés dans une affaire judiciaire",
-        "link": "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
-        "body": "Résumé : Les ingénieurs d'OpenAI ont accidentellement effacé des preuves critiques rassemblées par le New York Times et d'autres grands journaux dans le cadre d'une poursuite judiciaire concernant les données d'entraînement de l'IA. Les équipes juridiques des journaux avaient passé plus de 150 heures à rechercher dans les données d'entraînement de l'IA d'OpenAI des instances où leurs articles étaient inclus. OpenAI a admis l'erreur et a tenté de récupérer les données, mais les informations récupérées étaient incomplètes et peu fiables. Le New York Times Company a lancé cette bataille juridique, affirmant qu'OpenAI et Microsoft ont construit leurs outils d'IA en copiant des millions d'articles du journal, et demande maintenant des milliards de dollars de dommages et intérêts. Pendant ce temps, OpenAI a conclu des accords avec de grands médias, suggérant que de nombreux éditeurs préfèrent s'associer plutôt que de se battre.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg",
-        "date": "Thu, 21 Nov 2024 21:46:13 GMT"
     }
 ]
