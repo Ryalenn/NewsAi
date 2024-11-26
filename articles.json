@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous voulez tester Recall, la fonctionnalité controversée de Windows 11 ? Voici comment faire",
+        "title": "Vous voulez tester Recall, la fonctionnalit\u00e9 controvers\u00e9e de Windows 11 ? Voici comment faire",
         "link": "https://www.frandroid.com/marques/microsoft/2415854_vous-voulez-tester-recall-la-fonctionnalite-controversee-de-windows-11-voici-comment-faire",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/RecallS-768x432.webp?resize=169,169&key=547dc089",
         "date": "Sun, 24 Nov 2024 23:00:00 GMT",
@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Les artistes se protègent contre Midjourney et Dall-E : « de l’abus » d’après OpenAI",
+        "title": "Les artistes se prot\u00e8gent contre Midjourney et Dall-E : \u00ab de l\u2019abus \u00bb d\u2019apr\u00e8s OpenAI",
         "link": "https://www.frandroid.com/culture-tech/2416594_les-artistes-se-protegent-contre-midjourney-et-dall-e-de-labus-dapres-openai",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2016/12/les-activites-de-recherche-d-orange-intelligence-artificielle_page-full.jpg?resize=197,197&key=90098d34",
         "date": "Sun, 24 Nov 2024 23:00:00 GMT",
@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT et ses concurrents vont continuer à « inventer » des informations selon le PDG de Nvidia",
+        "title": "ChatGPT et ses concurrents vont continuer \u00e0 \u00ab inventer \u00bb des informations selon le PDG de Nvidia",
         "link": "https://www.frandroid.com/marques/2416684_chatgpt-et-ses-concurrents-vont-continuer-a-inventer-des-informations-selon-le-pdg-de-nvidia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/earth-computex-2024-1280x854-1-1200x674-2-768x431.jpg?resize=169,169&key=ceb2c106",
         "date": "Sun, 24 Nov 2024 23:00:00 GMT",
@@ -110,5 +110,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67449767711ded794e7c4f64/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 25 Nov 2024 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469776/STK269_ANTHROPIC_C.jpg",
+        "date": "Mon, 25 Nov 2024 20:38:23 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/25/24305584/nvidia-fugatto-ai-audio-generator-music",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg",
+        "date": "Mon, 25 Nov 2024 17:38:51 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24305364/godaddy-aman-bhutani-website-open-web-ai-decoder-podcast-interview",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2760x1839/2400x1600/filters:focal(1321x656:1322x657):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25754395/DCD_Aman_Bhutani_GoDaddy.png",
+        "date": "Mon, 25 Nov 2024 16:15:00 GMT",
+        "check": "no"
     }
 ]
