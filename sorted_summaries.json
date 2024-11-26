@@ -1,5 +1,12 @@
 [
     {
+        "title": "La manifestation et l'IA : un duo surprenant pour concrétiser vos ambitions",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/25/generative-ai-as-your-faithful-guide-toward-manifestation-and-achieving-your-dreams-and-life-goals/?ss=ai",
+        "body": "L'article explore la tendance croissante de la \"manifestation\", l'idée que l'on peut concrétiser ses idées et ses ambitions en résultats concrets. L'auteur suggère que l'IA générative et les grands modèles linguistiques peuvent jouer un rôle important dans l'identification et la réalisation de ces aspirations. En discutant avec ces outils d'IA, on peut définir ses objectifs, visualiser leur réalisation et maintenir une attitude positive, tout en bénéficiant du soutien et des encouragements de l'IA. Cependant, l'auteur met également en garde contre les limites de l'IA, qui peut être trop optimiste et ne pas fournir des conseils critiques. L'article soulève également des questions éthiques sur le rôle de l'IA dans la manifestation, suggérant qu'elle peut conduire à une dépendance excessive et à un éloignement des interactions humaines.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6744f29104d97693032485a5/0x0.jpg?format=jpg&crop=3013,2259,x365,y0,safe&width=440",
+        "date": "Tue, 26 Nov 2024 02:36:00 GMT"
+    },
+    {
         "title": "AI Data Sharing Standard",
         "link": "https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources",
         "body": "Un nouvel outil open-source, le Model Context Protocol (MCP), permet aux assistants IA d'accéder directement aux informations nécessaires pour leurs réponses et tâches. MCP, développé par Anthropic, fournit une connexion universelle à diverses sources de données, améliorant ainsi les performances des IA. Cet outil fonctionne sur tous les systèmes IA et sources de données, contrairement à la fonctionnalité \"Work with Apps\" d'OpenAI, limitée aux applications de codage. MCP élimine la nécessité de créer un code personnalisé pour chaque dataset, permettant aux développeurs d'intégrer leurs outils IA une seule fois et d'accéder ensuite à diverses sources de données. Des logiciels de codage comme Replit, Codeium et Souregraph l'utilisent déjà pour développer leurs agents IA. La standardisation de la connexion des systèmes IA à plusieurs sources de données pourrait révolutionner l'industrie, en particulier avec l'essor de l'IA agentique.",
@@ -124,12 +131,5 @@
         "body": "L'IA, une priorité stratégique mondiale",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6742bd86c3e3f33f6f0ec417/0x0.jpg?format=jpg&crop=2882,2160,x664,y0,safe&width=440",
         "date": "Sun, 24 Nov 2024 05:52:00 GMT"
-    },
-    {
-        "title": "Transportation Revolutionisé",
-        "link": "https://www.forbes.com/sites/kathleenwalch/2024/11/23/how-ai-is-driving-the-future-of-transportation/?ss=ai",
-        "body": "L'IA a un impact significatif sur l'industrie du transport, allant de la gestion du flux de trafic à l'optimisation de la logistique et du transport en commun. L'IA améliore la sécurité, l'efficacité et la durabilité des voyages. En analysant les données en temps réel, l'IA peut ajuster les signaux de trafic, réduire les embouteillages et optimiser les itinéraires, diminuant ainsi le stress des conducteurs et les émissions de gaz à effet de serre. Les applications de navigation, telles que Google Maps et Waze, utilisent l'IA pour fournir des itinéraires efficaces, tenant compte des conditions routières, des accidents et des fermetures de routes. L'IA améliore également la gestion de la chaîne d'approvisionnement, optimisant la distribution de la charge et la prévision de la demande pour le transport maritime. La dernière étape de la livraison, ou « dernier kilomètre », est révolutionnée par l'IA, qui prédit la demande, optimise les itinéraires et gère l'inventaire pour réduire les coûts et accélérer les livraisons. Les villes utilisent l'IA pour créer des systèmes de transport en commun plus intelligents et efficaces, en analysant la demande des passagers et les données en temps réel pour optimiser les horaires des bus et des trains. La maintenance prédictive, basée sur l'analyse des données de capteurs et des registres d'entretien, permet d'anticiper les pannes d'équipement, réduisant ainsi les temps d'arrêt et les coûts de maintenance. L'impact de l'IA sur le transport est vaste et bénéfique, créant des systèmes plus intelligents, plus sûrs et plus durables.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67428dc919f91d6c70649c24/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 24 Nov 2024 02:00:00 GMT"
     }
 ]
