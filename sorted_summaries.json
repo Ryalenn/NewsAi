@@ -1,5 +1,12 @@
 [
     {
+        "title": "Une dinde paisible",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/26/holiday-pro-tip-rely-on-chatgpt-ai-at-your-thanksgiving-table-to-ease-polarizing-arguments-and-achieve-a-peaceful-celebration/?ss=ai",
+        "body": "L'IA générative peut être un outil efficace pour apaiser les tensions et éviter les conflits lors des réunions de famille, comme Thanksgiving. L'article suggère d'utiliser des applications d'IA générative, telles que ChatGPT, pour aider les hôtes à créer un environnement harmonieux. L'IA peut être utilisée pour générer des messages pré-événement, suggérer des activités et des conversations neutres, et même servir d'outil de rôle-playing pour s'entraîner à gérer les situations difficiles. L'auteur fournit également une liste de conversation starters neutres générés par l'IA pour briser la glace et encourager des interactions positives. Enfin, en cas de conflit, l'IA peut servir d'outil de résolution en permettant à la personne en colère de s'exprimer sans risque de conséquences négatives.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67469d8464602851d8826dae/0x0.jpg?format=jpg&crop=2086,1565,x99,y0,safe&width=440",
+        "date": "Wed, 27 Nov 2024 04:00:00 GMT"
+    },
+    {
         "title": "La course aux modèles linguistiques massifs",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques massifs (LLM) plus accessibles au grand public. OpenAI a teasé son modèle texte-vidéo Sora, mais n'a pas fourni de date de sortie. Meta améliore son application Messenger avec des fonctionnalités telles que la HD pour les appels vidéo et la suppression du bruit. Niantic développe un nouveau modèle géospatial qui pourrait révolutionner la façon dont les ordinateurs et les robots interagissent avec le monde. Google Gemini peut désormais se souvenir des préférences et intérêts des utilisateurs. Les entreprises se lancent dans la course pour intégrer leurs chatbots sur diverses plateformes, avec Google Gemini déjà disponible sur iPhone. Enfin, Universal Music Group annonce un partenariat pour créer un modèle de musique éthique, tandis qu'OpenAI prévoit de lancer son prochain modèle, Orion, d'ici décembre.",
@@ -208,19 +215,5 @@
         "body": "L'article de Forbes souligne l'évolution de l'IA en 2024, passant de l'enthousiasme à l'expérimentation et au déploiement pratique. L'IA est un outil pour augmenter les capacités humaines, et son intégration réussie dépend de la compréhension et de l'exploitation de ses forces en matière d'échelle et de vitesse. L'approche « Conscious Capitalism » vise à augmenter l'adoption de l'IA tout en renforçant sa crédibilité et en garantissant une supervision humaine. Les cas d'utilisation de l'IA en 2024 se concentrent sur des activités axées sur les tâches, libérant ainsi du temps pour des activités à plus forte valeur ajoutée. La tendance émergente consiste à créer des « agents IA » personnalisés, des assistants numériques sur mesure qui révolutionnent les tâches fastidieuses mais essentielles. L'utilisation stratégique de l'IA consiste à l'exploiter pour des tâches répétitives et intensives en main-d'œuvre, tout en conservant les processus de réflexion critique pour les humains.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674344c578ba3d70b2dabcd7/0x0.jpg?format=jpg&crop=2405,1801,x694,y0,safe&width=440",
         "date": "Mon, 25 Nov 2024 11:57:00 GMT"
-    },
-    {
-        "title": "Les erreurs à éviter pour une transformation numérique réussie",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/11/25/6-mistakes-it-teams-are-guaranteed-to-make-in-2025/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67441dd0f94a86f7527b1e94/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Nov 2024 06:18:00 GMT"
-    },
-    {
-        "title": "Autonomous AI Agents and Enhanced Governance",
-        "link": "https://www.forbes.com/sites/janakirammsv/2024/11/25/top-5-azure-ai-announcements-from-microsoft-ignite-2024/?ss=ai",
-        "body": "Microsoft Ignite 2024 a mis en lumière une série d'avancées dans le domaine de l'IA, notamment l'intégration de Copilot aux systèmes à base d'agents et le rebranding d'Azure AI Studio en Azure AI Foundry. Azure AI Foundry est une plateforme unifiée pour le développement, la personnalisation et la gestion d'applications IA. Il comprend un nouveau kit de développement logiciel pour l'intégration avec GitHub et Visual Studio. La plateforme utilise une architecture hub-and-project pour une gouvernance centralisée et un contrôle d'accès granulaire. Azure AI Agent Service, une fonctionnalité d'Azure AI Foundry, permet aux développeurs de créer des agents IA intelligents et autonomes. Les agents peuvent tirer parti de la connaissance de sources diverses, y compris Bing, SharePoint et Azure AI Search. L'intégration avec Logic Apps, Power Apps et Azure Functions permet des applications sophistiquées pilotées par l'IA. Microsoft Copilot et Azure AI Agents représentent deux approches distinctes au sein de l'écosystème IA de Microsoft. Copilot agit comme un assistant intégré, tandis que les agents sont des entités IA autonomes conçues pour automatiser des tâches complexes. Copilot Studio et le nouveau kit de développement logiciel (SDK) Agent AI Foundry offrent des capacités autonomes et multi-canal, respectivement. Azure AI Reports fournit des informations et une gouvernance détaillées pour les initiatives d'IA. La plateforme s'intègre à Azure AI Foundry pour une gestion centralisée des projets et des ressources IA. Les fonctionnalités avancées aident les entreprises à maintenir la conformité et les normes éthiques dans le déploiement de l'IA. Azure Container Apps introduit le support serverless GPU, offrant un calcul flexible et évolutif pour les développeurs d'IA et de machine learning. Ces annonces soulignent l'engagement de Microsoft envers le déploiement d'IA d'entreprise à grande échelle, avec un accent sur les agents autonomes et les outils de gouvernance améliorés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674409e9f84ccad73c4e6a41/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Nov 2024 05:37:00 GMT"
     }
 ]
