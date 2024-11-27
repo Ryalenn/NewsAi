@@ -14,6 +14,13 @@
         "date": "Wed, 27 Nov 2024 04:00:00 GMT"
     },
     {
+        "title": "OpenAI's Sora : un modèle d'IA text-to-video controversé",
+        "link": "https://www.theverge.com/2024/11/26/24306879/openai-sora-video-ai-model-leak-artist-protest",
+        "body": "Des artistes protestent contre l'exploitation de leur travail par OpenAI lors du test de son modèle d'IA text-to-video, Sora. Les artistes, qui ont eu un accès anticipé à Sora, affirment qu'OpenAI les utilise pour du \"art washing\" et de la R&D non rémunérée. Ils critiquent également les exigences d'approbation de contenu d'OpenAI. En réponse, OpenAI souligne que la participation à son aperçu de recherche est volontaire et qu'ils travaillent à équilibrer la créativité avec des mesures de sécurité robustes. Sora n'a pas encore été publié, l'entreprise voulant s'assurer d'avoir une mise à l'échelle informatique et des mesures de sécurité adéquates.",
+        "image": "",
+        "date": "Tue, 26 Nov 2024 23:25:19 GMT"
+    },
+    {
         "title": "La course aux modèles linguistiques massifs",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques massifs (LLM) plus accessibles au grand public. OpenAI a teasé son modèle texte-vidéo Sora, mais n'a pas fourni de date de sortie. Meta améliore son application Messenger avec des fonctionnalités telles que la HD pour les appels vidéo et la suppression du bruit. Niantic développe un nouveau modèle géospatial qui pourrait révolutionner la façon dont les ordinateurs et les robots interagissent avec le monde. Google Gemini peut désormais se souvenir des préférences et intérêts des utilisateurs. Les entreprises se lancent dans la course pour intégrer leurs chatbots sur diverses plateformes, avec Google Gemini déjà disponible sur iPhone. Enfin, Universal Music Group annonce un partenariat pour créer un modèle de musique éthique, tandis qu'OpenAI prévoit de lancer son prochain modèle, Orion, d'ici décembre.",
@@ -201,26 +208,5 @@
         "body": "Zilliz Cloud, une plateforme de base de données de vecteurs entièrement gérée, a introduit le moteur de recherche de vecteurs Cardinal, offrant une amélioration significative des capacités de recherche de vecteurs. Cette avancée pourrait avoir un impact important sur la manière dont les entreprises exploitent les grands modèles linguistiques et la génération augmentée par la récupération pour obtenir un avantage concurrentiel. Les bases de données de vecteurs gèrent les données à haute dimensionnalité en convertissant des informations complexes (texte, images, audio) en vecteurs numériques, ce qui est essentiel pour les applications d'IA et d'apprentissage automatique. Le marché mondial des bases de données de vecteurs devrait connaître une croissance importante, soulignant l'importance croissante des bases de données de vecteurs dans les infrastructures de données modernes. Zilliz Cloud s'appuie sur Milvus, une base de données de vecteurs open source, offrant des performances et une évolutivité améliorées pour les applications d'entreprise. Le moteur Cardinal utilise une stratégie d'optimisation à trois niveaux, offrant un gain de performance de dix fois dans les environnements de production. Les fonctionnalités clés incluent des algorithmes d'indexation avancés, une allocation mémoire spécialisée et l'ajustement automatique des configurations d'index. Les améliorations de performance ont des implications dans diverses industries, et les bases de données de vecteurs comme Zilliz Cloud sont considérées comme des moteurs à haute performance capables d'extraire la valeur maximale des données pour les entreprises axées sur l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6744134b56dd141b2e2f97fd/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 25 Nov 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Prédiction et prise de décision avec l'IA",
-        "link": "https://www.forbes.com/sites/ericsiegel/2024/11/25/predictive-ai-only-works-if-stakeholders-tune-this-dial/?ss=ai",
-        "body": "L'IA prédictive utilise des modèles d'apprentissage automatique pour guider les décisions par le biais de probabilités. Les probabilités sont des valeurs comprises entre 0 et 100 qui indiquent la probabilité qu'un événement se produise. Bien que les calculs mathématiques sous-jacents puissent être complexes, l'interprétation des résultats est simple et peut être utilisée pour prendre des décisions informées. En fixant un seuil de décision, les entreprises peuvent équilibrer les avantages et les inconvénients de différentes actions, comme dans l'exemple de la détection des fraudes. Le choix du seuil dépend des considérations commerciales et de l'équilibre entre les faux positifs et les faux négatifs. Les parties prenantes doivent naviguer dans ces choix, car les modèles d'IA offrent une gamme d'options. La visualisation de l'impact commercial à différents seuils de décision peut aider à choisir le meilleur compromis.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67432651ef9a458f07c0de16/0x0.jpg?format=jpg&crop=3118,1754,x0,y888,safe&width=440",
-        "date": "Mon, 25 Nov 2024 12:14:00 GMT"
-    },
-    {
-        "title": "L'avantage de la confiance",
-        "link": "https://www.forbes.com/sites/michaelashley/2024/11/25/can-ai-help-young-athletes-believe-in-themselves/?ss=ai",
-        "body": "L'intelligence artificielle donne aux athlètes un avantage en renforçant leur confiance. L'article parle de l'impact potentiel de l'IA sur les sports, en utilisant l'exemple fictif de Billy Beane, un joueur de baseball talentueux mais manquant de confiance, dont la carrière aurait pu être sauvée par l'IA. L'auteur présente GameChanger Film Room, une plateforme d'analyse vidéo assistée par IA pour les entraîneurs de sports jeunesse, et HomeCourt, une application d'auto-évaluation des compétences de basket-ball. Ces outils IA aident les athlètes à identifier leurs forces et leurs faiblesses, à améliorer leurs performances et à renforcer leur confiance. L'article souligne également l'impact de la pandémie de COVID-19 sur la confiance des jeunes athlètes, suggérant que la technologie IA peut aider à les soutenir et à les encourager à continuer à jouer.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6743b26ebc7dea76b4acb8bc/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Nov 2024 11:59:00 GMT"
-    },
-    {
-        "title": "AI en 2024 : Adopter l'IA pour augmenter l'efficacité humaine",
-        "link": "https://www.forbes.com/sites/solrashidi/2024/11/25/the-top-ai-use-cases-of-2024-and-what-you-should-know-about-them/?ss=ai",
-        "body": "L'article de Forbes souligne l'évolution de l'IA en 2024, passant de l'enthousiasme à l'expérimentation et au déploiement pratique. L'IA est un outil pour augmenter les capacités humaines, et son intégration réussie dépend de la compréhension et de l'exploitation de ses forces en matière d'échelle et de vitesse. L'approche « Conscious Capitalism » vise à augmenter l'adoption de l'IA tout en renforçant sa crédibilité et en garantissant une supervision humaine. Les cas d'utilisation de l'IA en 2024 se concentrent sur des activités axées sur les tâches, libérant ainsi du temps pour des activités à plus forte valeur ajoutée. La tendance émergente consiste à créer des « agents IA » personnalisés, des assistants numériques sur mesure qui révolutionnent les tâches fastidieuses mais essentielles. L'utilisation stratégique de l'IA consiste à l'exploiter pour des tâches répétitives et intensives en main-d'œuvre, tout en conservant les processus de réflexion critique pour les humains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674344c578ba3d70b2dabcd7/0x0.jpg?format=jpg&crop=2405,1801,x694,y0,safe&width=440",
-        "date": "Mon, 25 Nov 2024 11:57:00 GMT"
     }
 ]
