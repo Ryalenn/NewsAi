@@ -215,12 +215,5 @@
         "body": "La Cnil a mené une expérience pour sensibiliser le public aux risques de partage de données personnelles avec les agents conversationnels comme ChatGPT ou Google Gemini. Les participants ont été invités à discuter avec une IA nommée \"Germain\", qui s'est avérée être un humain récoltant des informations personnelles. L'expérience a montré que les utilisateurs sont plus enclins à partager des informations sensibles avec une IA, pensant que l'interaction est sous contrôle et sécurisée. La Cnil met en garde contre le partage inconsidéré de données personnelles et donne des conseils pour protéger sa vie privée en ligne.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/ia-chat-gpt-une-2-768x432.jpg?resize=169,169&key=833fd29f",
         "date": "Mon, 25 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "AI Data Sharing Standard",
-        "link": "https://www.theverge.com/2024/11/25/24305774/anthropic-model-context-protocol-data-sources",
-        "body": "Un nouvel outil open-source, le Model Context Protocol (MCP), permet aux assistants IA d'accéder directement aux informations nécessaires pour leurs réponses et tâches. MCP, développé par Anthropic, fournit une connexion universelle à diverses sources de données, améliorant ainsi les performances des IA. Cet outil fonctionne sur tous les systèmes IA et sources de données, contrairement à la fonctionnalité \"Work with Apps\" d'OpenAI, limitée aux applications de codage. MCP élimine la nécessité de créer un code personnalisé pour chaque dataset, permettant aux développeurs d'intégrer leurs outils IA une seule fois et d'accéder ensuite à diverses sources de données. Des logiciels de codage comme Replit, Codeium et Souregraph l'utilisent déjà pour développer leurs agents IA. La standardisation de la connexion des systèmes IA à plusieurs sources de données pourrait révolutionner l'industrie, en particulier avec l'essor de l'IA agentique.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25469776/STK269_ANTHROPIC_C.jpg",
-        "date": "Mon, 25 Nov 2024 20:38:23 GMT"
     }
 ]
