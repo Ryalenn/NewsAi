@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment éviter les abus de ChatGPT ou Gemini ? Voici les conseils de la Cnil",
+        "title": "Comment \u00e9viter les abus de ChatGPT ou Gemini ? Voici les conseils de la Cnil",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2417604_comment-eviter-les-abus-de-chatgpt-ou-gemini-voici-les-conseils-de-la-cnil",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/ia-chat-gpt-une-2-768x432.jpg?resize=169,169&key=833fd29f",
         "date": "Mon, 25 Nov 2024 23:00:00 GMT",
@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici « Fugatto » : un outil Nvidia capable de créer des sons jamais entendu jusqu’à présent",
+        "title": "Voici \u00ab Fugatto \u00bb : un outil Nvidia capable de cr\u00e9er des sons jamais entendu jusqu\u2019\u00e0 pr\u00e9sent",
         "link": "https://www.frandroid.com/marques/2418622_voici-fugatto-un-outil-nvidia-capable-de-creer-des-sons-jamais-entendu-jusqua-present",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/nvidia-marque-1200x750-2-768x480.jpg?resize=188,188&key=34a1724e",
         "date": "Mon, 25 Nov 2024 23:00:00 GMT",
@@ -166,5 +166,61 @@
         "image": "",
         "date": "Tue, 26 Nov 2024 23:25:19 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Gemini est d\u00e9sormais compatible avec Spotify, mais pas pour tout le monde",
+        "link": "https://www.frandroid.com/android/applications/google-apps/2420068_gemini-est-desormais-compatible-avec-spotify-mais-pas-pour-tout-le-monde",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=d0c48801",
+        "date": "Tue, 26 Nov 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg",
+        "date": "Wed, 27 Nov 2024 17:45:29 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/27/24307438/google-genchess-generative-ai-chess-pieces",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2271x1514/2400x1600/filters:focal(1136x757:1137x758):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25761087/genchess.jpg",
+        "date": "Wed, 27 Nov 2024 16:54:44 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/27/24307360/uber-scaled-solutions-ai-labeling-workforce",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263505/STK_414_AI_C.jpg",
+        "date": "Wed, 27 Nov 2024 15:41:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg",
+        "date": "Wed, 27 Nov 2024 11:15:26 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/nishatalagala/2024/11/27/have-fresh-graduate-tech-jobs-become-a-casualty-of-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/673fc3962fd4e7b378025291/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Nov 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/11/27/amazon-anthropic-and-trainium--ai-acceleration-for-todays-market/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67472894cb9379a004bba5f4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Nov 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/11/27/5-chatgpt-prompts-to-change-lives-and-build-a-lasting-legacy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/674169af076070a51d83c41b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Nov 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
