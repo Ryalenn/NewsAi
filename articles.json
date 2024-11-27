@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment éviter les abus de ChatGPT ou Gemini ? Voici les conseils de la Cnil",
+        "title": "Comment \u00e9viter les abus de ChatGPT ou Gemini ? Voici les conseils de la Cnil",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2417604_comment-eviter-les-abus-de-chatgpt-ou-gemini-voici-les-conseils-de-la-cnil",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/ia-chat-gpt-une-2-768x432.jpg?resize=169,169&key=833fd29f",
         "date": "Mon, 25 Nov 2024 23:00:00 GMT",
@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici « Fugatto » : un outil Nvidia capable de créer des sons jamais entendu jusqu’à présent",
+        "title": "Voici \u00ab Fugatto \u00bb : un outil Nvidia capable de cr\u00e9er des sons jamais entendu jusqu\u2019\u00e0 pr\u00e9sent",
         "link": "https://www.frandroid.com/marques/2418622_voici-fugatto-un-outil-nvidia-capable-de-creer-des-sons-jamais-entendu-jusqua-present",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/nvidia-marque-1200x750-2-768x480.jpg?resize=188,188&key=34a1724e",
         "date": "Mon, 25 Nov 2024 23:00:00 GMT",
@@ -208,5 +208,12 @@
         "image": "",
         "date": "Tue, 26 Nov 2024 22:07:03 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/11/26/holiday-pro-tip-rely-on-chatgpt-ai-at-your-thanksgiving-table-to-ease-polarizing-arguments-and-achieve-a-peaceful-celebration/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67469d8464602851d8826dae/0x0.jpg?format=jpg&crop=2086,1565,x99,y0,safe&width=440",
+        "date": "Wed, 27 Nov 2024 04:00:00 GMT",
+        "check": "no"
     }
 ]
