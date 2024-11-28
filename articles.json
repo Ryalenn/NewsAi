@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Gemini est désormais compatible avec Spotify, mais pas pour tout le monde",
+        "title": "Gemini est d\u00e9sormais compatible avec Spotify, mais pas pour tout le monde",
         "link": "https://www.frandroid.com/android/applications/google-apps/2420068_gemini-est-desormais-compatible-avec-spotify-mais-pas-pour-tout-le-monde",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=d0c48801",
         "date": "Tue, 26 Nov 2024 23:00:00 GMT",
@@ -152,5 +152,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330654/STK414_AI_CHATBOT_E.jpg",
         "date": "Wed, 27 Nov 2024 17:49:47 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2024/11/28/the-only-code-that-matters-is-integrity-not-intelligence/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67488b0daf395a56b143b33b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Nov 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2024/11/28/watts-next-the-ai-revolution-shaping-the-future-of-energy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67488165214cf572705e30b6/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Nov 2024 14:00:00 GMT",
+        "check": "no"
     }
 ]
