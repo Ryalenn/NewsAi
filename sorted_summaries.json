@@ -56,6 +56,13 @@
         "date": "Wed, 27 Nov 2024 17:49:47 GMT"
     },
     {
+        "title": "Les géants de la tech démocratisent les chatbots basés sur des LLM",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4) rendent les technologies de chatbots basées sur des modèles linguistiques de grande envergure plus accessibles au grand public. Ces outils d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les entrées de l'utilisateur. Cependant, comme ils n'ont pas de base de données de faits codés en dur, ils peuvent parfois présenter des informations fausses comme vraies. L'article aborde également d'autres développements dans le domaine de l'IA, notamment de nouvelles startups, des fuites de modèles, des fonctionnalités personnalisées, des progrès dans la reconnaissance vocale et vidéo, et des applications dans divers secteurs tels que la musique et les soins de santé.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 27 Nov 2024 17:45:29 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : un nouveau système d'exploitation",
         "link": "https://www.theverge.com/2024/11/27/24307525/android-leaders-dev-agents-ai-agent-operating-system-startup",
         "body": "Un nouveau projet de startup, \"/dev/agents\", fondé par d'anciens leaders d'Android, dont Hugo Barra et David Singleton, vise à créer un système d'exploitation basé dans le cloud pour les agents IA. L'objectif est de faciliter le développement d'assistants numériques autonomes, capables de prendre des décisions avec un minimum d'intervention humaine. La startup cherche à offrir un environnement de développement simplifié, de nouveaux modèles de confidentialité et des modèles d'interface utilisateur réimaginés pour les agents IA. L'équipe de /dev/agents comprend d'éminents experts en technologie, dont Ficus Kirkpatrick (ancien ingénieur Android et VP de la RA et de la RV chez Meta) et Nicholas Jitkoff (concepteur de ChromeOS). L'industrie de l'IA est en ébullition avec des entreprises comme Microsoft, Google et OpenAI qui prévoient de lancer leurs propres agents IA autonomes dans les prochains mois.",
@@ -117,47 +124,5 @@
         "body": "L'IA générative peut être un outil efficace pour apaiser les tensions et éviter les conflits lors des réunions de famille, comme Thanksgiving. L'article suggère d'utiliser des applications d'IA générative, telles que ChatGPT, pour aider les hôtes à créer un environnement harmonieux. L'IA peut être utilisée pour générer des messages pré-événement, suggérer des activités et des conversations neutres, et même servir d'outil de rôle-playing pour s'entraîner à gérer les situations difficiles. L'auteur fournit également une liste de conversation starters neutres générés par l'IA pour briser la glace et encourager des interactions positives. Enfin, en cas de conflit, l'IA peut servir d'outil de résolution en permettant à la personne en colère de s'exprimer sans risque de conséquences négatives.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67469d8464602851d8826dae/0x0.jpg?format=jpg&crop=2086,1565,x99,y0,safe&width=440",
         "date": "Wed, 27 Nov 2024 04:00:00 GMT"
-    },
-    {
-        "title": "OpenAI's Sora : un modèle d'IA text-to-video controversé",
-        "link": "https://www.theverge.com/2024/11/26/24306879/openai-sora-video-ai-model-leak-artist-protest",
-        "body": "Des artistes protestent contre l'exploitation de leur travail par OpenAI lors du test de son modèle d'IA text-to-video, Sora. Les artistes, qui ont eu un accès anticipé à Sora, affirment qu'OpenAI les utilise pour du \"art washing\" et de la R&D non rémunérée. Ils critiquent également les exigences d'approbation de contenu d'OpenAI. En réponse, OpenAI souligne que la participation à son aperçu de recherche est volontaire et qu'ils travaillent à équilibrer la créativité avec des mesures de sécurité robustes. Sora n'a pas encore été publié, l'entreprise voulant s'assurer d'avoir une mise à l'échelle informatique et des mesures de sécurité adéquates.",
-        "image": "",
-        "date": "Tue, 26 Nov 2024 23:25:19 GMT"
-    },
-    {
-        "title": "La course aux modèles linguistiques massifs",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques massifs (LLM) plus accessibles au grand public. OpenAI a teasé son modèle texte-vidéo Sora, mais n'a pas fourni de date de sortie. Meta améliore son application Messenger avec des fonctionnalités telles que la HD pour les appels vidéo et la suppression du bruit. Niantic développe un nouveau modèle géospatial qui pourrait révolutionner la façon dont les ordinateurs et les robots interagissent avec le monde. Google Gemini peut désormais se souvenir des préférences et intérêts des utilisateurs. Les entreprises se lancent dans la course pour intégrer leurs chatbots sur diverses plateformes, avec Google Gemini déjà disponible sur iPhone. Enfin, Universal Music Group annonce un partenariat pour créer un modèle de musique éthique, tandis qu'OpenAI prévoit de lancer son prochain modèle, Orion, d'ici décembre.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Tue, 26 Nov 2024 23:25:19 GMT"
-    },
-    {
-        "title": "Gemini s'ouvre à Spotify",
-        "link": "https://www.frandroid.com/android/applications/google-apps/2420068_gemini-est-desormais-compatible-avec-spotify-mais-pas-pour-tout-le-monde",
-        "body": "L'assistant vocal de Google, Gemini, s'ouvre désormais à Spotify, offrant ainsi une alternative à YouTube Music. Les utilisateurs peuvent demander à Gemini de jouer un titre, un album, un artiste ou une playlist spécifique sur Spotify. L'IA peut également suggérer de la musique basée sur une activité, un genre ou une humeur. La fonctionnalité nécessite l'activation de l'extension Spotify dans l'application Android de Gemini et la liaison des comptes Spotify et Google. La compatibilité est actuellement limitée à l'application Android de Gemini, et un abonnement Spotify Premium en anglais est requis.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/google-gemini-1200x677-1-768x433.jpg?resize=169,169&key=d0c48801",
-        "date": "Tue, 26 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "AWS et l'avenir de l'IA",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/11/26/aws-ai-data-lead-pushing-past-prototypes-in-generative-ai/?ss=ai",
-        "body": "AWS, un acteur majeur du cloud computing, présente sa vision de l'IA et de son impact sur les entreprises et les développeurs. L'article souligne que l'adoption de l'IA à grande échelle est encore lointaine, mais que les premiers adoptants récoltent déjà les bénéfices en termes de productivité et d'expérience client. Swami Sivasubramanian, VP de l'IA et des données chez AWS, met en avant l'importance de la convergence des outils, des données et de l'IA pour faciliter le travail des scientifiques de données, des ingénieurs et des développeurs. Il souligne également la nécessité de gérer efficacement l'ingestion de données à grande échelle pour les applications d'IA. L'utilisation de données synthétiques est également soulignée comme un élément important de la stratégie de données globale, permettant une expérimentation plus sûre et un développement d'IA plus équitable. Sivasubramanian prévoit que l'IA transformera le travail des développeurs, en éliminant les tâches répétitives et en leur permettant de se concentrer sur des travaux plus stratégiques et créatifs. Enfin, il met en garde contre le \"lavage de l'IA\" et souligne l'importance de la sécurité, de la confidentialité et de la gouvernance dans le développement de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67465d18fb515f474b34d3db/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La menace du DOJ",
-        "link": "https://www.forbes.com/sites/richardnieva/2024/11/26/the-prompt-a-trump-ai-czar/?ss=ai",
-        "body": "Le département américain de la Justice (DOJ) a déposé des propositions de mesures correctives dans le cadre de l'affaire antitrust contre Google, qui pourraient avoir un impact significatif sur ses ambitions en matière d'intelligence artificielle (IA). Le DOJ a suggéré que Google se sépare de son navigateur Chrome, interdise les contrats de distribution à plusieurs milliards de dollars et empêche les fabricants de téléphones Android d'inclure des applications Google par défaut. De plus, le DOJ a proposé que Google vende ses participations dans des entreprises d'IA qui pourraient concurrencer la recherche, y compris son investissement dans Anthropic, une startup d'IA qui a créé un modèle de langage similaire à Gemini de Google. Ces propositions, si elles sont acceptées par le juge, pourraient entraver la capacité de Google à concurrencer dans la course à l'IA.\n\nLe résumé : Le DOJ a proposé des mesures correctives dans l'affaire antitrust contre Google, y compris la vente de Chrome et la séparation des participations dans les entreprises d'IA concurrentielles. Ces propositions pourraient affecter les ambitions de Google en matière d'IA et remodeler le paysage de la recherche et de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67464662ca19c8793201c302/0x0.jpg?format=jpg&crop=2751,1547,x0,y0,safe&width=440",
-        "date": "Tue, 26 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Spotify ajoute le support de l'IA Gemini de Google",
-        "link": "https://www.theverge.com/2024/11/26/24306815/google-gemini-spotify-extension-rollout-android",
-        "body": "L'assistant IA Gemini de Google peut désormais être utilisé pour rechercher et lire de la musique sur Spotify. Gemini peut jouer de la musique en fonction de titres, d'artistes, d'albums ou d'activités spécifiques. La fonctionnalité nécessite la liaison des comptes Spotify et Google, et est actuellement disponible uniquement sur Android en anglais. Spotify est la deuxième application non-Google à prendre en charge Gemini, après WhatsApp. La page de support de Google explique que les requêtes IA Gemini sont conservées jusqu'à 72 heures.",
-        "image": "",
-        "date": "Tue, 26 Nov 2024 22:07:03 GMT"
     }
 ]
