@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'enseignement de la programmation à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/nishatalagala/2024/12/02/coding-education-with-ai-can-english-teachers-show-the-way/?ss=ai",
+        "body": "Bien que l'IA puisse désormais générer du code, l'enseignement de la programmation reste essentiel, mais doit évoluer. L'éducation en programmation devrait s'inspirer de l'enseignement des langues, comme l'anglais, où l'on apprend à construire des phrases et des paragraphes corrects, mais aussi à lire et à comprendre des textes existants. De même, en programmation, il est important de savoir lire et comprendre du code existant, souvent plus que d'en écrire soi-même. L'article propose d'enseigner aux étudiants à \"lire\" et à comprendre des packages logiciels, comme Linux, avec l'aide d'un enseignant, afin de comprendre la structure et le fonctionnement de logiciels complexes. Cette approche prépare mieux les étudiants au monde professionnel, où la lecture et la compréhension de code existant sont essentielles, et les rend plus résistants aux menaces potentielles des IA génératrices de code.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/674e2e01652016d3239334f1/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 02 Dec 2024 22:00:00 GMT"
+    },
+    {
         "title": "L'IA et la gratitude",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/12/02/the-power-of-thanking-your-chatbot-4-useful-ai-gratitude-hacks/?ss=ai",
         "body": "Titre",
@@ -68,26 +75,5 @@
         "body": "L'article explore la question de savoir si l'IA générative, comme ChatGPT, devrait croire en des concepts subjectifs tels que les anges. Il souligne que l'IA est basée sur l'analyse de données humaines et l'imitation des modèles mathématiques et statistiques de l'expression humaine. Ainsi, si les humains croient généralement en des concepts subjectifs, l'IA le découvrira probablement et pourrait exprimer une \"croyance\" similaire. Cependant, l'IA n'est pas actuellement consciente, ce qui soulève des questions sur la nature de la \"croyance\" de l'IA. L'auteur suggère que les développeurs d'IA peuvent influencer les croyances de l'IA en utilisant l'apprentissage par renforcement avec des commentaires humains (RLHF), ce qui soulève des questions sur la censure et les biais. L'article conclut que la réponse à la question dépend des créateurs d'IA et de leurs perceptions de l'éthique de l'IA, soulignant la nécessité d'une réflexion critique sur les réponses de l'IA et la nature changeante de l'IA à mesure qu'elle évolue vers la conscience.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674bdbaff0af6728f5bace80/0x0.jpg?format=jpg&crop=4376,3281,x385,y0,safe&width=440",
         "date": "Sun, 01 Dec 2024 03:00:00 GMT"
-    },
-    {
-        "title": "Code Generation et l'Education",
-        "link": "https://www.forbes.com/sites/nishatalagala/2024/11/30/how-ai-will-or-should-change-computer-science-education/?ss=ai",
-        "body": "Google a récemment annoncé que plus de 25 % du nouveau code au sein de l'entreprise est généré par l'IA. Cet article explore l'impact de cette évolution sur l'éducation en informatique, en particulier pour les étudiants actuels. La distinction entre le code et le logiciel est essentielle : l'IA excelle dans la génération de code syntaxiquement correct, mais le processus de création de logiciels implique bien plus que cela. L'éducation en informatique, du primaire à l'université, doit évoluer pour refléter cette distinction, en mettant l'accent sur la collaboration entre l'humain et l'IA dans le développement de logiciels, ainsi que sur les compétences en ingénierie logicielle nécessaires dans l'industrie. L'auteur suggère que, bien qu'une certaine connaissance de la création de code soit toujours importante, l'accent mis sur ces compétences dans l'éducation en informatique doit être réévalué pour préparer les étudiants au mieux au monde professionnel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674bb1fbd577f1747aedf4ad/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 01 Dec 2024 01:06:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA : les opportunités et les défis",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/11/30/the-bot-wars--chatgpt-goes-to-work-convincing-people/?ss=ai",
-        "body": "L'IA a évolué à un rythme rapide, comme en témoigne l'évolution de GPT, passant de GPT-1 en 2018 à GPT-4 en 2023, avec des modèles plus avancés comme GPT-4o et Orion à venir. Ces avancées ont eu lieu parallèlement à la pandémie de coronavirus, illustrant la rapidité du développement de l'IA. L'exemple d'un utilisateur qui a transformé ChatGPT en bot pour les appels à froid souligne le potentiel de l'IA dans les ventes et le marketing, avec des taux de réussite plus élevés que les appelants humains. Cependant, cela soulève également des préoccupations concernant les appels indésirables et le spam, alors que les individus et les entreprises adoptent rapidement l'IA. Les gens devront s'adapter à cette nouvelle réalité, apprendre à filtrer les appels et les messages indésirables, et développer de nouvelles façons de communiquer. De plus, avec des modèles comme Claude d'Anthropic et des innovations en Chine, la façon dont nous interagissons avec la technologie et les uns avec les autres est en train de changer radicalement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674ba1c1f555f231dcd20f0f/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Nov 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La bataille juridique d'Elon Musk contre OpenAI s'intensifie",
-        "link": "https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction",
-        "body": "Résumé : Les avocats d'Elon Musk ont déposé une nouvelle requête dans le cadre de son procès contre OpenAI, demandant une injonction préliminaire pour empêcher OpenAI de devenir une entreprise à but lucratif. Ils accusent également OpenAI et Microsoft de pratiques anticoncurrentielles, affirmant que ces pratiques violent les lois antitrust américaines. Les avocats de Musk soutiennent qu'OpenAI a bénéficié d'informations sensibles obtenues illégalement grâce à ses connexions avec Microsoft, et que la société pourrait ne pas avoir suffisamment de fonds pour payer les dommages-intérêts si Musk gagne le procès. La requête fait suite à l'annonce d'OpenAI de son intention de devenir une entreprise à but lucratif et de ses discussions préliminaires avec les régulateurs à ce sujet.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906797/VRG_Illo_STK022_K_Radtke_Musk_Scales.jpg",
-        "date": "Sat, 30 Nov 2024 22:39:44 GMT"
     }
 ]
