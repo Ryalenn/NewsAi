@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Google Gemini va être plus pratique à utiliser au quotidien",
+        "title": "Google Gemini va \u00eatre plus pratique \u00e0 utiliser au quotidien",
         "link": "https://www.frandroid.com/marques/google/2427404_google-gemini-va-etre-plus-pratique-a-utiliser-au-quotidien",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/img-0944-1200x900-1-768x576.jpeg?resize=225,225&key=27d11622",
         "date": "Mon, 02 Dec 2024 23:00:00 GMT",
@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Manifestation chez les comédiens de doublage : la VF menacée par l’IA ?",
+        "title": "Manifestation chez les com\u00e9diens de doublage : la VF menac\u00e9e par l\u2019IA ?",
         "link": "https://www.frandroid.com/culture-tech/2428132_manifestation-chez-les-comediens-de-doublage-la-vf-menacee-par-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/will-francis-zdnyhmgkzlq-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=c87f86e7",
         "date": "Mon, 02 Dec 2024 23:00:00 GMT",
@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Mark Zuckerberg tente de se réconcilier avec Donald Trump avant son arrivée au pouvoir",
+        "title": "Mark Zuckerberg tente de se r\u00e9concilier avec Donald Trump avant son arriv\u00e9e au pouvoir",
         "link": "https://www.frandroid.com/culture-tech/2428872_mark-zuckerberg-tente-de-se-reconcilier-avec-donald-trump-avant-son-arrivee-au-pouvoir",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/mark-zuckerberg-meta-connect-2024-1200x675-1-768x432.jpg?resize=169,169&key=8876ae63",
         "date": "Tue, 03 Dec 2024 23:00:00 GMT",
@@ -131,5 +131,26 @@
         "image": "",
         "date": "Tue, 03 Dec 2024 19:38:37 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/apple/2430174_apple-intelligence-restera-gratuit-tim-cook-ecarte-definitivement-lidee-dune-ia-payante",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/image-9-2-768x432.jpg?resize=169,169&key=babbc0c7",
+        "date": "Tue, 03 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/04/intel-at-the-crossroads-where-does-intel-go-from-here/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67506c954d5973d3d57cca12/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Dec 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/12/04/chatgpt-prompts-to-write-linkedin-posts-that-get-100-likes-every-time/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/674e6d333585aeab85743072/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Dec 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
