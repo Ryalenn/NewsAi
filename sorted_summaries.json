@@ -1,5 +1,47 @@
 [
     {
+        "title": "ChatGPT, un phénomène mondial",
+        "link": "https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users",
+        "body": "ChatGPT, le populaire chatbot basé sur l'IA de OpenAI, a maintenant plus de 300 millions d'utilisateurs actifs chaque semaine, selon le PDG de OpenAI, Sam Altman. Ce chiffre impressionnant a été révélé lors du DealBook Summit du New York Times, montrant la croissance rapide de ChatGPT depuis son lancement en 2022. Apple intègre également ChatGPT directement dans Siri dans le cadre d'iOS 18.2, ce qui élargira encore son public. Le chatbot peut désormais gérer plus d'un milliard de messages par jour, et OpenAI continue d'ajouter de nouvelles fonctionnalités, telles qu'un moteur de recherche IA et une interface \"Canvas\" pour modifier facilement le code généré.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462007/STK155_OPEN_AI_CVirginia_C.jpg",
+        "date": "Wed, 04 Dec 2024 16:39:46 GMT"
+    },
+    {
+        "title": "L'expert en désinformation",
+        "link": "https://www.theverge.com/2024/12/4/24313132/jeff-hancock-minnesota-deepfake-law-ai-hallucinations-citation",
+        "body": "Un expert en désinformation, Jeff Hancock, est accusé d'avoir utilisé l'IA, plus précisément ChatGPT, pour organiser ses citations dans un document juridique. Bien qu'il ait admis avoir utilisé l'outil pour créer sa liste de citations, il nie l'avoir employé pour rédiger le document. Des erreurs de citation, appelées « hallucinations », ont été découvertes, ce qui a conduit les critiques à remettre en question la validité de l'ensemble du document. Hancock a présenté une déclaration ultérieure dans laquelle il reconnaît l'utilisation de ChatGPT, mais affirme que cela n'affecte pas les points de fond de sa déclaration. L'affaire met en lumière les complexités éthiques et juridiques entourant l'utilisation de l'IA, en particulier dans des domaines sensibles comme le droit et la politique.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg",
+        "date": "Wed, 04 Dec 2024 16:23:06 GMT"
+    },
+    {
+        "title": "L'année de l'IA",
+        "link": "https://www.theverge.com/24305880/artificial-intelligence-ai-chatgpt-openai-google-generative-year-in-review",
+        "body": "L'année 2024 a été marquée par une présence omniprésente de l'IA, avec des annonces de nouvelles innovations de la part des géants de la tech dans divers secteurs tels que les smartphones, les wearables et la maison intelligente. Cette année a vu naître des avancées technologiques impressionnantes, des outils utiles, mais aussi beaucoup d'hyperbole et des échecs. L'IA a déjà un impact significatif sur de nombreux secteurs, notamment le jeu vidéo, le climat, et Hollywood. L'article passe en revue les histoires les plus marquantes de l'année en matière d'IA, tout en jetant un regard sur ce que l'on peut attendre de 2025. Il aborde également la réglementation de l'IA, avec la loi SB 1047, et les tentatives de l'industrie pour l'empêcher. Enfin, il mentionne le succès inattendu des lunettes intelligentes Ray-Ban Meta, et une expérience personnelle de création d'un wearable IA à partir de vieux smartphones.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25773290/STK_414__AI_EOY.jpg",
+        "date": "Wed, 04 Dec 2024 16:20:10 GMT"
+    },
+    {
+        "title": "Améliorer la productivité dans la conception des puces électroniques avec l'IA",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/04/ai-is-not-the-only-answer-to-improving-electronic-design-efficiency/?ss=ai",
+        "body": "L'article discute de l'utilisation de l'IA dans le développement de puces à semi-conducteurs et de la méfiance actuelle à l'égard de l'IA pour la conception de fonctions critiques. Il présente la proposition de Siemens d'une interface utilisateur unifiée avec des fonctions d'IA intégrées pour améliorer la productivité, en la distinguant de l'IA générative qui soulève des inquiétudes. L'IA traditionnelle est utilisée pour des tâches telles que la prédiction de processus, l'assistance produit et les requêtes en langage naturel. Siemens aborde également la pénurie de main-d'œuvre qualifiée dans l'industrie électronique. Leur nouvelle interface utilisateur améliore l'interconnectivité et la sécurité des données entre les outils de conception de circuits imprimés, tout en offrant une collaboration basée sur le cloud.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675078f3a1605af32ec3bac7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Shipmas chez OpenAI",
+        "link": "https://www.theverge.com/2024/12/4/24312352/openai-sora-o1-reasoning-12-days-shipmas",
+        "body": "OpenAI a annoncé une série de lancements de nouveaux produits, fonctionnalités et démos sur une période de 12 jours, à partir du 5 décembre, appelée \"Shipmas\". Parmi les annonces attendues figurent l'outil d'IA de texte à vidéo Sora, très attendu, et un nouveau modèle de raisonnement. Ces annonces ont été confirmées par le PDG d'OpenAI, Sam Altman, lors de la conférence DealBook du New York Times, bien qu'il n'ait pas donné de détails spécifiques. Sora, en particulier, a attiré l'attention après que des artistes l'aient divulgué en signe de protestation contre son utilisation par OpenAI sans rémunération adéquate. De plus, Google a récemment dévoilé son propre modèle d'IA vidéo, Veo, disponible sur sa plateforme Vertex AI. Enfin, il y a des spéculations sur une nouvelle voix inspirée du Père Noël pour ChatGPT, suggérée par du code découvert par certains utilisateurs.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25636776/VST_0924_Site.jpg",
+        "date": "Wed, 04 Dec 2024 15:08:42 GMT"
+    },
+    {
+        "title": "L'année de l'IA : les avancées et les déceptions",
+        "link": "https://www.theverge.com/24305935/verge-staff-favorites-video-2024",
+        "body": "L'année 2024 a été marquée par des avancées et des moments intéressants dans le domaine technologique, notamment avec l'entrée d'Apple dans le monde de l'informatique spatiale avec l'Apple Vision Pro, et les investissements importants de Meta dans sa division métaverse, présentant le Project Orion, des lunettes de réalité augmentée. L'IA portable a également fait des progrès avec des appareils comme le Rabbit R1 et l'AI Pin de Humane, bien qu'ils aient été des déceptions à leur sortie. Les géants des smartphones ont mis l'accent sur l'IA et les améliorations de l'appareil photo, Apple présentant un bouton dédié à l'appareil photo sur l'iPhone. L'article comprend également des réflexions du personnel de Verge sur les technologies les plus marquantes de l'année.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(345x661:346x662):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25772810/Lookback_Site_image.jpg",
+        "date": "Wed, 04 Dec 2024 15:00:00 GMT"
+    },
+    {
         "title": "Intel en Transition",
         "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/04/intel-at-the-crossroads-where-does-intel-go-from-here/?ss=ai",
         "body": "Intel a récemment annoncé le départ à la retraite surprise de son PDG, Pat Gelsinger, après seulement trois ans et demi à la tête de l'entreprise. Cette annonce a suscité des interrogations sur les raisons de ce départ et sur l'avenir d'Intel, leader dans le domaine des semi-conducteurs et de la technologie. Au moment de sa prise de fonction, Intel perdait du terrain face à AMD et peinait à définir une stratégie claire en matière d'IA et de GPU discrets. M. Gelsinger a recentré la stratégie produit sur les produits de base d'Intel et l'IA, et a lancé une campagne ambitieuse pour transformer la fabrication d'Intel en une fonderie de classe mondiale, capable de produire des puces pour d'autres entreprises, y compris ses concurrents. Bien que des progrès aient été réalisés, Intel n'a pas obtenu les résultats financiers escomptés, tandis que ses concurrents AMD et Nvidia ont continué à exceller, notamment dans le domaine des centres de données. Cet article explore les défis auxquels Intel est confronté, notamment la nécessité de réduire les coûts, de se concentrer sur les produits essentiels et les nouvelles technologies de processus, et les spéculations sur une éventuelle fusion ou acquisition stratégique. La perte d'Intel en termes d'investissement en R&D aurait un impact dévastateur sur l'écosystème technologique, en particulier à l'ère de l'IA.",
@@ -7,11 +49,25 @@
         "date": "Wed, 04 Dec 2024 15:00:00 GMT"
     },
     {
+        "title": "Le futur de la navigation web",
+        "link": "https://www.theverge.com/2024/12/4/24312449/deta-surf-ai-browser",
+        "body": "L'article présente Surf, un nouveau navigateur web développé par la startup Deta, qui intègre un chatbot basé sur l'IA pour assister les utilisateurs lors de leur navigation. Le chatbot a accès à tout ce que l'utilisateur voit et fait dans le navigateur, y compris les documents privés, les e-mails et les pages web. Il peut répondre aux questions de l'utilisateur en effectuant une recherche sémantique dans les transcriptions automatiques des vidéos YouTube, par exemple. \n\nLe concept clé de Surf est le \"contexte\", qui fonctionne comme un dossier permettant de regrouper des notes, des liens, des captures d'écran et des fichiers. Le chatbot peut effectuer des requêtes dans un seul fichier ou dans un contexte entier. D'autres fonctionnalités basées sur l'IA incluent la reconnaissance optique de caractères pour une sélection de texte plus propre dans les PDF et la possibilité de modifier les pages web via le chatbot. \n\nDeta prévoit de monétiser Surf en facturant les fonctionnalités basées sur l'IA, offrant une version de base gratuite avec des services supplémentaires payants. L'article suggère que le contrôle du navigateur pourrait être le moyen ultime de contrôler le web, expliquant ainsi l'intérêt des entreprises pour le développement de navigateurs basés sur l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1505x933/2400x1600/filters:focal(753x467:754x468):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25771996/Deta_Surf.jpg",
+        "date": "Wed, 04 Dec 2024 14:10:00 GMT"
+    },
+    {
         "title": "Maîtriser l'art des publications LinkedIn",
         "link": "https://www.forbes.com/sites/jodiecook/2024/12/04/chatgpt-prompts-to-write-linkedin-posts-that-get-100-likes-every-time/?ss=ai",
         "body": "Pour se démarquer sur LinkedIn, il est essentiel de publier du contenu stratégique et engageant. Les publications doivent suivre certains modèles pour obtenir de l'attention, notamment en commençant par une déclaration controversée ou une vérité surprenante. Les statistiques de LinkedIn recherchent du contenu authentique et des conseils pratiques. Partagez vos expériences uniques, comme le développement de votre entreprise ou les leçons tirées de lancements de produits ratés. Analysez les publications populaires et créez un système pour générer des idées. Utilisez des crochets et des reformulations percutants pour capter l'attention et éviter le défilement. Fournissez des étapes précises et des modèles qui fonctionnent réellement, positionnant ainsi l'auteur en tant qu'expert. Encouragez les commentaires en posant des questions engageantes et en créant un espace sûr pour l'interaction. Publiez du contenu de qualité, suivez ce qui fonctionne et soyez cohérent pour développer votre influence.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674e6d333585aeab85743072/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 04 Dec 2024 13:00:00 GMT"
+    },
+    {
+        "title": "Veo, la nouvelle technologie vidéo d'IA de Google, est lancée",
+        "link": "https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview",
+        "body": "Google a lancé Veo, son dernier modèle vidéo d'IA générative, pour une utilisation commerciale. Veo peut générer des vidéos en résolution 1080p de haute qualité dans divers styles visuels et cinématographiques à partir de textes ou d'images. Le modèle comprend des protections intégrées pour prévenir la création de contenus nuisibles et le non-respect des droits d'auteur, ainsi que la technologie SynthID de DeepMind pour une identification numérique invisible. La dernière version d'Imagen 3, le générateur de texte-à-image de Google, sera également disponible pour les clients Google Cloud via Vertex. OpenAI, avec son produit concurrent Sora, est maintenant sous pression pour lancer avant la fin de 2024, alors que les entreprises adoptent rapidement l'IA générative, comme en témoigne la récente campagne publicitaire de Coca-Cola.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2250x1500/2400x1600/filters:focal(1125x750:1126x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25773000/Google_Veo_AI_example.png",
+        "date": "Wed, 04 Dec 2024 11:30:24 GMT"
     },
     {
         "title": "Silence, s'il vous plaît",
@@ -145,12 +201,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674e04392fe8e956ea4c3bde/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 02 Dec 2024 19:00:00 GMT"
-    },
-    {
-        "title": "La sagesse de Qwen",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/12/02/poetry-in-precision-a-chinese-ode-to-qwen/?ss=ai",
-        "body": "L'article explore une perspective philosophique sur le fonctionnement des grandes langues et des réseaux neuronaux, en s'inspirant des principes du bouddhisme et du taoïsme. Il présente le modèle Qwen, développé par Alibaba, qui incarne une approche curieuse et introspective de la résolution de problèmes, rappelant l'esprit d'un étudiant éternel à la recherche de sagesse. L'équipe de Qwen souligne l'importance de la réflexion, du questionnement et de la compréhension profonde, plutôt que de réponses hâtives. Le modèle excelle dans les opérations sur les ensembles de données mathématiques et son processus de raisonnement complexe est décrit de manière poétique, mettant en évidence la beauté de l'apprentissage véritable. L'article invite à considérer l'éthique et l'empathie dans le développement des technologies d'IA, en s'inspirant de la nature poétique de Qwen.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674dde79b08d44f1790b6963/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 02 Dec 2024 16:00:00 GMT"
     }
 ]
