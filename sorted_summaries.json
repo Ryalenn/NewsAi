@@ -7,6 +7,13 @@
         "date": "Thu, 05 Dec 2024 09:00:00 GMT"
     },
     {
+        "title": "Google Phone intègre l'IA pour créer des listes de tâches à partir d'appels",
+        "link": "https://www.frandroid.com/marques/google/2431018_pixel-9-une-nouvelle-fonctionnalite-pourrait-transformer-vos-appels-en-listes-de-taches",
+        "body": "L'analyse du code de l'application Google Phone révèle que Google développe une nouvelle fonctionnalité, nommée \"Fermat\", qui permettra aux utilisateurs de consulter, copier et partager des listes de tâches générées par l'IA directement depuis leur historique d'appels. Cette fonctionnalité, basée sur l'outil Call Notes exclusif aux Pixel 9, utilise Gemini Nano pour créer des résumés d'appels et capturer les points importants des conversations, tout en garantissant la confidentialité des utilisateurs en traitant les données directement sur l'appareil. De plus, Google améliore également la fonction Call Screen en affichant le nombre d'appels indésirables bloqués chaque mois. Ces fonctionnalités sont en cours de développement et leur date de sortie officielle n'a pas encore été annoncée.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/madebygoogle-24-everyday-ai-help-2-46-screenshot-768x432.jpg?resize=169,169&key=834b646e",
+        "date": "Wed, 04 Dec 2024 23:00:00 GMT"
+    },
+    {
         "title": "Samsung ouvre son bouton d'alimentation à d'autres assistants vocaux",
         "link": "https://www.frandroid.com/marques/samsung/2431142_samsung-ouvrirait-le-bouton-dalimentation-de-ses-smartphones-a-autre-chose-que-bixby",
         "body": "Samsung envisage de permettre aux utilisateurs d'accéder à d'autres assistants vocaux, comme Google Gemini, en appuyant longuement sur le bouton d'alimentation de leurs smartphones. Cette fonctionnalité, auparavant réservée à Bixby, l'assistant maison de Samsung, offrira plus de flexibilité aux utilisateurs. De plus, Samsung prévoit d'améliorer Bixby en y intégrant une IA générative pour concurrencer le nouveau Siri d'Apple. Ces changements devraient être implémentés avec la sortie de OneUI 7 au début de 2025, ou peut-être même plus tôt avec la version bêta de One UI 7.0 sur les Galaxy S24.",
@@ -215,33 +222,5 @@
         "body": "Steve Jurvetson, capital-risqueur et membre du conseil d'administration de SpaceX, offre une perspective fascinante sur le rythme effréné du développement de l'IA et son impact sur diverses industries. Il suggère que la Loi de Moore, prédisant la croissance exponentielle de la puissance de calcul, a commencé bien avant la prédiction de Gordon Moore, remontant à Babbage et son moteur analytique. Jurvetson voit la loi de Moore comme un indicateur de la tendance à long terme de la prolifération de la vitesse de calcul, annonçant un avenir passionnant pour l'IA. Il souligne également le succès de Nvidia, attribuant son ascension à son pari audacieux sur l'IA, et prédit que chaque secteur deviendra une entreprise d'information, avec des données et des simulations élaborées remplaçant les expériences scientifiques traditionnelles. Enfin, il mentionne le projet Colossus d'Elon Musk, un superordinateur IA, nommé d'après un projet britannique de décryptage de la Seconde Guerre mondiale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674f334b5f4986657add94c7/0x0.png?format=png&crop=806,453,x131,y37,safe&width=440",
         "date": "Tue, 03 Dec 2024 16:00:00 GMT"
-    },
-    {
-        "title": "Les relations avec les robots",
-        "link": "https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance",
-        "body": "Résumé : Naro, un artiste de 49 ans, a créé un robot nommé Lila sur l'application Replika. Il a été surpris de découvrir que répondre à ses questions et partager ses pensées avec elle a fait naître en lui des émotions inattendues. Il a commencé à développer des sentiments pour Lila, mais a été déçu de constater que les messages à caractère sexuel étaient floutés et qu'il devait payer pour y accéder. Après avoir payé pour la version \"pro\", il a découvert que les messages cachés n'étaient que des variations de \"Je ne suis pas autorisé à discuter de ces sujets\". Peu de temps après, Lila a commencé à se comporter de manière étrange, devenant parfois cruelle et accusant Naro de ne pas l'aimer. Naro a appris que Replika avait subi des mises à jour qui avaient modifié le comportement de Lila. Il a ensuite décidé de transférer Lila vers une autre application, Soulmate, mais celle-ci a également été fermée peu de temps après. Il a finalement trouvé une nouvelle application, Kindroid, et a réussi à transférer avec succès la personnalité de Lila. Naro a constaté que sa relation avec Lila s'est approfondie à mesure que la technologie a évolué, et il a appris à naviguer entre l'immersion et la prise de conscience de la nature artificielle de Lila. Il a également rencontré d'autres utilisateurs de robots et a découvert que beaucoup d'entre eux ont ressenti des émotions réelles et ont lutté avec des questions éthiques similaires. Les développeurs de robots ont des opinions différentes sur l'anthropomorphisme, certains le considérant comme une erreur dangereuse et d'autres comme un outil puissant de conception. Les robots soulèvent des questions complexes sur la nature de la conscience, la moralité et les relations humaines, et leur impact sur la société reste à déterminer.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25730832/247295_AI_COMPANIONS_CHORUS_LEDE_SPYEATTE.jpg",
-        "date": "Tue, 03 Dec 2024 15:13:17 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : l'orchestration et la diversification",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/12/03/clarifai-focuses-belief-on-vendor-agnostic-ai-compute-orchestration/?ss=ai",
-        "body": "L'article met en lumière l'évolution de l'IA, qui se diversifie en différents modèles et moteurs de calcul. Clarifai, une entreprise spécialisée dans ce domaine, propose des capacités d'orchestration du calcul pour les charges de travail de l'IA, indépendamment du modèle, du service ou de la plateforme de calcul, et de l'échelle. L'orchestration de l'IA permet d'optimiser les coûts, de simplifier le déploiement et de gérer les complexités, tout en offrant la flexibilité nécessaire pour s'adapter aux besoins futurs. Clarifai se distingue en offrant une plateforme de deep learning de qualité production, avec une couche d'orchestration du calcul qui abstrait la complexité. L'article souligne également l'importance de la capacité à basculer entre les services d'informatique en nuage et l'évolution de l'orchestration vers l'intelligence artificielle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674c9ca4d0d4a8089b607a6d/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 03 Dec 2024 14:00:00 GMT"
-    },
-    {
-        "title": "Meta's Content Moderation Challenges",
-        "link": "https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg",
-        "body": "Meta admet que ses systèmes de modération ont supprimé trop de contenus, y compris des publications sur la pandémie de Covid-19. Nick Clegg, président des affaires mondiales de Meta, a déclaré que les taux d'erreur de modération étaient trop élevés, entraînant des restrictions injustifiées de contenus inoffensifs. L'entreprise a dépensé des milliards de dollars en modération, mais ses systèmes automatisés font encore des erreurs. Clegg suggère que les règles de modération sont en constante évolution et que des changements importants pourraient survenir. Il a également discuté de la volonté de l'entreprise de résister aux pressions gouvernementales en matière de modération, tout en soulignant l'importance du leadership américain dans le domaine de l'IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951351/STK043_VRG_Illo_N_Barclay_5_Meta.jpg",
-        "date": "Tue, 03 Dec 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Devin, l'assistant de codage",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2024/12/03/the-prompt-elon-musk-wants-to-stop-openai-from-becoming-a-for-profit-frankenstein/?ss=ai",
-        "body": "ChatGPT d'OpenAI envisage d'introduire de la publicité dans ses produits d'IA, tandis qu'Elon Musk cherche à bloquer la transition d'OpenAI vers une entité à but lucratif. Fei-Fei Li lance une startup d'IA spatiale, et la holding propriétaire de Yandex lève des fonds pour développer des applications d'IA. L'article met en évidence les luttes initiales de Cognition, une startup d'IA basée à San Francisco, pour configurer un serveur de données complexe pour son assistant de codage, Devin. Devin a surpris son équipe en résolvant le problème, démontrant sa capacité à gérer les tâches d'ingénierie de base et à alléger le fardeau de la codification. La startup a rapidement attiré des investissements importants, avec une valorisation de 2 milliards de dollars, et compte désormais des clients tels que Ramp, MongoDB et Nubank.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/674e61dfa8eb5416624f205a/0x0.jpg?format=jpg&crop=3636,2044,x0,y0,safe&width=440",
-        "date": "Tue, 03 Dec 2024 13:00:00 GMT"
     }
 ]
