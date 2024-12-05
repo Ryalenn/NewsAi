@@ -7,7 +7,7 @@
         "check": "yes"
     },
     {
-        "title": "Mark Zuckerberg tente de se réconcilier avec Donald Trump avant son arrivée au pouvoir",
+        "title": "Mark Zuckerberg tente de se r\u00e9concilier avec Donald Trump avant son arriv\u00e9e au pouvoir",
         "link": "https://www.frandroid.com/culture-tech/2428872_mark-zuckerberg-tente-de-se-reconcilier-avec-donald-trump-avant-son-arrivee-au-pouvoir",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/mark-zuckerberg-meta-connect-2024-1200x675-1-768x432.jpg?resize=169,169&key=8876ae63",
         "date": "Tue, 03 Dec 2024 23:00:00 GMT",
@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : vers un modèle gratuit avec de la publicité",
+        "title": "ChatGPT : vers un mod\u00e8le gratuit avec de la publicit\u00e9",
         "link": "https://www.frandroid.com/culture-tech/2428986_chatgpt-vers-un-modele-gratuit-avec-de-la-publicite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=da4d1169",
         "date": "Tue, 03 Dec 2024 23:00:00 GMT",
@@ -189,10 +189,24 @@
         "check": "yes"
     },
     {
-        "title": "Pixel 9 : une nouvelle fonctionnalité pourrait transformer vos appels en listes de tâches",
+        "title": "Pixel 9 : une nouvelle fonctionnalit\u00e9 pourrait transformer vos appels en listes de t\u00e2ches",
         "link": "https://www.frandroid.com/marques/google/2431018_pixel-9-une-nouvelle-fonctionnalite-pourrait-transformer-vos-appels-en-listes-de-taches",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/madebygoogle-24-everyday-ai-help-2-46-screenshot-768x432.jpg?resize=169,169&key=834b646e",
         "date": "Wed, 04 Dec 2024 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davidteich/2024/12/05/the-singularity-is-nearsighted-a-book-review/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y9,safe&width=440",
+        "date": "Thu, 05 Dec 2024 17:31:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/05/is-your-business-asking-the-right-questions-about-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6729009017ff0b80c6a5da11/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 05 Dec 2024 15:00:00 GMT",
+        "check": "no"
     }
 ]
