@@ -21,6 +21,13 @@
         "date": "Fri, 06 Dec 2024 06:00:00 GMT"
     },
     {
+        "title": "Microsoft Copilot Vision",
+        "link": "https://www.frandroid.com/marques/microsoft/2432426_grace-a-copilot-vision-microsoft-vous-aidera-a-tricher-dans-geoguessr",
+        "body": "Microsoft a présenté Copilot Vision, une nouvelle fonctionnalité IA pour son navigateur Edge. Copilot Vision propose une navigation web assistée par IA, avec un accès au contexte de navigation de l'utilisateur. Il peut répondre aux questions et aider dans les recherches, mais les exemples de Microsoft semblent montrer des cas d'utilisation limités. Copilot Vision sera désactivé par défaut et les données partagées seront effacées après chaque session. L'outil sera d'abord disponible pour les abonnés payants de Copilot Pro via Copilot Labs, avec un déploiement plus large prévu pour les mois à venir.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/Microsoft-Copilot-Vision-768x432.webp?resize=169,169&key=6bcf3c59",
+        "date": "Thu, 05 Dec 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'impact énergétique de l'IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2431404_une-requete-sur-chatgpt-demande-10-fois-plus-denergie-quune-recherche-sur-google-limpact-energetique-de-lia-au-coeur-des-debats",
         "body": "L'intégration croissante de l'IA dans divers secteurs, comme la création graphique et l'industrie musicale, soulève des inquiétudes quant à son coût écologique. L'abandon par Google de son objectif de neutralité carbone et le supercalculateur d'Elon Musk alimenté au gaz naturel soulignent la consommation énergétique croissante de l'IA. Les centres de données utilisés pour les calculs de l'IA consomment déjà 1 % de l'électricité mondiale, avec des impacts locaux significatifs. L'Agence internationale de l'énergie (AIE) se réunit à Paris pour discuter de ces enjeux avec des professionnels et des décideurs politiques, soulignant le manque de données détaillées sur les infrastructures et la consommation de l'IA. L'ONU propose une coopération internationale pour encadrer l'IA et éviter les déséquilibres démocratiques. L'article mentionne également l'impact énergétique de ChatGPT, avec une seule requête consommant 10 fois plus d'énergie qu'une recherche Google.",
@@ -40,6 +47,13 @@
         "body": "Dell Technologies opère une transformation significative, passant d'une simple entreprise de matériel informatique à un fournisseur complet de solutions d'IA. L'entreprise a considérablement amélioré ses offres en matière d'IA au cours des deux dernières années, en approfondissant ses relations avec des entreprises comme Nvidia et en s'associant à Meta. Dell a récemment dévoilé de nouvelles infrastructures, services et partenariats axés sur l'IA, mettant en avant la simplicité d'adoption, l'évolutivité et la durabilité. L'entreprise a élargi sa gamme de serveurs PowerEdge pour gérer les charges de travail exigeantes en matière d'IA et de HPC, y compris les tâches de génération d'IA. Dell a également amélioré ses offres de données et de cloud axées sur l'IA, simplifiant ainsi la gestion et l'analyse des données pour les entreprises. De plus, l'entreprise a annoncé des collaborations stratégiques, notamment avec Nvidia et Meta, et a introduit des conceptions validées open source pour rationaliser le développement d'applications d'IA. Dell s'attaque aux obstacles courants à l'adoption de l'IA, tels que les lacunes en matière de compétences et les défis liés aux données, grâce à des services professionnels sur mesure. Les derniers résultats financiers de Dell montrent que ses initiatives en matière d'IA ont un impact positif sur ses résultats, avec des ventes importantes de serveurs d'IA et une forte demande de la part des entreprises.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/646ce45fa0ff202143467d31/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 05 Dec 2024 22:00:00 GMT"
+    },
+    {
+        "title": "L'essor des chatbots basés sur l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur des modèles linguistiques volumineux (LLM) plus accessibles au grand public. ChatGPT d'OpenAI compte désormais plus de 300 millions d'utilisateurs par semaine, et Google prévoit que son moteur de recherche « évoluera de manière profonde » en 2025 grâce à l'IA. Google Gemini, un chatbot basé sur l'IA, peut désormais « se souvenir » des intérêts et des préférences des utilisateurs, tandis que Google prévoit de présenter un aperçu de son propre modèle d'action important, « Project Jarvis », en décembre. OpenAI prévoit également de lancer son prochain modèle de pointe, Orion, en décembre, en accordant d'abord l'accès aux entreprises partenaires. Ces développements soulignent l'importance croissante des applications d'IA dans divers secteurs, notamment la santé, la musique et les systèmes d'exploitation pour agents IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Thu, 05 Dec 2024 21:01:45 GMT"
     },
     {
         "title": "La transformation numérique du secteur juridique avec l'IA",
@@ -63,11 +77,46 @@
         "date": "Thu, 05 Dec 2024 19:00:00 GMT"
     },
     {
+        "title": "OpenAI's Ship-mas",
+        "link": "https://www.theverge.com/24314146/openai-12-days-ship-mas-chatgpt-sora-o1-update",
+        "body": "OpenAI a lancé ses 12 jours de \"ship-mas\", durant lesquels l'entreprise dévoilera de nouvelles fonctionnalités, produits et démonstrations. Parmi les annonces, on retrouve la sortie de son modèle de raisonnement OpenAI o1, une nouvelle offre d'abonnement ChatGPT Pro à 200 $, et le lancement imminent de Sora, son outil de génération de vidéos à partir de texte. Le CEO d'OpenAI, Sam Altman, a révélé que ChatGPT compte désormais plus de 300 millions d'utilisateurs hebdomadaires, et que la plateforme reçoit plus d'un milliard de messages par jour. La période \"ship-mas\" d'OpenAI promet de nombreuses nouveautés, avec un lancement ou une démonstration chaque jour pendant 12 jours.",
+        "image": "",
+        "date": "Thu, 05 Dec 2024 18:21:22 GMT"
+    },
+    {
+        "title": "Les limites de l'IA dans la vérification des faits historiques",
+        "link": "https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire",
+        "body": "L'article met en lumière les limites des outils d'IA, tels que ChatGPT, dans la vérification de faits historiques ou d'informations spécifiques. Bien que ces outils puissent fournir des réponses rapides et détaillées, leur exactitude est parfois remise en question. L'auteur, Elizabeth Lopatto, partage son expérience en utilisant ChatGPT pour rechercher des informations sur les présidents américains qui ont gracié des membres de leur famille. Les réponses de ChatGPT se sont avérées en partie incorrectes, ce qui a incité l'auteur à effectuer une vérification manuelle des faits. L'article souligne l'importance de la vérification des sources et des faits, et suggère que les outils d'IA actuels peuvent fournir des informations erronées, en particulier sur des sujets historiques ou moins courants. L'article critique également la conception des moteurs de réponse, qui fournissent simplement une réponse sans indiquer clairement la source, ce qui peut conduire les utilisateurs à accepter les informations sans vérification supplémentaire.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25775124/247424_Stop_Using_Chat_GPT_as_a_Search_Engine_CVirginia.jpg",
+        "date": "Thu, 05 Dec 2024 18:01:46 GMT"
+    },
+    {
+        "title": "ChatGPT Pro",
+        "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
+        "body": "OpenAI lance un nouveau niveau d'abonnement mensuel à 200 $, ChatGPT Pro, offrant un accès illimité à ses modèles d'IA de pointe, dont o1, GPT-4o et Advanced Voice. Le modèle o1, exclusif à Pro, fournit des réponses plus précises et concises grâce à une puissance de calcul accrue. L'entreprise a également publié la version complète de son modèle o1, offrant des performances améliorées en codage, mathématiques et traitement des images. ChatGPT Pro Grant Program soutient les chercheurs médicaux avec un accès gratuit à ChatGPT Pro, avec des plans pour étendre à d'autres disciplines. OpenAI prévoit également d'ajouter la navigation web, le téléchargement de fichiers et plus à ChatGPT, améliorant ainsi son utilité pour les utilisateurs professionnels.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1820x1213/2400x1600/filters:focal(910x607:911x608):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+        "date": "Thu, 05 Dec 2024 18:00:04 GMT"
+    },
+    {
         "title": "La singularité n'est pas proche",
         "link": "https://www.forbes.com/sites/davidteich/2024/12/05/the-singularity-is-nearsighted-a-book-review/?ss=ai",
         "body": "Une critique du dernier livre de Ray Kurzweil, \"The Singularity is Nearer\", qui met en évidence son manque de considération pour l'impact de l'IA sur la société et l'environnement. L'auteur du texte s'attendait à ce que le livre discute du coût monétaire et environnemental des progrès de l'informatique, ainsi que des questions d'accessibilité et de réglementation. Au lieu de cela, Kurzweil présente une vision optimiste de la réduction de l'extrême pauvreté sans aborder les problèmes de pollution, d'inégalités de richesse et de mobilité sociale. Le livre ignore également la distinction entre la révolution industrielle et la révolution de l'IA, omettant le fait que l'IA a pour but de remplacer les travailleurs, qualifiés ou non. La discussion sur la productivité ne tient pas compte de l'impact de l'augmentation de la puissance informatique sur l'emploi. Le chapitre sur les biotechnologies et les soins de santé est intéressant, mais manque également d'une analyse critique de l'accessibilité des avancées technologiques. Le livre est considéré comme un argument de vente pour un public sélectionné, manquant de profondeur et de considération pour les implications pratiques de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y9,safe&width=440",
         "date": "Thu, 05 Dec 2024 17:31:00 GMT"
+    },
+    {
+        "title": "Copilot Vision de Microsoft",
+        "link": "https://www.theverge.com/2024/12/5/24313888/microsoft-copilot-vision-testing-websites",
+        "body": "Microsoft lance les tests de sa nouvelle fonctionnalité Copilot Vision, qui permet à l'assistant IA de l'entreprise de voir et d'interagir avec le contenu que l'utilisateur visualise sur une page web Edge. Les utilisateurs peuvent activer Copilot Vision pour obtenir de l'aide ou poser des questions sur le texte, les images et le contenu de la page. La fonctionnalité est entièrement optionnelle et nécessite une autorisation explicite de l'utilisateur pour accéder aux pages web. Microsoft a précédemment démontré la capacité de son assistant IA à lire et à interpréter des images, des recettes manuscrites et à offrir des recommandations de produits lors du shopping en ligne. Copilot Vision est actuellement en phase de test limitée, disponible uniquement pour les abonnés Copilot Pro via le programme Copilot Labs de Microsoft. L'entreprise prend son temps avec cette fonctionnalité en raison des préoccupations de sécurité et de confidentialité entourant l'accès de l'IA au contenu à l'écran. L'équipe Copilot souligne que la confidentialité des éditeurs, des créateurs et des utilisateurs est une priorité, et que les données ne seront pas capturées, stockées ou utilisées pour l'entraînement des modèles IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25297335/STK259_MICROSOFT_COPILOT__C.jpg",
+        "date": "Thu, 05 Dec 2024 17:00:00 GMT"
+    },
+    {
+        "title": "Le grand pari de l'IA",
+        "link": "https://www.theverge.com/2024/12/5/24313373/ai-spending-enterprise-profits-investment-menlo-ventures-openai-anthropic-decoder-podcast",
+        "body": "Bien qu'il y ait eu beaucoup d'enthousiasme et d'investissements importants dans le domaine de l'IA, les dépenses réelles en produits IA ne correspondent pas encore au niveau des investissements. OpenAI et xAI ont levé des fonds importants, et d'autres entreprises d'IA attirent également des milliards de dollars d'investissements. Cependant, selon un rapport de Menlo Ventures, les dépenses en IA n'ont atteint que 13,8 milliards de dollars en 2024, ce qui est faible par rapport aux investissements. L'épisode du podcast explore où va cet argent et ce que les entreprises achètent réellement. Il met en vedette des entretiens avec des investisseurs en IA, Tim Tully et Nathan Benaich, qui partagent leurs idées sur les tendances et l'avenir de l'IA dans les entreprises.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25774007/VRG_DCD_1205_AParkin.jpg",
+        "date": "Thu, 05 Dec 2024 15:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : un changement de paradigme pour les entreprises",
@@ -77,11 +126,32 @@
         "date": "Thu, 05 Dec 2024 15:00:00 GMT"
     },
     {
+        "title": "Twos : une approche prudente de l'IA pour une productivité améliorée",
+        "link": "https://www.theverge.com/2024/12/5/24313672/twos-app-tasks-notes-ai",
+        "body": "L'article présente Twos, une application de prise de notes et de gestion des tâches qui utilise l'IA de manière prudente et utile. L'application, développée par Parker Klein, propose des \"suggestions intelligentes\" basées sur un logique simple : elle recherche des mots et des phrases spécifiques pour déterminer l'action souhaitée par l'utilisateur, comme la recherche d'un film, l'ajout d'un contact ou la création d'une liste de courses. Ces suggestions ne sont pas parfaites, mais elles aident l'utilisateur à faire le premier pas vers l'accomplissement d'une tâche. Twos comprend également un chatbot intégré qui permet de rechercher des informations dans les notes, ce qui est particulièrement utile pour ceux qui utilisent l'application comme un journal. L'IA récompense les utilisateurs les plus actifs, en leur offrant un point de départ pour leurs tâches, plutôt qu'une solution complète. Les créateurs de Twos travaillent sur de nouvelles intégrations et fonctionnalités, mais évitent la tentation d'automatiser des tâches complexes, comme les achats ou les livraisons de courses, car cela pose des problèmes logistiques et des risques d'erreurs. L'article conclut que les meilleurs outils d'IA aident simplement les utilisateurs à se lancer, plutôt que de promettre des solutions magiques.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2400x1600/2400x1600/filters:focal(1200x800:1201x801):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25774277/TwosPals.jpg",
+        "date": "Thu, 05 Dec 2024 14:30:00 GMT"
+    },
+    {
+        "title": "OpenAI s'associe à Future pour enrichir le contenu de ChatGPT",
+        "link": "https://www.theverge.com/2024/12/5/24313909/openai-content-deal-toms-guide-future",
+        "body": "OpenAI s'est associé à Future, l'éditeur derrière Tom's Guide, PC Gamer, TechRadar et Marie Claire, entre autres. Cet accord donnera aux utilisateurs de ChatGPT accès à du contenu d'actualité et de style de vie de plus de 200 marques médiatiques de Future, tout en affichant les attributions et les liens vers les articles originaux. OpenAI a également conclu des accords de licence de contenu avec Vox Media, News Corp, Dotdash Meredith, Axel Springer, le Financial Times et The Atlantic. Cependant, certains éditeurs, dont The New York Times et The Intercept, ont poursuivi OpenAI pour violation de droits d'auteur. OpenAI a déjà lancé des chatbots IA au sein de certaines marques de Future et prévoit d'utiliser la technologie d'OpenAI pour les ventes, le marketing et les éditions. L'objectif déclaré d'OpenAI est d'aider les éditeurs et les créateurs de contenu à bénéficier de la technologie IA avancée et à élargir leur audience.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg",
+        "date": "Thu, 05 Dec 2024 13:41:33 GMT"
+    },
+    {
         "title": "L'art subtil du \"humblebrag\" avec l'IA generative",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/12/05/mastering-the-art-of-the-humblebrag-with-chatgpt-and-generative-ai/?ss=ai",
         "body": "Bien qu'il soit culturellement mal vu de se vanter ouvertement, il est possible de le faire de manière subtile et efficace grâce à l'IA generative. L'article explique comment l'IA peut aider à transformer une remarque potentiellement vantarde en une déclaration humble et modeste. L'IA peut guider l'utilisateur à travers les complexités sociales du \"humblebragging\", une combinaison d'humilité et de vantardise. L'interaction avec l'IA permet une pratique efficace et une amélioration des compétences en \"humblebragging\". L'article fournit également des conseils sur l'utilisation de l'IA pour générer des \"humblebrags\" efficaces, en soulignant l'importance de la critique et de la personnalisation des réponses de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6700b0ea4f6eff1a9c10a0c3/0x0.jpg?format=jpg&crop=1536,1151,x141,y0,safe&width=440",
         "date": "Thu, 05 Dec 2024 09:00:00 GMT"
+    },
+    {
+        "title": "La course aux agents IA s'intensifie",
+        "link": "https://www.theverge.com/2024/12/4/24313582/humane-ai-pin-cosmos-phone-car-smart-speaker",
+        "body": "Humane, la société derrière l'épingle AI peu performante, veut désormais que d'autres entreprises construisent des appareils et gadgets IA utilisant son système d'exploitation CosmOS. Bien qu'il s'agisse d'une vidéo marketing, Humane a montré des prototypes fonctionnels et des expériences simulées d'interactions avec CosmOS dans une voiture, une télévision, un haut-parleur intelligent et un téléphone. Les exemples incluent des commandes vocales pour ajuster la chaleur à la maison, trouver une recette, et répondre à des questions sur un email. Bien que ces cas d'utilisation ne soient pas nouveaux, Humane veut démontrer les capacités de CosmOS en tant que colonne vertébrale pour les appareils IA. Le SDK de CosmOS n'est pas encore public, mais l'entreprise recherche des partenaires pour construire des appareils basés sur son système d'exploitation. Cette nouvelle direction stratégique pourrait être une tentative de Humane de se relancer après les ventes décevantes de son épingle AI.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:3840x2880/2400x1600/filters:focal(1920x1440:1921x1441):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25774104/8e3eec7bc75f88a1f31bc1578597a51249363207_10000x7500.jpg",
+        "date": "Thu, 05 Dec 2024 00:09:08 GMT"
     },
     {
         "title": "Google Gemini",
@@ -236,19 +306,5 @@
         "body": "Pour se démarquer sur LinkedIn, il est essentiel de publier du contenu stratégique et engageant. Les publications doivent suivre certains modèles pour obtenir de l'attention, notamment en commençant par une déclaration controversée ou une vérité surprenante. Les statistiques de LinkedIn recherchent du contenu authentique et des conseils pratiques. Partagez vos expériences uniques, comme le développement de votre entreprise ou les leçons tirées de lancements de produits ratés. Analysez les publications populaires et créez un système pour générer des idées. Utilisez des crochets et des reformulations percutants pour capter l'attention et éviter le défilement. Fournissez des étapes précises et des modèles qui fonctionnent réellement, positionnant ainsi l'auteur en tant qu'expert. Encouragez les commentaires en posant des questions engageantes et en créant un espace sûr pour l'interaction. Publiez du contenu de qualité, suivez ce qui fonctionne et soyez cohérent pour développer votre influence.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674e6d333585aeab85743072/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 04 Dec 2024 13:00:00 GMT"
-    },
-    {
-        "title": "L'impact économique de l'IA sur l'industrie musicale",
-        "link": "https://www.forbes.com/sites/emmawoollacott/2024/12/04/music-creators-set-to-lose-quarter-of-income-thanks-to-generative-ai/?ss=ai",
-        "body": "Une nouvelle étude mondiale révèle que l'IA générative dans le domaine musical et audiovisuel pourrait coûter des milliards de dollars aux créateurs, alors que le marché de l'IA générative devrait passer de 3 milliards d'euros à 64 milliards d'euros d'ici 2028. L'étude, commandée par la CISAC, souligne l'appropriation injuste et non éthique des œuvres des créateurs par les entreprises d'IA, qui risque d'entraîner une perte de revenus de 24 % pour les musiciens et de 21 % pour les créateurs de contenu audiovisuel. Les traducteurs et adaptateurs pour le doublage et le sous-titrage seront les plus touchés, avec 56 % de leurs revenus en danger. La CISAC souligne l'importance de protéger les droits des créateurs et salue les efforts de l'UE, de l'Australie et de la Nouvelle-Zélande en matière de réglementation de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67504c7296e285f6aca190b6/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 04 Dec 2024 12:00:00 GMT"
-    },
-    {
-        "title": "Veo, la nouvelle technologie vidéo d'IA de Google, est lancée",
-        "link": "https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview",
-        "body": "Google a lancé Veo, son dernier modèle vidéo d'IA générative, pour une utilisation commerciale. Veo peut générer des vidéos en résolution 1080p de haute qualité dans divers styles visuels et cinématographiques à partir de textes ou d'images. Le modèle comprend des protections intégrées pour prévenir la création de contenus nuisibles et le non-respect des droits d'auteur, ainsi que la technologie SynthID de DeepMind pour une identification numérique invisible. La dernière version d'Imagen 3, le générateur de texte-à-image de Google, sera également disponible pour les clients Google Cloud via Vertex. OpenAI, avec son produit concurrent Sora, est maintenant sous pression pour lancer avant la fin de 2024, alors que les entreprises adoptent rapidement l'IA générative, comme en témoigne la récente campagne publicitaire de Coca-Cola.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2250x1500/2400x1600/filters:focal(1125x750:1126x751):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25773000/Google_Veo_AI_example.png",
-        "date": "Wed, 04 Dec 2024 11:30:24 GMT"
     }
 ]
