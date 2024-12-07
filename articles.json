@@ -49,14 +49,14 @@
         "check": "yes"
     },
     {
-        "title": "« Une requête sur ChatGPT demande 10 fois plus d’énergie qu’une recherche sur Google » : l’impact énergétique de l’IA au cœur des débats",
+        "title": "\u00ab Une requ\u00eate sur ChatGPT demande 10 fois plus d\u2019\u00e9nergie qu\u2019une recherche sur Google \u00bb : l\u2019impact \u00e9nerg\u00e9tique de l\u2019IA au c\u0153ur des d\u00e9bats",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2431404_une-requete-sur-chatgpt-demande-10-fois-plus-denergie-quune-recherche-sur-google-limpact-energetique-de-lia-au-coeur-des-debats",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/bilan-carbone-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=cbb606a1",
         "date": "Thu, 05 Dec 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "À quoi sert l’abonnement ChatGPT Pro à 200 € par mois ?",
+        "title": "\u00c0 quoi sert l\u2019abonnement ChatGPT Pro \u00e0 200 \u20ac par mois ?",
         "link": "https://www.frandroid.com/culture-tech/2432112_a-quoi-sert-labonnement-chatgpt-pro-a-200-e-par-mois",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=aa53badd",
         "date": "Thu, 05 Dec 2024 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Le nouveau modèle de ChatGPT peut mentir à ses utilisateurs",
+        "title": "Le nouveau mod\u00e8le de ChatGPT peut mentir \u00e0 ses utilisateurs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2432924_le-nouveau-modele-de-chatgpt-peut-mentir-a-ses-utilisateurs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/ilgmyzin-agfmimwypso-unsplash-1200x675-2-768x432.jpg?resize=169,169&key=7e3ad987",
         "date": "Thu, 05 Dec 2024 23:00:00 GMT",
@@ -215,5 +215,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6752853f331821898a9a990e/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 06 Dec 2024 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24201441/ai-terminology-explained-humans",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535281/247181_AI_Explainer_LEDE_HHerrera.jpg",
+        "date": "Fri, 06 Dec 2024 14:53:46 GMT",
+        "check": "no"
     }
 ]
