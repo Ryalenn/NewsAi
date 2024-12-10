@@ -1,10 +1,24 @@
 [
     {
+        "title": "Réinventer les RH",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/12/10/essential-hr-and-recruitment-trends-for-2025/?ss=ai",
+        "body": "L'article explore les tendances transformatrices en matière de ressources humaines, façonnant les environnements de travail en 2025. Il met en lumière le rôle crucial de l'IA dans l'évolution des pratiques de recrutement et d'expérience employé. Les outils d'IA automatisent la création de descriptions de poste, la sélection de CV et l'évaluation de l'adéquation culturelle, améliorant ainsi l'efficacité et la précision du recrutement. De plus, l'IA et l'analytique prédictive permettent de personnaliser les parcours de carrière, les avantages et les retours de performance, augmentant ainsi la fidélité, l'engagement et la productivité des employés. Les spécialistes des RH et du recrutement doivent anticiper les lacunes en compétences, innover dans les stratégies d'embauche et promouvoir la formation continue pour répondre aux exigences de la transformation numérique. Avec l'essor du travail à distance et hybride, les RH doivent également repenser le bien-être des employés, abordant des enjeux comme l'isolement et l'équilibre entre vie professionnelle et vie privée. La convergence de l'IA et des capacités humaines est un défi clé, les professionnels des RH étant chargés d'assurer une transition harmonieuse vers des effectifs augmentés par l'IA, en gérant les inquiétudes concernant le déplacement des emplois et en formant les employés à travailler efficacement avec l'IA. L'immersion de la réalité virtuelle et augmentée révolutionne l'intégration et la formation des employés, améliorant la rétention des connaissances et connectant les employés à distance à la culture de l'entreprise. Enfin, les considérations éthiques occupent une place centrale, les équipes RH devant aborder la collecte et le stockage des données des employés, ainsi que la transparence et la responsabilité dans la prise de décision basée sur l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6757e1e2a1caaba72df9c33c/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 06:00:00 GMT"
+    },
+    {
         "title": "Quantum Leap",
         "link": "https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough",
         "body": "Google a réalisé une avancée significative dans l'informatique quantique avec sa nouvelle puce, Willow, capable d'effectuer en moins de cinq minutes un calcul qui prendrait à l'un des superordinateurs les plus rapides du monde plus de 10 septillions d'années. Cette réussite surpasse les réalisations précédentes de Google en 2019 et réduit également les erreurs, un problème majeur dans l'informatique quantique. Les chercheurs de Google ont découvert que l'ajout de qubits supplémentaires à un système permettait de corriger les erreurs en temps réel. La technologie quantique, selon Google, sera indispensable pour la collecte de données d'entraînement en IA, accélérant ainsi la découverte de nouveaux médicaments, la conception de batteries plus efficaces et la recherche sur la fusion et les nouvelles sources d'énergie. Les concurrents comme Microsoft, Amazon et IBM développent également leurs propres systèmes d'informatique quantique.",
         "image": "",
         "date": "Mon, 09 Dec 2024 23:05:54 GMT"
+    },
+    {
+        "title": "Reddit Answers : la nouvelle fonctionnalité de recherche de Reddit",
+        "link": "https://www.frandroid.com/produits-android/2435454_reddit-lance-un-nouvel-outil-pour-ne-plus-utiliser-google",
+        "body": "Reddit lance un nouvel outil d'IA, Reddit Answers, qui permet aux utilisateurs d'obtenir des réponses directes à leurs questions sans passer par Google. L'outil fournit des résumés organisés et des détails pertinents issus des conversations sur Reddit, ainsi que des liens vers des publications et des communautés spécifiques. Les premiers retours sont positifs, avec une interface claire et intuitive, mais des doutes subsistent quant à la fiabilité de la fonctionnalité de résumé automatique. L'outil n'est actuellement disponible que pour un nombre limité d'utilisateurs aux États-Unis et en anglais, mais Reddit prévoit de l'étendre à d'autres pays et langues à l'avenir.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/07/reddit-logo-630x336.jpg?resize=300,300&key=1a12d905",
+        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
     },
     {
         "title": "Designs sur l'IA",
@@ -166,12 +180,5 @@
         "body": "Le propriétaire du *Los Angeles Times* souhaite introduire un outil de détection de biais basé sur l'IA pour améliorer la séparation entre les informations et les opinions, et ainsi regagner la confiance des lecteurs. Cette initiative s'inscrit dans une tendance \"solutionniste\", qui propose des réponses technologiques à des problèmes sociétaux complexes. Cependant, la technologie, et en particulier les médias sociaux, est souvent accusée d'amplifier la méfiance dans la société et envers les médias traditionnels. De plus, l'utilisation de l'IA dans le journalisme est vue avec scepticisme par le public, qui doute de sa capacité à fournir des informations fiables et impartiales. L'article soulève également des questions importantes sur la transparence et l'impartialité des outils d'IA, qui peuvent être influencés par la qualité des données et les hypothèses des algorithmes. Malgré de bonnes intentions, ces outils pourraient donner une fausse impression d'impartialité tout en cachant leurs propres biais.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6755c2031967632f22649a47/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 08 Dec 2024 16:00:00 GMT"
-    },
-    {
-        "title": "La nature de l'interaction humain-IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/08/sam-altman-reveals-this-prior-flaw-in-openai-advanced-ai-o1-during-chatgpt-pro-announcement-but-nobody-seemed-to-widely-notice/?ss=ai",
-        "body": "Le texte met en lumière une anomalie dans le modèle d'IA avancé o1 d'OpenAI, où les réponses aux prompts simples et complexes prenaient le même temps, ce qui est inhabituel. Cette anomalie, désormais corrigée, soulève des questions importantes sur l'état actuel de l'IA et la poursuite de l'intelligence artificielle générale (AGI). L'auteur explore les raisons possibles de cette anomalie, suggérant qu'elle pourrait être due à une décision de conception visant à uniformiser les temps de réponse ou à un processus de traitement complexe que l'IA applique à tous les prompts. Il souligne l'importance de l'évaluation des prompts pour garantir des réponses rapides aux prompts simples et éviter les faux positifs et négatifs. Enfin, l'auteur suggère que la capacité d'auto-réflexion et d'auto-ajustement est essentielle pour atteindre l'AGI, ce qui remet en question l'idée que nous sommes proches de la réalisation de l'AGI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6755243449475d7bea1675c7/0x0.jpg?format=jpg&crop=2026,1519,x255,y0,safe&width=440",
-        "date": "Sun, 08 Dec 2024 08:00:00 GMT"
     }
 ]
