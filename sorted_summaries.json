@@ -1,5 +1,26 @@
 [
     {
+        "title": "La Géopolitique de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/10/the-push-and-pull-of-sino-american-chip-politics/?ss=ai",
+        "body": "La course à l'innovation en matière d'IA entre les États-Unis et la Chine a des implications géopolitiques complexes, avec des enjeux de protectionnisme commercial et de sécurité nationale. L'article explore les tensions croissantes entre les deux superpuissances, notamment les sanctions et les restrictions commerciales sur les puces, ainsi que les réponses de la Chine. Nvidia est au centre de ces tensions, avec son acquisition de Mellanox et sa relation client avec ByteDance (propriétaire de TikTok). La demande chinoise pour les technologies de Nvidia et son rôle dans les projets d'IA à grande échelle sont également soulignés. Enfin, l'article met en évidence l'importance du matériel dans le développement de l'IA, avec des projets colossaux en cours aux États-Unis et en Europe, et la nouvelle technologie de puce Blackwell de Nvidia.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67587ef9d4fe0e5b49a90756/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 17:49:00 GMT"
+    },
+    {
+        "title": "Catastrophe naturelle et intelligence artificielle",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/12/10/3-ai-tools-that-can-help-before-disaster-strikes/?ss=ai",
+        "body": "L'intelligence artificielle (IA) peut être un outil précieux pour la planification et la préparation en cas de catastrophe naturelle. En effet, l'IA est capable d'analyser de grandes quantités de données, notamment des lectures de capteurs en temps réel, des données météorologiques historiques, des données d'ingénierie structurelle et des images satellite, pour prédire où et quand une crise peut survenir. Ces prédictions permettent aux communautés, aux entreprises et aux intervenants d'urgence de concentrer leurs ressources et de développer de meilleurs plans d'évacuation. De plus, l'IA peut améliorer la prise de décision pendant une crise, en aidant à identifier les routes de secours sûres, à estimer les dommages potentiels aux infrastructures et à prioriser la distribution des ressources. Des outils comme Zesty.ai et Preppr.ai utilisent des algorithmes d'apprentissage automatique pour évaluer les risques au niveau des propriétés et planifier les évacuations, tandis que DisasterAWARE aide les agences gouvernementales et les gestionnaires de crise à visualiser et à atténuer les risques. L'IA simplifie la planification des catastrophes, offrant des recommandations personnalisées et des exercices de formation adaptés aux besoins spécifiques des communautés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758428fb549c17b389a9cee/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Laude Ventures lève 150 millions de dollars",
+        "link": "https://www.forbes.com/sites/alexkonrad/2024/12/10/laude-ventures-databricks-perplexity-new-fund/?ss=ai",
+        "body": "Laude Ventures, un nouveau fonds de capital-risque axé sur les startups de la phase pré-amorçage et amorçage, a été fondé par Pete Sonsini, Andy Krioukov et Andy Konwinski. Le fonds, d'un montant de 150 millions de dollars, vise à investir dans environ 25 entreprises, en mettant l'accent sur celles issues de la recherche technique et fondées par des entrepreneurs techniquement doués. Laude Ventures espère trouver \"10 autres\" opportunités de 100 milliards de dollars comme Databricks et Perplexity AI. Laude a déjà investi dans Perplexity, une startup de moteur de recherche basée sur l'IA, et a réalisé des profits sur papier de plusieurs multiples de son investissement initial. Le fonds tire parti des réseaux des partenaires au sein de l'UC Berkeley, où Konwinski et Krioukov sont des anciens élèves, ainsi que de leurs expériences dans des startups à succès telles que Databricks, Comfy et Anyscale. Laude Ventures vise à investir dans des startups liées à l'IA, notamment dans les domaines de l'infrastructure, de l'analyse de données et de la virtualisation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67585f91d807aed74c593af2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 15:00:00 GMT"
+    },
+    {
         "title": "Aampe lève 18 millions de dollars pour sa technologie d'application d'IA personnalisée",
         "link": "https://www.forbes.com/sites/davidprosser/2024/12/10/aampe-raises-18-million-to-scale-personalisation-with-agentic-ai/?ss=ai",
         "body": "Résumé : Aampe, une startup spécialisée dans la personnalisation des applications grâce à l'IA, a levé 18 millions de dollars lors d'un financement de série A, 14 mois seulement après un précédent tour de table. La société a déjà libéré 100 millions d'agents IA pour personnaliser les applications de ses clients. La technologie d'Aampe permet aux entreprises de proposer des applications hautement personnalisées, adaptant le contenu, la structure et le design en fonction des interactions des utilisateurs. Cette approche, appelée « agentic AI », permet à chaque utilisateur de bénéficier d'une expérience unique et sur-mesure. La société compte déjà des clients en Amérique du Nord, en Europe, en Asie et en Afrique, et prévoit d'utiliser les fonds levés pour recruter et développer davantage sa technologie. Les investisseurs sont enthousiastes quant au potentiel de l'agentic AI, avec plusieurs startups du secteur levant des fonds importants ces derniers mois.",
@@ -47,6 +68,13 @@
         "body": "Google a réalisé une avancée significative dans l'informatique quantique avec sa nouvelle puce, Willow, capable d'effectuer en moins de cinq minutes un calcul qui prendrait à l'un des superordinateurs les plus rapides du monde plus de 10 septillions d'années. Cette réussite surpasse les réalisations précédentes de Google en 2019 et réduit également les erreurs, un problème majeur dans l'informatique quantique. Les chercheurs de Google ont découvert que l'ajout de qubits supplémentaires à un système permettait de corriger les erreurs en temps réel. La technologie quantique, selon Google, sera indispensable pour la collecte de données d'entraînement en IA, accélérant ainsi la découverte de nouveaux médicaments, la conception de batteries plus efficaces et la recherche sur la fusion et les nouvelles sources d'énergie. Les concurrents comme Microsoft, Amazon et IBM développent également leurs propres systèmes d'informatique quantique.",
         "image": "",
         "date": "Mon, 09 Dec 2024 23:05:54 GMT"
+    },
+    {
+        "title": "Les lunettes connectées, nouvelle frontière de l'IA ?",
+        "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2436524_ces-lunettes-connectees-se-veulent-trois-fois-plus-intelligentes-que-celles-de-meta-mais-tout-aussi-jolies",
+        "body": "Les lunettes connectées avec intelligence artificielle intégrée semblent être la prochaine grande tendance. Après les Ray-Ban Meta, Solos lance ses propres lunettes, les AirGo Vision, équipées de caméras et capables d'analyser l'environnement, de traduire en temps réel, de donner des itinéraires et des prévisions météorologiques. Les interactions se font vocalement, avec un microphone et des haut-parleurs intégrés. La monture est personnalisable, et les branches, qui contiennent la technologie, peuvent être fixées à une monture classique. Les lunettes sont déjà disponibles en précommande en France à 289,90 euros.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/airgo-vision-1200x799-1-768x511.jpg?resize=200,200&key=217cca33",
+        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
     },
     {
         "title": "Google Gemini s'ouvre aux applications Samsung",
@@ -215,19 +243,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66379e364b987427efdbf24c/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 08 Dec 2024 19:00:00 GMT"
-    },
-    {
-        "title": "Révolution de l'IA incarnée",
-        "link": "https://www.forbes.com/sites/geruiwang/2024/12/08/why-embodied-intelligence-is-the-next-frontier-of-ai/?ss=ai",
-        "body": "World Labs, une startup de l'intelligence incarnée fondée par Fei-Fei Li, présente un générateur de mondes 3D qui change la donne pour le traitement et l'utilisation des informations spatiales par l'IA. Cet outil peut créer des environnements 3D complexes à partir d'une entrée minimale, comme une seule image 2D. Les applications potentielles couvrent un large éventail de secteurs, de la création de jeux vidéo, d'animations et de films à la robotique. La technologie permet aux robots de comprendre, de prédire et de simuler des environnements spatiaux, ouvrant ainsi des possibilités pour l'IA dans le monde réel. Les progrès dans l'intelligence incarnée marquent une étape importante dans l'évolution de la robotique, avec un traitement des informations spatiales et temporelles, des entrées multimodales et la génération de données synthétiques pour combler les lacunes des ensembles de données de vision par ordinateur. L'IA incarnée a le potentiel de transformer l'industrie, d'améliorer la vie quotidienne et d'étendre les capacités humaines, mais soulève également des préoccupations éthiques en matière de confidentialité, de sécurité et d'impact sociétal. Un équilibre entre innovation et réglementation est nécessaire pour gérer ces risques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6754fb3ff3163cff1640fa4c/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 08 Dec 2024 17:00:00 GMT"
-    },
-    {
-        "title": "La technologie au service de la confiance ?",
-        "link": "https://www.forbes.com/sites/federicoguerrini/2024/12/08/can-ai-really-fix-media-bias-los-angeles-times-owners-controversial-plan/?ss=ai",
-        "body": "Le propriétaire du *Los Angeles Times* souhaite introduire un outil de détection de biais basé sur l'IA pour améliorer la séparation entre les informations et les opinions, et ainsi regagner la confiance des lecteurs. Cette initiative s'inscrit dans une tendance \"solutionniste\", qui propose des réponses technologiques à des problèmes sociétaux complexes. Cependant, la technologie, et en particulier les médias sociaux, est souvent accusée d'amplifier la méfiance dans la société et envers les médias traditionnels. De plus, l'utilisation de l'IA dans le journalisme est vue avec scepticisme par le public, qui doute de sa capacité à fournir des informations fiables et impartiales. L'article soulève également des questions importantes sur la transparence et l'impartialité des outils d'IA, qui peuvent être influencés par la qualité des données et les hypothèses des algorithmes. Malgré de bonnes intentions, ces outils pourraient donner une fausse impression d'impartialité tout en cachant leurs propres biais.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6755c2031967632f22649a47/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 08 Dec 2024 16:00:00 GMT"
     }
 ]
