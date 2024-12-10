@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'avenir de l'IA est dans les données",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2024/12/10/understanding-enterprise-ai-readiness-its-all-about-data/?ss=ai",
+        "body": "Résumé : \n\nL'IA devient un élément critique des opérations commerciales, mais les équipes informatiques rencontrent des difficultés. NetApp a publié le « Rapport sur la complexité du cloud 2024 », qui fournit des informations sur la manière dont les organisations gèrent les défis liés à l'IA, soulignant que l'IA nécessite une réflexion différente sur les données. Le rapport de NetApp, axé sur la complexité de la gestion des données et la préparation à l'IA, offre des insights précieux pour les entreprises naviguant dans leur parcours IA. Les entreprises qui abordent la préparation à l'IA à travers le prisme de la stratégie de données sont mieux équipées pour débloquer de la valeur et atteindre leurs objectifs. Cette évolution reflète une reconnaissance plus large du fait qu'une stratégie de données n'est pas statique. Les entreprises considèrent de plus en plus les données comme un actif stratégique, nécessitant un cadre qui prend en charge les environnements dynamiques, des systèmes sur site aux opérations basées sur le cloud. L'établissement d'une approche unifiée de la gestion des données émerge comme une étape fondamentale pour l'intégration de l'IA. Le rapport identifie plusieurs défis clés auxquels sont confrontées les entreprises, notamment la gestion de la complexité des données, la sécurité et la confidentialité, et l'intégration de pratiques durables. Malgré ces défis, les entreprises qui accordent la priorité à leurs stratégies de données font des progrès prometteurs. En adoptant une approche unifiée de la gestion des données, elles sont mieux positionnées pour soutenir les opérations d'IA. Les organisations investissent également dans des cadres stratégiques intégrant la durabilité, la sécurité et l'adaptabilité. En intégrant ces considérations à leur planification, les entreprises peuvent répondre aux besoins immédiats en matière d'IA tout en se préparant aux demandes futures. Le rapport conclut que 2025 sera une année pivot pour l'IA dans l'entreprise, et les entreprises qui accordent la priorité à l'unification de leurs données et à l'intégration de pratiques durables seront mieux positionnées pour tirer parti du plein potentiel de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758a841f360e4784f424dc4/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 21:19:00 GMT"
+    },
+    {
+        "title": "Prosocial AI for Global Progress",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/12/10/can-we-harness-ai-to-fulfill-the--promise-of-universal-human-rights/?ss=ai",
+        "body": "L'IA générative peut-elle aider à réduire les inégalités et à promouvoir les droits humains ? Cet article explore le rôle potentiel de l'IA pour résoudre des problèmes complexes tels que la pauvreté, l'accès à l'éducation et aux soins de santé, et la protection des droits humains. Des plateformes comme Khan Academy utilisent l'IA pour offrir un enseignement personnalisé, tandis que des outils d'IA améliorent les diagnostics médicaux et la découverte de médicaments. L'IA permet également de surveiller les droits humains dans les zones de conflit et d'étendre les services financiers aux communautés mal desservies. Pour exploiter pleinement ces avantages, il faut améliorer l'accès à Internet et adopter une approche éthique et inclusive du développement de l'IA, en veillant à éliminer les biais et à promouvoir l'équité. L'IA prosociale, axée sur le bien-être social, la durabilité environnementale et l'équité mondiale, offre une voie prometteuse pour exploiter l'IA au service du progrès humain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758a25388b1f252616f802d/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 20:24:00 GMT"
+    },
+    {
         "title": "La Géopolitique de l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2024/12/10/the-push-and-pull-of-sino-american-chip-politics/?ss=ai",
         "body": "La course à l'innovation en matière d'IA entre les États-Unis et la Chine a des implications géopolitiques complexes, avec des enjeux de protectionnisme commercial et de sécurité nationale. L'article explore les tensions croissantes entre les deux superpuissances, notamment les sanctions et les restrictions commerciales sur les puces, ainsi que les réponses de la Chine. Nvidia est au centre de ces tensions, avec son acquisition de Mellanox et sa relation client avec ByteDance (propriétaire de TikTok). La demande chinoise pour les technologies de Nvidia et son rôle dans les projets d'IA à grande échelle sont également soulignés. Enfin, l'article met en évidence l'importance du matériel dans le développement de l'IA, avec des projets colossaux en cours aux États-Unis et en Europe, et la nouvelle technologie de puce Blackwell de Nvidia.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67587ef9d4fe0e5b49a90756/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 10 Dec 2024 17:49:00 GMT"
+    },
+    {
+        "title": "Entrepreneurs, libérez votre temps grâce à l'IA",
+        "link": "https://www.forbes.com/sites/jodiecook/2024/12/10/5-ways-to-clone-yourself-with-ai/?ss=ai",
+        "body": "Les propriétaires d'entreprises travaillent souvent plus de 60 heures par semaine et ont peu de temps pour eux. L'IA offre une solution avec des outils qui peuvent cloner votre visage, votre voix et vos connaissances pour gérer diverses tâches pendant que vous dormez. HeyGen crée un avatar IA à partir d'un enregistrement, ElevenLabs clone votre voix, Coachvox apprend vos méthodes pour conseiller les clients, Claude écrit du contenu à votre façon, et Waybook documente vos processus d'affaires. Ces outils libèrent du temps pour se concentrer sur des tâches plus stratégiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6757fd9500eb947995ec601b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 17:00:00 GMT"
     },
     {
         "title": "Catastrophe naturelle et intelligence artificielle",
@@ -236,12 +257,5 @@
         "body": "L'article passe en revue 10 prédictions faites en 2023 sur l'évolution de l'IA en 2024, et évalue leur degré de réalisation. Il en ressort que certaines prédictions se sont avérées exactes, tandis que d'autres ont évolué différemment. Nvidia a investi massivement dans son offre DGX Cloud, se positionnant ainsi en concurrent des géants du cloud. Stability AI, malgré des difficultés et le départ de son CEO, est toujours en activité. La terminologie \"large language model\" reste largement utilisée, bien qu'Andrej Karpathy et l'article soulignent qu'elle ne reflète pas la nature générale de ces modèles. Les modèles open-source ont fait des progrès, mais o1 d'OpenAI a introduit une nouvelle approche basée sur la recherche à grande échelle, impactant profondément le domaine de l'IA. La fonction de Chief AI Officer devient de plus en plus courante. L'architecture SSM, avec Mamba en tête, s'impose comme une alternative crédible aux transformateurs. Les investissements des hyperscalers dans les startups IA sont sous la loupe des régulateurs. La relation entre OpenAI et Microsoft se tend, avec une concurrence croissante et des partenariats avec des entreprises rivales. Le prix du bitcoin a dépassé les 100 000 $, mais l'engouement pour l'IA n'a pas diminué. Enfin, la question de la violation de copyright par les modèles IA est toujours en suspens, avec de nombreux procès en cours.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674f4fb7ca0e0b2d34112dd5/0x0.jpg?format=jpg&crop=2037,1145,x3,y22,safe&width=440",
         "date": "Sun, 08 Dec 2024 22:00:00 GMT"
-    },
-    {
-        "title": "La promesse de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/12/08/mit-startup-working-on-synthetic-bioscience/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66379e364b987427efdbf24c/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 08 Dec 2024 19:00:00 GMT"
     }
 ]
