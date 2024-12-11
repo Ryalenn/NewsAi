@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "Ces lunettes connectées se veulent trois fois plus intelligentes que celles de Meta, mais tout aussi jolies",
+        "title": "Ces lunettes connect\u00e9es se veulent trois fois plus intelligentes que celles de Meta, mais tout aussi jolies",
         "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2436524_ces-lunettes-connectees-se-veulent-trois-fois-plus-intelligentes-que-celles-de-meta-mais-tout-aussi-jolies",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/airgo-vision-1200x799-1-768x511.jpg?resize=200,200&key=217cca33",
         "date": "Mon, 09 Dec 2024 23:00:00 GMT",
@@ -222,5 +222,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6757fd9500eb947995ec601b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 10 Dec 2024 17:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "OpenAI Sora est disponible pour tout le monde : fonctionnalit\u00e9s, disponibilit\u00e9 et prix",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2435018_openai-sora-est-lance-aujourdhui-et-voici-pourquoi-cest-une-des-annonces-les-plus-importantes-de-lannee",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/this-video-is-ai-generated-sora-review-6-3-screenshot-1200x600-1-768x384.jpg?resize=150,150&key=6453333e",
+        "date": "Mon, 09 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/10/sora-is-out--kind-of-capabilities-evaluated/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758d7d7c0b68b2186d3aac7/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/10/sneaky-shiftiness-on-the-boundaries-between-ai-versus-agi-and-ultimately-ai-superintelligence/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/652704208cf6521bd5398c3e/0x0.jpg?format=jpg&crop=3445,2581,x212,y0,safe&width=440",
+        "date": "Tue, 10 Dec 2024 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2024/12/10/how-proofpoint-is-redefining-cyber-threat-defense/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758c68603ab09263b7942af/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alanohnsman/2024/12/10/gm-pulls-the-plug-on-its-multibillion-dollar-cruise-robotaxi-bet/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6758b59963869df1c7d17c27/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Dec 2024 21:00:00 GMT",
+        "check": "no"
     }
 ]
