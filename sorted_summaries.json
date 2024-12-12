@@ -1,10 +1,38 @@
 [
     {
+        "title": "Améliorer l'efficacité du gouvernement avec l'IA",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2024/12/12/beyond-bureaucracy-how-ai-is-shaping-the-future-of-public-service/?ss=ai",
+        "body": "L'intelligence artificielle (IA) a le potentiel de transformer les institutions publiques en améliorant leur efficacité et leur capacité à servir les citoyens. Les agences du secteur public, y compris les gouvernements fédéraux et nationaux, ainsi que les agences gouvernementales locales, adoptent de plus en plus l'IA pour rationaliser leurs processus et fournir de meilleurs services. L'IA automatise les tâches administratives routinières, telles que le traitement des documents, la saisie de données et la gestion des dossiers, libérant ainsi les ressources pour d'autres tâches. Ces systèmes aident également à la traduction de documents, à la détection des fraudes et à l'analyse des données pour identifier les anomalies. Dans le domaine de la justice, l'IA est utilisée pour analyser les documents juridiques, gérer les cas et suggérer des lignes directrices en matière de condamnation, bien que cela soulève des défis éthiques. De plus, l'IA améliore la réponse aux urgences et aux catastrophes, analysant les données entrantes et les informations externes pour une allocation rapide des ressources. L'IA joue également un rôle crucial dans la réponse aux problèmes de santé publique, comme la pandémie de COVID-19, en aidant les agences à réagir rapidement et efficacement. En fin de compte, l'IA améliore l'efficacité du gouvernement, optimise l'utilisation des ressources et améliore la prestation de services publics.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6756ff7e147d23038addff33/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Dec 2024 09:00:00 GMT"
+    },
+    {
         "title": "Un avenir utopique ?",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/12/12/will-ai-make-universal-basic-income-inevitable/?ss=ai",
         "body": "L'article explore l'idée que l'intelligence artificielle (IA) pourrait être le catalyseur de l'introduction d'un revenu de base universel (RBU), fournissant un revenu de base à tous les citoyens indépendamment de leur situation professionnelle ou de leurs revenus. Les partisans de cette idée affirment que l'IA, en augmentant considérablement la productivité et en éliminant les tâches fastidieuses, créera un surplus de valeur qui peut être réinvesti dans des programmes sociaux tels que le RBU. L'article reconnaît que c'est une vision utopique, mais suggère que l'IA pourrait non seulement rendre le RBU nécessaire, mais aussi possible, en aidant à son administration grâce à des tâches automatisées. Cependant, il reconnaît également les incertitudes entourant l'avenir de l'IA, les défis politiques et sociétaux, ainsi que les craintes selon lesquelles le RBU pourrait réduire l'incitation au travail. En fin de compte, bien que l'idée d'une société libérée des chaînes du travail grâce à l'IA soit séduisante, la réalisation de cet avenir utopique dépend de nombreux facteurs complexes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/675a86d43d5e35c4cee6e537/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Dec 2024 06:00:00 GMT"
+    },
+    {
+        "title": "La liberté d'expression absolue d'Elon Musk ?",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2439648_on-peut-generer-nimporte-quoi-avec-grok-2-delon-musk-et-cest-un-probleme",
+        "body": "L'article met en lumière la stratégie délibérée d'Elon Musk de supprimer les garde-fous éthiques dans ses entreprises, notamment avec Grok 2, le nouveau modèle d'IA d'Aurora capable de générer des images ultra-réalistes sans restrictions. Alors que ses concurrents mettent en place des protections éthiques strictes, xAI, l'entreprise d'Elon Musk, fait le choix inverse, autorisant la création d'images de célébrités dans des situations compromettantes, l'utilisation de personnages protégés par copyright, et générant même du contenu potentiellement diffamatoire. Cette approche, déjà observée avec Twitter, favorise la propagation de fausses informations et de contenus problématiques, d'autant plus que Grok 2 est partiellement gratuit et accessible à tous. Les concurrents de Grok refusent de générer des images de personnalités publiques, mais pas Grok 2, illustrant ainsi deux visions opposées de l'IA : responsabilité et limitation des dérives contre volonté de repousser les limites sans considération pour les conséquences.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/bf8db85a-203a-49f0-8403-5d28ad792876-768x576.jpeg?resize=225,225&key=0c7de451",
+        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Gemini, le nouveau modèle linguistique de Google",
+        "link": "https://www.frandroid.com/marques/google/2439342_les-enceintes-google-nest-disent-adieu-a-google-assistant-et-bienvenue-a-gemini-enfin-presque",
+        "body": "Google met à jour son assistant vocal avec un nouveau modèle linguistique expérimental, Gemini, qui vise à offrir des réponses plus intelligentes et plus utiles. Bien que toujours en phase de test, Gemini est déjà disponible sur certains appareils connectés de Google, tels que les enceintes et écrans connectés Nest, offrant ainsi une expérience plus avancée aux utilisateurs. La mise à jour se fait via le cloud, sans nécessiter de changement d'équipement. Cependant, pour l'instant, cette fonctionnalité n'est disponible qu'en anglais et aux États-Unis pour les utilisateurs de 18 ans et plus.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/google-nest-mini-1200x690-1-768x442.jpg?resize=173,173&key=5f2e39ed",
+        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Sora, la nouvelle IA vidéo générative d'OpenAI",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2439286_on-a-teste-sora-le-nouvel-outil-dopenai-qui-fait-trembler-lindustrie-video",
+        "body": "OpenAI a lancé Sora, une IA générative vidéo, accessible avec un abonnement ChatGPT Plus ou Pro. Sora permet de créer des vidéos en décrivant simplement le contenu souhaité. L'IA excelle dans la génération de paysages et de scènes statiques avec un réalisme saisissant. Cependant, les animations complexes et les mouvements humains révèlent encore des limitations. La vitesse de génération impressionne, mais les inquiétudes persistent quant à la désinformation potentielle via les deepfakes. La technologie a un énorme potentiel, mais soulève aussi des questions éthiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/4c0nrbhqgr4-hd-1200x675-1-768x432.jpg?resize=169,169&key=ae731897",
+        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
     },
     {
         "title": "Google Gemini 2.0",
@@ -313,26 +341,5 @@
         "body": "Les emails marketing sont un outil puissant, générant en moyenne 36 dollars de revenus pour chaque dollar investi. Pour tirer parti de ce canal, voici cinq invites à utiliser avec ChatGPT pour transformer vos emails marketing en machines à générer des revenus : \n\n- Structurez vos emails avec la formule PAS (Problem, Agitation, Solution) pour accrocher les lecteurs et les inciter à agir. \n\n- Rédigez un premier jet en répondant à des questions sur votre audience cible, leurs problèmes et en positionnant stratégiquement les sections problème, agitation et solution. \n\n- Concisez votre message : éliminez les mots inutiles, allez droit au but et offrez de la valeur dès les premières lignes. \n\n- Adoptez un langage familier et miroir celui de vos clients pour établir une connexion de confiance. \n\n- Peignez un tableau précis du futur de vos prospects s'ils utilisent votre produit/service, en vous basant sur les transformations que vous offrez. \n\nAnalysez les performances passées de vos emails pour identifier les modèles de succès et suggérez des améliorations pour les campagnes futures.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/674be30ca2ae0846af198a11/0x0.jpg?format=jpg&crop=1525,858,x0,y0,safe&width=440",
         "date": "Tue, 10 Dec 2024 13:00:00 GMT"
-    },
-    {
-        "title": "Yelp's AI Innovations",
-        "link": "https://www.theverge.com/2024/12/10/24317749/yelp-ai-powered-review-insights-filters-availability",
-        "body": "Yelp introduit de nouvelles fonctionnalités d'IA pour aider les utilisateurs à découvrir de nouveaux établissements et à filtrer les avis des clients. Les « Review Insights », basés sur l'IA, fournissent un résumé rapide des sentiments des clients sur divers aspects d'une entreprise, tels que la qualité de la nourriture, le service, l'ambiance et les temps d'attente. Ces informations sont présentées sous forme de scores agrégés avec des icônes faciales montrant les sentiments positifs, neutres et critiques. Les utilisateurs peuvent cliquer sur des sujets spécifiques pour lire les avis correspondants. Yelp étend également ses fonctionnalités d'IA avec une mise à jour de son fil d'actualité, qui sera mieux adapté aux préférences des utilisateurs, et une barre de recherche avec des suggestions de tendances. Ces innovations d'IA sont actuellement disponibles sur iOS et seront étendues à d'autres catégories de services et de plateformes dans l'avenir.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783155/Yelp_AI_review_insights.jpg",
-        "date": "Tue, 10 Dec 2024 12:00:00 GMT"
-    },
-    {
-        "title": "Motiver et optimiser avec ChatGPT",
-        "link": "https://www.forbes.com/sites/aytekintank/2024/12/10/5-chatgpt-prompts-to-feel-unstoppable-at-work/?ss=ai",
-        "body": "L'auteur, PDG d'une entreprise SaaS, explique comment l'absence de retour régulier lors de l'écriture de son premier livre a été déstabilisante. En recrutant un éditeur, il a retrouvé sa motivation et sa direction. De même, les outils d'IA comme ChatGPT peuvent soutenir et motiver les professionnels dans leurs processus de travail. ChatGPT peut offrir des retours positifs et constructifs, aider à identifier les tâches automatisables, définir des objectifs clairs et réalisables, et rappeler le but global des tâches quotidiennes, augmentant ainsi le temps passé dans un état de flux. L'article fournit des invites pour utiliser ChatGPT comme coach motivant et partenaire de responsabilité numérique, aidant à rationaliser les flux de travail et à optimiser la productivité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67582d7c571a7e7123bb390b/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 10 Dec 2024 12:00:00 GMT"
-    },
-    {
-        "title": "Large Work Models",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2024/12/10/appliedai-employs-large-work-models-in-opus/?ss=ai",
-        "body": "L'article met en lumière l'évolution de l'intelligence artificielle (IA) vers le développement de « grands modèles de travail », qui visent à optimiser les flux de travail dans des cadres opérationnels complexes. AppliedAI, en partenariat avec Palantir, McKinsey & Metalab, a développé Opus, une plateforme de flux de travail d'IA générative qui augmente la productivité des travailleurs grâce à des flux de travail d'IA auditable. Opus vise à fournir des résultats d'automatisation supervisés, garantissant ainsi des processus cohérents, transparents et conformes dans les industries réglementées. La technologie s'adresse aux industries hautement réglementées, telles que la banque, les soins de santé et l'assurance, en réduisant les coûts d'exploitation et les erreurs humaines. Le modèle de grand travail d'AppliedAI, grâce à ses connaissances spécifiques au domaine, a surpassé les grands modèles linguistiques dans des tâches d'optimisation de flux de travail. Le développement de modèles d'action, de modèles spatiaux, de modèles de code et de modèles biologiques est également discuté, soulignant leur potentiel à révolutionner divers environnements de travail.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675817c990d9216cf038d24e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 10 Dec 2024 11:58:00 GMT"
     }
 ]
