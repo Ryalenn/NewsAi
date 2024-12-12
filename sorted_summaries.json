@@ -1,10 +1,31 @@
 [
     {
+        "title": "Human Flourishing Enabled by AI",
+        "link": "https://www.forbes.com/sites/corneliawalther/2024/12/11/the-case-for-salutogenic-health-a-360-solution-with-prosocial-ai/?ss=ai",
+        "body": "L'article plaide pour une approche salutogénique de la santé, mettant l'accent sur la promotion de la santé plutôt que sur le simple traitement des maladies. L'IA prosociale, axée sur le bien-être humain et planétaire, est proposée comme un outil pragmatique pour y parvenir. En abordant les dimensions physiques, mentales et sociales de la santé, l'IA prosociale peut offrir des soins personnalisés et holistiques, un soutien en matière de santé mentale et favoriser l'engagement communautaire. L'article souligne également l'importance d'un système de santé universel, abordable et de haute qualité, et suggère que l'IA prosociale peut aider à réduire les inefficacités et à améliorer les résultats en matière de santé. En conclusion, l'adoption de l'IA prosociale, associée à une approche holistique de la santé, pourrait conduire à un véritable épanouissement humain et à un avenir plus durable et équitable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675a0fdf13914b334fde41f9/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Dec 2024 22:00:00 GMT"
+    },
+    {
+        "title": "Deepfake Pornography Scandal",
+        "link": "https://www.forbes.com/sites/cyrusfarivar/2024/12/11/almost-half-the-girls-at-this-school-were-targets-of-ai-porn-their-ex-classmates-have-now-been-indicted/?ss=ai",
+        "body": "Des dizaines d'étudiantes d'une petite ville de Pennsylvanie ont été victimes de pornographie deepfake créée à l'aide d'une IA. Deux adolescents ont été accusés d'avoir créé 347 images et vidéos pornographiques deepfake de 60 victimes, dont 48 étaient leurs camarades de classe. Les images ont été montrées aux victimes et à leurs parents par un détective, qui a décrit l'expérience comme bouleversante et choquante. Les procureurs ont déclaré que le nombre de victimes et le traumatisme qu'elles ont subi sont inquiétants. L'école, qui a été poursuivie par les parents, a été critiquée pour ne pas avoir agi suffisamment rapidement et pour ne pas avoir protégé ses élèves. Les experts affirment que les poursuites pénales dans de tels cas sont rares, surtout lorsque les coupables sont mineurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6759fd4d850ca2f0f0cb0c74/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Dec 2024 21:00:00 GMT"
+    },
+    {
         "title": "La fin de Cruise et l'avenir de l'IA dans l'industrie automobile",
         "link": "https://www.forbes.com/sites/bradtempleton/2024/12/11/should-tesla-buy-cruise-and-other-strange-wonderings/?ss=ai",
         "body": "L'article traite de l'annonce surprenante, mais pas tant que ça, de la fermeture du projet de taxi robot de Cruise par General Motors, et de ses implications pour l'industrie de l'IA automobile. Cruise était un acteur important dans le développement de taxis robotisés, mais a rencontré des problèmes après avoir perdu ses permis en Californie suite à un incident grave et à une tentative de dissimulation. GM a investi des milliards dans Cruise, mais a finalement perdu confiance dans la viabilité commerciale du projet. Cette fermeture soulève plusieurs questions importantes, notamment sur le sort de l'équipe et de la technologie de Cruise, ainsi que sur l'impact sur la concurrence et l'innovation dans l'industrie. L'auteur suggère que l'expérience et la technologie de Cruise pourraient être utiles à d'autres entreprises, comme Tesla, qui développe sa propre technologie de conduite autonome, mais reconnaît que cela est peu probable en raison de l'attachement de Tesla à sa propre approche. La fermeture de Cruise laisse Waymo, Zoox et Motional comme principaux acteurs américains dans le domaine des taxis robotisés, avec une concurrence chinoise croissante. L'auteur soulève également des questions sur le rôle de la réglementation dans la fin de Cruise, notant que la réaction du DMV de Californie à l'incident a peut-être joué un rôle, et soulève des questions sur l'équilibre entre la sécurité routière et l'innovation. Enfin, l'auteur note que certaines technologies développées par Cruise seront intégrées aux voitures GM régulières, mais que beaucoup sera perdu.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/653f0b9321d78c2867869b26/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 11 Dec 2024 20:00:00 GMT"
+    },
+    {
+        "title": "Le futur du sport à l'ère du streaming et des paris sportifs",
+        "link": "https://www.theverge.com/c/24312149/sports-gymnastics-tennis-surveillance-ai",
+        "body": "Le résumé : \n\nLa diffusion du sport en direct est en pleine évolution, avec un paysage complexe de plateformes de streaming et de droits de diffusion fragmentés. Les ligues sportives signent des contrats lucratifs avec de grandes plateformes de streaming, ce qui rend l'accès aux contenus sportifs plus difficile et coûteux pour les téléspectateurs. L'exemple de la NFL aux États-Unis est cité, où les téléspectateurs doivent s'abonner à plusieurs services pour accéder à tous les matchs. La NBA a également signé un contrat de droits médiatiques de 76 milliards de dollars sur 11 ans. La légalisation des paris sportifs aux États-Unis, suite à l'annulation du PASPA en 2018, a ouvert une nouvelle source de revenus pour les ligues sportives, avec des revenus de paris sportifs en ligne qui devraient dépasser ceux des ligues sportives majeures d'ici cinq ans.",
+        "image": "",
+        "date": "Wed, 11 Dec 2024 17:30:00 GMT"
     },
     {
         "title": "L'avenir de l'informatique quantique et photonique",
@@ -14,11 +35,60 @@
         "date": "Wed, 11 Dec 2024 17:00:00 GMT"
     },
     {
+        "title": "La révolution des agents IA",
+        "link": "https://www.theverge.com/2024/12/11/24317436/google-deepmind-project-astra-mariner-ai-agent",
+        "body": "Google dévoile ses derniers projets dans le domaine de l'IA, notamment Project Astra et Project Mariner, qui visent à créer des agents IA capables d'interagir de manière plus naturelle avec les utilisateurs et leur environnement. Project Astra, un assistant virtuel, peut traiter le texte, les images, les vidéos et l'audio en temps réel, et se souvient des interactions passées. Project Mariner, quant à lui, est un outil qui peut prendre le contrôle de votre navigateur pour effectuer des tâches. Bien que ces projets en soient encore aux premiers stades de développement et présentent des limitations, ils représentent une avancée significative dans la création d'agents IA plus accessibles et efficaces. Google met l'accent sur la sécurité et la protection des données utilisateur, tout en reconnaissant la nécessité d'améliorer la vitesse et les capacités de compréhension de ces agents. Ces projets illustrent la vision de Google d'une \"ère agentique\", où les modèles IA joueront un rôle crucial dans l'amélioration de l'interaction entre les utilisateurs et la technologie.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(1133x501:1134x502):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25785249/videoframe_151522.png",
+        "date": "Wed, 11 Dec 2024 15:33:02 GMT"
+    },
+    {
+        "title": "Project Astra : L'avenir de l'IA chez Google",
+        "link": "https://www.theverge.com/2024/12/11/24318672/google-smart-glasses-ai-gemini",
+        "body": "Google travaille sur de nombreux projets d'IA, mais Project Astra incarne véritablement la vision de l'entreprise en matière d'assistants virtuels. Bien qu'encore au stade de concept ou de prototype, Astra représente le projet le plus ambitieux de Google dans le domaine de l'IA. L'entreprise semble vouloir intégrer Astra à des lunettes intelligentes, créant ainsi un assistant virtuel toujours disponible et offrant une expérience multimodale. Bibo Xu de Google DeepMind a confirmé que le projet serait testé sur des lunettes prototypes, soulignant leur potentiel en tant que support intuitif et puissant pour l'IA. Les lunettes intelligentes, comme celles développées par Meta (Orion), sont considérées comme l'avenir de l'interaction homme-machine, combinant audio, vidéo et affichage de manière naturelle et immersive. Bien que la disponibilité commerciale de ces lunettes reste incertaine, Google semble déterminé à développer cette technologie et à la positionner comme un élément clé de sa stratégie en matière d'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1600/filters:focal(880x572:881x573):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25785048/Google_Glasses.png",
+        "date": "Wed, 11 Dec 2024 15:30:00 GMT"
+    },
+    {
+        "title": "Code Fix",
+        "link": "https://www.theverge.com/2024/12/11/24318628/jules-google-ai-coding-agent-gemini-2-0-announcement",
+        "body": "Google lance un agent de code expérimental basé sur l'IA, nommé Jules, capable de corriger automatiquement les erreurs de codage. Jules utilise le modèle AI Gemini 2.0 pour créer des plans multi-étapes, modifier plusieurs fichiers et préparer des demandes d'extraction pour les tâches de codage Python et Javascript dans les flux de travail GitHub. Les développeurs peuvent réviser et ajuster les plans de Jules avant de fusionner le code dans leurs projets. Google déclare que Jules fait partie de son objectif à long terme de créer des agents IA utiles dans tous les domaines, y compris la programmation. Jules sera disponible pour un groupe sélectionné de testeurs et sera lancé pour les autres développeurs début 2025.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+        "date": "Wed, 11 Dec 2024 15:30:00 GMT"
+    },
+    {
+        "title": "Jeux vidéo et IA : des agents virtuels pour vous guider",
+        "link": "https://www.theverge.com/2024/12/11/24318530/google-gemini-2-0-understand-rules-video-games-genie",
+        "body": "Google annonce Gemini 2.0, une suite d'outils permettant à des agents IA de comprendre les règles des jeux vidéo et d'assister les joueurs en temps réel. Les agents peuvent proposer des suggestions et tirer parti de Google Search pour accéder aux connaissances en ligne liées aux jeux. Google teste actuellement ces agents dans des jeux comme Clash of Clans et Hay Day. L'entreprise explore également la création de mondes virtuels jouables à partir d'une image de départ, en utilisant un modèle appelé Genie 2.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1050x591/2400x1600/filters:focal(525x296:526x297):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25784760/fc_16x9_Super_Wall_Breakers_Even.png",
+        "date": "Wed, 11 Dec 2024 15:30:00 GMT"
+    },
+    {
+        "title": "La révolution de l'IA par Google",
+        "link": "https://www.theverge.com/2024/12/11/24318444/google-gemini-2-0-flash-ai-model",
+        "body": "Google dévoile Gemini 2.0, une mise à jour majeure de son modèle d'IA, offrant des améliorations significatives en termes de performances, d'efficacité et de vitesse. Ce modèle est capable de générer de l'audio et des images, et pose les bases de l'ère des agents IA. Google lance également des projets innovants comme Mariner, une extension Chrome qui peut naviguer sur le Web pour l'utilisateur, et Jules, un agent aidant les développeurs à trouver et corriger des erreurs de code. Gemini 2.0 sera intégré à de nombreux produits Google, dont Search, Workspace, et d'autres applications, avec l'objectif de créer un modèle d'IA généraliste et polyvalent. Alors que l'ère des agents IA se profile, des défis en matière de performances, d'efficacité et de sécurité émergent, incitant Google à développer de nouvelles solutions de sécurité pour ces agents autonomes. Gemini 2.0 est actuellement en phase expérimentale, mais sera bientôt disponible sur diverses plateformes Google et sur le Web.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25290333/STK255_Google_Gemini_C.jpg",
+        "date": "Wed, 11 Dec 2024 15:30:00 GMT"
+    },
+    {
+        "title": "Gemini 2.0",
+        "link": "https://www.theverge.com/2024/12/11/24318217/google-gemini-advanced-deep-research-launch",
+        "body": "Google dévoile une nouvelle fonctionnalité d'IA appelée Deep Research, qui permet aux utilisateurs d'effectuer des recherches web détaillées via son chatbot Gemini. Deep Research est actuellement disponible uniquement pour les abonnés Gemini Advanced et en anglais. Les utilisateurs peuvent demander à Gemini d'effectuer des recherches sur un sujet particulier, de créer un plan de recherche multi-étapes et de générer un rapport détaillé avec ses principales découvertes. Cette fonctionnalité ressemble à celle offerte par l'outil Pages de l'outil de recherche AI Perplexity. Deep Research fait partie de l'annonce plus large de Google concernant Gemini 2.0, son nouveau modèle pour une ère d'IA « agentive », capable d'effectuer des tâches pour les utilisateurs. La société a également annoncé la sortie de Gemini Flash 2.0, une version plus rapide du chatbot de prochaine génération, pour les développeurs.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg",
+        "date": "Wed, 11 Dec 2024 15:30:00 GMT"
+    },
+    {
         "title": "Human-AI Collaboration",
         "link": "https://www.forbes.com/sites/edgarsten/2024/12/11/new-ai-tool-adds-human-intel-to-boost-search-accuracy/?ss=ai",
         "body": "Mixus.ai est un nouvel outil qui combine les recherches d'intelligence artificielle avec la possibilité de discuter en temps réel avec des experts pour améliorer la crédibilité des résultats. Les utilisateurs peuvent effectuer des recherches AI sur la plateforme de leur choix, puis solliciter l'avis d'humains ayant des connaissances ou de l'expertise sur le sujet. Les co-fondateurs, Elliot Katz et Shai Magzimof, décrivent mixus.ai comme la \"première plateforme collaborative\", reconnaissant que les résultats des recherches AI peuvent être parfois incorrects. Les utilisateurs peuvent discuter avec les experts recommandés par la plateforme, qui ont été vérifiés et évalués pour garantir leur crédibilité. Mixus.ai est désormais accessible au grand public, après une phase bêta sur LinkedIn et un lancement à l'Université Stanford. Le site propose différents niveaux d'abonnement, allant de l'accès gratuit à des plans payants pour les particuliers, les équipes et les entreprises.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6759b195d7746e4b24f978b0/0x0.jpg?format=jpg&crop=1472,827,x0,y0,safe&width=440",
         "date": "Wed, 11 Dec 2024 15:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence lance de nouvelles fonctionnalités d'IA",
+        "link": "https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji",
+        "body": "Apple a lancé iOS 18.2, iPadOS 18.2 et macOS Sequoia 15.2, introduisant de nouvelles fonctionnalités d'Apple Intelligence, notamment Image Playground, Genmoji et l'intégration de ChatGPT. Image Playground permet aux utilisateurs de générer des images à partir de prompts ou de suggestions d'Apple, en optant pour un style cartoon plutôt que des images photoréalistes. Genmoji permet aux utilisateurs de créer leurs propres emojis personnalisés, qui devraient être populaires dans les discussions de groupe. L'application Notes obtient un outil \"Image Wand\" qui transforme les dessins en images plus détaillées. L'intégration de ChatGPT, l'une des fonctionnalités d'Apple Intelligence les plus attendues, permet d'accéder à l'outil OpenAI via Siri ou les outils d'écriture d'Apple. Les utilisateurs peuvent générer du texte et des images basés sur leurs écrits sans avoir besoin d'un compte ChatGPT. Les autres nouvelles fonctionnalités incluent Visual Intelligence, le partage de liens de localisation AirTag et des puzzles sudoku quotidiens dans Apple News Plus. Apple a également étendu la prise en charge de l'anglais localisé à plusieurs pays et prévoit d'introduire la prise en charge de plusieurs autres langues en 2025, ainsi que le déploiement de fonctionnalités Apple Intelligence dans l'UE.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1960x1102/2400x1600/filters:focal(980x551:981x552):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25785001/Apple_Intelligence_hero_big.jpg.large_2x.jpg",
+        "date": "Wed, 11 Dec 2024 13:10:36 GMT"
     },
     {
         "title": "L'avenir de l'édition à l'ère de l'IA",
@@ -250,47 +320,5 @@
         "body": "L'article explore les tendances transformatrices en matière de ressources humaines, façonnant les environnements de travail en 2025. Il met en lumière le rôle crucial de l'IA dans l'évolution des pratiques de recrutement et d'expérience employé. Les outils d'IA automatisent la création de descriptions de poste, la sélection de CV et l'évaluation de l'adéquation culturelle, améliorant ainsi l'efficacité et la précision du recrutement. De plus, l'IA et l'analytique prédictive permettent de personnaliser les parcours de carrière, les avantages et les retours de performance, augmentant ainsi la fidélité, l'engagement et la productivité des employés. Les spécialistes des RH et du recrutement doivent anticiper les lacunes en compétences, innover dans les stratégies d'embauche et promouvoir la formation continue pour répondre aux exigences de la transformation numérique. Avec l'essor du travail à distance et hybride, les RH doivent également repenser le bien-être des employés, abordant des enjeux comme l'isolement et l'équilibre entre vie professionnelle et vie privée. La convergence de l'IA et des capacités humaines est un défi clé, les professionnels des RH étant chargés d'assurer une transition harmonieuse vers des effectifs augmentés par l'IA, en gérant les inquiétudes concernant le déplacement des emplois et en formant les employés à travailler efficacement avec l'IA. L'immersion de la réalité virtuelle et augmentée révolutionne l'intégration et la formation des employés, améliorant la rétention des connaissances et connectant les employés à distance à la culture de l'entreprise. Enfin, les considérations éthiques occupent une place centrale, les équipes RH devant aborder la collecte et le stockage des données des employés, ainsi que la transparence et la responsabilité dans la prise de décision basée sur l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6757e1e2a1caaba72df9c33c/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 10 Dec 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Quantum Leap",
-        "link": "https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough",
-        "body": "Google a réalisé une avancée significative dans l'informatique quantique avec sa nouvelle puce, Willow, capable d'effectuer en moins de cinq minutes un calcul qui prendrait à l'un des superordinateurs les plus rapides du monde plus de 10 septillions d'années. Cette réussite surpasse les réalisations précédentes de Google en 2019 et réduit également les erreurs, un problème majeur dans l'informatique quantique. Les chercheurs de Google ont découvert que l'ajout de qubits supplémentaires à un système permettait de corriger les erreurs en temps réel. La technologie quantique, selon Google, sera indispensable pour la collecte de données d'entraînement en IA, accélérant ainsi la découverte de nouveaux médicaments, la conception de batteries plus efficaces et la recherche sur la fusion et les nouvelles sources d'énergie. Les concurrents comme Microsoft, Amazon et IBM développent également leurs propres systèmes d'informatique quantique.",
-        "image": "",
-        "date": "Mon, 09 Dec 2024 23:05:54 GMT"
-    },
-    {
-        "title": "Sora, le nouveau modèle d'IA d'OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2435018_openai-sora-est-lance-aujourdhui-et-voici-pourquoi-cest-une-des-annonces-les-plus-importantes-de-lannee",
-        "body": "OpenAI a lancé Sora, un outil d'IA capable de créer des vidéos à partir de descriptions textuelles. Sora sort d'une phase de test privé et est désormais disponible moyennant un abonnement ChatGPT Plus ou Pro. L'outil excelle dans la création d'animations abstraites, d'effets de fluides et de scènes de style cartoon, avec une gestion impressionnante des textures et des couleurs. Il intègre un système de storyboard pour créer des séquences complexes et un système de remix pour modifier des vidéos existantes. Malgré ses prouesses, Sora a des faiblesses dans la physique des mouvements et la permanence des objets. L'outil intègre également des protections éthiques, refusant de générer du contenu impliquant des mineurs ou des personnalités publiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/this-video-is-ai-generated-sora-review-6-3-screenshot-1200x600-1-768x384.jpg?resize=150,150&key=6453333e",
-        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Les lunettes connectées, nouvelle frontière de l'IA ?",
-        "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2436524_ces-lunettes-connectees-se-veulent-trois-fois-plus-intelligentes-que-celles-de-meta-mais-tout-aussi-jolies",
-        "body": "Les lunettes connectées avec intelligence artificielle intégrée semblent être la prochaine grande tendance. Après les Ray-Ban Meta, Solos lance ses propres lunettes, les AirGo Vision, équipées de caméras et capables d'analyser l'environnement, de traduire en temps réel, de donner des itinéraires et des prévisions météorologiques. Les interactions se font vocalement, avec un microphone et des haut-parleurs intégrés. La monture est personnalisable, et les branches, qui contiennent la technologie, peuvent être fixées à une monture classique. Les lunettes sont déjà disponibles en précommande en France à 289,90 euros.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/airgo-vision-1200x799-1-768x511.jpg?resize=200,200&key=217cca33",
-        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini s'ouvre aux applications Samsung",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2436054_google-gemini-se-prepare-a-integrer-les-applications-de-samsung-dans-les-mois-a-venir",
-        "body": "Google Gemini, le remplaçant de l'Assistant Google, s'enrichit de nouvelles fonctionnalités grâce à un système d'extensions. WhatsApp et Spotify sont parmi les premières applications compatibles, et bientôt, Gemini pourra interagir avec les applications Samsung telles que Rappels, Horloge, Calendrier et Notes. Les utilisateurs pourront demander à Gemini d'ajouter des rappels, d'enregistrer des tâches ou de créer des listes directement dans l'application Rappels de Samsung. Cette ouverture de Google envers la concurrence, y compris avec l'assistant vocal Bixby de Samsung, devrait être pleinement fonctionnelle avec la sortie d'Android 16 et l'API App Functions, qui permettra à Gemini de manipuler des applications à la place des utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/samsung-galaxy-s24-fe-utilise-une-main-1200x800-2-768x512.jpg?resize=200,200&key=08dc944d",
-        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung adopte l'IA pour l'édition audio",
-        "link": "https://www.frandroid.com/marques/samsung/2434830_copier-cette-fonction-de-google-est-lune-des-bonnes-idees-de-samsung-en-cette-fin-dannee",
-        "body": "Samsung s'inspire de la fonction Audio Magic Eraser de Google, disponible sur les smartphones Pixel, et développe sa propre version pour sa prochaine mise à jour logicielle OneUI 7. Baptisée \"Audio Eraser tool\", cette fonctionnalité basée sur l'IA permettra aux utilisateurs de modifier la partie audio de leurs vidéos en ajustant indépendamment les voix, le vent, la musique et d'autres sons. Cette fonctionnalité sera probablement intégrée à la suite Galaxy AI de Samsung, qui propose déjà diverses fonctionnalités basées sur l'IA. La sortie de cette mise à jour coïncidera peut-être avec le lancement des nouveaux Galaxy S25 début 2025, mais les performances de l'outil Samsung restent à confirmer.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/samsung-galaxy-s24-fe-utilise-une-main-1200x800-1-768x512.jpg?resize=200,200&key=3d484c8b",
-        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Reddit Answers : la nouvelle fonctionnalité de recherche de Reddit",
-        "link": "https://www.frandroid.com/produits-android/2435454_reddit-lance-un-nouvel-outil-pour-ne-plus-utiliser-google",
-        "body": "Reddit lance un nouvel outil d'IA, Reddit Answers, qui permet aux utilisateurs d'obtenir des réponses directes à leurs questions sans passer par Google. L'outil fournit des résumés organisés et des détails pertinents issus des conversations sur Reddit, ainsi que des liens vers des publications et des communautés spécifiques. Les premiers retours sont positifs, avec une interface claire et intuitive, mais des doutes subsistent quant à la fiabilité de la fonctionnalité de résumé automatique. L'outil n'est actuellement disponible que pour un nombre limité d'utilisateurs aux États-Unis et en anglais, mais Reddit prévoit de l'étendre à d'autres pays et langues à l'avenir.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/07/reddit-logo-630x336.jpg?resize=300,300&key=1a12d905",
-        "date": "Mon, 09 Dec 2024 23:00:00 GMT"
     }
 ]
