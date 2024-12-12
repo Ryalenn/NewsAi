@@ -133,14 +133,14 @@
         "check": "yes"
     },
     {
-        "title": "YouTube va automatiquement traduire vos vidéos en anglais, au grand dam des spécialistes du doublage",
+        "title": "YouTube va automatiquement traduire vos vid\u00e9os en anglais, au grand dam des sp\u00e9cialistes du doublage",
         "link": "https://www.frandroid.com/marques/2437090_youtube-va-automatiquement-traduire-vos-videos-en-anglais-au-grand-dam-des-specialistes-du-doublage",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/autodubbing-youtube-1200x1131-1-768x724.jpg?resize=283,283&key=1954b075",
         "date": "Tue, 10 Dec 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Comment accéder à Canvas, le Google Docs à la sauce ChatGPT ?",
+        "title": "Comment acc\u00e9der \u00e0 Canvas, le Google Docs \u00e0 la sauce ChatGPT ?",
         "link": "https://www.frandroid.com/culture-tech/2437058_comment-acceder-a-canvas-le-google-docs-a-la-sauce-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/capture-decran-du-2024-12-11-07-40-30-1200x691-1-768x442.png?resize=173,173&key=fb25318b",
         "date": "Tue, 10 Dec 2024 23:00:00 GMT",
@@ -231,7 +231,7 @@
         "check": "yes"
     },
     {
-        "title": "Gemini 2.0 : ce qui change avec la nouvelle IA et comment l’essayer",
+        "title": "Gemini 2.0 : ce qui change avec la nouvelle IA et comment l\u2019essayer",
         "link": "https://www.frandroid.com/android/2438852_gemini-2-0-ce-qui-change-avec-la-nouvelle-ia-et-comment-lessayer",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/screenshot-2024-12-11-at-82849pm-1200x717-1-768x459.jpg?resize=179,179&key=d40d1ad9",
         "date": "Tue, 10 Dec 2024 23:00:00 GMT",
@@ -313,5 +313,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6759fd4d850ca2f0f0cb0c74/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 11 Dec 2024 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Google veut vous aider dans vos parties de jeux vid\u00e9o gr\u00e2ce \u00e0 Gemini",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2438886_google-veut-vous-aider-dans-vos-parties-de-jeux-video-grace-a-gemini",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/untitled-design5-1200x664-1-768x425.jpg?resize=166,166&key=9e8db5dd",
+        "date": "Wed, 11 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "Google Mariner : qu\u2019est-ce que cet \u00ab agent \u00bb d\u2019IA qui surfe le web \u00e0 votre place exactement ?",
+        "link": "https://www.frandroid.com/culture-tech/2439038_google-mariner-quest-ce-que-cet-agent-dia-qui-surfe-le-web-a-votre-place-exactement",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/capture-decran-du-2024-12-12-07-18-05-1200x674-1-768x431.jpg?resize=169,169&key=9c52a312",
+        "date": "Wed, 11 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/12/12/will-ai-make-universal-basic-income-inevitable/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675a86d43d5e35c4cee6e537/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Dec 2024 06:00:00 GMT",
+        "check": "no"
     }
 ]
