@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'avenir de la collaboration humain-IA",
+        "link": "https://www.forbes.com/sites/charlestowersclark/2024/12/13/ai-is-not-your-colleague-the-risk-of-humanizing-technology/?ss=ai",
+        "body": "Résumé : \n\nLa collaboration efficace entre les humains et l'IA nécessite de comprendre les limites de l'anthropomorphisation de l'IA. Bien que l'IA puisse suivre des chemins prédéfinis et traiter de grandes quantités de données, elle manque de capacités métacognitives humaines essentielles, telles que l'évaluation simultanée de plusieurs approches, le suivi de ses progrès et l'adaptation de ses stratégies en fonction du contexte global. Ce phénomène psychologique, profondément enraciné dans la nature humaine, crée des défis dans la manière dont les organisations abordent et mettent en œuvre la technologie de l'IA. Les organisations doivent aller au-delà de la fausse dichotomie des capacités humaines par rapport aux capacités des machines et se concentrer sur la complémentarité des forces computationnelles de l'IA et des compétences métacognitives humaines. Cela implique de concevoir des flux de travail dans lesquels l'IA gère les tâches de reconnaissance de modèles et de traitement des données, tandis que les humains fournissent la supervision stratégique et la compréhension contextuelle dont l'IA est dépourvue. Une compréhension claire de cette distinction est essentielle pour créer des partenariats humain-IA efficaces qui tirent parti des forces uniques de chacun.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675c087eceea6af85b1860cd/0x0.jpg?format=jpg&crop=720,338,x0,y191,safe&width=440",
+        "date": "Fri, 13 Dec 2024 10:00:00 GMT"
+    },
+    {
         "title": "Deepfakes : la nouvelle frontière de la désinformation",
         "link": "https://www.forbes.com/sites/bernardmarr/2024/12/13/how-to-spot-ai-deepfake-videos-in-an-era-of-digital-deception/?ss=ai",
         "body": "L'article explore les implications de l'avènement de l'IA sur la création de fausses vidéos, ou deepfakes, et leur impact potentiel sur la société, les entreprises et les individus. Il met en lumière la facilité croissante avec laquelle des contenus trompeurs peuvent être créés et partagés en ligne, remettant en cause la notion de preuve vidéo comme norme de vérité. Quatre approches sont proposées pour identifier les deepfakes : la détection de signaux visuels, l'utilisation d'outils technologiques spécialisés, le développement de l'esprit critique et l'investigation forensique professionnelle. L'auteur souligne l'importance de mesures préventives, de la formation et du développement de l'esprit critique pour faire face à cette nouvelle menace. La détection des deepfakes pourrait devenir une fonctionnalité courante des outils de vidéoconférence, et l'éducation, la vigilance et le développement technologique sont essentiels pour minimiser leur impact déstabilisateur.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/675bd2ebeaa4a9555ae55c6a/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Dec 2024 06:25:00 GMT"
+    },
+    {
+        "title": "ChatGPT : un nouveau mode d'interaction visuelle",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2440498_chatgpt-snobe-encore-leurope-avec-sa-derniere-nouveaute",
+        "body": "ChatGPT dévoile un nouveau mode vocal « avancé » permettant au chatbot d'analyser en direct ce qui se passe sur l'écran d'un téléphone mobile. Cette fonctionnalité, réservée aux utilisateurs payants, permet à l'IA de « voir » les applications utilisées ou de fournir des conseils en temps réel pendant la cuisine, par exemple. OpenAI avait annoncé ces capacités en mai, mais n'avait pas donné de nouvelles depuis. La démonstration récente de Gemini 2.0 par Google a peut-être incité OpenAI à montrer ses progrès. La fonctionnalité sera déployée aux États-Unis la semaine prochaine, et en Europe dès que possible, en raison de potentielles préoccupations liées à la vie privée et aux réglementations sur l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/openai-768x432.jpg?resize=169,169&key=0bec5f35",
+        "date": "Thu, 12 Dec 2024 23:00:00 GMT"
     },
     {
         "title": "Recall, la fonction d'IA de Windows 11, soulève des inquiétudes en matière de confidentialité",
@@ -292,12 +306,5 @@
         "body": "Face à la pénurie de talents en IA, RapidCanvas propose une solution innovante : utiliser l'IA pour identifier et mettre en œuvre des applications d'IA dans les entreprises. La start-up, qui a levé 16 millions de dollars, développe des agents IA qui peuvent explorer les systèmes et données d'une entreprise pour y trouver des opportunités d'amélioration de l'efficacité et de la productivité grâce à l'IA. Ces agents IA travaillent en collaboration avec des conseillers spécialisés dans des domaines tels que la réduction des coûts ou les prévisions de ventes. Selon Rahul Pangam, cofondateur de RapidCanvas, cette approche hybride permet de réduire les coûts et la dépendance aux consultants externes, tout en accélérant la mise en œuvre de l'IA. La clé du succès, selon Pangam, est de se concentrer sur les problèmes spécifiques que l'entreprise souhaite résoudre avec l'IA, plutôt que d'investir dans la technologie sans objectif clair. Cette approche a séduit les investisseurs et les clients, permettant à RapidCanvas de tripler ses revenus en un an et d'attirer des clients dans divers secteurs, dont la fabrication, le commerce de détail et les services financiers. La levée de fonds servira à améliorer la technologie des agents IA et à recruter des experts sectoriels.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67573a3836d632e65c7e708d/0x0.jpg?format=jpg&crop=2819,1322,x0,y728,safe&width=440",
         "date": "Wed, 11 Dec 2024 13:00:00 GMT"
-    },
-    {
-        "title": "La santé, l'IA et les litiges",
-        "link": "https://www.forbes.com/sites/amyfeldman/2024/12/11/these-entrepreneurs-are-using-ai-to-fight-health-insurance-claims-denials/?ss=ai",
-        "body": "L'utilisation de l'IA par les assureurs santé pour approuver ou refuser les demandes de remboursement soulève des inquiétudes. Des entrepreneurs développent des outils basés sur l'IA pour aider les patients à contester les refus. UnitedHealthcare, sous les projecteurs après l'assassinat de son PDG, Brian Thompson, est connu pour son taux élevé de refus, parfois basés sur des décisions prises par l'IA. Holden Karau a créé FightHealthInsurance.com, un outil gratuit utilisant l'IA pour aider les patients à faire appel des refus. L'outil fournit des lettres d'appel pré-écrites basées sur les informations fournies par l'utilisateur. L'assassinat de Brian Thompson a mis en lumière les pratiques de UnitedHealthcare, qui fait face à des litiges et à des critiques concernant son taux élevé de refus. D'autres entreprises, comme Claimable, utilisent également l'IA pour aider les patients à obtenir le remboursement de traitements coûteux. L'article souligne l'importance de l'IA dans la résolution des litiges en matière de santé et la nécessité d'un équilibre entre les décisions prises par l'IA et la révision humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6758c34a2b7cfe3ce7e2d23d/0x0.jpg?format=jpg&crop=720,405,x0,y15,safe&width=440",
-        "date": "Wed, 11 Dec 2024 11:00:00 GMT"
     }
 ]
