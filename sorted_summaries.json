@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Celebrates the Holidays with a Bang",
+        "link": "https://www.forbes.com/sites/martineparis/2024/12/13/how-to-have-holiday-ai-fun-with-google-and-chatgpt/?ss=ai",
+        "body": "Google et OpenAI ont sorti de nouvelles fonctionnalités d'IA pour les fêtes, dont le mode Santa sur ChatGPT, permettant aux utilisateurs de discuter avec le Père Noël et d'écouter des histoires. OpenAI a également présenté la vision et le partage d'écran, permettant à ChatGPT de voir et d'interagir avec l'environnement de l'utilisateur, et Sora, un générateur de texte-vidéo. Google a mis à jour NotebookLM, permettant aux utilisateurs d'interroger deux hôtes de podcast IA. Ces fonctionnalités améliorent l'expérience utilisateur et montrent les progrès de l'IA dans le multimodal.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675cf61a842741ca847a5842/0x0.jpg?format=jpg&crop=1282,721,x0,y0,safe&width=440",
+        "date": "Sat, 14 Dec 2024 03:00:00 GMT"
+    },
+    {
         "title": "La mort d'un lanceur d'alerte",
         "link": "https://www.forbes.com/sites/cyrusfarivar/2024/12/13/openai-whistleblowers-death-ruled-suicide-police-say/?ss=ai",
         "body": "Suchir Balaji, un ancien chercheur d'OpenAI, s'est suicidé dans son appartement de San Francisco. Avant sa mort, Balaji avait quitté OpenAI, alléguant que l'entreprise avait enfreint la loi sur le droit d'auteur en collectant des données à partir du web pour entraîner ses modèles d'IA. Il a également affirmé que l'utilisation de ces données pourrait nuire à l'écosystème d'Internet. OpenAI a réfuté ses affirmations. Balaji a contribué à la collecte et à l'organisation des données d'entraînement pour ChatGPT d'OpenAI. Sa mort est survenue peu après qu'une assignation ait nommément demandé à OpenAI de rechercher dans ses fichiers professionnels dans le cadre d'un procès intenté par des auteurs. OpenAI a exprimé ses condoléances suite au décès de Balaji.",
@@ -236,12 +243,5 @@
         "body": "L'intelligence artificielle (IA) a le potentiel de transformer les institutions publiques en améliorant leur efficacité et leur capacité à servir les citoyens. Les agences du secteur public, y compris les gouvernements fédéraux et nationaux, ainsi que les agences gouvernementales locales, adoptent de plus en plus l'IA pour rationaliser leurs processus et fournir de meilleurs services. L'IA automatise les tâches administratives routinières, telles que le traitement des documents, la saisie de données et la gestion des dossiers, libérant ainsi les ressources pour d'autres tâches. Ces systèmes aident également à la traduction de documents, à la détection des fraudes et à l'analyse des données pour identifier les anomalies. Dans le domaine de la justice, l'IA est utilisée pour analyser les documents juridiques, gérer les cas et suggérer des lignes directrices en matière de condamnation, bien que cela soulève des défis éthiques. De plus, l'IA améliore la réponse aux urgences et aux catastrophes, analysant les données entrantes et les informations externes pour une allocation rapide des ressources. L'IA joue également un rôle crucial dans la réponse aux problèmes de santé publique, comme la pandémie de COVID-19, en aidant les agences à réagir rapidement et efficacement. En fin de compte, l'IA améliore l'efficacité du gouvernement, optimise l'utilisation des ressources et améliore la prestation de services publics.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6756ff7e147d23038addff33/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Dec 2024 09:00:00 GMT"
-    },
-    {
-        "title": "Un avenir utopique ?",
-        "link": "https://www.forbes.com/sites/bernardmarr/2024/12/12/will-ai-make-universal-basic-income-inevitable/?ss=ai",
-        "body": "L'article explore l'idée que l'intelligence artificielle (IA) pourrait être le catalyseur de l'introduction d'un revenu de base universel (RBU), fournissant un revenu de base à tous les citoyens indépendamment de leur situation professionnelle ou de leurs revenus. Les partisans de cette idée affirment que l'IA, en augmentant considérablement la productivité et en éliminant les tâches fastidieuses, créera un surplus de valeur qui peut être réinvesti dans des programmes sociaux tels que le RBU. L'article reconnaît que c'est une vision utopique, mais suggère que l'IA pourrait non seulement rendre le RBU nécessaire, mais aussi possible, en aidant à son administration grâce à des tâches automatisées. Cependant, il reconnaît également les incertitudes entourant l'avenir de l'IA, les défis politiques et sociétaux, ainsi que les craintes selon lesquelles le RBU pourrait réduire l'incitation au travail. En fin de compte, bien que l'idée d'une société libérée des chaînes du travail grâce à l'IA soit séduisante, la réalisation de cet avenir utopique dépend de nombreux facteurs complexes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675a86d43d5e35c4cee6e537/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 12 Dec 2024 06:00:00 GMT"
     }
 ]
