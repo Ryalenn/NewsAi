@@ -1,5 +1,19 @@
 [
     {
+        "title": "La mort d'un lanceur d'alerte",
+        "link": "https://www.forbes.com/sites/cyrusfarivar/2024/12/13/openai-whistleblowers-death-ruled-suicide-police-say/?ss=ai",
+        "body": "Suchir Balaji, un ancien chercheur d'OpenAI, s'est suicidé dans son appartement de San Francisco. Avant sa mort, Balaji avait quitté OpenAI, alléguant que l'entreprise avait enfreint la loi sur le droit d'auteur en collectant des données à partir du web pour entraîner ses modèles d'IA. Il a également affirmé que l'utilisation de ces données pourrait nuire à l'écosystème d'Internet. OpenAI a réfuté ses affirmations. Balaji a contribué à la collecte et à l'organisation des données d'entraînement pour ChatGPT d'OpenAI. Sa mort est survenue peu après qu'une assignation ait nommément demandé à OpenAI de rechercher dans ses fichiers professionnels dans le cadre d'un procès intenté par des auteurs. OpenAI a exprimé ses condoléances suite au décès de Balaji.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675cd366391e5be67d1a9f7f/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 14 Dec 2024 00:00:00 GMT"
+    },
+    {
+        "title": "La collaboration homme-machine",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/13/next-step-forward-in-human-ai-collaboration-showcased-via-openais-chatgpt-canvas-add-in/?ss=ai",
+        "body": "L'article explore les derniers progrès de la collaboration entre l'homme et l'IA, en mettant en évidence la nouvelle fonctionnalité Canvas de OpenAI ChatGPT. Il s'agit d'une interface innovante qui permet aux utilisateurs de collaborer en temps réel avec l'IA, en mettant en évidence et en modifiant directement le texte dans un document partagé. Cette approche améliore considérablement la collaboration homme-machine, la rendant plus efficace et intuitive. L'auteur prédit que cette fonctionnalité deviendra la norme pour la plupart des applications d'IA générative, et que les utilisateurs l'exigeront. L'article soulève également des questions éthiques et juridiques complexes concernant la collaboration homme-machine, notamment en matière de droits d'auteur, de propriété intellectuelle et de plagiat. Enfin, il cite Charles Darwin, suggérant que la collaboration efficace est essentielle pour le succès, et que la collaboration homme-machine façonnera notre avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675ccf9294e60be4c336bf8d/0x0.jpg?format=jpg&crop=1398,1048,x172,y0,safe&width=440",
+        "date": "Sat, 14 Dec 2024 00:00:00 GMT"
+    },
+    {
         "title": "L'impact environnemental de l'IA et des technologies associées",
         "link": "https://www.forbes.com/sites/johnwerner/2024/12/13/what-happens-to-your-old-smartphone/?ss=ai",
         "body": "Bien que les avancées dans le domaine de l'IA soient enthousiasmantes, il est important de considérer l'impact environnemental de la technologie sous-jacente. L'article souligne la nécessité de prendre en compte le matériel informatique et les déchets électroniques qui en résultent. Avec l'augmentation de la consommation d'énergie pour alimenter les centres de données modernes et l'adoption croissante de l'IA et des chatbots sur les appareils mobiles, la gestion des déchets électroniques devient un enjeu crucial. L'article mentionne une étude des Nations Unies estimant à 62 millions de tonnes les déchets électroniques produits en 2022, avec une prévision d'augmentation de 20 millions de tonnes d'ici 2030. Les smartphones, qui contiennent plus de 30 éléments chimiques, constituent une partie importante de ces déchets. Des experts, comme Duhan Zhang, proposent des solutions pour gérer ces déchets de manière durable, en mettant en avant l'importance de créer une économie circulaire pour les matériaux et l'énergie. L'article conclut en soulignant l'importance de réfléchir à ces solutions alors que nous entrons dans une nouvelle ère de l'IA, où la gestion des déchets restera un enjeu clé.",
@@ -166,61 +180,5 @@
         "body": "L'article explore l'idée que l'intelligence artificielle (IA) pourrait être le catalyseur de l'introduction d'un revenu de base universel (RBU), fournissant un revenu de base à tous les citoyens indépendamment de leur situation professionnelle ou de leurs revenus. Les partisans de cette idée affirment que l'IA, en augmentant considérablement la productivité et en éliminant les tâches fastidieuses, créera un surplus de valeur qui peut être réinvesti dans des programmes sociaux tels que le RBU. L'article reconnaît que c'est une vision utopique, mais suggère que l'IA pourrait non seulement rendre le RBU nécessaire, mais aussi possible, en aidant à son administration grâce à des tâches automatisées. Cependant, il reconnaît également les incertitudes entourant l'avenir de l'IA, les défis politiques et sociétaux, ainsi que les craintes selon lesquelles le RBU pourrait réduire l'incitation au travail. En fin de compte, bien que l'idée d'une société libérée des chaînes du travail grâce à l'IA soit séduisante, la réalisation de cet avenir utopique dépend de nombreux facteurs complexes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/675a86d43d5e35c4cee6e537/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Dec 2024 06:00:00 GMT"
-    },
-    {
-        "title": "Google annonce une nouvelle puce IA révolutionnaire",
-        "link": "https://www.frandroid.com/marques/google/2439898_voici-google-trillium-une-puce-ia-revolutionnaire-qui-propulse-gemini-2-0",
-        "body": "Google a dévoilé sa nouvelle puce IA, Trillium, qui propulse Gemini 2.0. Avec plus de 100 000 puces interconnectées, Trillium forme l'un des superordinateurs IA les plus puissants au monde. Elle offre une amélioration significative des performances de calcul, de la capacité de mémoire et de l'efficacité énergétique. L'impact économique potentiel est important, avec une efficacité de mise à l'échelle de 99 % et une amélioration de 2,5 fois des performances d'entraînement par dollar investi. L'infrastructure IA Hypercomputer de Google, intégrant les puces Trillium, combine un traitement puissant avec un réseau Jupiter à haute bande passante, permettant des tâches d'entraînement IA distribuées à une échelle sans précédent. Cette approche sur mesure de Google pourrait offrir des avantages spécifiques pour l'entraînement de très grands modèles, plaçant l'entreprise en concurrence directe avec Nvidia et ses propres CPU ARM.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/11/tensor2-768x512.jpeg?resize=200,200&key=44027585",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google présente Jules, un assistant de codage IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2439088_voici-jules-votre-assistant-informatique-selon-google",
-        "body": "Google a présenté sa dernière innovation en matière d'intelligence artificielle : Jules, un agent spécialisé dans le code informatique conçu pour assister les développeurs dans leur travail quotidien. Jules est capable de gérer les corrections de bugs et d'autres tâches fastidieuses en Python et JavaScript, permettant ainsi aux développeurs de se concentrer sur des tâches plus créatives. Bien que toujours en phase de test, Jules devrait être disponible pour un plus large public début 2025, offrant ainsi un gain de productivité important pour les développeurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/gemini-20-1200x675-1-768x432.png?resize=169,169&key=2fb2c624",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "La liberté d'expression absolue d'Elon Musk ?",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2439648_on-peut-generer-nimporte-quoi-avec-grok-2-delon-musk-et-cest-un-probleme",
-        "body": "L'article met en lumière la stratégie délibérée d'Elon Musk de supprimer les garde-fous éthiques dans ses entreprises, notamment avec Grok 2, le nouveau modèle d'IA d'Aurora capable de générer des images ultra-réalistes sans restrictions. Alors que ses concurrents mettent en place des protections éthiques strictes, xAI, l'entreprise d'Elon Musk, fait le choix inverse, autorisant la création d'images de célébrités dans des situations compromettantes, l'utilisation de personnages protégés par copyright, et générant même du contenu potentiellement diffamatoire. Cette approche, déjà observée avec Twitter, favorise la propagation de fausses informations et de contenus problématiques, d'autant plus que Grok 2 est partiellement gratuit et accessible à tous. Les concurrents de Grok refusent de générer des images de personnalités publiques, mais pas Grok 2, illustrant ainsi deux visions opposées de l'IA : responsabilité et limitation des dérives contre volonté de repousser les limites sans considération pour les conséquences.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/bf8db85a-203a-49f0-8403-5d28ad792876-768x576.jpeg?resize=225,225&key=0c7de451",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini, le nouveau modèle linguistique de Google",
-        "link": "https://www.frandroid.com/marques/google/2439342_les-enceintes-google-nest-disent-adieu-a-google-assistant-et-bienvenue-a-gemini-enfin-presque",
-        "body": "Google met à jour son assistant vocal avec un nouveau modèle linguistique expérimental, Gemini, qui vise à offrir des réponses plus intelligentes et plus utiles. Bien que toujours en phase de test, Gemini est déjà disponible sur certains appareils connectés de Google, tels que les enceintes et écrans connectés Nest, offrant ainsi une expérience plus avancée aux utilisateurs. La mise à jour se fait via le cloud, sans nécessiter de changement d'équipement. Cependant, pour l'instant, cette fonctionnalité n'est disponible qu'en anglais et aux États-Unis pour les utilisateurs de 18 ans et plus.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/google-nest-mini-1200x690-1-768x442.jpg?resize=173,173&key=5f2e39ed",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Sora, la nouvelle IA vidéo générative d'OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2439286_on-a-teste-sora-le-nouvel-outil-dopenai-qui-fait-trembler-lindustrie-video",
-        "body": "OpenAI a lancé Sora, une IA générative vidéo, accessible avec un abonnement ChatGPT Plus ou Pro. Sora permet de créer des vidéos en décrivant simplement le contenu souhaité. L'IA excelle dans la génération de paysages et de scènes statiques avec un réalisme saisissant. Cependant, les animations complexes et les mouvements humains révèlent encore des limitations. La vitesse de génération impressionne, mais les inquiétudes persistent quant à la désinformation potentielle via les deepfakes. La technologie a un énorme potentiel, mais soulève aussi des questions éthiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/4c0nrbhqgr4-hd-1200x675-1-768x432.jpg?resize=169,169&key=ae731897",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini 2.0",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2438886_google-veut-vous-aider-dans-vos-parties-de-jeux-video-grace-a-gemini",
-        "body": "Google a présenté Gemini 2.0, une IA multimodale capable de traiter texte, son et image simultanément. L'entreprise explore des applications pratiques, notamment dans le jeu vidéo, où l'IA pourrait assister les joueurs en temps réel, en leur fournissant des stratégies, des détails sur les quêtes et des informations sur les mécanismes du jeu. Gemini 2.0 interprète les règles, cherche des informations sur Google et répond vocalement, comme un autre joueur. Malgré des limites et des erreurs potentielles, Google croit en son utilité quotidienne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/untitled-design5-1200x664-1-768x425.jpg?resize=166,166&key=9e8db5dd",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Google qui surfe sur le web pour vous",
-        "link": "https://www.frandroid.com/culture-tech/2439038_google-mariner-quest-ce-que-cet-agent-dia-qui-surfe-le-web-a-votre-place-exactement",
-        "body": "Google a présenté Mariner, un agent IA qui agit comme une extension Chrome et exécute des tâches répétitives en ligne pour l'utilisateur. Mariner, basé sur Gemini 2.0, prend le contrôle de la souris et du clavier pour accomplir des tâches telles que faire des courses en ligne. Bien qu'encore lent et limité, Mariner représente un changement de paradigme dans l'interface utilisateur selon Google. D'autres entreprises, comme Anthropic avec Claude 3.5, développent des agents IA similaires, indiquant une tendance émergente dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/capture-decran-du-2024-12-12-07-18-05-1200x674-1-768x431.jpg?resize=169,169&key=9c52a312",
-        "date": "Wed, 11 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Human Flourishing Enabled by AI",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/12/11/the-case-for-salutogenic-health-a-360-solution-with-prosocial-ai/?ss=ai",
-        "body": "L'article plaide pour une approche salutogénique de la santé, mettant l'accent sur la promotion de la santé plutôt que sur le simple traitement des maladies. L'IA prosociale, axée sur le bien-être humain et planétaire, est proposée comme un outil pragmatique pour y parvenir. En abordant les dimensions physiques, mentales et sociales de la santé, l'IA prosociale peut offrir des soins personnalisés et holistiques, un soutien en matière de santé mentale et favoriser l'engagement communautaire. L'article souligne également l'importance d'un système de santé universel, abordable et de haute qualité, et suggère que l'IA prosociale peut aider à réduire les inefficacités et à améliorer les résultats en matière de santé. En conclusion, l'adoption de l'IA prosociale, associée à une approche holistique de la santé, pourrait conduire à un véritable épanouissement humain et à un avenir plus durable et équitable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675a0fdf13914b334fde41f9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 11 Dec 2024 22:00:00 GMT"
     }
 ]
