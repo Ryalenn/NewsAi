@@ -117,19 +117,5 @@
         "body": "Google ajoute de nouvelles fonctionnalités à son application NotebookLM, notamment la possibilité de discuter avec les hôtes IA des Audio Overviews, offrant ainsi une expérience plus interactive aux utilisateurs. La nouvelle interface organise le contenu en trois panneaux : sources, chat et studio. L'entreprise lance également une version d'abonnement, NotebookLM Plus, offrant plus de fonctionnalités et de personnalisation. De plus, Google présente Agentspace, une plateforme d'agents IA personnalisés pour les entreprises.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
         "date": "Fri, 13 Dec 2024 15:30:00 GMT"
-    },
-    {
-        "title": "Révolution dans les centres de données",
-        "link": "https://www.forbes.com/sites/alexknapp/2024/12/13/the-prototype-ibms-new-optical-hardware-could-make-training-llms-a-lot-cheaper/?ss=ai",
-        "body": "IBM a annoncé avoir développé une nouvelle méthode pour créer des composants optiques co-emballés, permettant une connectivité par fibre optique au sein des centres de données, qui utilisent actuellement des câbles électriques. Cette technologie pourrait augmenter la bande passante disponible et réduire considérablement la consommation énergétique des applications d'IA générative. La société estime que l'énergie économisée lors de l'entraînement d'un modèle linguistique massif équivaudrait à la consommation électrique annuelle de 5 000 foyers, tout en étant jusqu'à cinq fois plus rapide que l'entraînement conventionnel. \n\nDe plus, Google a dévoilé sa nouvelle puce d'informatique quantique, \"Willow\", capable de corriger rapidement les erreurs de calcul, un obstacle clé à la mise à l'échelle de l'informatique quantique. La puce de Google crée un réseau de qubits qui deviennent meilleurs pour corriger les erreurs à mesure qu'ils grandissent.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675b80bf70ef258dd834ace6/0x0.jpg?format=jpg&crop=3000,1686,x0,y0,safe&width=440",
-        "date": "Fri, 13 Dec 2024 14:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/2024/12/13/24320342/ai-killer-app-gemini-chatgpt-vergecast",
-        "body": "Résumé : \n\nL'article, écrit par David Pierce, explore l'état actuel de la course à l'IA à la fin de 2024, avec des investissements records et une concurrence féroce. Il met en lumière les efforts de l'industrie technologique pour créer une application phare pour l'IA, en mettant en évidence les projets de Google tels que Gemini 2.0, Astra et Mariner. L'auteur discute également du lancement d'Android XR, de l'engagement de Google envers les lunettes intelligentes et les casques, ainsi que de développements connexes dans le domaine de l'IA, notamment le lancement et la disparition rapide de Sora d'OpenAI. L'épisode de Vergecast couvre également diverses actualités technologiques, notamment des mises à jour de YouTube, Instagram, TikTok, Sonos et Cruise.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1359/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788341/VRG_VST_1213_Site.jpg",
-        "date": "Fri, 13 Dec 2024 13:44:30 GMT"
     }
 ]
