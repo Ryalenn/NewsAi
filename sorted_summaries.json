@@ -145,26 +145,5 @@
         "body": "L'article explore les implications de l'avènement de l'IA sur la création de fausses vidéos, ou deepfakes, et leur impact potentiel sur la société, les entreprises et les individus. Il met en lumière la facilité croissante avec laquelle des contenus trompeurs peuvent être créés et partagés en ligne, remettant en cause la notion de preuve vidéo comme norme de vérité. Quatre approches sont proposées pour identifier les deepfakes : la détection de signaux visuels, l'utilisation d'outils technologiques spécialisés, le développement de l'esprit critique et l'investigation forensique professionnelle. L'auteur souligne l'importance de mesures préventives, de la formation et du développement de l'esprit critique pour faire face à cette nouvelle menace. La détection des deepfakes pourrait devenir une fonctionnalité courante des outils de vidéoconférence, et l'éducation, la vigilance et le développement technologique sont essentiels pour minimiser leur impact déstabilisateur.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/675bd2ebeaa4a9555ae55c6a/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Dec 2024 06:25:00 GMT"
-    },
-    {
-        "title": "ChatGPT : un nouveau mode d'interaction visuelle",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2440498_chatgpt-snobe-encore-leurope-avec-sa-derniere-nouveaute",
-        "body": "ChatGPT dévoile un nouveau mode vocal « avancé » permettant au chatbot d'analyser en direct ce qui se passe sur l'écran d'un téléphone mobile. Cette fonctionnalité, réservée aux utilisateurs payants, permet à l'IA de « voir » les applications utilisées ou de fournir des conseils en temps réel pendant la cuisine, par exemple. OpenAI avait annoncé ces capacités en mai, mais n'avait pas donné de nouvelles depuis. La démonstration récente de Gemini 2.0 par Google a peut-être incité OpenAI à montrer ses progrès. La fonctionnalité sera déployée aux États-Unis la semaine prochaine, et en Europe dès que possible, en raison de potentielles préoccupations liées à la vie privée et aux réglementations sur l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/openai-768x432.jpg?resize=169,169&key=0bec5f35",
-        "date": "Thu, 12 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "Recall, la fonction d'IA de Windows 11, soulève des inquiétudes en matière de confidentialité",
-        "link": "https://www.frandroid.com/marques/microsoft/2440558_malgre-les-promesses-de-microsoft-recall-continue-detre-un-danger-pour-vos-donnees-personnelles",
-        "body": "L'outil d'IA de Windows 11, Recall, qui capture automatiquement les écrans, soulève des inquiétudes quant à la protection des données personnelles. Malgré les promesses de Microsoft, Recall ne parvient pas à identifier correctement les informations sensibles, comme les numéros de carte de crédit et les données personnelles. Lors de tests, l'outil a enregistré des données sensibles, même lorsque leur nature confidentielle était clairement indiquée à l'écran. Microsoft a réagi en rappelant le caractère instable de Recall et en encourageant les utilisateurs à signaler tout problème. Bien que désactivé par défaut, Recall suscite des préoccupations quant à la confidentialité des données, soulignant la nécessité d'une amélioration pour garantir la protection des informations personnelles des utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/RecallS-768x432.webp?resize=169,169&key=547dc089",
-        "date": "Thu, 12 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT : l'IA qui voit et comprend",
-        "link": "https://www.frandroid.com/android/2440498_chatgpt-snobe-encore-leurope-avec-sa-derniere-nouveaute",
-        "body": "ChatGPT, le chatbot d'OpenAI, intègre désormais un mode vocal \"avancé\" qui lui permet d'analyser en direct ce qui se passe sur l'écran d'un téléphone mobile. Cette fonctionnalité, réservée aux utilisateurs payants, permet à l'IA de \"voir\" et de comprendre le contexte des applications utilisées ou des vidéos filmées. Ainsi, elle peut assister l'utilisateur en cuisine, l'aider à rédiger des messages ou se souvenir de ce qu'elle a vu. OpenAI avait annoncé ces capacités en mai, mais n'avait pas donné de nouvelles depuis. La démonstration récente de Gemini 2.0 par Google a peut-être poussé OpenAI à montrer ses progrès. La fonctionnalité sera disponible aux États-Unis la semaine prochaine, et en Europe \"dès que possible\", selon OpenAI, qui doit peut-être adapter son modèle aux réglementations sur l'IA et la vie privée en Europe et dans certains autres pays.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/openai-768x432.jpg?resize=169,169&key=0bec5f35",
-        "date": "Thu, 12 Dec 2024 23:00:00 GMT"
     }
 ]
