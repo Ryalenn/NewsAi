@@ -1,5 +1,61 @@
 [
     {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques rendent la technologie des chatbots basée sur des modèles linguistiques importants (LLM) plus accessible au grand public. Google, Microsoft et OpenAI sont en concurrence pour intégrer l'IA dans leurs produits, avec des annonces récentes telles que Whisk de Google, qui génère des images à partir d'images, et Deep Research de Google, qui utilise Gemini pour rechercher et résumer des informations sur le Web. OpenAI a également atteint 300 millions d'utilisateurs hebdomadaires avec ChatGPT, et prévoit 12 jours d'annonces de nouvelles fonctionnalités, y compris son outil text-to-video, Sora.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Mon, 16 Dec 2024 18:12:48 GMT"
+    },
+    {
+        "title": "Sora, l'outil de génération de vidéos par IA d'OpenAI",
+        "link": "https://www.theverge.com/2024/12/12/24318924/openai-sora-ai-video-generator-hands-on",
+        "body": "Sora, la nouvelle offre d'OpenAI, permet de générer des vidéos à partir de descriptions textuelles. Malgré des résultats encore imparfaits, avec des incohérences et des artefacts visuels, Sora surpasse ses concurrents en termes de réalisme. L'outil propose des abonnements payants pour accéder à des fonctionnalités avancées, mais son prix élevé le rend inaccessible à beaucoup. Sora inclut une fonctionnalité de storyboard et permet de télécharger des images de référence, mais des garde-fous sont en place pour éviter les abus. Bien que la qualité ne soit pas encore au rendez-vous, certains profitent déjà de la commodité des outils de génération de vidéos par IA pour créer du contenu non sensé ciblant les jeunes enfants sur YouTube.",
+        "image": "",
+        "date": "Mon, 16 Dec 2024 17:55:47 GMT"
+    },
+    {
+        "title": "Starlink en Arménie",
+        "link": "https://www.forbes.com/sites/craigsmith/2024/12/16/elon-musks-stars-over-armenia/?ss=ai",
+        "body": "Elon Musk, par le biais d'un message, a exprimé son enthousiasme à propos de Starlink en Arménie, soulignant l'exploration spatiale et le développement d'une IA ouverte et transparente. Le gouvernement arménien a mis en place un plan global pour l'intégration de Starlink, avec le soutien du ministère de l'industrie de haute technologie et de SpaceX. La phase de test est en cours, suggérant un déploiement potentiel avant 2025. Starlink pourrait transformer les zones rurales et mal desservies, offrant un accès à l'éducation en ligne, à la télémédecine et au commerce numérique. De plus, il garantit la connectivité Internet pendant les conflits avec les pays voisins. L'arrivée de Starlink donne à l'Arménie un outil pour renforcer son indépendance numérique et économique, tout en offrant une alternative à l'influence de l'Azerbaïdjan sur son infrastructure numérique. Les responsables arméniens sont conscients des leçons tirées de l'utilisation de Starlink en Ukraine, notamment en termes de continuité du service et de prévention des abus. L'initiative Starlink en Arménie pourrait établir un précédent pour la région, remodelant les paysages numériques et les dynamiques géopolitiques du Caucase.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67605ebe06b399945665dbb3/0x0.jpg?format=jpg&crop=1211,568,x0,y3,safe&width=440",
+        "date": "Mon, 16 Dec 2024 17:00:00 GMT"
+    },
+    {
+        "title": "La course à l'armement de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/16/3-enormous-supercomputers-may-now-be-in-the-works/?ss=ai",
+        "body": "La course à la puissance informatique dans le domaine de l'IA s'intensifie, avec des projets à l'échelle de Colossus, la plateforme de XAI, qui nécessite 1 million de GPU Nvidia. Broadcom annonce que trois de ses clients prévoient de développer des centres de données avec 1 million de processeurs XPU d'ici 2027. Bien que les entreprises spécifiques ne soient pas identifiées, ChatGPT suggère que Nvidia, Microsoft, Amazon, Google, OpenAI, Meta et Tesla sont les plus susceptibles d'entreprendre de tels projets. Cette course à la puissance soulève des inquiétudes quant à la consommation de ressources, en particulier d'énergie et d'eau, et conduit à des propositions d'expansion de l'infrastructure nucléaire pour alimenter ces superclusters. La rapidité de ces développements soulève des questions sur l'impact de ces superordinateurs sur la société.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67605616c3661a6f10e55e8b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "AI Safety Clock",
+        "link": "https://www.forbes.com/sites/torconstantino/2024/12/16/ai-safety-clock-ticks-closer-to-midnight-signifying-rising-risk/?ss=ai",
+        "body": "Des universitaires suisses ont créé une horloge de l'IA pour mettre en évidence les risques associés au développement incontrôlé d'une intelligence artificielle générale (IAG). L'horloge, qui se rapproche symboliquement de minuit, indique que nous sommes à 26 minutes de l'apparition potentielle d'une IAG non réglementée, ce qui pourrait entraîner le chaos informatique. L'horloge a été conçue pour fournir un modèle facile à comprendre pour les discussions critiques autour de l'IA, en mettant en évidence l'augmentation des risques à mesure que nous nous rapprochons de minuit. \n\nLe professeur Michael Wade, qui a dirigé l'équipe derrière l'horloge, a expliqué que l'avancée de trois minutes vers minuit met en évidence le rythme accéléré des progrès de l'IA et des risques associés. Il a souligné les récentes avancées dans l'IA agentique, le développement open source et les applications militaires, insistant sur l'urgence d'une réglementation robuste pour aligner l'innovation sur les normes de sécurité et d'éthique. L'équipe surveille les développements quantitatifs et qualitatifs de l'IA en temps réel, en utilisant un tableau de bord propriétaire qui suit les sites Web, les flux de nouvelles et les rapports d'experts, ainsi que la recherche manuelle. \n\nWade a déclaré que l'évaluation des risques est basée sur la sophistication, l'autonomie et la capacité d'exécution de l'IA, et a mis en garde contre les risques potentiels d'une IAG assumant le contrôle des ressources critiques, des infrastructures, des chaînes d'approvisionnement et d'autres nécessités pour la survie humaine. Il a conclu en soulignant la nécessité d'une réglementation robuste du développement de l'IA pour atténuer ces risques croissants.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67602fbcae20db71848d9221/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Capital One : L'avenir de l'IA dans les services financiers",
+        "link": "https://www.forbes.com/sites/peterhigh/2024/12/16/prem-natarajan-on-leading-ai-innovation-at-capital-one/?ss=ai",
+        "body": "Capital One, une entreprise de services financiers, a récemment recruté Prem Natarajan au poste de vice-président exécutif, scientifique en chef et responsable de l'IA d'entreprise. Natarajan, fort de plus de 20 ans d'expérience dans le domaine de l'apprentissage automatique, rejoint Capital One, séduit par sa profonde culture du data-driven. L'entreprise a toujours accordé une grande importance à l'innovation et à l'utilisation de la technologie et de l'analyse des données pour améliorer l'expérience client et révolutionner le secteur bancaire. Natarajan souligne la culture « vibrante » de Capital One, qui intègre des technologies de pointe dans tous les aspects de ses activités, notamment l'IA générative pour le développement de logiciels et l'assistance aux agents dans les centres d'appels. Un élément clé du rôle de Natarajan consiste à garantir que Capital One reste à l'avant-garde de l'innovation en matière d'IA, en mettant l'accent sur les pratiques fondamentales et la transition vers une infrastructure basée sur le cloud. Capital One collabore également avec des institutions universitaires telles que l'USC, Columbia University et le MIT pour faire progresser l'IA responsable et promouvoir la diversité dans le développement de l'IA. Natarajan est enthousiasmé par l'intégration continue de l'IA dans les opérations de Capital One, qui considère l'innovation comme un processus d'apprentissage et de test itératif.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675dc9fb961978370e81003f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA selon le PDG de Arm",
+        "link": "https://www.theverge.com/24320687/arm-ceo-rene-haas-on-the-ai-chip-race-intel-and-what-trump-means-for-tech",
+        "body": "Rene Haas, PDG de Arm, a partagé sa vision de l'avenir de l'IA lors d'une interview. Il prévoit une croissance de l'IA dans divers secteurs, notamment les appareils mobiles, les centres de données et l'automobile. Haas souligne l'importance de l'intégration verticale et de l'équilibre entre matériel et logiciel pour tirer parti de l'IA. Arm envisage de concevoir ses propres puces IA, mais Haas reste évasif sur le sujet. Il aborde également les défis géopolitiques, la stratégie de Chine, les tarifs douaniers et l'impact de l'administration Trump. Il salue les initiatives gouvernementales telles que le CHIPS Act, mais pense que l'IA n'a pas besoin d'un projet Manhattan. Il prévoit que l'IA atteindra bientôt un point de basculement, avec des modèles capables de raisonner et d'inventer.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788989/DCD_1215.jpg",
+        "date": "Mon, 16 Dec 2024 15:15:00 GMT"
+    },
+    {
+        "title": "L'avenir du service client : l'émergence des chatbots IA conversationnels",
+        "link": "https://www.forbes.com/sites/craigsmith/2024/12/16/efficiency-meets-empathy-how-ai-is-redefining-customer-service/?ss=ai",
+        "body": "L'auteur explore l'évolution du service client grâce à l'IA, en particulier l'émergence de chatbots conversationnels. Ces chatbots, appelés « agents conversationnels » dans le jargon du secteur, offrent des réponses personnalisées et étrangement humaines, décodant les demandes incohérentes avec efficacité. L'article met en lumière plusieurs entreprises à l'avant-garde de cette révolution de l'IA, notamment Yellow.ai, IBM, Cognigy.AI, LivePerson, Sierra et Crescendo. Sierra, fondée par des cadres de Salesforce, OpenAI et Google, développe des agents IA capables de gérer une large gamme de requêtes clients. Crescendo, quant à lui, combine l'intelligence des chatbots avec l'empathie humaine, créant une IA « augmentée » qui automatise les requêtes pré-ventes et résout les problèmes post-ventes tout en conservant une touche humaine. L'article souligne l'efficacité, l'empathie et la rentabilité de ces solutions IA, et suggère qu'elles pourraient transformer le service client en quelque chose de plus proche d'un service de conciergerie.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676048b59e7c07649d499744/0x0.jpg?format=jpg&crop=3615,1693,x0,y83,safe&width=440",
+        "date": "Mon, 16 Dec 2024 15:00:00 GMT"
+    },
+    {
         "title": "La course à l'IA",
         "link": "https://www.forbes.com/sites/craigsmith/2024/12/16/ai-titans-jeff-dean-and-yann-lecun-on-the-future-of-ai/?ss=ai",
         "body": "Les récents événements de la conférence NeurIPS à Vancouver ont été marqués par les interventions de Jeff Dean de Google et de Yann LeCun de Meta, qui ont partagé leur vision de l'évolution de l'intelligence artificielle. Jeff Dean a présenté Gemini 2.0, le modèle d'IA le plus avancé de Google, conçu pour l'ère de l'agentivité, avec des fonctionnalités améliorées pour la gestion des images, de l'audio et des tâches complexes. Dean a souligné l'importance de l'intégration pratique et de la puissance de calcul pour améliorer les capacités de l'IA. Yann LeCun, quant à lui, a mis l'accent sur l'open-source, prédisant que les futurs systèmes d'IA évolueront grâce à des efforts de formation distribués à l'échelle mondiale. Il a présenté Llama 3.3, le nouveau modèle de langage de Meta, et Motivo, un modèle d'IA pour l'animation d'agents virtuels dans le métaverse. LeCun a également critiqué la dépendance excessive aux grands modèles linguistiques, soulignant la nécessité de systèmes d'IA capables de raisonnement, de planification et de compréhension du monde physique. Malgré leurs approches différentes, Dean et LeCun convergent sur l'importance de créer des systèmes d'IA qui comprennent et interagissent mieux avec le monde physique, et sur le potentiel de transformation de l'IA pour amplifier les capacités humaines.",
@@ -49,6 +105,27 @@
         "date": "Mon, 16 Dec 2024 01:22:00 GMT"
     },
     {
+        "title": "Les géants des réseaux sociaux s'adaptent à l'ère de l'IA",
+        "link": "https://www.theverge.com/2024/12/15/24321880/instagram-threads-adam-mosseri-dont-trust-images-ai-generated-labeling-moderation",
+        "body": "Le directeur d'Instagram, Adam Mosseri, a publié une série de messages sur le fil d'actualité du réseau social, avertissant les utilisateurs de se méfier des images qu'ils rencontrent en ligne, car l'IA produit désormais du contenu facilement pris pour la réalité. Mosseri suggère que les plateformes de médias sociaux devraient s'efforcer d'identifier et d'étiqueter le contenu généré par l'IA, tout en fournissant un contexte sur les personnes qui le partagent. Bien que les plateformes de Meta n'offrent pas encore ce type de contexte, l'entreprise a suggéré que des changements importants dans les règles de contenu étaient à venir. Les propositions de Mosseri semblent s'aligner sur la modération dirigée par les utilisateurs, comme sur les plateformes X et YouTube, ou les filtres de modération personnalisés de Bluesky.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951353/STK043_VRG_Illo_N_Barclay_3_Meta.jpg",
+        "date": "Sun, 15 Dec 2024 23:30:30 GMT"
+    },
+    {
+        "title": "Hey Gemini",
+        "link": "https://www.frandroid.com/marques/2442996_vous-connaissiez-hey-google-vous-allez-apprendre-a-connaitre-hey-gemini",
+        "body": "Google envisage de remplacer la commande vocale « Hey Google » par « Hey Gemini », introduisant ainsi sa nouvelle IA, Gemini 2.0. Cette IA est conçue pour anticiper les besoins des utilisateurs et effectuer des tâches sous leur supervision, offrant une expérience plus personnalisée et unique. La commande « Hey Gemini » pourrait indiquer une évolution vers une interaction plus individuelle avec l'assistant de Google, comme le montrent les vidéos de démonstration. Gemini, avec ses capacités avancées, pourrait éventuellement rendre obsolète la commande « Hey Google ».",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/google-pixel-9-gemini-1200x675-1-768x432.jpg?resize=169,169&key=78f302b8",
+        "date": "Sun, 15 Dec 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Samsung Bixby s'enrichit de fonctionnalités IA",
+        "link": "https://www.frandroid.com/marques/samsung/2442758_galaxy-s25-samsung-reinvente-son-assistant-avec-cette-technologie",
+        "body": "Samsung améliore son assistant personnel Bixby en y intégrant des fonctionnalités d'intelligence artificielle. Cette nouvelle version, introduite avec les Galaxy S8 et S8+, est désormais capable de comprendre le langage naturel, d'extraire des données d'applications et de naviguer vocalement. Ces mises à jour visent à rivaliser avec des assistants virtuels populaires comme ChatGPT et Google Gemini. Pour le moment, la nouvelle version de Bixby n'est disponible qu'en Chine sur les modèles Galaxy W25 et W25 Flip, mais une sortie internationale pourrait accompagner le lancement du Galaxy S25.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/samsung-galaxy-s24-ultra-5-2-1200x799-1-768x511.jpg?resize=200,200&key=027f669e",
+        "date": "Sun, 15 Dec 2024 23:00:00 GMT"
+    },
+    {
         "title": "Grok 2, le nouveau chatbot d'Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2442546_ce-chatbot-est-gratuit-et-pourtant-il-surpasse-o1-sur-chatgpt",
         "body": "xAI, la start-up d'intelligence artificielle d'Elon Musk, a lancé Grok 2, un chatbot gratuit pour les utilisateurs de X (ex-Twitter). Grok 2 se distingue par sa capacité à accéder en temps réel à des informations sur X et le web, citant systématiquement ses sources. Il offre également un bouton pour fournir des informations contextuelles sur les discussions et peut générer des images. Les benchmarks internes placent Grok 2 devant GPT-40 et o1 d'OpenAI, mais ces résultats doivent être validés indépendamment. L'API de Grok 2 est disponible à un tarif compétitif, mais soulève des inquiétudes éthiques quant à la création de contenu sans limites.",
@@ -84,38 +161,10 @@
         "date": "Sun, 15 Dec 2024 21:11:00 GMT"
     },
     {
-        "title": "L'IA au service de la religion ?",
-        "link": "https://www.forbes.com/sites/lesliekatz/2024/12/14/when-ai-jesus-entered-the-confessional-lessons-from-a-divisive-experiment/?ss=ai",
-        "body": "L'Université des Sciences et des Arts de Lucerne, en Suisse, a récemment présenté \"AI Jesus\", une installation artistique interactive dans une église locale. Cette expérience a suscité des réactions mitigées, certains la qualifiant de blasphématoire tandis que d'autres la trouvent inspirante. \"AI Jesus\" est un avatar conversationnel développé par l'Immersive Realities Research Lab de l'université, en collaboration avec un théologien. L'objectif était d'explorer le rôle de la technologie dans la religion et son intersection croissante avec celle-ci. Les visiteurs de l'église ont pu interagir avec \"AI Jesus\" dans un confessionnal, posant des questions sur la foi, l'amour, la sexualité, la mort et la vie après la mort. Les conversations sont maintenant étudiées pour mieux comprendre la confiance des humains dans les machines. L'installation soulève des questions éthiques et théologiques, et met en lumière l'intérêt croissant pour l'utilisation de l'IA dans des contextes spirituels.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675d315ff89850047b9368a1/0x0.jpg?format=jpg&crop=1254,853,x23,y0,safe&width=440",
-        "date": "Sat, 14 Dec 2024 18:00:00 GMT"
-    },
-    {
-        "title": "Transformation Numérique",
-        "link": "https://www.forbes.com/sites/peterhigh/2024/12/14/digital-innovation-powers-173-year-old-cornings-future/?ss=ai",
-        "body": "Corning Incorporated, un leader dans le domaine de la science des matériaux et de l'innovation, a adopté la transformation numérique sous la direction de Soumya Seetharam, sa Chief Digital and Information Officer (CDIO). Seetharam croit que « dans le futur, tout le monde sera un technologue ». Pour soutenir cette vision, Corning a réduit sa dette technique, améliorant ainsi l'agilité et la cybersécurité, et a économisé 10 millions de dollars par an. L'entreprise a également développé Corning GPT, une instance privée de ChatGPT, qui permet aux employés d'expérimenter l'IA générative tout en protégeant la propriété intellectuelle de l'entreprise. Le conseil d'administration de Corning, avec son comité technologique dédié, joue un rôle clé dans l'impulsion de la transformation numérique, alignant ainsi la technologie avec les objectifs de croissance de l'entreprise. Seetharam se concentre désormais sur l'exploitation des vastes ressources de données de Corning, en utilisant l'IA générative pour améliorer la prise de décision. Malgré les défis financiers, l'équipe de Seetharam a été un moteur d'optimisme, investissant et innovant dans les technologies numériques, assurant ainsi la continuité de l'héritage d'innovation de Corning.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675dc52e38f025338da9ec57/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 14 Dec 2024 17:53:00 GMT"
-    },
-    {
-        "title": "L'avenir des interfaces cerveau-ordinateur",
-        "link": "https://www.forbes.com/sites/johnwerner/2024/12/14/mit-pioneers-ai-related-bci-tech/?ss=ai",
-        "body": "L'interface cerveau-ordinateur (ICO) est une technologie qui n'était autrefois présente que dans la science-fiction, mais qui devient rapidement une réalité grâce aux avancées en électroencéphalographie (EEG) et en intelligence artificielle. Le groupe des interfaces fluides du MIT, dirigé par la scientifique éminente Patty Maes, est à l'avant-garde de ce domaine, en explorant des dispositifs tels que des lunettes et des casques de biofeedback qui peuvent améliorer nos vies. Nataliya Kosmyna, membre du groupe, explique que les ICO sont actuellement utilisées principalement pour aider les personnes ayant des difficultés motrices ou d'autres handicaps, mais qu'elles pourraient devenir aussi courantes que la technologie de reconnaissance des empreintes digitales, car chaque pensée humaine est unique. L'un des avantages de ces ICO est qu'elles sont non invasives, contrairement aux implants cérébraux souvent associés à la cybernétique. Kosmyna souligne que les casques, par exemple, peuvent être enlevés à tout moment et sont tout de même capables de fournir des données précieuses sur l'activité cérébrale. Ces données, lorsqu'elles sont combinées à l'IA, peuvent nous aider à mieux comprendre le fonctionnement du cerveau humain et ont même des applications potentielles dans le contrôle de véhicules, comme l'explorent actuellement la NASA et d'autres organisations.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675dc1db25dda95d0164a88c/0x0.png?format=png&width=440",
-        "date": "Sat, 14 Dec 2024 17:37:00 GMT"
-    },
-    {
-        "title": "L'IA et l'avenir des interactions humaines",
-        "link": "https://www.forbes.com/sites/corneliawalther/2024/12/14/placebo-ai-is-your-business-using-automation-as-a-hollow-fix/?ss=ai",
-        "body": "L'article explore les dangers de l'utilisation de l'IA comme placebo pour les relations humaines, où les interactions interpersonnelles deviennent un luxe que seuls les riches peuvent se permettre. Il met en garde contre la tendance croissante à dépendre de systèmes d'IA qui semblent utiles en surface, mais qui mènent à une désillusion chronique des consommateurs et à une insatisfaction latente. L'auteur soulève des questions importantes sur l'impact de l'IA sur les droits humains et les valeurs sociales, en particulier dans les communautés défavorisées. L'IA, lorsqu'elle est utilisée comme mesure d'austérité, peut compromettre la qualité de vie et éroder la dignité et les droits humains. L'article plaide pour une utilisation responsable de l'IA qui complète, plutôt que de compromettre, les valeurs humaines et sociales. Il souligne l'importance de la sensibilisation, de la valorisation des interactions humaines et de la responsabilisation des dirigeants pour garantir que l'IA n'entrave pas la dignité humaine et les droits humains. L'article conclut en appelant à un chemin équilibré où la technologie soutient, plutôt que de remplacer, notre humanité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/675db3f7ce751f0bac57b478/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 14 Dec 2024 17:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grandes entreprises technologiques investissent massivement dans la recherche et le développement de l'IA, avec des milliards de dollars injectés dans la création de nouveaux modèles et produits. Microsoft, Google, Amazon, OpenAI et d'autres sont en concurrence pour créer des applications pratiques et rentables pour l'IA, en l'intégrant dans des produits grand public et en améliorant les capacités de traitement du langage naturel. L'article couvre également la controverse entourant un ancien stagiaire de ByteDance, Keyu Tian, qui a remporté un prix prestigieux pour ses recherches en IA, malgré des accusations de sabotage et d'appropriation de ressources. Enfin, il aborde les développements de plusieurs entreprises, notamment les améliorations apportées à Google Drive et Google Gemini, le lancement de Deep Research par Google, les changements apportés à Copilot de Microsoft et les nouveaux modèles d'image générés par IA de X, la société d'Elon Musk.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Sat, 14 Dec 2024 16:30:18 GMT"
+        "title": "La prédiction technologique pour 2025",
+        "link": "https://www.theverge.com/2024/12/15/24320517/2025-preview-tech-politics-ai-regulation-vergecast",
+        "body": "Dans cet épisode de The Vergecast, les présentateurs discutent des prédictions technologiques pour 2025 avec un invité spécial, un voyageur du temps nommé David. Ils spéculent sur divers scénarios, notamment l'avenir des dirigeants des grandes entreprises technologiques, la popularité des téléphones pliables, la possibilité qu'Apple crée une télévision et la valeur record de Nvidia. L'émission adopte un format de jeu où les présentateurs marquent des points en devinant correctement si les nouvelles de 2025 sont vraies ou fausses. Les prédictions incluent l'achat potentiel de Snap, le succès de GTA VI et la montée en puissance de Bluesky par rapport à Threads.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25791095/VRG_VST_1214_Site.jpg",
+        "date": "Sun, 15 Dec 2024 15:00:00 GMT"
     }
 ]
