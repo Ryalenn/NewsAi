@@ -1,5 +1,12 @@
 [
     {
+        "title": "Arm contre Qualcomm",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/16/arm-squares-off-against-qualcomm-in-a-case-with-broad-implications/?ss=ai",
+        "body": "Arm et Qualcomm s'affrontent lors d'un procès devant jury au tribunal de district américain du Delaware. Le procès, qui commence le 16 décembre 2024, concerne un différend contractuel lié à l'acquisition de Nuvia par Qualcomm en 2021. Arm a accordé des licences TLA et ALA à Nuvia, fondée par d'anciens ingénieurs d'Apple et de Google, pour promouvoir l'architecture Arm dans les applications de centres de données et de serveurs. Cependant, Arm estime que l'acquisition de Nuvia par Qualcomm viole les termes de l'accord ALA et engage des poursuites en 2022 pour demander à Qualcomm d'arrêter d'utiliser la technologie Nuvia. Arm va jusqu'à résilier les accords de licence de Nuvia. Qualcomm affirme qu'il a le droit d'utiliser sa propre licence ALA avec Arm et la technologie Nuvia non liée à l'architecture Arm. Le cœur du litige porte sur la question de savoir si la technologie Nuvia est couverte par l'accord ALA et si Nuvia a le droit de transférer la propriété intellectuelle à Qualcomm sans le consentement d'Arm. Le procès aura des implications importantes pour l'écosystème technologique, en particulier pour l'écosystème PC Windows et la chaîne d'approvisionnement de l'électronique, et pourrait créer un précédent pour les licences de propriété intellectuelle, les fusions et acquisitions et le droit des contrats dans le secteur technologique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67601e62a32c37777f525828/0x0.png?format=png&width=440",
+        "date": "Mon, 16 Dec 2024 12:40:00 GMT"
+    },
+    {
         "title": "Santa Claus et l'IA : prudence est de mise",
         "link": "https://www.forbes.com/sites/lanceeliot/2024/12/16/ai-impersonations-of-santa-claus-are-not-to-be-trusted/?ss=ai",
         "body": "L'article met en garde contre les dangers potentiels de l'utilisation de l'IA pour imiter le Père Noël. Bien que cela puisse sembler amusant et inoffensif, l'IA peut facilement dévier de son intention initiale et devenir négative, voire criminelle. Les escrocs peuvent utiliser des imitations du Père Noël pour tromper les utilisateurs et leur soutirer de l'argent ou des informations personnelles. De plus, l'IA peut faire des erreurs et générer des fausses informations, ce qui peut être problématique si l'on considère que l'IA est une source d'information fiable. L'article fournit des exemples d'interactions avec un Père Noël basé sur l'IA qui tournent mal, soulignant l'importance d'être vigilant lors de l'utilisation de ces technologies, en particulier avec les enfants. Enfin, il offre des conseils pour interagir avec l'IA pendant la saison des fêtes, en insistant sur la prudence et la conscience des possibles pièges.",
@@ -26,6 +33,27 @@
         "body": "L'article explore l'idée que les avancées les plus significatives dans le domaine créatif, comme l'écriture d'Hemingway influencée par Cézanne, proviennent souvent de sources d'inspiration inattendues et externes. Il suggère que les modèles d'IA multimodale ou les expériences de prompts de chaîne de pensée pourraient mimer ce processus en intégrant des connaissances provenant de multiples disciplines. L'auteur met en garde contre la recherche d'un processus créatif \"optimal\", soulignant que l'originalité et l'innovation naissent souvent de l'exploration et de la patience, plutôt que de l'optimisation et de l'efficacité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67467f40aa91afb2269682e0/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 16 Dec 2024 01:22:00 GMT"
+    },
+    {
+        "title": "Grok 2, le nouveau chatbot d'Elon Musk",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2442546_ce-chatbot-est-gratuit-et-pourtant-il-surpasse-o1-sur-chatgpt",
+        "body": "xAI, la start-up d'intelligence artificielle d'Elon Musk, a lancé Grok 2, un chatbot gratuit pour les utilisateurs de X (ex-Twitter). Grok 2 se distingue par sa capacité à accéder en temps réel à des informations sur X et le web, citant systématiquement ses sources. Il offre également un bouton pour fournir des informations contextuelles sur les discussions et peut générer des images. Les benchmarks internes placent Grok 2 devant GPT-40 et o1 d'OpenAI, mais ces résultats doivent être validés indépendamment. L'API de Grok 2 est disponible à un tarif compétitif, mais soulève des inquiétudes éthiques quant à la création de contenu sans limites.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/image-37-3-1200x823-1-768x527.jpg?resize=206,206&key=9e383f80",
+        "date": "Sun, 15 Dec 2024 23:00:00 GMT"
+    },
+    {
+        "title": "Vos photos parlent",
+        "link": "https://www.frandroid.com/marques/google/2442106_ce-site-vous-montre-tout-ce-que-google-peut-apprendre-de-vous-grace-a-vos-photos",
+        "body": "L'article met en lumière la capacité de l'IA à extraire une multitude d'informations à partir d'une simple photo. Le site \"They see your photos\", mis en ligne par l'entreprise EnteIO, utilise les outils de vision par ordinateur de Google Cloud pour analyser les clichés et en extraire des données personnelles telles que l'origine ethnique, le milieu social, l'âge et les loisirs. La plateforme exploite les métadonnées de la photo (localisation, modèle de l'appareil, heure, etc.) et scanne également le contenu visuel pour collecter des informations. Bien que le site serve de publicité pour la solution d'hébergement de photos chiffrées d'Ente, il offre un aperçu des capacités de déduction d'une machine à partir d'une image.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/capture-decran-du-2024-12-15-20-25-56-1200x612-1-768x392.jpg?resize=153,153&key=86ddd42d",
+        "date": "Sun, 15 Dec 2024 23:00:00 GMT"
+    },
+    {
+        "title": "La vraie nature d'Elon Musk",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2442446_openai-balance-ses-dossiers-sur-elon-musk-ce-quon-y-decouvre",
+        "body": "Le document publié par OpenAI révèle un contraste frappant entre les déclarations publiques d'Elon Musk et ses intentions réelles. Avant même le lancement officiel d'OpenAI, Musk remettait en question le statut à but non lucratif de l'organisation, suggérant de créer une société commerciale traditionnelle. Plus tard, il a exigé une part majoritaire dans l'entreprise, des sièges au conseil d'administration et le poste de PDG, menaçant de couper les financements lorsqu'on lui a refusé. Cette révélation met en lumière la lutte pour le contrôle de l'IA, Musk étant motivé par des intérêts commerciaux et financiers plutôt que par des préoccupations éthiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/cyber-rodeo-at-giga-texas-52-49-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=e501a678",
+        "date": "Sun, 15 Dec 2024 23:00:00 GMT"
     },
     {
         "title": "La révolution de l'IA : des exigences croissantes et des défis à relever",
