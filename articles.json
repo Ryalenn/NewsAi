@@ -54,5 +54,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/675f5c6c2d764257099934a8/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 15 Dec 2024 22:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/16/ai-impersonations-of-santa-claus-are-not-to-be-trusted/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675fb4dd0e1bc19c02160c77/0x0.jpg?format=jpg&crop=1718,1145,x477,y0,safe&width=440",
+        "date": "Mon, 16 Dec 2024 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/12/16/aws-reinvent-2024-balancing-cloud-infrastructure-and-ai-ambitions/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675fd19f9b3c1238280f328a/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/12/16/6-game-changing-ai-breakthroughs-that-defined-2024/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675fd1ce122216c83e2c53fc/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 07:00:00 GMT",
+        "check": "no"
     }
 ]
