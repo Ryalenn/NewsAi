@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous connaissiez « Hey Google », vous allez apprendre à connaître « Hey Gemini »",
+        "title": "Vous connaissiez \u00ab Hey Google \u00bb, vous allez apprendre \u00e0 conna\u00eetre \u00ab Hey Gemini \u00bb",
         "link": "https://www.frandroid.com/marques/2442996_vous-connaissiez-hey-google-vous-allez-apprendre-a-connaitre-hey-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/google-pixel-9-gemini-1200x675-1-768x432.jpg?resize=169,169&key=78f302b8",
         "date": "Sun, 15 Dec 2024 23:00:00 GMT",
@@ -161,14 +161,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT Search gratuit : OpenAI lance l’offensive finale contre Google Search",
+        "title": "ChatGPT Search gratuit : OpenAI lance l\u2019offensive finale contre Google Search",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2443262_chatgpt-search-devient-gratuit-la-fin-du-regne-de-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/image-40-4-768x432.jpg?resize=169,169&key=2796cf32",
         "date": "Sun, 15 Dec 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Google sort l’artillerie lourde : Veo 2, Imagen 3 et Whisk pour contrer OpenAI",
+        "title": "Google sort l\u2019artillerie lourde : Veo 2, Imagen 3 et Whisk pour contrer OpenAI",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2443236_google-sort-lartillerie-lourde-veo-2-imagen-3-et-whisk-pour-contrer-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/image-40-3-768x433.jpg?resize=169,169&key=b2d36162",
         "date": "Sun, 15 Dec 2024 23:00:00 GMT",
@@ -222,5 +222,68 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6760b3d838a2d99d90aac67c/0x0.jpg?format=jpg&crop=4043,3033,x252,y0,safe&width=440",
         "date": "Tue, 17 Dec 2024 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Adobe d\u00e9clare la guerre aux reflets qui polluent vos plus belles photos",
+        "link": "https://www.frandroid.com/produits-android/photo/appareil-photo/2444054_adobe-declare-la-guerre-aux-reflets-qui-polluent-vos-plus-belles-photos",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/screenshot-2024-12-17-at-16-03-24-media-12256b9244844f455b918202483b4ca8a6906e87ajpeg-webp-image-1430-x-889-pixels-1200x746-1-768x477.jpg?resize=187,187&key=1d3d008a",
+        "date": "Mon, 16 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/meta/2443356_ray-ban-meta-les-lunettes-connectees-prennent-de-lavance-sur-google-avec-ces-nouvelles-fonctionnalites",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/Ray-ban-meta-1200x674-1-768x431.webp?resize=169,169&key=e977979e",
+        "date": "Mon, 16 Dec 2024 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2024/12/17/the-prompt-openais-legal-battle-with-musk-heats-up/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/670dab52607b76894203b438/0x0.jpg?format=jpg&crop=3349,1886,x0,y172,safe&width=440",
+        "date": "Tue, 17 Dec 2024 18:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/geruiwang/2024/12/17/chatgpt-how-search-and-chat-combined-are-changing-the-way-we-explore/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67496322f4d7eb71a2d9c00a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexkonrad/2024/12/17/villi-iltchev-raises-160-million-debut-fund-category/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67619b036cb12e5b90dee8b5/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/17/new-functionality-from-google-notebook-lm-is-pretty-amazing/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67619f3a139914be7d3cf6bc/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/17/lumen-orbit-wants-to-put-data-centers-in-space/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676184730f7bd04615350b6e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2024/12/16/openai-resumes-sora-sign-ups-after-pause-due-to-high-launch-demand/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6760918491ca62030ac4fce3/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Dec 2024 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/frankmckenna/2024/12/16/5-ai-scams-set-to-surge-in-2025-what-you-need-to-know/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675cc14c33015e1ac6fe4d12/0x0.jpg?format=jpg&crop=1809,1206,x0,y0,safe&width=440",
+        "date": "Mon, 16 Dec 2024 00:00:00 GMT",
+        "check": "no"
     }
 ]
