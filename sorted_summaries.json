@@ -1,5 +1,19 @@
 [
     {
+        "title": "Les outils de l'IA au service de la révolution des ressources humaines",
+        "link": "https://www.forbes.com/sites/bernardmarr/2024/12/17/16-essential-generative-ai-tools-transforming-hr-in-2025/?ss=ai",
+        "body": "Les professionnels des ressources humaines (RH) sont parmi les plus grands adeptes de la technologie de l'IA. 38 % d'entre eux utilisent déjà l'IA générative ou prévoient de le faire, selon une étude de Gartner. Les cas d'utilisation vont du tri des CV à l'intégration des nouvelles recrues, en passant par la rédaction des descriptions de poste et l'automatisation des évaluations de performance. \n\n**Leena** est une plateforme RH complète qui offre une assistance virtuelle pour diverses tâches, notamment la gestion des performances, la résolution des requêtes et l'intégration des nouveaux employés via des agents autonomes. **Eightfold Talent Intelligence** est une plateforme de gestion des talents qui utilise le langage naturel pour assister les recruteurs et les employés, en leur offrant des opportunités de formation et d'évolution de carrière. **Metaview** est un outil qui automatise la prise de notes lors des entretiens et évaluations des candidats, résumant et annotant les conversations. **Benify** fournit des réponses automatisées aux questions sur les avantages sociaux et les politiques RH, et son assistant IA, Beni, aide à administrer les programmes de santé personnalisés. \n\n**Lattice** est une plateforme de gestion du personnel qui utilise l'IA pour fournir des réponses en temps réel aux questions des employés et des plans de développement de carrière personnalisés. Il automatise également les résumés et les commentaires des évaluations de performance. **Culture Amp** est une plateforme d'analyse des personnes qui génère des résumés automatisés des enquêtes de feedback des employés. D'autres outils notables incluent CVViz, Effy, HireVue, Kona, Paradox, Plansource, SAP SuccessFactors, Textio, Visier et Workday Illuminate. \n\nCes outils ne sont que le début d'une ère transformative dans la gestion des ressources humaines, permettant aux professionnels des RH de se concentrer sur l'aspect humain de leur rôle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676098f362b6b37b40034bfb/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 06:30:00 GMT"
+    },
+    {
+        "title": "Arm vs Qualcomm : La bataille juridique pour l'avenir de l'IA mobile",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2024/12/17/arm-squares-off-against-qualcomm-day-1/?ss=ai",
+        "body": "Résumé : \n\nLe premier jour du procès entre Arm et Qualcomm a mis en lumière des perspectives contrastées sur un différende contractuel. Arm affirme que Qualcomm a acquis Nuvia pour économiser sur les coûts de licence en utilisant un accord ALA au lieu d'un TLA plus coûteux. Qualcomm, de son côté, déclare qu'il a dû acquérir Nuvia en raison du manque de compétitivité des cœurs CPU Arm. Un autre point de discorde est l'importance du manuel de référence Arm ISA, Arm le considérant comme protégé par le droit d'auteur et essentiel à la conception conforme, tandis que Qualcomm le considère comme une solution open source. Les témoins experts ont apporté des éclairages sur la détérioration des relations entre les entreprises, notamment le PDG d'Arm qualifiant Qualcomm d'\"ennemi\". Les détails des contrats révèlent qu'Arm avait le droit d'approuver tout transfert de licence, mais Qualcomm a demandé un transfert de la propriété intellectuelle de Nuvia sous la forme du cœur CPU \"Phoenix\". Arm cherche à modifier le contrat existant ou à négocier un nouveau contrat avec des taux de redevance plus élevés. Le temps imparti pour le procès est limité à 22 heures, et de nombreux témoignages d'experts restent à venir. L'issue du procès dépendra de la décision du jury quant à une éventuelle violation du contrat de licence ALA de Nuvia.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67610421f72df95a11c526b4/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Dec 2024 05:00:00 GMT"
+    },
+    {
         "title": "Waymo s'associe à Nihon Kotsu pour tester des taxis robots au Japon",
         "link": "https://www.forbes.com/sites/alanohnsman/2024/12/16/waymo-robotaxis-are-heading-to-tokyo-for-their-first-overseas-road-tests/?ss=ai",
         "body": "Waymo, filiale d'Alphabet Inc. et leader américain des robotaxis, s'associe à Nihon Kotsu, premier opérateur de taxis japonais, pour tester une flotte de taxis robots électriques Jaguar I-Pace à Tokyo début 2024. Waymo prévoit également de lancer son service de taxis robots à Miami, Austin et Atlanta, et a récemment levé 5,6 milliards de dollars pour financer son expansion. L'entreprise vise à réduire ses coûts en s'approvisionnant en véhicules électriques auprès de Hyundai et en adoptant des solutions informatiques et matérielles de capteurs moins onéreuses.",
@@ -14,6 +28,13 @@
         "date": "Mon, 16 Dec 2024 22:00:00 GMT"
     },
     {
+        "title": "Whisk, l'outil de génération d'images de Google",
+        "link": "https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in",
+        "body": "Google a présenté Whisk, un nouvel outil d'IA qui permet de créer des images à partir d'autres images, sans avoir besoin de longs textes descriptifs. Whisk utilise l'image fournie comme suggestion pour le sujet, le décor et le style de l'image générée, et accepte plusieurs images pour chaque catégorie. L'outil offre également la possibilité d'ajouter du texte pour plus de détails. Les images sont générées rapidement et peuvent être affinées en modifiant les invites de texte. Google souligne que Whisk est conçu pour l'exploration visuelle rapide, et que les résultats peuvent parfois être imprécis, d'où la possibilité d'éditer les invites sous-jacentes. L'outil utilise la dernière version du modèle de génération d'images de Google, Imagen 3, et est conçu pour être amusant et facile à utiliser.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1752x1167/2400x1600/filters:focal(876x584:877x585):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792808/ai_label_3.png",
+        "date": "Mon, 16 Dec 2024 18:12:48 GMT"
+    },
+    {
         "title": "La course à l'IA s'intensifie",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
         "body": "Les grandes entreprises technologiques rendent la technologie des chatbots basée sur des modèles linguistiques importants (LLM) plus accessible au grand public. Google, Microsoft et OpenAI sont en concurrence pour intégrer l'IA dans leurs produits, avec des annonces récentes telles que Whisk de Google, qui génère des images à partir d'images, et Deep Research de Google, qui utilise Gemini pour rechercher et résumer des informations sur le Web. OpenAI a également atteint 300 millions d'utilisateurs hebdomadaires avec ChatGPT, et prévoit 12 jours d'annonces de nouvelles fonctionnalités, y compris son outil text-to-video, Sora.",
@@ -26,6 +47,13 @@
         "body": "Sora, la nouvelle offre d'OpenAI, permet de générer des vidéos à partir de descriptions textuelles. Malgré des résultats encore imparfaits, avec des incohérences et des artefacts visuels, Sora surpasse ses concurrents en termes de réalisme. L'outil propose des abonnements payants pour accéder à des fonctionnalités avancées, mais son prix élevé le rend inaccessible à beaucoup. Sora inclut une fonctionnalité de storyboard et permet de télécharger des images de référence, mais des garde-fous sont en place pour éviter les abus. Bien que la qualité ne soit pas encore au rendez-vous, certains profitent déjà de la commodité des outils de génération de vidéos par IA pour créer du contenu non sensé ciblant les jeunes enfants sur YouTube.",
         "image": "",
         "date": "Mon, 16 Dec 2024 17:55:47 GMT"
+    },
+    {
+        "title": "Les lunettes intelligentes de Meta se dotent de fonctionnalités d'IA",
+        "link": "https://www.theverge.com/2024/12/16/24322628/ray-ban-meta-smart-glasses-live-ai-translation-shazam",
+        "body": "Meta ajoute de nouvelles fonctionnalités d'IA à ses lunettes intelligentes Ray-Ban : l'assistant IA de Meta, la traduction en direct et l'intégration de Shazam. L'IA en direct permet aux utilisateurs de discuter naturellement avec l'assistant IA de Meta tout en analysant leur environnement visuel. La traduction en direct traduit la parole en temps réel entre l'anglais et d'autres langues, et Shazam permet d'identifier les chansons que l'on entend. Ces fonctionnalités soulignent l'importance croissante de l'IA dans les lunettes intelligentes, avec des entreprises comme Meta et Google misant sur les assistants IA comme raison d'être de ces appareils.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25012279/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0563.jpg",
+        "date": "Mon, 16 Dec 2024 17:55:00 GMT"
     },
     {
         "title": "Starlink en Arménie",
