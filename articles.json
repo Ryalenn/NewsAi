@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Adobe déclare la guerre aux reflets qui polluent vos plus belles photos",
+        "title": "Adobe d\u00e9clare la guerre aux reflets qui polluent vos plus belles photos",
         "link": "https://www.frandroid.com/produits-android/photo/appareil-photo/2444054_adobe-declare-la-guerre-aux-reflets-qui-polluent-vos-plus-belles-photos",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/screenshot-2024-12-17-at-16-03-24-media-12256b9244844f455b918202483b4ca8a6906e87ajpeg-webp-image-1430-x-889-pixels-1200x746-1-768x477.jpg?resize=187,187&key=1d3d008a",
         "date": "Mon, 16 Dec 2024 23:00:00 GMT",
@@ -236,5 +236,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67625efc69441116a1678887/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 18 Dec 2024 05:41:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/18/generative-ai-as-your-personal-biographer-to-memorably-capture-your-familys-legacy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6761d0eba1a407022d134d04/0x0.jpg?format=jpg&crop=3386,2540,x11,y0,safe&width=440",
+        "date": "Wed, 18 Dec 2024 07:00:00 GMT",
+        "check": "no"
     }
 ]
