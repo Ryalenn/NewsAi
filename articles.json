@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Saurez-vous faire la différence entre la réalité et l’intelligence artificielle ? Rendez-vous sur Unlock pour démêler le vrai du faux",
+        "title": "Saurez-vous faire la diff\u00e9rence entre la r\u00e9alit\u00e9 et l\u2019intelligence artificielle ? Rendez-vous sur Unlock pour d\u00e9m\u00ealer le vrai du faux",
         "link": "https://www.frandroid.com/humanoid/emissions/2445786_saurez-vous-faire-la-difference-entre-la-realite-et-lintelligence-artificielle-rendez-vous-sur-unlock-pour-demeler-le-vrai-du-faux",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/unlock-1200x800-1-768x512.jpg?resize=200,200&key=d144f127",
         "date": "Tue, 17 Dec 2024 23:00:00 GMT",
@@ -173,5 +173,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg",
         "date": "Wed, 18 Dec 2024 18:57:33 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2024/12/19/the-ai-search-race-heats-up-with-perplexitys-latest-acquisition/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6763aee8978ef6c56ae96c7d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 19 Dec 2024 05:36:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2024/12/19/hot-trend-of-accessing-generative-ai-via-simple-phone-call-gets-huge-uplift-via-openais-new-1-800-chatgpt/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6763a8f964af9d4e070ae30e/0x0.jpg?format=jpg&crop=1816,1426,x0,y0,safe&width=440",
+        "date": "Thu, 19 Dec 2024 05:00:00 GMT",
+        "check": "no"
     }
 ]
