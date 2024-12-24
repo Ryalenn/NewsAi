@@ -1,5 +1,12 @@
 [
     {
+        "title": "Microsoft Copilot sur Windows : une nouvelle version gourmande en ressources",
+        "link": "https://www.frandroid.com/marques/microsoft/2450298_windows-11-pourquoi-la-nouvelle-version-native-de-copilot-est-plus-gourmande-quavant",
+        "body": "Microsoft a récemment lancé une nouvelle version de son assistant Copilot, désormais disponible pour un grand nombre d'utilisateurs. Bien qu'elle soit mieux intégrée à l'écosystème Windows, s'affichant dans la barre d'état système, cette version \"native\" est en réalité une Progressive Web App (PWA), ce qui explique sa consommation élevée de ressources (plus de 1 Go de RAM). Cette mise à jour progressive de Copilot ouvre une fenêtre distincte reliée à Edge, ce qui pourrait expliquer la consommation élevée de mémoire.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=c489bc93",
+        "date": "Mon, 23 Dec 2024 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la réglementation de l'IA",
         "link": "https://www.forbes.com/sites/joemckendrick/2024/12/23/unleash-or-suppress-ai-the-search-for-middle-ground/?ss=ai",
         "body": "Le texte aborde le débat actuel sur la nécessité de réglementer l'intelligence artificielle et les défis qui y sont associés. Geoffrey Hinton, considéré comme le « parrain de l'IA », a profité de la remise récente de son prix Nobel de physique 2024 pour mettre en garde contre les dangers d'une IA sans entraves. Il appelle à une réglementation plus stricte de la part des gouvernements et à des initiatives de sécurité de l'IA mieux financées de la part des entreprises. Jake Parker, de la Security Industry Association, suggère une approche de réglementation neutre sur le plan technologique, axée sur les applications à haut risque. J-M Erlendson, de Software AG, souligne que les préoccupations en matière de réglementation ne sont pas spécifiques à l'IA et que la réglementation pourrait nuire aux petites entreprises et aux startups. David De Cremer, de la Northeastern University, souligne l'importance de la protection de la vie privée et de la gestion des données, et suggère que la réglementation devrait se concentrer sur les modèles IA plus petits et spécialisés, tels que ceux utilisés pour les deepfakes. Erlendson plaide pour une application plus stricte des réglementations existantes en matière de données et de propriété intellectuelle, tandis que De Cremer souligne la nécessité de définir clairement les responsabilités et les obligations en matière de violations de la vie privée et des droits d'auteur. Les entreprises s'engagent dans une certaine auto-réglementation, évitant les modèles IA opaques, ce qui limite l'adoption des modèles IA les plus avancés.",
@@ -26,6 +33,13 @@
         "body": "L'article met en lumière l'évolution rapide du marché de l'IA, avec des entreprises qui se lancent dans une course à la domination technologique. L'auteur souligne comment quelques entreprises dans le domaine de l'IA sont devenues des noms familiers, mais que la nature changeante de la technologie signifie que même les plus grands acteurs doivent s'adapter rapidement pour rester en tête. Trois exemples sont donnés :\n\n1. L'intégration de la fonction de recherche IA de Google, alimentée par Gemini, pour concurrencer OpenAI dans le domaine de la recherche basée sur l'IA.\n\n2. Les rumeurs selon lesquelles Nvidia se lancerait dans les services cloud et logiciels B2B, entrant ainsi en concurrence directe avec Amazon Web Services (AWS) et défiant leur marque dans le monde entier.\n\n3. Les partenariats médiatiques des entreprises technologiques pour répondre à la question de la propriété intellectuelle du contenu journalistique utilisé pour entraîner l'IA, avec l'accord d'OpenAI avec l'Associated Press comme exemple potentiel d'un nouveau modèle pour le contenu des actualités.\n\nL'article souligne l'impact potentiel de ces développements sur le monde de l'entreprise à l'horizon 2025.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67698caf8159ea8cd46f8978/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 23 Dec 2024 16:00:00 GMT"
+    },
+    {
+        "title": "Tech Team Trump",
+        "link": "https://www.theverge.com/2024/12/23/24327968/trump-administration-tech-policy-picks-michael-kratsios-lynne-parker-bo-hines-sriram-krishnan",
+        "body": "Donald Trump a annoncé une série de nominations pour son équipe de politique technologique, qui relèvera de David Sacks, le \"tsar de l'IA et des crypto-monnaies\" de Trump. Parmi les choix notables, on trouve Michael Kratsios, ancien CTO de la Maison Blanche, qui dirigera l'Office of Science and Technology Policy (OSTP), et Dr. Lynne Parker, ancienne adjointe du CTO, qui sera directrice exécutive du Conseil présidentiel des conseillers pour la science et la technologie. Bo Hines dirigera le \"Crypto Council\", tandis que Sriram Krishnan, vétéran de la Silicon Valley, conseillera sur la politique de l'IA au sein de l'OSTP. L'équipe est liée à Elon Musk, qui a récemment semé le chaos au Congrès.",
+        "image": "",
+        "date": "Mon, 23 Dec 2024 14:43:59 GMT"
     },
     {
         "title": "La promesse de l'IA sur les smartphones",
