@@ -35,14 +35,14 @@
         "check": "yes"
     },
     {
-        "title": "GPT-o3 : une avancée révolutionnaire aux coûts vertigineux",
+        "title": "GPT-o3 : une avanc\u00e9e r\u00e9volutionnaire aux co\u00fbts vertigineux",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2449844_gpt-o3-une-avancee-revolutionnaire-aux-couts-vertigineux",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/ilgmyzin-agfmimwypso-unsplash-1200x675-3-768x432.jpg?resize=169,169&key=e1a3fd5c",
         "date": "Sun, 22 Dec 2024 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Elon Musk se prépare à lancer Grok sur iPhone",
+        "title": "Elon Musk se pr\u00e9pare \u00e0 lancer Grok sur iPhone",
         "link": "https://www.frandroid.com/culture-tech/2449576_elon-musk-se-prepare-a-lancer-grok-sur-iphone",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/copie-de-logo-pattern-f-1200x675-1-768x432.jpg?resize=169,169&key=db00c96a",
         "date": "Sun, 22 Dec 2024 23:00:00 GMT",
@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 : pourquoi la nouvelle version « native » de Copilot est plus gourmande qu’avant ?",
+        "title": "Windows 11 : pourquoi la nouvelle version \u00ab native \u00bb de Copilot est plus gourmande qu\u2019avant ?",
         "link": "https://www.frandroid.com/marques/microsoft/2450298_windows-11-pourquoi-la-nouvelle-version-native-de-copilot-est-plus-gourmande-quavant",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=c489bc93",
         "date": "Mon, 23 Dec 2024 23:00:00 GMT",
@@ -131,5 +131,26 @@
         "image": "",
         "date": "Mon, 23 Dec 2024 14:43:59 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/24/looking-at-groundbreaking-capabilities-with-openai-o3/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676acbf1a65cb08996d0ef51/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/12/24/can-innovation-unify-across-divides-three-israeli-palestinian-initiatives-say-peace-is-possible/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6769cefc1331f64097ac1fa6/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2024/12/24/how-to-build-an-ai-strategy-that-works-for-your-employees/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676ab6d1d70745617c7db888/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 13:00:00 GMT",
+        "check": "no"
     }
 ]
