@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avènement de l'AGI",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/24/looking-at-groundbreaking-capabilities-with-openai-o3/?ss=ai",
+        "body": "L'article présente les derniers développements de OpenAI avec son modèle o3, qui fait des vagues dans le domaine de l'IA. o3 excelle dans les tâches de programmation et de résolution de problèmes scientifiques complexes, surpassant même les humains dans certains cas. La clé de ce succès réside dans la « mise en alignement délibérée », une approche d'entraînement qui enseigne aux modèles les normes de sécurité et leur donne le temps de raisonner dans des scénarios complexes. Cette technique surpasse les méthodes traditionnelles d'apprentissage par renforcement, améliorant ainsi la sécurité et l'efficacité des décisions. Les experts suggèrent que o3 et les modèles similaires redéfinissent la collaboration humain-IA et repoussent les limites de l'AGI.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676acbf1a65cb08996d0ef51/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 15:00:00 GMT"
+    },
+    {
+        "title": "Des ponts vers la paix",
+        "link": "https://www.forbes.com/sites/hessiejones/2024/12/24/can-innovation-unify-across-divides-three-israeli-palestinian-initiatives-say-peace-is-possible/?ss=ai",
+        "body": "Au Moyen-Orient, des organisations comme Tech2Peace, MEET et 50:50 Startups encouragent la collaboration entre Israéliens et Palestiniens grâce à l'éducation, la technologie et l'entrepreneuriat. Ces initiatives visent à promouvoir la compréhension, la confiance et la croissance mutuelle, en dépit des conflits et des idéologies divergentes. Les dirigeants de ces organisations, tels que Yaniv Sagee, Hela Lahar, Adnan Jaber, Marwan Meqbil et Shai Friedman, s'efforcent de favoriser le dialogue et l'autonomisation des individus, jetant ainsi les bases d'un avenir plus équitable et pacifique. MEET, fondé par trois jeunes Israéliens pendant la Seconde Intifada, utilise l'éducation technologique pour créer des liens. Tech2Peace, quant à lui, encourage la coexistence israélo-palestinienne en mettant l'accent sur l'authenticité et l'expression de soi. 50:50 Startups, convaincu que le statu quo israélo-palestinien est intenable, favorise les connexions individuelles à travers la création de startups et l'innovation technologique. Malgré les critiques et les obstacles, ces organisations ont un impact tangible, formant des centaines d'étudiants et développant des startups qui abordent les défis locaux. Leur résilience est démontrée par leur capacité à surmonter les tensions et les conflits, en offrant des espaces de dialogue et en encourageant l'empathie et la compréhension mutuelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6769cefc1331f64097ac1fa6/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 14:00:00 GMT"
+    },
+    {
+        "title": "L'adoption de l'IA par les employés",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2024/12/24/how-to-build-an-ai-strategy-that-works-for-your-employees/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676ab6d1d70745617c7db888/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Dec 2024 13:00:00 GMT"
+    },
+    {
         "title": "Microsoft Copilot sur Windows : une nouvelle version gourmande en ressources",
         "link": "https://www.frandroid.com/marques/microsoft/2450298_windows-11-pourquoi-la-nouvelle-version-native-de-copilot-est-plus-gourmande-quavant",
         "body": "Microsoft a récemment lancé une nouvelle version de son assistant Copilot, désormais disponible pour un grand nombre d'utilisateurs. Bien qu'elle soit mieux intégrée à l'écosystème Windows, s'affichant dans la barre d'état système, cette version \"native\" est en réalité une Progressive Web App (PWA), ce qui explique sa consommation élevée de ressources (plus de 1 Go de RAM). Cette mise à jour progressive de Copilot ouvre une fenêtre distincte reliée à Edge, ce qui pourrait expliquer la consommation élevée de mémoire.",
