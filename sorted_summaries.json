@@ -54,26 +54,5 @@
         "body": "Elon Musk annonce un nouveau tour de table pour sa société d'IA, xAI, avec la participation notable de Nvidia et AMD en tant qu'investisseurs stratégiques. L'entreprise prévoit de doubler la taille de son ordinateur IA, Colossus, en ajoutant 200 000 GPU Nvidia Hopper pour alimenter ses projets Grok et Aurora, entre autres.",
         "image": "",
         "date": "Tue, 24 Dec 2024 01:29:57 GMT"
-    },
-    {
-        "title": "Microsoft Copilot sur Windows : une nouvelle version gourmande en ressources",
-        "link": "https://www.frandroid.com/marques/microsoft/2450298_windows-11-pourquoi-la-nouvelle-version-native-de-copilot-est-plus-gourmande-quavant",
-        "body": "Microsoft a récemment lancé une nouvelle version de son assistant Copilot, désormais disponible pour un grand nombre d'utilisateurs. Bien qu'elle soit mieux intégrée à l'écosystème Windows, s'affichant dans la barre d'état système, cette version \"native\" est en réalité une Progressive Web App (PWA), ce qui explique sa consommation élevée de ressources (plus de 1 Go de RAM). Cette mise à jour progressive de Copilot ouvre une fenêtre distincte reliée à Edge, ce qui pourrait expliquer la consommation élevée de mémoire.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=c489bc93",
-        "date": "Mon, 23 Dec 2024 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la réglementation de l'IA",
-        "link": "https://www.forbes.com/sites/joemckendrick/2024/12/23/unleash-or-suppress-ai-the-search-for-middle-ground/?ss=ai",
-        "body": "Le texte aborde le débat actuel sur la nécessité de réglementer l'intelligence artificielle et les défis qui y sont associés. Geoffrey Hinton, considéré comme le « parrain de l'IA », a profité de la remise récente de son prix Nobel de physique 2024 pour mettre en garde contre les dangers d'une IA sans entraves. Il appelle à une réglementation plus stricte de la part des gouvernements et à des initiatives de sécurité de l'IA mieux financées de la part des entreprises. Jake Parker, de la Security Industry Association, suggère une approche de réglementation neutre sur le plan technologique, axée sur les applications à haut risque. J-M Erlendson, de Software AG, souligne que les préoccupations en matière de réglementation ne sont pas spécifiques à l'IA et que la réglementation pourrait nuire aux petites entreprises et aux startups. David De Cremer, de la Northeastern University, souligne l'importance de la protection de la vie privée et de la gestion des données, et suggère que la réglementation devrait se concentrer sur les modèles IA plus petits et spécialisés, tels que ceux utilisés pour les deepfakes. Erlendson plaide pour une application plus stricte des réglementations existantes en matière de données et de propriété intellectuelle, tandis que De Cremer souligne la nécessité de définir clairement les responsabilités et les obligations en matière de violations de la vie privée et des droits d'auteur. Les entreprises s'engagent dans une certaine auto-réglementation, évitant les modèles IA opaques, ce qui limite l'adoption des modèles IA les plus avancés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6769e20af62e2140e625e7ed/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 23 Dec 2024 22:00:00 GMT"
-    },
-    {
-        "title": "Nvidia Blackwell : la prochaine génération de GPU propulse l'IA",
-        "link": "https://www.forbes.com/sites/bethkindig/2024/12/23/where-i-plan-to-buy-nvidia-stock-next/?ss=ai",
-        "body": "Nvidia, leader dans le domaine de l'IA, se prépare à lancer sa nouvelle gamme de GPU Blackwell, qui devrait connaître une montée en puissance significative au cours des prochains trimestres. Les prévisions de ventes pour le Blackwell sont très positives, suggérant qu'elles pourraient dépasser les ventes de GPU de 2023 et 2024 combinées, et atteindre potentiellement 200 milliards de dollars de revenus pour les centres de données de Nvidia. Les analystes prévoient déjà une augmentation des expéditions au quatrième trimestre et au premier trimestre, avec des estimations allant de 250 000 à 300 000 expéditions au quatrième trimestre, puis une hausse jusqu'à 750 000 à 800 000 au premier trimestre. Cette demande croissante pour le Blackwell pourrait entraîner une révision à la hausse des prévisions de revenus tout au long de l'année, car il deviendra le principal produit GPU de Nvidia. La société bénéficie également d'une augmentation de sa puissance tarifaire, d'une croissance rapide des dépenses en capital dans l'IA et de la possibilité de créer des clusters GPU de plus de 100 000 unités, ce qui était la limite maximale pour la gamme Hopper. Bien que la concurrence de la part d'AMD, Broadcom et d'autres entreprises soit en augmentation, Nvidia semble bien positionnée pour tirer parti de ces opportunités.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6596c29f4d04ed0662b681c0/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 23 Dec 2024 22:00:00 GMT"
     }
 ]
