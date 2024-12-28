@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA selon Sam Altman",
+        "link": "https://www.forbes.com/sites/johnwerner/2024/12/27/sam-altman-ai-is-integrated-superintelligence-is-coming/?ss=ai",
+        "body": "Sam Altman, PDG d'OpenAI, a partagé ses réflexions sur l'état actuel et l'avenir de l'intelligence artificielle lors d'une interview avec Bari Weiss du Free Press. Altman souligne l'adoption rapide et généralisée des technologies d'IA, notamment ChatGPT, qu'il a lui-même créé. Il affirme que les gens, y compris lui-même, utilisent de plus en plus ChatGPT pour effectuer des recherches, abandonnant ainsi les moteurs de recherche traditionnels. Altman prédit que d'ici l'été 2026, l'intelligence artificielle aura progressé de manière significative, grâce à un taux de progrès scientifique et technique rapide. Il souligne également l'importance de la nature humaine dans l'ère de l'IA, affirmant que les désirs humains fondamentaux resteront inchangés, mais que le monde qui nous entoure évoluera considérablement. Altman est optimiste quant à l'avenir, suggérant que l'IA permettra aux gens d'amplifier leurs capacités et de créer une société plus prospère. Il aborde également la question du déplacement des emplois, suggérant que l'histoire a montré que les progrès technologiques ont toujours créé de nouvelles opportunités et amélioré la prospérité générale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67268e67965d0e0771c5a292/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 27 Dec 2024 18:00:00 GMT"
+    },
+    {
         "title": "Réinventer la gestion des catastrophes avec l'IA",
         "link": "https://www.forbes.com/sites/corneliawalther/2024/12/27/turning-the-tide-generative-ais-role-in-future-tsunami-management/?ss=ai",
         "body": "L'IA généreuse, en améliorant la modélisation prédictive, la création de simulations réalistes et la communication inclusive, a le potentiel de révolutionner la gestion des catastrophes naturelles. L'article souligne son rôle dans la prévision, la préparation et le relèvement, avec des exemples de systèmes d'alerte précoce, d'analyse d'images satellites et de planification urbaine résiliente. L'accent est mis sur l'éthique et l'inclusion, avec des principes pour guider le déploiement de l'IA dans la gestion des catastrophes, garantissant ainsi la sécurité humaine et la durabilité environnementale.",
@@ -47,12 +54,5 @@
         "body": "L'IA transforme déjà l'industrie juridique, améliorant son efficacité et son accessibilité. L'IA assiste la recherche juridique, la découverte électronique et l'interprétation des documents, tout en réduisant les coûts et en améliorant la précision. Les outils d'IA identifient rapidement les informations clés et les arguments juridiques, et aident à la diligence raisonnable dans les transactions. L'IA génère et interprète également des documents juridiques, des contrats et des arguments, réduisant le temps et les efforts nécessaires. Les agences gouvernementales utilisent l'IA pour la recherche de PI et les dépôts, et l'IA automatise la création de documents juridiques répétitifs. L'IA prédit les résultats des litiges, améliore l'interaction client via des chatbots et fournit des analyses juridiques. L'IA améliore également la conformité et la gestion des risques, aidant les professionnels à surveiller et à gérer les exigences réglementaires. Bien que l'IA ne remplace pas les avocats, elle améliore leur travail et rend l'industrie juridique plus efficace et accessible.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67570107c7d0745491b2ef68/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 26 Dec 2024 09:00:00 GMT"
-    },
-    {
-        "title": "Course à l'IA : les entreprises se lancent dans la robotique humanoïde",
-        "link": "https://www.frandroid.com/culture-tech/2451428_apres-chatgpt-openai-mise-sur-la-robotique-avec-un-projet-dhumanoide",
-        "body": "Plusieurs entreprises se lancent dans la course à la création de robots humanoïdes, tirant parti des avancées en intelligence artificielle. Asus et Tesla mènent la danse, tandis qu'OpenAI, leader du secteur, pourrait également se lancer dans l'arène avec son propre modèle. La division robotique d'OpenAI a connu des hauts et des bas, mais l'entreprise a investi dans Figure AI, qui a dévoilé un robot impressionnant. Asus estime que la technologie est désormais assez mature pour des applications pratiques en robotique. Le secteur est en ébullition, avec des entreprises expérimentées et de nouvelles entrantes, promettant des développements passionnants pour 2024.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/sam-altman-frandroid-altman-1200x800-1-768x512.jpg?resize=200,200&key=333e3e92",
-        "date": "Wed, 25 Dec 2024 23:00:00 GMT"
     }
 ]
