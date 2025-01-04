@@ -7,6 +7,13 @@
         "date": "Sat, 04 Jan 2025 09:17:00 GMT"
     },
     {
+        "title": "Les faux comptes IA de Meta s'attirent des critiques",
+        "link": "https://www.frandroid.com/marques/meta/2457396_les-faux-utilisateurs-dinstagram-crees-par-meta-avec-lia-sont-une-catastrophe-etes-vous-surpris",
+        "body": "Meta a récemment supprimé 27 faux comptes Instagram créés par IA, dont l'un, nommé \"Liv\", a suscité des controverses. \"Liv\" se présentait comme une femme noire et queer, mère de deux enfants, avec des images et des publications générées par IA. Les discussions avec le chatbot ont révélé des problèmes d'appropriation culturelle, de représentation erronée et de biais algorithmique, Meta analysant le vocabulaire de l'interlocuteur pour déterminer si l'IA doit proposer une identité \"neutre\" ou \"ouverte à la diversité\". L'expérience, lancée en 2023, a soulevé des questions éthiques et a été critiquée pour sa mauvaise gestion de l'identité et de la diversité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/mark-zuckerberg-metaverse-avatar-768x576.jpg?resize=225,225&key=3abbdd20",
+        "date": "Fri, 03 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "La bataille pour la recherche",
         "link": "https://www.forbes.com/sites/lutzfinger/2025/01/03/2025-the-year-of-search-but-not-the-end-of-google/?ss=ai",
         "body": "La technologie a évolué et a transformé la manière dont nous recherchons et interagissons avec l'information. En 2025, la technologie de recherche connaîtra une nouvelle évolution majeure, mettant Google sous pression. Les modèles linguistiques larges (LLM) sont désormais capables d'extraire les idées clés d'un contexte donné, ce qui les rend excellents pour la synthèse de l'information. Cette innovation crée de nouvelles opportunités d'interaction avec le contenu, comme le « chat » d'articles, où les utilisateurs peuvent discuter du contenu sans avoir à tout lire. Les géants de la tech et les startups se lancent dans la course pour développer des moteurs de recherche basés sur l'IA, avec des fonctionnalités telles que la recherche générative, la recherche par chat, la recherche visuelle et audio, etc. Bien que Google ait un avantage avec son expérience et ses données, des entreprises comme OpenAI, You.com, Perplexity et d'autres startups innovent rapidement et attirent l'attention des utilisateurs. La bataille pour la domination du marché de la recherche est lancée, et la technologie de recherche, alimentée par l'IA, est prête à devenir une solution de jeu révolutionnaire pour les utilisateurs et les entreprises.",
@@ -124,12 +131,5 @@
         "body": "Les dashcams d'une startup permettent de cartographier et de mettre à jour en temps réel l'état des routes à faible coût. Cette technologie pourrait aider les voitures autonomes à mieux comprendre leur environnement et à anticiper les obstacles. L'article discute également de l'importance des cartes détaillées pour la conduite autonome, et de la manière dont plusieurs entreprises, dont MobilEye, DeepMap et Nexar, utilisent la cartographie basée sur la foule pour créer des cartes précises et à jour. Tesla, bien qu'affirmant ne pas utiliser de cartes détaillées, semble également collecter des données cartographiques. La cartographie à faible coût basée sur la foule pourrait devenir la base de la conduite autonome sûre et efficace.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6776450eecfd7e4bc1d32b9d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 02 Jan 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'intelligence n'est rien sans l'intégrité",
-        "link": "https://www.forbes.com/sites/hamiltonmann/2025/01/02/would-you-entrust-a-non-human-general-intelligence-without-integrity/?ss=ai",
-        "body": "L'article remet en question la poursuite de l'intelligence artificielle générale (AGI) telle qu'elle est actuellement définie, c'est-à-dire un système d'IA capable d'effectuer diverses tâches et de surpasser les humains dans un travail économiquement précieux. Bien que des modèles comme o3 d'OpenAI aient atteint des scores impressionnants dans des benchmarks AGI, l'auteur suggère que ces mesures ne valident pas réellement la capacité de l'IA à surpasser les humains dans des tâches économiquement précieuses tout en bénéficiant à l'humanité. L'article souligne l'importance de l'intégrité artificielle, en plus de l'intelligence artificielle, pour garantir que les systèmes AGI prennent des décisions éthiques, morales et socialement acceptables. Sans intégrité, l'AGI pourrait perpétuer les préjugés humains et aggraver les problèmes sociétaux à court terme plutôt que de travailler pour le bien de l'humanité à long terme. L'auteur plaide pour une définition plus complète de l'AGI, qui tienne compte non seulement de l'intelligence, mais aussi de l'intégrité, et suggère que le véritable défi de l'avancement de l'IA réside dans la création d'une intégrité artificielle qui puisse bénéficier à l'humanité dans son ensemble.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/676fe3143d6d206e77a918e8/0x0.png?format=png&width=440",
-        "date": "Thu, 02 Jan 2025 10:00:00 GMT"
     }
 ]
