@@ -1,5 +1,19 @@
 [
     {
+        "title": "Transformation Numérique d'ADM",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/01/07/how-adm-is-innovating-with-ai-under-kristy-folkweins-leadership/?ss=ai",
+        "body": "Kristy Folkwein, DSI d'Archer Daniels Midland (ADM), a transformé le paysage technologique de cette entreprise de nutrition humaine et animale, fondée il y a 122 ans et générant plus de 88 milliards de dollars de chiffre d'affaires annuel. Malgré son échelle et son influence immenses, ADM n'est pas un nom familier. Sous la direction de Folkwein, ADM a modernisé ses pratiques technologiques, adoptant les données, l'apprentissage automatique et l'intelligence artificielle pour stimuler l'innovation et l'efficacité opérationnelle. L'équipe de Folkwein a joué un rôle clé dans l'utilisation de l'IA pour le développement de saveurs, accélérant ainsi l'innovation en sciences alimentaires. L'IA générative a été utilisée pour capturer et partager les connaissances, consolidant ainsi les connaissances tribales et les partageant dans toute l'organisation. ADM a également développé ChatADM, une plateforme IA générative interne et sécurisée, qui a permis de prototyper plus de 35 applications. Folkwein met en garde contre les coûts de l'autonomisation des employés et de l'augmentation de la productivité, ainsi que contre les modèles d'abonnement des fournisseurs SaaS. Elle a établi un conseil pour garantir que les décisions sont prises de manière réfléchie et alignées sur les objectifs de l'entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677d61953e84d9210b576e46/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 07 Jan 2025 17:34:00 GMT"
+    },
+    {
+        "title": "Nvidia's AI Ambitions",
+        "link": "https://www.forbes.com/sites/esatdedezade/2025/01/07/nvidias-packed-ces-2025-keynote-gaming-robots-self-driving-cars-and-personal-ai-supercomputers/?ss=ai",
+        "body": "Au CES 2025, le PDG de Nvidia, Jensen Huang, a dévoilé une feuille de route technologique ambitieuse, comprenant une gamme de produits allant des cartes graphiques de nouvelle génération aux plateformes de robotique et aux outils de développement d'IA. Nvidia a annoncé une collaboration avec Toyota pour le développement de véhicules autonomes, renforçant ainsi sa position dans ce domaine. La société a également présenté sa gamme de produits gaming RTX 50 Series, avec des performances graphiques et de traitement de l'IA sans précédent. Cosmos, une plateforme de licence ouverte pour la création de robots et de systèmes autonomes, a été introduite, offrant des simulations photo-réalistes pour tester les systèmes robotiques. Nvidia a également dévoilé Drive Hyperion, une plateforme complète pour accélérer le développement de véhicules autonomes, et Project Digits, un système de bureau pour l'informatique IA, offrant une alternative aux infrastructures cloud. L'initiative AI Blueprints de Nvidia vise à faciliter l'adoption de l'IA par les entreprises en introduisant des \"robots de connaissance\" pour l'analyse de documents, le traitement vidéo et l'automatisation des flux de travail. Ces annonces soulignent l'évolution de Nvidia d'un spécialiste du matériel de jeu à un leader de l'informatique IA, avec un écosystème complet qui pourrait remodeler la dynamique concurrentielle dans le secteur technologique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677d49b29a2380d7cf021065/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 07 Jan 2025 16:00:00 GMT"
+    },
+    {
         "title": "L'alliance Microsoft-OpenAI",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/07/the-confluence-of-two-empires-microsoft-and-openai-hold-hands/?ss=ai",
         "body": "Deux des plus grands acteurs de l'IA et de la technologie, Microsoft et OpenAI, s'allient pour façonner l'avenir de l'IA. Microsoft investit 13 milliards de dollars dans OpenAI, ce qui donne à l'entreprise une participation économique significative. L'accord comprend trois volets clés : l'échelle des solutions pour les réseaux neuronaux, l'utilisation exclusive des produits et services OpenAI par Microsoft, et Microsoft en tant que fournisseur de cloud exclusif d'OpenAI. L'alliance vise également à gérer les besoins énergétiques énormes de l'IA, avec des plans pour l'énergie nucléaire et des crédits d'impôt du gouvernement américain pour soutenir les centres de données puissants nécessaires à l'IA de demain. La popularité de ChatGPT d'OpenAI reflète la domination d'une seule marque sur un marché, comme Google l'a fait avec la recherche. L'alliance Microsoft-OpenAI pourrait être le principal moteur de la transformation de la recherche en langage naturel.",
@@ -21,6 +35,13 @@
         "date": "Tue, 07 Jan 2025 11:59:00 GMT"
     },
     {
+        "title": "La course à l'AGI",
+        "link": "https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training",
+        "body": "Google DeepMind forme une nouvelle équipe de chercheurs en IA dirigée par Tim Brooks pour développer des \"modèles du monde\" capables de simuler des environnements physiques. Ces modèles du monde sont une évolution récente de l'IA pouvant être utilisés dans les jeux vidéo, les films et la formation de robots. DeepMind vise à créer des modèles génératifs massifs simulant le monde, ce qui s'inscrit dans la course pour atteindre l'AGI (intelligence artificielle générale) avant ses concurrents. L'équipe de Tim Brooks travaillera aux côtés d'autres projets Google AI existants, tels que les modèles Gemini AI, le générateur vidéo Veo et Genie, un modèle du monde pour la simulation d'environnements 3D en temps réel. La concurrence dans le domaine de l'AGI s'intensifie, avec des entreprises comme OpenAI et Nvidia ayant déjà une longueur d'avance avec leurs propres plateformes et projets.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg",
+        "date": "Tue, 07 Jan 2025 11:39:11 GMT"
+    },
+    {
         "title": "La course à l'intégration de l'IA dans la main-d'œuvre",
         "link": "https://www.forbes.com/sites/lutzfinger/2025/01/07/sam-altman---agi--ai-workforce-in-2025-the-battle-of-tech-giants/?ss=ai",
         "body": "Résumé : \n\nSam Altman, PDG d'OpenAI, a prédit l'arrivée de l'AGI (intelligence artificielle générale) d'ici 2025 et l'intégration de l'IA dans la main-d'œuvre. Bien que l'AGI semble peu probable d'ici 2025, l'IA va certainement rejoindre la main-d'œuvre, mais la concurrence est rude avec des géants comme Microsoft et Google. OpenAI mise sur sa technologie supérieure, mais doit faire face à des défis financiers et à la concurrence de modèles open source. L'intégration de l'IA dans la main-d'œuvre nécessitera des outils, des données et une formation des employés. Les entreprises qui réussiront seront celles qui formeront efficacement leurs employés et clients à travailler avec leurs collègues IA.",
@@ -33,6 +54,13 @@
         "body": "L'IA est au cœur de la transformation du paysage énergétique mondial, permettant des prévisions précises de la demande et l'optimisation en temps réel de la production, du stockage et de la distribution. Les entreprises utilisent déjà l'IA pour explorer les énergies vertes, optimiser l'emplacement des stations de recharge des véhicules électriques et accélérer la recherche de solutions énergétiques propres. L'IA, associée à de nouvelles technologies de stockage d'énergie, comme les batteries solides et les batteries à flux, rendra la transition vers les énergies renouvelables plus fiable et plus viable. De plus, le concept de décentralisation de la production d'énergie, avec des micro-réseaux et des systèmes de partage d'énergie à petite échelle gérés par l'IA, augmentera la résilience énergétique et réduira la dépendance aux fournisseurs centraux. Enfin, l'évolution du comportement humain, notamment la volonté de s'éloigner des combustibles fossiles et de participer à des programmes communautaires d'énergie, sera un facteur décisif dans la transformation énergétique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ccf485e7bf7f12e6a4548/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 07 Jan 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avenir du jeu avec l'IA autonome",
+        "link": "https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate",
+        "body": "Nvidia présente à la CES 2025 ses personnages numériques \"ACE\", capables de mener des conversations en jeu et d'agir de manière autonome grâce à l'IA générative. ACE utilise de petits modèles linguistiques et multimodaux pour la vision et l'audio, leur permettant de comprendre leur environnement et de prendre des décisions en temps réel. Nvidia et Krafton présentent également le \"PUBG Ally\", le premier personnage de jeu \"co-jouable\", capable de communiquer, de fournir des recommandations stratégiques et de travailler en équipe avec les joueurs. D'autres jeux, tels que Naraka: Bladepoint et inZOI, intégreront également des personnages IA basés sur ACE, tandis que Wemade Next utilisera ACE pour des rencontres avec des boss dans MIR5.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2560x1440/2400x1600/filters:focal(1280x720:1281x721):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820669/videoframe_62840.png",
+        "date": "Tue, 07 Jan 2025 04:32:21 GMT"
     },
     {
         "title": "L'avenir de l'IA sur les bureaux",
@@ -75,6 +103,13 @@
         "body": "Apple va modifier la façon dont les iPhones et autres appareils affichent les notifications résumées par son système d'IA, suite à des plaintes du groupe de presse BBC. La fonctionnalité, encore en version bêta au Royaume-Uni, a été critiquée pour avoir modifié un titre de la BBC, suggérant à tort que le suspect d'une fusillade s'était tiré une balle. Depuis, d'autres cas de résumés incorrects ont été signalés, dont un vainqueur annoncé avant un événement sportif et une fausse déclaration attribuée à Rafael Nadal. Apple a répondu qu'une mise à jour logicielle clarifierait lorsque le texte affiché est un résumé fourni par son IA. Bien qu'amusement parfois, l'IA d'Apple a aussi connu des échecs, comme résumer un message \"cette randonnée m'a presque tué\" par \"tentative de suicide\". La réception de ces résumés est facultative et peut être désactivée dans les paramètres des notifications.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/20790706/acastro_200730_1777_ai_0001.jpg",
         "date": "Mon, 06 Jan 2025 23:26:56 GMT"
+    },
+    {
+        "title": "Réflexe 2 de Nvidia",
+        "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2462474_nvidia-annonce-reflex-2-la-technologie-pour-vous-rendre-meilleur-sur-valorant-ou-counter-strike-2",
+        "body": "Nvidia a annoncé la deuxième génération de sa technologie Reflex, qui vise à réduire la latence et à améliorer les performances dans les jeux compétitifs. Reflex 2 utilise la technologie Frame Warp pour réduire le délai entre l'action de l'utilisateur et sa représentation à l'écran, offrant jusqu'à 75 % de réduction de latence. Cette approche systémique optimise la synchronisation CPU/GPU, la gestion de la file d'attente de rendu et l'échantillonnage des entrées, éliminant ainsi les goulots d'étranglement traditionnels. Reflex 2 est particulièrement impressionnant sur les écrans haute fréquence, permettant d'exploiter pleinement leur potentiel en réduisant la latence à des niveaux historiquement bas. La technologie est déjà supportée par plus de 100 jeux et sera compatible avec toutes les cartes RTX de la série 20 à 50.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-25-768x566.jpg?resize=221,221&key=cc2a76e5",
+        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft investit massivement dans l'IA",
