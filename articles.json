@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT Pro n’est pas rentable, selon son créateur",
+        "title": "ChatGPT Pro n\u2019est pas rentable, selon son cr\u00e9ateur",
         "link": "https://www.frandroid.com/culture-tech/2458682_chatgpt-pro-nest-pas-rentable-selon-son-createur",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/sam-altman-1200x675-1-768x432.jpeg?resize=169,169&key=9c879f72",
         "date": "Sun, 05 Jan 2025 23:00:00 GMT",
@@ -159,5 +159,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/677c61805ee656cd008bf2a6/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 06 Jan 2025 22:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/nvidia/2458836_comment-suivre-la-keynote-nvidia-avec-lannonce-des-rtx-50-au-ces-2025-les-annonces-en-direct",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/nvidia-ceo-jensen-huang-keynote-at-ces-2025-43-53-screenshot-768x432.jpg?resize=169,169&key=1f5e2929",
+        "date": "Mon, 06 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/06/ai-is-breaking-free-of-token-based-llms-by-upping-the-ante-to-large-concept-models-that-devour-sentences-and-adore-concepts/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677c994841e67f5316f916df/0x0.jpg?format=jpg&crop=2632,1972,x240,y0,safe&width=440",
+        "date": "Tue, 07 Jan 2025 03:13:00 GMT",
+        "check": "no"
     }
 ]
