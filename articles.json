@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Laisser vos lumières être contrôlées par l’IA ? La drôle d’idée de Philips Hue",
+        "title": "Laisser vos lumi\u00e8res \u00eatre contr\u00f4l\u00e9es par l\u2019IA ? La dr\u00f4le d\u2019id\u00e9e de Philips Hue",
         "link": "https://www.frandroid.com/produits-android/2462922_laisser-vos-lumieres-etre-controlee-par-lia-la-drole-didee-de-philips-hue",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/pack-philips-hue-1-768x432.jpg?resize=169,169&key=55cec193",
         "date": "Tue, 07 Jan 2025 23:00:00 GMT",
@@ -187,5 +187,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ef16c990bba1ec862b897/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 08 Jan 2025 22:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/09/return-to-office-is-getting-rightly-figured-out-via-the-use-of-generative-ai-chatgpt/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677f82fe7d17fb1cf322dc60/0x0.jpg?format=jpg&crop=2965,2223,x316,y0,safe&width=440",
+        "date": "Thu, 09 Jan 2025 08:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/09/8-critical-smart-city-trends-reshaping-urban-life-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677f6fefdad9d1c2a5e74ecd/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 09 Jan 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
