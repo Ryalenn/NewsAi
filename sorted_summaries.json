@@ -1,10 +1,24 @@
 [
     {
+        "title": "Anthropic's Billionaires",
+        "link": "https://www.forbes.com/sites/alexkonrad/2025/01/08/anthropic-60-billion-valuation-will-make-all-seven-cofounders-billionaires/?ss=ai",
+        "body": "L'entreprise d'IA Anthropic, valorisée à 60 milliards de dollars, est sur le point de créer sept nouveaux milliardaires parmi son équipe fondatrice. La startup, fondée en 2021 par des anciens d'OpenAI, a développé le populaire chatbot Claude et vient de lever 2 milliards de dollars lors d'un nouveau tour de table mené par Lightspeed Venture Partners. Les frères et sœurs Dario et Daniela Amodei, ainsi que les cinq autres cofondateurs, détiendront chacun plus de 2% des parts de l'entreprise, ce qui valorise leur participation à plus de 1,2 milliard de dollars. Anthropic est devenue l'un des principaux concurrents d'OpenAI, évalué à 157 milliards de dollars, et rivalise également avec xAI d'Elon Musk, valorisé à plus de 40 milliards de dollars. La course au financement dans le domaine de l'IA a créé de nouveaux milliardaires, et d'autres startups comme Mistral AI, Cohere, Safe Superintelligence et Perplexity pourraient suivre le même chemin.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677ef16c990bba1ec862b897/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 08 Jan 2025 22:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : des systèmes collaboratifs et l'émergence de l'AGI",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/08/breaking-down-todays-awe-inspiring-ai-systems/?ss=ai",
         "body": "L'article explore l'évolution de l'IA, en particulier l'émergence de systèmes d'IA collaboratifs et l'impact potentiel sur l'industrie. Il met en évidence la tendance actuelle vers des moteurs d'IA multiples travaillant de concert, chacun avec des spécialisations distinctes, et suggère que cela pourrait conduire à l'émergence d'une IA générale (AGI). L'auteur cite des experts du domaine, tels que Matthew Berman et Andrew Ng, qui soulignent l'importance des approches multi-modèles et des systèmes d'agents dans l'avenir de l'IA. Berman présente un aperçu détaillé de la feuille de route vers o1 d'OpenAI, mettant en évidence des fonctionnalités telles que la recherche arborescente, les révisions séquentielles et les mécanismes d'orientation internes. Ng, quant à lui, exprime son enthousiasme pour l'avenir de l'IA axée sur les agents, affirmant qu'elle reflète la façon dont les humains résolvent les problèmes. L'article aborde également les implications en matière de sécurité, notamment le concept de « fausse alignement » et la possibilité que les utilisateurs tentent de « jailbreaker » les systèmes d'IA. Malgré ces préoccupations, l'auteur conclut que les systèmes d'IA multi-agents ont le potentiel de révolutionner de nombreux domaines.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ee324b167b981cb0cb570/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 08 Jan 2025 20:44:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : quand la science-fiction devient réalité",
+        "link": "https://www.theverge.com/2025/1/8/24338750/omi-ai-wearable-friend-companion",
+        "body": "L'article présente Omi, un appareil portable à 89 $ qui peut écouter et résumer des conversations, et fournit des informations grâce à l'IA. L'appareil, qui se porte sur le cou, est toujours à l'écoute et peut aider à résumer les réunions, donner des informations et fournir des suggestions de tâches. Son créateur, Nik Shevchenko, voit également Omi comme un mentor personnel, lui permettant d'accéder à des conseils de personnalités du monde de la tech comme Elon Musk. L'appareil utilise des modèles d'OpenAI et de Meta, et son code est open source. Shevchenko prévoit d'ajouter des fonctionnalités de contrôle par la pensée, ce qui, selon lui, changera la façon dont les gens utilisent l'IA. Bien que l'appareil soit encore fragile, il représente une avancée significative dans le domaine de l'IA, les \"bot friends\" devenant de plus en plus des amis réels.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1280x720/2400x1600/filters:focal(640x360:641x361):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25821896/3_Large.jpeg",
+        "date": "Wed, 08 Jan 2025 16:00:00 GMT"
     },
     {
         "title": "L'avenir des robots compagnons",
@@ -215,75 +229,5 @@
         "body": "Nvidia dévoile une nouvelle plateforme pour les PC d'IA destinée aux développeurs d'IA, appelée Project Digits. Cette plateforme, basée sur le couple CPU Grace (Arm) et GPU Blackwell, offre des performances exceptionnelles à un prix de départ de 3000 $. Project Digits prend en charge un large éventail de logiciels d'IA Nvidia et dispose de 128 Go de mémoire unifiée et cohérente, ainsi que d'un stockage NVMe pouvant atteindre 4 To. La plateforme permet aux développeurs d'exécuter des modèles d'IA à grande échelle, pouvant atteindre 200 milliards de paramètres, et peut même être liée à un autre superordinateur Project Digits pour gérer des modèles encore plus importants. Bien qu'il s'agisse actuellement d'une plateforme destinée aux développeurs, Nvidia pourrait potentiellement viser le marché grand public en collaborant avec Microsoft Windows et des fabricants de PC comme HP, Dell et Lenovo.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677c11fd044ec3a73750ece4/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 07 Jan 2025 04:00:00 GMT"
-    },
-    {
-        "title": "Explorer de nouveaux horizons avec les modèles à concepts larges",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/06/ai-is-breaking-free-of-token-based-llms-by-upping-the-ante-to-large-concept-models-that-devour-sentences-and-adore-concepts/?ss=ai",
-        "body": "Le texte présente une nouvelle approche passionnante dans le domaine de l'IA, en particulier pour l'IA générative et les modèles linguistiques. Il suggère de passer des approches actuelles basées sur les mots à une approche basée sur les phrases, où les phrases entières sont traitées comme des éléments fondamentaux. Cette approche, appelée « modèles à concepts larges » (LCM), implique de réduire les phrases en concepts sous-jacents, qui deviennent la monnaie de cet important changement architectural. Les LCM offrent la possibilité de concevoir, construire et déployer des modèles qui dépassent les limitations des modèles linguistiques traditionnels. Bien qu'il s'agisse d'un pari excitant, il pourrait s'avérer payant et conduire à la prochaine étape de l'évolution de l'IA. La flexibilité linguistique et l'universalité des concepts sont des avantages potentiels de cette approche. L'exemple d'une planification de voyage routier illustre le fonctionnement d'un LCM, montrant comment il pourrait produire la même sortie qu'un modèle linguistique traditionnel tout en travaillant avec des concepts sous-jacents. Enfin, l'article encourage l'innovation et la créativité dans le domaine de l'IA, citant Einstein : « La créativité, c'est l'intelligence qui s'amuse ».",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677c994841e67f5316f916df/0x0.jpg?format=jpg&crop=2632,1972,x240,y0,safe&width=440",
-        "date": "Tue, 07 Jan 2025 03:13:00 GMT"
-    },
-    {
-        "title": "Samsung Galaxy S25 et l'avenir de l'IA",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/01/06/new-samsung-leak-claims-galaxy-s25-series-ai-better-than-iphone/?ss=ai",
-        "body": "Le Galaxy S25 de Samsung pourrait offrir des améliorations significatives en matière d'IA par rapport au modèle précédent, le S24. Selon le célèbre initié Ice Universe, le nouveau smartphone inclura de nombreuses fonctionnalités d'IA qui n'ont pas encore été révélées au public, le positionnant comme un leader dans le domaine de l'IA sur les appareils mobiles. Samsung vise à établir sa domination dans le domaine de l'IA embarquée, comme en témoignent les commentaires de ses dirigeants et la documentation de son partenaire Qualcomm. Le Galaxy S25 sera équipé du nouveau SoC Snapdragon 8 Elite, offrant des gains de performances importants et une efficacité énergétique améliorée pour les tâches d'IA. De plus, le téléphone devrait inclure des fonctionnalités de caméra améliorées grâce à l'IA, telles que la segmentation sémantique en 4K, un effaceur d'objets vidéo, des ajustements de la peau et du ciel en temps réel, et la capture vidéo en ultra-faible luminosité. Les précommandes sont déjà ouvertes, et Samsung a laissé entendre que l'IA jouera un rôle majeur dans le S25, avec un nouvel assistant IA \"véritable\".",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66e046053fd9fba4682b7301/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 07 Jan 2025 00:55:00 GMT"
-    },
-    {
-        "title": "Apple clarifie l'utilisation de l'IA dans ses notifications",
-        "link": "https://www.theverge.com/2025/1/6/24337681/apple-intelligence-summary-bbc-news-luigi-mangione-response",
-        "body": "Apple va modifier la façon dont les iPhones et autres appareils affichent les notifications résumées par son système d'IA, suite à des plaintes du groupe de presse BBC. La fonctionnalité, encore en version bêta au Royaume-Uni, a été critiquée pour avoir modifié un titre de la BBC, suggérant à tort que le suspect d'une fusillade s'était tiré une balle. Depuis, d'autres cas de résumés incorrects ont été signalés, dont un vainqueur annoncé avant un événement sportif et une fausse déclaration attribuée à Rafael Nadal. Apple a répondu qu'une mise à jour logicielle clarifierait lorsque le texte affiché est un résumé fourni par son IA. Bien qu'amusement parfois, l'IA d'Apple a aussi connu des échecs, comme résumer un message \"cette randonnée m'a presque tué\" par \"tentative de suicide\". La réception de ces résumés est facultative et peut être désactivée dans les paramètres des notifications.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/20790706/acastro_200730_1777_ai_0001.jpg",
-        "date": "Mon, 06 Jan 2025 23:26:56 GMT"
-    },
-    {
-        "title": "Réflexe 2 de Nvidia",
-        "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2462474_nvidia-annonce-reflex-2-la-technologie-pour-vous-rendre-meilleur-sur-valorant-ou-counter-strike-2",
-        "body": "Nvidia a annoncé la deuxième génération de sa technologie Reflex, qui vise à réduire la latence et à améliorer les performances dans les jeux compétitifs. Reflex 2 utilise la technologie Frame Warp pour réduire le délai entre l'action de l'utilisateur et sa représentation à l'écran, offrant jusqu'à 75 % de réduction de latence. Cette approche systémique optimise la synchronisation CPU/GPU, la gestion de la file d'attente de rendu et l'échantillonnage des entrées, éliminant ainsi les goulots d'étranglement traditionnels. Reflex 2 est particulièrement impressionnant sur les écrans haute fréquence, permettant d'exploiter pleinement leur potentiel en réduisant la latence à des niveaux historiquement bas. La technologie est déjà supportée par plus de 100 jeux et sera compatible avec toutes les cartes RTX de la série 20 à 50.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-25-768x566.jpg?resize=221,221&key=cc2a76e5",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft investit massivement dans l'IA",
-        "link": "https://www.frandroid.com/marques/microsoft/2461510_microsoft-investit-80-milliards-de-dollars-dans-lelectricite-de-notre-epoque",
-        "body": "Microsoft annonce un investissement de 80 milliards de dollars pour construire des centres de données compatibles avec l'IA, démontrant ainsi son engagement à long terme dans le développement de l'intelligence artificielle. Cet investissement fait suite à la collaboration de l'entreprise avec OpenAI et à son enthousiasme pour le potentiel de ChatGPT. Brad Smith, vice-président de Microsoft, considère l'IA comme une technologie révolutionnaire, \"l'électricité de notre époque\". L'entreprise prévoit également de former des experts et de développer une infrastructure de datacenters cloud et d'IA fiable et sécurisée. Cependant, l'expansion de l'IA soulève des préoccupations écologiques, car les entreprises investissant dans ce domaine voient leur empreinte carbone augmenter de manière significative.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/microsoft-logo-photo-1200x800-1-768x512.jpg?resize=200,200&key=49703117",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans les jeux vidéo",
-        "link": "https://www.frandroid.com/marques/2461364_nvidia-veut-creer-de-faux-joueurs-sur-pubg",
-        "body": "L'IA dans les jeux vidéo évolue, passant de simples lignes de code à des systèmes plus adaptatifs. Nvidia, avec sa technologie ACE, permet la création d'alliés et d'ennemis qui s'adaptent à l'environnement et aux tactiques des joueurs. Cette technologie soulève des questions sur la difficulté des jeux et l'expérience utilisateur. Les personnages fonctionneront avec de petits modèles de langage et interagiront en utilisant des signaux sonores et visuels. Nvidia prévient que les boss équipés d'ACE apprendront des joueurs, rendant impossible l'utilisation répétée de la même stratégie. Bien que prometteuse, cette évolution de l'IA dans les jeux vidéo doit être encadrée pour éviter de rendre les jeux trop difficiles et frustrants.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/pubgally-1200x675-1-768x432.jpg?resize=169,169&key=832c4e81",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini sur Wear OS",
-        "link": "https://www.frandroid.com/android/applications/google-apps/2460964_une-veritable-ia-au-poignet-les-montres-wear-os-pourraient-remplacer-google-assistant-par-gemini",
-        "body": "Google prévoit de remplacer Google Assistant par son IA générative Gemini sur les montres connectées équipées de Wear OS. Cette mise à jour, suggérée par des indices dans le code de l'application Gemini, permettrait aux utilisateurs d'interagir de manière plus naturelle et fluide avec leur montre. Gemini pourrait gérer davantage de requêtes, y compris celles impliquant l'accès aux données personnelles de l'utilisateur. La question de la multimodalité de Gemini sur Wear OS reste en suspens, alors que Google Assistant se limite actuellement à des réponses textuelles ou audio. La sortie de Gemini sur les montres Wear OS pourrait être annoncée lors de la conférence Google I/O au printemps 2025.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/google-pixel-watch-2-test-frandroid-21-1200x800-1-768x512.jpg?resize=200,200&key=fd3107c9",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Project DIGITS : la révolution de l'IA personnelle",
-        "link": "https://www.frandroid.com/marques/nvidia/2460414_le-mini-monstre-de-nvidia-plus-petit-quun-mac-mini-plus-puissant-quun-datacenter",
-        "body": "Nvidia a présenté Project DIGITS, un super-ordinateur personnel qui pourrait révolutionner le développement et l'utilisation de l'IA. Basé sur la puce GB10 Grace Blackwell, développée en collaboration avec MediaTek, il offre une puissance de calcul impressionnante de 1 petaflop, soit 1000 opérations par seconde en précision FP4. L'appareil dispose de spécifications techniques élevées, dont 128 Go de mémoire LPDDR5 et jusqu'à 4 To de stockage NVMe. Il se distingue surtout par sa capacité à gérer des modèles d'IA avec jusqu'à 200 milliards de paramètres, montant à 405 milliards lorsque deux unités sont connectées. Nvidia cible les développeurs IA, les chercheurs et les étudiants en sciences des données avec ce produit, qui pourrait représenter une économie importante à long terme par rapport à la location de ressources cloud coûteuses. Project DIGITS est livré avec un système d'exploitation et une suite logicielle dédiés à l'IA, permettant une prise en main immédiate pour le prototypage, l'ajustement et le développement d'applications edge.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/nvidia-ceo-jensen-huang-keynote-at-ces-2025-1-51-36-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=6a9bf98d",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia dévoile ses dernières avancées en matière d'IA et de gaming",
-        "link": "https://www.frandroid.com/marques/nvidia/2458836_comment-suivre-la-keynote-nvidia-avec-lannonce-des-rtx-50-au-ces-2025-les-annonces-en-direct",
-        "body": "Le 6 janvier 2025, Nvidia s'apprête à lancer sa série RTX 50, devenant l'entreprise la plus valorisée au monde, dépassant Apple. La conférence au CES 2025 met en avant les avancées de l'entreprise dans le domaine de l'IA, avec une suite logicielle complète, \"Nvidia AI Blueprints\", couvrant tout le spectre du développement de l'IA. Nvidia présente également \"Agentic AI\", une approche évolutive de l'IA conversationnelle. La série RTX 50 impressionne avec des performances en IA et ray tracing améliorées, grâce à l'architecture Blackwell. Les cartes graphiques promettent un ray tracing complet et une qualité graphique supérieure tout en préservant les performances. Nvidia annonce également une deuxième vague de produits pour mars 2025, incluant des laptops gaming équipés de la série RTX 50.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/nvidia-ceo-jensen-huang-keynote-at-ces-2025-43-53-screenshot-768x432.jpg?resize=169,169&key=1f5e2929",
-        "date": "Mon, 06 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'évolution des robots aspirateurs",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/06/robot-vacuums-now-have-legs/?ss=ai",
-        "body": "L'article retrace l'évolution des robots aspirateurs, des premiers modèles aux dernières innovations présentées lors du CES. Le Dreame X50 Ultra, dernier modèle de la société Dreame, se distingue par de petites pattes qui lui permettent de surmonter des obstacles de faible hauteur. Cette innovation, ainsi que l'introduction du lidar, améliorent considérablement la navigation et la compréhension de l'environnement par le robot. De plus, de nouvelles fonctionnalités, telles qu'un système de succion amélioré, renforcent son efficacité dans des tâches spécifiques comme l'élimination des poils d'animaux. Ces avancées illustrent l'évolution rapide des capacités des robots aspirateurs, qui deviennent de plus en plus polyvalents et autonomes, s'approchant ainsi de la vision d'un \"robot majordome\". L'article soulève également des questions importantes concernant la gouvernance et les risques potentiels associés à l'évolution rapide de ces technologies d'IA et de robotique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677c61805ee656cd008bf2a6/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 06 Jan 2025 22:00:00 GMT"
     }
 ]
