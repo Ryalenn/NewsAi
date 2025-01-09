@@ -201,33 +201,5 @@
         "body": "L'IA est au cœur de la transformation du paysage énergétique mondial, permettant des prévisions précises de la demande et l'optimisation en temps réel de la production, du stockage et de la distribution. Les entreprises utilisent déjà l'IA pour explorer les énergies vertes, optimiser l'emplacement des stations de recharge des véhicules électriques et accélérer la recherche de solutions énergétiques propres. L'IA, associée à de nouvelles technologies de stockage d'énergie, comme les batteries solides et les batteries à flux, rendra la transition vers les énergies renouvelables plus fiable et plus viable. De plus, le concept de décentralisation de la production d'énergie, avec des micro-réseaux et des systèmes de partage d'énergie à petite échelle gérés par l'IA, augmentera la résilience énergétique et réduira la dépendance aux fournisseurs centraux. Enfin, l'évolution du comportement humain, notamment la volonté de s'éloigner des combustibles fossiles et de participer à des programmes communautaires d'énergie, sera un facteur décisif dans la transformation énergétique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ccf485e7bf7f12e6a4548/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 07 Jan 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du jeu avec l'IA autonome",
-        "link": "https://www.theverge.com/2025/1/6/24337949/nvidia-ace-ai-npcs-pubg-ally-teammate",
-        "body": "Nvidia présente à la CES 2025 ses personnages numériques \"ACE\", capables de mener des conversations en jeu et d'agir de manière autonome grâce à l'IA générative. ACE utilise de petits modèles linguistiques et multimodaux pour la vision et l'audio, leur permettant de comprendre leur environnement et de prendre des décisions en temps réel. Nvidia et Krafton présentent également le \"PUBG Ally\", le premier personnage de jeu \"co-jouable\", capable de communiquer, de fournir des recommandations stratégiques et de travailler en équipe avec les joueurs. D'autres jeux, tels que Naraka: Bladepoint et inZOI, intégreront également des personnages IA basés sur ACE, tandis que Wemade Next utilisera ACE pour des rencontres avec des boss dans MIR5.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2560x1440/2400x1600/filters:focal(1280x720:1281x721):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820669/videoframe_62840.png",
-        "date": "Tue, 07 Jan 2025 04:32:21 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA sur les bureaux",
-        "link": "https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai",
-        "body": "Nvidia a annoncé le lancement de Project Digits, un superordinateur IA personnel basé sur la nouvelle puce Grace Blackwell, offrant une puissance de traitement importante dans un format compact de bureau. Project Digits peut gérer des modèles IA avec jusqu'à 200 milliards de paramètres, avec un prix de départ de 3 000 $. Chaque système est équipé de 128 Go de mémoire unifiée et peut être couplé pour gérer des applications plus exigeantes. La puce GB10 offre une performance IA de 1 petaflop et le système utilise les derniers cœurs CUDA et Tensor Cores de Nvidia. Les utilisateurs ont également accès à la bibliothèque logicielle IA de Nvidia, avec des kits de développement, des outils d'orchestration et des modèles pré-entraînés. Project Digits fonctionne sous un système d'exploitation Linux et prend en charge des frameworks populaires comme PyTorch et Python. Les développeurs peuvent affiner les modèles avec le framework NeMo et accélérer les workflows de science des données avec les bibliothèques RAPIDS de Nvidia.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2940x1657/2400x1600/filters:focal(1508x573:1509x574):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820684/Screenshot_2025_01_06_at_11.08.31_PM_1_2_.png",
-        "date": "Tue, 07 Jan 2025 04:11:07 GMT"
-    },
-    {
-        "title": "Streamlabs IA",
-        "link": "https://www.theverge.com/2025/1/6/24335356/virtual-ai-intelligent-streaming-assistant-inworld-streamlabs-nvidia",
-        "body": "Streamlabs, Inworld AI et Nvidia s'associent pour développer un nouvel assistant IA pour les streamers. Cet assistant, appelé \"Intelligent Streaming Assistant\", peut fournir un support technique en temps réel et même agir en tant que co-animateur avec des commentaires pertinents et humoristiques. Il peut comprendre ce qui se passe dans des jeux comme Fortnite et réagir en conséquence, mettant en valeur les actions des joueurs ou en interagissant avec le public. L'assistant peut également déclencher des effets audio et visuels, capturer des clips et offrir une aide à la configuration. Les streamers pourront choisir parmi différentes personnalités d'assistant pour correspondre au ton de leur stream. Bien que l'outil semble prometteur pour améliorer l'expérience de streaming, son apparence et sa voix, telles que présentées dans une démo vidéo, pourraient être améliorées pour une adoption plus large. L'assistant devrait être lancé dans l'app store de Streamlabs plus tard dans l'année.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2560x1440/2400x1600/filters:focal(1280x720:1281x721):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25815882/Copy_of_Live_Stream_Example.png",
-        "date": "Tue, 07 Jan 2025 04:00:00 GMT"
-    },
-    {
-        "title": "SuperCharge",
-        "link": "https://www.forbes.com/sites/karlfreund/2025/01/06/nvidia-rocks-ces-with-grace-blackwell-ai-pc-platform/?ss=ai",
-        "body": "Nvidia dévoile une nouvelle plateforme pour les PC d'IA destinée aux développeurs d'IA, appelée Project Digits. Cette plateforme, basée sur le couple CPU Grace (Arm) et GPU Blackwell, offre des performances exceptionnelles à un prix de départ de 3000 $. Project Digits prend en charge un large éventail de logiciels d'IA Nvidia et dispose de 128 Go de mémoire unifiée et cohérente, ainsi que d'un stockage NVMe pouvant atteindre 4 To. La plateforme permet aux développeurs d'exécuter des modèles d'IA à grande échelle, pouvant atteindre 200 milliards de paramètres, et peut même être liée à un autre superordinateur Project Digits pour gérer des modèles encore plus importants. Bien qu'il s'agisse actuellement d'une plateforme destinée aux développeurs, Nvidia pourrait potentiellement viser le marché grand public en collaborant avec Microsoft Windows et des fabricants de PC comme HP, Dell et Lenovo.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677c11fd044ec3a73750ece4/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 07 Jan 2025 04:00:00 GMT"
     }
 ]
