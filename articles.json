@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Laisser vos lumières être contrôlées par l’IA ? La drôle d’idée de Philips Hue",
+        "title": "Laisser vos lumi\u00e8res \u00eatre contr\u00f4l\u00e9es par l\u2019IA ? La dr\u00f4le d\u2019id\u00e9e de Philips Hue",
         "link": "https://www.frandroid.com/produits-android/2462922_laisser-vos-lumieres-etre-controlee-par-lia-la-drole-didee-de-philips-hue",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/pack-philips-hue-1-768x432.jpg?resize=169,169&key=55cec193",
         "date": "Tue, 07 Jan 2025 23:00:00 GMT",
@@ -194,5 +194,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/677981efeb6377cb8bcb0012/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 09 Jan 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "VLC : le champion fran\u00e7ais f\u00eate ses 6 milliards de t\u00e9l\u00e9chargements avec une nouveaut\u00e9 dans l\u2019air du temps",
+        "link": "https://www.frandroid.com/android/applications",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/vlc-1200x675-1-768x432.png?resize=169,169&key=cfd90c5e",
+        "date": "Wed, 08 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "L\u2019IA est arriv\u00e9e au bout des apprentissages humains possibles d\u2019apr\u00e8s Elon Musk",
+        "link": "https://www.frandroid.com/culture-tech/2465018_lia-est-arrivee-au-bout-des-apprentissages-humains-possibles-dapres-elon-musk",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/elon-musk-pouces-1200x800-1-768x512.jpeg?resize=200,200&key=745c4f78",
+        "date": "Wed, 08 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/dianaspehar/2025/01/09/ai-governance-in-2025--expert-predictions-on-ethics-tech-and-law/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677f25483939c0a6a7d25e54/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 09 Jan 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/larsdaniel/2025/01/09/characterai-faces-scrutiny-over-school-shooter-chatbots/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6769da820000e74d48052e7f/0x0.jpg?format=jpg&crop=1618,911,x673,y679,safe&width=440",
+        "date": "Thu, 09 Jan 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
