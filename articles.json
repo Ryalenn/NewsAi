@@ -84,14 +84,14 @@
         "check": "yes"
     },
     {
-        "title": "VLC : le champion français fête ses 6 milliards de téléchargements avec une nouveauté dans l’air du temps",
+        "title": "VLC : le champion fran\u00e7ais f\u00eate ses 6 milliards de t\u00e9l\u00e9chargements avec une nouveaut\u00e9 dans l\u2019air du temps",
         "link": "https://www.frandroid.com/android/applications",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/vlc-1200x675-1-768x432.png?resize=169,169&key=cfd90c5e",
         "date": "Wed, 08 Jan 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "L’IA est arrivée au bout des apprentissages humains possibles d’après Elon Musk",
+        "title": "L\u2019IA est arriv\u00e9e au bout des apprentissages humains possibles d\u2019apr\u00e8s Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/2465018_lia-est-arrivee-au-bout-des-apprentissages-humains-possibles-dapres-elon-musk",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/elon-musk-pouces-1200x800-1-768x512.jpeg?resize=200,200&key=745c4f78",
         "date": "Wed, 08 Jan 2025 23:00:00 GMT",
@@ -166,5 +166,19 @@
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
         "date": "Thu, 09 Jan 2025 00:20:09 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/10/7-game-changing-legal-tech-trends-that-will-transform-law-firms-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6780c3e6182928b5a75f9806/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 10 Jan 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/10/people-gaming-emotion-detecting-ai-by-faking-emotional-reactions-could-lead-to-widespread-societal-emotional-habits-and-hysteria/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1045,783,x65,y0,safe&width=440",
+        "date": "Fri, 10 Jan 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
