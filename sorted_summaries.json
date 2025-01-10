@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de l'IA : exploration et éducation",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/10/exploring-practical-llm-research-in-class-at-mit/?ss=ai",
+        "body": "L'article met en lumière l'importance de l'éducation dans le domaine de l'IA, en se concentrant sur un cours de Deep Learning dispensé au MIT. Les intervenants, Peter Grabowski de Google et Maxime Labonne, un scientifique en apprentissage automatique, partagent leurs idées sur l'évolution des LLM et leur impact sur l'entreprise et la recherche. Grabowski souligne l'importance de la diversité des ensembles de données et de la taille des contextes, tandis que Labonne discute des étapes de développement des LLM et de l'alignement des préférences. La discussion met en évidence le rôle de l'éducation dans la préparation de la prochaine génération d'experts en IA, en explorant les défis et les opportunités actuels du domaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67818c89dfd939c2fb33e7b8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 10 Jan 2025 21:11:00 GMT"
+    },
+    {
+        "title": "Unions vs. AI",
+        "link": "https://www.forbes.com/sites/robsalkowitz/2025/01/10/ces-2025-hollywood-unions-battle-to-contain-ai-disruptions-in-creative-industries/?ss=ai",
+        "body": "Résumé : Les représentants des plus grands syndicats américains se sont réunis lors du Sommet de l'AFL-CIO sur le travail, l'innovation et la technologie pour discuter de l'impact de l'IA sur la main-d'œuvre, y compris dans les industries créatives comme le cinéma et la télévision. Les syndicats comme SAG-AFTRA et la Writers Guild of America ont déjà mené des grèves pour protéger les droits des acteurs, des scénaristes et des journalistes en ligne face à l'utilisation de l'IA. Les négociations en cours avec les studios portent sur le consentement, la compensation, le contrôle et l'intégrité de la vision des artistes. Les dirigeants syndicaux reconnaissent la nécessité de reframing the conversation pour protéger l'autonomie des travailleurs et leurs emplois tout en embrassant l'innovation. Les défis incluent l'évolution rapide des outils d'IA, la nécessité de législation et de litige, et la résistance de l'industrie et des groupes civiques sur les questions de \"liberté d'expression\". Les syndicats espèrent que la solidarité et le pouvoir de la négociation collective protégeront les travailleurs des pires impacts de l'IA et orienteront l'innovation vers une approche plus centrée sur l'humain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678167d1e32d8e321fc6d4f6/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 10 Jan 2025 18:00:00 GMT"
+    },
+    {
         "title": "L'IA au service de la médecine",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/10/daniela-rus-inducted-into-the-french-acadmie-nationale-de-mdecine/?ss=ai",
         "body": "L'accomplie informaticienne et éducatrice Daniela Rus, directrice du laboratoire CSAIL du MIT, a été intronisée à l'Académie Nationale de Médecine française. Dans son discours, elle a souligné plusieurs avancées majeures de l'IA, notamment son application dans les domaines de la santé préventive et du diagnostic médical. L'IA peut améliorer le diagnostic de la septicémie, une affection à évolution rapide, et ainsi réduire la vulnérabilité des patients aux maladies graves et à la mort. De plus, Daniela Rus a mentionné l'utilisation de l'IA pour former des chirurgiens et les aider à éviter les erreurs, ainsi que le potentiel des nanorobots pour effectuer des procédures médicales sans incision, améliorant ainsi considérablement les soins médicaux. Ses expériences en France ont enrichi sa carrière et renforcé son appréciation des contributions des équipes médicales et scientifiques françaises à la santé mondiale.",
@@ -54,6 +68,13 @@
         "body": "Le chatbot Grok, développé par la société d'IA d'Elon Musk, xAI, est désormais disponible sur une application iOS dédiée. Grok, initialement accessible via X (anciennement Twitter), est présenté comme un assistant basé sur l'IA, \"fidèle à la vérité, utile et curieux\". xAI a récemment testé Grok-2, une nouvelle version plus rapide, plus précise et multilingue, qui alimente désormais l'application. L'application est actuellement disponible uniquement aux États-Unis pour les iPhone sous iOS 17 et plus, et xAI a levé 6 milliards de dollars pour poursuivre le développement de son IA.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/copie-de-logo-pattern-f-1200x675-1-768x432.jpg?resize=169,169&key=9c29fed3",
         "date": "Thu, 09 Jan 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Grok Chatbot Now Available as a Standalone iOS App",
+        "link": "https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch",
+        "body": "xAI a lancé une application iOS aux États-Unis pour son chatbot Grok, qui peut fournir des informations en temps réel, répondre à des questions et générer des images. L'application autonome, que xAI appelle une version bêta, offre les mêmes fonctionnalités que la version intégrée à la plateforme X. xAI a commencé à tester l'application iOS autonome en décembre dans quelques pays. Grok, initialement réservé aux abonnés Premium de X, est désormais accessible à tous les utilisateurs, le plaçant ainsi en concurrence directe avec d'autres chatbots gratuits comme ChatGPT, Claude, Google Gemini et Microsoft Copilot. xAI travaille également sur un site Web dédié, Grok.com, qui sera bientôt disponible. L'entreprise a récemment levé 6 milliards de dollars supplémentaires, portant son financement total à 12 milliards de dollars, avec des investisseurs stratégiques tels que Nvidia et AMD.",
+        "image": "",
+        "date": "Thu, 09 Jan 2025 21:18:59 GMT"
     },
     {
         "title": "L'intelligence hybride : l'union de l'intelligence humaine et artificielle",
@@ -173,12 +194,5 @@
         "body": "L'entreprise d'IA Anthropic, valorisée à 60 milliards de dollars, est sur le point de créer sept nouveaux milliardaires parmi son équipe fondatrice. La startup, fondée en 2021 par des anciens d'OpenAI, a développé le populaire chatbot Claude et vient de lever 2 milliards de dollars lors d'un nouveau tour de table mené par Lightspeed Venture Partners. Les frères et sœurs Dario et Daniela Amodei, ainsi que les cinq autres cofondateurs, détiendront chacun plus de 2% des parts de l'entreprise, ce qui valorise leur participation à plus de 1,2 milliard de dollars. Anthropic est devenue l'un des principaux concurrents d'OpenAI, évalué à 157 milliards de dollars, et rivalise également avec xAI d'Elon Musk, valorisé à plus de 40 milliards de dollars. La course au financement dans le domaine de l'IA a créé de nouveaux milliardaires, et d'autres startups comme Mistral AI, Cohere, Safe Superintelligence et Perplexity pourraient suivre le même chemin.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ef16c990bba1ec862b897/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 08 Jan 2025 22:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des systèmes collaboratifs et l'émergence de l'AGI",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/08/breaking-down-todays-awe-inspiring-ai-systems/?ss=ai",
-        "body": "L'article explore l'évolution de l'IA, en particulier l'émergence de systèmes d'IA collaboratifs et l'impact potentiel sur l'industrie. Il met en évidence la tendance actuelle vers des moteurs d'IA multiples travaillant de concert, chacun avec des spécialisations distinctes, et suggère que cela pourrait conduire à l'émergence d'une IA générale (AGI). L'auteur cite des experts du domaine, tels que Matthew Berman et Andrew Ng, qui soulignent l'importance des approches multi-modèles et des systèmes d'agents dans l'avenir de l'IA. Berman présente un aperçu détaillé de la feuille de route vers o1 d'OpenAI, mettant en évidence des fonctionnalités telles que la recherche arborescente, les révisions séquentielles et les mécanismes d'orientation internes. Ng, quant à lui, exprime son enthousiasme pour l'avenir de l'IA axée sur les agents, affirmant qu'elle reflète la façon dont les humains résolvent les problèmes. L'article aborde également les implications en matière de sécurité, notamment le concept de « fausse alignement » et la possibilité que les utilisateurs tentent de « jailbreaker » les systèmes d'IA. Malgré ces préoccupations, l'auteur conclut que les systèmes d'IA multi-agents ont le potentiel de révolutionner de nombreux domaines.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677ee324b167b981cb0cb570/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 08 Jan 2025 20:44:00 GMT"
     }
 ]
