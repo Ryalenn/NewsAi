@@ -35,14 +35,14 @@
         "check": "yes"
     },
     {
-        "title": "VLC : le champion français fête ses 6 milliards de téléchargements avec une nouveauté dans l’air du temps",
+        "title": "VLC : le champion fran\u00e7ais f\u00eate ses 6 milliards de t\u00e9l\u00e9chargements avec une nouveaut\u00e9 dans l\u2019air du temps",
         "link": "https://www.frandroid.com/android/applications",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/vlc-1200x675-1-768x432.png?resize=169,169&key=cfd90c5e",
         "date": "Wed, 08 Jan 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "L’IA est arrivée au bout des apprentissages humains possibles d’après Elon Musk",
+        "title": "L\u2019IA est arriv\u00e9e au bout des apprentissages humains possibles d\u2019apr\u00e8s Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/2465018_lia-est-arrivee-au-bout-des-apprentissages-humains-possibles-dapres-elon-musk",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/elon-musk-pouces-1200x800-1-768x512.jpeg?resize=200,200&key=745c4f78",
         "date": "Wed, 08 Jan 2025 23:00:00 GMT",
@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Grok, le chatbot d’Elon Musk, débarque sur iPhone aux États-Unis",
+        "title": "Grok, le chatbot d\u2019Elon Musk, d\u00e9barque sur iPhone aux \u00c9tats-Unis",
         "link": "https://www.frandroid.com/produits-android/2467070_grok-le-chatbot-delon-musk-debarque-sur-iphone-aux-etats-unis",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/copie-de-logo-pattern-f-1200x675-1-768x432.jpg?resize=169,169&key=9c29fed3",
         "date": "Thu, 09 Jan 2025 23:00:00 GMT",
@@ -173,5 +173,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/678145c4139dba017b8dbdcc/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 10 Jan 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/9/24340129/grok-iphone-ios-app-us-launch",
+        "image": "",
+        "date": "Thu, 09 Jan 2025 21:18:59 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/10/exploring-practical-llm-research-in-class-at-mit/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67818c89dfd939c2fb33e7b8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 10 Jan 2025 21:11:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/robsalkowitz/2025/01/10/ces-2025-hollywood-unions-battle-to-contain-ai-disruptions-in-creative-industries/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678167d1e32d8e321fc6d4f6/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 10 Jan 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
