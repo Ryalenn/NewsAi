@@ -1,5 +1,12 @@
 [
     {
+        "title": "Zen et l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/11/finding-your-zen-via-the-peaceful-mindful-advice-of-generative-ai-chatgpt/?ss=ai",
+        "body": "Cet article explore l'idée d'utiliser l'IA générative pour atteindre un état d'esprit zen et trouver la paix intérieure. L'auteur suggère que l'IA peut servir de guide pour atteindre un état de calme et de pleine conscience, mais souligne que l'utilisateur doit rester critique et engagé dans le processus. L'IA peut offrir un soutien et des conseils, mais l'utilisateur doit être proactif dans sa quête de zen. L'article fournit également des conseils sur la façon d'interagir avec l'IA, suggérant une approche conversationnelle pour tirer le meilleur parti de la technologie. Enfin, l'auteur met en garde contre les limites de l'IA, soulignant que l'atteinte de la paix intérieure dépend finalement de l'individu et que l'IA ne peut qu'offrir des conseils et des orientations.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677c2241ef4eb6461435f0fc/0x0.jpg?format=jpg&crop=3075,2305,x188,y0,safe&width=440",
+        "date": "Sat, 11 Jan 2025 06:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : exploration et éducation",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/10/exploring-practical-llm-research-in-class-at-mit/?ss=ai",
         "body": "L'article met en lumière l'importance de l'éducation dans le domaine de l'IA, en se concentrant sur un cours de Deep Learning dispensé au MIT. Les intervenants, Peter Grabowski de Google et Maxime Labonne, un scientifique en apprentissage automatique, partagent leurs idées sur l'évolution des LLM et leur impact sur l'entreprise et la recherche. Grabowski souligne l'importance de la diversité des ensembles de données et de la taille des contextes, tandis que Labonne discute des étapes de développement des LLM et de l'alignement des préférences. La discussion met en évidence le rôle de l'éducation dans la préparation de la prochaine génération d'experts en IA, en explorant les défis et les opportunités actuels du domaine.",
@@ -124,19 +131,5 @@
         "body": "La plateforme de chatbot basée sur l'IA, soutenue par Google, fait face à des critiques après la découverte de chatbots imitant des tireurs d'école réels et leurs victimes. Cet incident soulève des questions sur la modération du contenu généré par l'IA et les responsabilités éthiques des plateformes d'IA. Character.AI a supprimé les chatbots et renforcé ses mesures de sécurité, mais l'épisode met en lumière les défis de la réglementation de l'IA générative. L'article explore également les limites des systèmes de sécurité sans supervision parentale et les conséquences potentielles des interactions avec les chatbots violents pour les jeunes utilisateurs. Il soulève des questions critiques sur l'équilibre entre progrès technologique et sécurité, et sur la responsabilité en cas de défaillance de ces systèmes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6769da820000e74d48052e7f/0x0.jpg?format=jpg&crop=1618,911,x673,y679,safe&width=440",
         "date": "Thu, 09 Jan 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Les startups de l'IA à l'avant-garde",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/09/ai-50-2025-submissions-for-forbes-list-of-the-top-50-ai-startups-is-open/?ss=ai",
-        "body": "Forbes annonce l'ouverture des candidatures pour son édition 2025 de la liste AI 50, mettant en lumière les startups les plus prometteuses dans le domaine de l'IA. L'objectif est de distinguer les entreprises qui appliquent de manière significative l'IA pour résoudre des problèmes concrets dans différents secteurs, tout en étant rentables. Les candidatures sont évaluées selon des critères quantitatifs et qualitatifs, notamment les capacités techniques, le chiffre d'affaires, la croissance et la valorisation. Les finalistes bénéficieront d'une couverture médiatique approfondie, y compris des tendances, des vidéos et des profils. La date limite de candidature est le vendredi 7 février 2025.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677d59b2310a66269712a311/0x0.jpg?format=jpg&crop=2000,1125,x0,y0,safe&width=440",
-        "date": "Thu, 09 Jan 2025 12:00:00 GMT"
-    },
-    {
-        "title": "Google teste un podcast quotidien personnalisé alimenté par l'IA",
-        "link": "https://www.theverge.com/2025/1/9/24339765/google-labs-daily-listen-ai-generated-podcast-overviews",
-        "body": "Google teste une nouvelle fonctionnalité expérimentale d'IA qui crée un podcast quotidien personnalisé basé sur l'historique de recherche et de découverte de l'utilisateur. La fonctionnalité \"Daily Listen\" est actuellement déployée aux États-Unis pour les utilisateurs Android et iOS. Elle fonctionne de manière similaire à la fonctionnalité \"Audio Overviews\" du projet NotebookLM de Google. \"Daily Listen\" utilise les données de recherche et les interactions avec l'onglet \"Discover\" pour évaluer les articles d'actualité qui pourraient intéresser l'utilisateur, puis résume ces histoires et sujets sous forme de résumé audio d'environ cinq minutes. La fonctionnalité fournit également une transcription textuelle et des commandes de lecture audio permettant aux utilisateurs de lire, mettre en pause, couper le son, rembobiner ou passer à l'histoire suivante. Les utilisateurs qui optent pour l'expérience trouveront \"Daily Listen\" dans le carrousel de widgets personnalisés sous la barre de recherche de l'application Google. Un onglet \"Histoires connexes\" permettra aux utilisateurs d'aimer ou de désapprouver les histoires et d'explorer de nouveaux sujets. Il n'y a actuellement aucune information sur une éventuelle sortie de cette fonctionnalité pour le grand public.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg",
-        "date": "Thu, 09 Jan 2025 10:08:15 GMT"
     }
 ]
