@@ -1,5 +1,12 @@
 [
     {
+        "title": "Prédiction des catastrophes climatiques",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/01/13/alphabet-uses-ai-to-rush-first-responders-to-disasters-takeaways-for-businesses/?ss=ai",
+        "body": "L'article décrit le développement par Alphabet X d'un système d'IA prédictive appelé Bellwether, qui vise à réduire considérablement le temps nécessaire pour informer les premiers intervenants sur les lieux à rejoindre en cas de catastrophe climatique. Bellwether utilise une base de données de photos de référence simulées pour identifier et étiqueter les photos aériennes prises par des drones et des avions pendant et après des événements météorologiques graves, tels que des incendies de forêt ou des inondations. Cela permet aux intervenants d'identifier rapidement les infrastructures endommagées, comme les ponts, et de prendre des décisions éclairées. L'IA prédictive joue un rôle crucial dans ce processus en attribuant un niveau de confiance à chaque correspondance de photo, ce qui permet de filtrer les incertitudes et de prendre des décisions rapides. Bellwether a déjà été déployé par la Garde nationale et d'autres organisations, et l'équipe travaille à l'étendre à d'autres types de catastrophes climatiques et à la prédiction d'incidents environnementaux.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6785636296d7adbc13fbd53e/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 13 Jan 2025 20:40:00 GMT"
+    },
+    {
         "title": "Samsung Galaxy S25 Ultra",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/01/13/last-minute-galaxy-s25-ultra-leaks-reveal-samsungs-powerful-upgrades/?ss=ai",
         "body": "Le prochain smartphone phare de Samsung, le Galaxy S25 Ultra, devrait offrir des améliorations significatives par rapport à son prédécesseur, le S24 Ultra, notamment en matière de photographie et de vidéo. Bien que les améliorations matérielles de l'appareil photo soient modestes, les fuites suggèrent des avancées notables dans la qualité des images et des vidéos, grâce au nouveau processeur Snapdragon 8 Elite de Qualcomm et à l'IA améliorée. L'appareil photo ultra-grand-angle passerait à 50 mégapixels, offrant une résolution quatre fois supérieure à celle du S24 Ultra. De plus, la fonction Audio Eraser, déjà présente sur les Google Pixel 8, pourrait faire son apparition sur le Galaxy S25, permettant d'éliminer facilement les bruits de fond indésirables des enregistrements audio et vidéo. Enfin, Samsung devrait également améliorer la transition entre les lentilles lors de l'enregistrement vidéo, grâce au processeur de signal d'image amélioré du Snapdragon 8 Elite.",
@@ -145,12 +152,5 @@
         "body": "Asus dévoile un nouveau mini PC, le NUC 14 Pro AI Plus, avec un design transparent nostalgique et un écran E Ink couleur. Le fabricant met en valeur les composants internes, y compris le dernier processeur Intel Core Ultra, en les exposant à travers un boîtier transparent. L'écran E Ink est contrôlé par une application d'IA, permettant d'afficher des images générées par l'IA. Le mini PC est également équipé d'un bouton Microsoft Copilot pour l'interaction vocale, ainsi que d'une connectique moderne, dont le Wi-Fi 7 et le Thunderbolt 4.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-37-5-1200x675-1-768x432.jpg?resize=169,169&key=d26c8dbe",
         "date": "Sat, 11 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La prochaine génération de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/11/anthropics-new-deal-illustrates-how-big-ai-will-be-in-2025/?ss=ai",
-        "body": "Les grandes entreprises technologiques investissent massivement dans l'intelligence artificielle, que ce soit dans la création de modèles, de produits et de services, la conception matérielle ou les services Web. OpenAI et Anthropic sont à l'avant-garde de ce domaine, avec des évaluations élevées et un soutien financier important de la part d'entreprises comme Amazon et Google. L'intégration du modèle Claude d'Anthropic dans les services Web d'Amazon est un exemple de co-marquage réussi. Malgré les prévisions de pertes financières pour OpenAI et les dépenses élevées en capacité AWS pour Anthropic, les experts prédisent une réduction significative des coûts des sessions ChatGPT et de l'utilisation de l'IA grâce à de nouveaux types de réseaux et à l'IA multi-agents. Les prévisions optimistes d'Ethan Mollick sur les capacités futures des robots et de l'IA soutiennent l'idée d'une industrie en plein essor qui deviendra de plus en plus importante dans les mois à venir.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6782e29c865d760cec48cf2c/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 11 Jan 2025 21:00:00 GMT"
     }
 ]
