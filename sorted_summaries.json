@@ -35,6 +35,13 @@
         "date": "Tue, 14 Jan 2025 02:00:00 GMT"
     },
     {
+        "title": "WhatsApp s'enrichit d'un widget Llama IA",
+        "link": "https://www.frandroid.com/produits-android/2470566_whatsapp-veut-ancrer-metaai-a-sa-messagerie",
+        "body": "WhatsApp, propriété de Meta, intègre un widget permettant d'accéder directement à son IA Llama. Cette fonctionnalité, repérée dans une version bêta de l'application, offre un accès rapide au chatbot Llama 3.1, capable de conversations, de traductions, de résumés et de génération d'images. Le widget inclut un appareil photo, suggérant de nouvelles interactions avec l'IA, potentiellement similaires à Google Lens. La fonctionnalité sera disponible dans les pays ayant accès à Meta AI, excluant pour l'instant l'Union européenne.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/copy-of-logo-simple-f1-1200x675-1-768x432.jpg?resize=169,169&key=3ca061ad",
+        "date": "Mon, 13 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA au service du rendu graphique dans les jeux vidéo",
         "link": "https://www.frandroid.com/marques/nvidia/2469562_pourquoi-lia-ne-remplacera-jamais-le-travail-dune-carte-graphique-dans-les-jeux-video-selon-nvidia",
         "body": "Nvidia, leader dans le domaine du rendu neuronal, utilise l'IA pour améliorer le rendu des scènes 3D dans les jeux vidéo. Leur technologie DLSS, qui améliore les performances et la qualité d'image, est un exemple de cette approche. Les GPU GeForce RTX 50 intègrent des cœurs CUDA et Tensor pour gérer ces technologies de rendu. Malgré cela, selon Jensen Huang, PDG de Nvidia, l'IA ne remplacera pas entièrement le rendu traditionnel. Il souligne l'importance des techniques de rendu classiques pour fournir le contexte nécessaire à l'IA. L'IA sera utilisée pour améliorer le rendu des textures et de la géométrie des scènes, en se basant sur le conditionnement et les données préexistantes. Nvidia présente également des outils pour les développeurs, leur permettant de créer des matériaux et des textures plus réalistes grâce à l'IA. L'IA accélère ainsi la création et le rendu des jeux, mais ne remplace pas les techniques traditionnelles.",
@@ -152,12 +159,5 @@
         "body": "L'article explore les motivations derrière les récentes visites de Mark Zuckerberg à Mar-a-Lago, la résidence de Donald Trump, dans le contexte des tensions entre Meta et l'administration Biden sortante. Zuckerberg cherche probablement un nouveau départ avec l'administration Trump, notamment en raison des menaces de Trump d'emprisonner Zuckerberg et de la réglementation de l'IA qui pourrait entraver les efforts de Meta. L'auteur suggère qu'Elon Musk et Amazon s'alignent sur l'idéologie de Trump, et que les changements rapides chez Meta reflètent la volonté de Zuckerberg de s'adapter à cette nouvelle réalité politique. Les discussions de Zuckerberg avec Trump pourraient inclure la lutte contre la surveillance des plateformes par d'autres pays, la lutte contre les diktats d'Apple et la réglementation de l'IA nationale. L'article souligne également les changements récents chez Meta, notamment la fin du programme de vérification des faits par des tiers et la décision de recommander à nouveau du contenu politique.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25822588/STK169_ZUCKERBERG_MAGA_STKS491_CVIRGINIA_B.jpg",
         "date": "Sun, 12 Jan 2025 18:35:48 GMT"
-    },
-    {
-        "title": "Apple Intelligence, une fonctionnalité facultative",
-        "link": "https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to",
-        "body": "L'article traite de la nouvelle fonctionnalité Apple Intelligence, qui apporte des capacités d'IA à l'iPhone, l'iPad et le Mac. Il aborde le fait que, bien que de plus en plus omniprésente, l'IA sur les appareils Apple peut être considérée comme superflue par certains utilisateurs, d'autant plus qu'elle occupe une quantité importante d'espace de stockage. L'article explique comment désactiver les fonctionnalités d'IA individuellement, comme les outils d'écriture, les résumés de notifications et la priorisation des messages. Bien que la plupart des fonctionnalités d'Apple Intelligence puissent être désactivées, les modèles d'IA téléchargés sur l'appareil occupent un espace de stockage important, et la seule façon de les supprimer est de réinitialiser complètement l'appareil. L'article conclut en soulignant que, pour l'instant, les utilisateurs ont un contrôle important sur les fonctionnalités d'IA actives, mais que de futures mises à jour pourraient rendre Apple Intelligence moins facultative.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24504725/HT015_S_Haddad_ios_iphone_14_grayscale.jpg",
-        "date": "Sun, 12 Jan 2025 15:00:00 GMT"
     }
 ]
