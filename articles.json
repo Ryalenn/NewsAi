@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "Tâches et rappels sur ChatGPT : comment l’IA devient votre secrétaire virtuel",
+        "title": "T\u00e2ches et rappels sur ChatGPT : comment l\u2019IA devient votre secr\u00e9taire virtuel",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2471550_taches-et-rappels-sur-chatgpt-comment-lia-devient-votre-secretaire-virtuel",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-44-6-1200x800-1-768x512.jpg?resize=200,200&key=96d4c0e1",
         "date": "Mon, 13 Jan 2025 23:00:00 GMT",
@@ -154,7 +154,7 @@
         "check": "yes"
     },
     {
-        "title": "Google va aider Mercedes à rendre ses voitures électriques plus intelligentes",
+        "title": "Google va aider Mercedes \u00e0 rendre ses voitures \u00e9lectriques plus intelligentes",
         "link": "https://www.frandroid.com/marques/mercedes-benz/2471798_google-va-aider-mercedes-a-rendre-ses-voitures-electriques-plus-intelligentes",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/25c0014-001-1200x675-1-768x432.jpg?resize=169,169&key=ae484ce6",
         "date": "Tue, 14 Jan 2025 23:00:00 GMT",
@@ -180,5 +180,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/678028f79306b325d3f54fb5/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 15 Jan 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Discuter avec Gemini dans une vid\u00e9o YouTube, ce serait bient\u00f4t possible",
+        "link": "https://www.frandroid.com/marques/google/2472070_youtube-pourrait-vous-proposer-de-discuter-avec-son-chatgpt-pendant-les-videos",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/youtube-frandroid-illustration-4-1200x673-1-768x431.png?resize=168,168&key=40b2a0fd",
+        "date": "Tue, 14 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/15/new-diffusion-models-offer-keys-to-success-for-resource-scarce-systems/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6787d8171c8d18548ef4a481/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 15 Jan 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davealtavilla/2025/01/15/amds-novel-ryzen-ai-max-chip-for-copilot-pcs-was-a-ces-showstopper/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6786cf0485cba519901abb64/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 15 Jan 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
