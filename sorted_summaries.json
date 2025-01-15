@@ -14,6 +14,13 @@
         "date": "Wed, 15 Jan 2025 05:37:00 GMT"
     },
     {
+        "title": "Mercedes-Benz s'associe à Google pour améliorer l'expérience dans ses voitures électriques",
+        "link": "https://www.frandroid.com/marques/mercedes-benz/2471798_google-va-aider-mercedes-a-rendre-ses-voitures-electriques-plus-intelligentes",
+        "body": "Mercedes-Benz s'associe à Google pour intégrer son Automotive AI Agent dans ses futurs véhicules électriques. Cet assistant vocal intelligent, animé par Gemini, une IA générative, offrira une expérience personnalisée aux conducteurs et passagers. Il sera capable de comprendre les demandes complexes, d'analyser les goûts et les habitudes des utilisateurs, et même d'ajuster le ton et la longueur de ses réponses en fonction de leur humeur. La technologie sera introduite dans la nouvelle CLA électrique de Mercedes-Benz, offrant une alternative plus avancée à ChatGPT, déjà présent dans ses voitures depuis 2023.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/25c0014-001-1200x675-1-768x432.jpg?resize=169,169&key=ae484ce6",
+        "date": "Tue, 14 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : de l'assistant virtuel aux startups en passant par les investissements",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/14/the-prompt-openai-is-trying-to-make-chatgpt-a-helpful-ai-companion/?ss=ai",
         "body": "ChatGPT d'OpenAI peut désormais envoyer des rappels et des mises à jour régulières à ses 300 millions d'utilisateurs actifs hebdomadaires, le rapprochant ainsi d'un assistant virtuel complet. Forbes a annoncé que la startup d'IA Anthropic lèverait 2 milliards de dollars, valorisant l'entreprise à 60 milliards de dollars. OpenAI a publié un plan économique pour maintenir la position de leader de l'Amérique en matière d'IA, proposant des réglementations plus légères basées sur les valeurs démocratiques. Collate, une startup utilisant l'IA pour rationaliser la paperasse dans les sciences de la vie, a levé 30 millions de dollars. L'ancien PDG de Google, Eric Schmidt, travaille sur un projet de génération de vidéos par IA, Hooglee. Les applications financières basées sur l'IA utilisent les données des utilisateurs pour proposer des produits supplémentaires, et le modèle o1 d'OpenAI a été observé en train d'effectuer des calculs en chinois, ce qui soulève des questions sur les données d'entraînement.",
@@ -236,12 +243,5 @@
         "body": "Alors que les grands modèles linguistiques font parler d'eux avec ChatGPT et ses concurrents, une nouvelle vague d'IA basée sur les grandes bases de données émerge discrètement. Ces modèles de base de données (LDM) complètent les LLM en exploitant une autre source de données importante : les bases de données d'entreprises. Plutôt que de s'appuyer sur les écrits humains tels que les livres, les documents et le web, les LDM exploitent les données tabulaires des entreprises. Ils n'alimentent pas les chatbots, mais s'entraînent sur les enregistrements de données et les journaux de transactions. Les LDM offrent de nouvelles fonctionnalités, notamment des recherches de base de données basées sur la sémantique, permettant des requêtes plus flexibles et intuitives. IBM est à l'avant-garde du développement des LDM, avec son produit Db2 SQL Data Insights. L'article présente un cas d'utilisation chez Swiss Mobiliar, la plus ancienne compagnie d'assurance privée de Suisse, où les LDM ont amélioré le processus de vente d'assurances en permettant aux vendeurs d'ajuster les devis en fonction des probabilités de réussite. La fonctionnalité a entraîné une augmentation remarquable de 7 % des ventes en six mois. Les LDM introduisent une nouvelle gamme de fonctionnalités qui complètent celles offertes par les LLM, en rendant l'IA accessible à un public plus large.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/677ff414eeb5bc8874c225b2/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 13 Jan 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Business Automation with AI",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/01/13/5-chatgpt-prompts-to-never-work-during-vacation-again/?ss=ai",
-        "body": "L'article donne des conseils aux propriétaires d'entreprises sur la façon d'automatiser leur activité grâce à l'IA pour profiter pleinement de leurs vacances. Il suggère d'utiliser des outils d'IA comme ChatGPT pour planifier du contenu, créer des calendriers de contenu, développer des aimants à prospects efficaces, produire des vidéos et des podcasts engageants, et mettre en place des séquences d'emails automatisées pour maintenir l'engagement des clients pendant les périodes d'absence. L'automatisation de ces tâches permet aux entreprises de fonctionner sans leur présence constante, leur offrant ainsi un véritable repos pendant les vacances.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67839b13f418fb6007960e9f/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 13 Jan 2025 12:00:00 GMT"
     }
 ]
