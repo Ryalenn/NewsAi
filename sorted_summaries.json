@@ -173,33 +173,5 @@
         "body": "Lors du CES 2025, le PDG de Nvidia, Jensen Huang, a présenté une multitude de nouvelles technologies, notamment la GeForce RTX 50 Series et la plateforme de véhicules autonomes Thor. Cependant, l'une des annonces les plus remarquables a été Cosmos, une nouvelle technologie d'IA générative. Cosmos est une plateforme destinée à accélérer le développement de l'IA physique, c'est-à-dire l'intelligence artificielle utilisée dans la robotique et les véhicules autonomes. Cosmos utilise des modèles de fondation du monde, des réseaux neuronaux capables de générer des vidéos prenant en compte la physique pour simuler des environnements virtuels. Ces modèles sont similaires aux grands modèles linguistiques, mais ils utilisent du texte, des images, des vidéos et des données de mouvement pour créer des mondes virtuels avec une conscience spatiale et une physique précises. Nvidia Omniverse, un système d'exploitation jumeau numérique, permet de connecter des outils standard de l'industrie pour simuler des produits, des usines, des robots, etc. Les modèles Cosmos, formés sur 20 millions d'heures de données vidéo, peuvent générer des contenus de formation à partir de ces simulations. Nvidia propose gratuitement ces modèles aux développeurs, et plusieurs entreprises de premier plan dans le domaine de l'IA physique les ont déjà adoptés.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6785c0619b12c1bda0cf5b58/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 14 Jan 2025 02:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT s'enrichit de fonctionnalités d'assistant personnel",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2471550_taches-et-rappels-sur-chatgpt-comment-lia-devient-votre-secretaire-virtuel",
-        "body": "OpenAI a introduit une nouvelle fonctionnalité de gestion des tâches et des rappels pour ChatGPT, accessible aux abonnés payants. Cette mise à jour transforme le chatbot en un assistant personnel plus complet, capable de concurrencer Google Assistant et Apple Siri. La fonctionnalité, testée sur un modèle spécifique, permet aux utilisateurs de créer des tâches et des rappels directement dans la conversation, OpenAI limitant le nombre à 10 tâches actives simultanées. L'IA peut même suggérer des rappels en détectant les intentions de planification. Bien que l'absence d'intégration avec l'assistant vocal de ChatGPT soit surprenante, cette évolution souligne la volonté d'OpenAI de développer des fonctionnalités pratiques en plus des capacités conversationnelles de son chatbot.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-44-6-1200x800-1-768x512.jpg?resize=200,200&key=96d4c0e1",
-        "date": "Mon, 13 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Free se lance dans l'IA",
-        "link": "https://www.frandroid.com/marques/free/2471196_free-prendra-la-parole-tres-bientot-autour-de-lia",
-        "body": "Free, l'un des géants français de la tech, se prépare à faire des annonces importantes concernant l'intelligence artificielle. Lors du lancement de la nouvelle Freebox Pro, Denis Planat, directeur général de Free Pro, a laissé entendre que l'opérateur avait de grands projets dans le domaine de l'IA. Xavier Niel, fondateur du groupe, a déjà investi massivement dans ce domaine, avec notamment la création du premier laboratoire de recherche européen indépendant dédié à l'open science en IA. Iliad, la maison mère de Free, possède également Scaleway, un acteur majeur du cloud et de l'hébergement de données, qui a acquis en 2023 \"la plus grande puissance de calcul\" d'Europe. Free semble ainsi bien positionné pour jouer un rôle clé dans le marché de l'IA en entreprise, en proposant une alternative souveraine aux géants américains avec des datacenters situés en France.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/freebox-pro-denis-planat-1200x800-1-768x512.jpeg?resize=200,200&key=00e81f79",
-        "date": "Mon, 13 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "WhatsApp s'enrichit d'un widget Llama IA",
-        "link": "https://www.frandroid.com/produits-android/2470566_whatsapp-veut-ancrer-metaai-a-sa-messagerie",
-        "body": "WhatsApp, propriété de Meta, intègre un widget permettant d'accéder directement à son IA Llama. Cette fonctionnalité, repérée dans une version bêta de l'application, offre un accès rapide au chatbot Llama 3.1, capable de conversations, de traductions, de résumés et de génération d'images. Le widget inclut un appareil photo, suggérant de nouvelles interactions avec l'IA, potentiellement similaires à Google Lens. La fonctionnalité sera disponible dans les pays ayant accès à Meta AI, excluant pour l'instant l'Union européenne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/copy-of-logo-simple-f1-1200x675-1-768x432.jpg?resize=169,169&key=3ca061ad",
-        "date": "Mon, 13 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service du rendu graphique dans les jeux vidéo",
-        "link": "https://www.frandroid.com/marques/nvidia/2469562_pourquoi-lia-ne-remplacera-jamais-le-travail-dune-carte-graphique-dans-les-jeux-video-selon-nvidia",
-        "body": "Nvidia, leader dans le domaine du rendu neuronal, utilise l'IA pour améliorer le rendu des scènes 3D dans les jeux vidéo. Leur technologie DLSS, qui améliore les performances et la qualité d'image, est un exemple de cette approche. Les GPU GeForce RTX 50 intègrent des cœurs CUDA et Tensor pour gérer ces technologies de rendu. Malgré cela, selon Jensen Huang, PDG de Nvidia, l'IA ne remplacera pas entièrement le rendu traditionnel. Il souligne l'importance des techniques de rendu classiques pour fournir le contexte nécessaire à l'IA. L'IA sera utilisée pour améliorer le rendu des textures et de la géométrie des scènes, en se basant sur le conditionnement et les données préexistantes. Nvidia présente également des outils pour les développeurs, leur permettant de créer des matériaux et des textures plus réalistes grâce à l'IA. L'IA accélère ainsi la création et le rendu des jeux, mais ne remplace pas les techniques traditionnelles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/nvidia-keynote-ces-768x512.jpg?resize=200,200&key=d4ae00eb",
-        "date": "Mon, 13 Jan 2025 23:00:00 GMT"
     }
 ]
