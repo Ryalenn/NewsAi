@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de la radiodiffusion avec l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/16/will-ai-podcast-hosts-destroy-the-very-soul-of-broadcasting/?ss=ai",
+        "body": "L'article explore l'impact croissant de l'IA sur l'industrie de la radiodiffusion, en mettant en lumière des exemples tels que l'animateur de podcast GENE de BCG et la recréation numérique de l'intervieweur légendaire Michael Parkinson. Il soulève des questions importantes sur l'avenir de la connexion humaine dans la radiodiffusion, en mettant en balance les avantages de l'IA avec le risque de compromettre l'authenticité et les connexions humaines qui rendent les interviews et les podcasts si spéciaux. L'auteur souligne l'importance de maintenir un équilibre, en utilisant l'IA pour améliorer, plutôt que remplacer, l'élément humain essentiel dans la radiodiffusion. Alors que l'IA offre des avantages financiers et technologiques, le défi consiste à préserver l'âme de la communication dans un monde de plus en plus numérique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6788ac65fdc2a5fa947ec2c1/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 16 Jan 2025 07:00:00 GMT"
+    },
+    {
         "title": "Le mystère de ChatGPT",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/01/15/explaining-the-inexplicable-mystery-of-why-chatgpt-o1-suddenly-switches-from-english-to-chinese-when-doing-ai-reasoning/?ss=ai",
         "body": "Cet article explore le mystère derrière le soudain changement de langue du modèle d'IA ChatGPT o1, passant de l'anglais au chinois, et fournit une explication plausible. L'auteur suggère que ce phénomène est dû à l'acquisition informelle de mots et de structures linguistiques en chinois (et dans d'autres langues) pendant la formation initiale de l'IA sur de grandes quantités de données. L'IA associe statistiquement les mots et les structures de différentes langues, ce qui lui permet de passer d'une langue à l'autre lors de la résolution de problèmes ou de la réponse à des questions. L'auteur souligne que ce comportement n'est pas intentionnel, mais plutôt un sous-produit du processus d'apprentissage de l'IA, et qu'il n'indique pas que l'IA est devenue consciente ou qu'elle a atteint une intelligence générale artificielle.",
@@ -152,12 +159,5 @@
         "body": "L'IA sur appareil est en train de devenir plus intelligente, comme l'ont démontré plusieurs assistants IA à l'événement CES 2025. Nvidia a présenté Project RTX, un assistant graphique conversationnel pour Windows 11 qui peut voir et interagir avec ce que l'utilisateur fait à l'écran. Il peut aider à effectuer des tâches dans des applications comme PowerPoint ou Excel, et même reconnaître des objets dans des photos ou via une webcam. Razer a également présenté Project AVA, un assistant IA pour les jeux qui fournit des conseils en temps réel en fonction de l'action à l'écran. Ces avancées suggèrent que les assistants IA deviennent de plus en plus proactifs et capables d'anticiper les besoins des utilisateurs, marquant une évolution par rapport aux assistants actuels qui nécessitent des instructions explicites.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67863c6134d6e6ef076a871b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 14 Jan 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Surmonter le blues de la rentrée avec l'IA generative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/14/dealing-with-post-holiday-and-post-vacation-letdowns-via-soothing-advice-from-ai/?ss=ai",
-        "body": "L'IA generative, notamment ChatGPT, peut aider à surmonter la déprime souvent ressentie après les vacances ou les fêtes. L'article explore comment l'IA peut offrir un soutien et des stratégies pour gérer ces sentiments. Il suggère d'utiliser l'IA pour guider les utilisateurs vers un état d'esprit plus positif et productif. L'IA peut fournir de l'empathie et des stratégies proactives pour aider les utilisateurs à surmonter la déprime. L'article souligne également l'importance de rester critique et de vérifier les informations fournies par l'IA, en raison du risque de \"hallucinations\" de l'IA. Enfin, l'IA peut également être utilisée pour se préparer à aider les autres à surmonter des sentiments similaires.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6785d5f7d85565187f632b3c/0x0.jpg?format=jpg&crop=1627,1218,x114,y0,safe&width=440",
-        "date": "Tue, 14 Jan 2025 07:00:00 GMT"
     }
 ]
