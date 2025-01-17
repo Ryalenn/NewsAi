@@ -1,5 +1,19 @@
 [
     {
+        "title": "Le futur de la création cinématographique avec l'IA",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/16/cinematic-ai-shorts-from-eric-cur-ryan-wang-henry-daubrez-and-captainhahaa/?ss=ai",
+        "body": "Les cinéastes adoptent de plus en plus l'IA pour créer des contenus visuels et sonores captivants. Timothy Wang de NYU ITP explore la possibilité de générer un Elon Musk virtuel, tandis que d'autres artistes utilisent l'IA pour créer des styles visuels uniques inspirés de classiques du cinéma et de l'animation. Henry Daubrez utilise VEO pour créer un film nostalgique et chaleureux, démontrant que l'IA peut être un outil puissant pour les animateurs. Eric Ker, quant à lui, utilise l'IA pour créer un court métrage d'animation cohérent visuellement et musicalement, intitulé \"Random Adventurer\". L'IA joue un rôle clé dans la conception des personnages, de l'atmosphère et de la musique, démontrant ainsi son potentiel en tant qu'outil créatif puissant dans l'industrie cinématographique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678989067cbb110e1ecb9f72/0x0.jpg?format=jpg&crop=2532,1424,x307,y0,safe&width=440",
+        "date": "Thu, 16 Jan 2025 22:00:00 GMT"
+    },
+    {
+        "title": "Les géants des réseaux sociaux se préparent à l'investiture de Trump",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/16/tiktok-out-of-time-meta-out-of-facts-chatgpts-new-tasks/?ss=ai",
+        "body": "Les PDG de TikTok, Meta, Tesla et SpaceX, Amazon et Apple assisteront à l'investiture de Donald Trump. Meta a mis fin à son programme de vérification des faits aux États-Unis et a remplacé son lobbyiste libéral par un républicain, s'alignant ainsi sur les priorités du nouveau gouvernement. OpenAI a lancé une nouvelle fonctionnalité \"Tasks\" dans ChatGPT, permettant aux utilisateurs de planifier des rappels et d'automatiser des actions. Meta, auparavant Facebook, est critiqué pour être un \"frelaté de désinformation, de trafic d'enfants et de criminalité violente\". Les revenus de Beat Saber sur la plateforme Quest sont estimés à 233 millions de dollars. Les films Cinematic AI de Luma Labs, Hailuo et Veo démontrent de nouvelles capacités impressionnantes en matière d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6789813912fde7866d36242c/0x0.jpg?format=jpg&crop=2911,1638,x0,y21,safe&width=440",
+        "date": "Thu, 16 Jan 2025 22:00:00 GMT"
+    },
+    {
         "title": "Le Futur de l'IA : Des Agents Physiques et Virtuels",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/16/top-nvidia-pro-dishes-on-the-future-of-ai/?ss=ai",
         "body": "L'article explore l'avenir de l'IA, en particulier l'émergence imminente d'agents physiques et virtuels avancés. Jim Fan, chercheur chez Nvidia, prédit que les robots physiques seront précédés par des milliards d'agents virtuels dans les mondes virtuels, comme les jeux vidéo. Ces environnements de jeu servent de \"soupe primordiale\" pour le développement de l'IA généraliste, permettant aux agents d'acquérir une perception, une agilité et des capacités de raisonnement et de planification avancées. Fan souligne également l'importance du mécanisme de \"transformer\" dans la conception des LLM, qui permet aux modèles de se concentrer sur ce qui est important pour les humains, améliorant ainsi l'efficacité et réduisant l'intensité des ressources. L'auteur suggère que les avancées dans les NPC des jeux vidéo mèneront à une réalité gamifiée, offrant des expériences de jeu et des interactions humaines uniques et immersives. Enfin, l'article aborde le rôle futur des robots physiques, qui répondront à la demande croissante de main-d'œuvre dans un contexte de déclin démographique.",
@@ -63,6 +77,13 @@
         "date": "Wed, 15 Jan 2025 15:00:00 GMT"
     },
     {
+        "title": "Microsoft 365 Copilot Chat",
+        "link": "https://www.theverge.com/2025/1/15/24344214/microsoft-365-copilot-chat-agents-pricing-availability",
+        "body": "Microsoft lance Microsoft 365 Copilot Chat, une version gratuite de son assistant IA pour les entreprises, avec des agents IA accessibles via l'interface de discussion. Cette initiative vise à familiariser les utilisateurs avec l'IA au travail, les incitant ainsi à s'abonner à la version complète de Microsoft 365 Copilot pour 30 $ par mois. Les agents IA, accessibles via Copilot Studio, peuvent effectuer diverses tâches, comme surveiller les boîtes de réception e-mail et automatiser les processus. Le paiement à l'utilisation ou par packs de consommation sont proposés pour contrôler les coûts. La tarification est basée sur les messages, avec des réponses classiques à 1 message, des réponses génératives à 2 messages et l'accès aux données Microsoft Graph à 30 messages. L'expérience de discussion reste inchangée, utilisant GPT-4o pour les requêtes, avec la possibilité de télécharger des fichiers pour résumé ou analyse de données. Microsoft espère que Copilot Chat convaincra les entreprises d'adopter Copilot au sein de leurs applications Office.",
+        "image": "",
+        "date": "Wed, 15 Jan 2025 14:00:00 GMT"
+    },
+    {
         "title": "La fin des frais supplémentaires pour l'IA chez Google",
         "link": "https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free",
         "body": "Google supprime les frais supplémentaires pour l'utilisation de ses fonctionnalités d'IA dans sa suite d'applications Workspace, rendant ainsi l'IA plus accessible à tous. L'entreprise augmente le prix de base de ses plans Workspace de 2 $ par mois par utilisateur, mais offre désormais un accès gratuit à des fonctionnalités telles que des résumés de courriels générés par IA, des designs pour des feuilles de calcul et des vidéos, un preneur de notes automatisé, un assistant de recherche puissant et des outils d'écriture assistée par IA. La mise à jour inclut également l'accès au bot Gemini, qui peut aider les utilisateurs à trouver des informations et à effectuer des recherches. Cette décision s'inscrit dans la course avec Microsoft et OpenAI pour créer la suite logicielle de bureau alimentée par l'IA de demain.",
@@ -96,26 +117,5 @@
         "body": "Résumé : Cet article explore la tendance émergente consistant à intégrer des disjoncteurs informatiques spécialisés dans l'IA générative et les grands modèles linguistiques (LLM). L'objectif est d'empêcher l'IA de déraper, de proférer des remarques déplacées, de montrer comment fabriquer des bombes et d'autres armes, et même d'éviter le risque existentiel que l'IA asservisse ou anéantisse l'humanité. L'article explique les deux principales façons d'intégrer des disjoncteurs dans l'IA : au niveau du langage et au niveau de la représentation. Le premier est plus simple à mettre en œuvre et à expliquer, mais il est également plus facile à contourner. Le second, plus complexe, est intégré à l'infrastructure informatique de l'IA et est plus difficile à tromper. L'article souligne également l'importance de l'alignement IA-humain et le rôle crucial des disjoncteurs IA dans la prévention des comportements indésirables de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6787459333475360d139cad7/0x0.jpg?format=jpg&crop=3381,2533,x207,y0,safe&width=440",
         "date": "Wed, 15 Jan 2025 05:37:00 GMT"
-    },
-    {
-        "title": "Google améliore l'expérience vidéo avec Gemini",
-        "link": "https://www.frandroid.com/marques/google/2472070_youtube-pourrait-vous-proposer-de-discuter-avec-son-chatgpt-pendant-les-videos",
-        "body": "Google continue d'innover avec son IA Gemini, en permettant aux utilisateurs d'interagir en temps réel avec l'IA tout en regardant des vidéos sur YouTube. Cette fonctionnalité, repérée dans le code de la version bêta de l'application Google, permet aux utilisateurs de poser des questions ou de demander des informations supplémentaires sur la vidéo qu'ils visionnent. Gemini reconnaît la vidéo et fournit des informations contextuelles, améliorant ainsi l'expérience de visionnage. Bien que cette fonctionnalité n'ait pas encore été officiellement annoncée par Google, elle démontre l'engagement de l'entreprise à intégrer l'IA dans l'expérience utilisateur de manière significative et pratique.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/youtube-frandroid-illustration-4-1200x673-1-768x431.png?resize=168,168&key=40b2a0fd",
-        "date": "Tue, 14 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Mercedes-Benz s'associe à Google pour améliorer l'expérience dans ses voitures électriques",
-        "link": "https://www.frandroid.com/marques/mercedes-benz/2471798_google-va-aider-mercedes-a-rendre-ses-voitures-electriques-plus-intelligentes",
-        "body": "Mercedes-Benz s'associe à Google pour intégrer son Automotive AI Agent dans ses futurs véhicules électriques. Cet assistant vocal intelligent, animé par Gemini, une IA générative, offrira une expérience personnalisée aux conducteurs et passagers. Il sera capable de comprendre les demandes complexes, d'analyser les goûts et les habitudes des utilisateurs, et même d'ajuster le ton et la longueur de ses réponses en fonction de leur humeur. La technologie sera introduite dans la nouvelle CLA électrique de Mercedes-Benz, offrant une alternative plus avancée à ChatGPT, déjà présent dans ses voitures depuis 2023.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/25c0014-001-1200x675-1-768x432.jpg?resize=169,169&key=ae484ce6",
-        "date": "Tue, 14 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA : les géants technologiques naviguent dans des eaux troubles",
-        "link": "https://www.theverge.com/2025/1/14/24343692/meta-lawsuit-copyright-lawsuit-llama-libgen",
-        "body": "Un procès pour violation de droits d'auteur contre Meta a révélé des communications internes sur le développement de ses modèles d'IA open-source Llama, notamment des discussions sur l'évitement de l'utilisation de données piratées. Les messages suggèrent que Meta, tout comme ses rivaux OpenAI et Mistral, a utilisé des données protégées par le droit d'auteur pour entraîner ses systèmes d'IA, tout en essayant de le dissimuler. Les documents internes révèlent que Meta a pesé le pour et le contre d'utiliser le site de piratage de livres Library Genesis (LibGen) pour entraîner ses modèles d'IA, sachant qu'OpenAI et Mistral utilisaient probablement la même source. La course aux données pour entraîner les modèles de langage a conduit à des méthodes douteuses, notamment l'achat de maisons d'édition et l'utilisation de vidéos de créateurs de contenu. Bien que le procès contre Meta ait été partiellement rejeté, les preuves pourraient renforcer le cas des plaignants.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg",
-        "date": "Tue, 14 Jan 2025 22:26:50 GMT"
     }
 ]
