@@ -96,5 +96,26 @@
         "image": "",
         "date": "Wed, 15 Jan 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/15/24344214/microsoft-365-copilot-chat-agents-pricing-availability",
+        "image": "",
+        "date": "Wed, 15 Jan 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/16/cinematic-ai-shorts-from-eric-cur-ryan-wang-henry-daubrez-and-captainhahaa/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678989067cbb110e1ecb9f72/0x0.jpg?format=jpg&crop=2532,1424,x307,y0,safe&width=440",
+        "date": "Thu, 16 Jan 2025 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/16/tiktok-out-of-time-meta-out-of-facts-chatgpts-new-tasks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6789813912fde7866d36242c/0x0.jpg?format=jpg&crop=2911,1638,x0,y21,safe&width=440",
+        "date": "Thu, 16 Jan 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
