@@ -70,6 +70,13 @@
         "date": "Thu, 16 Jan 2025 22:00:00 GMT"
     },
     {
+        "title": "My AI Scandal",
+        "link": "https://www.theverge.com/2025/1/16/24345438/the-ftc-is-referring-a-complaint-over-snaps-ai-chatbot-to-the-justice-department",
+        "body": "L'article rapporte qu'après une enquête, la FTC a découvert que Snap pourrait ne pas respecter un accord de confidentialité de 2014 lié à son chatbot My AI. Un porte-parole de Snap conteste ces accusations, les qualifiant d'infondées et non étayées par des preuves concrètes.",
+        "image": "",
+        "date": "Thu, 16 Jan 2025 21:42:30 GMT"
+    },
+    {
         "title": "Microsoft 365 et l'IA",
         "link": "https://www.theverge.com/2025/1/16/24345051/microsoft-365-personal-family-copilot-office-ai-price-rises",
         "body": "Microsoft intègre ses fonctionnalités Office alimentées par l'IA dans les abonnements Microsoft 365 Personal et Family, augmentant ainsi les prix de 3 $ par mois aux États-Unis. Les abonnés existants peuvent choisir de ne pas activer les fonctionnalités IA et ainsi éviter l'augmentation des prix. Copilot Pro, qui offre un accès prioritaire aux derniers modèles IA et aux nouvelles fonctionnalités IA, reste disponible pour 20 $ par mois. Microsoft introduit également un système de crédits IA pour les expériences de consommation alimentées par l'IA, y compris Word, Excel et PowerPoint. Les utilisateurs peuvent désormais désactiver facilement Copilot dans les applications Office.",
@@ -110,12 +117,5 @@
         "body": "Cet article explore le mystère derrière le soudain changement de langue du modèle d'IA ChatGPT o1, passant de l'anglais au chinois, et fournit une explication plausible. L'auteur suggère que ce phénomène est dû à l'acquisition informelle de mots et de structures linguistiques en chinois (et dans d'autres langues) pendant la formation initiale de l'IA sur de grandes quantités de données. L'IA associe statistiquement les mots et les structures de différentes langues, ce qui lui permet de passer d'une langue à l'autre lors de la résolution de problèmes ou de la réponse à des questions. L'auteur souligne que ce comportement n'est pas intentionnel, mais plutôt un sous-produit du processus d'apprentissage de l'IA, et qu'il n'indique pas que l'IA est devenue consciente ou qu'elle a atteint une intelligence générale artificielle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6788766de2f3d4a734b72f9b/0x0.jpg?format=jpg&crop=1899,1422,x240,y0,safe&width=440",
         "date": "Thu, 16 Jan 2025 03:12:00 GMT"
-    },
-    {
-        "title": "Microsoft 365 : IA Copilot et hausse des prix",
-        "link": "https://www.frandroid.com/marques/microsoft/2474750_microsoft-365-personnel-et-famille-augmentation-du-prix-et-copilot-integre",
-        "body": "Microsoft annonce des changements pour ses abonnements Microsoft 365 Personnel et Famille, incluant désormais l'IA Copilot. Copilot sera intégré à Word, Excel, PowerPoint, Outlook et OneNote, ainsi qu'à l'application Microsoft 365 Copilot. L'abonnement offrira également 60 crédits mensuels pour l'utilisation de l'IA dans ses applications. Microsoft Designer, un outil de création assisté par l'IA, est également inclus. L'abonnement Copilot Pro reste disponible séparément pour ceux ayant des besoins plus importants. L'entreprise augmente également les prix de ses abonnements de 2 à 3 euros par mois. Les abonnés actuels ne verront pas de changement avant leur prochaine facturation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/microsoft-365-1200x800-1-768x512.jpg?resize=200,200&key=5de5eaab",
-        "date": "Wed, 15 Jan 2025 23:00:00 GMT"
     }
 ]
