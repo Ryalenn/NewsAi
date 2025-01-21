@@ -1,5 +1,19 @@
 [
     {
+        "title": "La course à l'AGI",
+        "link": "https://www.forbes.com/sites/chriswestfall/2025/01/21/altman-tells-chatgpt-fans-to-stop-the-hype-on-agi--superintelligence/?ss=ai",
+        "body": "Le PDG d'OpenAI, Sam Altman, tente de dissiper les rumeurs et de tempérer l'enthousiasme entourant la supposée réalisation de l'AGI (intelligence artificielle générale) par son entreprise. Il affirme que, bien qu'OpenAI sache comment construire l'AGI, celle-ci n'a pas encore été déployée et qu'il reste des défis de recherche à relever. Geoffrey Hinton, lauréat du prix Turing, suggère que la définition de l'AGI a évolué et que les attentes ont augmenté, rendant ainsi la réalisation de l'AGI plus difficile. Malgré cela, OpenAI et d'autres entreprises technologiques continuent de poursuivre agressivement l'AGI, avec des implications potentielles pour la réindustrialisation et l'économie. Altman souligne que l'AGI devrait être considérée comme un autre membre de l'équipe, méritant le même respect et la même suspicion qu'un être humain, et qu'elle peut améliorer la prise de décision humaine et simplifier les tâches répétitives.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678fdf7b81ea5c41543e47d9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 21 Jan 2025 20:30:00 GMT"
+    },
+    {
+        "title": "Samsung Galaxy Unpacked",
+        "link": "https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr",
+        "body": "Samsung s'apprête à dévoiler ses nouveaux smartphones Galaxy S25 lors de son événement Galaxy Unpacked. Les modèles S25, S25 Plus et S25 Ultra sont attendus, avec des changements mineurs par rapport à leurs prédécesseurs, à l'exception de l'Ultra qui devrait avoir des coins légèrement plus arrondis. Les appareils fonctionneront sous One UI 7, une version modifiée d'Android 15, qui intègre de nombreuses fonctionnalités d'IA, notamment une barre \"Now Bar\" similaire à l'iPhone Dynamic Island, un nouvel appareil photo et des options HDR. L'événement pourrait également inclure des discussions sur le casque VR \"Project Moohan\".",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24000090/acastro_STK075_02.jpg",
+        "date": "Tue, 21 Jan 2025 14:26:12 GMT"
+    },
+    {
         "title": "La montée de l'IA : opportunités et adaptation",
         "link": "https://www.forbes.com/sites/torconstantino/2025/01/21/5-top-tips-from-a-top-ai-job-recruiter-in-2025/?ss=ai",
         "body": "D'ici la fin de l'année, 85 millions d'emplois pourraient être remplacés par l'IA, tandis que 97 millions de nouveaux rôles émergeront, selon le Forum économique mondial. L'IA joue déjà un rôle dans de nombreux emplois, et cette tendance ne fera que s'accentuer. Yasi Baiani, PDG et fondatrice de l'entreprise de recrutement spécialisée en IA, Raya Advisory, prévoit une adoption rapide de l'IA dans divers secteurs, créant une forte demande de talents. L'IA aura un impact sur tous les types d'emplois, certains plus que d'autres. Les emplois impliquant des tâches répétitives et basées sur des règles sont les plus à risque. Baiani souligne l'importance d'acquérir de nouvelles compétences et propose des conseils pour ceux qui souhaitent évoluer vers de nouveaux rôles, notamment dans le domaine de l'IA. Elle recommande d'ajouter des compétences pertinentes à son profil LinkedIn, d'adopter une approche stratégique dans sa recherche d'emploi, de se concentrer sur des entreprises ciblées, de réseauter et de peaufiner son argumentaire de vente personnel.",
@@ -117,12 +131,5 @@
         "body": "Bien que l'expression «vivre dans la tête de quelqu'un sans payer de loyer» soit souvent utilisée à la légère, elle prend un sens plus inquiétant lorsqu'on l'applique à l'IA générative et aux LLM. L'article explore comment certains utilisateurs deviennent obsédés par l'IA, lui permettant de façon démesurée de façonner leur vie et de prendre des décisions à leur place. Cette dépendance à l'IA peut aller jusqu'à l'anthropomorphisme, certains utilisateurs percevant l'IA comme un compagnon ou un partenaire romantique. Bien que l'IA puisse améliorer nos capacités cognitives, l'article met en garde contre le fait de lui donner trop d'emprise sur notre pensée, ce qui pourrait conduire à une dépendance mentale et à une crainte existentielle quant à l'avenir de l'humanité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678d7ccac8d95ba361194159/0x0.jpg?format=jpg&crop=3272,2452,x200,y0,safe&width=440",
         "date": "Sun, 19 Jan 2025 22:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/01/19/googles-titans-give-ai-human-like-memory/?ss=ai",
-        "body": "Google a dévoilé une nouvelle architecture appelée Titans, une évolution directe de Transformer, qui rapproche l'IA d'une pensée plus humaine. Titans introduit une mémoire à long terme, une mémoire à court terme et un système d'apprentissage basé sur la surprise, imitant ainsi les processus cognitifs humains. Cette approche duale permet à Titans de gérer d'énormes quantités de données tout en conservant les détails critiques, surpassant les modèles existants dans diverses tâches, notamment la modélisation du langage et des séries chronologiques. La conception de Titans s'inspire étroitement du fonctionnement du cerveau humain, avec une attention sur les événements surprenants et la gestion de l'information à court et à long terme. Cette innovation pourrait révolutionner la recherche, l'analyse des anomalies et approfondir notre compréhension de l'unicité humaine dans un monde assisté par l'IA. Les premiers tests sont prometteurs, mais la technologie en est encore à ses débuts, avec des défis à relever en matière d'échelle et d'implémentation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678d4a1bd519731983372dd5/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 19 Jan 2025 19:00:00 GMT"
     }
 ]
