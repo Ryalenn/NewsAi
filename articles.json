@@ -75,5 +75,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/678e9ea06e5751f9d8a40325/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 20 Jan 2025 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnkoetsier/2025/01/20/humanoid-robots-friends-not-just-workers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678ed7e823de806f17c79d55/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 21 Jan 2025 00:41:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/20/this-generative-ai-prompting-technique-uses-multiple-expert-personas-to-derive-first-class-answers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678ec9f2ea10ea98ae24b70a/0x0.jpg?format=jpg&crop=2143,1605,x568,y0,safe&width=440",
+        "date": "Mon, 20 Jan 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
