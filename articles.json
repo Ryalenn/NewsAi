@@ -112,10 +112,24 @@
         "check": "yes"
     },
     {
-        "title": "Donald Trump ne veut pas encadrer le développement de cette technologie",
+        "title": "Donald Trump ne veut pas encadrer le d\u00e9veloppement de cette technologie",
         "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Mon, 20 Jan 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/21/24348497/samsung-galaxy-s25-plus-ultra-unpacked-expected-announcements-ai-vr",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24000090/acastro_STK075_02.jpg",
+        "date": "Tue, 21 Jan 2025 14:26:12 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chriswestfall/2025/01/21/altman-tells-chatgpt-fans-to-stop-the-hype-on-agi--superintelligence/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678fdf7b81ea5c41543e47d9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 21 Jan 2025 20:30:00 GMT",
+        "check": "no"
     }
 ]
