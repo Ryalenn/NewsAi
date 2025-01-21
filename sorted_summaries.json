@@ -35,6 +35,13 @@
         "date": "Tue, 21 Jan 2025 00:41:00 GMT"
     },
     {
+        "title": "L'Amérique abandonne les restrictions sur l'IA",
+        "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
+        "body": "Le nouveau président américain, issu du Parti républicain, a abrogé un décret précédent qui exigeait que les entreprises d'IA soumettent certaines de leurs technologies à des tests de sécurité gouvernementaux avant leur communication publique. Le décret, mis en place par Joe Biden en 2023, visait à atténuer les risques potentiels pour la sécurité nationale, l'économie, la santé publique et la sécurité des États-Unis. Le président actuel considère ces mesures comme un obstacle à l'innovation et au développement, favorisant une approche de l'IA axée sur la liberté d'expression et l'épanouissement humain. Cette décision contraste avec les efforts de régulation de l'IA en Europe, comme le AI Act, et les appels de l'ONU à une coopération globale pour prévenir les inégalités liées à l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
+        "date": "Mon, 20 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'utilisation de multiples personnalités d'experts en IA générative",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/01/20/this-generative-ai-prompting-technique-uses-multiple-expert-personas-to-derive-first-class-answers/?ss=ai",
         "body": "Résumé : L'article présente une technique de formulation de requêtes efficace qui consiste à utiliser plusieurs personnalités d'experts pour obtenir des réponses de haute qualité de la part de l'IA générative et des modèles linguistiques de grande dimension (LLM). L'auteur explique comment exploiter la capacité intrinsèque des LLM à simuler des personnalités, en les combinant avec une orientation vers des experts dans un domaine d'intérêt spécifique. L'article met en évidence les avantages et les inconvénients de cette approche, y compris la nécessité de rester vigilant face aux limites des connaissances de l'IA et aux préjugés potentiels. Il explore également la complexité de la consolidation des réponses de plusieurs experts en une réponse finale cohérente. L'article suggère d'utiliser plusieurs IAs génératives pour diversifier les réponses et fournit des conseils pratiques pour expérimenter avec cette technique.",
@@ -117,12 +124,5 @@
         "body": "Google a dévoilé une nouvelle architecture appelée Titans, une évolution directe de Transformer, qui rapproche l'IA d'une pensée plus humaine. Titans introduit une mémoire à long terme, une mémoire à court terme et un système d'apprentissage basé sur la surprise, imitant ainsi les processus cognitifs humains. Cette approche duale permet à Titans de gérer d'énormes quantités de données tout en conservant les détails critiques, surpassant les modèles existants dans diverses tâches, notamment la modélisation du langage et des séries chronologiques. La conception de Titans s'inspire étroitement du fonctionnement du cerveau humain, avec une attention sur les événements surprenants et la gestion de l'information à court et à long terme. Cette innovation pourrait révolutionner la recherche, l'analyse des anomalies et approfondir notre compréhension de l'unicité humaine dans un monde assisté par l'IA. Les premiers tests sont prometteurs, mais la technologie en est encore à ses débuts, avec des défis à relever en matière d'échelle et d'implémentation.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678d4a1bd519731983372dd5/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 19 Jan 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un allié ou un danger pour la pensée critique ?",
-        "link": "https://www.forbes.com/sites/larsdaniel/2025/01/19/new-study-says-ai-is-making-us-stupid-but-does-it-have-to/?ss=ai",
-        "body": "Une nouvelle étude publiée dans *Societies* met en garde contre les risques potentiels d'une dépendance excessive à l'IA, qui pourrait nuire aux capacités de pensée critique. L'étude, basée sur un sondage auprès de 666 participants, souligne que si l'IA peut améliorer la productivité, une confiance aveugle en ses sorties peut conduire à des erreurs coûteuses et saper la qualité de la prise de décision humaine. Ce risque est particulièrement pertinent dans des domaines à enjeux élevés comme le droit et la science médico-légale, où l'IA est de plus en plus utilisée. Les chercheurs soulignent l'importance de considérer l'IA comme un outil complémentaire aux capacités humaines, plutôt que comme un substitut, et appellent à une supervision et un engagement critiques pour maintenir les normes d'excellence et de confiance associées aux experts dans ces domaines.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678d2230d726c1211c4eba4f/0x0.jpg?format=jpg&crop=1081,608,x71,y61,safe&width=440",
-        "date": "Sun, 19 Jan 2025 16:00:00 GMT"
     }
 ]
