@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Donald Trump ne veut pas encadrer le développement de cette technologie",
+        "title": "Donald Trump ne veut pas encadrer le d\u00e9veloppement de cette technologie",
         "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Mon, 20 Jan 2025 23:00:00 GMT",
@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Projet Stargate : OpenAI va dépenser 500 milliards pour développer ChatGPT et l’IA générative",
+        "title": "Projet Stargate : OpenAI va d\u00e9penser 500 milliards pour d\u00e9velopper ChatGPT et l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/2478874_projet-stargate-openai-va-depenser-500-milliards-pour-developper-chatgpt-et-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-1200x675-1-768x432.jpg?resize=169,169&key=bc78050a",
         "date": "Tue, 21 Jan 2025 23:00:00 GMT",
@@ -131,5 +131,61 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/678c6f2b9db1e52b83334681/0x0.jpg?format=jpg&crop=1080,608,x0,y286,safe&width=440",
         "date": "Wed, 22 Jan 2025 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Galaxy AI se dirige \u00e0 la voix sur les Galaxy S25, toutes les nouvelles fonctions \u00e0 conna\u00eetre",
+        "link": "https://www.frandroid.com/marques/samsung/2475222_toutes-les-nouvelles-fonctions-de-galaxy-ai-sur-les-galaxy-s25-de-samsung",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/img20250116195849-1200x900-1-768x576.jpg?resize=225,225&key=ed981a8d",
+        "date": "Tue, 21 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25355893/STK022_ELON_MUSK_CVIRGINIA_B.jpg",
+        "date": "Wed, 22 Jan 2025 16:18:01 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg",
+        "date": "Tue, 21 Jan 2025 23:29:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg",
+        "date": "Tue, 21 Jan 2025 23:29:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/01/22/transforming-enterprise-knowledge-management-with-secure-proactive-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67912176728a88c10374ac7e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/01/22/5-chatgpt-hacks-you-need-to-save-time-and-money-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67912018994bac9be8126674/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/01/22/deepseek-how-chinas-ai-innovators-are-challenging-the-status-quo/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67911222fe087eefc5d1ebe5/0x0.jpg?format=jpg&crop=5776,2707,x0,y861,safe&width=440",
+        "date": "Wed, 22 Jan 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/emilsayegh/2025/01/22/stargate-ai-project-the-500-billion-gamble-to-dominate-the-future/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6790f8ea7290721e9236a30d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
