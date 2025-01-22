@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Donald Trump ne veut pas encadrer le développement de cette technologie",
+        "title": "Donald Trump ne veut pas encadrer le d\u00e9veloppement de cette technologie",
         "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Mon, 20 Jan 2025 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Projet Stargate : OpenAI va dépenser 500 milliards pour développer ChatGPT et l’IA générative",
+        "title": "Projet Stargate : OpenAI va d\u00e9penser 500 milliards pour d\u00e9velopper ChatGPT et l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/2478874_projet-stargate-openai-va-depenser-500-milliards-pour-developper-chatgpt-et-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-1200x675-1-768x432.jpg?resize=169,169&key=bc78050a",
         "date": "Tue, 21 Jan 2025 23:00:00 GMT",
@@ -117,5 +117,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6790029ed67a28cb99744ae0/0x0.jpg?format=jpg&crop=2400,1350,x0,y62,safe&width=440",
         "date": "Wed, 22 Jan 2025 11:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/edwardsegal/2025/01/22/new-research-finds-why-some-surveyed-workers-dont-trust-agentic-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67907861078a447de648e945/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 15:11:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/01/22/open-weight-definition-adds-balance-to-open-source-ai-integrity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67910827143a047a96ae52ed/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 15:07:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/01/22/is-ai-replacing-us-good-news-for-knowledge-workers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678c6f2b9db1e52b83334681/0x0.jpg?format=jpg&crop=1080,608,x0,y286,safe&width=440",
+        "date": "Wed, 22 Jan 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
