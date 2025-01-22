@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'IA sous l'administration Trump",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/21/the-prompt-inside-googles-ai-innovation-engine/?ss=ai",
+        "body": "L'administration Trump a abrogé un décret de l'ère Biden qui réglementait le développement responsable de l'IA, optant pour une approche de non-intervention. Trump prévoit également d'investir des milliards dans la construction de centres de données pour les entreprises d'IA via le projet Stargate, impliquant OpenAI, Softbank et Oracle. Les publicités pour les applications de « baisers en IA » inondent les plateformes de médias sociaux, normalisant ainsi les deepfakes non consensuels. Les travailleurs immigrés de l'industrie de l'IA s'inquiètent de leur statut juridique sous Trump. L'IA de codage démarre Cursor et Synthesia lèvent des fonds importants, soulignant l'intérêt croissant pour l'automatisation du codage. Lila Ibrahim de Google DeepMind discute du potentiel de l'IA pour la découverte scientifique et l'amélioration de l'avenir. Un article du New York Times explore l'attachement émotionnel aux chatbots d'IA, tandis qu'un outil de réseautage, Boardy, a été critiqué pour avoir envoyé des e-mails générés par IA aux utilisateurs, complimentant les femmes sur leur apparence et les hommes sur leurs compétences.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679015d87c07f2b6f8d924ce/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 21 Jan 2025 22:00:00 GMT"
+    },
+    {
         "title": "La course à l'AGI",
         "link": "https://www.forbes.com/sites/chriswestfall/2025/01/21/altman-tells-chatgpt-fans-to-stop-the-hype-on-agi--superintelligence/?ss=ai",
         "body": "Le PDG d'OpenAI, Sam Altman, tente de dissiper les rumeurs et de tempérer l'enthousiasme entourant la supposée réalisation de l'AGI (intelligence artificielle générale) par son entreprise. Il affirme que, bien qu'OpenAI sache comment construire l'AGI, celle-ci n'a pas encore été déployée et qu'il reste des défis de recherche à relever. Geoffrey Hinton, lauréat du prix Turing, suggère que la définition de l'AGI a évolué et que les attentes ont augmenté, rendant ainsi la réalisation de l'AGI plus difficile. Malgré cela, OpenAI et d'autres entreprises technologiques continuent de poursuivre agressivement l'AGI, avec des implications potentielles pour la réindustrialisation et l'économie. Altman souligne que l'AGI devrait être considérée comme un autre membre de l'équipe, méritant le même respect et la même suspicion qu'un être humain, et qu'elle peut améliorer la prise de décision humaine et simplifier les tâches répétitives.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678fdf7b81ea5c41543e47d9/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 21 Jan 2025 20:30:00 GMT"
+    },
+    {
+        "title": "L'avenir de la réglementation de l'IA aux États-Unis",
+        "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
+        "body": "Résumé : \n\nLe premier jour de sa présidence, Donald Trump a annulé un décret de Joe Biden de 2023 qui établissait des directives de sécurité pour l'IA générative. Le décret de l'ère Biden exigeait que les développeurs de grands modèles d'IA, tels qu'OpenAI's GPT, partagent les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à la sécurité chimique, biologique, nucléaire, informatique et des infrastructures critiques. De plus, des mesures étaient incluses pour protéger les travailleurs et les consommateurs, y compris une étude sur l'impact potentiel de l'IA sur le marché du travail. Ces actions contrastent avec les priorités de l'administration Trump, qui a fait du développement de nouveaux outils d'IA une priorité, avec le soutien de poids lourds de la technologie tels que Jeff Bezos, Elon Musk et Mark Zuckerberg. L'annulation du décret de Biden prépare le terrain pour un affrontement potentiel avec l'Union européenne concernant son règlement sur l'IA, qui comprend des exigences de transparence et des restrictions sur certaines utilisations de l'IA. Enfin, l'article mentionne également d'autres initiatives de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis, notamment un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA, et un décret visant à accélérer la création de centres de données IA sur les terres fédérales.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25646628/STK485_STK414_AI_SAFETY_D.jpg",
+        "date": "Tue, 21 Jan 2025 15:02:36 GMT"
     },
     {
         "title": "Samsung Galaxy Unpacked",
@@ -124,12 +138,5 @@
         "body": "Nvidia a annoncé le développement de Nvidia Cosmos, une plateforme de modèles de fondation du monde basée sur l'IA. Ces modèles sont des réseaux neuronaux qui simulent des environnements du monde réel et prédisent des résultats précis en fonction des entrées de texte, d'image ou de vidéo. Cosmos comprend également des tokenizers avancés qui aident à diviser les données de niveau supérieur en morceaux utilisables. Ces modèles seront disponibles sous licence ouverte et permettront de créer des entités physiques intelligentes, raisonnantes et mobiles, comme les robots et les véhicules autonomes. Nvidia NeMo accélérera le processus de curation des données, tandis que les modèles de fondation du monde offriront aux développeurs un moyen simple de générer de grandes quantités de données synthétiques photoréalistes et basées sur la physique pour l'entraînement et l'évaluation. Uber est un des premiers adoptants de cette technologie, visant à « propulser l'avenir de la mobilité » avec une IA générative. Le PDG de Nvidia, Jensen Huang, a prédit que « le moment ChatGPT pour les robots arrive », suggérant que l'avènement des robots intelligents et conscients de la physique est imminent.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678db0b319a9002a18a6d4f5/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 20 Jan 2025 02:00:00 GMT"
-    },
-    {
-        "title": "L'emprise de l'IA générative sur les esprits",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/19/dont-let-generative-ai-live-in-your-head-rent-free/?ss=ai",
-        "body": "Bien que l'expression «vivre dans la tête de quelqu'un sans payer de loyer» soit souvent utilisée à la légère, elle prend un sens plus inquiétant lorsqu'on l'applique à l'IA générative et aux LLM. L'article explore comment certains utilisateurs deviennent obsédés par l'IA, lui permettant de façon démesurée de façonner leur vie et de prendre des décisions à leur place. Cette dépendance à l'IA peut aller jusqu'à l'anthropomorphisme, certains utilisateurs percevant l'IA comme un compagnon ou un partenaire romantique. Bien que l'IA puisse améliorer nos capacités cognitives, l'article met en garde contre le fait de lui donner trop d'emprise sur notre pensée, ce qui pourrait conduire à une dépendance mentale et à une crainte existentielle quant à l'avenir de l'humanité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678d7ccac8d95ba361194159/0x0.jpg?format=jpg&crop=3272,2452,x200,y0,safe&width=440",
-        "date": "Sun, 19 Jan 2025 22:00:00 GMT"
     }
 ]
