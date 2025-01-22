@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Donald Trump ne veut pas encadrer le développement de cette technologie",
+        "title": "Donald Trump ne veut pas encadrer le d\u00e9veloppement de cette technologie",
         "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Mon, 20 Jan 2025 23:00:00 GMT",
@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Projet Stargate : OpenAI va dépenser 500 milliards pour développer ChatGPT et l’IA générative",
+        "title": "Projet Stargate : OpenAI va d\u00e9penser 500 milliards pour d\u00e9velopper ChatGPT et l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/2478874_projet-stargate-openai-va-depenser-500-milliards-pour-developper-chatgpt-et-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-1200x675-1-768x432.jpg?resize=169,169&key=bc78050a",
         "date": "Tue, 21 Jan 2025 23:00:00 GMT",
@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Galaxy AI se dirige à la voix sur les Galaxy S25, toutes les nouvelles fonctions à connaître",
+        "title": "Galaxy AI se dirige \u00e0 la voix sur les Galaxy S25, toutes les nouvelles fonctions \u00e0 conna\u00eetre",
         "link": "https://www.frandroid.com/marques/samsung/2475222_toutes-les-nouvelles-fonctions-de-galaxy-ai-sur-les-galaxy-s25-de-samsung",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/img20250116195849-1200x900-1-768x576.jpg?resize=225,225&key=ed981a8d",
         "date": "Tue, 21 Jan 2025 23:00:00 GMT",
@@ -180,5 +180,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6790f8ea7290721e9236a30d/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 22 Jan 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/samsung/2478772_samsung-et-les-galaxy-s25-la-vraie-revolution-nest-pas-ou-on-lattend",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/samsung-galaxy-s25-frandroid-p1055088-1200x800-1-768x512.jpg?resize=200,200&key=4875511d",
+        "date": "Tue, 21 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/22/24349319/google-gemini-multiple-app-extensions-ai-samsung-bixby-circle-to-search",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2096x1182/2400x1600/filters:focal(1048x591:1049x592):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25841889/Samsung_Unpacked_Gemini_Live.png",
+        "date": "Wed, 22 Jan 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/01/22/are-ai-companions-our-emotional-diet-coke/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6791393672be544ab4aaa117/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 22 Jan 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
