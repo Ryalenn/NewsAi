@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : des systèmes plus intelligents et plus dynamiques",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/22/what-do-we-need-for-agi-some-recent-thoughts/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6791a1ccdd151f12cde7ccc8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 23 Jan 2025 02:00:00 GMT"
+    },
+    {
         "title": "L'utilisation de l'IA pour la publicité personnalisée",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/01/22/ai-personas-are-pretending-to-be-you-and-then-aim-to-sell-or-scam-you-via-your-own-persuasive-ways/?ss=ai",
         "body": "L'article explore l'utilisation croissante de l'IA générative et des grands modèles linguistiques (LLM) pour créer des publicités personnalisées. Il décrit comment ces technologies peuvent utiliser la ressemblance, la personnalité et les préférences d'un individu pour créer des publicités sur mesure, et comment cela pourrait influencer les décisions d'achat. L'article soulève également des questions éthiques et juridiques concernant cette pratique, notamment la protection de la propriété intellectuelle et le potentiel d'utilisation malveillante par les escrocs. Il met en garde les consommateurs d'être prudents face à ces nouvelles formes de publicité et de toujours vérifier l'authenticité de ce qu'ils voient et entendent de l'IA.",
@@ -194,12 +201,5 @@
         "body": "L'article met en lumière le potentiel de l'IA généreative dans la découverte de nouveaux matériaux, en particulier dans le domaine de la biologie. Il présente MatterGen, un programme de Microsoft qui utilise un modèle de diffusion pour identifier de nouveaux matériaux pour des projets de haute technologie. Le modèle de diffusion implique de \"corrompre\" un objet défini en introduisant du bruit, puis de \"dénoiser\" pour créer un nouvel objet avec les attributs souhaités. MatterGen a réussi à générer de bons candidats pour de nouveaux matériaux, ce qui pourrait avoir un impact significatif sur la conception de batteries au lithium-ion et d'autres avancées technologiques. L'IA généreative accélère le processus de découverte en imitant le processus de recherche sur Internet, fournissant des résultats en quelques secondes au lieu de semaines.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678f5d18f6627598365ad32b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 21 Jan 2025 08:40:00 GMT"
-    },
-    {
-        "title": "L'avenir de la conception : l'IA aux commandes",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/20/will-ai-be-the-architect-of-the-future/?ss=ai",
-        "body": "L'article explore l'idée que le contenu généré par l'IA n'est plus considéré comme un simple dérivé du contenu humain, mais comme une forme d'expression à part entière. L'exemple de l'architecture est utilisé pour illustrer comment l'IA peut créer des designs attrayants et fonctionnels, bien que certains soulignent que ces designs doivent encore être vérifiés selon les lois de la physique. L'IA est déjà utilisée dans la création de contenu de jeu, avec des termes comme \"procedural content creation\" apparaissant pour décrire la création d'environnements de jeu par des algorithmes. L'auteur prédit que le métaverse sera en grande partie conçu par des créateurs d'IA, soulignant que des plateformes comme Roblox expérimentent déjà avec des outils d'IA pour accélérer la création d'objets en jeu. L'industrie du hardware est également en train de changer rapidement pour répondre à la demande croissante de capacités d'IA, avec des entreprises comme Nvidia et TSMC à l'avant-garde. L'auteur conclut en posant une question intrigante : si l'IA peut vivre éternellement, quel est son potentiel d'intelligence ?",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678efb901e6b26ec74c77414/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 21 Jan 2025 02:00:00 GMT"
     }
 ]
