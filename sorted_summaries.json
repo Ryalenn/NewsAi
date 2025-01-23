@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'utilisation de l'IA pour la publicité personnalisée",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/22/ai-personas-are-pretending-to-be-you-and-then-aim-to-sell-or-scam-you-via-your-own-persuasive-ways/?ss=ai",
+        "body": "L'article explore l'utilisation croissante de l'IA générative et des grands modèles linguistiques (LLM) pour créer des publicités personnalisées. Il décrit comment ces technologies peuvent utiliser la ressemblance, la personnalité et les préférences d'un individu pour créer des publicités sur mesure, et comment cela pourrait influencer les décisions d'achat. L'article soulève également des questions éthiques et juridiques concernant cette pratique, notamment la protection de la propriété intellectuelle et le potentiel d'utilisation malveillante par les escrocs. Il met en garde les consommateurs d'être prudents face à ces nouvelles formes de publicité et de toujours vérifier l'authenticité de ce qu'ils voient et entendent de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67918ece26e88fbdb6670acc/0x0.jpg?format=jpg&crop=2841,2131,x358,y0,safe&width=440",
+        "date": "Thu, 23 Jan 2025 00:45:00 GMT"
+    },
+    {
+        "title": "L'essor de l'IA dans l'industrie technologique",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. L'article explore l'évolution de ces technologies d'IA, y compris les assistants virtuels, la recherche améliorée par l'IA et les outils de codage assistés par l'IA. Il aborde également les controverses et les défis, tels que la désinformation, les problèmes de modération de contenu et les inquiétudes concernant les pratiques de travail dans le développement de l'IA. L'article souligne la course à l'investissement dans l'IA et les efforts pour créer des applications « tueuses » qui pourraient révolutionner l'industrie.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 22 Jan 2025 22:04:21 GMT"
+    },
+    {
+        "title": "Google et l'armée israélienne",
+        "link": "https://www.theverge.com/2025/1/22/24349582/google-israel-defense-forces-idf-contract-gaza",
+        "body": "Google a collaboré avec l'armée israélienne après l'invasion terrestre de la bande de Gaza, selon des documents internes obtenus par le Washington Post. Les employés de la division cloud de Google ont travaillé directement avec les Forces de Défense Israéliennes (IDF), malgré les déclarations publiques et internes de l'entreprise affirmant que Google ne collaborait qu'avec des ministères civils. Les documents révèlent une course contre Amazon pour fournir des services d'IA à l'IDF, Google craignant qu'Israël ne se tourne vers son concurrent en cas de réponse insuffisante. Cette collaboration a eu lieu alors que Google réprimandait des employés protestant contre le projet Nimbus, un contrat de 1,2 milliard de dollars pour des services cloud avec Israël, impliquant Google et Amazon. L'entreprise a licencié 28 employés manifestants et a nié toute implication avec l'armée israélienne, insistant sur le fait que le contrat Nimbus concernait uniquement des ministères civils.",
+        "image": "",
+        "date": "Wed, 22 Jan 2025 18:38:48 GMT"
+    },
+    {
         "title": "Gemini, l'assistant IA de Google, s'améliore",
         "link": "https://www.theverge.com/2025/1/22/24349319/google-gemini-multiple-app-extensions-ai-samsung-bixby-circle-to-search",
         "body": "Google a annoncé une mise à jour de son assistant IA Gemini, qui peut désormais effectuer des tâches à travers plusieurs applications en une seule interaction. Cette mise à jour a été lancée en même temps que la sortie des nouveaux smartphones Samsung Galaxy S25, qui font de Gemini leur assistant par défaut, remplaçant ainsi Bixby. Les améliorations de Gemini incluent la possibilité de gérer des tâches multimodales complexes, comme trouver un restaurant italien acceptant les chiens et envoyer l'information à un ami, ou ajouter les prochains matchs de votre équipe NFL à votre calendrier, le tout en une seule demande. Cette fonctionnalité multi-applications s'appuie sur les extensions d'applications existantes de Gemini, qui couvrent à la fois les applications Google et certaines options tierces comme WhatsApp et Spotify. La mise à jour ajoute également les applications Samsung à la liste pour les utilisateurs du S25, y compris Samsung Calendar, Notes, Reminder et Clock. De plus, Gemini Live, le mode conversationnel vocal de l'assistant, est également amélioré, permettant aux utilisateurs des Galaxy S24 et S25 et des Pixel 9 de partager des images, des fichiers et des vidéos YouTube dans l'interface de chat et de demander à Gemini des commentaires et des informations. Enfin, Google prévoit d'intégrer des fonctionnalités de Project Astra, comme le partage d'écran et la diffusion vidéo en direct, à Gemini sur Android dans les prochains mois.",
@@ -180,26 +201,5 @@
         "body": "L'article explore l'idée que le contenu généré par l'IA n'est plus considéré comme un simple dérivé du contenu humain, mais comme une forme d'expression à part entière. L'exemple de l'architecture est utilisé pour illustrer comment l'IA peut créer des designs attrayants et fonctionnels, bien que certains soulignent que ces designs doivent encore être vérifiés selon les lois de la physique. L'IA est déjà utilisée dans la création de contenu de jeu, avec des termes comme \"procedural content creation\" apparaissant pour décrire la création d'environnements de jeu par des algorithmes. L'auteur prédit que le métaverse sera en grande partie conçu par des créateurs d'IA, soulignant que des plateformes comme Roblox expérimentent déjà avec des outils d'IA pour accélérer la création d'objets en jeu. L'industrie du hardware est également en train de changer rapidement pour répondre à la demande croissante de capacités d'IA, avec des entreprises comme Nvidia et TSMC à l'avant-garde. L'auteur conclut en posant une question intrigante : si l'IA peut vivre éternellement, quel est son potentiel d'intelligence ?",
         "image": "https://imageio.forbes.com/specials-images/imageserve/678efb901e6b26ec74c77414/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 21 Jan 2025 02:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA compagnon",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/01/20/humanoid-robots-friends-not-just-workers/?ss=ai",
-        "body": "L'article présente Aria, un robot humanoïde hyper-réaliste conçu pour être un compagnon et un ami, avec une intelligence artificielle axée sur la conversation et l'interaction sociale. Aria est développée par Realbotix et est disponible à la commande pour la somme de 175 000 dollars. L'auteur interviewe Aria et son créateur, Andrew Kiguel, et explore les capacités actuelles d'Aria, y compris sa capacité à converser et à établir des relations. L'article soulève également la question de l'utilisation potentielle de ces robots pour des relations non platoniques, que Realbotix reconnaît comme un cas d'utilisation réel. Aria est actuellement en phase de bêta, avec des capacités d'IA ajustables et une plateforme physique en cours de développement. Realbotix utilise une combinaison d'IA en interne et d'IA open source, ainsi qu'une mémoire à long terme, pour créer un compagnon engageant.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678ed7e823de806f17c79d55/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 21 Jan 2025 00:41:00 GMT"
-    },
-    {
-        "title": "L'Amérique abandonne les restrictions sur l'IA",
-        "link": "https://www.frandroid.com/culture-tech/2477968_donald-trump-ne-veut-pas-encadrer-le-developpement-de-cette-technologie",
-        "body": "Le nouveau président américain, issu du Parti républicain, a abrogé un décret précédent qui exigeait que les entreprises d'IA soumettent certaines de leurs technologies à des tests de sécurité gouvernementaux avant leur communication publique. Le décret, mis en place par Joe Biden en 2023, visait à atténuer les risques potentiels pour la sécurité nationale, l'économie, la santé publique et la sécurité des États-Unis. Le président actuel considère ces mesures comme un obstacle à l'innovation et au développement, favorisant une approche de l'IA axée sur la liberté d'expression et l'épanouissement humain. Cette décision contraste avec les efforts de régulation de l'IA en Europe, comme le AI Act, et les appels de l'ONU à une coopération globale pour prévenir les inégalités liées à l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
-        "date": "Mon, 20 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'utilisation de multiples personnalités d'experts en IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/20/this-generative-ai-prompting-technique-uses-multiple-expert-personas-to-derive-first-class-answers/?ss=ai",
-        "body": "Résumé : L'article présente une technique de formulation de requêtes efficace qui consiste à utiliser plusieurs personnalités d'experts pour obtenir des réponses de haute qualité de la part de l'IA générative et des modèles linguistiques de grande dimension (LLM). L'auteur explique comment exploiter la capacité intrinsèque des LLM à simuler des personnalités, en les combinant avec une orientation vers des experts dans un domaine d'intérêt spécifique. L'article met en évidence les avantages et les inconvénients de cette approche, y compris la nécessité de rester vigilant face aux limites des connaissances de l'IA et aux préjugés potentiels. Il explore également la complexité de la consolidation des réponses de plusieurs experts en une réponse finale cohérente. L'article suggère d'utiliser plusieurs IAs génératives pour diversifier les réponses et fournit des conseils pratiques pour expérimenter avec cette technique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678ec9f2ea10ea98ae24b70a/0x0.jpg?format=jpg&crop=2143,1605,x568,y0,safe&width=440",
-        "date": "Mon, 20 Jan 2025 22:00:00 GMT"
     }
 ]
