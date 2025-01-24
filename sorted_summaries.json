@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir du travail : l'humain au cœur de la révolution de l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/24/the-essential-skills-that-will-define-success-in-the-ai-era-and-theyre-not-what-you-think/?ss=ai",
+        "body": "L'article met en lumière l'importance croissante de l'IA générative et de la cybersécurité dans le monde du travail, avec une augmentation de 866 % des inscriptions aux cours d'IA générative sur Coursera. Les compétences humaines, telles que la communication, l'assertivité et la gestion des parties prenantes, sont également de plus en plus valorisées, soulignant la nécessité pour les professionnels de naviguer dans l'incertitude tout en tirant parti des technologies de pointe. Bien que l'IA puisse gérer de nombreuses tâches tactiques, la réflexion stratégique et la construction de relations restent des domaines distinctement humains. Les organisations doivent donc adopter une approche double : maîtriser les outils d'IA tout en développant les capacités humaines uniques. De plus, la concurrence pour les compétences en IA est mondiale, avec une forte participation de l'Inde, de la Colombie et du Mexique. La sous-représentation des femmes dans le domaine de l'IA, avec seulement 28 % d'inscriptions aux cours d'IA, est un problème préoccupant qui doit être abordé pour garantir une représentation équitable et une efficacité dans le développement de la technologie IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6793399a5e734ba09c669e75/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 24 Jan 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avènement de l'IA physique",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/24/heres-why-physical-ai-is-rapidly-gaining-ground-and-lauded-as-the-next-ai-big-breakthrough/?ss=ai",
+        "body": "L'IA physique est la prochaine étape majeure dans l'évolution de l'IA, s'appuyant sur les récentes avancées en matière d'IA générative et d'IA agentive. L'IA physique vise à améliorer la capacité de l'IA à interagir avec le monde physique, en lui permettant de devenir plus utile et polyvalente, et de s'intégrer à divers mécanismes et appareils physiques, tels que des robots, des véhicules autonomes, et d'autres machines intelligentes. L'article explore les complexités de cette nouvelle tendance, y compris les défis de la formation de l'IA sur le monde physique et les considérations éthiques qui y sont associées. Il souligne également l'importance de s'assurer que l'IA physique opère de manière sûre et compatible avec les humains, tout en soulignant la nécessité de lois et de réglementations appropriées pour encadrer son développement et son déploiement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679314d47a004ca61caea03f/0x0.jpg?format=jpg&crop=2345,1759,x247,y0,safe&width=440",
+        "date": "Fri, 24 Jan 2025 06:00:00 GMT"
+    },
+    {
         "title": "Révolution dans le domaine de l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/24/new-model-reasoning-an-engineers-take/?ss=ai",
         "body": "Le modèle o1-pro de la dernière génération de LLM transforme le processus itératif utilisé par les ingénieurs pour guider les LLM dans l'exécution de tâches complexes. Il surpasse les limitations des modèles précédents, qui ne pouvaient effectuer qu'une quantité limitée de travail en un seul passage et nécessitaient des astuces de prompt pour gérer des sous-espaces amorphes. Le nouveau modèle automatise le processus, éliminant ainsi le besoin de techniques de contournement complexes. Scarfe, un expert en la matière, le décrit comme un changement de paradigme, permettant aux LLM de gérer une complexité accrue en un seul passage. Cette avancée a un impact significatif sur la verbosité, la diversité et la banalité des réponses des LLM, améliorant ainsi leur précision. Le modèle o3 d'OpenAI, testé par Francois Chollet, un éminent chercheur en IA, a obtenu des résultats remarquables dans la résolution de problèmes de reconnaissance de modèles, marquant une avancée significative vers l'AGI. Les déclarations de Chollet soulignent l'évolution rapide du domaine de l'IA, avec des parallèles intéressants entre les attentes du marché et la réalité des progrès.",
@@ -21,6 +35,13 @@
         "date": "Thu, 23 Jan 2025 23:00:00 GMT"
     },
     {
+        "title": "Gemini Updates",
+        "link": "https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch",
+        "body": "Google étend les fonctionnalités de contrôle de la maison connectée dans l'application Gemini, permettant aux utilisateurs de contrôler les appareils compatibles, tels que l'éclairage, le thermostat et les haut-parleurs, via des commandes vocales naturelles. Gemini peut désormais exécuter plusieurs demandes à la fois et fournir des informations sur l'état des appareils. De plus, les utilisateurs peuvent contrôler les appareils \"non sensibles\", comme l'éclairage, depuis l'écran de verrouillage de leur téléphone. D'autres mises à jour incluent la possibilité de régler le volume et de contrôler les médias sur les haut-parleurs intelligents, les écrans et les télévisions, ainsi qu'une conception de contrôle de thermostat mise à jour qui correspond à celle de l'application Google Home. L'intégration est désormais disponible, avec un déploiement progressif au cours des prochaines semaines.",
+        "image": "",
+        "date": "Thu, 23 Jan 2025 22:43:48 GMT"
+    },
+    {
         "title": "L'aube d'une nouvelle ère pour l'IA",
         "link": "https://www.forbes.com/sites/charliefink/2025/01/23/tiktok-still-ticking-the-500-billion-project-stargate-google-buys-htc-vr-tech/?ss=ai",
         "body": "Le 20 janvier 2025, les magnats de la tech Mark Zuckerberg, Jeff Bezos, Sundar Pichai et Elon Musk étaient présents à l'investiture présidentielle américaine. Le même jour, l'application TikTok a été fermée aux États-Unis, conformément à la loi PAFACA, et le président élu Donald Trump a annoncé le projet Stargate, un plan d'infrastructure IA de 500 milliards de dollars soutenu par OpenAI, SoftBank et Oracle, avec un investissement initial de 100 milliards de dollars. Google a également fait des acquisitions dans le domaine de la réalité virtuelle et de la réalité augmentée, et une startup chinoise, DeepSeek, a dévoilé un modèle d'IA open source rivalisant avec OpenAI. De plus, le fondateur de Silk Road, Ross Ulbricht, a été gracié, et la startup française Mistral AI prévoit de s'introduire en bourse, ouvrant la voie à d'autres introductions en bourse dans le secteur de l'IA. Enfin, un court métrage créé avec la technologie IA de Google Veo 2 impressionne par son réalisme visuel.",
@@ -33,6 +54,13 @@
         "body": "L'article explore l'utilisation potentielle de l'IA générative et des grands modèles linguistiques pour aider les personnes souffrant du syndrome de l'imposteur. Il suggère que l'IA peut être un outil utile pour faire face à ce problème, en offrant un soutien et une perspective différents. L'auteur souligne que l'IA peut fournir des réponses empathiques et encourageantes, tout en mettant en garde contre le fait qu'elle n'est pas une solution miracle et que sa confidentialité doit être prise en compte. L'article inclut également une discussion sur la façon dont l'IA peut être utilisée pour se préparer à aider les autres souffrant du syndrome de l'imposteur, ainsi que des avertissements sur les risques potentiels de l'utilisation de l'IA dans le domaine de la santé mentale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6791c05764fa9e85d1b51c9a/0x0.jpg?format=jpg&crop=2482,1860,x307,y0,safe&width=440",
         "date": "Thu, 23 Jan 2025 20:38:00 GMT"
+    },
+    {
+        "title": "L'énergie nucléaire pour les centres de données axés sur l'IA",
+        "link": "https://www.theverge.com/2025/1/23/24350335/bill-gates-terrapower-data-center-sabey-nuclear-energy-ai",
+        "body": "TerraPower, une startup spécialisée dans l'énergie nucléaire fondée par Bill Gates, s'associe à Sabey Data Centers (SDC), un important développeur de centres de données, pour alimenter ses installations en énergie nucléaire. Cette collaboration vise à répondre à la demande croissante en électricité des centres de données axés sur l'IA, qui exerce une pression sur les réseaux électriques. Les entreprises technologiques se tournent de plus en plus vers l'énergie nucléaire, y compris vers les réacteurs de nouvelle génération développés par des startups comme TerraPower. La technologie de TerraPower, Natrium, est la seule technologie avancée de ce type avec une demande de permis de construction pour un réacteur commercial en instance auprès de la Commission de réglementation nucléaire des États-Unis. L'accord entre TerraPower et SDC explorera initialement le potentiel de nouvelles centrales nucléaires au Texas et dans la région des Rocheuses pour alimenter les centres de données de SDC. Bien que la technologie doive encore surmonter des obstacles réglementaires et prouver sa viabilité commerciale, elle est considérée comme une alternative aux combustibles fossiles contribuant au changement climatique. Des entreprises technologiques telles que Microsoft, Google et Amazon ont déjà annoncé des plans pour soutenir le développement de réacteurs avancés pour alimenter leurs centres de données.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2876x1610/2400x1600/filters:focal(1438x805:1439x806):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844045/Screenshot_2025_01_23_at_2.05.21_PM.png",
+        "date": "Thu, 23 Jan 2025 20:27:48 GMT"
     },
     {
         "title": "Perplexity lance son assistant mobile basé sur l'IA",
@@ -182,6 +210,13 @@
         "date": "Wed, 22 Jan 2025 23:00:00 GMT"
     },
     {
+        "title": "L'ancien cadre de Meta rejoint l'équipe de supercalculateurs d'IA de Microsoft",
+        "link": "https://www.theverge.com/2024/4/22/24137391/microsoft-hires-meta-ai-supercomputing-jason-taylor",
+        "body": "L'ancien vice-président de l'infrastructure de Meta, Jason Taylor, rejoint Microsoft en tant que vice-président et directeur technique adjoint. Il travaillera aux côtés du directeur technique Kevin Scott pour développer la prochaine génération de systèmes informatiques destinés à faire progresser l'IA. La nomination de Taylor souligne l'importance croissante de l'informatique pour les entreprises d'IA, car Microsoft et OpenAI cherchent à développer un supercalculateur de 100 milliards de dollars pour alimenter les modèles d'IA de pointe. De plus, Microsoft a récemment recruté Mustafa Suleyman, cofondateur de Google DeepMind, pour diriger une nouvelle division grand public axée sur l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Wed, 22 Jan 2025 22:04:21 GMT"
+    },
+    {
         "title": "La domination de Google dans l'IA conversationnelle",
         "link": "https://www.theverge.com/2025/1/22/24349416/google-gemini-virtual-assistant-samsung-siri-alexa",
         "body": "Google Gemini, l'assistant virtuel de Google, remplace désormais Bixby sur les nouveaux téléphones Samsung. Gemini est désormais une fonctionnalité incontournable sur les téléphones Android les plus populaires au monde, ce qui signifie que des millions de personnes vont commencer à l'utiliser. Gemini a un avantage important sur ses concurrents grâce à son accès à une grande quantité de données et d'utilisateurs. Bien que tous les assistants virtuels aient encore des limitations, la course à la domination de l'IA conversationnelle est lancée et Google est en tête grâce à sa capacité à intégrer ses systèmes, en particulier sur les smartphones.",
@@ -285,19 +320,5 @@
         "body": "Clay, une startup basée à New York, a connu une croissance fulgurante et est devenue une licorne grâce à son logiciel de construction d'applications internes sans code, qui a trouvé une application inattendue dans les efforts de commercialisation. En se concentrant sur la création d'un outil utile plutôt que sur la poursuite d'une vision ambitieuse, Clay a attiré plus de 5 000 entreprises clientes, dont des sociétés d'IA telles qu'Anthropic et OpenAI. L'utilisation de l'IA par Clay, à la fois dans son propre produit et par ses clients, en fait une success story précoce pour les entreprises à la recherche d'applications du monde réel de l'IA. La capacité de Clay à interpréter les questions des utilisateurs et à fournir des informations surprenantes a été renforcée par l'explosion de l'IA générative, avec des clients tels qu'OpenAI et Anthropic. La société prévoit d'améliorer encore cette capacité en connectant les données de première partie des clients pour alimenter des campagnes de marketing personnalisées. La créativité de Clay, tant dans ses fonctionnalités que dans son approche communautaire, est considérée comme son avantage concurrentiel le plus important.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6790029ed67a28cb99744ae0/0x0.jpg?format=jpg&crop=2400,1350,x0,y62,safe&width=440",
         "date": "Wed, 22 Jan 2025 11:00:00 GMT"
-    },
-    {
-        "title": "L'offre du Financial Times",
-        "link": "https://www.ft.com/content/ed631513-dd37-44a3-a536-b2002f5727cc",
-        "body": "Résumé : Le Financial Times propose un accès numérique complet à son journalisme de qualité, offrant une analyse d'experts de leaders de l'industrie. L'offre comprend la livraison du journal du lundi au samedi, ainsi que l'édition numérique du FT sur votre appareil. L'abonnement annuel est proposé avec une réduction de 20% pour les nouveaux abonnés.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25355893/STK022_ELON_MUSK_CVIRGINIA_B.jpg",
-        "date": "Wed, 22 Jan 2025 07:43:31 GMT"
-    },
-    {
-        "title": "Recrutement et IA : Optimiser les Processus RH",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/22/5-essential-chatgpt-prompts-every-hr-professional-should-know/?ss=ai",
-        "body": "L'IA, et notamment ChatGPT, révolutionne le monde du travail et impacte les pratiques des professionnels des ressources humaines et du recrutement. L'article fournit des exemples de prompts (instructions) efficaces pour tirer parti de l'IA dans le recrutement : \n\n- Identifier les lacunes en compétences et les besoins futurs en recrutement ou en formation. \n- Créer des descriptions d'emploi attrayantes et optimisées. \n- Comparer les CV avec les descriptions d'emploi et suggérer des questions d'entretien. \n- Développer une proposition de valeur pour attirer les meilleurs talents. \n- Identifier et éliminer les biais dans les processus de recrutement. \n\nLa clé du succès réside dans la création de prompts précis, adaptés aux besoins spécifiques, pour une approche stratégique et inclusive du recrutement et de la gestion des talents. L'IA est un outil puissant, mais la combinaison avec l'expertise humaine est essentielle pour des résultats optimaux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679095ddf0783d6a3a696ff8/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 22 Jan 2025 07:00:00 GMT"
     }
 ]
