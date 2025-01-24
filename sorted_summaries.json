@@ -1,5 +1,19 @@
 [
     {
+        "title": "Stargate Project",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/01/24/stargates-500-billion-ai-bet-have-we-forgotten-the-hidden-cost/?ss=ai",
+        "body": "Le projet Stargate, qui promet un investissement de 500 milliards de dollars pour stimuler les capacités américaines en matière d'IA, soulève des questions importantes sur la consommation énergétique des centres de données. On s'attend à ce que la consommation électrique des centres de données double d'ici 2028, ce qui pourrait avoir un impact significatif sur l'empreinte environnementale du pays. L'article souligne l'importance de prendre en compte l'impact écologique des centres de données, en particulier dans le contexte des changements climatiques et des catastrophes naturelles de plus en plus fréquentes. Il met également en évidence les défis environnementaux et éthiques associés à la production de GPU, les composants matériels qui alimentent les systèmes d'IA. L'auteur suggère d'intégrer la durabilité au cœur du développement des infrastructures d'IA, en s'appuyant sur des stratégies existantes telles que l'utilisation d'énergies renouvelables, la réutilisation de la chaleur et l'adoption de matériaux recyclés. Enfin, l'article aborde les questions d'équité dans l'accès aux infrastructures d'IA et plaide pour des partenariats mondiaux pour garantir que les régions sous-développées bénéficient également des avancées en matière d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6793c7ee04096ef4d9491853/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 24 Jan 2025 17:39:00 GMT"
+    },
+    {
+        "title": "Samsung's AI Focus and the Future of Smartphones",
+        "link": "https://www.theverge.com/2025/1/24/24350976/samsung-galaxy-s25-boring-tiktok-ban-openai-vergecast",
+        "body": "L'épisode de The Vergecast discute des nouveaux téléphones Samsung et de leur impact sur le marché Android en 2025. L'événement Unpacked a mis en avant l'importance de l'IA pour améliorer l'expérience utilisateur, malgré des mises à jour matérielles minimes. L'émission aborde également le casque Project Moohan, la domination croissante de Gemini dans les assistants virtuels, et offre un aperçu de la première semaine de l'administration Trump, y compris son plan de centre de données IA de 500 milliards de dollars. Enfin, l'émission couvre rapidement la dernière augmentation des prix de Netflix et la norme Sensify pour les ampoules de surveillance.",
+        "image": "",
+        "date": "Fri, 24 Jan 2025 14:01:16 GMT"
+    },
+    {
         "title": "Siri Still Struggles",
         "link": "https://www.theverge.com/2025/1/24/24350889/unintelligent-apple",
         "body": "Malgré les affirmations d'Apple sur ses progrès en matière d'IA et son intégration de ChatGPT, Siri reste décevant. Un rapport humoristique publié sur One Foot Tsunami révèle que Siri n'a correctement identifié le vainqueur que dans 20 des 58 Super Bowls joués.",
@@ -278,40 +292,5 @@
         "body": "Google a collaboré avec l'armée israélienne après l'invasion terrestre de la bande de Gaza, selon des documents internes obtenus par le Washington Post. Les employés de la division cloud de Google ont travaillé directement avec les Forces de Défense Israéliennes (IDF), malgré les déclarations publiques et internes de l'entreprise affirmant que Google ne collaborait qu'avec des ministères civils. Les documents révèlent une course contre Amazon pour fournir des services d'IA à l'IDF, Google craignant qu'Israël ne se tourne vers son concurrent en cas de réponse insuffisante. Cette collaboration a eu lieu alors que Google réprimandait des employés protestant contre le projet Nimbus, un contrat de 1,2 milliard de dollars pour des services cloud avec Israël, impliquant Google et Amazon. L'entreprise a licencié 28 employés manifestants et a nié toute implication avec l'armée israélienne, insistant sur le fait que le contrat Nimbus concernait uniquement des ministères civils.",
         "image": "",
         "date": "Wed, 22 Jan 2025 18:38:48 GMT"
-    },
-    {
-        "title": "Gemini, l'assistant IA de Google, s'améliore",
-        "link": "https://www.theverge.com/2025/1/22/24349319/google-gemini-multiple-app-extensions-ai-samsung-bixby-circle-to-search",
-        "body": "Google a annoncé une mise à jour de son assistant IA Gemini, qui peut désormais effectuer des tâches à travers plusieurs applications en une seule interaction. Cette mise à jour a été lancée en même temps que la sortie des nouveaux smartphones Samsung Galaxy S25, qui font de Gemini leur assistant par défaut, remplaçant ainsi Bixby. Les améliorations de Gemini incluent la possibilité de gérer des tâches multimodales complexes, comme trouver un restaurant italien acceptant les chiens et envoyer l'information à un ami, ou ajouter les prochains matchs de votre équipe NFL à votre calendrier, le tout en une seule demande. Cette fonctionnalité multi-applications s'appuie sur les extensions d'applications existantes de Gemini, qui couvrent à la fois les applications Google et certaines options tierces comme WhatsApp et Spotify. La mise à jour ajoute également les applications Samsung à la liste pour les utilisateurs du S25, y compris Samsung Calendar, Notes, Reminder et Clock. De plus, Gemini Live, le mode conversationnel vocal de l'assistant, est également amélioré, permettant aux utilisateurs des Galaxy S24 et S25 et des Pixel 9 de partager des images, des fichiers et des vidéos YouTube dans l'interface de chat et de demander à Gemini des commentaires et des informations. Enfin, Google prévoit d'intégrer des fonctionnalités de Project Astra, comme le partage d'écran et la diffusion vidéo en direct, à Gemini sur Android dans les prochains mois.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2096x1182/2400x1600/filters:focal(1048x591:1049x592):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25841889/Samsung_Unpacked_Gemini_Live.png",
-        "date": "Wed, 22 Jan 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La solitude numérique",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/01/22/are-ai-companions-our-emotional-diet-coke/?ss=ai",
-        "body": "Bien que l'IA puisse offrir une compagnie 24 heures sur 24, elle ne peut pas remplacer les interactions humaines essentielles à notre bien-être et à notre croissance personnelle. Les compagnons IA, toujours disponibles et agréables, risquent de créer une chambre d'écho émotionnelle, limitant l'introspection et la croissance personnelle. Un article encourage à utiliser l'IA de manière intentionnelle, en la formant à encourager la réflexion et à compléter les relations humaines, plutôt qu'à les remplacer.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6791393672be544ab4aaa117/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 22 Jan 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Révolution dans la gestion des connaissances en entreprise",
-        "link": "https://www.forbes.com/sites/tonybradley/2025/01/22/transforming-enterprise-knowledge-management-with-secure-proactive-ai/?ss=ai",
-        "body": "Doti AI a pour objectif de révolutionner la gestion des connaissances en entreprise en s'attaquant au problème de la fragmentation des informations sur de nombreux outils et plateformes, qui entrave la prise de décision et l'innovation. La plateforme AI de Doti promet de transformer la manière dont les entreprises connectent, accèdent et exploitent leurs connaissances internes de manière sécurisée. L'entreprise a levé 7 millions de dollars en financement de départ, dirigé par F2 Venture Capital. Doti AI se distingue en se concentrant sur la sécurité, l'intégration et la facilité d'utilisation, avec une fonctionnalité AutoPilot qui identifie proactivement les besoins des utilisateurs et fournit des réponses sans invites explicites. La plateforme s'intègre intuitivement aux flux de travail quotidiens, améliorant l'adoption de l'IA et la rendant accessible et utile pour les équipes. La priorité accordée à la sécurité par Doti AI répond aux préoccupations actuelles des entreprises en matière de confidentialité des données, garantissant que l'adoption de l'IA n'entraîne pas de compromis en matière de confiance. La plateforme a déjà montré des résultats impressionnants, avec une augmentation de 4 à 11 fois de l'utilisation par les premiers adoptants en seulement trois mois.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67912176728a88c10374ac7e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 22 Jan 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Maîtriser ses finances avec l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/01/22/5-chatgpt-hacks-you-need-to-save-time-and-money-in-2025/?ss=ai",
-        "body": "L'article met en avant l'utilisation de l'IA, notamment ChatGPT, pour aider les individus à gérer leurs finances et à atteindre leurs objectifs financiers. Il fournit une série de prompts et de rationales que les utilisateurs peuvent saisir dans un chatbot IA pour obtenir des conseils financiers personnalisés. Ces prompts couvrent une variété de sujets financiers, notamment l'élaboration d'un plan d'épargne, la gestion de la dette, la création d'un budget, la planification de la retraite et l'adoption d'un style de vie plus économique. L'article souligne que l'IA ne peut pas remplacer un conseiller financier agréé, mais qu'elle peut fournir des informations et des stratégies utiles pour atténuer les préoccupations financières. Les utilisateurs peuvent ensuite partager ces informations avec des professionnels de la finance pour obtenir des conseils plus précis. L'article vise à aider les individus à prendre le contrôle de leurs finances et à réduire leur stress financier.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67912018994bac9be8126674/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 22 Jan 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Stargate Project",
-        "link": "https://www.theverge.com/2025/1/22/24349449/elon-musk-stargate-project-money-allegation",
-        "body": "Elon Musk critique OpenAI et remet en question le financement du projet Stargate, une initiative de centre de données IA impliquant Softbank, OpenAI, Oracle et MGX. Musk, qui possède des autorisations de sécurité étendues et un bureau à la Maison Blanche, exprime des doutes sur les fonds promis de 100 milliards de dollars, affirmant que SoftBank a sécurisé bien moins que les 10 milliards de dollars annoncés. Sam Altman, d'OpenAI, répond à Musk, soulignant le respect qu'il a pour ses réalisations, mais suggérant également que les intérêts de Musk pourraient ne pas coïncider avec ceux du pays. Le projet Stargate, en cours de développement au Texas, compte Arm, Microsoft, Nvidia, Oracle et OpenAI parmi ses partenaires technologiques initiaux. Altman souligne l'ampleur significative de l'investissement, suggérant une confiance dans le progrès de la technologie IA.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1334/2400x1600/filters:focal(1020x667:1021x668):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25355893/STK022_ELON_MUSK_CVIRGINIA_B.jpg",
-        "date": "Wed, 22 Jan 2025 16:18:01 GMT"
     }
 ]
