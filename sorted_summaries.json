@@ -28,6 +28,20 @@
         "date": "Fri, 24 Jan 2025 01:02:00 GMT"
     },
     {
+        "title": "Course à l'IA",
+        "link": "https://www.frandroid.com/culture-tech/2482782_les-investissements-pharaoniques-dopenai-deja-sous-le-feu-des-critiques",
+        "body": "OpenAI, la firme de Sam Altman, fait face à des critiques concernant son plan d'investissement de 500 milliards de dollars. Des sources anonymes remettent en question la faisabilité du projet, affirmant que la structure, le financement et les engagements ne sont pas encore adéquats. Elon Musk, quant à lui, émet des doutes sur le financement, tandis que l'eurodéputé Axel Voss s'inquiète de la création d'une \"bombe atomique numérique\". Le projet soulève des questions éthiques et suscite des débats sur la régulation de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=8fa7395e",
+        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Perplexity, l'assistant IA sur Android",
+        "link": "https://www.frandroid.com/produits-android/2482758_ce-chatbot-veut-gerer-vocalement-votre-vie-quotidienne",
+        "body": "Perplexity, un développeur de chatbots IA, se lance sur Android avec son assistant IA. L'assistant se concentre sur la fourniture d'informations en temps réel et sur la compréhension du contexte des échanges pour se démarquer de la concurrence. Il peut également effectuer des tâches comme la réservation d'un Uber ou la création de rappels. L'entreprise vise à créer un assistant personnel complet, mais doit faire face à la concurrence de géants comme ChatGPT. Perplexity est disponible gratuitement sur le Google Play Store.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/logo-perplexity-1200x675-1-768x432.png?resize=169,169&key=ad9e306e",
+        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "Révolution des rencontres en ligne",
         "link": "https://www.forbes.com/sites/johnkoetsier/2025/01/23/ai-wing-girl-boosts-dates-300-for-awkward-men-dating-service-says/?ss=ai",
         "body": "L'application Ari utilise l'IA pour aider les hommes à trouver des correspondances sur les sites de rencontre. Ari offre des conseils en temps réel, aidant les utilisateurs à créer leur profil et à rédiger des messages d'ouverture efficaces. L'IA s'appuie sur des millions de messages provenant de dizaines de milliers de rendez-vous, offrant ainsi des suggestions et des idées pour diverses situations de rencontre. L'application est disponible pour iPhone et Android, et les utilisateurs rapportent une augmentation de 300 % de leurs rendez-vous lors du premier mois d'utilisation. Ari coûte 25 $ par mois au Canada et 20 $ aux États-Unis, et promet d'aider les utilisateurs à créer un profil « magnétique ». L'IA vise à « niveler le terrain de jeu » dans le monde compétitif des rencontres en ligne, en aidant les utilisateurs à établir de véritables connexions.",
@@ -306,19 +320,5 @@
         "body": "Le président Donald Trump et Masayoshi Son, PDG de SoftBank, ont annoncé le projet Stargate AI, une initiative de 500 milliards de dollars visant à révolutionner l'infrastructure d'intelligence artificielle de l'Amérique et à renforcer son leadership mondial. Ce projet, en partenariat avec OpenAI, Oracle et SoftBank, vise à construire un réseau de centres de données de pointe pour façonner l'avenir du développement de l'IA. La première phase comprend un investissement de 100 milliards de dollars, avec un objectif de 500 milliards de dollars sur quatre ans, créant 100 000 nouveaux emplois. Les centres de données Stargate consommeront d'immenses quantités d'énergie, posant des défis d'infrastructure. Le succès dépend de la résolution des problèmes énergétiques, du développement d'une main-d'œuvre qualifiée et d'une gouvernance forte. Les enjeux sont élevés, et Stargate a le potentiel de sécuriser la position de leader de l'Amérique dans la révolution de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6790f8ea7290721e9236a30d/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 22 Jan 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'IA, une opportunité pour les travailleurs du savoir",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/01/22/is-ai-replacing-us-good-news-for-knowledge-workers/?ss=ai",
-        "body": "L'article aborde les craintes courantes selon lesquelles l'IA remplacerait les emplois humains, en particulier dans les domaines du droit, des télécommunications, de l'éducation et des soins de santé. Cependant, il soutient que l'IA augmente en fait la valeur des travailleurs du savoir en améliorant leur efficacité et en créant une demande accrue de leurs compétences. L'exemple de la reconnaissance optique de caractères (OCR) dans le domaine juridique est cité, montrant comment l'IA peut révolutionner les tâches répétitives et fastidieuses, permettant aux avocats de se concentrer sur des tâches à plus forte valeur ajoutée. De même, dans l'éducation, l'auteur a créé un clone AI de lui-même pour enseigner un cours en ligne, augmentant ainsi son impact sans se remplacer. L'IA dans les soins de santé est également discutée, soulignant comment elle peut libérer les médecins des tâches administratives et leur permettre de se concentrer sur la connexion humaine et les soins médicaux. L'article conclut que l'IA n'est pas une menace existentielle pour les emplois, mais plutôt un outil qui améliore les capacités humaines et élargit les opportunités pour les travailleurs du savoir.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678c6f2b9db1e52b83334681/0x0.jpg?format=jpg&crop=1080,608,x0,y286,safe&width=440",
-        "date": "Wed, 22 Jan 2025 12:00:00 GMT"
-    },
-    {
-        "title": "La croissance de Clay",
-        "link": "https://www.forbes.com/sites/alexkonrad/2025/01/21/clay-ai-growth-software-one-billion-valuation/?ss=ai",
-        "body": "Clay, une startup basée à New York, a connu une croissance fulgurante et est devenue une licorne grâce à son logiciel de construction d'applications internes sans code, qui a trouvé une application inattendue dans les efforts de commercialisation. En se concentrant sur la création d'un outil utile plutôt que sur la poursuite d'une vision ambitieuse, Clay a attiré plus de 5 000 entreprises clientes, dont des sociétés d'IA telles qu'Anthropic et OpenAI. L'utilisation de l'IA par Clay, à la fois dans son propre produit et par ses clients, en fait une success story précoce pour les entreprises à la recherche d'applications du monde réel de l'IA. La capacité de Clay à interpréter les questions des utilisateurs et à fournir des informations surprenantes a été renforcée par l'explosion de l'IA générative, avec des clients tels qu'OpenAI et Anthropic. La société prévoit d'améliorer encore cette capacité en connectant les données de première partie des clients pour alimenter des campagnes de marketing personnalisées. La créativité de Clay, tant dans ses fonctionnalités que dans son approche communautaire, est considérée comme son avantage concurrentiel le plus important.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6790029ed67a28cb99744ae0/0x0.jpg?format=jpg&crop=2400,1350,x0,y62,safe&width=440",
-        "date": "Wed, 22 Jan 2025 11:00:00 GMT"
     }
 ]
