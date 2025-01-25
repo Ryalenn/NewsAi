@@ -1,5 +1,33 @@
 [
     {
+        "title": "La course à l'investissement dans l'IA",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/01/25/survey-67-of-execs-funnel-250m-into-ai-to-accelerate-transformation/?ss=ai",
+        "body": "Les dirigeants d'entreprise misent de plus en plus sur l'IA, anticipant qu'elle transformera fondamentalement leurs activités dans les prochaines années. Une enquête de KPMG révèle que 56 % des dirigeants prévoient une transformation significative dans l'année à venir, et 67 % dans les deux prochaines années. Les investissements dans l'IA générative (GenAI) augmentent considérablement, avec 68 % des dirigeants prévoyant d'investir entre 50 et 250 millions de dollars au cours des 12 prochains mois. Cette tendance est confirmée par d'autres études, comme celle de Deloitte, qui soulignent l'adoption rapide de l'IA par les entreprises. Les pressions macroéconomiques et la qualité des données sont des facteurs clés influençant les stratégies d'IA, et la majorité des organisations explorent l'utilisation d'agents IA, bien que leur déploiement réel soit plus faible. La direction et les cadres supérieurs utilisent davantage les outils GenAI que les employés de niveaux inférieurs, et bien que les entreprises prévoient d'intégrer la formation GenAI, l'adoption par les employés est actuellement faible. L'IA est en train de devenir un impératif concurrentiel à court terme, et son pouvoir transformateur n'est plus hypothétique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679523bfb13ce1d4a2f3fd94/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 25 Jan 2025 17:48:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'emploi à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/nishatalagala/2025/01/25/the-two-jobs-of-the-ai-future/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6466bf52af8259d26f41e295/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 25 Jan 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'essor de l'IA dans l'industrie technologique",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "De grandes entreprises comme Microsoft, Google et OpenAI démocratisent les technologies de chatbot basées sur des modèles linguistiques volumineux, auparavant réservées aux laboratoires de test. L'article explore l'évolution de l'IA, notamment les controverses, les applications pratiques et les défis auxquels sont confrontées les entreprises. Il aborde également les préoccupations en matière de sécurité, l'intégration de l'IA dans les produits grand public et les investissements importants des géants de la technologie dans ce domaine.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sat, 25 Jan 2025 01:22:04 GMT"
+    },
+    {
+        "title": "La course à l'IA",
+        "link": "https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft",
+        "body": "L'article explore les récents développements dans l'industrie de l'IA, avec un focus sur la séparation entre Microsoft et OpenAI, et les investissements massifs des grandes entreprises technologiques dans l'infrastructure de l'IA. Il souligne également la performance de Reddit depuis son introduction en bourse et inclut une interview avec son PDG, Steve Huffman, qui partage ses réflexions sur l'industrie de l'IA, la modération du contenu et les priorités de Reddit pour 2025.",
+        "image": "",
+        "date": "Sat, 25 Jan 2025 00:15:55 GMT"
+    },
+    {
         "title": "Des milliards de personas prêtes à l'emploi pour l'IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/01/24/prompting-with-ai-personas-gets-streamlined-via-advent-of-million-and-billion-personas-sized-datasets/?ss=ai",
         "body": "Des ensembles de données à grande échelle contenant des millions ou des milliards de personas prêtes à l'emploi pour l'IA sont désormais disponibles. Cet article présente une nouvelle approche pour l'utilisation de personas avec l'IA générative et les grands modèles linguistiques. Au lieu d'inventer une description de persona, les utilisateurs peuvent désormais puiser dans de vastes ensembles de données de descriptions de personas prêtes à l'emploi et les intégrer directement dans leurs invites. \n\nL'article explique comment les personas sont une fonctionnalité puissante des grands modèles linguistiques, permettant à l'IA de simuler la connaissance et le discours d'une personne spécifique. Un exemple courant est de faire en sorte que l'IA imite une personnalité célèbre, comme Abraham Lincoln. Les personas peuvent également être décrits de manière plus générale, comme un adolescent indécis entre une carrière sportive et des études universitaires. \n\nLa complexité augmente lorsque l'on souhaite utiliser plusieurs personas, et c'est ici que les ensembles de données de description de persona deviennent utiles. Les chercheurs en IA ont créé de vastes ensembles de données de descriptions de personas, comme FinePersonas et PersonaHub, qui contiennent des millions ou des milliards d'instances. Ces ensembles de données sont généralement structurés comme des feuilles de calcul, permettant une recherche manuelle ou automatisée. \n\nL'article fournit des exemples d'utilisation de personas à partir de ces ensembles de données, y compris la modification des personas pour explorer différents aspects. Il souligne également l'importance de ces ensembles de données pour les tests à grande échelle de l'IA et la génération de données synthétiques. En conclusion, l'article suggère que l'utilisation de ces ensembles de données peut rationaliser le travail des utilisateurs d'IA, leur permettant de travailler plus intelligemment.",
@@ -187,19 +215,5 @@
         "body": "Google continue d'étendre les capacités de son assistant Gemini, en permettant désormais son intégration avec les applications de Samsung et la possibilité d'interagir avec plusieurs applications en un seul prompt. La sortie de la première version bêta publique d'Android 16 est prévue pour le deuxième trimestre de 2025, et Google a promis une expansion significative, avec plus d'applications, de fabricants d'équipement d'origine (OEM) et de facteurs de forme pris en charge.",
         "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1548/2400x1935/filters:focal(960x774:961x775):no_upscale():format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25843473/google_gemini_multimodal_extensions_ezgif.com_crop.gif",
         "date": "Thu, 23 Jan 2025 19:01:00 GMT"
-    },
-    {
-        "title": "Operator, un nouvel agent IA",
-        "link": "https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer",
-        "body": "OpenAI dévoile un aperçu de recherche d'un agent IA nommé Operator, capable d'effectuer des tâches sur le web. Operator est basé sur le modèle « Computer-Using Agent » qui combine les capacités de vision de GPT-4 avec le raisonnement avancé du renforcement learning pour interagir avec les interfaces graphiques. Il peut « voir » à travers des captures d'écran et « agir » avec un clavier et une souris. Operator est conçu pour aider les utilisateurs à effectuer des tâches en ligne, comme la réservation d'une table au restaurant ou la commande de courses. Il peut également se corriger et demander de l'aide à l'utilisateur si nécessaire. OpenAI collabore avec des entreprises comme DoorDash et Uber pour s'assurer que Operator respecte les normes établies et refuse les demandes nuisibles. L'outil est actuellement disponible pour les abonnés américains de ChatGPT Pro, mais OpenAI prévoit de l'étendre à d'autres utilisateurs et de l'intégrer à ChatGPT.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg",
-        "date": "Thu, 23 Jan 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Stargate Project",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/01/23/stargate-americas-500-billion-bid-to-corner-global-ai-capital/?ss=ai",
-        "body": "Le projet Stargate, une initiative conjointe entre OpenAI, Oracle et Softbank, représente un changement majeur dans la course mondiale à l'IA, avec un investissement de 500 milliards de dollars sur 4 ans. L'objectif est de construire le plus grand projet d'infrastructure d'IA au monde, avec 20 centres aux États-Unis, dont un centre d'un million de pieds carrés au Texas. Cette initiative, annoncée par le président Trump, vise à affirmer la domination des États-Unis dans le développement de l'IA, la présentant comme une compétition non seulement technologique mais aussi de pouvoir économique et géopolitique. Le projet Stargate est à la fois un mouvement géopolitique et un investissement dans l'intelligence artificielle, visant à attirer 175 milliards de dollars d'investissements mondiaux dans l'IA, qui, sinon, iraient vers des projets soutenus par la Chine. Le soutien du gouvernement américain et l'échelle massive du projet en font une opportunité d'investissement attrayante, contrastant avec l'approche plus lente et diversifiée de la Chine. L'embargo américain sur les semi-conducteurs et la course aux capitaux du projet Stargate visent à affaiblir la capacité de la Chine à concurrencer les États-Unis dans le domaine de l'IA, en limitant son accès aux puces avancées et aux investissements mondiaux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6792734451d657b82eb63d46/0x0.jpg?format=jpg&crop=3349,1571,x0,y329,safe&width=440",
-        "date": "Thu, 23 Jan 2025 16:00:00 GMT"
     }
 ]
