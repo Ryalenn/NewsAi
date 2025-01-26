@@ -1,5 +1,12 @@
 [
     {
+        "title": "Réinventer l'immobilier avec l'IA",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/01/26/ais-transformative-impact-on-real-estate/?ss=ai",
+        "body": "L'IA transforme le secteur de l'immobilier en aidant vendeurs, acheteurs et investisseurs. En analysant rapidement de grandes quantités de données, l'IA permet de fixer les prix de vente, d'identifier les opportunités d'investissement, de faire des recommandations personnalisées aux acheteurs et de détecter les fraudes. Les outils IA améliorent l'expérience client, automatisent les tâches administratives et aident les gestionnaires immobiliers à se concentrer sur des tâches à plus haute valeur ajoutée. L'IA révolutionne le secteur en améliorant les processus, en réduisant les coûts et en permettant des décisions plus éclairées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6796450d5c51536ee994c41a/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 26 Jan 2025 14:00:00 GMT"
+    },
+    {
         "title": "Texas AI Act",
         "link": "https://www.forbes.com/sites/jamesbroughel/2025/01/26/texass-left-turn-on-ai-regulation/?ss=ai",
         "body": "Le Texas, connu pour ses politiques favorables aux entreprises, propose une nouvelle législation sur l'IA, le Texas Responsible AI Governance Act (TRAIGA), qui pourrait entraver l'innovation dans l'État. Le projet de loi, l'un des efforts de réglementation de l'IA les plus agressifs aux États-Unis, adopte une approche basée sur les risques, similaire à celle de l'UE. Il impose des obligations aux développeurs, aux déployeurs et aux distributeurs d'IA \"à haut risque\", interdit certains systèmes d'IA et exige une tenue de registres détaillée pour les modèles d'IA générative. Bien que le projet de loi vise à lutter contre la discrimination algorithmique, il pourrait entraver les initiatives d'IA au Texas, notamment le projet Stargate de 500 milliards de dollars. TRAIGA impose un fardeau administratif important aux entreprises, avec des exigences de documentation et des évaluations annuelles, et pourrait ralentir le développement de l'IA. Alors que le Texas cherche à devenir un leader dans l'IA, avec des investissements importants comme le projet Stargate, les obstacles réglementaires de TRAIGA pourraient inciter les entreprises à investir ailleurs. La réglementation de l'IA est complexe en raison du rythme rapide des progrès technologiques, et une réglementation trop stricte pourrait céder le leadership de l'IA à des concurrents étrangers.",
@@ -89,33 +96,5 @@
         "body": "OpenAI a présenté sa dernière création en matière d'intelligence artificielle : \"Operator\", un assistant polyvalent capable d'effectuer diverses tâches web. Operator sera d'abord mis à la disposition des utilisateurs de ChatGPT Pro.",
         "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/01/24/b1d4d49d-674d-47f2-aa4a-d4da1f953a8c_thumb.jpg?format=jpg&width=440",
         "date": "Fri, 24 Jan 2025 20:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la vidéo par l'IA",
-        "link": "https://www.forbes.com/sites/rogerdooley/2025/01/24/seemingly-real-ai-commercial-has-no-actors-locations-or-sets/?ss=ai",
-        "body": "L'article explore l'utilisation croissante de l'IA dans la production vidéo, en mettant en évidence une démo impressionnante créée par l'artiste numérique László Gaál. La démo, créée à l'aide de Veo 2 de Google DeepMind, comprend un spot publicitaire et des images des coulisses, tous deux entièrement générés par l'IA. Bien que la technologie soit encore en mode expérimental, elle montre les progrès rapides de l'IA dans la création de contenu réaliste. L'article discute également de l'impact potentiel de l'IA sur la production vidéo, y compris la réduction des coûts et l'amélioration de l'accessibilité pour les marketeurs avec des budgets limités. Avec des séries télévisées à gros budget comme *The Lord of the Rings: The Rings of Power* et *House of the Dragon* qui utilisent des lieux exotiques et des décors élaborés, l'IA pourrait offrir une alternative rentable pour créer des environnements et des accessoires complexes. Bien que des outils vidéo plus puissants soient nécessaires, les marketeurs peuvent déjà tirer parti de l'IA pour créer divers contenus, y compris des podcasts. La conclusion est que l'IA révolutionnera bientôt la production vidéo, offrant de nouvelles opportunités et améliorant l'accessibilité pour les créateurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6793d7841969ffad95817884/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Stargate Project",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/01/24/stargates-500-billion-ai-bet-have-we-forgotten-the-hidden-cost/?ss=ai",
-        "body": "Le projet Stargate, qui promet un investissement de 500 milliards de dollars pour stimuler les capacités américaines en matière d'IA, soulève des questions importantes sur la consommation énergétique des centres de données. On s'attend à ce que la consommation électrique des centres de données double d'ici 2028, ce qui pourrait avoir un impact significatif sur l'empreinte environnementale du pays. L'article souligne l'importance de prendre en compte l'impact écologique des centres de données, en particulier dans le contexte des changements climatiques et des catastrophes naturelles de plus en plus fréquentes. Il met également en évidence les défis environnementaux et éthiques associés à la production de GPU, les composants matériels qui alimentent les systèmes d'IA. L'auteur suggère d'intégrer la durabilité au cœur du développement des infrastructures d'IA, en s'appuyant sur des stratégies existantes telles que l'utilisation d'énergies renouvelables, la réutilisation de la chaleur et l'adoption de matériaux recyclés. Enfin, l'article aborde les questions d'équité dans l'accès aux infrastructures d'IA et plaide pour des partenariats mondiaux pour garantir que les régions sous-développées bénéficient également des avancées en matière d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6793c7ee04096ef4d9491853/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 17:39:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA s'accélère",
-        "link": "https://www.theverge.com/2025/1/24/24351061/mark-zuckerberg-meta-ai-data-center-investment",
-        "body": "Le PDG de Meta, Mark Zuckerberg, prévoit d'investir jusqu'à 65 milliards de dollars dans l'IA d'ici 2025, dans le cadre d'un effort massif pour faire progresser les ambitions de l'entreprise en matière d'IA. Cet investissement comprend un centre de données en Louisiane, décrit par Zuckerberg comme étant d'une taille suffisante pour couvrir une partie importante de Manhattan. L'annonce fait suite à la révélation du projet Stargate, une coentreprise de 500 milliards de dollars entre OpenAI, Softbank, Oracle et d'autres, qui vise à construire d'immenses centres de données IA au Texas et dans d'autres régions des États-Unis. Alors que les géants de la tech comme OpenAI, Google, Microsoft et Nvidia investissent massivement dans l'IA, Zuckerberg prévoit de terminer l'année avec plus de 1,3 million de GPU et une expansion significative de son équipe IA. Il prédit que 2025 sera une année décisive, avec Meta AI devenant l'assistant leader pour plus d'un milliard de personnes et le modèle Llama 4 à la pointe du secteur.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1159x638:1160x639):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg",
-        "date": "Fri, 24 Jan 2025 17:28:53 GMT"
-    },
-    {
-        "title": "La révolution de l'IA",
-        "link": "https://www.forbes.com/sites/rachelwells/2025/01/24/5-free-courses-to-learn-high-paying-ai-skills-in-2025/?ss=ai",
-        "body": "D'ici 2030, 450 millions de personnes devront acquérir des compétences en IA, selon une étude d'IBM. L'IA aura un impact sur tous les secteurs d'emploi, et la formation continue est essentielle pour rester compétitif sur le marché du travail. L'étude révèle que plus de la moitié des utilisateurs d'outils d'IA devront améliorer leurs compétences, et que 30 % d'entre eux utiliseront des méthodes d'éducation non traditionnelles, telles que des certifications en ligne et des cours courts. Justina Nixon-Saintil, vice-présidente d'IBM, souligne l'importance de la maîtrise de l'IA, comparant son influence future à celle d'Internet lors de son apparition. Les professionnels doivent acquérir une compréhension de base de l'IA, y compris de l'éthique et des risques potentiels, ainsi que des compétences pratiques pour l'appliquer à leur domaine spécifique. Les plateformes en ligne, telles que IBM SkillsBuild, Coursera et Codeacademy, offrent des opportunités abordables pour acquérir des compétences en IA, garantissant ainsi une carrière réussie dans un avenir où l'IA jouera un rôle prédominant.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67939a41aadeb27c2ce4966a/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 17:00:00 GMT"
     }
 ]
