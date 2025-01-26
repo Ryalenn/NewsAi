@@ -21,6 +21,13 @@
         "date": "Sun, 26 Jan 2025 07:00:00 GMT"
     },
     {
+        "title": "L'échec de l'IA française Lucie",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2484296_lia-francaise-lucie-pourquoi-son-lancement-tourne-au-fiasco",
+        "body": "Lucie, un projet d'IA générative développé dans le cadre du plan d'investissement public France 2030, est le fruit de la collaboration entre l'entreprise privée Linagora et le CNRS. L'objectif était de créer une IA open source alignée sur les valeurs européennes, avec Linagora à la tête du développement technique et le CNRS apportant son expertise scientifique. Cependant, peu après son lancement, Lucie a fait face à de nombreuses critiques en raison de ses erreurs basiques, telles que confondre les œufs de poule et de vache et échouer dans des calculs simples. Ces problèmes ont été attribués à un timing précipité, à l'absence de tests de qualité élémentaires et à une communication maladroite. En conséquence, le chatbot basé sur Lucie a été fermé peu après son lancement, mais il reste accessible via Vittascience.com.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-81-1-768x480.jpg?resize=187,187&key=0d43f0ea",
+        "date": "Sat, 25 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA, un tuteur efficace pour les étudiants ?",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/25/ai-for-data-driven-tutoring-solutions-is-socrates-here/?ss=ai",
         "body": "L'article met en évidence l'efficacité de l'IA en tant qu'outil d'éducation, en particulier pour le soutien scolaire. Les essais randomisés de Mollick montrent que six semaines d'apprentissage avec un modèle d'IA équivaut à deux années de progrès scolaires, surpassant 80 % des autres interventions éducatives. L'IA est particulièrement bénéfique pour les étudiants en difficulté, notamment les filles. L'article de MIT cite également Patrick Suppes, lauréat de la National Medal of Science, qui a prédit dans les années 1960 que l'edtech permettrait aux étudiants d'avoir un tuteur aussi informé et réactif qu'Aristote. Aujourd'hui, avec l'avènement de l'IA générative et des modèles linguistiques, cette promesse semble se réaliser. L'IA offre un soutien personnalisé, un retour adaptatif et encourage les étudiants, créant un \"échafaudage cognitif\" qui libère leur propre pensée. L'article cite également la méthode Socratique, où l'étudiant devrait faire 70 % du travail, l'IA permettant ainsi un apprentissage plus autonome et efficace.",
@@ -68,33 +75,5 @@
         "body": "Résumé : Apple déplace Kim Vorrath, vétérane de l'entreprise ayant travaillé sur le logiciel de l'iPhone original, vers sa division d'intelligence artificielle et d'apprentissage automatique, où elle servira de bras droit au patron de l'IA, John Giannandrea. Ce changement de direction vise à apporter plus de rigueur au développement de l'IA chez Apple et à renforcer ses efforts en matière d'IA, annoncés lors de la WWDC l'année dernière. La société se concentre sur la refonte de l'infrastructure sous-jacente de Siri et l'amélioration de ses modèles d'IA internes, mais son impact n'a pas été aussi important que celui de ChatGPT ou de Gemini de Google. De plus, le déploiement des nouvelles fonctionnalités d'IA d'Apple est lent, et une mise à niveau majeure de Siri pourrait ne pas arriver avant iOS 18.4. Les notifications d'actualités alimentées par l'IA seront également interrompues dans iOS 18.3 en raison de critiques concernant leur inexactitude.",
         "image": "",
         "date": "Fri, 24 Jan 2025 23:44:04 GMT"
-    },
-    {
-        "title": "L'intelligence hybride : la fusion de l'intelligence naturelle et artificielle pour un avenir durable",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/01/24/hybrid-intelligence-education-unlocking-potential-in-2025-and-beyond/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67940389ceb037c473fba213/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La singularité approche",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/24/leopold-aschenbrenner-goes-over-ais-future/?ss=ai",
-        "body": "L'article explore les progrès récents de l'IA et les prédictions pour l'avenir. Leopold Aschenbrenner suggère que nous nous dirigeons vers une singularité technologique, où l'intelligence artificielle générale ou la superintelligence deviendront réalité. Les progrès sont mesurés en termes d'ordres de grandeur (OOM), avec des sauts significatifs attendus dans les capacités de l'IA. Les modèles d'IA surpassent déjà les humains dans de nombreuses tâches, et Aschenbrenner prédit que d'ici 2027, les modèles pourront effectuer le travail d'un chercheur/ingénieur en IA. Les progrès dans les domaines de la puissance de calcul, de l'efficacité des algorithmes et de l'amélioration continue sont discutés, avec des comparaisons aux stades de la croissance humaine. L'auteur souligne l'importance de la mémoire et du contexte pour les agents d'IA, leur permettant de réfléchir et de raisonner de manière plus humaine. Les prédictions d'Aschenbrenner ne sont pas de la science-fiction, mais plutôt des attentes raisonnables basées sur les capacités évolutives des modèles d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/673ba3ce008b33a3a7aeaa1b/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 20:00:00 GMT"
-    },
-    {
-        "title": "L'avenir incertain de la réglementation de l'IA",
-        "link": "https://www.forbes.com/sites/michaelperegrine/2025/01/24/new-trump-executive-order-creates-ai-challenges-for-corporate-boards/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6793d7518473b6ce36b55559/0x0.jpg?format=jpg&crop=2771,2303,x253,y0,safe&width=440",
-        "date": "Fri, 24 Jan 2025 20:00:00 GMT"
-    },
-    {
-        "title": "OpenAI dévoile Operator",
-        "link": "https://www.forbes.com/video/b1d4d49d-674d-47f2-aa4a-d4da1f953a8c/?ss=ai",
-        "body": "OpenAI a présenté sa dernière création en matière d'intelligence artificielle : \"Operator\", un assistant polyvalent capable d'effectuer diverses tâches web. Operator sera d'abord mis à la disposition des utilisateurs de ChatGPT Pro.",
-        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/01/24/b1d4d49d-674d-47f2-aa4a-d4da1f953a8c_thumb.jpg?format=jpg&width=440",
-        "date": "Fri, 24 Jan 2025 20:00:00 GMT"
     }
 ]
