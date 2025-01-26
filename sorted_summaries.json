@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA, un tuteur efficace pour les étudiants ?",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/25/ai-for-data-driven-tutoring-solutions-is-socrates-here/?ss=ai",
+        "body": "L'article met en évidence l'efficacité de l'IA en tant qu'outil d'éducation, en particulier pour le soutien scolaire. Les essais randomisés de Mollick montrent que six semaines d'apprentissage avec un modèle d'IA équivaut à deux années de progrès scolaires, surpassant 80 % des autres interventions éducatives. L'IA est particulièrement bénéfique pour les étudiants en difficulté, notamment les filles. L'article de MIT cite également Patrick Suppes, lauréat de la National Medal of Science, qui a prédit dans les années 1960 que l'edtech permettrait aux étudiants d'avoir un tuteur aussi informé et réactif qu'Aristote. Aujourd'hui, avec l'avènement de l'IA générative et des modèles linguistiques, cette promesse semble se réaliser. L'IA offre un soutien personnalisé, un retour adaptatif et encourage les étudiants, créant un \"échafaudage cognitif\" qui libère leur propre pensée. L'article cite également la méthode Socratique, où l'étudiant devrait faire 70 % du travail, l'IA permettant ainsi un apprentissage plus autonome et efficace.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679573e3b72cc2858ab4d673/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 25 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "La course à l'investissement dans l'IA",
         "link": "https://www.forbes.com/sites/ronschmelzer/2025/01/25/survey-67-of-execs-funnel-250m-into-ai-to-accelerate-transformation/?ss=ai",
         "body": "Les dirigeants d'entreprise misent de plus en plus sur l'IA, anticipant qu'elle transformera fondamentalement leurs activités dans les prochaines années. Une enquête de KPMG révèle que 56 % des dirigeants prévoient une transformation significative dans l'année à venir, et 67 % dans les deux prochaines années. Les investissements dans l'IA générative (GenAI) augmentent considérablement, avec 68 % des dirigeants prévoyant d'investir entre 50 et 250 millions de dollars au cours des 12 prochains mois. Cette tendance est confirmée par d'autres études, comme celle de Deloitte, qui soulignent l'adoption rapide de l'IA par les entreprises. Les pressions macroéconomiques et la qualité des données sont des facteurs clés influençant les stratégies d'IA, et la majorité des organisations explorent l'utilisation d'agents IA, bien que leur déploiement réel soit plus faible. La direction et les cadres supérieurs utilisent davantage les outils GenAI que les employés de niveaux inférieurs, et bien que les entreprises prévoient d'intégrer la formation GenAI, l'adoption par les employés est actuellement faible. L'IA est en train de devenir un impératif concurrentiel à court terme, et son pouvoir transformateur n'est plus hypothétique.",
@@ -131,47 +138,5 @@
         "body": "Le modèle o1-pro de la dernière génération de LLM transforme le processus itératif utilisé par les ingénieurs pour guider les LLM dans l'exécution de tâches complexes. Il surpasse les limitations des modèles précédents, qui ne pouvaient effectuer qu'une quantité limitée de travail en un seul passage et nécessitaient des astuces de prompt pour gérer des sous-espaces amorphes. Le nouveau modèle automatise le processus, éliminant ainsi le besoin de techniques de contournement complexes. Scarfe, un expert en la matière, le décrit comme un changement de paradigme, permettant aux LLM de gérer une complexité accrue en un seul passage. Cette avancée a un impact significatif sur la verbosité, la diversité et la banalité des réponses des LLM, améliorant ainsi leur précision. Le modèle o3 d'OpenAI, testé par Francois Chollet, un éminent chercheur en IA, a obtenu des résultats remarquables dans la résolution de problèmes de reconnaissance de modèles, marquant une avancée significative vers l'AGI. Les déclarations de Chollet soulignent l'évolution rapide du domaine de l'IA, avec des parallèles intéressants entre les attentes du marché et la réalité des progrès.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67932196f5f88f5ff3ae56fd/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 24 Jan 2025 05:00:00 GMT"
-    },
-    {
-        "title": "La convergence technologique",
-        "link": "https://www.forbes.com/sites/arunshastri/2025/01/23/is-gen-ai-adoption-inevitable/?ss=ai",
-        "body": "L'article aborde le projet Stargate, une entreprise conjointe dans le domaine de l'IA impliquant Oracle, OpenAI et Softbank, ainsi que les discussions récentes sur l'IA générative, les agents IA et leur impact potentiel sur divers secteurs. Il soulève des questions sur l'adoption généralisée de l'IA, en particulier dans le contexte de la productivité des employés, des coûts d'implémentation et des risques associés, tels que les hallucinations. L'auteur explore ensuite le concept de convergence technologique, citant des exemples tels que les smartphones et les montres intelligentes, et suggère que l'IA générative suit ce modèle. La convergence de l'IA avec le cloud, les grandes données, l'alphabétisation numérique, et le multimodal contribue à son potentiel de transformation. L'auteur prédit que l'IA générative aura un impact significatif sur l'automatisation et l'efficacité des tâches quotidiennes, tout en soulignant la nécessité d'aborder son avenir de manière responsable et éthique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6792e6373e686b80892fd7b1/0x0.jpg?format=jpg&crop=1117,628,x0,y43,safe&width=440",
-        "date": "Fri, 24 Jan 2025 01:02:00 GMT"
-    },
-    {
-        "title": "Détecter la musique générée par l'IA",
-        "link": "https://www.frandroid.com/services/streaming-musical/2483252_deezer-peut-desormais-detecter-et-exclure-les-musiques-generees-par-une-ia",
-        "body": "L'industrie musicale fait face à un nouveau défi avec l'émergence de la musique générée par l'IA, qui pourrait entraîner des pertes financières importantes d'ici 2028. Deezer, une plateforme française, développe un outil pour détecter les morceaux générés par l'IA, avec des résultats impressionnants. 10 000 titres générés par l'IA sont téléchargés chaque jour, représentant 10 % des nouveaux contenus. L'outil de Deezer marque ces titres comme « synthétiques » et vise à les exclure des recommandations personnalisées, tout en maintenant la transparence sur leur origine. La technologie ne nécessite pas d'entraînement extensif et fonctionne avec différentes IA. La plateforme cherche à protéger les artistes et les utilisateurs, tout en reconnaissant le potentiel positif de l'IA dans la création musicale.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/visuel-article-events-1-1240x600-1-1200x776-1-768x497.jpg?resize=194,194&key=6468b22a",
-        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Course à l'IA",
-        "link": "https://www.frandroid.com/culture-tech/2482782_les-investissements-pharaoniques-dopenai-deja-sous-le-feu-des-critiques",
-        "body": "OpenAI, la firme de Sam Altman, fait face à des critiques concernant son plan d'investissement de 500 milliards de dollars. Des sources anonymes remettent en question la faisabilité du projet, affirmant que la structure, le financement et les engagements ne sont pas encore adéquats. Elon Musk, quant à lui, émet des doutes sur le financement, tandis que l'eurodéputé Axel Voss s'inquiète de la création d'une \"bombe atomique numérique\". Le projet soulève des questions éthiques et suscite des débats sur la régulation de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=8fa7395e",
-        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Perplexity, l'assistant IA sur Android",
-        "link": "https://www.frandroid.com/produits-android/2482758_ce-chatbot-veut-gerer-vocalement-votre-vie-quotidienne",
-        "body": "Perplexity, un développeur de chatbots IA, se lance sur Android avec son assistant IA. L'assistant se concentre sur la fourniture d'informations en temps réel et sur la compréhension du contexte des échanges pour se démarquer de la concurrence. Il peut également effectuer des tâches comme la réservation d'un Uber ou la création de rappels. L'entreprise vise à créer un assistant personnel complet, mais doit faire face à la concurrence de géants comme ChatGPT. Perplexity est disponible gratuitement sur le Google Play Store.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/logo-perplexity-1200x675-1-768x432.png?resize=169,169&key=ad9e306e",
-        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Révolution des rencontres en ligne",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/01/23/ai-wing-girl-boosts-dates-300-for-awkward-men-dating-service-says/?ss=ai",
-        "body": "L'application Ari utilise l'IA pour aider les hommes à trouver des correspondances sur les sites de rencontre. Ari offre des conseils en temps réel, aidant les utilisateurs à créer leur profil et à rédiger des messages d'ouverture efficaces. L'IA s'appuie sur des millions de messages provenant de dizaines de milliers de rendez-vous, offrant ainsi des suggestions et des idées pour diverses situations de rencontre. L'application est disponible pour iPhone et Android, et les utilisateurs rapportent une augmentation de 300 % de leurs rendez-vous lors du premier mois d'utilisation. Ari coûte 25 $ par mois au Canada et 20 $ aux États-Unis, et promet d'aider les utilisateurs à créer un profil « magnétique ». L'IA vise à « niveler le terrain de jeu » dans le monde compétitif des rencontres en ligne, en aidant les utilisateurs à établir de véritables connexions.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6792d313973a1c2a6f29b208/0x0.png?format=png&width=440",
-        "date": "Thu, 23 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini Updates",
-        "link": "https://www.theverge.com/2025/1/23/24350541/google-gemini-ai-smart-home-controls-launch",
-        "body": "Google étend les fonctionnalités de contrôle de la maison connectée dans l'application Gemini, permettant aux utilisateurs de contrôler les appareils compatibles, tels que l'éclairage, le thermostat et les haut-parleurs, via des commandes vocales naturelles. Gemini peut désormais exécuter plusieurs demandes à la fois et fournir des informations sur l'état des appareils. De plus, les utilisateurs peuvent contrôler les appareils \"non sensibles\", comme l'éclairage, depuis l'écran de verrouillage de leur téléphone. D'autres mises à jour incluent la possibilité de régler le volume et de contrôler les médias sur les haut-parleurs intelligents, les écrans et les télévisions, ainsi qu'une conception de contrôle de thermostat mise à jour qui correspond à celle de l'application Google Home. L'intégration est désormais disponible, avec un déploiement progressif au cours des prochaines semaines.",
-        "image": "",
-        "date": "Thu, 23 Jan 2025 22:43:48 GMT"
     }
 ]
