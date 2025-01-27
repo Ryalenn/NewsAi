@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "L’IA française Lucie : pourquoi son lancement tourne au fiasco",
+        "title": "L\u2019IA fran\u00e7aise Lucie : pourquoi son lancement tourne au fiasco",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2484296_lia-francaise-lucie-pourquoi-son-lancement-tourne-au-fiasco",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-81-1-768x480.jpg?resize=187,187&key=0d43f0ea",
         "date": "Sat, 25 Jan 2025 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "L’IA DeepSeek est gratuite et puissante : découvrez pourquoi et comment l’utiliser",
+        "title": "L\u2019IA DeepSeek est gratuite et puissante : d\u00e9couvrez pourquoi et comment l\u2019utiliser",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2452582_lia-deepseek-est-gratuite-et-puissante-decouvrez-pourquoi-et-comment-lutiliser",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/capture-decran-2024-12-27-a-115639-1200x856-1-768x548.jpg?resize=214,214&key=2ec036e6",
         "date": "Sun, 26 Jan 2025 23:00:00 GMT",
@@ -103,5 +103,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6797703b6598a4aa882f408b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 27 Jan 2025 11:44:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "DeepSeek d\u00e9passe ChatGPT : comment expliquer ce succ\u00e8s",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2484900_deepseek-depasse-chatgpt-comment-expliquer-ce-succes",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-1200x675-2-768x432.png?resize=169,169&key=7082d42f",
+        "date": "Sun, 26 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "Qu\u2019est-ce qui rend DeepSeek si sp\u00e9cial \u00e0 en faire chuter Nvidia",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2485118_quest-ce-qui-rend-deepseek-si-special-a-en-faire-chuter-nvidia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-85-768x461.jpg?resize=180,180&key=325bb8de",
+        "date": "Sun, 26 Jan 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2028x1353/2400x1600/filters:focal(1014x677:1015x678):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25845713/Installer_68.png",
+        "date": "Sun, 26 Jan 2025 13:00:00 GMT",
+        "check": "no"
     }
 ]
