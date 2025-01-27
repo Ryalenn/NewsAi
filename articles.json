@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "L’IA française Lucie : pourquoi son lancement tourne au fiasco",
+        "title": "L\u2019IA fran\u00e7aise Lucie : pourquoi son lancement tourne au fiasco",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2484296_lia-francaise-lucie-pourquoi-son-lancement-tourne-au-fiasco",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-81-1-768x480.jpg?resize=187,187&key=0d43f0ea",
         "date": "Sat, 25 Jan 2025 23:00:00 GMT",
@@ -68,5 +68,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6796c8a2925af234b5269b49/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 27 Jan 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/27/heres-how-big-llms-teach-smaller-ai-models-via-leveraging-knowledge-distillation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6795593e5c8f960870272f33/0x0.jpg?format=jpg&crop=1123,842,x38,y0,safe&width=440",
+        "date": "Mon, 27 Jan 2025 06:22:00 GMT",
+        "check": "no"
     }
 ]
