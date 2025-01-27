@@ -1,5 +1,19 @@
 [
     {
+        "title": "Démocratiser l'IA",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/01/26/digitalocean-simplifies-ai-agent-creation-with-its-managed-genai-platform/?ss=ai",
+        "body": "DigitalOcean, une entreprise de services cloud, a annoncé le lancement de sa plateforme GenAI, qui vise à rendre l'IA générative plus accessible aux entreprises. La plateforme, actuellement en version préliminaire publique, propose une sélection de modèles de base de fournisseurs leaders tels que Meta, Mistral AI et Anthropic. L'interface intuitive et les processus rationalisés de GenAI en font un outil attrayant pour les petites entreprises qui n'ont pas d'équipes IA dédiées. Les utilisateurs peuvent créer des chatbots, intégrer des bases de connaissances et effectuer des appels de fonctions avancés. La plateforme propose également des points finaux privés et des garde-fous intégrés pour garantir la sécurité et la fiabilité des sorties. Le modèle tarifaire transparent et prévisible de DigitalOcean, avec des coûts basés sur l'utilisation, le rend accessible même aux startups. La plateforme GenAI de DigitalOcean démocratise l'IA en éliminant la complexité associée au développement de l'IA, permettant ainsi aux entreprises de se concentrer sur l'innovation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6796d8c07a535d0a63baf7fe/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 27 Jan 2025 01:09:00 GMT"
+    },
+    {
+        "title": "DeepSeek's Rise",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/01/26/all-about-deepseekthe-chinese-ai-startup-challenging-the-us-big-tech/?ss=ai",
+        "body": "DeepSeek, une startup chinoise de l'IA, bouleverse le secteur avec ses modèles open-source innovants et son efficacité remarquable. Fondée par Liang Wenfeng, DeepSeek bénéficie d'un financement unique lui permettant d'opérer indépendamment et de se concentrer sur la R&D à long terme. Ses modèles, développés par une équipe de jeunes diplômés talentueux, sont conçus pour des tâches de codage et de traitement du langage naturel, déclenchant une guerre des prix sur le marché chinois de l'IA. DeepSeek se distingue par son utilisation de l'apprentissage par renforcement pur, de l'architecture MoE et de techniques de distillation, améliorant ainsi les capacités de raisonnement et de traitement du langage. L'entreprise propose des modèles accessibles et économiques, défiant ainsi les géants établis de l'IA. Son approche open-source démocratise l'accès à l'IA avancée, encourageant l'innovation et contribuant à un écosystème IA plus diversifié et responsable. DeepSeek met en évidence l'importance de l'efficacité algorithmique et de l'optimisation des ressources, remettant en question la croyance traditionnelle selon laquelle la taille est le principal facteur de performance. Son émergence souligne l'intensification de la course mondiale à l'IA, avec la Chine cherchant à concurrencer la domination américaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6796c8a2925af234b5269b49/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 27 Jan 2025 00:00:00 GMT"
+    },
+    {
         "title": "Réinventer l'immobilier avec l'IA",
         "link": "https://www.forbes.com/sites/kathleenwalch/2025/01/26/ais-transformative-impact-on-real-estate/?ss=ai",
         "body": "L'IA transforme le secteur de l'immobilier en aidant vendeurs, acheteurs et investisseurs. En analysant rapidement de grandes quantités de données, l'IA permet de fixer les prix de vente, d'identifier les opportunités d'investissement, de faire des recommandations personnalisées aux acheteurs et de détecter les fraudes. Les outils IA améliorent l'expérience client, automatisent les tâches administratives et aident les gestionnaires immobiliers à se concentrer sur des tâches à plus haute valeur ajoutée. L'IA révolutionne le secteur en améliorant les processus, en réduisant les coûts et en permettant des décisions plus éclairées.",
@@ -42,38 +56,17 @@
         "date": "Sat, 25 Jan 2025 17:48:00 GMT"
     },
     {
+        "title": "L'essor de l'IA dans l'industrie technologique",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. Ces outils d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage, mais ils peuvent également présenter de fausses informations comme des vérités. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les fonctionnalités de codage, les problèmes de sécurité et d'addiction, l'intégration de l'IA dans les systèmes d'exploitation et les applications, ainsi que les progrès dans le traitement du langage naturel et la génération d'images. L'IA est intégrée dans une variété de produits, des moniteurs de glucose aux plateformes de médias sociaux, et son rôle dans la création de contenu en ligne soulève des questions de confiance et d'éthique. Enfin, l'article explore la course à l'IA entre les grandes entreprises technologiques et leur quête pour créer une application phare qui révolutionnera l'espace.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Sat, 25 Jan 2025 17:28:34 GMT"
+    },
+    {
         "title": "L'avenir de l'emploi à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/nishatalagala/2025/01/25/the-two-jobs-of-the-ai-future/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6466bf52af8259d26f41e295/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 25 Jan 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans l'industrie technologique",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "De grandes entreprises comme Microsoft, Google et OpenAI démocratisent les technologies de chatbot basées sur des modèles linguistiques volumineux, auparavant réservées aux laboratoires de test. L'article explore l'évolution de l'IA, notamment les controverses, les applications pratiques et les défis auxquels sont confrontées les entreprises. Il aborde également les préoccupations en matière de sécurité, l'intégration de l'IA dans les produits grand public et les investissements importants des géants de la technologie dans ce domaine.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Sat, 25 Jan 2025 01:22:04 GMT"
-    },
-    {
-        "title": "La course à l'IA",
-        "link": "https://www.theverge.com/2025/1/24/24351418/project-stargate-openai-spending-meta-microsoft",
-        "body": "L'article explore les récents développements dans l'industrie de l'IA, avec un focus sur la séparation entre Microsoft et OpenAI, et les investissements massifs des grandes entreprises technologiques dans l'infrastructure de l'IA. Il souligne également la performance de Reddit depuis son introduction en bourse et inclut une interview avec son PDG, Steve Huffman, qui partage ses réflexions sur l'industrie de l'IA, la modération du contenu et les priorités de Reddit pour 2025.",
-        "image": "",
-        "date": "Sat, 25 Jan 2025 00:15:55 GMT"
-    },
-    {
-        "title": "Des milliards de personas prêtes à l'emploi pour l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/01/24/prompting-with-ai-personas-gets-streamlined-via-advent-of-million-and-billion-personas-sized-datasets/?ss=ai",
-        "body": "Des ensembles de données à grande échelle contenant des millions ou des milliards de personas prêtes à l'emploi pour l'IA sont désormais disponibles. Cet article présente une nouvelle approche pour l'utilisation de personas avec l'IA générative et les grands modèles linguistiques. Au lieu d'inventer une description de persona, les utilisateurs peuvent désormais puiser dans de vastes ensembles de données de descriptions de personas prêtes à l'emploi et les intégrer directement dans leurs invites. \n\nL'article explique comment les personas sont une fonctionnalité puissante des grands modèles linguistiques, permettant à l'IA de simuler la connaissance et le discours d'une personne spécifique. Un exemple courant est de faire en sorte que l'IA imite une personnalité célèbre, comme Abraham Lincoln. Les personas peuvent également être décrits de manière plus générale, comme un adolescent indécis entre une carrière sportive et des études universitaires. \n\nLa complexité augmente lorsque l'on souhaite utiliser plusieurs personas, et c'est ici que les ensembles de données de description de persona deviennent utiles. Les chercheurs en IA ont créé de vastes ensembles de données de descriptions de personas, comme FinePersonas et PersonaHub, qui contiennent des millions ou des milliards d'instances. Ces ensembles de données sont généralement structurés comme des feuilles de calcul, permettant une recherche manuelle ou automatisée. \n\nL'article fournit des exemples d'utilisation de personas à partir de ces ensembles de données, y compris la modification des personas pour explorer différents aspects. Il souligne également l'importance de ces ensembles de données pour les tests à grande échelle de l'IA et la génération de données synthétiques. En conclusion, l'article suggère que l'utilisation de ces ensembles de données peut rationaliser le travail des utilisateurs d'IA, leur permettant de travailler plus intelligemment.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67942b63242a3d8366fa0ad5/0x0.jpg?format=jpg&crop=1593,1193,x98,y0,safe&width=440",
-        "date": "Sat, 25 Jan 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Apple renforce son équipe de direction pour stimuler ses efforts en matière d'IA",
-        "link": "https://www.theverge.com/2025/1/24/24351391/apple-change-ai-team-siri-upgrades-kim-vorrath",
-        "body": "Résumé : Apple déplace Kim Vorrath, vétérane de l'entreprise ayant travaillé sur le logiciel de l'iPhone original, vers sa division d'intelligence artificielle et d'apprentissage automatique, où elle servira de bras droit au patron de l'IA, John Giannandrea. Ce changement de direction vise à apporter plus de rigueur au développement de l'IA chez Apple et à renforcer ses efforts en matière d'IA, annoncés lors de la WWDC l'année dernière. La société se concentre sur la refonte de l'infrastructure sous-jacente de Siri et l'amélioration de ses modèles d'IA internes, mais son impact n'a pas été aussi important que celui de ChatGPT ou de Gemini de Google. De plus, le déploiement des nouvelles fonctionnalités d'IA d'Apple est lent, et une mise à niveau majeure de Siri pourrait ne pas arriver avant iOS 18.4. Les notifications d'actualités alimentées par l'IA seront également interrompues dans iOS 18.3 en raison de critiques concernant leur inexactitude.",
-        "image": "",
-        "date": "Fri, 24 Jan 2025 23:44:04 GMT"
     }
 ]
