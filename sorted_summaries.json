@@ -1,5 +1,26 @@
 [
     {
+        "title": "Les géants de la tech et l'avenir de l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+        "body": "Les grandes entreprises technologiques comme Microsoft, Google et OpenAI rendent la technologie des chatbots basée sur des modèles linguistiques volumineux plus accessible au grand public. DeepSeek, une startup chinoise, a lancé Janus-Pro, un nouveau modèle d'IA open source, tandis que Meta améliore les capacités de mémoire de son chatbot. L'assistant IA de DeepSeek est devenu populaire, mais limite désormais les inscriptions en raison d'attaques malveillantes. L'intégration de Gemini de Google dans Google Drive s'améliore, et l'entreprise a également lancé Deep Research, un outil d'IA pour la recherche Web détaillée. D'autres développements incluent l'amélioration de l'accessibilité de l'outil d'assistance à la codification de Microsoft, l'amélioration de l'accessibilité de l'outil d'assistance à la codification de Microsoft, et l'utilisation de l'IA par Dexcom pour des rapports hebdomadaires plus personnalisés pour les personnes atteintes de diabète de type 2.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
+        "date": "Mon, 27 Jan 2025 18:02:27 GMT"
+    },
+    {
+        "title": "DeepSeek sous pression",
+        "link": "https://www.theverge.com/2025/1/27/24353023/deepseek-ai-app-restricting-sign-ups-malicious-attacks",
+        "body": "L'assistant IA de DeepSeek a récemment atteint le sommet des classements de l'App Store d'Apple aux États-Unis. Cependant, ils limitent désormais les inscriptions de nouveaux utilisateurs en raison d'attaques malveillantes à grande échelle sur leurs services. DeepSeek a connu des pannes et des problèmes de performance, empêchant les utilisateurs de se connecter ou de créer de nouveaux comptes. Bien que l'incident ait été résolu, aucune information n'a été fournie sur les attaques signalées. La forte demande de l'application, qui rivalise avec ChatGPT et Claude d'OpenAI, pourrait également avoir contribué aux problèmes. DeepSeek a initialement limité les inscriptions aux numéros de téléphone mobiles chinois, mais cette restriction a depuis été supprimée. Les inscriptions via Google, Apple ID et e-mail sont actuellement disponibles.",
+        "image": "",
+        "date": "Mon, 27 Jan 2025 17:14:20 GMT"
+    },
+    {
+        "title": "DeepSeek dépasse ChatGPT",
+        "link": "https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store",
+        "body": "Un chatbot créé par la startup chinoise DeepSeek a récemment dépassé ChatGPT d'OpenAI en tant qu'application gratuite la plus téléchargée sur l'App Store d'Apple aux États-Unis. Le succès de DeepSeek est attribué à son modèle d'IA open source, qui, selon l'entreprise, peut être formé à une fraction du coût et avec beaucoup moins de puces que les modèles leaders sur le marché. Ces affirmations ont ébranlé les marchés financiers, entraînant une baisse du cours de l'action de Nvidia de plus de 12 % en pré-marché. Le modèle de raisonnement R1 de DeepSeek, conçu pour résoudre des problèmes complexes, est à l'origine de l'explosion des téléchargements de l'application. DeepSeek affirme également que son modèle LLM V3, sur lequel R1 est construit, est comparable à GPT-4 d'OpenAI et à Claude 3.5 Sonnet d'Anthropic, mais à un coût de développement bien inférieur. Ces affirmations non vérifiées incitent les développeurs et les investisseurs à remettre en question l'approche à forte intensité de calcul adoptée par les principales entreprises d'IA. Si elles s'avèrent exactes, cela signifierait que les ingénieurs de DeepSeek ont fait preuve de créativité pour contourner les restrictions commerciales visant à assurer la domination américaine dans le domaine de l'IA.",
+        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25848982/STKB320_DEEPSEEK_AI_CVIRGINIA_A.jpg",
+        "date": "Mon, 27 Jan 2025 12:49:00 GMT"
+    },
+    {
         "title": "L'aube d'une nouvelle ère pour l'IA",
         "link": "https://www.forbes.com/sites/sylvainduranton/2025/01/27/2024-a-landmark-year-in-the-evolution-of-ai/?ss=ai",
         "body": "Bien que 2023 ait été une année marquante pour l'IA avec l'émergence de ChatGPT d'OpenAI, des doutes ont rapidement surgit concernant son adoption professionnelle et des « hallucinations » dans les réponses ont fait les gros titres. En 2024, la situation a changé, avec une adoption généralisée de l'IA générative par les entreprises, entraînant des gains de temps importants pour les employés et une résolution de la crise des « hallucinations » grâce à des données propriétaires et soigneusement sélectionnées. Le paysage concurrentiel s'est également transformé, avec l'entrée en jeu de géants technologiques américains, de startups et de joueurs du Sud global. L'appel à une pause dans la recherche sur l'IA générative n'a pas été suivi, et des progrès ont été réalisés dans l'élaboration de réglementations, notamment avec l'Acte sur l'IA de l'UE. En 2025, l'IA reste une priorité stratégique pour de nombreuses entreprises, avec des innovations dans les modèles autonomes et l'intégration de l'IA dans la robotique. Cependant, des défis persistent, notamment les coûts des modèles, la cybersécurité, les utilisations malveillantes et la demande énergétique insatiable de l'IA.",
@@ -103,26 +124,5 @@
         "body": "L'article met en évidence l'efficacité de l'IA en tant qu'outil d'éducation, en particulier pour le soutien scolaire. Les essais randomisés de Mollick montrent que six semaines d'apprentissage avec un modèle d'IA équivaut à deux années de progrès scolaires, surpassant 80 % des autres interventions éducatives. L'IA est particulièrement bénéfique pour les étudiants en difficulté, notamment les filles. L'article de MIT cite également Patrick Suppes, lauréat de la National Medal of Science, qui a prédit dans les années 1960 que l'edtech permettrait aux étudiants d'avoir un tuteur aussi informé et réactif qu'Aristote. Aujourd'hui, avec l'avènement de l'IA générative et des modèles linguistiques, cette promesse semble se réaliser. L'IA offre un soutien personnalisé, un retour adaptatif et encourage les étudiants, créant un \"échafaudage cognitif\" qui libère leur propre pensée. L'article cite également la méthode Socratique, où l'étudiant devrait faire 70 % du travail, l'IA permettant ainsi un apprentissage plus autonome et efficace.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679573e3b72cc2858ab4d673/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 25 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La course à l'investissement dans l'IA",
-        "link": "https://www.forbes.com/sites/ronschmelzer/2025/01/25/survey-67-of-execs-funnel-250m-into-ai-to-accelerate-transformation/?ss=ai",
-        "body": "Les dirigeants d'entreprise misent de plus en plus sur l'IA, anticipant qu'elle transformera fondamentalement leurs activités dans les prochaines années. Une enquête de KPMG révèle que 56 % des dirigeants prévoient une transformation significative dans l'année à venir, et 67 % dans les deux prochaines années. Les investissements dans l'IA générative (GenAI) augmentent considérablement, avec 68 % des dirigeants prévoyant d'investir entre 50 et 250 millions de dollars au cours des 12 prochains mois. Cette tendance est confirmée par d'autres études, comme celle de Deloitte, qui soulignent l'adoption rapide de l'IA par les entreprises. Les pressions macroéconomiques et la qualité des données sont des facteurs clés influençant les stratégies d'IA, et la majorité des organisations explorent l'utilisation d'agents IA, bien que leur déploiement réel soit plus faible. La direction et les cadres supérieurs utilisent davantage les outils GenAI que les employés de niveaux inférieurs, et bien que les entreprises prévoient d'intégrer la formation GenAI, l'adoption par les employés est actuellement faible. L'IA est en train de devenir un impératif concurrentiel à court terme, et son pouvoir transformateur n'est plus hypothétique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679523bfb13ce1d4a2f3fd94/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 25 Jan 2025 17:48:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans l'industrie technologique",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. Ces outils d'IA fonctionnent grâce à des programmes d'autocompletion qui analysent les propriétés statistiques du langage, mais ils peuvent également présenter de fausses informations comme des vérités. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les fonctionnalités de codage, les problèmes de sécurité et d'addiction, l'intégration de l'IA dans les systèmes d'exploitation et les applications, ainsi que les progrès dans le traitement du langage naturel et la génération d'images. L'IA est intégrée dans une variété de produits, des moniteurs de glucose aux plateformes de médias sociaux, et son rôle dans la création de contenu en ligne soulève des questions de confiance et d'éthique. Enfin, l'article explore la course à l'IA entre les grandes entreprises technologiques et leur quête pour créer une application phare qui révolutionnera l'espace.",
-        "image": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg",
-        "date": "Sat, 25 Jan 2025 17:28:34 GMT"
-    },
-    {
-        "title": "L'avenir de l'emploi à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/nishatalagala/2025/01/25/the-two-jobs-of-the-ai-future/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6466bf52af8259d26f41e295/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 25 Jan 2025 16:00:00 GMT"
     }
 ]
