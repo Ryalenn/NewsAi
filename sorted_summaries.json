@@ -1,5 +1,19 @@
 [
     {
+        "title": "DeepSeek, un concurrent sérieux pour les géants de l'IA",
+        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai",
+        "body": "DeepSeek, une startup chinoise, fait parler d'elle en affirmant que ses modèles d'IA open-source sont moins chers et tout aussi performants que ceux de ses concurrents. Son modèle phare, R1, rivaliserait avec o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a même fait chuter la valeur des actions de Nvidia de 17 %, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière en une journée. L'assistant IA de DeepSeek est alimenté par le modèle DeepSeek-V3, permettant aux utilisateurs de poser des questions, de planifier des voyages et de générer du texte. La startup a restreint les inscriptions en raison d'attaques malveillantes, alors que les téléchargements de son application ont explosé. DeepSeek, fondée en 2023, se distingue par sa capacité à construire des modèles d'IA puissants et économiques, malgré les contrôles stricts des exportations américaines qui limitent l'accès aux cartes graphiques haute performance en Chine.",
+        "image": "",
+        "date": "Tue, 28 Jan 2025 00:22:01 GMT"
+    },
+    {
+        "title": "DeepSeek Challenge",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/27/deepseek-announcement-sinks-the-american-tech-market/?ss=ai",
+        "body": "Les investisseurs s'interrogent sur l'impact à long terme de l'annonce de DeepSeek, une entreprise chinoise, qui présente un nouveau modèle de raisonnement efficace, sur l'industrie de l'IA. DeepSeek prétend offrir un modèle de raisonnement supérieur à moindre coût que ses concurrents américains, ce qui a entraîné des pertes à deux chiffres pour Nvidia et une baisse de 6 % pour Palantir. Certains suggèrent que la nouvelle a effrayé les investisseurs américains, craignant que les États-Unis perdent leur domination sur le marché de l'IA et des centres de données. D'autres, comme Fares Hendi de Prevoir AM, attendent d'en savoir plus sur la promesse technologique de DeepSeek avant de prendre des décisions. L'annonce de DeepSeek est considérée comme le \"moment Sputnik\" de l'Amérique pour l'ère de l'IA, soulignant la concurrence croissante de la Chine dans ce domaine. Les experts financiers suggèrent que la nouvelle a mis en évidence la survalorisation des actions liées à l'IA américaine et la sous-valorisation de leurs homologues chinoises. L'avenir de la domination américaine dans le domaine de l'IA est incertain, et il est probable que la Chine et les États-Unis coexistent avec des systèmes d'IA spécialisés dans leurs propres hémisphères.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6797fbfe5fb7c77b5117bd22/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 27 Jan 2025 21:00:00 GMT"
+    },
+    {
         "title": "Apple Intelligence Activé par Défaut",
         "link": "https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default",
         "body": "Apple a publié iOS 18.3, qui apporte des modifications aux résumés de notifications basées sur l'IA. La mise à jour désactive temporairement les résumés de notifications pour les applications d'actualité et de divertissement, suite à une controverse concernant un résumé erroné d'un titre de la BBC. La fonctionnalité peut être réactivée manuellement. De plus, la mise à jour active par défaut Apple Intelligence sur les appareils compatibles (iPhone 15 Pro et versions ultérieures, iPads et Macs avec la puce M1). La mise à jour iOS 18.3 introduit également de nouvelles fonctionnalités d'IA, telles que la possibilité d'ajouter des événements au calendrier à partir d'une affiche ou d'un flyer, et l'identification des plantes et des animaux. De plus, les résumés de notifications seront affichés en italique et de nouvelles options de gestion des résumés de notifications depuis l'écran de verrouillage seront disponibles.",
@@ -138,26 +152,5 @@
         "body": "L'IA generative peut être un outil précieux pour aider les utilisateurs à briser la glace et à entamer des conversations de manière fluide et confiante. En simulant des interactions sociales, l'IA peut suggérer des approches efficaces et appropriées pour engager une discussion. L'article souligne l'importance de la pratique et de la préparation, et suggère que l'IA peut jouer un rôle de partenaire de conversation virtuel, aidant les utilisateurs à développer leurs compétences sociales et à surmonter leurs peurs. L'IA peut également offrir des conseils et des suggestions personnalisés, tout en étant disponible 24 heures sur 24, ce qui en fait un outil pratique pour ceux qui cherchent à améliorer leurs compétences sociales. Cependant, l'auteur met en garde contre les possibles conséquences négatives de l'utilisation de l'IA dans ce contexte, soulignant qu'il s'agit d'une forme de thérapie non réglementée qui peut potentiellement influencer négativement les utilisateurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6653b7404b61281c31ca891b/0x0.jpg?format=jpg&crop=1307,979,x46,y0,safe&width=440",
         "date": "Sun, 26 Jan 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Publicité pour les startups : stratégies économiques et efficaces",
-        "link": "https://www.forbes.com/sites/johnhall/2025/01/26/5-cost-effective-advertising-strategies-for-startups/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679019bfdc6c05d165a84bbb/0x0.jpg?format=jpg&crop=3056,2290,x0,y0,safe&width=440",
-        "date": "Sun, 26 Jan 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'échec de l'IA française Lucie",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2484296_lia-francaise-lucie-pourquoi-son-lancement-tourne-au-fiasco",
-        "body": "Lucie, un projet d'IA générative développé dans le cadre du plan d'investissement public France 2030, est le fruit de la collaboration entre l'entreprise privée Linagora et le CNRS. L'objectif était de créer une IA open source alignée sur les valeurs européennes, avec Linagora à la tête du développement technique et le CNRS apportant son expertise scientifique. Cependant, peu après son lancement, Lucie a fait face à de nombreuses critiques en raison de ses erreurs basiques, telles que confondre les œufs de poule et de vache et échouer dans des calculs simples. Ces problèmes ont été attribués à un timing précipité, à l'absence de tests de qualité élémentaires et à une communication maladroite. En conséquence, le chatbot basé sur Lucie a été fermé peu après son lancement, mais il reste accessible via Vittascience.com.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-81-1-768x480.jpg?resize=187,187&key=0d43f0ea",
-        "date": "Sat, 25 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un tuteur efficace pour les étudiants ?",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/25/ai-for-data-driven-tutoring-solutions-is-socrates-here/?ss=ai",
-        "body": "L'article met en évidence l'efficacité de l'IA en tant qu'outil d'éducation, en particulier pour le soutien scolaire. Les essais randomisés de Mollick montrent que six semaines d'apprentissage avec un modèle d'IA équivaut à deux années de progrès scolaires, surpassant 80 % des autres interventions éducatives. L'IA est particulièrement bénéfique pour les étudiants en difficulté, notamment les filles. L'article de MIT cite également Patrick Suppes, lauréat de la National Medal of Science, qui a prédit dans les années 1960 que l'edtech permettrait aux étudiants d'avoir un tuteur aussi informé et réactif qu'Aristote. Aujourd'hui, avec l'avènement de l'IA générative et des modèles linguistiques, cette promesse semble se réaliser. L'IA offre un soutien personnalisé, un retour adaptatif et encourage les étudiants, créant un \"échafaudage cognitif\" qui libère leur propre pensée. L'article cite également la méthode Socratique, où l'étudiant devrait faire 70 % du travail, l'IA permettant ainsi un apprentissage plus autonome et efficace.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679573e3b72cc2858ab4d673/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 25 Jan 2025 23:00:00 GMT"
     }
 ]
