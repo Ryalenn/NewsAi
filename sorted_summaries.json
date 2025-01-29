@@ -21,6 +21,13 @@
         "date": "Wed, 29 Jan 2025 11:00:00 GMT"
     },
     {
+        "title": "Apple Intelligence",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "body": "Apple a récemment publié iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA. Les fonctionnalités incluent la génération d'images, la création d'emoji personnalisés \"Genmoji\", l'intégration de ChatGPT et des outils d'écriture. Les mises à jour non liées à l'IA incluent la possibilité de changer les applications par défaut et de tester son audition avec AirPods. iPadOS 18 dispose désormais d'une application calculatrice et peut résoudre des équations mathématiques dans les notes. Les mises à jour d'Apple Intelligence seront activées par défaut dans les nouvelles versions des systèmes d'exploitation.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2196119675.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 29 Jan 2025 10:38:56 GMT"
+    },
+    {
         "title": "L'avènement de l'IA en tant que commodité",
         "link": "https://www.forbes.com/sites/lutzfinger/2025/01/29/deepseeknew-economic-rules-and-regulatory-challenge/?ss=ai",
         "body": "L'annonce récente de DeepSeek a provoqué une chute du cours de l'action de NVIDIA, entraînant une perte de 600 milliards de dollars en capitalisation boursière. Cette annonce a mis en lumière deux faits importants : (1) la formation de modèles d'IA devient moins coûteuse, et (2) les modèles d'IA peuvent s'entraîner eux-mêmes, réduisant encore davantage les coûts. Ces insights ne sont pas nouveaux, mais l'érosion des coûts fait que l'IA devient une commodité, ce qui a un impact profond sur les dirigeants d'entreprise et les gouvernements. DeepSeek-R1-Zero est le premier modèle d'IA à grande échelle formé uniquement par apprentissage par renforcement, éliminant ainsi le besoin de feedback humain. Bien que le concept d'IA s'entraînant elle-même ne soit pas nouveau, l'impressionnant de DeepSeek est son faible coût de formation. Cette situation crée un défi pour les investisseurs, qui se demandent comment récupérer leur investissement dans un contexte de diminution des coûts et de modèles d'IA open source. De plus, la recherche sur les modèles d'IA de pointe peut présenter un désavantage économique car les modèles d'IA peuvent entraîner d'autres modèles d'IA, rendant obsolètes les modèles précédents. Les mesures protectionnistes traditionnelles peuvent s'avérer inefficaces, comme le montre l'exemple de DeepSeek, qui, malgré l'interdiction d'utiliser le matériel haut de gamme, a développé une approche très efficace et est devenu meilleur que les principales entreprises américaines d'IA. L'IA devenant une commodité, la véritable difficulté réside désormais dans la réglementation et les aspects économiques, plutôt que dans la technologie elle-même.",
@@ -292,40 +299,5 @@
         "body": "Lors du Samsung Unpacked, le Project Moohan, un casque de réalité mixte développé en collaboration avec Google, a été présenté. Marques Brownlee (MKBHD) a pu le tester et le compare à un Nexus ou un Pixel, mais pour les casques. Le design est similaire au Vision Pro d'Apple, mais Samsung se distingue par des choix techniques intelligents, comme une batterie externe USB-C détachable. L'IA de Google est profondément intégrée, permettant une navigation fluide via des commandes vocales. L'affichage offre une netteté impressionnante, et l'expérience globale est prometteuse pour la démocratisation de la réalité mixte.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/i-tried-samsungs-secret-android-xr-headset-1-12-screenshot-1200x600-1-768x384.jpg?resize=150,150&key=a65a83f4",
         "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek Challenge",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/27/deepseek-announcement-sinks-the-american-tech-market/?ss=ai",
-        "body": "Les investisseurs s'interrogent sur l'impact à long terme de l'annonce de DeepSeek, une entreprise chinoise, qui présente un nouveau modèle de raisonnement efficace, sur l'industrie de l'IA. DeepSeek prétend offrir un modèle de raisonnement supérieur à moindre coût que ses concurrents américains, ce qui a entraîné des pertes à deux chiffres pour Nvidia et une baisse de 6 % pour Palantir. Certains suggèrent que la nouvelle a effrayé les investisseurs américains, craignant que les États-Unis perdent leur domination sur le marché de l'IA et des centres de données. D'autres, comme Fares Hendi de Prevoir AM, attendent d'en savoir plus sur la promesse technologique de DeepSeek avant de prendre des décisions. L'annonce de DeepSeek est considérée comme le \"moment Sputnik\" de l'Amérique pour l'ère de l'IA, soulignant la concurrence croissante de la Chine dans ce domaine. Les experts financiers suggèrent que la nouvelle a mis en évidence la survalorisation des actions liées à l'IA américaine et la sous-valorisation de leurs homologues chinoises. L'avenir de la domination américaine dans le domaine de l'IA est incertain, et il est probable que la Chine et les États-Unis coexistent avec des systèmes d'IA spécialisés dans leurs propres hémisphères.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6797fbfe5fb7c77b5117bd22/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 27 Jan 2025 21:00:00 GMT"
-    },
-    {
-        "title": "Protection des données",
-        "link": "https://www.bloomberg.com/news/articles/2025-01-27/nvidia-calls-deepseek-excellent-ai-advance-dismisses-concerns?utm_content=business&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business&utm_source=twitter&utm_medium=social",
-        "body": "Résumé : Cet article souligne l'importance de la protection des données et de la confidentialité en ligne. Il met en évidence la nécessité pour les utilisateurs de s'assurer que leur navigateur prend en charge JavaScript et les cookies, tout en veillant à ne pas bloquer leur chargement. L'article mentionne également les politiques de l'entreprise en matière de conditions de service et de cookies, ainsi que les coordonnées de l'équipe de support pour toute question connexe. Ceci est particulièrement pertinent pour le domaine de l'IA, où la protection des données et l'éthique sont des sujets cruciaux, et où la conformité aux politiques de confidentialité et aux réglementations en matière de données est essentielle.",
-        "image": "",
-        "date": "Mon, 27 Jan 2025 20:40:21 GMT"
-    },
-    {
-        "title": "DeepSeek rivalise avec OpenAI",
-        "link": "https://www.theverge.com/2025/1/27/24352801/deepseek-ai-chatbot-chatgpt-ios-app-store",
-        "body": "Un chatbot créé par la startup chinoise DeepSeek a récemment détrôné ChatGPT d'OpenAI en tant qu'application gratuite la plus téléchargée sur l'App Store d'Apple aux États-Unis. Le modèle de DeepSeek, selon l'entreprise, peut être formé à une fraction du coût et avec beaucoup moins de puces que les modèles leaders sur le marché. Cette affirmation a secoué les marchés financiers, faisant chuter le prix de l'action de Nvidia de plus de 12 % en pré-marché. Le modèle R1 de DeepSeek, conçu pour résoudre des problèmes complexes, est à l'origine de l'explosion des téléchargements. DeepSeek affirme que son modèle V3, sur lequel est basé R1, est comparable à GPT-4 d'OpenAI et à Claude 3.5 Sonnet d'Anthropic, pour un coût de développement inférieur à 6 millions de dollars. En comparaison, le coût de formation de GPT-4 est estimé à plus de 100 millions de dollars par le PDG d'OpenAI. DeepSeek a également déclaré n'avoir besoin que de 2 000 puces spécialisées de Nvidia pour former son modèle, contre 16 000 ou plus pour les modèles concurrents. Ces affirmations non vérifiées incitent les développeurs et les investisseurs à remettre en question l'approche à forte intensité de calcul adoptée par les principales entreprises d'IA. Si elles s'avèrent exactes, cela signifierait que les ingénieurs de DeepSeek ont fait preuve de créativité malgré les restrictions commerciales visant à assurer la domination américaine dans le domaine de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626313/247263_iphone_16_pro_AKrales_1062.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 27 Jan 2025 18:44:25 GMT"
-    },
-    {
-        "title": "Apple Intelligence",
-        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
-        "body": "Apple a publié iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA comprenant la génération d'images, la création d'emoji personnalisés et l'intégration de ChatGPT. Apple Intelligence sera activé par défaut à partir d'iOS 18.3, iPadOS 18.3 et macOS 15.3. La fonctionnalité de résumé des notifications a été critiquée pour des résumés inexacts, et Apple a répondu en modifiant la façon dont les résumés sont affichés. Les autres mises à jour incluent des améliorations pour Voice Memos, Vision Pro et la possibilité de définir des applications de paiement par défaut.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 27 Jan 2025 18:44:25 GMT"
-    },
-    {
-        "title": "Apple Intelligence Activé par Défaut",
-        "link": "https://www.theverge.com/2025/1/27/24353079/ios-18-3-launch-notification-summaries-apple-intelligence-default",
-        "body": "Apple a publié iOS 18.3, qui apporte des modifications aux résumés de notifications basées sur l'IA. La mise à jour désactive temporairement les résumés de notifications pour les applications d'actualité et de divertissement, suite à une controverse concernant un résumé erroné d'un titre de la BBC. La fonctionnalité peut être réactivée manuellement. De plus, la mise à jour active par défaut Apple Intelligence sur les appareils compatibles (iPhone 15 Pro et versions ultérieures, iPads et Macs avec la puce M1). La mise à jour iOS 18.3 introduit également de nouvelles fonctionnalités d'IA, telles que la possibilité d'ajouter des événements au calendrier à partir d'une affiche ou d'un flyer, et l'identification des plantes et des animaux. De plus, les résumés de notifications seront affichés en italique et de nouvelles options de gestion des résumés de notifications depuis l'écran de verrouillage seront disponibles.",
-        "image": "",
-        "date": "Mon, 27 Jan 2025 18:44:25 GMT"
     }
 ]
