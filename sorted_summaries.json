@@ -1,5 +1,40 @@
 [
     {
+        "title": "DeepSeek's Cost-Efficient AI Models Spark Debate",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/30/no-deepseek-is-not-a-sputnik-moment/?ss=ai",
+        "body": "La communauté de l'IA est en émoi après que DeepSeek, une entreprise chinoise, ait présenté des modèles d'IA moins coûteux à produire, rivalisant avec ceux des entreprises américaines pour une fraction du coût de développement. Certains fondateurs d'entreprises de l'IA affirment que l'importance des coûts de formation de DeepSeek a été exagérée. DeepSeek a réduit ses coûts en s'appuyant sur des modèles de langage ouvert existants, comme Llama de Meta. Malgré le battage médiatique, les progrès de DeepSeek ne représentent pas une percée révolutionnaire, mais plutôt une optimisation des techniques existantes. L'entreprise a utilisé le renforcement, une technique bien connue, et a rendu sa technologie accessible à tous. DeepSeek a toutefois suscité un débat nécessaire sur l'efficacité des coûts dans un domaine où des entreprises comme OpenAI cherchent des milliards de dollars pour construire des centres de données. La controverse entoure également les allégations d'OpenAI selon lesquelles DeepSeek aurait violé ses conditions d'utilisation en grattant les sorties de ses modèles propriétaires.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679bdebabb801b7f199245f7/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 21:00:00 GMT"
+    },
+    {
+        "title": "Nvidia's Rivals Rejoice",
+        "link": "https://www.forbes.com/sites/richardnieva/2025/01/30/why-these-ai-chip-startups-are-rejoicing-over-the-deepseek-freakout/?ss=ai",
+        "body": "Les rivaux de Nvidia, notamment Cerebras, SambaNova et Groq, se réjouissent de l'émergence de DeepSeek, une startup chinoise qui a récemment secoué le marché de l'IA en démontrant qu'il est possible d'obtenir des résultats presque aussi bons que les meilleurs acteurs américains à une fraction du coût. DeepSeek a ouvert la voie à une nouvelle approche de l'IA, en mettant l'accent sur l'efficacité et l'accessibilité, ce qui pourrait entraîner une explosion de l'utilisation de l'IA. Les entreprises spécialisées dans l'inférence, le processus permettant aux modèles IA de « penser » et de raisonner, comme Cerebras, sont particulièrement bien placées pour tirer parti de cette évolution. Bien que les affirmations de DeepSeek concernant le faible coût de formation de son modèle soient controversées, elles ont néanmoins impressionné l'industrie et mis en évidence l'importance de l'inférence dans l'amélioration des performances de l'IA. La réaction des rivaux de Nvidia est considérée comme intéressée, car ils cherchent à contester la domination de l'entreprise sur le marché de l'IA, mais elle souligne également l'impact de DeepSeek sur l'évolution du paysage de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679bcec26249096883c80793/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 19:00:00 GMT"
+    },
+    {
+        "title": "Deutsche Bank's DeepSeek AI Memes",
+        "link": "https://www.ft.com/content/4b39c2d8-56d0-439f-9eb5-0b16b31bd301?shareType=nongift",
+        "body": "La banque Deutsche Bank a créé un deck de 25 memes pour expliquer les implications de l'arrivée surprise du modèle d'IA DeepSeek de la Chine. Les memes couvrent divers sujets, y compris le changement de focus de l'industrie vers l'optimisation des modèles LLM plus petits, l'évolution des déploiements d'IA vers des systèmes interconnectés autonomes, et les modèles de revenus des entreprises technologiques pour l'IA. Les memes abordent également les disputes sur les droits d'auteur, les hallucinations, les boucles de rétroaction biaisées, le protectionnisme et la surréglementation. La banque reconnaît également la méfiance du public envers l'IA et souligne l'exposition de l'emploi mondial à l'IA, ainsi que les salaires élevés des ingénieurs en IA.",
+        "image": "",
+        "date": "Thu, 30 Jan 2025 18:40:10 GMT"
+    },
+    {
+        "title": "DeepSeek's Rise",
+        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
+        "body": "DeepSeek, une startup chinoise, bouleverse le secteur de l'IA avec des modèles de langage à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Son modèle phare R1 est capable de performances comparables au modèle o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a un impact sur les marchés financiers, avec une chute de 17 % des actions de Nvidia, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière le 27 janvier. L'assistant IA de DeepSeek est alimenté par son modèle DeepSeek-V3 de pointe, permettant aux utilisateurs de poser des questions, de planifier des voyages et de générer du texte. La startup a attiré l'attention en construisant des modèles IA open-source avec moins d'argent et de GPU que les entreprises leaders du secteur. DeepSeek fait l'objet d'enquêtes de la part d'OpenAI et de Microsoft, qui soupçonnent l'utilisation de leurs données pour entraîner les modèles de DeepSeek. La startup a également connu des problèmes de sécurité, exposant les historiques de discussion des utilisateurs et d'autres informations sensibles. Malgré cela, DeepSeek continue de gagner en popularité et de perturber le marché, avec le soutien de Microsoft qui intègre le modèle R1 dans sa plateforme Azure AI Foundry.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 30 Jan 2025 18:40:10 GMT"
+    },
+    {
+        "title": "DeepSeek expose des données sensibles",
+        "link": "https://www.theverge.com/news/603163/deepseek-breach-ai-security-database-exposed#comments",
+        "body": "Des chercheurs en sécurité ont découvert une base de données exposée appartenant à la startup chinoise d'IA DeepSeek, qui contenait des informations sensibles telles que les historiques de chat des utilisateurs, les clés d'authentification API et les journaux système. La base de données était accessible publiquement, sans aucune authentification requise, et était hébergée dans un système de gestion de données open source appelé ClickHouse. L'exposition a potentiellement permis un contrôle total de la base de données et une escalade des privilèges au sein de l'environnement DeepSeek, ce qui aurait pu donner aux acteurs malveillants un accès aux systèmes internes de la startup. DeepSeek a sécurisé la base de données après avoir été notifié du problème, mais il n'est pas clair si des personnes non autorisées ont pu accéder aux données exposées auparavant. Les chercheurs ont souligné que les systèmes de DeepSeek sont conçus de manière similaire à ceux d'OpenAI, ce qui a conduit OpenAI à accuser DeepSeek d'utiliser ses données pour entraîner ses modèles d'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848982/STKB320_DEEPSEEK_AI_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 30 Jan 2025 17:41:15 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : des modèles accessibles et efficaces",
         "link": "https://www.theverge.com/notepad-microsoft-newsletter/603170/microsoft-deepseek-ai-azure-notepad#comments",
         "body": "Microsoft s'adapte rapidement à l'évolution du paysage de l'IA, adoptant le modèle R1 de DeepSeek, une startup chinoise, qui offre des performances similaires au modèle o1 d'OpenAI à un prix bien inférieur. Cette décision, soutenue par le PDG Satya Nadella, démontre la volonté de Microsoft de réduire les coûts de l'IA et d'améliorer son accessibilité. DeepSeek a secoué le monde de l'IA en présentant son modèle R1, entraînant une perte de 600 milliards de dollars de la valeur marchande de Nvidia. La rapidité de Microsoft à adopter R1 souligne sa préparation à ce changement, avec Nadella anticipant une évolution vers l'efficacité computationnelle. Microsoft explore la possibilité de déployer R1 sur Azure AI Foundry, GitHub et ses outils Copilot, augmentant ainsi les capacités de l'IA sur Windows. L'entreprise vise à réduire les coûts de l'IA et à augmenter sa consommation, comme l'indique Nadella en faisant référence au paradoxe de Jevons. Pendant ce temps, OpenAI s'associe à SoftBank pour Stargate, un projet de centre de données d'IA, mais conserve un accord de partage de revenus avec Microsoft, donnant à ce dernier une flexibilité stratégique.",
@@ -33,6 +68,13 @@
         "body": "Microsoft rend accessible à tous les utilisateurs de Copilot, et sans frais supplémentaire, le modèle de raisonnement o1 d'OpenAI. Cette fonctionnalité, appelée \"Think Deeper\", permet à Copilot de traiter des questions plus complexes et de fournir des réponses détaillées étape par étape. Introduite initialement en octobre en tant que fonctionnalité payante de Copilot Pro, elle est désormais disponible gratuitement pour tous les utilisateurs. La fonctionnalité \"Think Deeper\" peut être activée en appuyant sur un bouton, et elle prend environ 30 secondes pour réfléchir à la question sous différents angles. Cette annonce a été faite par Mustafa Suleyman, PDG de Microsoft AI, qui a exprimé son enthousiasme à l'idée d'offrir cette opportunité aux dizaines de millions d'utilisateurs de Copilot.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357666/STK259_MICROSOFT_COPILOT_2__A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 30 Jan 2025 15:42:03 GMT"
+    },
+    {
+        "title": "AI for Bioscience",
+        "link": "https://www.theverge.com/2024/7/10/24195752/openai-partners-with-los-alamos-national-laboratory",
+        "body": "OpenAI s'associe au Los Alamos National Laboratory pour explorer l'utilisation de modèles d'IA avancés, tels que GPT-4o, dans la recherche en bioscience. L'objectif est de tester la capacité de l'IA à aider les scientifiques dans l'exécution de tâches de laboratoire à l'aide de modalités visuelles et vocales.",
+        "image": "",
+        "date": "Thu, 30 Jan 2025 15:15:00 GMT"
     },
     {
         "title": "Anticiper l'avenir avec l'intelligence hybride",
@@ -131,6 +173,13 @@
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes, appelés grands modèles linguistiques, fonctionnent en analysant les propriétés statistiques du langage, permettant de faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de faits codés en dur, ils peuvent générer des réponses plausibles, mais doivent faire face au défi de présenter des informations fausses comme vraies. L'article explore les nouveaux développements dans le domaine, y compris les capacités améliorées, les controverses et l'intégration dans diverses plateformes et applications.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 29 Jan 2025 23:01:15 GMT"
+    },
+    {
+        "title": "La révolution de la vision par IA : quand la fiction devient réalité",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2489842_chatgpt-ouvre-les-yeux-la-revolution-de-la-vision-en-direct-debarque-en-france",
+        "body": "OpenAI a récemment déployé en Europe sa fonction \"Live Camera\" pour ChatGPT, permettant à l'IA de voir et de comprendre le monde en temps réel. Cette technologie, basée sur le modèle GPT-4, peut décrire l'environnement avec une précision étonnante, ce qui pourrait révolutionner la vie des personnes malvoyantes. Bien que perfectible et soulevant des questions de confidentialité, cette avancée rapproche un peu plus la fiction du film \"Her\" où l'homme tombe amoureux d'une IA, de la réalité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-93-768x512.jpg?resize=200,200&key=7d9d079c",
+        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
     },
     {
         "title": "Des chercheurs reproduisent une IA de pointe pour 30 dollars",
@@ -299,33 +348,5 @@
         "body": "L'entreprise Helion Energy a conclu un accord avec Microsoft pour lui fournir de l'énergie issue de la fusion nucléaire. La technologie, encore immature, pourrait offrir une source d'énergie abondante et propre pour alimenter les besoins croissants en énergie de l'IA. Helion Energy fait face à des défis de production et de demande de semi-conducteurs, mais vise une mise en service de sa centrale dès 2028. Google explore également cette technologie, malgré les incertitudes sur son empreinte carbone.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/microsoft-logo-photo-1200x800-2-768x512.jpg?resize=200,200&key=1a851bdc",
         "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de l'open source dans l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/01/28/the-biggest-winner-in-the-deepseek-disruption-story-is-open-source-ai/?ss=ai",
-        "body": "DeepSeek, une entreprise chinoise peu connue, a récemment fait parler d'elle avec son modèle d'IA DeepSeek-R1, qui a suscité l'enthousiasme de l'industrie de l'IA en raison de son coût de développement très inférieur à celui des modèles développés par des entreprises comme OpenAI, Google et Anthropic. Cet événement a relancé le débat sur l'open source dans l'IA et son impact sur la domination traditionnelle des modèles propriétaires. Yann LeCun, scientifique en chef de l'IA chez Meta, est un fervent défenseur de l'open source, affirmant que le succès de DeepSeek-R1 est dû à l'utilisation de recherches et de technologies open source, telles que les modèles Llama de Meta et l'écosystème PyTorch. L'open source permet la liberté de modifier et de construire, offrant ainsi des options plus attrayantes et rentables par rapport aux modèles propriétaires qui nécessitent des investissements massifs. Cet événement a également soulevé des questions sur une éventuelle guerre des prix dans l'IA, la sécurité, les abus et la protection de la vie privée. Malgré certaines préoccupations concernant les origines de DeepSeek et la transparence de ses données d'entraînement, le succès de DeepSeek-R1 démontre la force de l'open source dans l'IA et incite les entreprises à repenser leur dépendance aux modèles propriétaires.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679948c5ea2c5afa31a33e20/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 28 Jan 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA accessible",
-        "link": "https://www.forbes.com/sites/stevemcdowell/2025/01/28/deepseek-unlocks-golden-opportunity-for-it-infrastructure-providers/?ss=ai",
-        "body": "La startup chinoise DeepSeek fait des vagues dans le secteur de la technologie en affirmant avoir obtenu des performances comparables aux modèles d'IA leaders tout en réduisant considérablement les besoins en infrastructure de formation. Bien que cela ait entraîné une vente historique d'actions technologiques, les implications ne sont pas entièrement négatives, même pour les fournisseurs de technologies de base comme Nvidia. Si les affirmations de DeepSeek sont vraies, cela éliminerait les obstacles de coût presque insurmontables de la formation en IA, démocratisant ainsi la technologie. DeepSeek a présenté son modèle DeepSeek-R1, qui, selon lui, rivalise avec les principaux systèmes d'IA tels que GPT-4 d'OpenAI et Llama de Meta. L'importance de cette nouvelle réside dans les techniques utilisées pour créer un LLM compétitif avec une fraction de l'infrastructure et du coût généralement associés à de tels projets. DeepSeek a employé des techniques avancées telles que la précision FP8, l'architecture modulaire et des optimisations de communication propriétaires. Cette approche pourrait perturber le marché actuel dominé par le cloud en rendant la formation en IA accessible à la plupart des entreprises. Bien que cela puisse affecter négativement des entreprises comme OpenAI, cela pourrait élargir le marché pour presque tous les autres acteurs. L'approche de DeepSeek réduit la dépendance aux GPU haut de gamme, mais nécessite toujours une infrastructure de support robuste, y compris un stockage haute performance, une connectivité réseau à faible latence et des frameworks de gestion de données solides. Cette annonce a eu un impact sur le cours de l'action de Nvidia, reflétant les craintes du marché concernant les perturbations potentielles de sa domination sur le marché des GPU pour l'IA. Cependant, Nvidia reste bien positionnée grâce à son écosystème bien établi, qui comprend sa plate-forme CUDA et ses investissements dans des systèmes d'IA tels que DGX et Mellanox. Dans l'ensemble, bien que la nouvelle ait eu un impact négatif sur le cours de l'action des entreprises de silicium sur mesure, elle pourrait s'avérer bénéfique pour elles en fin de compte, car la demande de solutions de réseau à faible latence et à haut débit reste essentielle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67993437f5be869c36403abb/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 28 Jan 2025 20:00:00 GMT"
-    },
-    {
-        "title": "The Future of AI: Microsoft's Azure Ambitions",
-        "link": "https://www.theverge.com/2025/1/22/24349798/satya-nadella-on-elons-stargate-accusations-all-i-know-is-im-good-for-my-80-billion",
-        "body": "Résumé : Dans une interview accordée à CNBC, le PDG de Microsoft, Satya Nadella, a discuté des investissements de l'entreprise dans l'IA, en particulier de son engagement à investir 80 milliards de dollars par an dans le développement de sa plateforme cloud Azure pour prendre en charge les charges de travail d'IA. Bien qu'il ait évité les accusations concernant les capacités financières d'OpenAI et de Softbank, Nadella a souligné l'engagement de Microsoft à faire progresser l'IA, confirmant ainsi la place de l'entreprise dans l'écosystème de l'IA.",
-        "image": "",
-        "date": "Tue, 28 Jan 2025 19:38:02 GMT"
-    },
-    {
-        "title": "La guerre des prix de l'IA",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/01/28/the-looming-ai-price-war-will-affect-us-all/?ss=ai",
-        "body": "Résumé : \n\nUn nouveau venu sur le marché de l'IA, DeepSeek, a déclenché une guerre des prix en Chine en offrant des inférences à des prix extrêmement bas, forçant les géants technologiques chinois à réduire leurs prix. DeepSeek, maintenant avec des modèles rivalisant avec les meilleurs de l'Occident, se prépare à lancer une guerre des prix mondiale, menaçant les marges bénéficiaires des géants technologiques. Cet événement a des implications profondes pour l'accessibilité de l'IA, la disruption de l'industrie et la concurrence mondiale. La guerre des prix de DeepSeek en Chine a servi d'avertissement, soulignant la précarité de l'équilibre entre innovation, accessibilité et rentabilité dans l'industrie de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6799275df3a0ed5b6995ed32/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 28 Jan 2025 19:00:00 GMT"
     }
 ]
