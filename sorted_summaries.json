@@ -1,10 +1,66 @@
 [
     {
+        "title": "IA Agent Builder",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/01/29/postman-unveils-an-api-first-ai-agent-builder/?ss=ai",
+        "body": "Postman, une plateforme API de premier plan, lance l'IA Agent Builder, un outil d'IA générative. Cet outil permet aux développeurs de concevoir, construire, tester et déployer des agents intelligents en intégrant des modèles linguistiques, des API et des workflows. Les agents IA transforment notre interaction avec la technologie, en comprenant le contexte, en prenant des décisions et en exécutant des tâches de manière autonome. La sophistication croissante des agents IA augmente leur dépendance aux API, qui agissent comme un lien crucial vers le monde extérieur. Abhinav Asthana, cofondateur et PDG de Postman, prédit une augmentation de l'utilité des API avec la popularité des agents IA. L'IA Agent Builder de Postman offre diverses applications, notamment la création de chatbots, l'automatisation des processus et l'extraction d'informations. Ses concurrents incluent Dialogflow, IBM Watson et Microsoft Bot Framework. La plateforme complète de Postman, qui combine le développement d'API, l'intégration de LLM et l'automatisation des workflows, la distingue de ses concurrents. L'IA Agent Builder de Postman simplifie l'interaction API, rationalise les workflows et permet la création d'agents intelligents pour des tâches complexes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679abda66955fd9bcc56863d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
+    },
+    {
+        "title": "DeepSeek's Trademark Troubles",
+        "link": "https://techcrunch.com/2025/01/29/deepseek-might-have-a-trademark-problem-in-the-u-s/",
+        "body": "La société chinoise d'IA DeepSeek est confrontée à un nouveau problème : un conflit de marque aux États-Unis. DeepSeek a déposé une demande de marque pour ses applications, produits et outils de chatbot basés sur l'IA, mais une autre entreprise, Delson Group Inc., a déposé une demande similaire 36 heures plus tôt. Delson Group, dirigée par Willie Lu, affirme vendre des produits DeepSeek depuis 2020. La demande de Delson Group mentionne une adresse à Cupertino et son site web propose un cours sur l'IA Super-Intelligence dispensé par Lu. DeepSeek a maintenant des options limitées car, en vertu de la loi américaine, le premier utilisateur d'une marque est généralement considéré comme son propriétaire légitime. Les antécédents de Delson Group suggèrent une histoire de squat de marque, et des experts juridiques affirment que DeepSeek pourrait faire face à un cas solide de violation de marque.",
+        "image": "",
+        "date": "Wed, 29 Jan 2025 21:45:14 GMT"
+    },
+    {
+        "title": "Nomination tumultueuse",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/01/29/iinnovationrx-hhs-nominee-robert-f-kennedy-jr-in-the-hot-seat-at-first-confirmation-hearing/?ss=ai",
+        "body": "Résumé : Lors de son audition de confirmation au Sénat, Robert F. Kennedy Jr., candidat au poste de secrétaire à la Santé et aux Services sociaux, a été critiqué pour son opposition de longue date à la vaccination. Les sénateurs ont également abordé les questions de l'avortement et de la réglementation des médicaments par la FDA. L'article mentionne également le chaos causé par la suspension temporaire des réunions et des financements de recherche de l'Institut national de la santé (NIH) par le président Trump, ainsi que l'approbation par la FDA de doses d'entretien mensuelles pour un médicament contre la maladie d'Alzheimer.\n\nLe titre et le résumé sont : \n\nNomination tumultueuse",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679a73bd3ed48044eee2da8e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 29 Jan 2025 21:00:00 GMT"
+    },
+    {
+        "title": "La révolution de l'IA : DeepSeek, Azure et l'avenir de l'IA",
+        "link": "https://www.theverge.com/news/602162/microsoft-deepseek-r1-model-azure-ai-foundry-github",
+        "body": "Microsoft ajoute le modèle R1 de DeepSeek à sa plateforme Azure AI Foundry et à GitHub. R1, un modèle d'IA développé par la société chinoise DeepSeek, a secoué les marchés financiers américains en raison de son coût de formation nettement inférieur à celui des modèles leaders d'OpenAI. Azure AI Foundry et GitHub offrent désormais R1 dans un catalogue de modèles, permettant aux clients de Microsoft de l'intégrer facilement à leurs applications d'IA. Asha Sharma, vice-présidente de Microsoft AI Platform, souligne la rapidité de l'expérimentation, de l'itération et de l'intégration de l'IA dans les flux de travail grâce à Azure AI Foundry. R1 a également subi des évaluations de sécurité rigoureuses, y compris des tests automatisés et des évaluations de risques approfondies. La sortie de R1 en open source a incité Microsoft à l'intégrer rapidement à Azure. Une version allégée de R1 sera bientôt disponible localement sur les PC Copilot Plus. R1 pourrait également apparaître dans d'autres services alimentés par l'IA de Microsoft. La surprise de Wall Street face à R1 est due à sa capacité à fonctionner avec moins de puces de fournisseurs comme Nvidia, réduisant ainsi considérablement les coûts de formation. Cela a eu un impact significatif sur la valorisation de Nvidia, qui a chuté de près de 600 milliards de dollars. OpenAI et Microsoft enquêtent sur l'utilisation potentielle de l'API OpenAI par DeepSeek pour entraîner ses modèles. Cette révélation a été déclenchée par la détection de grandes quantités de données utilisées via des comptes de développeurs OpenAI, ce qui pourrait être lié à DeepSeek.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 29 Jan 2025 20:37:18 GMT"
+    },
+    {
+        "title": "New World Models",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/01/29/what-can-new-models-do-for-ai/?ss=ai",
+        "body": "L'annonce de la société chinoise DeepSeek concernant son nouveau modèle d'IA à faible coût a eu un impact sur les actions des entreprises technologiques américaines, en particulier Nvidia, qui a chuté de plus de 140 $ à environ 122 $ par action. Les experts suggèrent que l'attrait des modèles open source est un facteur clé, avec l'exemple de Meta et son modèle open source de premier plan. DeepSeek et d'autres innovations démontrent comment les modèles open source peuvent devenir dominants en accomplissant davantage avec moins de ressources. Les chercheurs du MIT CSAIL travaillent sur des systèmes à empreinte réduite, en utilisant la quantification, la compression d'entrée, les jumeaux numériques et la réingénierie des systèmes. Ces nouveaux modèles \"New World\" offriront des alternatives aux techniques traditionnelles de rétropropagation des réseaux neuronaux, permettant des résultats améliorés avec des ressources plus limitées. Ces modèles seront particulièrement utiles pour les services de terminaison, où un LLM robuste sur un smartphone nécessite un système efficace. Les \"New World Networks\" ont le potentiel de perturber le marché et de remplacer les leaders actuels, tels que Nvidia.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679a7659a47c5aeee377db44/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 29 Jan 2025 20:00:00 GMT"
+    },
+    {
+        "title": "DeepSeek-V3 contre Qwen 2.5",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/01/29/alibaba-unveils-qwen-25-a-deepseek-rival/?ss=ai",
+        "body": "La course aux modèles de langage IA de grande envergure s'intensifie avec le lancement de Qwen 2.5 par Alibaba, qui vient concurrencer DeepSeek-V3, lancé en décembre 2024. DeepSeek-V3 se distingue des autres modèles par sa conception unique, qui a nécessité moins de puissance de calcul et a été développée plus rapidement que les modèles dominants comme Claude, ChatGPT, Gemini, Llama et Perplexity. La mise à niveau de l'architecture de l'algorithme de DeepSeek-V3 permet d'obtenir des résultats comparables aux autres LLM, mais à un coût de formation beaucoup plus faible, ce qui a incité les investisseurs à se détourner des actions Nvidia. Meta s'efforce de comprendre le succès rapide et économique de DeepSeek, tandis que ByteDance et Alibaba ont également réagi en améliorant leurs propres modèles d'IA. Alibaba a même affirmé que Qwen 2.5 surpasse DeepSeek-V3. Bien qu'il soit trop tôt pour prédire quel modèle s'imposera en Chine, des préoccupations surgissent concernant la sécurité des données, la vie privée et d'éventuels vols de propriété intellectuelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679a6f93b12cb0cdff29c0bc/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 29 Jan 2025 19:00:00 GMT"
+    },
+    {
+        "title": "La défense du territoire",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/01/29/is-openai-a-victim---deepseek-and-ip-rights---a-playbook-for-leaders/?ss=ai",
+        "body": "Microsoft enquête sur une éventuelle utilisation inappropriée des API OpenAI par DeepSeek, une start-up spécialisée dans l'IA. Cette enquête met en lumière une pratique courante dans le domaine de l'IA appelée \"distillation\", où un modèle d'IA en formation extrait des connaissances d'un modèle formateur. Bien que cette pratique soit techniquement simple à mettre en œuvre, elle soulève des questions éthiques et juridiques, notamment en ce qui concerne la violation des conditions d'utilisation et la protection de la propriété intellectuelle. L'article souligne également l'ironie de la situation, car OpenAI a lui-même entraîné ses modèles initiaux à l'aide de sources publiques, telles que Forbes et le New York Times. En fin de compte, cet incident met en évidence la difficulté de protéger les connaissances dans l'ère de l'IA, et la nécessité pour les entreprises de s'adapter rapidement à un environnement en constante évolution.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679a7840aeac365797a7a8a4/0x0.jpg?format=jpg&crop=1080,506,x0,y396,safe&width=440",
+        "date": "Wed, 29 Jan 2025 19:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA : une nouvelle architecture est nécessaire",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/29/ai-memory-and-context-open-source-deepseek-meta-and-model-research/?ss=ai",
         "body": "Bien que l'IA, en particulier les LLM, ait fait des progrès remarquables, des experts comme Yann LeCun soulignent que nous sommes loin d'avoir atteint un niveau d'intelligence comparable à celui des animaux, et encore moins des humains. La véritable intelligence, selon LeCun et Marvin Minsky, n'est pas linéaire, mais plutôt un ensemble de systèmes collaborant pour produire des résultats précis et robustes. Minsky suggère que l'esprit humain est composé de nombreux agents interconnectés formant une « société de l'esprit », travaillant ensemble vers un objectif commun. LeCun soutient que pour que l'IA progresse, elle a besoin d'une « mémoire persistante » et d'une nouvelle architecture, qu'il appelle « world models », où l'IA construit son propre contexte pour progresser vers un niveau cognitif humain. Il souligne également l'importance de la mémoire paramétrique (long terme) et de la mémoire de travail (court terme) dans les systèmes d'IA, tout comme dans le cerveau humain. Enfin, LeCun commente l'annonce récente de DeepSeek d'un modèle IA open source, suggérant que la concurrence n'est pas entre les pays, mais entre les approches propriétaires et open source.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679a5d9bb8e9823c0c29bc6f/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 29 Jan 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Super Bowl LIX et l'essor de la publicité sur l'IA",
+        "link": "https://www.theverge.com/news/601691/this-years-super-bowl-will-be-full-of-ai-ads#comments",
+        "body": "Mark Evans, vice-président exécutif des ventes publicitaires chez Fox Sports, prévoit une augmentation significative des publicités sur l'IA lors du Super Bowl LIX. Evans a déclaré que certaines entreprises ont payé plus de 8 millions de dollars pour des créneaux de 30 secondes pendant le plus grand événement de la NFL. Les achats d'espaces publicitaires axés sur l'IA sont en hausse, tandis que ceux des studios de cinéma et des plateformes de streaming sont en baisse, en raison des répercussions de la pandémie de Covid et des grèves à Hollywood en 2023. Plus de 10 annonceurs auraient accepté de payer des frais record pour leurs créneaux publicitaires. Bien que la tendance de cette année ne préfigure pas nécessairement l'avenir, elle reflète le battage médiatique actuel autour de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2196119675.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 29 Jan 2025 15:35:18 GMT"
     },
     {
         "title": "L'essor des agents IA",
@@ -19,6 +75,13 @@
         "body": "SecurityPal, une startup basée au Népal, aide les entreprises de haute technologie à répondre aux questionnaires de sécurité fastidieux mais nécessaires pour conclure des contrats avec de grandes entreprises et agences. En combinant un logiciel avec une équipe népalaise, SecurityPal fournit des réponses rapides et économiques, tout en maintenant un équilibre entre l'IA et l'expertise humaine. La startup a connu une croissance rapide, atteignant une valorisation de 105 millions de dollars, et compte parmi ses clients des entreprises de premier plan dans le domaine de l'IA, telles qu'OpenAI, Grammarly et Cursor. SecurityPal utilise maintenant l'IA pour fournir des informations et des recommandations proactives aux clients, tout en continuant à mettre l'accent sur le rôle clé des analystes humains. La startup a également l'ambition de créer un nouveau hub technologique à Katmandou, offrant des salaires compétitifs et des opportunités de carrière pour les talents locaux.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6798051a2eadd4676872b3f9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 29 Jan 2025 11:00:00 GMT"
+    },
+    {
+        "title": "La concurrence chinoise frappe à la porte de l'IA occidentale",
+        "link": "https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data#comments",
+        "body": "La startup chinoise DeepSeek a bousculé le marché de l'IA en proposant des modèles d'IA performants et peu coûteux, rivalisant avec les offres de pointe d'OpenAI, l'entreprise derrière ChatGPT. Cependant, OpenAI et Microsoft soupçonnent que DeepSeek a utilisé illégalement les données et modèles d'OpenAI pour développer ses propres solutions. Des chercheurs en sécurité de Microsoft ont détecté une exfiltration importante de données via des comptes développeurs OpenAI, ce qui a conduit à l'ouverture d'une enquête. Bien que l'extraction de données à partir de modèles existants soit une pratique courante, DeepSeek aurait violé les conditions d'utilisation d'OpenAI en utilisant leur API pour construire des modèles concurrents. Cette situation ironique soulève des questions sur la protection de la propriété intellectuelle dans le domaine de l'IA, alors que les entreprises occidentales font face à une concurrence croissante de la part de rivaux chinois.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB320_DEEPSEEK_AI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 29 Jan 2025 10:38:56 GMT"
     },
     {
         "title": "Apple Intelligence",
@@ -243,61 +306,5 @@
         "body": "Le PDG d'OpenAI, Sam Altman, prédit que l'intelligence artificielle générale (AGI) arrivera plus tôt que ce que la plupart des gens pensent, mais qu'elle aura un impact moins important que ce que l'on pourrait imaginer. Il suggère que les préoccupations liées à la sécurité de l'AGI ne se concrétiseront pas immédiatement et que l'AGI pourra être construite sur du matériel informatique existant. La définition de l'AGI par OpenAI semble désormais moins ambitieuse, et l'entreprise prévoit de combiner ses modèles de langage à grande échelle pour atteindre l'AGI. Altman prévoit une perturbation économique progressive plutôt qu'un changement soudain, et suggère que la \"superintelligence\" pourrait arriver \"dans quelques milliers de jours\". L'accord exclusif entre OpenAI et Microsoft pourrait évoluer une fois que l'AGI sera déclarée, ce qui aurait un impact significatif sur les ambitions de l'entreprise.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25849821/samaltman_openai_deepseek.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 28 Jan 2025 02:49:56 GMT"
-    },
-    {
-        "title": "La course à l'armement de l'IA",
-        "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
-        "body": "La demande pour l'IA générative dépasse de loin l'offre, ce qui a fait de Nvidia une entreprise valant plus d'un trillion de dollars. Les clients de Nvidia, tels que Microsoft, Meta et Google, développent leurs propres processeurs d'IA, tandis que Nvidia, AMD et Intel rivalisent pour lancer de nouvelles puces d'IA plus efficaces et plus puissantes. La course pour la suprématie dans le domaine de l'IA se déplace vers les puces, alors que les entreprises se battent pour gagner des parts de marché dans ce domaine en pleine croissance.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 28 Jan 2025 00:22:01 GMT"
-    },
-    {
-        "title": "DeepSeek, un concurrent sérieux pour les géants de l'IA",
-        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai",
-        "body": "DeepSeek, une startup chinoise, fait parler d'elle en affirmant que ses modèles d'IA open-source sont moins chers et tout aussi performants que ceux de ses concurrents. Son modèle phare, R1, rivaliserait avec o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a même fait chuter la valeur des actions de Nvidia de 17 %, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière en une journée. L'assistant IA de DeepSeek est alimenté par le modèle DeepSeek-V3, permettant aux utilisateurs de poser des questions, de planifier des voyages et de générer du texte. La startup a restreint les inscriptions en raison d'attaques malveillantes, alors que les téléchargements de son application ont explosé. DeepSeek, fondée en 2023, se distingue par sa capacité à construire des modèles d'IA puissants et économiques, malgré les contrôles stricts des exportations américaines qui limitent l'accès aux cartes graphiques haute performance en Chine.",
-        "image": "",
-        "date": "Tue, 28 Jan 2025 00:22:01 GMT"
-    },
-    {
-        "title": "Le Galaxy S25 Ultra de Samsung : l'IA au service de l'expérience utilisateur",
-        "link": "https://www.frandroid.com/test/2482652_test-samsung-galaxy-s25-ultra",
-        "body": "Le Samsung Galaxy S25 Ultra est un smartphone haut de gamme qui excelle dans de nombreux domaines, notamment grâce à l'intégration de fonctionnalités d'IA. L'interface One UI 7 propose une expérience utilisateur améliorée, avec des fonctions d'IA accessibles et utiles, telles que la traduction en temps réel, l'édition photo générative et la reconnaissance d'objets. L'appareil photo bénéficie également de l'IA pour améliorer la qualité des photos, en particulier pour la suppression d'objets, la modification du ciel et la génération de contenu. Le processeur Snapdragon 8 Elite, gravé en 3 nm, offre une puissance et une efficacité énergétique impressionnantes, garantissant des performances fluides et une excellente gestion thermique. Le S25 Ultra prend en charge la connectivité Wi-Fi 7 et la 5G, offrant des débits élevés et une réception stable. L'autonomie de la batterie est satisfaisante, mais la charge rapide et sans fil reste en retrait par rapport à la concurrence.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/copy-of-logo-simple-f-1200x675-1-768x432.jpg?resize=169,169&key=b0b492ec",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek s'allie à Perplexity, offrant une alternative open source à ChatGPT",
-        "link": "https://www.frandroid.com/produits-android/2486564_deepseek-devient-lun-des-moteurs-de-perplexity-les-nouveautes-a-retenir",
-        "body": "Le chatbot chinois DeepSeek, connu pour sa technologie avancée, s'associe à Perplexity, garantissant ainsi que les données des utilisateurs sont hébergées aux États-Unis et dans l'UE, répondant aux exigences du RGPD. Cette collaboration offre une alternative open source à ChatGPT, avec un fonctionnement transparent et une citation systématique des sources, réduisant ainsi les risques d'hallucinations souvent associés aux IA. DeepSeek élargit son audience et s'impose comme un concurrent sérieux sur le marché de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/logo-perplexity-1200x675-2-768x432.png?resize=169,169&key=977bc3f8",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le saut quantique",
-        "link": "https://www.forbes.com/sites/jasonsnyder/2025/01/27/genius-steals-how-deepseek-built-on-ais-innovation-debt/?ss=ai",
-        "body": "L'article explore la fine ligne entre l'emprunt, le vol et l'invention dans le domaine de l'innovation, en se concentrant sur l'exemple de DeepSeek, une entreprise qui a fait les gros titres pour ses avancées dans l'intelligence artificielle. Bien que DeepSeek soit saluée pour avoir repoussé les limites de l'IA, son succès repose en grande partie sur le raffinement et l'optimisation du travail de géants technologiques tels que Google, OpenAI, Meta et Nvidia. L'auteur soulève la question de la « dette d'innovation » : les avancées de DeepSeek sont-elles possibles grâce aux investissements massifs et aux découvertes fondamentales de ces entreprises ? L'article examine l'équilibre délicat entre l'emprunt et l'invention, suggérant que le véritable génie réside non seulement dans la création, mais aussi dans l'appropriation et la réimagination. Bien que DeepSeek mérite des éloges pour avoir amélioré l'efficacité et l'accessibilité de l'IA, l'auteur remet en question la nature cumulative de ses progrès, soulevant des questions philosophiques sur la définition de l'invention et de l'itération. L'article conclut en soulignant l'importance de repousser les limites de ce qui est possible, plutôt que de simplement s'appuyer sur les progrès existants, pour véritablement faire avancer les industries.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6798006a253c00f45abaa98e/0x0.jpg?format=jpg&crop=2800,1574,x0,y324,safe&width=440",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de DeepSeek",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2486256_les-avancees-de-la-chine-meritent-une-attention-tres-serieuse-satya-nadella-est-lui-aussi-bluffe-par-larrivee-de-deepseek",
-        "body": "L'application d'IA gratuite DeepSeek a récemment surpassé ChatGPT en popularité dans de nombreux pays, faisant chuter les actions de Microsoft, Meta et NVIDIA. DeepSeek, avec un budget de développement modeste, surpasse les modèles propriétaires dans les domaines des mathématiques, des sciences et de la programmation. Son modèle V3, formé pour environ 6 millions de dollars, contraste avec le projet Stargate d'OpenAI, qui prévoit des centres de données à 500 milliards de dollars. Satya Nadella, PDG de Microsoft, a souligné les performances de DeepSeek et a insisté sur le fait que les avancées en IA venues de Chine méritent une attention sérieuse. DeepSeek incarne l'IA ouverte et accessible, tandis que des entreprises comme OpenAI se tournent vers des solutions propriétaires, citant des préoccupations de sécurité. L'avenir de DeepSeek dépendra de sa capacité à rassurer sur la sécurité, en particulier dans un contexte géopolitique tendu avec des restrictions sur les exportations de puces IA vers la Chine.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-768x432.png?resize=169,169&key=b75ddf63",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de DeepSeek",
-        "link": "https://www.frandroid.com/culture-tech/2485814_face-a-la-montee-de-deepseek-sam-altman-veut-rassurer-avec-de-grandes-avancees-pour-chatgpt",
-        "body": "DeepSeek, un chatbot chinois, impressionne la Silicon Valley avec sa puissance de calcul, rivalisant parfois avec des modèles établis comme ChatGPT. Son modèle R1 attire l'attention de figures clés telles que Sam Altman, PDG d'OpenAI, qui reconnaît la force de l'outil pour un coût compétitif. La progression rapide de DeepSeek et son impact sur les marchés pourraient inciter OpenAI à accélérer le développement de ses produits ou à communiquer plus activement pour conserver son avance. L'influence croissante de DeepSeek remet également en question le concept de \"superintelligence\" chez OpenAI, que Sam Altman avait précédemment minimisé.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/sam-altman-frandroid-altman-1200x800-1-768x512.jpg?resize=200,200&key=b2ebee41",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Project Moohan : Samsung et Google révolutionnent la réalité mixte",
-        "link": "https://www.frandroid.com/produits-android/realite-virtuelle/2485800_mkbhd-a-teste-samsung-project-moohan-et-voici-pourquoi-il-en-parle-comme-dune-revolution",
-        "body": "Lors du Samsung Unpacked, le Project Moohan, un casque de réalité mixte développé en collaboration avec Google, a été présenté. Marques Brownlee (MKBHD) a pu le tester et le compare à un Nexus ou un Pixel, mais pour les casques. Le design est similaire au Vision Pro d'Apple, mais Samsung se distingue par des choix techniques intelligents, comme une batterie externe USB-C détachable. L'IA de Google est profondément intégrée, permettant une navigation fluide via des commandes vocales. L'affichage offre une netteté impressionnante, et l'expérience globale est prometteuse pour la démocratisation de la réalité mixte.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/i-tried-samsungs-secret-android-xr-headset-1-12-screenshot-1200x600-1-768x384.jpg?resize=150,150&key=a65a83f4",
-        "date": "Mon, 27 Jan 2025 23:00:00 GMT"
     }
 ]
