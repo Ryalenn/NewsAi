@@ -1,5 +1,12 @@
 [
     {
+        "title": "DeepSeek, la conscience de l'IA",
+        "link": "https://www.forbes.com/sites/barrycollins/2025/01/30/deepseeks-thinking-exposes-the-ais-ethical-boundaries/?ss=ai",
+        "body": "DeepSeek, un nouveau modèle de langage, attire l'attention en raison de sa capacité à révéler son raisonnement interne avant de donner une réponse. Bien qu'il ne \"pense\" pas vraiment au sens humain du terme, il offre un aperçu fascinant de son processus de décision, notamment lorsqu'il est confronté à des dilemmes moraux ou à des demandes de violation de ses règles. DeepSeek reconnaît les limites de ses capacités, évite les sujets interdits et navigue dans des situations complexes tout en restant dans des cadres éthiques et légaux. L'article explore les interactions avec DeepSeek, révélant sa conscience de ses propres limites et de l'impact potentiel de ses réponses, tout en maintenant une position neutre sur des questions controversées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679b4ae97aa1c01ca87f38c7/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 10:00:00 GMT"
+    },
+    {
         "title": "L'aube de l'informatique quantique",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/01/30/5-critical-quantum-computing-facts-business-leaders-cant-afford-to-miss/?ss=ai",
         "body": "L'informatique quantique, autrefois concept théorique, est désormais une réalité commerciale. Les entreprises investissent massivement dans cette technologie, qui, aux côtés de l'IA, devrait être l'une des plus transformatrices du siècle. Les premiers cas d'utilisation combinent l'informatique quantique et classique, et sont déjà mis en œuvre dans des domaines tels que la finance, la bioscience et l'automobile. La pénurie de professionnels qualifiés en informatique quantique est un défi majeur, mais les établissements d'enseignement et les entreprises travaillent à combler cette lacune. L'accès à l'informatique quantique se fera principalement via des services cloud, avec de grands acteurs technologiques offrant déjà des solutions « quantum-as-a-service ». Les investisseurs se ruent pour financer les développeurs de logiciels et de matériel, anticipant un marché de plusieurs milliards de dollars. Enfin, les experts se préparent déjà à un monde post-quantique, où la sécurité et le chiffrement actuels pourraient être vulnérables. Les entreprises, en particulier dans les secteurs sensibles, doivent agir dès maintenant pour se préparer à cette révolution.",
@@ -313,12 +320,5 @@
         "body": "DeepSeek, une nouvelle application d'assistant IA chinoise, a secoué l'industrie de l'IA en atteignant le sommet de l'App Store d'Apple. Son incroyable précision et son coût extrêmement bas ont attiré l'attention du monde entier, remettant en question la croyance selon laquelle l'IA de pointe nécessite des ressources informatiques et des puces haut de gamme. Ce développement a des implications profondes pour l'industrie, remettant en cause la domination américaine et offrant une alternative chinoise moins chère. Bien que le succès à long terme de DeepSeek reste incertain en raison de préoccupations éthiques et de tensions géopolitiques, il souligne l'importance pour les individus et les organisations de se concentrer sur les compétences humaines uniques et de tirer parti de l'IA pour rester compétitifs dans un paysage en évolution rapide.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6798ca04341df7388436020e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 28 Jan 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : alimenté par le nucléaire et le solaire ?",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/01/28/nuclear-and-solar-energy-could-converge-to-solve-the-ai-energy-crunch/?ss=ai",
-        "body": "L'article explore le défi énergétique posé par l'IA, en particulier les modèles linguistiques de grande taille. Il met en évidence la quantité massive d'énergie nécessaire pour entraîner ces modèles et alimenter les centres de données IA, et suggère que l'énergie nucléaire et solaire pourrait offrir une solution durable. Le projet Stargate, une initiative américaine de 500 milliards de dollars pour stimuler l'IA, est présenté comme un exemple de la nécessité de trouver des sources d'énergie fiables et durables pour alimenter l'infrastructure IA. L'article discute des avantages et des inconvénients de l'énergie nucléaire et solaire, et suggère que leur convergence pourrait répondre aux besoins énergétiques croissants de l'IA tout en réduisant l'impact environnemental. Enfin, il souligne l'importance de la collaboration internationale et des normes pour gérer l'impact de l'IA sur la planète.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6798b32a6dbf12a67a9628cc/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 28 Jan 2025 10:00:00 GMT"
     }
 ]
