@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'aube de l'informatique quantique",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/30/5-critical-quantum-computing-facts-business-leaders-cant-afford-to-miss/?ss=ai",
+        "body": "L'informatique quantique, autrefois concept théorique, est désormais une réalité commerciale. Les entreprises investissent massivement dans cette technologie, qui, aux côtés de l'IA, devrait être l'une des plus transformatrices du siècle. Les premiers cas d'utilisation combinent l'informatique quantique et classique, et sont déjà mis en œuvre dans des domaines tels que la finance, la bioscience et l'automobile. La pénurie de professionnels qualifiés en informatique quantique est un défi majeur, mais les établissements d'enseignement et les entreprises travaillent à combler cette lacune. L'accès à l'informatique quantique se fera principalement via des services cloud, avec de grands acteurs technologiques offrant déjà des solutions « quantum-as-a-service ». Les investisseurs se ruent pour financer les développeurs de logiciels et de matériel, anticipant un marché de plusieurs milliards de dollars. Enfin, les experts se préparent déjà à un monde post-quantique, où la sécurité et le chiffrement actuels pourraient être vulnérables. Les entreprises, en particulier dans les secteurs sensibles, doivent agir dès maintenant pour se préparer à cette révolution.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679b229b6c42289e83164eb7/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 07:00:00 GMT"
+    },
+    {
         "title": "Rivian's AI Roadmap",
         "link": "https://www.forbes.com/sites/martineparis/2025/01/30/rivian-revving-to-rival-tesla-with-level-3-autonomy-and-voice-ai-plans/?ss=ai",
         "body": "Rivian, en partenariat avec Volkswagen, développe sa prochaine plateforme de véhicules électriques avec une intégration massive de l'IA. L'entreprise vise l'autonomie de niveau 3 d'ici 2026, permettant aux conducteurs de détourner leur regard de la route. Le PDG, RJ Scaringe, souligne l'importance de la valeur client d'une autonomie de niveau 2 robuste et de niveau 3 dans des domaines spécifiques. L'intégration de l'IA améliorera l'expérience de conduite autonome et à l'intérieur du véhicule. Le Chief Software Officer, Wassym Bensaid, explique que l'IA permettra aux véhicules de répondre aux questions des conducteurs et de prendre des rendez-vous d'entretien de manière proactive. Rivian se concentre sur l'allocation de ressources pour les fonctionnalités clés, tout en gardant à l'esprit les coûts. L'entreprise prévoit une croissance avec un prêt du Département américain de l'énergie pour sa nouvelle usine en Géorgie et l'expansion de ses showrooms et centres de service aux États-Unis.",
@@ -26,6 +33,13 @@
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes, appelés grands modèles linguistiques, fonctionnent en analysant les propriétés statistiques du langage, permettant de faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de faits codés en dur, ils peuvent générer des réponses plausibles, mais doivent faire face au défi de présenter des informations fausses comme vraies. L'article explore les nouveaux développements dans le domaine, y compris les capacités améliorées, les controverses et l'intégration dans diverses plateformes et applications.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 29 Jan 2025 23:01:15 GMT"
+    },
+    {
+        "title": "Deepseek retiré des stores italiens",
+        "link": "https://www.frandroid.com/android/2488604_deepseek-le-chatbot-chinois-pourrait-il-etre-interdit-en-europe",
+        "body": "L'application Deepseek a été retirée du Play Store et de l'App Store en Italie, soulevant des questions sur la protection des données personnelles et le respect du RGPD. Ce retrait survient 24 heures après une demande d'information de l'autorité italienne de régulation des données personnelles (GPDP) concernant le traitement des données par le chatbot. Bien que le lien entre le retrait et l'enquête ne soit pas officiellement confirmé, la décision italienne pourrait avoir un impact sur la disponibilité de Deepseek dans toute l'Europe, car la société n'a pas déclaré d'autorité tête de file pour la protection des données dans l'UE. La GPDP a déjà fait parler d'elle en 2023 en poussant OpenAI à retirer ChatGPT des stores italiens pour des raisons similaires. La situation italienne attire l'attention des autres autorités de protection des données en Europe, et Deepseek pourrait choisir de se retirer volontairement de l'UE pour éviter des sanctions potentielles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-multi-illustration-768x480.jpg?resize=188,188&key=d2e678f9",
+        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
     },
     {
         "title": "IA Agent Builder",
