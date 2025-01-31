@@ -14,11 +14,39 @@
         "date": "Thu, 30 Jan 2025 23:00:00 GMT"
     },
     {
+        "title": "La course aux puces IA",
+        "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
+        "body": "La demande pour les puces IA dépasse l'offre, ce qui a rendu Nvidia et ses GPU très recherchés. Cette situation a conduit à l'émergence d'une course aux armements entre les fabricants de puces, tels qu'AMD, Intel et Nvidia, pour développer des puces IA plus efficaces et plus puissantes. Intel a connu des pertes importantes et a restructuré sa stratégie, se concentrant sur de nouvelles puces tout en abandonnant d'autres projets. Pendant ce temps, des startups comme DeepSeek attirent l'attention avec des modèles open-source moins chers, et des entreprises comme OpenAI développent leurs propres puces IA sur mesure. Nvidia fait face à des enquêtes antitrust en Chine et aux États-Unis, et d'autres entreprises comme Sony, AMD et ByteDance investissent dans le développement de puces IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 30 Jan 2025 22:27:27 GMT"
+    },
+    {
+        "title": "Justice Department Sues to Block HPE's Acquisition of Juniper Networks",
+        "link": "https://www.justice.gov/opa/pr/justice-department-sues-block-hewlett-packard-enterprises-proposed-14-billion-acquisition",
+        "body": "Le département de la Justice des États-Unis a intenté une action en justice pour bloquer l'acquisition proposée par Hewlett Packard Enterprise (HPE) de Juniper Networks, un fournisseur de technologie de réseau local sans fil, pour 14 milliards de dollars. La plainte allègue que la transaction éliminerait une concurrence féroce entre les deux entreprises, augmenterait les prix, réduirait l'innovation et limiterait les choix pour les entreprises et les institutions américaines, en violation de la loi antitrust Clayton. HPE et Juniper sont respectivement les deuxième et troisième plus grands fournisseurs de solutions WLAN de qualité professionnelle aux États-Unis. La plainte souligne l'importance de la technologie WLAN, qui comprend l'IA, pour les entreprises modernes, et affirme que la fusion proposée réduirait considérablement la concurrence et affaiblirait l'innovation, ce qui entraînerait des coûts plus élevés pour de nombreux secteurs de l'économie américaine.",
+        "image": "",
+        "date": "Thu, 30 Jan 2025 22:19:29 GMT"
+    },
+    {
+        "title": "Meta AI Glasses",
+        "link": "https://www.theverge.com/meta/603674/meta-ray-ban-smart-glasses-sales#comments",
+        "body": "Mark Zuckerberg a révélé que la vente des lunettes de soleil intelligentes Ray-Ban de Meta a dépassé le million d'unités vendues en 2024. Lors d'une réunion, il a questionné les employés sur les ventes futures, visant jusqu'à 5 millions d'unités en 2025. Les lunettes, lancées en 2023, ont progressivement ajouté de nouvelles fonctionnalités d'IA, comme le traitement de ce que l'utilisateur voit, entend et lit. Zuckerberg a souligné que Meta a « inventé la catégorie » et que les concurrents n'ont pas encore rattrapé leur retard. Il a également mentionné le projet Hypernova, des lunettes de réalité augmentée, et un partenariat potentiel avec Oakley pour de nouvelles lunettes intelligentes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25012285/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0656.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 30 Jan 2025 22:05:03 GMT"
+    },
+    {
         "title": "DeepSeek's Cost-Efficient AI Models Spark Debate",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/30/no-deepseek-is-not-a-sputnik-moment/?ss=ai",
         "body": "La communauté de l'IA est en émoi après que DeepSeek, une entreprise chinoise, ait présenté des modèles d'IA moins coûteux à produire, rivalisant avec ceux des entreprises américaines pour une fraction du coût de développement. Certains fondateurs d'entreprises de l'IA affirment que l'importance des coûts de formation de DeepSeek a été exagérée. DeepSeek a réduit ses coûts en s'appuyant sur des modèles de langage ouvert existants, comme Llama de Meta. Malgré le battage médiatique, les progrès de DeepSeek ne représentent pas une percée révolutionnaire, mais plutôt une optimisation des techniques existantes. L'entreprise a utilisé le renforcement, une technique bien connue, et a rendu sa technologie accessible à tous. DeepSeek a toutefois suscité un débat nécessaire sur l'efficacité des coûts dans un domaine où des entreprises comme OpenAI cherchent des milliards de dollars pour construire des centres de données. La controverse entoure également les allégations d'OpenAI selon lesquelles DeepSeek aurait violé ses conditions d'utilisation en grattant les sorties de ses modèles propriétaires.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679bdebabb801b7f199245f7/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 30 Jan 2025 21:00:00 GMT"
+    },
+    {
+        "title": "La révolution électrique d'Elon Musk",
+        "link": "https://www.theverge.com/tesla/603393/tesla-car-company-elon-musk-ai-earnings#comments",
+        "body": "Elon Musk souhaite repositionner Tesla comme une entreprise d'intelligence artificielle, bien qu'elle ne génère pas encore de revenus dans ce domaine. Lors d'un appel sur les bénéfices, Musk a accordé peu d'attention à l'activité automobile de base de Tesla, se concentrant plutôt sur les robots humanoïdes et les voitures autonomes. Les ventes de Tesla ont diminué pour la première fois en plus d'une décennie, et la production et les livraisons de véhicules ont baissé. Malgré cela, l'action de l'entreprise a grimpé en flèche, les investisseurs adhérant à la vision de Musk d'un avenir dominé par l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK086_TeslaC.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 30 Jan 2025 20:27:13 GMT"
     },
     {
         "title": "Nvidia's Rivals Rejoice",
@@ -313,12 +341,5 @@
         "body": "L'annonce récente de DeepSeek a provoqué une chute du cours de l'action de NVIDIA, entraînant une perte de 600 milliards de dollars en capitalisation boursière. Cette annonce a mis en lumière deux faits importants : (1) la formation de modèles d'IA devient moins coûteuse, et (2) les modèles d'IA peuvent s'entraîner eux-mêmes, réduisant encore davantage les coûts. Ces insights ne sont pas nouveaux, mais l'érosion des coûts fait que l'IA devient une commodité, ce qui a un impact profond sur les dirigeants d'entreprise et les gouvernements. DeepSeek-R1-Zero est le premier modèle d'IA à grande échelle formé uniquement par apprentissage par renforcement, éliminant ainsi le besoin de feedback humain. Bien que le concept d'IA s'entraînant elle-même ne soit pas nouveau, l'impressionnant de DeepSeek est son faible coût de formation. Cette situation crée un défi pour les investisseurs, qui se demandent comment récupérer leur investissement dans un contexte de diminution des coûts et de modèles d'IA open source. De plus, la recherche sur les modèles d'IA de pointe peut présenter un désavantage économique car les modèles d'IA peuvent entraîner d'autres modèles d'IA, rendant obsolètes les modèles précédents. Les mesures protectionnistes traditionnelles peuvent s'avérer inefficaces, comme le montre l'exemple de DeepSeek, qui, malgré l'interdiction d'utiliser le matériel haut de gamme, a développé une approche très efficace et est devenu meilleur que les principales entreprises américaines d'IA. L'IA devenant une commodité, la véritable difficulté réside désormais dans la réglementation et les aspects économiques, plutôt que dans la technologie elle-même.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6799e38cd5f5b6c7b4928f2d/0x0.jpg?format=jpg&crop=1080,506,x0,y136,safe&width=440",
         "date": "Wed, 29 Jan 2025 08:32:00 GMT"
-    },
-    {
-        "title": "Démocratisation de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/29/how-chinas-deepseek-redefined-the-global-ai-race/?ss=ai",
-        "body": "L'arrivée de DeepSeek, un concurrent chinois de ChatGPT, a secoué les marchés technologiques mondiaux et remis en question les coûts supposés du développement de l'IA. DeepSeek, un chatbot basé sur un modèle linguistique génératif, a été développé pour un coût estimé à seulement 6 millions de dollars, ce qui a surpris les marchés financiers et entraîné une chute des actions technologiques, notamment celle de Nvidia qui a chuté de 17 % en un jour. Cet événement a soulevé des interrogations sur les valorisations élevées des entreprises américaines d'IA et sur les investissements massifs dans ce domaine. DeepSeek se distingue de ChatGPT en étant open source, ce qui a probablement réduit les coûts de développement. Cependant, des inquiétudes en matière de confidentialité ont été soulevées concernant le partage de données des utilisateurs avec sa société mère chinoise, qui pourrait potentiellement les transmettre au gouvernement chinois. L'incident souligne l'importance des enjeux géopolitiques dans la course mondiale à l'IA et soulève des questions sur la démocratisation du développement de l'IA, avec la participation à la fois de grandes entreprises et de communautés open source.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6799ce40d161ad7cce2a97ff/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 29 Jan 2025 06:00:00 GMT"
     }
 ]
