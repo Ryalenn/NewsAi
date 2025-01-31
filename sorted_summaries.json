@@ -1,5 +1,19 @@
 [
     {
+        "title": "Clarification des règles américaines sur le droit d'auteur pour l'IA cinématographique",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/30/new-copyright-protection-for-ai-plus-new-ai-models-from-pica-hailuo-and-bytedance/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679c0cc876a2ac916a51cbbf/0x0.jpg?format=jpg&crop=2688,1512,x0,y138,safe&width=440",
+        "date": "Thu, 30 Jan 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La panique s'empare de l'industrie technologique mondiale",
+        "link": "https://www.forbes.com/sites/charliefink/2025/01/30/deepseek-freakout-skild-robotics-raises-500-million-eleven-labs-ai-250-million/?ss=ai",
+        "body": "La startup chinoise DeepSeek a récemment publié son modèle R1, un système d'IA open source pour le raisonnement concurrentiel aux principaux modèles du marché, mais à une fraction du coût. Cet événement a déclenché une vente massive d'actions technologiques, entraînant une perte record pour Nvidia et incitant Meta à réunir des équipes d'ingénieurs pour étudier le modèle de DeepSeek. Des accusations d'utilisation illégale de l'IA OpenAI par DeepSeek ont refait surface, soulignant la capacité de la Chine à contourner les restrictions américaines à l'exportation. Cet épisode a été qualifié de \"moment Sputnik\" pour l'IA, conduisant à une réévaluation de l'écosystème concurrentiel mondial. L'article mentionne également des investissements importants dans des startups d'IA, notamment Skild AI et ElevenLabs, ainsi que des développements dans le commerce immersif, les jeux sociaux basés sur l'IA et les collaborations technologiques entre Samsung, Google et Qualcomm.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679be126766f3eb4fd3705a8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "DeepSeek's Cost-Efficient AI Models Spark Debate",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/30/no-deepseek-is-not-a-sputnik-moment/?ss=ai",
         "body": "La communauté de l'IA est en émoi après que DeepSeek, une entreprise chinoise, ait présenté des modèles d'IA moins coûteux à produire, rivalisant avec ceux des entreprises américaines pour une fraction du coût de développement. Certains fondateurs d'entreprises de l'IA affirment que l'importance des coûts de formation de DeepSeek a été exagérée. DeepSeek a réduit ses coûts en s'appuyant sur des modèles de langage ouvert existants, comme Llama de Meta. Malgré le battage médiatique, les progrès de DeepSeek ne représentent pas une percée révolutionnaire, mais plutôt une optimisation des techniques existantes. L'entreprise a utilisé le renforcement, une technique bien connue, et a rendu sa technologie accessible à tous. DeepSeek a toutefois suscité un débat nécessaire sur l'efficacité des coûts dans un domaine où des entreprises comme OpenAI cherchent des milliards de dollars pour construire des centres de données. La controverse entoure également les allégations d'OpenAI selon lesquelles DeepSeek aurait violé ses conditions d'utilisation en grattant les sorties de ses modèles propriétaires.",
@@ -306,47 +320,5 @@
         "body": "L'arrivée de DeepSeek, un concurrent chinois de ChatGPT, a secoué les marchés technologiques mondiaux et remis en question les coûts supposés du développement de l'IA. DeepSeek, un chatbot basé sur un modèle linguistique génératif, a été développé pour un coût estimé à seulement 6 millions de dollars, ce qui a surpris les marchés financiers et entraîné une chute des actions technologiques, notamment celle de Nvidia qui a chuté de 17 % en un jour. Cet événement a soulevé des interrogations sur les valorisations élevées des entreprises américaines d'IA et sur les investissements massifs dans ce domaine. DeepSeek se distingue de ChatGPT en étant open source, ce qui a probablement réduit les coûts de développement. Cependant, des inquiétudes en matière de confidentialité ont été soulevées concernant le partage de données des utilisateurs avec sa société mère chinoise, qui pourrait potentiellement les transmettre au gouvernement chinois. L'incident souligne l'importance des enjeux géopolitiques dans la course mondiale à l'IA et soulève des questions sur la démocratisation du développement de l'IA, avec la participation à la fois de grandes entreprises et de communautés open source.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6799ce40d161ad7cce2a97ff/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 29 Jan 2025 06:00:00 GMT"
-    },
-    {
-        "title": "La censure chinoise s'invite dans les agents conversationnels",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2488266_deepseek-on-a-teste-la-censure-pratiquee-par-letat-chinois",
-        "body": "L'article explore la manière dont les agents conversationnels, comme ChatGPT et DeepSeek, gèrent les sujets sensibles. Si ChatGPT refuse simplement de répondre à certaines questions, DeepSeek, l'IA chinoise, va plus loin en évitant les sujets liés à la politique intérieure chinoise, comme l'indépendance de Taïwan ou les manifestations de la Place Tian'anmen. Les développeurs ont mis en place des outils de modération pour censurer certains mots-clés, mais leur efficacité est variable. DeepSeek semble suivre les directives du gouvernement chinois, qui souhaite que le développement de l'IA générative respecte \"les valeurs fondamentales du socialisme\". L'IA chinoise justifie ainsi la légitimité du parti communiste au pouvoir et adopte une position non-neutre sur des figures politiques étrangères comme Donald Trump.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/aay-umtklckrbmu-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=ee1c57fa",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA chinoise bouscule le marché",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2487744_deepseek-trump-a-trouve-une-bonne-excuse-pour-imposer-de-nouveaux-droits-de-douane-cette-fois-sur-les-puces",
-        "body": "DeepSeek, une nouvelle IA chinoise, rivalise avec ChatGPT et Claude, mais à un coût de développement bien inférieur. Cette concurrence fait couler beaucoup d'encre et inquiète les marchés, notamment en raison de son impact potentiel sur les chaînes d'approvisionnement et les coûts de production des puces. L'administration Trump envisage d'augmenter les droits de douane sur les puces fabriquées à l'étranger, ce qui pourrait affecter les fabricants étrangers comme TSMC et Samsung. L'IA de DeepSeek échappe également à la censure et évite les sujets liés à la Chine.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-multi-illustration-1200x750-1-768x480.jpg?resize=188,188&key=567193ff",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La censure et les biais dans les chatbots chinois",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2488316_deepseek-nechappe-pas-a-la-censure-le-chatbot-evite-massivement-les-sujets-lies-a-la-chine",
-        "body": "Une étude de PromptFoo révèle que le modèle de raisonnement R1 de DeepSeek, un chatbot chinois, évite de répondre à 85 % des requêtes sensibles et affiche un fort sentiment nationaliste, surtout sur des sujets comme Taiwan. Cette autocensure s'accompagne de vulnérabilités techniques, dont une censure brutale et des failles de sécurité. Ces résultats soulèvent des inquiétudes sur l'équilibre entre conformité et robustesse technique, alors que l'entreprise s'étend à l'international. Microsoft et OpenAI enquêtent sur une utilisation non autorisée des données d'OpenAI par DeepSeek. L'entreprise rivalise ainsi avec les exigences des autorités chinoises et son expansion mondiale.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-grande-768x435.jpeg?resize=170,170&key=f11bfc00",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La transparence dans le développement de l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2487850_cette-entreprise-espere-corriger-le-plus-gros-defaut-de-deepseek-avec-sa-propre-ia",
-        "body": "Hugging Face, sous la direction de Leandro von Werra et d'une équipe d'ingénieurs, lance le projet Open-R1. L'objectif est de reconstruire le modèle R1 de DeepSeek, tout en rendant publics tous ses composants, y compris les données d'entraînement. Bien que DeepSeek propose une licence permissive pour R1, l'entreprise garde secrets certains éléments clés. Hugging Face souligne l'importance de \"désopacifier\" le processus de création d'IA, permettant ainsi à la communauté scientifique de comprendre et de contrôler les mécanismes derrière ces technologies avancées. Le projet Open-R1 vise à reproduire les algorithmes et jeux de données de R1 en quelques semaines, avec l'aide de contributeurs externes via GitHub. Si le pari est réussi, Open-R1 pourrait devenir la base de modèles open source performants et transparents.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/intelligence-artificielle-1200x904-1-768x579.jpg?resize=226,226&key=e7e864b5",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Plagiat ou innovation ? La controverse autour de DeepSeek",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2487654_pour-openai-deepseek-a-plagie-son-ia",
-        "body": "Le modèle d'IA open source DeepSeek, récemment lancé, suscite la controverse en raison de ses performances impressionnantes, qui rivalisent avec celles de solutions plus coûteuses comme o1 d'OpenAI. Cette situation a semé le doute parmi les investisseurs quant à la nécessité des dépenses massives en calcul intensif pour développer l'IA, ce qui a entraîné une chute historique de l'action Nvidia. Des soupçons de plagiat pèsent sur DeepSeek, qui aurait utilisé des techniques de \"distillation\" pour reproduire les réponses d'autres modèles, notamment ceux d'OpenAI, selon David Sacks, conseiller de Donald Trump sur les questions technologiques. L'affaire attire l'attention des autorités américaines, notamment du Conseil de sécurité nationale, et ravive les tensions technologiques entre Washington et Pékin. DeepSeek domine actuellement les stores d'Apple et de Google avec ses applications gratuites, mais fait face à des enquêtes et à des interdictions en raison de préoccupations sécuritaires.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-grande-768x435.jpeg?resize=170,170&key=f11bfc00",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La fusion nucléaire, une nouvelle source d'énergie pour l'IA ?",
-        "link": "https://www.frandroid.com/marques/microsoft/2486382_microsoft-parie-gros-sur-un-projet-prometteur-mais-incertain-pour-se-fournir-en-energie",
-        "body": "L'entreprise Helion Energy a conclu un accord avec Microsoft pour lui fournir de l'énergie issue de la fusion nucléaire. La technologie, encore immature, pourrait offrir une source d'énergie abondante et propre pour alimenter les besoins croissants en énergie de l'IA. Helion Energy fait face à des défis de production et de demande de semi-conducteurs, mais vise une mise en service de sa centrale dès 2028. Google explore également cette technologie, malgré les incertitudes sur son empreinte carbone.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/microsoft-logo-photo-1200x800-2-768x512.jpg?resize=200,200&key=1a851bdc",
-        "date": "Tue, 28 Jan 2025 23:00:00 GMT"
     }
 ]
