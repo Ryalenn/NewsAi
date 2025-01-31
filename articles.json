@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Deepseek : le chatbot chinois pourrait-il être interdit en Europe ?",
+        "title": "Deepseek : le chatbot chinois pourrait-il \u00eatre interdit en Europe ?",
         "link": "https://www.frandroid.com/android/2488604_deepseek-le-chatbot-chinois-pourrait-il-etre-interdit-en-europe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-multi-illustration-768x480.jpg?resize=188,188&key=d2e678f9",
         "date": "Wed, 29 Jan 2025 23:00:00 GMT",
@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "DeepSeek : les PC Copilot+ auront bientôt droit à l’une des meilleures IA du marché",
+        "title": "DeepSeek : les PC Copilot+ auront bient\u00f4t droit \u00e0 l\u2019une des meilleures IA du march\u00e9",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2489218_deepseek-les-pc-copilot-auront-bientot-droit-a-lune-des-meilleures-ia-du-marche",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-smartphone-768x480.jpg?resize=188,188&key=ea096fdc",
         "date": "Wed, 29 Jan 2025 23:00:00 GMT",
@@ -210,7 +210,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT ouvre les yeux : la révolution de la vision en direct débarque en France",
+        "title": "ChatGPT ouvre les yeux : la r\u00e9volution de la vision en direct d\u00e9barque en France",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2489842_chatgpt-ouvre-les-yeux-la-revolution-de-la-vision-en-direct-debarque-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-93-768x512.jpg?resize=200,200&key=7d9d079c",
         "date": "Wed, 29 Jan 2025 23:00:00 GMT",
@@ -315,7 +315,7 @@
         "check": "yes"
     },
     {
-        "title": "DeepSeek : une faille de sécurité pourrait exposer vos données sur Internet",
+        "title": "DeepSeek : une faille de s\u00e9curit\u00e9 pourrait exposer vos donn\u00e9es sur Internet",
         "link": "https://www.frandroid.com/culture-tech/2489916_deepseek-une-faille-de-securite-pourrait-exposer-vos-donnees-sur-internet",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-logo-1200x750-1-768x480.png?resize=188,188&key=892dca57",
         "date": "Thu, 30 Jan 2025 23:00:00 GMT",
@@ -341,5 +341,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/679c112e1c3a5ba60b65a232/0x0.jpg?format=jpg&crop=4762,2677,x0,y245,safe&width=440",
         "date": "Fri, 31 Jan 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/openai/603952/sam-altman-stargate-ai-data-center-plan-hype-funding#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB318_STARGATE_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 31 Jan 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/the-vergecast/603920/deepseek-nvidia-chatgpt-china-vergecast#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VST_0131_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 31 Jan 2025 13:44:39 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/603821/google-gemini-flash-2-0-ai-app",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Fri, 31 Jan 2025 00:35:19 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexkonrad/2025/01/31/inside-venture-capital-great-reshuffling/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679cfe04dca20f08593555b4/0x0.jpg?format=jpg&crop=1126,633,x158,y167,safe&width=440",
+        "date": "Fri, 31 Jan 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/01/31/5-reasons-you-can-make-your-career-with-genai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679cc5b2c262f692ddaf96e3/0x0.jpg?format=jpg&crop=2479,1163,x0,y245,safe&width=440",
+        "date": "Fri, 31 Jan 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/01/30/5-chatgpt-prompts-to-build-wealth-doing-nothing/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679b0947c7bcb8bfda119e1a/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 30 Jan 2025 00:00:00 GMT",
+        "check": "no"
     }
 ]
