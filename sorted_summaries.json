@@ -7,6 +7,13 @@
         "date": "Fri, 31 Jan 2025 07:00:00 GMT"
     },
     {
+        "title": "Faille de sécurité critique chez DeepSeek",
+        "link": "https://www.frandroid.com/culture-tech/2489916_deepseek-une-faille-de-securite-pourrait-exposer-vos-donnees-sur-internet",
+        "body": "DeepSeek, un assistant IA populaire, a récemment été victime d'une faille de sécurité critique. Une base de données non sécurisée, contenant des millions d'historiques de chat et d'autres données sensibles, a été découverte par l'entreprise de sécurité cloud Wiz. Cette faille permettait non seulement d'accéder aux données des utilisateurs, mais offrait également un contrôle total sur la base de données de DeepSeek, y compris une élévation potentielle des privilèges. Gal Nagli de Wiz souligne que les entreprises IA, tout comme les autres, sont vulnérables aux risques de base, tels que l'exposition accidentelle de données. La faille a été signalée et corrigée, mais la possibilité d'une récupération de données par des tiers ne peut être exclue. Cet incident souligne l'importance de la prudence lors de l'utilisation d'outils en ligne, en particulier lorsque des informations sensibles sont en jeu.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-logo-1200x750-1-768x480.png?resize=188,188&key=892dca57",
+        "date": "Thu, 30 Jan 2025 23:00:00 GMT"
+    },
+    {
         "title": "Clarification des règles américaines sur le droit d'auteur pour l'IA cinématographique",
         "link": "https://www.forbes.com/sites/charliefink/2025/01/30/new-copyright-protection-for-ai-plus-new-ai-models-from-pica-hailuo-and-bytedance/?ss=ai",
         "body": "Titre",
@@ -320,26 +327,5 @@
         "body": "Les agents IA, différents des modèles IA générative comme Claude ou ChatGPT, sont présentés comme l'une des plus grandes tendances de l'IA pour l'année. Ash Stearn, fondatrice d'une société de conseil en IA, les compare à des guides touristiques personnels, capables de répondre à des questions inattendues, d'adapter un itinéraire en fonction de la météo, et même de réserver des vols ou des transports. Roberto Luna, fondateur et PDG de Lunivate, une société spécialisée dans l'automatisation et les solutions IA, prédit que les agents vocaux rendront les centres d'appels obsolètes. Seema Amble, partenaire chez a16z, un fonds de capital-risque, souligne que les agents IA se démarquent par leur capacité à raisonner et à prendre des décisions de manière autonome. Les investissements dans l'IA ne montrent aucun signe de ralentissement, avec des estimations de dépenses mondiales atteignant 337 milliards de dollars en 2025. Les experts soulignent que l'IA améliore les capacités humaines et élimine les tâches répétitives, tout en soulignant l'importance pour les travailleurs de s'adapter et d'apprendre à utiliser l'IA pour rester compétitifs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6799be789a4c72752b4d02a5/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 29 Jan 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Silicon Peaks",
-        "link": "https://www.forbes.com/sites/alexkonrad/2025/01/29/this-ai-startup-in-nepal-is-helping-figma-and-openai-close-their-biggest-sales/?ss=ai",
-        "body": "SecurityPal, une startup basée au Népal, aide les entreprises de haute technologie à répondre aux questionnaires de sécurité fastidieux mais nécessaires pour conclure des contrats avec de grandes entreprises et agences. En combinant un logiciel avec une équipe népalaise, SecurityPal fournit des réponses rapides et économiques, tout en maintenant un équilibre entre l'IA et l'expertise humaine. La startup a connu une croissance rapide, atteignant une valorisation de 105 millions de dollars, et compte parmi ses clients des entreprises de premier plan dans le domaine de l'IA, telles qu'OpenAI, Grammarly et Cursor. SecurityPal utilise maintenant l'IA pour fournir des informations et des recommandations proactives aux clients, tout en continuant à mettre l'accent sur le rôle clé des analystes humains. La startup a également l'ambition de créer un nouveau hub technologique à Katmandou, offrant des salaires compétitifs et des opportunités de carrière pour les talents locaux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6798051a2eadd4676872b3f9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 29 Jan 2025 11:00:00 GMT"
-    },
-    {
-        "title": "La concurrence chinoise frappe à la porte de l'IA occidentale",
-        "link": "https://www.theverge.com/news/601195/openai-evidence-deepseek-distillation-ai-data#comments",
-        "body": "La startup chinoise DeepSeek a bousculé le marché de l'IA en proposant des modèles d'IA performants et peu coûteux, rivalisant avec les offres de pointe d'OpenAI, l'entreprise derrière ChatGPT. Cependant, OpenAI et Microsoft soupçonnent que DeepSeek a utilisé illégalement les données et modèles d'OpenAI pour développer ses propres solutions. Des chercheurs en sécurité de Microsoft ont détecté une exfiltration importante de données via des comptes développeurs OpenAI, ce qui a conduit à l'ouverture d'une enquête. Bien que l'extraction de données à partir de modèles existants soit une pratique courante, DeepSeek aurait violé les conditions d'utilisation d'OpenAI en utilisant leur API pour construire des modèles concurrents. Cette situation ironique soulève des questions sur la protection de la propriété intellectuelle dans le domaine de l'IA, alors que les entreprises occidentales font face à une concurrence croissante de la part de rivaux chinois.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB320_DEEPSEEK_AI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 29 Jan 2025 10:38:56 GMT"
-    },
-    {
-        "title": "Apple Intelligence",
-        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
-        "body": "Apple a récemment publié iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA. Les fonctionnalités incluent la génération d'images, la création d'emoji personnalisés \"Genmoji\", l'intégration de ChatGPT et des outils d'écriture. Les mises à jour non liées à l'IA incluent la possibilité de changer les applications par défaut et de tester son audition avec AirPods. iPadOS 18 dispose désormais d'une application calculatrice et peut résoudre des équations mathématiques dans les notes. Les mises à jour d'Apple Intelligence seront activées par défaut dans les nouvelles versions des systèmes d'exploitation.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2196119675.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 29 Jan 2025 10:38:56 GMT"
     }
 ]
