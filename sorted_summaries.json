@@ -63,6 +63,13 @@
         "date": "Fri, 31 Jan 2025 21:00:00 GMT"
     },
     {
+        "title": "DeepSeek secoue le marché de l'IA",
+        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
+        "body": "DeepSeek, une startup chinoise, fait parler d'elle dans le domaine de l'IA en proposant des modèles de langage de grande taille et à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Leur modèle phare, R1, rivalise avec o1 d'OpenAI, tandis que leur nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a même fait chuter la valeur des actions de Nvidia de 17 %, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière pour cette dernière. DeepSeek a été fondée en 2023 par Liang Wenfeng et se distingue par sa capacité à développer des modèles open source avec moins d'argent et de GPU que ses concurrents. L'article explore également l'impact de DeepSeek sur le marché boursier, les inquiétudes concernant la sécurité des données et les réponses de ses concurrents.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 31 Jan 2025 20:22:44 GMT"
+    },
+    {
         "title": "Notebook LM : l'IA au service de la créativité et de la compréhension",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/31/more-on-notebook-lm-and-everything-thats-happening-with-this-google-tool/?ss=ai",
         "body": "Notebook LM, un outil de prise de notes transformé en plateforme IA innovante, permet aux utilisateurs de transformer du texte en podcast AI avec des hôtes non humains. Son créateur, Adam Bignell, musicien devenu informaticien, s'inspire de la \"Bibliothèque de Babel\" de Jose Borges, une histoire de bibliothèque infinie. L'objectif de Bignell est de développer des \"outils de réflexion\" et d'utiliser l'IA pour interagir avec des livres. Le processus créatif de Notebook LM implique des artistes et des écrivains, s'éloignant de l'ingénierie pure. L'ajout de podcasts reflète la tendance actuelle et la capacité de l'IA à organiser et à raconter des histoires. Bignell souligne l'utilité de l'application pour aider les étudiants, les entreprises et les consommateurs à comprendre des informations denses et à produire du contenu. Il envisage également d'autres formats de sortie, comme des livres ou des podcasts, et suggère que l'IA peut servir de \"prothèse créative\".",
@@ -201,47 +208,5 @@
         "body": "Mark Zuckerberg a révélé que la vente des lunettes de soleil intelligentes Ray-Ban de Meta a dépassé le million d'unités vendues en 2024. Lors d'une réunion, il a questionné les employés sur les ventes futures, visant jusqu'à 5 millions d'unités en 2025. Les lunettes, lancées en 2023, ont progressivement ajouté de nouvelles fonctionnalités d'IA, comme le traitement de ce que l'utilisateur voit, entend et lit. Zuckerberg a souligné que Meta a « inventé la catégorie » et que les concurrents n'ont pas encore rattrapé leur retard. Il a également mentionné le projet Hypernova, des lunettes de réalité augmentée, et un partenariat potentiel avec Oakley pour de nouvelles lunettes intelligentes.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25012285/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0656.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 30 Jan 2025 22:05:03 GMT"
-    },
-    {
-        "title": "DeepSeek's Cost-Efficient AI Models Spark Debate",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/30/no-deepseek-is-not-a-sputnik-moment/?ss=ai",
-        "body": "La communauté de l'IA est en émoi après que DeepSeek, une entreprise chinoise, ait présenté des modèles d'IA moins coûteux à produire, rivalisant avec ceux des entreprises américaines pour une fraction du coût de développement. Certains fondateurs d'entreprises de l'IA affirment que l'importance des coûts de formation de DeepSeek a été exagérée. DeepSeek a réduit ses coûts en s'appuyant sur des modèles de langage ouvert existants, comme Llama de Meta. Malgré le battage médiatique, les progrès de DeepSeek ne représentent pas une percée révolutionnaire, mais plutôt une optimisation des techniques existantes. L'entreprise a utilisé le renforcement, une technique bien connue, et a rendu sa technologie accessible à tous. DeepSeek a toutefois suscité un débat nécessaire sur l'efficacité des coûts dans un domaine où des entreprises comme OpenAI cherchent des milliards de dollars pour construire des centres de données. La controverse entoure également les allégations d'OpenAI selon lesquelles DeepSeek aurait violé ses conditions d'utilisation en grattant les sorties de ses modèles propriétaires.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679bdebabb801b7f199245f7/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La révolution électrique d'Elon Musk",
-        "link": "https://www.theverge.com/tesla/603393/tesla-car-company-elon-musk-ai-earnings#comments",
-        "body": "Elon Musk souhaite repositionner Tesla comme une entreprise d'intelligence artificielle, bien qu'elle ne génère pas encore de revenus dans ce domaine. Lors d'un appel sur les bénéfices, Musk a accordé peu d'attention à l'activité automobile de base de Tesla, se concentrant plutôt sur les robots humanoïdes et les voitures autonomes. Les ventes de Tesla ont diminué pour la première fois en plus d'une décennie, et la production et les livraisons de véhicules ont baissé. Malgré cela, l'action de l'entreprise a grimpé en flèche, les investisseurs adhérant à la vision de Musk d'un avenir dominé par l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK086_TeslaC.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 20:27:13 GMT"
-    },
-    {
-        "title": "Google lance un outil d'IA pour appeler les entreprises en votre nom",
-        "link": "https://www.theverge.com/news/603501/google-ask-for-me-search-labs#comments",
-        "body": "Google teste un nouvel outil basé sur l'IA qui permet à l'assistant virtuel d'appeler les entreprises pour poser des questions sur les prix et la disponibilité de leurs services. Baptisé \"Ask for Me\", cet outil est pour l'instant limité aux salons de manucure et aux garages automobiles. Les utilisateurs peuvent activer cette expérience dans Google Search Labs et verront une invite \"Ask for Me\" lors de la recherche de ces entreprises locales. Google posera ensuite une série de questions, telles que le type de service souhaité, la marque de la voiture, etc. Les entreprises peuvent choisir de ne pas recevoir ces appels automatisés via leurs paramètres Google Business Profile. L'outil est construit sur la technologie Duplex de Google, qui permet déjà de réserver des tables au restaurant ou des rendez-vous par téléphone.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/google-ai-chatbot.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 20:12:44 GMT"
-    },
-    {
-        "title": "Nvidia's Rivals Rejoice",
-        "link": "https://www.forbes.com/sites/richardnieva/2025/01/30/why-these-ai-chip-startups-are-rejoicing-over-the-deepseek-freakout/?ss=ai",
-        "body": "Les rivaux de Nvidia, notamment Cerebras, SambaNova et Groq, se réjouissent de l'émergence de DeepSeek, une startup chinoise qui a récemment secoué le marché de l'IA en démontrant qu'il est possible d'obtenir des résultats presque aussi bons que les meilleurs acteurs américains à une fraction du coût. DeepSeek a ouvert la voie à une nouvelle approche de l'IA, en mettant l'accent sur l'efficacité et l'accessibilité, ce qui pourrait entraîner une explosion de l'utilisation de l'IA. Les entreprises spécialisées dans l'inférence, le processus permettant aux modèles IA de « penser » et de raisonner, comme Cerebras, sont particulièrement bien placées pour tirer parti de cette évolution. Bien que les affirmations de DeepSeek concernant le faible coût de formation de son modèle soient controversées, elles ont néanmoins impressionné l'industrie et mis en évidence l'importance de l'inférence dans l'amélioration des performances de l'IA. La réaction des rivaux de Nvidia est considérée comme intéressée, car ils cherchent à contester la domination de l'entreprise sur le marché de l'IA, mais elle souligne également l'impact de DeepSeek sur l'évolution du paysage de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679bcec26249096883c80793/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 19:00:00 GMT"
-    },
-    {
-        "title": "Deutsche Bank's DeepSeek AI Memes",
-        "link": "https://www.ft.com/content/4b39c2d8-56d0-439f-9eb5-0b16b31bd301?shareType=nongift",
-        "body": "La banque Deutsche Bank a créé un deck de 25 memes pour expliquer les implications de l'arrivée surprise du modèle d'IA DeepSeek de la Chine. Les memes couvrent divers sujets, y compris le changement de focus de l'industrie vers l'optimisation des modèles LLM plus petits, l'évolution des déploiements d'IA vers des systèmes interconnectés autonomes, et les modèles de revenus des entreprises technologiques pour l'IA. Les memes abordent également les disputes sur les droits d'auteur, les hallucinations, les boucles de rétroaction biaisées, le protectionnisme et la surréglementation. La banque reconnaît également la méfiance du public envers l'IA et souligne l'exposition de l'emploi mondial à l'IA, ainsi que les salaires élevés des ingénieurs en IA.",
-        "image": "",
-        "date": "Thu, 30 Jan 2025 18:40:10 GMT"
-    },
-    {
-        "title": "DeepSeek's Rise",
-        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
-        "body": "DeepSeek, une startup chinoise, bouleverse le secteur de l'IA avec des modèles de langage à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Son modèle phare R1 est capable de performances comparables au modèle o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a un impact sur les marchés financiers, avec une chute de 17 % des actions de Nvidia, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière le 27 janvier. L'assistant IA de DeepSeek est alimenté par son modèle DeepSeek-V3 de pointe, permettant aux utilisateurs de poser des questions, de planifier des voyages et de générer du texte. La startup a attiré l'attention en construisant des modèles IA open-source avec moins d'argent et de GPU que les entreprises leaders du secteur. DeepSeek fait l'objet d'enquêtes de la part d'OpenAI et de Microsoft, qui soupçonnent l'utilisation de leurs données pour entraîner les modèles de DeepSeek. La startup a également connu des problèmes de sécurité, exposant les historiques de discussion des utilisateurs et d'autres informations sensibles. Malgré cela, DeepSeek continue de gagner en popularité et de perturber le marché, avec le soutien de Microsoft qui intègre le modèle R1 dans sa plateforme Azure AI Foundry.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 18:40:10 GMT"
     }
 ]
