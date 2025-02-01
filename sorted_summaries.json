@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir du marketing : l'impact de l'IA sur les stratégies marketing",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/01/31/how-ai-helps-make-marketers-more-effective/?ss=ai",
+        "body": "L'IA transforme le marketing en permettant une personnalisation à grande échelle, des analyses prédictives et une optimisation des campagnes en temps réel. En analysant les données clients, l'IA offre aux marketeurs des insights profonds pour une prise de décision plus efficace et le développement de stratégies marketing ciblées. Les marques peuvent désormais proposer des expériences clients personnalisées, anticiper les tendances de consommation et affiner la segmentation client. L'IA révolutionne également la surveillance des médias sociaux et l'analyse des sentiments, offrant des insights en temps réel pour une réactivité accrue. De plus, l'optimisation des dépenses publicitaires et le ciblage hyper-personnalisé améliorent l'efficacité des campagnes et augmentent les taux de conversion. L'adoption de l'IA dans le marketing est essentielle pour rester compétitif et établir des connexions significatives avec les consommateurs. Les entreprises qui intègrent l'IA dans leurs stratégies marketing bénéficient de campagnes plus intelligentes, d'une meilleure compréhension des clients et d'une croissance des revenus.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679d6c68449354b6c7757900/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 01 Feb 2025 00:41:00 GMT"
+    },
+    {
+        "title": "Tech Titans",
+        "link": "https://www.theverge.com/2025/1/17/24345987/nvidia-jensen-huang-skips-trumps-inauguration",
+        "body": "Plusieurs dirigeants de grandes entreprises technologiques, dont Elon Musk, Mark Zuckerberg et Jeff Bezos, assisteront à l'investiture de Donald Trump. Jensen Huang, PDG de Nvidia, brille par son absence, choisissant plutôt de célébrer le Nouvel An lunaire avec les employés et leurs familles. Huang a néanmoins discuté de l'augmentation de la production des puces d'IA Blackwell de Nvidia avec le président de TSMC, principal fournisseur de l'entreprise. Nvidia contrôle environ 90 % du marché des puces d'IA. L'entreprise a critiqué un nouveau cadre réglementaire en matière d'IA annoncé par l'administration Biden, qui limiterait le nombre de puces d'IA pouvant être exportées vers d'autres pays. Nvidia a salué l'environnement réglementaire plus souple de la première administration Trump et espère un retour à des politiques favorisant le leadership américain dans ce domaine. L'article mentionne également les entreprises et les dirigeants technologiques qui ont fait des dons pour l'investiture de Trump, ainsi que ceux qui ont visité Mar-a-Lago pour courtiser le président élu.",
+        "image": "",
+        "date": "Fri, 31 Jan 2025 21:14:30 GMT"
+    },
+    {
+        "title": "La révolution des puces électroniques",
+        "link": "https://www.forbes.com/sites/marcochiappetta/2025/01/31/the-industrys-first-system-chiplet-for-adas-drones-and-ai-arrives/?ss=ai",
+        "body": "La révolution en cours dans l'industrie des semi-conducteurs, grâce aux avancées dans les technologies de conditionnement et aux progrès de l'IA dans les outils EDA, a permis une explosion de l'innovation dans la conception de puces électroniques. Cadence Design Systems, un leader dans le domaine des EDA, a récemment franchi une étape importante en prototypant et en produisant la première puce Arm-based system chiplet. Cette puce, développée en collaboration avec Arm, est conforme à la norme Arm Chiplet System Architecture (CSA), garantissant ainsi son interopérabilité. La puce Cadence, qui inclut un processeur système, un processeur de gestion de la sécurité et divers contrôleurs, est destinée à simplifier la conception des SoC, à surmonter les défis d'intégration et à accélérer la mise sur le marché. Elle permet aux concepteurs de mettre à l'échelle et de modifier facilement d'autres parties de la conception, répondant ainsi aux exigences spécifiques de chaque application. De plus, la réussite de cette puce rapproche Cadence de son objectif de fournir une référence de conception de puce complète. Cette évolution pourrait avoir un impact significatif sur plusieurs applications à forte demande, notamment les systèmes ADAS, les drones et les centres de données IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679d3dd9a8dbdacf567daa3f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 31 Jan 2025 21:00:00 GMT"
+    },
+    {
         "title": "Notebook LM : l'IA au service de la créativité et de la compréhension",
         "link": "https://www.forbes.com/sites/johnwerner/2025/01/31/more-on-notebook-lm-and-everything-thats-happening-with-this-google-tool/?ss=ai",
         "body": "Notebook LM, un outil de prise de notes transformé en plateforme IA innovante, permet aux utilisateurs de transformer du texte en podcast AI avec des hôtes non humains. Son créateur, Adam Bignell, musicien devenu informaticien, s'inspire de la \"Bibliothèque de Babel\" de Jose Borges, une histoire de bibliothèque infinie. L'objectif de Bignell est de développer des \"outils de réflexion\" et d'utiliser l'IA pour interagir avec des livres. Le processus créatif de Notebook LM implique des artistes et des écrivains, s'éloignant de l'ingénierie pure. L'ajout de podcasts reflète la tendance actuelle et la capacité de l'IA à organiser et à raconter des histoires. Bignell souligne l'utilité de l'application pour aider les étudiants, les entreprises et les consommateurs à comprendre des informations denses et à produire du contenu. Il envisage également d'autres formats de sortie, comme des livres ou des podcasts, et suggère que l'IA peut servir de \"prothèse créative\".",
@@ -12,6 +33,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679d2cf227364c620bf81434/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 31 Jan 2025 20:00:00 GMT"
+    },
+    {
+        "title": "OpenAI lance o3-mini",
+        "link": "https://www.theverge.com/news/603849/openai-o3-mini-launch-chatgpt-api-available-now",
+        "body": "OpenAI lance o3-mini, un nouveau modèle de raisonnement intégré à ChatGPT et à ses API. o3-mini est conçu pour surpasser les performances d'o1 en mathématiques, en programmation et en sciences, tout en fournissant des réponses plus rapides et plus précises. Les utilisateurs gratuits de ChatGPT pourront désormais accéder aux modèles de raisonnement d'OpenAI pour la première fois. o3-mini sera également disponible pour les utilisateurs payants avec des options de réponse plus intelligentes, mais plus lentes à générer. Le modèle est également intégré à la recherche pour fournir des réponses avec des liens vers des sources web. o3-mini est accessible via ChatGPT en sélectionnant la fonction Reason, avec des limites de taux similaires à celles de GPT-4o. Les utilisateurs Plus, Team et Pro de ChatGPT bénéficieront également d'une augmentation de leurs limites de messages quotidiens.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 31 Jan 2025 19:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : Confiance, éthique et responsabilité",
@@ -285,82 +313,5 @@
         "body": "Rivian, en partenariat avec Volkswagen, développe sa prochaine plateforme de véhicules électriques avec une intégration massive de l'IA. L'entreprise vise l'autonomie de niveau 3 d'ici 2026, permettant aux conducteurs de détourner leur regard de la route. Le PDG, RJ Scaringe, souligne l'importance de la valeur client d'une autonomie de niveau 2 robuste et de niveau 3 dans des domaines spécifiques. L'intégration de l'IA améliorera l'expérience de conduite autonome et à l'intérieur du véhicule. Le Chief Software Officer, Wassym Bensaid, explique que l'IA permettra aux véhicules de répondre aux questions des conducteurs et de prendre des rendez-vous d'entretien de manière proactive. Rivian se concentre sur l'allocation de ressources pour les fonctionnalités clés, tout en gardant à l'esprit les coûts. L'entreprise prévoit une croissance avec un prêt du Département américain de l'énergie pour sa nouvelle usine en Géorgie et l'expansion de ses showrooms et centres de service aux États-Unis.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679a8301522c4af49a67d34f/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 30 Jan 2025 05:40:00 GMT"
-    },
-    {
-        "title": "La course à l'autonomie",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/01/29/musk-claims-tesla-will-offer-robotaxi--by-june--skepticism-is-high/?ss=ai",
-        "body": "Elon Musk annonce qu'un service de robotaxis sans supervision sera lancé par Tesla à Austin, au Texas, d'ici juin, et dans d'autres marchés d'ici l'année prochaine. Cette affirmation est accueillie avec scepticisme, Musk ayant fait des prédictions similaires sans les réaliser. Le service sera proposé via des véhicules appartenant à la flotte Tesla, et les clients recevront le logiciel FSD. Musk admet que le système ne nécessite pas de cartographie, ce qui permet une expansion rapide, et affirme que Tesla FSD sera « indiscutablement plus sûr » que la conduite manuelle. Cependant, les données à l'appui de cette affirmation sont remises en question. Des propriétaires indépendants de Tesla signalent des interventions fréquentes lors de l'utilisation du logiciel FSD, tandis qu'une étude de SwissRe sur les robotaxis Waymo sans conducteur a révélé un taux d'accident plus élevé. Malgré les affirmations de Musk, la cartographie reste importante pour la sécurité, comme le démontre Waymo. Tesla fait face à des obstacles réglementaires, mais Musk, en tant que nouveau directeur de l'efficacité gouvernementale, pourrait influencer la réglementation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679ad905b172bc01a8fba942/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 01:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : investissements stratégiques et avantages concurrentiels",
-        "link": "https://www.theverge.com/news/602233/meta-deepseek-zuckerberg-earings-q4",
-        "body": "Mark Zuckerberg, PDG de Meta, a réaffirmé l'importance des investissements importants dans les infrastructures et les dépenses en capital (CapEx) pour maintenir un avantage stratégique dans le domaine de l'IA. Cette déclaration fait suite à l'inquiétude du marché concernant la montée de DeepSeek et son impact potentiel sur les actions des entreprises d'IA. Zuckerberg a reconnu les réalisations impressionnantes de DeepSeek avec des ressources limitées, mais a souligné que Meta intégrera ses avancées dans son propre modèle Llama. Il prévoit que les ressources informatiques seront de plus en plus utilisées pour aider les modèles d'IA à mieux « raisonner », plutôt que pour la formation uniquement. Zuckerberg a également souligné la solidité du modèle économique de Meta pour soutenir ses investissements importants dans l'IA, contrairement à certaines startups non rentables. L'entreprise prévoit de lancer Llama 4 avec des capacités multimodales et « agentiques » dans les prochains mois, et s'attend à ce que son assistant IA atteigne un milliard d'utilisateurs cette année.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 00:21:50 GMT"
-    },
-    {
-        "title": "Wealth Automation",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/01/30/5-chatgpt-prompts-to-build-wealth-doing-nothing/?ss=ai",
-        "body": "L'article fournit des conseils pour créer des flux de revenus passifs et automatiser la création de richesse, en mettant l'accent sur l'utilisation d'outils comme ChatGPT pour configurer des systèmes de création de richesse sans intervention manuelle. Il suggère de transformer sa mentalité vis-à-vis de l'argent, de passer d'une source de revenus unique à multiple, d'automatiser ses investissements et de transformer son entreprise en une machine à créer de la richesse. L'article propose également d'identifier de petites habitudes quotidiennes qui, à long terme, peuvent avoir un impact positif significatif sur la situation financière.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679b0947c7bcb8bfda119e1a/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Gemini Visualise les Données pour Vous",
-        "link": "https://www.theverge.com/news/602215/gemini-ai-can-automatically-turn-your-spreadsheets-into-charts#comments",
-        "body": "Google a annoncé une nouvelle fonctionnalité pour Gemini, son assistant IA sur Sheets (Google Sheets). Désormais, Gemini peut répondre aux questions des utilisateurs sur leurs données en fournissant des informations sur les tendances ou en créant des graphiques statiques qui peuvent être insérés dans les feuilles de calcul sous forme d'images. Cette fonctionnalité est disponible pour la plupart des plans Google Workspace et pour les utilisateurs du plan Google One AI Premium à 19,99 $ par mois. Gemini crée et exécute du code Python pour analyser les données, tout en utilisant également des formules de feuille de calcul pour des demandes plus simples. Cette mise à jour pourrait épargner aux utilisateurs l'ennui et les maux de tête associés à la création de visualisations de données. Auparavant, Gemini était limité à des tâches plus simples, telles que fournir des instructions ou créer des tableaux. Google précise que les visualisations de données générées par l'IA sont des images statiques et que les utilisateurs devront demander une nouvelle visualisation à chaque mise à jour de leurs données. La fonctionnalité devrait être entièrement déployée d'ici le 20 février.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Wed, 29 Jan 2025 23:01:15 GMT"
-    },
-    {
-        "title": "L'essor de l'IA conversationnelle",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes, appelés grands modèles linguistiques, fonctionnent en analysant les propriétés statistiques du langage, permettant de faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de faits codés en dur, ils peuvent générer des réponses plausibles, mais doivent faire face au défi de présenter des informations fausses comme vraies. L'article explore les nouveaux développements dans le domaine, y compris les capacités améliorées, les controverses et l'intégration dans diverses plateformes et applications.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 29 Jan 2025 23:01:15 GMT"
-    },
-    {
-        "title": "La révolution de la vision par IA : quand la fiction devient réalité",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2489842_chatgpt-ouvre-les-yeux-la-revolution-de-la-vision-en-direct-debarque-en-france",
-        "body": "OpenAI a récemment déployé en Europe sa fonction \"Live Camera\" pour ChatGPT, permettant à l'IA de voir et de comprendre le monde en temps réel. Cette technologie, basée sur le modèle GPT-4, peut décrire l'environnement avec une précision étonnante, ce qui pourrait révolutionner la vie des personnes malvoyantes. Bien que perfectible et soulevant des questions de confidentialité, cette avancée rapproche un peu plus la fiction du film \"Her\" où l'homme tombe amoureux d'une IA, de la réalité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/image-93-768x512.jpg?resize=200,200&key=7d9d079c",
-        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Des chercheurs reproduisent une IA de pointe pour 30 dollars",
-        "link": "https://www.frandroid.com/culture-tech/2488790_ces-chercheurs-ont-reproduit-une-version-de-deepseek-pour-30-dollars",
-        "body": "Une équipe de l'Université de Berkeley a recréé le cœur de la technologie de DeepSeek, un modèle open source, pour seulement 30 dollars. Jiayi Pan, doctorant, a détaillé la méthodologie utilisée pour développer une IA basée sur DeepSeek R1-Zero, dans une série de publications sur X (anciennement Twitter). La version initiale de l'IA, avec 500 millions de paramètres, produisait des réponses erronées, mais en augmentant progressivement sa capacité à 3 milliards de paramètres, l'IA a pu fournir des réponses correctes et se corriger. Les coûts techniques de cette expérience sont significativement inférieurs à ceux d'OpenAI, qui facture 15 dollars par million de jetons d'entrée, contre 0,55 dollar pour DeepSeek-R1. La méthodologie détaillée est disponible sur GitHub.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-illustration-1200x750-1-768x480.jpg?resize=188,188&key=3e818cab",
-        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek R1 sur les appareils Snapdragon X",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2489218_deepseek-les-pc-copilot-auront-bientot-droit-a-lune-des-meilleures-ia-du-marche",
-        "body": "Microsoft annonce la disponibilité des modèles d'IA DeepSeek R1, optimisés pour les appareils équipés de processeurs Snapdragon X, Intel Lunar Lake et AMD Ryzen AI 9. Le modèle initial, DeepSeek-R1-Distill-Qwen-1.5B, sera accessible via le Microsoft AI Toolkit pour Visual Studio Code, avec des versions plus puissantes à venir. Ces modèles sont conçus pour tirer pleinement parti des unités de traitement neuronal (NPU) des PC Copilot+, nécessitant au moins 16 Go de RAM et 256 Go de stockage. Microsoft a optimisé DeepSeek R1 pour un fonctionnement économe en ressources, grâce à une architecture à fenêtre glissante et une quantification en 4 bits. Les utilisateurs peuvent tester DeepSeek R1 localement ou via Azure AI Foundry dans le cloud.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-smartphone-768x480.jpg?resize=188,188&key=ea096fdc",
-        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Deepseek retiré des stores italiens",
-        "link": "https://www.frandroid.com/android/2488604_deepseek-le-chatbot-chinois-pourrait-il-etre-interdit-en-europe",
-        "body": "L'application Deepseek a été retirée du Play Store et de l'App Store en Italie, soulevant des questions sur la protection des données personnelles et le respect du RGPD. Ce retrait survient 24 heures après une demande d'information de l'autorité italienne de régulation des données personnelles (GPDP) concernant le traitement des données par le chatbot. Bien que le lien entre le retrait et l'enquête ne soit pas officiellement confirmé, la décision italienne pourrait avoir un impact sur la disponibilité de Deepseek dans toute l'Europe, car la société n'a pas déclaré d'autorité tête de file pour la protection des données dans l'UE. La GPDP a déjà fait parler d'elle en 2023 en poussant OpenAI à retirer ChatGPT des stores italiens pour des raisons similaires. La situation italienne attire l'attention des autres autorités de protection des données en Europe, et Deepseek pourrait choisir de se retirer volontairement de l'UE pour éviter des sanctions potentielles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-multi-illustration-768x480.jpg?resize=188,188&key=d2e678f9",
-        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "IA Agent Builder",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/01/29/postman-unveils-an-api-first-ai-agent-builder/?ss=ai",
-        "body": "Postman, une plateforme API de premier plan, lance l'IA Agent Builder, un outil d'IA générative. Cet outil permet aux développeurs de concevoir, construire, tester et déployer des agents intelligents en intégrant des modèles linguistiques, des API et des workflows. Les agents IA transforment notre interaction avec la technologie, en comprenant le contexte, en prenant des décisions et en exécutant des tâches de manière autonome. La sophistication croissante des agents IA augmente leur dépendance aux API, qui agissent comme un lien crucial vers le monde extérieur. Abhinav Asthana, cofondateur et PDG de Postman, prédit une augmentation de l'utilité des API avec la popularité des agents IA. L'IA Agent Builder de Postman offre diverses applications, notamment la création de chatbots, l'automatisation des processus et l'extraction d'informations. Ses concurrents incluent Dialogflow, IBM Watson et Microsoft Bot Framework. La plateforme complète de Postman, qui combine le développement d'API, l'intégration de LLM et l'automatisation des workflows, la distingue de ses concurrents. L'IA Agent Builder de Postman simplifie l'interaction API, rationalise les workflows et permet la création d'agents intelligents pour des tâches complexes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679abda66955fd9bcc56863d/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 29 Jan 2025 23:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek's Trademark Troubles",
-        "link": "https://techcrunch.com/2025/01/29/deepseek-might-have-a-trademark-problem-in-the-u-s/",
-        "body": "La société chinoise d'IA DeepSeek est confrontée à un nouveau problème : un conflit de marque aux États-Unis. DeepSeek a déposé une demande de marque pour ses applications, produits et outils de chatbot basés sur l'IA, mais une autre entreprise, Delson Group Inc., a déposé une demande similaire 36 heures plus tôt. Delson Group, dirigée par Willie Lu, affirme vendre des produits DeepSeek depuis 2020. La demande de Delson Group mentionne une adresse à Cupertino et son site web propose un cours sur l'IA Super-Intelligence dispensé par Lu. DeepSeek a maintenant des options limitées car, en vertu de la loi américaine, le premier utilisateur d'une marque est généralement considéré comme son propriétaire légitime. Les antécédents de Delson Group suggèrent une histoire de squat de marque, et des experts juridiques affirment que DeepSeek pourrait faire face à un cas solide de violation de marque.",
-        "image": "",
-        "date": "Wed, 29 Jan 2025 21:45:14 GMT"
     }
 ]
