@@ -1,10 +1,24 @@
 [
     {
+        "title": "Protection des données",
+        "link": "https://www.bloomberg.com/news/articles/2025-01-31/amazon-mississippi-data-center-costs-jump-to-16-billion",
+        "body": "Résumé : Cet article souligne l'importance de protéger les données et de s'assurer que les utilisateurs ne sont pas des robots. Il met en évidence les mesures que les utilisateurs doivent prendre, telles que l'activation de JavaScript et des cookies, et la consultation des conditions de service et de la politique en matière de cookies. Ces mesures sont essentielles pour garantir la sécurité et l'intégrité des données, ce qui est crucial pour les professionnels de l'IA qui travaillent avec de grands ensembles de données et des modèles complexes.",
+        "image": "",
+        "date": "Sat, 01 Feb 2025 16:10:00 GMT"
+    },
+    {
         "title": "Microsoft crée une unité de planification avancée pour explorer l'avenir de l'IA",
         "link": "https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/",
         "body": "Microsoft a annoncé la création d'une nouvelle unité, l'Advanced Planning Unit (APU), au sein de sa division Microsoft AI, pour étudier les implications sociétales, sanitaires et professionnelles de ses technologies d'IA. L'IA est devenue essentielle à la stratégie de croissance de Microsoft, ce qui a suscité des préoccupations chez certains actionnaires. L'APU, dirigée par le PDG de Microsoft AI, Mustafa Suleyman, combinera recherche de pointe et exploration de scénarios futurs de l'IA. L'unité fera des recommandations de produits et planifiera des événements, des publications et des rapports pour améliorer la compréhension de l'IA. Microsoft n'est pas la seule entreprise à se réorganiser et à embaucher pour étudier l'impact de l'IA, OpenAI a également embauché son premier économiste en chef pour étudier l'influence de l'IA sur la croissance économique et l'emploi.",
         "image": "",
         "date": "Sat, 01 Feb 2025 15:04:00 GMT"
+    },
+    {
+        "title": "La fin de l'hystérie ?",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/02/01/panic-over-deepseek-exposes-ais-weak-foundation-on-hype/?ss=ai",
+        "body": "L'article remet en question l'idée que les grands modèles linguistiques (LLM) sont le Saint Graal de l'IA, et suggère que l'engouement autour de l'investissement dans l'IA est exagéré. Bien que les LLM représentent une avancée significative, leur capacité à imiter la fluence humaine ne signifie pas que l'intelligence artificielle générale (AGI) est imminente. L'auteur souligne que les capacités des LLM sont limitées à un ensemble restreint de tâches et qu'elles ne reflètent pas les capacités humaines globales. Bien que les LLM aient un impact significatif, l'auteur suggère que leur importance relative dans le domaine de l'IA est exagérée et qu'il est nécessaire de remettre en question l'hystérie qui entoure l'AGI.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679e2201e88d791fccbe3be0/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 01 Feb 2025 15:00:00 GMT"
     },
     {
         "title": "La structure LLM à mélange d'experts devient très populaire grâce à DeepSeek AI",
@@ -229,47 +243,5 @@
         "body": "DeepSeek, une startup chinoise, bouleverse le secteur de l'IA avec des modèles de langage à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Son modèle phare R1 est capable de performances comparables au modèle o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a un impact sur les marchés financiers, avec une chute de 17 % des actions de Nvidia, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière le 27 janvier. L'assistant IA de DeepSeek est alimenté par son modèle DeepSeek-V3 de pointe, permettant aux utilisateurs de poser des questions, de planifier des voyages et de générer du texte. La startup a attiré l'attention en construisant des modèles IA open-source avec moins d'argent et de GPU que les entreprises leaders du secteur. DeepSeek fait l'objet d'enquêtes de la part d'OpenAI et de Microsoft, qui soupçonnent l'utilisation de leurs données pour entraîner les modèles de DeepSeek. La startup a également connu des problèmes de sécurité, exposant les historiques de discussion des utilisateurs et d'autres informations sensibles. Malgré cela, DeepSeek continue de gagner en popularité et de perturber le marché, avec le soutien de Microsoft qui intègre le modèle R1 dans sa plateforme Azure AI Foundry.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 30 Jan 2025 18:40:10 GMT"
-    },
-    {
-        "title": "DeepSeek expose des données sensibles",
-        "link": "https://www.theverge.com/news/603163/deepseek-breach-ai-security-database-exposed#comments",
-        "body": "Des chercheurs en sécurité ont découvert une base de données exposée appartenant à la startup chinoise d'IA DeepSeek, qui contenait des informations sensibles telles que les historiques de chat des utilisateurs, les clés d'authentification API et les journaux système. La base de données était accessible publiquement, sans aucune authentification requise, et était hébergée dans un système de gestion de données open source appelé ClickHouse. L'exposition a potentiellement permis un contrôle total de la base de données et une escalade des privilèges au sein de l'environnement DeepSeek, ce qui aurait pu donner aux acteurs malveillants un accès aux systèmes internes de la startup. DeepSeek a sécurisé la base de données après avoir été notifié du problème, mais il n'est pas clair si des personnes non autorisées ont pu accéder aux données exposées auparavant. Les chercheurs ont souligné que les systèmes de DeepSeek sont conçus de manière similaire à ceux d'OpenAI, ce qui a conduit OpenAI à accuser DeepSeek d'utiliser ses données pour entraîner ses modèles d'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848982/STKB320_DEEPSEEK_AI_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 17:41:15 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des modèles accessibles et efficaces",
-        "link": "https://www.theverge.com/notepad-microsoft-newsletter/603170/microsoft-deepseek-ai-azure-notepad#comments",
-        "body": "Microsoft s'adapte rapidement à l'évolution du paysage de l'IA, adoptant le modèle R1 de DeepSeek, une startup chinoise, qui offre des performances similaires au modèle o1 d'OpenAI à un prix bien inférieur. Cette décision, soutenue par le PDG Satya Nadella, démontre la volonté de Microsoft de réduire les coûts de l'IA et d'améliorer son accessibilité. DeepSeek a secoué le monde de l'IA en présentant son modèle R1, entraînant une perte de 600 milliards de dollars de la valeur marchande de Nvidia. La rapidité de Microsoft à adopter R1 souligne sa préparation à ce changement, avec Nadella anticipant une évolution vers l'efficacité computationnelle. Microsoft explore la possibilité de déployer R1 sur Azure AI Foundry, GitHub et ses outils Copilot, augmentant ainsi les capacités de l'IA sur Windows. L'entreprise vise à réduire les coûts de l'IA et à augmenter sa consommation, comme l'indique Nadella en faisant référence au paradoxe de Jevons. Pendant ce temps, OpenAI s'associe à SoftBank pour Stargate, un projet de centre de données d'IA, mais conserve un accord de partage de revenus avec Microsoft, donnant à ce dernier une flexibilité stratégique.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/247141_NOTEPAD_DEEPSEEK_AI_MICROSOFT_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : une mise à jour progressive",
-        "link": "https://www.theverge.com/apple/602270/apple-intelligence-video-container#comments",
-        "body": "Bien qu'Apple ait présenté sa gamme iPhone 16 comme étant \"conçue pour Apple Intelligence\", le déploiement de l'IA par Apple a été progressif. Les fonctionnalités annoncées, telles que les gradients lumineux indiquant la présence de l'IA, la modification du ton des e-mails et l'outil de retouche photo, sont arrivées progressivement via des mises à jour iOS 18. Aujourd'hui, avec iOS 18.3, de nouvelles fonctionnalités sont proposées, notamment Visual Intelligence, Image Playground, la génération d'images par IA, Genmoji et une extension ChatGPT pour Siri. De futures mises à jour, comme iOS 18.4, pourraient permettre à Siri de comprendre le contenu de l'écran et d'agir en conséquence.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/apple-intelligence-so-far-were-promises-kept.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 16:14:06 GMT"
-    },
-    {
-        "title": "La chute de Silicon Valley",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/01/30/did-deepseek-copy-off-of-openai-and-what-is-distillation/?ss=ai",
-        "body": "L'annonce récente de la société chinoise DeepSeek concernant son modèle R1 à hautes performances et faibles coûts en ressources a secoué le marché boursier américain et continue de créer des ondes de choc dans le monde entier. Des allégations récentes suggèrent que DeepSeek a utilisé l'API GPT-4 d'OpenAI à grande échelle pour générer des réponses à des millions de prompts, contournant les limites de taux et utilisant des comptes multiples. Cette pratique, connue sous le nom de « distillation », est un transfert de connaissances d'un grand modèle vers un modèle plus petit et plus efficace. Bien que DeepSeek ait une approche différente, la distillation peut être utile pour appliquer l'IA aux appareils terminaux, comme les voitures autonomes. Les experts de l'industrie prévoient que les entreprises américaines de premier plan prendront des mesures pour empêcher la distillation, alors que le gouvernement américain cherche à renforcer les contrôles à l'exportation pour empêcher la Chine de créer des « imitations » de systèmes LLM puissants.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67361f1d578f760fac866979/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir incertain du droit d'auteur pour l'IA générative",
-        "link": "https://www.theverge.com/news/602096/copyright-office-says-ai-prompting-doesnt-deserve-copyright-protection#comments",
-        "body": "Le droit d'auteur américain ne protège pas actuellement les œuvres créées uniquement à partir de prompts textuels, même détaillés, selon le US Copyright Office. Bien que les principes existants du droit d'auteur s'appliquent à l'IA générative, ils offrent une protection limitée. Les prompts ne donnent pas suffisamment de contrôle pour que les utilisateurs d'un système d'IA soient considérés comme les auteurs de la sortie. Cela signifie que les œuvres générées par l'IA, comme les images ou les textes, ne sont pas protégées, même si des modifications humaines importantes sont apportées par la suite. Cependant, l'utilisation de l'IA comme outil d'assistance dans le processus créatif humain ne met pas nécessairement en péril la protection du droit d'auteur. Le rapport souligne que la question clé est le degré de contrôle humain, plutôt que la prévisibilité du résultat. Le Copyright Office reconnaît que la technologie pourrait évoluer, permettant potentiellement une protection du droit d'auteur pour les œuvres générées par l'IA, mais pour l'instant, l'incertitude demeure.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK149_AI_Chatbot_K_Radtke.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 15:51:20 GMT"
-    },
-    {
-        "title": "Copilot intègre le modèle o1 d'OpenAI",
-        "link": "https://www.theverge.com/news/603149/microsoft-openai-o1-model-copilot-think-deeper-free",
-        "body": "Microsoft rend accessible à tous les utilisateurs de Copilot, et sans frais supplémentaire, le modèle de raisonnement o1 d'OpenAI. Cette fonctionnalité, appelée \"Think Deeper\", permet à Copilot de traiter des questions plus complexes et de fournir des réponses détaillées étape par étape. Introduite initialement en octobre en tant que fonctionnalité payante de Copilot Pro, elle est désormais disponible gratuitement pour tous les utilisateurs. La fonctionnalité \"Think Deeper\" peut être activée en appuyant sur un bouton, et elle prend environ 30 secondes pour réfléchir à la question sous différents angles. Cette annonce a été faite par Mustafa Suleyman, PDG de Microsoft AI, qui a exprimé son enthousiasme à l'idée d'offrir cette opportunité aux dizaines de millions d'utilisateurs de Copilot.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357666/STK259_MICROSOFT_COPILOT_2__A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 15:42:03 GMT"
     }
 ]
