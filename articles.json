@@ -1,41 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.wsj.com/tech/ai/openai-in-talks-for-huge-investment-round-valuing-it-up-to-340-billion-2a2d4327",
-        "image": "",
-        "date": "Thu, 30 Jan 2025 20:08:06 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.ft.com/content/4b39c2d8-56d0-439f-9eb5-0b16b31bd301?shareType=nongift",
-        "image": "",
-        "date": "Thu, 30 Jan 2025 18:40:10 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 18:40:10 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/01/30/no-deepseek-is-not-a-sputnik-moment/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679bdebabb801b7f199245f7/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 21:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/richardnieva/2025/01/30/why-these-ai-chip-startups-are-rejoicing-over-the-deepseek-freakout/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679bcec26249096883c80793/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 19:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/charliefink/2025/01/30/new-copyright-protection-for-ai-plus-new-ai-models-from-pica-hailuo-and-bytedance/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679c0cc876a2ac916a51cbbf/0x0.jpg?format=jpg&crop=2688,1512,x0,y138,safe&width=440",
         "date": "Thu, 30 Jan 2025 23:00:00 GMT",
@@ -71,20 +36,13 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/tesla/603393/tesla-car-company-elon-musk-ai-earnings#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK086_TeslaC.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 20:27:13 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/01/31/the-rise-of-ai-scientists-is-agentic-ai-the-future-of-rd/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679c7480457c1ff94167cd77/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 31 Jan 2025 07:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "DeepSeek : une faille de s\u00e9curit\u00e9 pourrait exposer vos donn\u00e9es sur Internet",
+        "title": "DeepSeek : une faille de sécurité pourrait exposer vos données sur Internet",
         "link": "https://www.frandroid.com/culture-tech/2489916_deepseek-une-faille-de-securite-pourrait-exposer-vos-donnees-sur-internet",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-logo-1200x750-1-768x480.png?resize=188,188&key=892dca57",
         "date": "Thu, 30 Jan 2025 23:00:00 GMT",
@@ -95,13 +53,6 @@
         "link": "https://www.theverge.com/command-line-newsletter/603754/mark-zuckerberg-tells-employees-to-buckle-up-in-leaked-all-hands-meeting#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 30 Jan 2025 22:47:15 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/603501/google-ask-for-me-search-labs#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/google-ai-chatbot.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 30 Jan 2025 20:12:44 GMT",
         "check": "yes"
     },
     {
@@ -203,7 +154,7 @@
         "check": "yes"
     },
     {
-        "title": "Small 3 de Mistral AI : une IA fran\u00e7aise qui tient dans votre MacBook",
+        "title": "Small 3 de Mistral AI : une IA française qui tient dans votre MacBook",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2491460_small-3-de-mistral-ai-une-ia-francaise-qui-tient-dans-votre-macbook",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-4-1200x800-1-768x512.jpg?resize=200,200&key=c14febd2",
         "date": "Fri, 31 Jan 2025 23:00:00 GMT",
@@ -217,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Flash 2.0 sur l\u2019application Gemini : \u00e7a change quoi concr\u00e8tement",
+        "title": "Flash 2.0 sur l’application Gemini : ça change quoi concrètement",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2490150_flash-2-0-sur-lapplication-gemini-ca-change-quoi-concretement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/design-sans-titre-62-1200x675-1-768x432.jpg?resize=169,169&key=4e5b1ecc",
         "date": "Thu, 30 Jan 2025 23:00:00 GMT",
