@@ -1,10 +1,31 @@
 [
     {
+        "title": "La structure LLM à mélange d'experts devient très populaire grâce à DeepSeek AI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/01/mixture-of-experts-ai-reasoning-models-suddenly-taking-center-stage-due-to-chinas-deepseek-shock-and-awe/?ss=ai",
+        "body": "La structure LLM à mélange d'experts (MoE) est récemment devenue très populaire grâce à la sortie de DeepSeek AI, un modèle LLM similaire à ChatGPT. DeepSeek, une entreprise chinoise, affirme avoir développé son IA à un coût nettement inférieur, remettant ainsi en question l'idée selon laquelle seuls des ressources matérielles importantes et coûteuses peuvent produire un modèle performant. La structure MoE divise le LLM en plusieurs composants ou \"experts\", chacun spécialisé dans un domaine spécifique. Cette approche présente des avantages, tels qu'une plus grande rapidité et une meilleure adaptabilité à des domaines précis, mais également des inconvénients, comme la nécessité de router correctement les requêtes vers l'expert approprié. La structure MoE est utilisée par plusieurs modèles LLM de premier plan, et son efficacité par rapport aux approches monolithiques traditionnelles reste un sujet de débat.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679d8db9a1772d5f6b1a26e4/0x0.jpg?format=jpg&crop=1296,971,x58,y0,safe&width=440",
+        "date": "Sat, 01 Feb 2025 08:00:00 GMT"
+    },
+    {
         "title": "L'avenir du marketing : l'impact de l'IA sur les stratégies marketing",
         "link": "https://www.forbes.com/sites/kathleenwalch/2025/01/31/how-ai-helps-make-marketers-more-effective/?ss=ai",
         "body": "L'IA transforme le marketing en permettant une personnalisation à grande échelle, des analyses prédictives et une optimisation des campagnes en temps réel. En analysant les données clients, l'IA offre aux marketeurs des insights profonds pour une prise de décision plus efficace et le développement de stratégies marketing ciblées. Les marques peuvent désormais proposer des expériences clients personnalisées, anticiper les tendances de consommation et affiner la segmentation client. L'IA révolutionne également la surveillance des médias sociaux et l'analyse des sentiments, offrant des insights en temps réel pour une réactivité accrue. De plus, l'optimisation des dépenses publicitaires et le ciblage hyper-personnalisé améliorent l'efficacité des campagnes et augmentent les taux de conversion. L'adoption de l'IA dans le marketing est essentielle pour rester compétitif et établir des connexions significatives avec les consommateurs. Les entreprises qui intègrent l'IA dans leurs stratégies marketing bénéficient de campagnes plus intelligentes, d'une meilleure compréhension des clients et d'une croissance des revenus.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679d6c68449354b6c7757900/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 01 Feb 2025 00:41:00 GMT"
+    },
+    {
+        "title": "Small 3, un modèle de langage français",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2491460_small-3-de-mistral-ai-une-ia-francaise-qui-tient-dans-votre-macbook",
+        "body": "Mistral AI, une entreprise française, a développé Small 3, un modèle de langage de 24 milliards de paramètres qui fonctionne sur un MacBook avec 32 Go de RAM. Small 3 se positionne comme une alternative aux modèles propriétaires, avec un score impressionnant de 81 % au test MMLU. L'approche de Mistral AI, qui réduit le nombre de couches du modèle, permet d'obtenir des réponses rapides et précises. Le modèle open source, sous licence Apache 2.0, offre une transparence dans le processus d'entraînement et peut être adapté à des besoins spécifiques. Small 3 est prometteur dans des domaines tels que la détection des fraudes, le conseil juridique et la santé. Mistral AI prévoit de lancer d'autres modèles de différentes tailles avec des capacités de raisonnement améliorées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-4-1200x800-1-768x512.jpg?resize=200,200&key=c14febd2",
+        "date": "Fri, 31 Jan 2025 23:00:00 GMT"
+    },
+    {
+        "title": "OpenAI lance o3-mini : une nouvelle ère pour ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/2491444_openai-lance-o3-mini-dans-chatgpt-et-vous-pouvez-le-tester-gratuitement",
+        "body": "OpenAI a annoncé o3-mini, la dernière mise à jour de son modèle d'IA conversationnel, un an après le lancement de o1. o3-mini est conçu pour égaler les performances de o1 en mathématiques, en codage et en sciences, tout en fournissant des réponses plus rapides. Les développeurs peuvent y accéder via les API d'OpenAI, et les utilisateurs payants ont également la possibilité d'utiliser o3-mini-high pour des réponses plus intelligentes. o3-mini est également intégré à la recherche, fournissant des réponses avec des liens vers des sources Web. Cette mise à jour marque la première fois que les utilisateurs gratuits de ChatGPT peuvent tester les modèles de raisonnement d'OpenAI. o3-mini est disponible sur Microsoft Azure OpenAI Service, GitHub Copilot et ChatGPT.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-1-1-768x432.jpg?resize=169,169&key=8e02d813",
+        "date": "Fri, 31 Jan 2025 23:00:00 GMT"
     },
     {
         "title": "Tech Titans",
@@ -103,6 +124,13 @@
         "body": "Google annonce la mise à disposition de son modèle d'IA Gemini 2.0 dans les applications web et mobiles de Gemini. Ce modèle amélioré offre des réponses plus rapides et de meilleures performances pour diverses tâches, telles que la réflexion, l'apprentissage ou l'écriture. La mise à jour sera disponible pour tous les utilisateurs. Google indique également que les versions précédentes (1.5 Flash et 1.5 Pro) resteront accessibles pendant quelques semaines. La version 2.0, annoncée en décembre, est désormais intégrée aux produits Google. De plus, les capacités de génération d'images de Gemini ont été mises à niveau vers la dernière version d'Imagen 3, offrant des détails et une précision améliorés.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
         "date": "Fri, 31 Jan 2025 00:35:19 GMT"
+    },
+    {
+        "title": "Gemini 2.0 : une IA plus rapide et plus polyvalente",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2490150_flash-2-0-sur-lapplication-gemini-ca-change-quoi-concretement",
+        "body": "L'application Gemini, désormais disponible en France, présente sa nouvelle mise à jour 2.0. Celle-ci apporte une amélioration notable de la vitesse de réponse de l'IA, rendant les interactions plus fluides, notamment lors des sessions de brainstorming ou de rédaction. De plus, le modèle a été optimisé pour trois types d'utilisation spécifiques : le brainstorming, l'apprentissage et l'écriture, avec une meilleure compréhension du contexte et du style demandé. Les utilisateurs pourront basculer entre l'ancienne et la nouvelle version pendant quelques semaines. Une autre évolution importante concerne l'intégration d'Imagen 3 AI, qui améliore la qualité et la précision des images générées par Gemini.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/design-sans-titre-62-1200x675-1-768x432.jpg?resize=169,169&key=4e5b1ecc",
+        "date": "Thu, 30 Jan 2025 23:00:00 GMT"
     },
     {
         "title": "Faille de sécurité critique chez DeepSeek",
@@ -299,12 +327,5 @@
         "body": "DeepSeek, un nouveau modèle de langage, attire l'attention en raison de sa capacité à révéler son raisonnement interne avant de donner une réponse. Bien qu'il ne \"pense\" pas vraiment au sens humain du terme, il offre un aperçu fascinant de son processus de décision, notamment lorsqu'il est confronté à des dilemmes moraux ou à des demandes de violation de ses règles. DeepSeek reconnaît les limites de ses capacités, évite les sujets interdits et navigue dans des situations complexes tout en restant dans des cadres éthiques et légaux. L'article explore les interactions avec DeepSeek, révélant sa conscience de ses propres limites et de l'impact potentiel de ses réponses, tout en maintenant une position neutre sur des questions controversées.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679b4ae97aa1c01ca87f38c7/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 30 Jan 2025 10:00:00 GMT"
-    },
-    {
-        "title": "L'aube de l'informatique quantique",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/01/30/5-critical-quantum-computing-facts-business-leaders-cant-afford-to-miss/?ss=ai",
-        "body": "L'informatique quantique, autrefois concept théorique, est désormais une réalité commerciale. Les entreprises investissent massivement dans cette technologie, qui, aux côtés de l'IA, devrait être l'une des plus transformatrices du siècle. Les premiers cas d'utilisation combinent l'informatique quantique et classique, et sont déjà mis en œuvre dans des domaines tels que la finance, la bioscience et l'automobile. La pénurie de professionnels qualifiés en informatique quantique est un défi majeur, mais les établissements d'enseignement et les entreprises travaillent à combler cette lacune. L'accès à l'informatique quantique se fera principalement via des services cloud, avec de grands acteurs technologiques offrant déjà des solutions « quantum-as-a-service ». Les investisseurs se ruent pour financer les développeurs de logiciels et de matériel, anticipant un marché de plusieurs milliards de dollars. Enfin, les experts se préparent déjà à un monde post-quantique, où la sécurité et le chiffrement actuels pourraient être vulnérables. Les entreprises, en particulier dans les secteurs sensibles, doivent agir dès maintenant pour se préparer à cette révolution.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679b229b6c42289e83164eb7/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 30 Jan 2025 07:00:00 GMT"
     }
 ]
