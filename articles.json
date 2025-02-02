@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Small 3 de Mistral AI : une IA française qui tient dans votre MacBook",
+        "title": "Small 3 de Mistral AI : une IA fran\u00e7aise qui tient dans votre MacBook",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2491460_small-3-de-mistral-ai-une-ia-francaise-qui-tient-dans-votre-macbook",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-4-1200x800-1-768x512.jpg?resize=200,200&key=c14febd2",
         "date": "Fri, 31 Jan 2025 23:00:00 GMT",
@@ -131,5 +131,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f07824357ad9458dc2acc/0x0.jpg?format=jpg&crop=1642,1231,x222,y0,safe&width=440",
         "date": "Sun, 02 Feb 2025 08:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/daveywinder/2025/02/02/youll-get-5-years-in-prison-for-possessing-or-creating-these-ai-tools/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679f602347de1ea420bf1b47/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 02 Feb 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
