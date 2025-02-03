@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'illusion de la connexion",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/02/03/are-we-ready-for-automated-genuine-interactions/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679cfa59b23ec2abd1bd3287/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 19:00:00 GMT"
+    },
+    {
         "title": "L'IA et l'éveil spirituel",
         "link": "https://www.forbes.com/sites/michaelashley/2025/02/03/could-ai-based-entrepreneurship-spark-a-consciousness-revolution/?ss=ai",
         "body": "L'article explore l'idée que l'IA pourrait non seulement révolutionner le monde des affaires, mais aussi avoir un impact profond sur notre éveil spirituel et notre conscience. Peter, le personnage principal, adopte une mentalité impitoyable en grandissant dans la pauvreté, mais sa vie change après avoir entendu une interview de Sam Altman, PDG d'OpenAI, qui suggère que l'IA permettra à de petites entreprises d'atteindre des valorisations énormes. Peter lance sa propre entreprise de relations publiques avec des agents IA, ce qui le rend incroyablement riche. Cet accomplissement ne change pas seulement sa situation financière, mais aussi sa vision du monde. Influencé par les idées du physicien et chercheur en conscience, Tom Campbell, Peter réalise que l'IA pourrait potentiellement élever la conscience individuelle et collective, menant à l'éveil spirituel. Campbell croit que la vie est une école de réalité virtuelle destinée à améliorer nos capacités éthiques et morales, et que l'IA pourrait jouer un rôle crucial dans ce processus. L'article conclut en suggérant que l'IA, en plus d'être une innovation commerciale passionnante, pourrait catalyser l'évolution de notre conscience et transformer l'histoire humaine de la rareté vers l'abondance, tant sur le plan matériel que spirituel.",
@@ -54,6 +61,13 @@
         "body": "Le festival South By Southwest (SXSW) se prépare pour un événement majeur à Austin du 7 au 15 mars, avec l'IA et la mobilité comme thèmes centraux. Rivian, constructeur de voitures électriques, est le sponsor principal. De nombreuses célébrités sont attendues, et le festival proposera une variété de panels, de discussions et de projections de films. Les panels liés à l'IA incluent \"Life With Machines: The Best and Worst of AI\", \"AI Design for Human Agency\", \"AI Native Companies: A Blueprint for Future Dominance\", et \"AI & The Productivity Paradox: Are We Really Getting Ahead?\". Il y aura également des discussions sur l'éthique de l'IA, son impact sur divers secteurs, et son rôle dans l'art et la créativité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679e99af6c97b97238c861df/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Deep Research",
+        "link": "https://www.theverge.com/news/604902/chagpt-deep-research-ai-agent#comments",
+        "body": "OpenAI dévoile une nouvelle fonctionnalité pour ChatGPT, appelée recherche approfondie, disponible pour les abonnés ChatGPT Pro. Cette fonctionnalité permet à l'IA d'agir de manière autonome, en planifiant et exécutant des tâches multi-étapes, tout en affichant les étapes de son processus de prise de décision dans un panneau latéral. Les utilisateurs peuvent poser des questions en texte, image ou en fournissant des fichiers supplémentaires. La recherche approfondie peut prendre jusqu'à 30 minutes pour fournir une réponse, qui peut inclure des citations, des tableaux et des listes à puces. OpenAI reconnaît que la fonctionnalité peut parfois « halluciner » et inventer des faits, mais affirme qu'elle fonctionne au niveau d'un analyste de recherche. La fonctionnalité est lancée avec un accès limité pour les utilisateurs Pro, avec un maximum de 100 requêtes par mois, et sera étendue aux utilisateurs Plus, Team et Enterprise à l'avenir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Feb 2025 00:11:45 GMT"
     },
     {
         "title": "La course à l'IA s'intensifie",
@@ -138,12 +152,5 @@
         "body": "Le succès de l'application de chatbot DeepSeek, développée par une startup chinoise, a déclenché une vague de ventes d'actions des géants technologiques américains et européens. DeepSeek rivalise désormais avec OpenAI, surpassant ChatGPT en tant qu'application la plus téléchargée sur l'App Store iOS. Cette situation a mis en lumière les coûts de formation des modèles d'IA, les préoccupations concernant la protection des données et les opportunités pour les startups américaines. X, sous la direction d'Elon Musk, lance une application de paiement en collaboration avec Visa. Les avancées dans les processeurs et l'autonomie des batteries, ainsi que l'intégration de l'IA, améliorent les ordinateurs portables professionnels. De plus, New York et d'autres États introduisent des lois sur l'IA pour surveiller son impact sur l'emploi et la gestion des talents.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679cc3d9685eeaa3ddb0c2a9/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 02 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "La publicité trompeuse de Google",
-        "link": "https://www.theverge.com/news/604679/google-ai-super-bowl-ad-gouda-cheese#comments",
-        "body": "Google a récemment diffusé une série de publicités pour le Super Bowl mettant en scène de petites entreprises utilisant l'IA Gemini dans les 50 États. Cependant, un détail a attiré l'attention des amateurs de fromage : dans la publicité du Wisconsin, l'IA Gemini affirme que le fromage Gouda représente « 50 à 60 % de la consommation mondiale de fromage », ce qui est une information erronée. Bien que le Gouda soit populaire en Europe, il n'est pas le fromage le plus consommé dans le monde. Gemini n'a pas indiqué la source de cette information, mais il semble qu'elle provienne d'un site appelé Cheese.com. La publicité a suscité des critiques car elle montre un propriétaire d'entreprise utilisant Gemini pour remplir des descriptions de produits sur son site web, ce qui soulève des questions sur la fiabilité de l'IA dans ce contexte. Google a répondu en déclarant que Gemini est basé sur le web et que les utilisateurs peuvent vérifier les résultats et les références.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/google-cheese-ad.png?quality=90&strip=all&crop=9.2623637887678%2C0%2C81.475272422464%2C100&w=2400",
-        "date": "Sat, 01 Feb 2025 19:10:21 GMT"
     }
 ]
