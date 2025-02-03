@@ -1,5 +1,19 @@
 [
     {
+        "title": "Déclutter avec l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/03/decluttering-your-life-via-generative-ai/?ss=ai",
+        "body": "L'article explore la tendance croissante à vouloir simplifier sa vie et son environnement, en se concentrant sur l'utilisation de l'IA pour y parvenir. Il suggère que l'IA générative et les grands modèles linguistiques peuvent être des outils efficaces pour aider les gens à simplifier leur vie de manière holistique, en abordant à la fois le désordre physique et mental. L'auteur souligne l'importance de considérer le désencombrement comme une pratique continue et propose d'utiliser l'IA comme partenaire de conversation pour un soutien continu. Tout en reconnaissant les limites de l'IA, y compris les hallucinations et les faux pas occasionnels, l'article suggère que l'IA peut offrir des conseils et un soutien utiles pour gérer le désordre. Il met également en garde contre le fait que l'utilisation de l'IA pour la santé mentale est un terrain inconnu, et que des précautions doivent être prises.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67999954701ff7bc728aa3ac/0x0.jpg?format=jpg&crop=1932,1448,x5,y0,safe&width=440",
+        "date": "Mon, 03 Feb 2025 08:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : création et action",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/03/generative-ai-vs-agentic-ai-the-key-differences-everyone-needs-to-know/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a068ac225f35ab93c37285/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 07:00:00 GMT"
+    },
+    {
         "title": "South By Southwest 2023",
         "link": "https://www.forbes.com/sites/martineparis/2025/02/03/the-ultimate-sxsw-2025-guide-hottest-ai-panels-parties-and-popups/?ss=ai",
         "body": "Le festival South By Southwest (SXSW) se prépare pour un événement majeur à Austin du 7 au 15 mars, avec l'IA et la mobilité comme thèmes centraux. Rivian, constructeur de voitures électriques, est le sponsor principal. De nombreuses célébrités sont attendues, et le festival proposera une variété de panels, de discussions et de projections de films. Les panels liés à l'IA incluent \"Life With Machines: The Best and Worst of AI\", \"AI Design for Human Agency\", \"AI Native Companies: A Blueprint for Future Dominance\", et \"AI & The Productivity Paradox: Are We Really Getting Ahead?\". Il y aura également des discussions sur l'éthique de l'IA, son impact sur divers secteurs, et son rôle dans l'art et la créativité.",
@@ -61,12 +75,5 @@
         "body": "L'article remet en question l'idée que les grands modèles linguistiques (LLM) sont le Saint Graal de l'IA, et suggère que l'engouement autour de l'investissement dans l'IA est exagéré. Bien que les LLM représentent une avancée significative, leur capacité à imiter la fluence humaine ne signifie pas que l'intelligence artificielle générale (AGI) est imminente. L'auteur souligne que les capacités des LLM sont limitées à un ensemble restreint de tâches et qu'elles ne reflètent pas les capacités humaines globales. Bien que les LLM aient un impact significatif, l'auteur suggère que leur importance relative dans le domaine de l'IA est exagérée et qu'il est nécessaire de remettre en question l'hystérie qui entoure l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679e2201e88d791fccbe3be0/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 01 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La structure LLM à mélange d'experts devient très populaire grâce à DeepSeek AI",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/01/mixture-of-experts-ai-reasoning-models-suddenly-taking-center-stage-due-to-chinas-deepseek-shock-and-awe/?ss=ai",
-        "body": "La structure LLM à mélange d'experts (MoE) est récemment devenue très populaire grâce à la sortie de DeepSeek AI, un modèle LLM similaire à ChatGPT. DeepSeek, une entreprise chinoise, affirme avoir développé son IA à un coût nettement inférieur, remettant ainsi en question l'idée selon laquelle seuls des ressources matérielles importantes et coûteuses peuvent produire un modèle performant. La structure MoE divise le LLM en plusieurs composants ou \"experts\", chacun spécialisé dans un domaine spécifique. Cette approche présente des avantages, tels qu'une plus grande rapidité et une meilleure adaptabilité à des domaines précis, mais également des inconvénients, comme la nécessité de router correctement les requêtes vers l'expert approprié. La structure MoE est utilisée par plusieurs modèles LLM de premier plan, et son efficacité par rapport aux approches monolithiques traditionnelles reste un sujet de débat.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679d8db9a1772d5f6b1a26e4/0x0.jpg?format=jpg&crop=1296,971,x58,y0,safe&width=440",
-        "date": "Sat, 01 Feb 2025 08:00:00 GMT"
     }
 ]
