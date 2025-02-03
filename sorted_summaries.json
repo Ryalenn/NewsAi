@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir de l'information à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/03/tech-companies-and-journalism-companies-join-forces-sometimes/?ss=ai",
+        "body": "Google s'associe à l'Associated Press pour améliorer la qualité des informations dans son service d'IA Gemini, mettant en avant une approche collaborative plutôt que compétitive. D'autres géants du web, comme Microsoft et Amazon, forment également des alliances avec des entreprises d'IA. Malgré quelques conflits juridiques, de nombreuses entreprises médiatiques signent des accords avec des entreprises d'IA pour un usage autorisé de leur contenu. L'IA est également intégrée aux salles de rédaction pour optimiser le travail des journalistes et améliorer la qualité et la précision des informations. Tous les acteurs ont intérêt à lutter contre les deepfakes et la désinformation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a0d438ac7151922287e0ea/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 14:35:00 GMT"
+    },
+    {
+        "title": "Wildfire Management Revolutionized",
+        "link": "https://www.forbes.com/sites/cathyrubin/2025/02/03/how-ai-tech-and-policy-can-stop-the-wildfire-crisis/?ss=ai",
+        "body": "L'article décrit l'impact dévastateur des feux de forêt à Los Angeles en 2025, qui ont causé des milliards de dollars de dommages et entraîné des évacuations massives. Les feux de forêt sont de plus en plus fréquents et mortels, avec des conséquences financières et écologiques importantes. La fumée des feux de forêt, chargée de particules toxiques, provoque également une crise sanitaire, affectant particulièrement les enfants, les personnes âgées et celles souffrant de problèmes respiratoires. L'article met en lumière l'utilisation de l'IA pour améliorer la détection et la réponse aux incendies. Pano AI, par exemple, a développé un système de détection avancé qui identifie la fumée en quelques minutes après l'allumage. Bellwether utilise l'IA pour améliorer l'efficacité de la réponse aux catastrophes de 80 %, en associant instantanément les lieux des incendies à des paysages réels. OroraTech, quant à elle, utilise un réseau de satellites alimenté par l'IA pour prédire les risques d'incendie avant leur apparition en analysant les données historiques, la végétation et les tendances climatiques. Enfin, des drones à eau autonomes sont en cours de développement pour lutter contre les incendies sans mettre en danger les pilotes. L'article souligne la nécessité de reconstruire de manière résiliente et de comprendre le rôle écologique du feu, tout en équilibrant la protection des communautés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679c6bf9812c17fb310c349e/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Maîtriser YouTube",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/02/03/7-chatgpt-prompts-to-kickstart-your-youtube-channel/?ss=ai",
+        "body": "Résumé : \n\nAvec 2,7 milliards de téléspectateurs mensuels, YouTube est une plateforme incontournable pour atteindre un large public. Pour ceux qui hésitent à se lancer, voici sept suggestions de prompts pour ChatGPT qui peuvent aider à démarrer une chaîne et à obtenir des résultats concrets. Ces prompts couvrent divers aspects, de la planification stratégique à la création de contenu engageant, en passant par l'optimisation de scripts et la conception d'une stratégie de lancement. L'accent est mis sur l'exploitation de l'expertise unique de l'utilisateur, la fourniture de solutions pratiques et l'établissement d'une présence authentique et utile sur la plateforme.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679f038db7a3dc34e4f5416f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA aux États-Unis",
         "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
         "body": "Le président Trump a annulé une action de l'ère Biden visant à mettre en place des garde-fous pour l'IA. L'ordre exécutif de Biden, signé en 2023, exigeait que les développeurs de grands modèles d'IA, tels qu'OpenAI's GPT, partagent les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à l'IA en matière de sécurité nationale et de protection des consommateurs. Parmi les invités à l'investiture de Trump se trouvaient des personnalités du monde de la tech, dont certains ont contribué au budget de l'investiture. L'annulation de l'ordre exécutif de Biden pourrait présager un affrontement avec l'Union européenne concernant son règlement sur l'IA, qui impose des exigences de transparence et interdit certaines utilisations de l'IA. Cependant, d'autres mesures de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis pourraient rester en place, notamment un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA, ainsi qu'un ordre exécutif visant à accélérer le développement de centres de données IA sur des terres fédérales.",
@@ -105,6 +126,13 @@
         "date": "Sun, 02 Feb 2025 08:00:00 GMT"
     },
     {
+        "title": "DeepSeek, ChatGPT et la ruée vers l'IA",
+        "link": "https://www.forbes.com/sites/quickerbettertech/2025/02/02/business-tech-news-what-business-owners-should-know-about-deepseek-ai/?ss=ai",
+        "body": "Le succès de l'application de chatbot DeepSeek, développée par une startup chinoise, a déclenché une vague de ventes d'actions des géants technologiques américains et européens. DeepSeek rivalise désormais avec OpenAI, surpassant ChatGPT en tant qu'application la plus téléchargée sur l'App Store iOS. Cette situation a mis en lumière les coûts de formation des modèles d'IA, les préoccupations concernant la protection des données et les opportunités pour les startups américaines. X, sous la direction d'Elon Musk, lance une application de paiement en collaboration avec Visa. Les avancées dans les processeurs et l'autonomie des batteries, ainsi que l'intégration de l'IA, améliorent les ordinateurs portables professionnels. De plus, New York et d'autres États introduisent des lois sur l'IA pour surveiller son impact sur l'emploi et la gestion des talents.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679cc3d9685eeaa3ddb0c2a9/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 02 Feb 2025 00:00:00 GMT"
+    },
+    {
         "title": "La publicité trompeuse de Google",
         "link": "https://www.theverge.com/news/604679/google-ai-super-bowl-ad-gouda-cheese#comments",
         "body": "Google a récemment diffusé une série de publicités pour le Super Bowl mettant en scène de petites entreprises utilisant l'IA Gemini dans les 50 États. Cependant, un détail a attiré l'attention des amateurs de fromage : dans la publicité du Wisconsin, l'IA Gemini affirme que le fromage Gouda représente « 50 à 60 % de la consommation mondiale de fromage », ce qui est une information erronée. Bien que le Gouda soit populaire en Europe, il n'est pas le fromage le plus consommé dans le monde. Gemini n'a pas indiqué la source de cette information, mais il semble qu'elle provienne d'un site appelé Cheese.com. La publicité a suscité des critiques car elle montre un propriétaire d'entreprise utilisant Gemini pour remplir des descriptions de produits sur son site web, ce qui soulève des questions sur la fiabilité de l'IA dans ce contexte. Google a répondu en déclarant que Gemini est basé sur le web et que les utilisateurs peuvent vérifier les résultats et les références.",
@@ -117,19 +145,5 @@
         "body": "Résumé : Cet article souligne l'importance de protéger les données et de s'assurer que les utilisateurs ne sont pas des robots. Il met en évidence les mesures que les utilisateurs doivent prendre, telles que l'activation de JavaScript et des cookies, et la consultation des conditions de service et de la politique en matière de cookies. Ces mesures sont essentielles pour garantir la sécurité et l'intégrité des données, ce qui est crucial pour les professionnels de l'IA qui travaillent avec de grands ensembles de données et des modèles complexes.",
         "image": "",
         "date": "Sat, 01 Feb 2025 16:10:00 GMT"
-    },
-    {
-        "title": "Microsoft crée une unité de planification avancée pour explorer l'avenir de l'IA",
-        "link": "https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/",
-        "body": "Microsoft a annoncé la création d'une nouvelle unité, l'Advanced Planning Unit (APU), au sein de sa division Microsoft AI, pour étudier les implications sociétales, sanitaires et professionnelles de ses technologies d'IA. L'IA est devenue essentielle à la stratégie de croissance de Microsoft, ce qui a suscité des préoccupations chez certains actionnaires. L'APU, dirigée par le PDG de Microsoft AI, Mustafa Suleyman, combinera recherche de pointe et exploration de scénarios futurs de l'IA. L'unité fera des recommandations de produits et planifiera des événements, des publications et des rapports pour améliorer la compréhension de l'IA. Microsoft n'est pas la seule entreprise à se réorganiser et à embaucher pour étudier l'impact de l'IA, OpenAI a également embauché son premier économiste en chef pour étudier l'influence de l'IA sur la croissance économique et l'emploi.",
-        "image": "",
-        "date": "Sat, 01 Feb 2025 15:04:00 GMT"
-    },
-    {
-        "title": "La fin de l'hystérie ?",
-        "link": "https://www.forbes.com/sites/ericsiegel/2025/02/01/panic-over-deepseek-exposes-ais-weak-foundation-on-hype/?ss=ai",
-        "body": "L'article remet en question l'idée que les grands modèles linguistiques (LLM) sont le Saint Graal de l'IA, et suggère que l'engouement autour de l'investissement dans l'IA est exagéré. Bien que les LLM représentent une avancée significative, leur capacité à imiter la fluence humaine ne signifie pas que l'intelligence artificielle générale (AGI) est imminente. L'auteur souligne que les capacités des LLM sont limitées à un ensemble restreint de tâches et qu'elles ne reflètent pas les capacités humaines globales. Bien que les LLM aient un impact significatif, l'auteur suggère que leur importance relative dans le domaine de l'IA est exagérée et qu'il est nécessaire de remettre en question l'hystérie qui entoure l'AGI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679e2201e88d791fccbe3be0/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 01 Feb 2025 15:00:00 GMT"
     }
 ]
