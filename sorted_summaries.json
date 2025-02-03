@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA aux États-Unis",
+        "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
+        "body": "Le président Trump a annulé une action de l'ère Biden visant à mettre en place des garde-fous pour l'IA. L'ordre exécutif de Biden, signé en 2023, exigeait que les développeurs de grands modèles d'IA, tels qu'OpenAI's GPT, partagent les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à l'IA en matière de sécurité nationale et de protection des consommateurs. Parmi les invités à l'investiture de Trump se trouvaient des personnalités du monde de la tech, dont certains ont contribué au budget de l'investiture. L'annulation de l'ordre exécutif de Biden pourrait présager un affrontement avec l'Union européenne concernant son règlement sur l'IA, qui impose des exigences de transparence et interdit certaines utilisations de l'IA. Cependant, d'autres mesures de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis pourraient rester en place, notamment un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA, ainsi qu'un ordre exécutif visant à accélérer le développement de centres de données IA sur des terres fédérales.",
+        "image": "",
+        "date": "Mon, 03 Feb 2025 09:15:10 GMT"
+    },
+    {
         "title": "Déclutter avec l'IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/03/decluttering-your-life-via-generative-ai/?ss=ai",
         "body": "L'article explore la tendance croissante à vouloir simplifier sa vie et son environnement, en se concentrant sur l'utilisation de l'IA pour y parvenir. Il suggère que l'IA générative et les grands modèles linguistiques peuvent être des outils efficaces pour aider les gens à simplifier leur vie de manière holistique, en abordant à la fois le désordre physique et mental. L'auteur souligne l'importance de considérer le désencombrement comme une pratique continue et propose d'utiliser l'IA comme partenaire de conversation pour un soutien continu. Tout en reconnaissant les limites de l'IA, y compris les hallucinations et les faux pas occasionnels, l'article suggère que l'IA peut offrir des conseils et un soutien utiles pour gérer le désordre. Il met également en garde contre le fait que l'utilisation de l'IA pour la santé mentale est un terrain inconnu, et que des précautions doivent être prises.",
@@ -19,6 +26,48 @@
         "body": "Le festival South By Southwest (SXSW) se prépare pour un événement majeur à Austin du 7 au 15 mars, avec l'IA et la mobilité comme thèmes centraux. Rivian, constructeur de voitures électriques, est le sponsor principal. De nombreuses célébrités sont attendues, et le festival proposera une variété de panels, de discussions et de projections de films. Les panels liés à l'IA incluent \"Life With Machines: The Best and Worst of AI\", \"AI Design for Human Agency\", \"AI Native Companies: A Blueprint for Future Dominance\", et \"AI & The Productivity Paradox: Are We Really Getting Ahead?\". Il y aura également des discussions sur l'éthique de l'IA, son impact sur divers secteurs, et son rôle dans l'art et la créativité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679e99af6c97b97238c861df/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 05:00:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur les LLM plus accessible au grand public. ChatGPT d'OpenAI dévoile une nouvelle fonctionnalité de recherche approfondie, tandis que Gemini de Google peut désormais répondre aux questions sur les données dans Sheets. DeepSeek, une startup chinoise, fait parler d'elle avec son IA de pointe, Janus-Pro. Meta améliore son chatbot IA en lui ajoutant une fonction de mémoire, mais fait face à des restrictions en raison d'attaques malveillantes. Samsung remplace également son assistant Bixby par Google Gemini sur ses nouveaux téléphones. Microsoft, de son côté, teste la recherche Windows basée sur l'IA et élargit l'accès à son outil d'assistance à la codification IA. Nvidia annonce le Jetson Orin Nano Super Developer Kit, un ordinateur compact et puissant pour le traitement de l'IA. Dexcom utilise l'IA pour des rapports personnalisés sur le glucose et Google lance Whisk, un outil d'IA pour la génération d'images. Google annonce également Veo 2, une amélioration de son modèle vidéo, et Adam Mosseri d'Instagram met en garde contre la confiance accordée aux images en ligne en raison de la prolifération du contenu généré par l'IA. L'industrie de l'IA attire des investissements massifs, mais la course à la création d'une application phare reste intense et compétitive.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Feb 2025 00:11:45 GMT"
+    },
+    {
+        "title": "Titre: ChatGPT Pro : recherche approfondie et raisonnement étape par étape",
+        "link": "https://www.frandroid.com/culture-tech/2491884_chatgpt-sinspire-de-deepseek-pour-son-systeme-de-recherche",
+        "body": "Résumé : OpenAI introduit une nouvelle fonctionnalité dans la version Pro de ChatGPT, appelée DeepSearch, qui fournit un système de recherche approfondie et un raisonnement étape par étape. Ce modèle s'appuie sur une version optimisée de OpenAI o3, permettant d'analyser du texte, des images et des PDF sur Internet. Les utilisateurs peuvent visualiser le processus de raisonnement et les sources d'informations, mais cette fonctionnalité nécessite beaucoup de calcul et n'est actuellement disponible que pour les utilisateurs Pro, avec une limite de 100 requêtes par mois. OpenAI prévoit d'élargir progressivement l'accès à d'autres niveaux d'abonnement.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-vs-open-ai-chatgpt-1200x750-2-768x480.jpg?resize=188,188&key=7f62fc55",
+        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA au service de la sécurité nucléaire",
+        "link": "https://www.frandroid.com/culture-tech/2492026_les-etats-unis-sassocient-a-openai-chatgpt-pour-securiser-leur-arsenal-nucleaire",
+        "body": "OpenAI, développeur de ChatGPT, collabore avec l'administration Trump et Microsoft sur des projets liés à l'IA et à la sécurité nationale. Dans le cadre de l'initiative Stargate, OpenAI investit 500 milliards pour assurer la suprématie américaine en IA. L'entreprise fournit également une version de ChatGPT à 15 000 scientifiques travaillant dans des laboratoires nucléaires américains, avec un focus sur la réduction du risque de guerre nucléaire et la sécurisation des armes et matières nucléaires. De plus, OpenAI et Microsoft déploieront un modèle d'IA sur le supercalculateur Venado du Laboratoire national de Los Alamos, site historique du projet Manhattan. Ces annonces soulignent l'approche différente de Trump et son entourage concernant la régulation de l'IA, contrastant avec les préoccupations soulevées par d'autres industriels et responsables politiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-1-1-1-1200x675-1-768x432.jpg?resize=169,169&key=88898cba",
+        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Le prochain iPhone-killer ?",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2492146_sam-altman-le-patron-de-chatgpt-veut-tuer-liphone-voici-son-plan",
+        "body": "Malgré les prédictions de la fin de l'iPhone, celui-ci reste indétrônable. Cependant, Sam Altman, patron d'OpenAI, pourrait changer la donne avec le recrutement de Jony Ive, ancien designer d'Apple. Leur appareil promet d'être révolutionnaire, mais on se demande ce qui le différenciera des smartphones actuels avec ChatGPT. L'article soulève la question de savoir s'il s'agira d'un véritable concurrent pour l'iPhone ou s'il rejoindra la liste des échecs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-1-768x513.jpg?resize=200,200&key=136d0624",
+        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'Europe réglemente l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2492106_utilisez-vous-une-app-avec-de-lia-voici-ce-qui-change-depuis-hier",
+        "body": "L'Union européenne a mis en place une réglementation complète sur l'IA, interdisant certaines applications jugées à risque pour les citoyens, telles que la reconnaissance faciale en temps réel et la catégorisation des personnes. Des amendes élevées sont prévues pour les entreprises qui ne respectent pas la loi. Cette réglementation a un impact sur le déploiement des innovations en IA, les géants de la tech préférant temporiser plutôt que de prendre des risques. L'UE cherche à trouver un équilibre entre protection et innovation, mais certains craignent que cette réglementation n'étouffe l'innovation européenne face aux investissements massifs des États-Unis et de la Chine dans le domaine.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-vs-open-ai-chatgpt-1200x750-1-768x480.jpg?resize=188,188&key=cd98421d",
+        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'ascension de DeepSeek et ses coûts réels",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2492088_deepseek-aurait-depense-266-fois-plus-que-ce-quelle-pretend",
+        "body": "La startup chinoise DeepSeek, qui avait surpris le secteur de l'IA avec son modèle d'IA prétendument développé pour seulement 6 millions de dollars, fait face à un examen minutieux de ses affirmations. Une analyse de SemiAnalysis révèle que l'investissement total de DeepSeek s'élève en réalité à 1,6 milliard de dollars, avec un impressionnant arsenal technologique comprenant 50 000 GPU Nvidia Hopper. Les coûts d'exploitation du matériel seul sont estimés à 944 millions de dollars. La communication sélective de DeepSeek a occulté les centaines de millions investis dans le recrutement agressif de talents, la gestion de centres de données internes et le financement de leur structure autonome. Cette révélation souligne l'importance d'une approche critique face aux annonces sensationnelles dans le domaine de l'IA, et confirme que les avancées technologiques nécessitent des investissements massifs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-multi-illustration-1200x750-1-768x480.jpg?resize=188,188&key=5fca3468",
+        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "L'IA selon le Vatican",
@@ -54,6 +103,13 @@
         "body": "L'article met en lumière les ambiguïtés dans la communication humain-IA, en particulier avec les modèles de langage génératif et les grands modèles linguistiques (LLM). Il utilise l'exemple d'une récente collision aérienne impliquant un hélicoptère militaire et un avion commercial, mettant en évidence les ambiguïtés dans la communication entre le pilote et le contrôleur. L'article explore ensuite comment des ambiguïtés similaires peuvent survenir dans l'interaction humain-IA, avec des exemples de modèles de langage génératif tels que ChatGPT. Il souligne l'importance de clarifier les ambiguïtés, en particulier dans les situations à haut risque, et suggère que les développeurs d'IA devraient veiller à ce que leurs modèles réduisent les ambiguïtés et cherchent des clarifications lorsque nécessaire. Les utilisateurs d'IA doivent également être conscients des ambiguïtés potentielles et ne pas baisser leur garde simplement parce qu'ils utilisent une technologie de pointe.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f07824357ad9458dc2acc/0x0.jpg?format=jpg&crop=1642,1231,x222,y0,safe&width=440",
         "date": "Sun, 02 Feb 2025 08:00:00 GMT"
+    },
+    {
+        "title": "La publicité trompeuse de Google",
+        "link": "https://www.theverge.com/news/604679/google-ai-super-bowl-ad-gouda-cheese#comments",
+        "body": "Google a récemment diffusé une série de publicités pour le Super Bowl mettant en scène de petites entreprises utilisant l'IA Gemini dans les 50 États. Cependant, un détail a attiré l'attention des amateurs de fromage : dans la publicité du Wisconsin, l'IA Gemini affirme que le fromage Gouda représente « 50 à 60 % de la consommation mondiale de fromage », ce qui est une information erronée. Bien que le Gouda soit populaire en Europe, il n'est pas le fromage le plus consommé dans le monde. Gemini n'a pas indiqué la source de cette information, mais il semble qu'elle provienne d'un site appelé Cheese.com. La publicité a suscité des critiques car elle montre un propriétaire d'entreprise utilisant Gemini pour remplir des descriptions de produits sur son site web, ce qui soulève des questions sur la fiabilité de l'IA dans ce contexte. Google a répondu en déclarant que Gemini est basé sur le web et que les utilisateurs peuvent vérifier les résultats et les références.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/google-cheese-ad.png?quality=90&strip=all&crop=9.2623637887678%2C0%2C81.475272422464%2C100&w=2400",
+        "date": "Sat, 01 Feb 2025 19:10:21 GMT"
     },
     {
         "title": "Protection des données",
