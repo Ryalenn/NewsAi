@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nvidia Broadcast : l'IA au service de la qualité webcam",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/605343/auto-draft#comments",
+        "body": "L'application gratuite Nvidia Broadcast a récemment mis à jour ses fonctionnalités d'IA, notamment \"Studio Voice\", \"Eye Contact\", \"Noise Removal\" et \"Virtual Key Light\", qui améliorent considérablement la qualité de la webcam. Bien que ma GPU n'ait pas rencontré de difficultés particulières, Nvidia déconseille tout de même d'utiliser ces fonctionnalités tout en jouant à des jeux vidéo.",
+        "image": "",
+        "date": "Mon, 03 Feb 2025 20:26:31 GMT"
+    },
+    {
         "title": "L'illusion de la connexion",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/02/03/are-we-ready-for-automated-genuine-interactions/?ss=ai",
         "body": "Titre",
@@ -145,12 +152,5 @@
         "body": "L'article met en lumière les ambiguïtés dans la communication humain-IA, en particulier avec les modèles de langage génératif et les grands modèles linguistiques (LLM). Il utilise l'exemple d'une récente collision aérienne impliquant un hélicoptère militaire et un avion commercial, mettant en évidence les ambiguïtés dans la communication entre le pilote et le contrôleur. L'article explore ensuite comment des ambiguïtés similaires peuvent survenir dans l'interaction humain-IA, avec des exemples de modèles de langage génératif tels que ChatGPT. Il souligne l'importance de clarifier les ambiguïtés, en particulier dans les situations à haut risque, et suggère que les développeurs d'IA devraient veiller à ce que leurs modèles réduisent les ambiguïtés et cherchent des clarifications lorsque nécessaire. Les utilisateurs d'IA doivent également être conscients des ambiguïtés potentielles et ne pas baisser leur garde simplement parce qu'ils utilisent une technologie de pointe.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f07824357ad9458dc2acc/0x0.jpg?format=jpg&crop=1642,1231,x222,y0,safe&width=440",
         "date": "Sun, 02 Feb 2025 08:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek, ChatGPT et la ruée vers l'IA",
-        "link": "https://www.forbes.com/sites/quickerbettertech/2025/02/02/business-tech-news-what-business-owners-should-know-about-deepseek-ai/?ss=ai",
-        "body": "Le succès de l'application de chatbot DeepSeek, développée par une startup chinoise, a déclenché une vague de ventes d'actions des géants technologiques américains et européens. DeepSeek rivalise désormais avec OpenAI, surpassant ChatGPT en tant qu'application la plus téléchargée sur l'App Store iOS. Cette situation a mis en lumière les coûts de formation des modèles d'IA, les préoccupations concernant la protection des données et les opportunités pour les startups américaines. X, sous la direction d'Elon Musk, lance une application de paiement en collaboration avec Visa. Les avancées dans les processeurs et l'autonomie des batteries, ainsi que l'intégration de l'IA, améliorent les ordinateurs portables professionnels. De plus, New York et d'autres États introduisent des lois sur l'IA pour surveiller son impact sur l'emploi et la gestion des talents.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679cc3d9685eeaa3ddb0c2a9/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 02 Feb 2025 00:00:00 GMT"
     }
 ]
