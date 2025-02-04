@@ -1,10 +1,24 @@
 [
     {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/iainmartin/2025/02/04/this-ai-founders-audacious-plan-to-buy-out-his-own-vcs/?ss=ai",
+        "body": "Invisible Technologies, fondée par Francis Pedraza, a connu un succès récent en aidant des entreprises comme OpenAI, Amazon et Microsoft à former leurs modèles d'IA. La société a combiné l'IA et le travail à distance pour effectuer des tâches répétitives mais complexes, comme la révision des CV ou la réécriture de descriptions de produits. Cette approche a permis à Invisible de passer d'un chiffre d'affaires de 3 millions de dollars en 2020 à 134 millions de dollars en 2022, avec un bénéfice de 15 millions de dollars. La clé de leur succès réside dans l'intégration de l'IA et de l'intelligence humaine, ce qui permet d'effectuer des tâches que l'IA seule ne peut pas gérer. Pedraza prévoit de concurrencer des entreprises comme Accenture en automatisant plus rapidement les tâches et en offrant des services à moindre coût. Il a également donné à ses employés une participation majoritaire dans l'entreprise, ce qui a motivé son équipe et réduit la dilution des actions.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a11a19ce9dabac7d5533b1/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Feb 2025 11:00:00 GMT"
+    },
+    {
         "title": "Améliorer les interactions avec l'IA générative grâce à l'ingénierie des invites amplifiées par la conversation",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/04/conversational-amplified-prompt-engineering-is-gaining-traction-in-generative-ai/?ss=ai",
         "body": "L'ingénierie des invites est une compétence essentielle pour interagir efficacement avec l'IA générative et les grands modèles linguistiques. L'article présente une technique avancée appelée ingénierie des invites amplifiées par la conversation (CAPE), qui consiste à avoir une conversation avec l'IA pour qu'elle s'aligne sur votre style d'écriture. Cela permet à l'IA de mieux comprendre vos intentions et de fournir des réponses plus précises. L'article souligne les avantages de cette approche, notamment la réduction du temps et des coûts associés à la reformulation des invites. Il fournit également des recommandations pour former l'IA à reconnaître votre style d'invite, y compris en utilisant une variété de types de questions et en fournissant des commentaires pendant la conversation. L'article conclut en soulignant que l'ingénierie des invites amplifiées par la conversation peut être particulièrement bénéfique pour les utilisateurs fréquents de l'IA générative qui cherchent à améliorer leurs interactions.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a02af0f1a8aedc12084a80/0x0.jpg?format=jpg&crop=1772,1328,x41,y0,safe&width=440",
         "date": "Tue, 04 Feb 2025 08:00:00 GMT"
+    },
+    {
+        "title": "La riposte d'OpenAI face à DeepSeek",
+        "link": "https://www.frandroid.com/culture-tech/2492956_nous-avons-ete-du-mauvais-cote-de-lhistoire-sam-altman-revient-sur-le-developpement-de-chatgpt",
+        "body": "L'émergence de DeepSeek sur le marché de l'IA, avec ses coûts réduits et sa puissance impressionnante, a secoué l'industrie et poussé OpenAI à reconsidérer sa stratégie. Lors d'une session de questions-réponses, Sam Altman, PDG d'OpenAI, a reconnu que DeepSeek avait réduit l'avance de son entreprise. Il reste confiant dans la capacité d'OpenAI à produire de meilleurs modèles à l'avenir, mais admet que leur avance sera moins significative. Kevin Weil, directeur des produits, a également indiqué que seuls les anciens modèles moins performants pourraient être open source. Face à cette nouvelle concurrence, OpenAI cherche à rassurer en promettant de grandes avancées pour ChatGPT.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-2-768x513.jpg?resize=200,200&key=4ac63e48",
+        "date": "Mon, 03 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Nvidia Broadcast : l'IA au service de la qualité webcam",
@@ -19,6 +33,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679cfa59b23ec2abd1bd3287/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 19:00:00 GMT"
+    },
+    {
+        "title": "La médecine du futur : l'IA au service de la santé",
+        "link": "https://www.forbes.com/sites/talpatalon/",
+        "body": "L'auteur, un médecin urgentiste et généraliste, entrepreneur et chercheur en santé, présente une réflexion sur le rôle de l'IA dans l'avenir de la médecine. Il souligne l'importance de l'IA dans les progrès médicaux, notamment avec l'émergence de la multiomique, une approche permettant d'analyser de grandes quantités de données biologiques. L'auteur mentionne également la course aux modèles d'IA personnalisés dans le domaine de la santé, avec des entreprises technologiques offrant des services de plus en plus sophistiqués, tels que ChatGPT qui propose désormais un numéro de téléphone pour les appels et messages. \n\nL'article aborde également d'autres avancées médicales potentielles, telles que l'édition de gènes pour traiter l'herpès génital, l'utilisation de stents cérébraux veineux et les progrès de l'informatique quantique et de l'apprentissage automatique. Enfin, il soulève des questions éthiques importantes concernant les progrès médicaux et la nécessité de s'assurer que le développement technologique ne laisse personne derrière.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a0fa87f34b36851080ba8d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 03 Feb 2025 18:00:00 GMT"
     },
     {
         "title": "L'IA et l'éveil spirituel",
@@ -145,12 +166,5 @@
         "body": "Microsoft présente ses nouveaux ordinateurs portables Surface Copilot+ pour les entreprises, intégrant des capacités d'IA et des fonctionnalités de sécurité avancées. Ces appareils sont conçus pour améliorer la productivité et la sécurité des entreprises modernes, en tirant parti de l'IA pour rationaliser les flux de travail et optimiser les performances, tout en protégeant les données sensibles grâce au processeur de sécurité Microsoft Pluton. Les PC Copilot+ intègrent des unités de traitement neuronal pour les capacités d'IA sur l'appareil, ainsi que l'assistant IA Copilot de Windows 11, offrant ainsi des expériences informatiques plus intelligentes et résilientes. De plus, Microsoft 365 Copilot propose des expériences plus intuitives avec des fonctionnalités d'IA intégrées dans diverses applications. En ce qui concerne la sécurité, Pluton de Microsoft protège contre les attaques de firmware, le vol d'informations d'identification et les menaces cybernétiques avancées en intégrant la sécurité matérielle directement dans le CPU. Microsoft annonce également la prise en charge de la 5G dans le Surface Laptop for Business, garantissant une connectivité constante pour les professionnels mobiles. Les nouveaux PC Surface Copilot+ sont alimentés par des processeurs Intel Core Ultra de série 2 pour des performances de haut niveau dans les tâches d'IA et de multitâche. Ces appareils combinent des écrans tactiles haute résolution, une longue autonomie et une qualité de construction premium, tout en étant gérés via le portail de gestion Surface intégré à Microsoft Intune.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f9c88feb91145842bbdd2/0x0.png?format=png&width=440",
         "date": "Sun, 02 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Lutte contre les abus sexuels sur mineurs facilités par l'IA",
-        "link": "https://www.forbes.com/sites/daveywinder/2025/02/02/youll-get-5-years-in-prison-for-possessing-or-creating-these-ai-tools/?ss=ai",
-        "body": "Le Royaume-Uni s'apprête à introduire de nouvelles lois pour lutter contre l'utilisation de l'IA dans la production de contenus d'abus sexuels sur mineurs. Bien que l'IA présente de nombreux avantages, son utilisation à mauvais escient, notamment pour créer des deepfakes à caractère sexuel impliquant des enfants, est un problème majeur. Actuellement, il n'est pas illégal de posséder, de créer ou de distribuer des outils d'IA à cette fin, mais le Royaume-Uni devient le premier pays à introduire des lois pour y remédier, avec des peines pouvant aller jusqu'à cinq ans de prison. Le Home Office britannique a annoncé que quatre nouvelles lois seront mises en place pour rendre plus difficile la génération de contenus d'abus sexuels sur mineurs à l'aide d'outils d'IA. De plus, la possession de manuels pédophiles sur l'IA et l'exploitation de sites web partageant de tels contenus générés par l'IA seront également criminalisées, avec des peines pouvant aller jusqu'à trois et dix ans de prison, respectivement. Les législateurs britanniques prévoient également d'accorder de nouveaux pouvoirs à la UK Border Force pour inspecter les appareils des passagers entrants en cas de soupçon de contenus d'abus sexuels sur mineurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679f602347de1ea420bf1b47/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 02 Feb 2025 12:00:00 GMT"
     }
 ]
