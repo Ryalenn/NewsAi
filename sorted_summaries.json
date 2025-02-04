@@ -1,5 +1,12 @@
 [
     {
+        "title": "Améliorer les interactions avec l'IA générative grâce à l'ingénierie des invites amplifiées par la conversation",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/04/conversational-amplified-prompt-engineering-is-gaining-traction-in-generative-ai/?ss=ai",
+        "body": "L'ingénierie des invites est une compétence essentielle pour interagir efficacement avec l'IA générative et les grands modèles linguistiques. L'article présente une technique avancée appelée ingénierie des invites amplifiées par la conversation (CAPE), qui consiste à avoir une conversation avec l'IA pour qu'elle s'aligne sur votre style d'écriture. Cela permet à l'IA de mieux comprendre vos intentions et de fournir des réponses plus précises. L'article souligne les avantages de cette approche, notamment la réduction du temps et des coûts associés à la reformulation des invites. Il fournit également des recommandations pour former l'IA à reconnaître votre style d'invite, y compris en utilisant une variété de types de questions et en fournissant des commentaires pendant la conversation. L'article conclut en soulignant que l'ingénierie des invites amplifiées par la conversation peut être particulièrement bénéfique pour les utilisateurs fréquents de l'IA générative qui cherchent à améliorer leurs interactions.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a02af0f1a8aedc12084a80/0x0.jpg?format=jpg&crop=1772,1328,x41,y0,safe&width=440",
+        "date": "Tue, 04 Feb 2025 08:00:00 GMT"
+    },
+    {
         "title": "Nvidia Broadcast : l'IA au service de la qualité webcam",
         "link": "https://www.theverge.com/ai-artificial-intelligence/605343/auto-draft#comments",
         "body": "L'application gratuite Nvidia Broadcast a récemment mis à jour ses fonctionnalités d'IA, notamment \"Studio Voice\", \"Eye Contact\", \"Noise Removal\" et \"Virtual Key Light\", qui améliorent considérablement la qualité de la webcam. Bien que ma GPU n'ait pas rencontré de difficultés particulières, Nvidia déconseille tout de même d'utiliser ces fonctionnalités tout en jouant à des jeux vidéo.",
@@ -145,12 +152,5 @@
         "body": "Le Royaume-Uni s'apprête à introduire de nouvelles lois pour lutter contre l'utilisation de l'IA dans la production de contenus d'abus sexuels sur mineurs. Bien que l'IA présente de nombreux avantages, son utilisation à mauvais escient, notamment pour créer des deepfakes à caractère sexuel impliquant des enfants, est un problème majeur. Actuellement, il n'est pas illégal de posséder, de créer ou de distribuer des outils d'IA à cette fin, mais le Royaume-Uni devient le premier pays à introduire des lois pour y remédier, avec des peines pouvant aller jusqu'à cinq ans de prison. Le Home Office britannique a annoncé que quatre nouvelles lois seront mises en place pour rendre plus difficile la génération de contenus d'abus sexuels sur mineurs à l'aide d'outils d'IA. De plus, la possession de manuels pédophiles sur l'IA et l'exploitation de sites web partageant de tels contenus générés par l'IA seront également criminalisées, avec des peines pouvant aller jusqu'à trois et dix ans de prison, respectivement. Les législateurs britanniques prévoient également d'accorder de nouveaux pouvoirs à la UK Border Force pour inspecter les appareils des passagers entrants en cas de soupçon de contenus d'abus sexuels sur mineurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f602347de1ea420bf1b47/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 02 Feb 2025 12:00:00 GMT"
-    },
-    {
-        "title": "Communication Ambiguities in Human-AI Interaction",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/02/lessons-for-human-ai-communication-ambiguities-per-midair-collision-pilot-controller-interaction/?ss=ai",
-        "body": "L'article met en lumière les ambiguïtés dans la communication humain-IA, en particulier avec les modèles de langage génératif et les grands modèles linguistiques (LLM). Il utilise l'exemple d'une récente collision aérienne impliquant un hélicoptère militaire et un avion commercial, mettant en évidence les ambiguïtés dans la communication entre le pilote et le contrôleur. L'article explore ensuite comment des ambiguïtés similaires peuvent survenir dans l'interaction humain-IA, avec des exemples de modèles de langage génératif tels que ChatGPT. Il souligne l'importance de clarifier les ambiguïtés, en particulier dans les situations à haut risque, et suggère que les développeurs d'IA devraient veiller à ce que leurs modèles réduisent les ambiguïtés et cherchent des clarifications lorsque nécessaire. Les utilisateurs d'IA doivent également être conscients des ambiguïtés potentielles et ne pas baisser leur garde simplement parce qu'ils utilisent une technologie de pointe.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679f07824357ad9458dc2acc/0x0.jpg?format=jpg&crop=1642,1231,x222,y0,safe&width=440",
-        "date": "Sun, 02 Feb 2025 08:00:00 GMT"
     }
 ]
