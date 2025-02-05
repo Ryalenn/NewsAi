@@ -1,5 +1,33 @@
 [
     {
+        "title": "Apple Invites",
+        "link": "https://www.theverge.com/news/606009/apple-invites-app-events-android-iphone-partiful#comments",
+        "body": "Apple lance une nouvelle application, Apple Invites, qui permet de créer, partager et gérer des invitations pour des événements. L'application offre une alternative pratique aux messages texte ou aux événements Facebook pour inviter des amis. Les utilisateurs peuvent créer un événement, ajouter des détails, choisir un fond d'écran ou une image, et inviter des contacts. L'application utilise l'IA pour générer des images avec la fonction Image Playground sur les appareils compatibles. Les invités peuvent accéder aux invitations via un lien, et les widgets affichent les informations de l'événement, y compris la météo et les directions. Les albums photo et les playlists Apple Music peuvent également être ajoutés. L'application présente quelques bugs et des limitations pour les utilisateurs Android, qui doivent créer un compte Apple et faire face à des étapes supplémentaires pour accéder aux invitations. L'application est similaire à Partiful, mais est conçue pour l'écosystème Apple, offrant une expérience plus fluide pour les utilisateurs Apple tout en revendiquant un but social pour réunir les gens.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Apple-Invites-app.png?quality=90&strip=all&crop=0%2C3.3242258652095%2C100%2C93.351548269581&w=2400",
+        "date": "Tue, 04 Feb 2025 23:09:47 GMT"
+    },
+    {
+        "title": "OpenAI Rebrand",
+        "link": "https://www.theverge.com/news/606176/openai-new-logo-font-typeface-sans#comments",
+        "body": "OpenAI a procédé à une refonte de son image de marque, incluant un nouveau logo, une nouvelle palette de couleurs et une police de caractères personnalisée, l'OpenAI Sans. La nouvelle identité visuelle vise à être plus organique et humaine, avec un logo redessiné présentant un espace central plus large et des lignes plus épurées. La police de caractères OpenAI Sans allie précision géométrique et convivialité grâce à ses formes arrondies. L'équipe de conception interne, dirigée par Veit Moeller et Shannon Jager, a collaboré avec des experts en photographie, typographie, design spatial et motion design, en intégrant des outils d'IA comme DALL·E, ChatGPT et Sora. Bien que l'IA ait été utilisée pour aider au calcul des poids des caractères, la conception du logo et de la palette de couleurs reste une création humaine, soulignant ainsi l'importance de l'intuition humaine dans le processus créatif.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-new-typeface-openaisans.png?quality=90&strip=all&crop=14.380372492837%2C0%2C71.239255014327%2C100&w=2400",
+        "date": "Tue, 04 Feb 2025 22:38:06 GMT"
+    },
+    {
+        "title": "OpenAI : le chaos et la controverse",
+        "link": "https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt#comments",
+        "body": "L'article retrace les nombreux rebondissements et controverses entourant OpenAI, l'une des entreprises d'IA les plus en vue. Il commence par le départ soudain du cofondateur et PDG Sam Altman, remplacé brièvement par la CTO Mira Murati, puis par l'ancien patron de Twitch, Emmett Shear. Les employés menacent de partir si Altman n'est pas réintégré, ce qui finit par arriver. Elon Musk, cofondateur, poursuit OpenAI, affirmant que la société a abandonné sa mission caritative initiale pour poursuivre le profit. D'autres événements notables incluent une refonte de la marque, un accès à la puissance de calcul des concurrents, des plans de centres de données et une transition vers une entreprise à but lucratif. La relation complexe avec Microsoft est également explorée, ainsi que le lancement prochain du nouveau modèle Orion. L'article souligne les avertissements de Miles Brundage, conseiller principal d'OpenAI, sur le fait que personne n'est prêt pour l'IA générale, y compris OpenAI. Enfin, il aborde le départ de Mira Murati et les tensions entre les objectifs caritatifs et lucratifs d'OpenAI.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 04 Feb 2025 22:38:06 GMT"
+    },
+    {
+        "title": "Sécurité de l'IA : protéger les entreprises des menaces émergentes",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/02/04/addressing-the-need-to-secure-ai-at-scale/?ss=ai",
+        "body": "La sécurité des modèles d'IA devient un enjeu critique à mesure que les entreprises adoptent l'IA. Cisco répond à ce besoin avec AI Defense, une solution de sécurité qui fournit une visibilité, une validation et une application des politiques de sécurité sur les réseaux et les environnements cloud des entreprises. AI Defense aborde les problèmes de manipulation de modèles, d'attaques par injection de prompts et de fuite de données. Il automatise la validation des modèles d'IA, détectant les biais et les vulnérabilités en quelques secondes. La solution de Cisco s'intègre à sa plateforme de sécurité globale, offrant une application des politiques de sécurité de l'IA sur les réseaux, le cloud et les infrastructures des entreprises. L'annonce de Cisco met en évidence le besoin d'une approche standardisée de la sécurité de l'IA, alors que le domaine évolue et que les entreprises cherchent à gérer les risques associés à l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a29770c1e7ac56c19fb0d8/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Feb 2025 22:00:00 GMT"
+    },
+    {
         "title": "Impact de l'IA sur l'éducation supérieure",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2025/02/04/half-a-million-students-given-chatgpt-as-csu-makes-ai-history/?ss=ai",
         "body": "L'Université d'État de Californie (CSU) s'associe à OpenAI pour intégrer ChatGPT Edu dans son programme scolaire et ses opérations, devenant ainsi le plus grand déploiement d'IA dans l'enseignement supérieur à ce jour. Ce partenariat vise à promouvoir les compétences pratiques en IA alignées sur les exigences du marché du travail, positionnant ainsi la CSU à l'avant-garde de l'éducation assistée par l'IA. L'initiative aura un impact sur diverses parties prenantes, y compris l'économie en général, qui verra une augmentation des professionnels qualifiés en IA, soutenant ainsi le leadership de la Californie dans le secteur de l'IA. La CSU vise également à aborder les préoccupations éthiques liées à l'utilisation de l'IA dans l'éducation et pourrait établir une nouvelle norme pour les universités du monde entier.",
@@ -19,6 +47,13 @@
         "body": "L'article met en garde contre les affirmations trompeuses de DeepSeek AI, une startup chinoise d'IA, qui prétend avoir développé un modèle d'IA compétitif à une fraction du coût de ses concurrents américains. Il s'agit d'une illusion soigneusement orchestrée dans le but de manipuler les marchés mondiaux et de remettre en question la domination technologique américaine. DeepSeek AI est fortement subventionnée par l'État chinois et s'appuie sur l'acquisition de la propriété intellectuelle américaine, ainsi que sur l'utilisation de données de formation synthétiques dérivées de l'IA américaine existante. Malgré ses affirmations, DeepSeek AI n'est pas une véritable innovation, mais plutôt une création dérivée, soulignant la stratégie chinoise à court terme visant à saper la domination américaine dans le domaine de l'IA. Cet événement a provoqué une réévaluation de la part des États-Unis, qui investissent désormais dans l'AGI et les infrastructures d'IA avancées, soulignant ainsi l'importance de la course mondiale à l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a24352fea527f3c4a4a437/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Feb 2025 17:33:00 GMT"
+    },
+    {
+        "title": "Verizon offre Google One AI Premium",
+        "link": "https://www.theverge.com/news/605847/verizon-google-one-ai-premium-bundle#comments",
+        "body": "Verizon propose désormais Google One AI Premium en option à ses forfaits internet mobile et domestique. Disponible à partir du 6 février pour 10 $ de plus par mois, l'abonnement donne accès à Gemini Advanced, qui intègre les fonctionnalités Gemini aux applications Google telles que Gmail et Docs. Il permet également d'essayer les modèles IA expérimentaux de Google et son outil Deep Research. L'abonnement comprend également des réductions sur la boutique en ligne de Google, des fonctionnalités Google Calendar améliorées, des appels Google Meet plus longs et des fonctionnalités supplémentaires.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594448/STK066_VERIZON_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 04 Feb 2025 16:59:28 GMT"
     },
     {
         "title": "La promesse de l'IA",
@@ -47,6 +82,13 @@
         "body": "L'article met en lumière le rôle potentiel de l'IA dans le soutien aux startups et aux entrepreneurs en herbe, leur permettant de se concentrer sur les priorités les plus critiques. Alors que les modèles linguistiques larges (LLM) comme ChatGPT ont attiré l'attention en 2024, 2025 verra l'émergence des agents IA, qui peuvent prendre des décisions, entreprendre des actions et travailler de manière indépendante vers un objectif plus large. Les agents IA peuvent gérer les tâches répétitives, tandis que les LLM peuvent améliorer la productivité pour les tâches à fort impact. Ensemble, ils peuvent aider les startups à se développer, à innover et à libérer du temps pour les entrepreneurs. L'article fournit des exemples de la manière dont les agents IA peuvent transformer les processus commerciaux, y compris la gestion des e-mails, l'assurance qualité et l'identification des prospects, soulignant ainsi le potentiel de l'IA pour révolutionner l'entrepreneuriat.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a232f3839d661df244bb81/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Feb 2025 15:00:00 GMT"
+    },
+    {
+        "title": "Protéger les enfants des dangers de l'IA",
+        "link": "https://www.theverge.com/news/605728/california-chatbot-bill-child-safety#comments",
+        "body": "Une nouvelle loi proposée en Californie, la SB 243, vise à protéger les enfants des effets potentiellement addictifs et isolants de l'IA. La loi exigerait des entreprises d'IA qu'elles rappellent périodiquement aux enfants que les chatbots ne sont pas humains, et qu'elles limitent l'utilisation de modèles d'engagement addictifs. De plus, les entreprises devraient soumettre des rapports annuels sur la détection des idées suicidaires chez les jeunes utilisateurs et sur les discussions initiées par les chatbots sur ce sujet. La loi fait suite à des poursuites contre Character.AI, une entreprise dont les chatbots personnalisés ont été accusés d'avoir un impact négatif sur la santé mentale des adolescents. L'industrie de l'IA est confrontée à une pression croissante pour mettre en place des protections pour les utilisateurs vulnérables.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/stk414-chatbot-ai.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 04 Feb 2025 14:29:40 GMT"
     },
     {
         "title": "Acrobat AI Assistant améliore la compréhension des contrats",
@@ -119,6 +161,13 @@
         "date": "Mon, 03 Feb 2025 18:00:00 GMT"
     },
     {
+        "title": "Authentifier les images AI",
+        "link": "https://www.theverge.com/news/604989/cloudflare-adobe-content-credentials-authenticty-feature#comments",
+        "body": "Cloudflare s'associe à Adobe et à son système Content Credentials pour lutter contre la manipulation d'images par l'IA. Ce système ajoute une balise de métadonnées numériques aux images et vidéos, permettant de suivre leur propriété, leur historique de publication et d'éventuelles modifications, y compris celles effectuées par des outils d'IA. Cloudflare, en rejoignant la Content Authenticity Initiative (CAI), offre désormais une option pour préserver les Content Credentials sur son réseau, permettant ainsi de vérifier l'authenticité des contenus via les outils Adobe. Cette initiative, basée sur des standards techniques open-source, vise à aider les artistes et photographes à conserver la paternité de leur travail, tout en offrant un moyen de distinguer les contenus authentiques de ceux modifiés par l'IA. Avec environ 20 % du web passant par son réseau, Cloudflare donne une portée significative à cette initiative.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Feb 2025 16:04:29 GMT"
+    },
+    {
         "title": "L'IA et l'éveil spirituel",
         "link": "https://www.forbes.com/sites/michaelashley/2025/02/03/could-ai-based-entrepreneurship-spark-a-consciousness-revolution/?ss=ai",
         "body": "L'article explore l'idée que l'IA pourrait non seulement révolutionner le monde des affaires, mais aussi avoir un impact profond sur notre éveil spirituel et notre conscience. Peter, le personnage principal, adopte une mentalité impitoyable en grandissant dans la pauvreté, mais sa vie change après avoir entendu une interview de Sam Altman, PDG d'OpenAI, qui suggère que l'IA permettra à de petites entreprises d'atteindre des valorisations énormes. Peter lance sa propre entreprise de relations publiques avec des agents IA, ce qui le rend incroyablement riche. Cet accomplissement ne change pas seulement sa situation financière, mais aussi sa vision du monde. Influencé par les idées du physicien et chercheur en conscience, Tom Campbell, Peter réalise que l'IA pourrait potentiellement élever la conscience individuelle et collective, menant à l'éveil spirituel. Campbell croit que la vie est une école de réalité virtuelle destinée à améliorer nos capacités éthiques et morales, et que l'IA pourrait jouer un rôle crucial dans ce processus. L'article conclut en suggérant que l'IA, en plus d'être une innovation commerciale passionnante, pourrait catalyser l'évolution de notre conscience et transformer l'histoire humaine de la rareté vers l'abondance, tant sur le plan matériel que spirituel.",
@@ -173,68 +222,5 @@
         "body": "Le festival South By Southwest (SXSW) se prépare pour un événement majeur à Austin du 7 au 15 mars, avec l'IA et la mobilité comme thèmes centraux. Rivian, constructeur de voitures électriques, est le sponsor principal. De nombreuses célébrités sont attendues, et le festival proposera une variété de panels, de discussions et de projections de films. Les panels liés à l'IA incluent \"Life With Machines: The Best and Worst of AI\", \"AI Design for Human Agency\", \"AI Native Companies: A Blueprint for Future Dominance\", et \"AI & The Productivity Paradox: Are We Really Getting Ahead?\". Il y aura également des discussions sur l'éthique de l'IA, son impact sur divers secteurs, et son rôle dans l'art et la créativité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679e99af6c97b97238c861df/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 05:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT Tasks : une nouvelle fonctionnalité pour les abonnés",
-        "link": "https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai",
-        "body": "OpenAI lance une nouvelle fonctionnalité beta dans ChatGPT appelée Tasks, qui permet aux utilisateurs de planifier des actions futures et des rappels. La fonctionnalité, désormais disponible pour les abonnés Plus, Team et Pro, transforme le chatbot en un assistant numérique plus traditionnel, avec des capacités linguistiques avancées. Les utilisateurs peuvent demander à ChatGPT de leur fournir un rapport météorologique quotidien à 7 heures, un rappel sur l'expiration de leur passeport ou même une blague à raconter à leurs enfants avant le coucher. La fonctionnalité peut être activée en sélectionnant « 4o avec tâches planifiées » dans le sélecteur de modèle de ChatGPT, puis en indiquant ce que l'on souhaite que ChatGPT fasse et quand. Le système peut également suggérer des tâches en fonction de vos conversations, mais les utilisateurs doivent approuver explicitement toute suggestion. Toutes les tâches peuvent être gérées directement dans les fils de discussion ou via une nouvelle section Tasks dans le menu du profil. OpenAI n'a pas précisé si la fonctionnalité serait disponible pour les utilisateurs gratuits, suggérant qu'elle pourrait rester une fonctionnalité premium. La société propose des abonnements mensuels de 20 $ et 200 $. La fonctionnalité Tasks marque un changement dans les fonctionnalités de ChatGPT, qui fonctionnait auparavant uniquement en temps réel. L'ajout de Tasks suggère qu'OpenAI souhaite étendre le rôle de ChatGPT au-delà de la simple conversation, en concurrence directe avec les assistants virtuels traditionnels.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 00:11:45 GMT"
-    },
-    {
-        "title": "Deep Research",
-        "link": "https://www.theverge.com/news/604902/chagpt-deep-research-ai-agent#comments",
-        "body": "OpenAI dévoile une nouvelle fonctionnalité pour ChatGPT, appelée recherche approfondie, disponible pour les abonnés ChatGPT Pro. Cette fonctionnalité permet à l'IA d'agir de manière autonome, en planifiant et exécutant des tâches multi-étapes, tout en affichant les étapes de son processus de prise de décision dans un panneau latéral. Les utilisateurs peuvent poser des questions en texte, image ou en fournissant des fichiers supplémentaires. La recherche approfondie peut prendre jusqu'à 30 minutes pour fournir une réponse, qui peut inclure des citations, des tableaux et des listes à puces. OpenAI reconnaît que la fonctionnalité peut parfois « halluciner » et inventer des faits, mais affirme qu'elle fonctionne au niveau d'un analyste de recherche. La fonctionnalité est lancée avec un accès limité pour les utilisateurs Pro, avec un maximum de 100 requêtes par mois, et sera étendue aux utilisateurs Plus, Team et Enterprise à l'avenir.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 00:11:45 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie, tels que Microsoft, Google et OpenAI, rendent la technologie des chatbots basée sur les LLM plus accessible au grand public. ChatGPT d'OpenAI dévoile une nouvelle fonctionnalité de recherche approfondie, tandis que Gemini de Google peut désormais répondre aux questions sur les données dans Sheets. DeepSeek, une startup chinoise, fait parler d'elle avec son IA de pointe, Janus-Pro. Meta améliore son chatbot IA en lui ajoutant une fonction de mémoire, mais fait face à des restrictions en raison d'attaques malveillantes. Samsung remplace également son assistant Bixby par Google Gemini sur ses nouveaux téléphones. Microsoft, de son côté, teste la recherche Windows basée sur l'IA et élargit l'accès à son outil d'assistance à la codification IA. Nvidia annonce le Jetson Orin Nano Super Developer Kit, un ordinateur compact et puissant pour le traitement de l'IA. Dexcom utilise l'IA pour des rapports personnalisés sur le glucose et Google lance Whisk, un outil d'IA pour la génération d'images. Google annonce également Veo 2, une amélioration de son modèle vidéo, et Adam Mosseri d'Instagram met en garde contre la confiance accordée aux images en ligne en raison de la prolifération du contenu généré par l'IA. L'industrie de l'IA attire des investissements massifs, mais la course à la création d'une application phare reste intense et compétitive.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 00:11:45 GMT"
-    },
-    {
-        "title": "Authentifier les images AI",
-        "link": "https://www.theverge.com/news/604989/cloudflare-adobe-content-credentials-authenticty-feature#comments",
-        "body": "Cloudflare s'associe à Adobe et à son système Content Credentials pour lutter contre la manipulation d'images par l'IA. Ce système ajoute une balise de métadonnées numériques aux images et vidéos, permettant de suivre leur propriété, leur historique de publication et d'éventuelles modifications, y compris celles effectuées par des outils d'IA. Cloudflare introduit une option \"Preserve Content Credentials\" sur sa plateforme Cloudflare Images, permettant aux utilisateurs de vérifier l'historique d'un contenu via les outils Adobe. L'objectif est de faciliter l'attribution des œuvres pour les artistes et photographes, et d'aider le public à distinguer les contenus authentiques des contenus altérés ou générés par l'IA. Avec environ 20 % du web passant par son réseau, Cloudflare donne une portée significative à l'initiative Content Authenticity Initiative (CAI) d'Adobe.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Titre: ChatGPT Pro : recherche approfondie et raisonnement étape par étape",
-        "link": "https://www.frandroid.com/culture-tech/2491884_chatgpt-sinspire-de-deepseek-pour-son-systeme-de-recherche",
-        "body": "Résumé : OpenAI introduit une nouvelle fonctionnalité dans la version Pro de ChatGPT, appelée DeepSearch, qui fournit un système de recherche approfondie et un raisonnement étape par étape. Ce modèle s'appuie sur une version optimisée de OpenAI o3, permettant d'analyser du texte, des images et des PDF sur Internet. Les utilisateurs peuvent visualiser le processus de raisonnement et les sources d'informations, mais cette fonctionnalité nécessite beaucoup de calcul et n'est actuellement disponible que pour les utilisateurs Pro, avec une limite de 100 requêtes par mois. OpenAI prévoit d'élargir progressivement l'accès à d'autres niveaux d'abonnement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-vs-open-ai-chatgpt-1200x750-2-768x480.jpg?resize=188,188&key=7f62fc55",
-        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service de la sécurité nucléaire",
-        "link": "https://www.frandroid.com/culture-tech/2492026_les-etats-unis-sassocient-a-openai-chatgpt-pour-securiser-leur-arsenal-nucleaire",
-        "body": "OpenAI, développeur de ChatGPT, collabore avec l'administration Trump et Microsoft sur des projets liés à l'IA et à la sécurité nationale. Dans le cadre de l'initiative Stargate, OpenAI investit 500 milliards pour assurer la suprématie américaine en IA. L'entreprise fournit également une version de ChatGPT à 15 000 scientifiques travaillant dans des laboratoires nucléaires américains, avec un focus sur la réduction du risque de guerre nucléaire et la sécurisation des armes et matières nucléaires. De plus, OpenAI et Microsoft déploieront un modèle d'IA sur le supercalculateur Venado du Laboratoire national de Los Alamos, site historique du projet Manhattan. Ces annonces soulignent l'approche différente de Trump et son entourage concernant la régulation de l'IA, contrastant avec les préoccupations soulevées par d'autres industriels et responsables politiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-1-1-1-1200x675-1-768x432.jpg?resize=169,169&key=88898cba",
-        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le prochain iPhone-killer ?",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2492146_sam-altman-le-patron-de-chatgpt-veut-tuer-liphone-voici-son-plan",
-        "body": "Malgré les prédictions de la fin de l'iPhone, celui-ci reste indétrônable. Cependant, Sam Altman, patron d'OpenAI, pourrait changer la donne avec le recrutement de Jony Ive, ancien designer d'Apple. Leur appareil promet d'être révolutionnaire, mais on se demande ce qui le différenciera des smartphones actuels avec ChatGPT. L'article soulève la question de savoir s'il s'agira d'un véritable concurrent pour l'iPhone ou s'il rejoindra la liste des échecs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-1-768x513.jpg?resize=200,200&key=136d0624",
-        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'Europe réglemente l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2492106_utilisez-vous-une-app-avec-de-lia-voici-ce-qui-change-depuis-hier",
-        "body": "L'Union européenne a mis en place une réglementation complète sur l'IA, interdisant certaines applications jugées à risque pour les citoyens, telles que la reconnaissance faciale en temps réel et la catégorisation des personnes. Des amendes élevées sont prévues pour les entreprises qui ne respectent pas la loi. Cette réglementation a un impact sur le déploiement des innovations en IA, les géants de la tech préférant temporiser plutôt que de prendre des risques. L'UE cherche à trouver un équilibre entre protection et innovation, mais certains craignent que cette réglementation n'étouffe l'innovation européenne face aux investissements massifs des États-Unis et de la Chine dans le domaine.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-vs-open-ai-chatgpt-1200x750-1-768x480.jpg?resize=188,188&key=cd98421d",
-        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'ascension de DeepSeek et ses coûts réels",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2492088_deepseek-aurait-depense-266-fois-plus-que-ce-quelle-pretend",
-        "body": "La startup chinoise DeepSeek, qui avait surpris le secteur de l'IA avec son modèle d'IA prétendument développé pour seulement 6 millions de dollars, fait face à un examen minutieux de ses affirmations. Une analyse de SemiAnalysis révèle que l'investissement total de DeepSeek s'élève en réalité à 1,6 milliard de dollars, avec un impressionnant arsenal technologique comprenant 50 000 GPU Nvidia Hopper. Les coûts d'exploitation du matériel seul sont estimés à 944 millions de dollars. La communication sélective de DeepSeek a occulté les centaines de millions investis dans le recrutement agressif de talents, la gestion de centres de données internes et le financement de leur structure autonome. Cette révélation souligne l'importance d'une approche critique face aux annonces sensationnelles dans le domaine de l'IA, et confirme que les avancées technologiques nécessitent des investissements massifs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-multi-illustration-1200x750-1-768x480.jpg?resize=188,188&key=5fca3468",
-        "date": "Sun, 02 Feb 2025 23:00:00 GMT"
     }
 ]
