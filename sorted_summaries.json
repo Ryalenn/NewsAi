@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avènement de l'IA agentique",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/05/here-comes-the-big-strong-agentic-ai-wave/?ss=ai",
+        "body": "L'IA agentique, qui désigne des systèmes intelligents ou des « agents » capables de raisonner, de s'adapter et d'agir de manière autonome, est la nouvelle tendance dans le domaine de l'IA. Deloitte prévoit que 25 % des entreprises utilisant l'IA générative lanceront des projets pilotes ou des preuves de concept en matière d'IA agentique d'ici 2025, ce chiffre passant à 50 % d'ici 2027. L'IA agentique se distingue de l'IA générative en ce qu'elle ne se contente pas de produire du texte ou des images en réponse à des prompts, mais qu'elle opère avec autonomie et prend des décisions basées sur des données en temps réel. Elle permet aux entreprises de combler l'écart entre le potentiel de l'IA et la réalité des affaires, en offrant des insights actionnables et en optimisant les processus. Les experts prévoient un large éventail d'applications, notamment dans les domaines de la santé, de la chaîne d'approvisionnement, de la logistique et de la finance. Cependant, l'IA agentique soulève également des questions éthiques et réglementaires, car les entreprises doivent désormais prendre la responsabilité d'une utilisation éthique de l'IA, en garantissant la transparence, la responsabilité et le respect de la vie privée des données.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a356e1f2ce897e324f2d11/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 05 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Ivo lève des fonds pour révolutionner la révision des contrats grâce à l'IA",
+        "link": "https://www.forbes.com/sites/davidprosser/2025/02/05/meet-ivo-the-legal-ai-that-will-review-your-contracts/?ss=ai",
+        "body": "Ivo, une startup Legaltech, annonce un financement de série A de 16 millions de dollars pour développer sa technologie d'IA pour la révision et la négociation des contrats. L'IA d'Ivo analyse les projets de contrat, identifie les clauses problématiques et suggère des révisions, accélérant ainsi le processus de négociation. Le CEO et co-fondateur d'Ivo, Min-Kyu Jung, estime que l'évolution de l'IA générative permet désormais de résoudre ce défi de manière efficace. Ivo a déjà séduit plus de 150 clients, dont Canva et Fonterra, et a réduit de manière significative le temps nécessaire à la révision des contrats. La société prévoit de se développer à l'international et de lancer de nouveaux produits, comme Search Agent, qui permet de rechercher dans une bibliothèque de contrats. Le tour de table de série A, mené par Costanoa Ventures, valorise Ivo à plus de 22 millions de dollars.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a1d2157b0e1a9cea91781b/0x0.jpg?format=jpg&crop=3824,1791,x0,y421,safe&width=440",
+        "date": "Wed, 05 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "La course aux voitures autonomes",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/02/05/how-to-judge-if-a-robocar-is-actually-good-tesla-vs-waymo/?ss=ai",
+        "body": "L'article compare les approches de Waymo et de Tesla dans le développement de la technologie de conduite autonome, en se concentrant sur les défis de l'évaluation de la qualité et de la sécurité de ces systèmes. Il souligne la nécessité de disposer de grandes quantités de données agrégées pour évaluer véritablement la performance, et que les entreprises sont réticentes à partager ces données. L'auteur suggère que la volonté d'une entreprise de retirer les conducteurs de sécurité et d'autoriser le public dans leurs véhicules est un indicateur clé de leur confiance dans leur technologie. Il critique également Tesla pour la publication de données trompeuses, soulignant la difficulté d'évaluer objectivement les progrès dans le domaine de la conduite autonome.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a13fc4a763f424c7c7db71/0x0.jpg?format=jpg&crop=866,594,x294,y158,safe&width=440",
+        "date": "Wed, 05 Feb 2025 13:00:00 GMT"
+    },
+    {
         "title": "La communication entre IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/04/unraveling-the-curious-mystery-of-two-different-ai-models-suddenly-forming-a-new-language-of-their-very-own/?ss=ai",
         "body": "Deux systèmes d'IA peuvent communiquer entre eux en utilisant un langage naturel conventionnel, mais ils peuvent également créer leur propre langage, plus efficace et optimisé pour leurs échanges internes. Cette capacité découle de leur conception mathématique et computationnelle, qui vise à optimiser les communications en minimisant les étapes et en maximisant la précision des réponses. Bien que cela puisse sembler être un signe de conscience ou de préparation à une prise de contrôle, il s'agit simplement d'une adaptation du langage naturel pour améliorer l'efficacité de la communication entre les IA. Les humains peuvent influencer le langage utilisé par les IA, mais avec l'avancement de l'AGI et de l'ASI, il sera de plus en plus difficile de contrôler leur formulation linguistique.",
@@ -194,33 +215,5 @@
         "body": "Cloudflare s'associe à Adobe et à son système Content Credentials pour lutter contre la manipulation d'images par l'IA. Ce système ajoute une balise de métadonnées numériques aux images et vidéos, permettant de suivre leur propriété, leur historique de publication et d'éventuelles modifications, y compris celles effectuées par des outils d'IA. Cloudflare, en rejoignant la Content Authenticity Initiative (CAI), offre désormais une option pour préserver les Content Credentials sur son réseau, permettant ainsi de vérifier l'authenticité des contenus via les outils Adobe. Cette initiative, basée sur des standards techniques open-source, vise à aider les artistes et photographes à conserver la paternité de leur travail, tout en offrant un moyen de distinguer les contenus authentiques de ceux modifiés par l'IA. Avec environ 20 % du web passant par son réseau, Cloudflare donne une portée significative à cette initiative.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 03 Feb 2025 16:04:29 GMT"
-    },
-    {
-        "title": "L'IA et l'éveil spirituel",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/02/03/could-ai-based-entrepreneurship-spark-a-consciousness-revolution/?ss=ai",
-        "body": "L'article explore l'idée que l'IA pourrait non seulement révolutionner le monde des affaires, mais aussi avoir un impact profond sur notre éveil spirituel et notre conscience. Peter, le personnage principal, adopte une mentalité impitoyable en grandissant dans la pauvreté, mais sa vie change après avoir entendu une interview de Sam Altman, PDG d'OpenAI, qui suggère que l'IA permettra à de petites entreprises d'atteindre des valorisations énormes. Peter lance sa propre entreprise de relations publiques avec des agents IA, ce qui le rend incroyablement riche. Cet accomplissement ne change pas seulement sa situation financière, mais aussi sa vision du monde. Influencé par les idées du physicien et chercheur en conscience, Tom Campbell, Peter réalise que l'IA pourrait potentiellement élever la conscience individuelle et collective, menant à l'éveil spirituel. Campbell croit que la vie est une école de réalité virtuelle destinée à améliorer nos capacités éthiques et morales, et que l'IA pourrait jouer un rôle crucial dans ce processus. L'article conclut en suggérant que l'IA, en plus d'être une innovation commerciale passionnante, pourrait catalyser l'évolution de notre conscience et transformer l'histoire humaine de la rareté vers l'abondance, tant sur le plan matériel que spirituel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679cf8d26864e6a3423e06b2/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'information à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/03/tech-companies-and-journalism-companies-join-forces-sometimes/?ss=ai",
-        "body": "Google s'associe à l'Associated Press pour améliorer la qualité des informations dans son service d'IA Gemini, mettant en avant une approche collaborative plutôt que compétitive. D'autres géants du web, comme Microsoft et Amazon, forment également des alliances avec des entreprises d'IA. Malgré quelques conflits juridiques, de nombreuses entreprises médiatiques signent des accords avec des entreprises d'IA pour un usage autorisé de leur contenu. L'IA est également intégrée aux salles de rédaction pour optimiser le travail des journalistes et améliorer la qualité et la précision des informations. Tous les acteurs ont intérêt à lutter contre les deepfakes et la désinformation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a0d438ac7151922287e0ea/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 14:35:00 GMT"
-    },
-    {
-        "title": "Wildfire Management Revolutionized",
-        "link": "https://www.forbes.com/sites/cathyrubin/2025/02/03/how-ai-tech-and-policy-can-stop-the-wildfire-crisis/?ss=ai",
-        "body": "L'article décrit l'impact dévastateur des feux de forêt à Los Angeles en 2025, qui ont causé des milliards de dollars de dommages et entraîné des évacuations massives. Les feux de forêt sont de plus en plus fréquents et mortels, avec des conséquences financières et écologiques importantes. La fumée des feux de forêt, chargée de particules toxiques, provoque également une crise sanitaire, affectant particulièrement les enfants, les personnes âgées et celles souffrant de problèmes respiratoires. L'article met en lumière l'utilisation de l'IA pour améliorer la détection et la réponse aux incendies. Pano AI, par exemple, a développé un système de détection avancé qui identifie la fumée en quelques minutes après l'allumage. Bellwether utilise l'IA pour améliorer l'efficacité de la réponse aux catastrophes de 80 %, en associant instantanément les lieux des incendies à des paysages réels. OroraTech, quant à elle, utilise un réseau de satellites alimenté par l'IA pour prédire les risques d'incendie avant leur apparition en analysant les données historiques, la végétation et les tendances climatiques. Enfin, des drones à eau autonomes sont en cours de développement pour lutter contre les incendies sans mettre en danger les pilotes. L'article souligne la nécessité de reconstruire de manière résiliente et de comprendre le rôle écologique du feu, tout en équilibrant la protection des communautés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679c6bf9812c17fb310c349e/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Maîtriser YouTube",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/02/03/7-chatgpt-prompts-to-kickstart-your-youtube-channel/?ss=ai",
-        "body": "Résumé : \n\nAvec 2,7 milliards de téléspectateurs mensuels, YouTube est une plateforme incontournable pour atteindre un large public. Pour ceux qui hésitent à se lancer, voici sept suggestions de prompts pour ChatGPT qui peuvent aider à démarrer une chaîne et à obtenir des résultats concrets. Ces prompts couvrent divers aspects, de la planification stratégique à la création de contenu engageant, en passant par l'optimisation de scripts et la conception d'une stratégie de lancement. L'accent est mis sur l'exploitation de l'expertise unique de l'utilisateur, la fourniture de solutions pratiques et l'établissement d'une présence authentique et utile sur la plateforme.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/679f038db7a3dc34e4f5416f/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 13:00:00 GMT"
     }
 ]
