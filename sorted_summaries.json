@@ -14,6 +14,13 @@
         "date": "Tue, 04 Feb 2025 23:09:47 GMT"
     },
     {
+        "title": "Google Gemini : une nouvelle version accessible à tous",
+        "link": "https://www.frandroid.com/culture-tech/2494340_google-lance-une-nouvelle-version-de-gemini-sur-smartphone",
+        "body": "Google a récemment mis à jour son application Gemini, désormais disponible sur mobiles avec de nouvelles fonctionnalités. La version 2.0 de Gemini, lancée en février, offre une expérience améliorée avec une qualité et une rapidité accrues. Google a veillé à ce que cette mise à jour soit accessible à tous, aussi bien aux utilisateurs gratuits qu'aux abonnés payants, sur Android et iOS. Les utilisateurs payants ont également accès à une version expérimentale avancée de Gemini 2.0, qui inclut des fonctionnalités supplémentaires telles que la possibilité de traiter des documents volumineux et de créer des agents personnalisés. La mise à jour est compatible avec iOS et Android 16.3 (stable) ou 16.4 (bêta).",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-1-768x432.png?resize=169,169&key=94c53d72",
+        "date": "Tue, 04 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "OpenAI Rebrand",
         "link": "https://www.theverge.com/news/606176/openai-new-logo-font-typeface-sans#comments",
         "body": "OpenAI a procédé à une refonte de son image de marque, incluant un nouveau logo, une nouvelle palette de couleurs et une police de caractères personnalisée, l'OpenAI Sans. La nouvelle identité visuelle vise à être plus organique et humaine, avec un logo redessiné présentant un espace central plus large et des lignes plus épurées. La police de caractères OpenAI Sans allie précision géométrique et convivialité grâce à ses formes arrondies. L'équipe de conception interne, dirigée par Veit Moeller et Shannon Jager, a collaboré avec des experts en photographie, typographie, design spatial et motion design, en intégrant des outils d'IA comme DALL·E, ChatGPT et Sora. Bien que l'IA ait été utilisée pour aider au calcul des poids des caractères, la conception du logo et de la palette de couleurs reste une création humaine, soulignant ainsi l'importance de l'intuition humaine dans le processus créatif.",
@@ -205,22 +212,8 @@
     {
         "title": "L'avenir de l'IA aux États-Unis",
         "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
-        "body": "Le président Trump a annulé une action de l'ère Biden visant à mettre en place des garde-fous pour l'IA. L'ordre exécutif de Biden, signé en 2023, exigeait que les développeurs de grands modèles d'IA, tels qu'OpenAI's GPT, partagent les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à l'IA en matière de sécurité nationale et de protection des consommateurs. Parmi les invités à l'investiture de Trump se trouvaient des personnalités du monde de la tech, dont certains ont contribué au budget de l'investiture. L'annulation de l'ordre exécutif de Biden pourrait présager un affrontement avec l'Union européenne concernant son règlement sur l'IA, qui impose des exigences de transparence et interdit certaines utilisations de l'IA. Cependant, d'autres mesures de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis pourraient rester en place, notamment un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA, ainsi qu'un ordre exécutif visant à accélérer le développement de centres de données IA sur des terres fédérales.",
-        "image": "",
-        "date": "Mon, 03 Feb 2025 09:15:10 GMT"
-    },
-    {
-        "title": "Déclutter avec l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/03/decluttering-your-life-via-generative-ai/?ss=ai",
-        "body": "L'article explore la tendance croissante à vouloir simplifier sa vie et son environnement, en se concentrant sur l'utilisation de l'IA pour y parvenir. Il suggère que l'IA générative et les grands modèles linguistiques peuvent être des outils efficaces pour aider les gens à simplifier leur vie de manière holistique, en abordant à la fois le désordre physique et mental. L'auteur souligne l'importance de considérer le désencombrement comme une pratique continue et propose d'utiliser l'IA comme partenaire de conversation pour un soutien continu. Tout en reconnaissant les limites de l'IA, y compris les hallucinations et les faux pas occasionnels, l'article suggère que l'IA peut offrir des conseils et un soutien utiles pour gérer le désordre. Il met également en garde contre le fait que l'utilisation de l'IA pour la santé mentale est un terrain inconnu, et que des précautions doivent être prises.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67999954701ff7bc728aa3ac/0x0.jpg?format=jpg&crop=1932,1448,x5,y0,safe&width=440",
-        "date": "Mon, 03 Feb 2025 08:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : création et action",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/03/generative-ai-vs-agentic-ai-the-key-differences-everyone-needs-to-know/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a068ac225f35ab93c37285/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 07:00:00 GMT"
+        "body": "Le président Trump a révoqué un décret de l'ère Biden visant à établir des directives de sécurité pour l'IA générative. Le décret de Biden demandait aux développeurs de grands modèles d'IA, comme la gamme GPT d'OpenAI, de partager les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à l'IA en matière de sécurité chimique, biologique, radiologique, nucléaire, informatique et d'infrastructure critique. De plus, le décret comprenait des mesures de protection des travailleurs et des consommateurs, ainsi qu'une étude sur l'impact potentiel de l'IA sur le marché du travail. La révocation de ce décret par Trump suggère un changement de priorité vers le développement de nouveaux outils d'IA, avec la présence notable de dirigeants technologiques lors de son inauguration. Cela pourrait conduire à un affrontement avec l'Union européenne concernant son \"AI Act\", qui impose des exigences de transparence et interdit certaines utilisations de l'IA. Cependant, d'autres mesures de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis pourraient rester en place, y compris un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2196799962.jpg?quality=90&strip=all&crop=0%2C0.14164305949009%2C100%2C99.71671388102&w=2400",
+        "date": "Mon, 03 Feb 2025 12:11:07 GMT"
     }
 ]
