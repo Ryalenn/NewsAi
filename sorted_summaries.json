@@ -7,11 +7,25 @@
         "date": "Wed, 05 Feb 2025 01:00:00 GMT"
     },
     {
+        "title": "Gemini AI et la monétisation",
+        "link": "https://www.theverge.com/news/606317/google-gemini-ai-ads-q4-2024-earnings",
+        "body": "Bien qu'actuellement gratuite ou accessible via un abonnement payant, l'assistante IA de Google, Gemini, pourrait à terme intégrer de la publicité. C'est ce qu'a laissé entendre Sundar Pichai, PDG de Google, lors d'un appel aux investisseurs d'Alphabet. En réponse à une question sur les opportunités de monétisation de Gemini, Pichai a déclaré que Google avait des \"très bonnes idées\" pour des concepts de publicités natives, mais que l'entreprise se concentrerait d'abord sur l'expérience utilisateur. Il a également souligné que la publicité a toujours été un aspect important de la stratégie de Google, et qu'il est probable que des options publicitaires soient proposées à l'avenir, même si cela n'arrivera pas avant la fin de l'année.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Tue, 04 Feb 2025 23:09:49 GMT"
+    },
+    {
         "title": "Apple Invites",
         "link": "https://www.theverge.com/news/606009/apple-invites-app-events-android-iphone-partiful#comments",
         "body": "Apple lance une nouvelle application, Apple Invites, qui permet de créer, partager et gérer des invitations pour des événements. L'application offre une alternative pratique aux messages texte ou aux événements Facebook pour inviter des amis. Les utilisateurs peuvent créer un événement, ajouter des détails, choisir un fond d'écran ou une image, et inviter des contacts. L'application utilise l'IA pour générer des images avec la fonction Image Playground sur les appareils compatibles. Les invités peuvent accéder aux invitations via un lien, et les widgets affichent les informations de l'événement, y compris la météo et les directions. Les albums photo et les playlists Apple Music peuvent également être ajoutés. L'application présente quelques bugs et des limitations pour les utilisateurs Android, qui doivent créer un compte Apple et faire face à des étapes supplémentaires pour accéder aux invitations. L'application est similaire à Partiful, mais est conçue pour l'écosystème Apple, offrant une expérience plus fluide pour les utilisateurs Apple tout en revendiquant un but social pour réunir les gens.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Apple-Invites-app.png?quality=90&strip=all&crop=0%2C3.3242258652095%2C100%2C93.351548269581&w=2400",
         "date": "Tue, 04 Feb 2025 23:09:47 GMT"
+    },
+    {
+        "title": "Google abandonne ses principes éthiques sur l'IA",
+        "link": "https://www.frandroid.com/marques/google/2494638_google-supprime-son-engagement-contre-lutilisation-de-lia-pour-les-armes",
+        "body": "Google a supprimé une clause de ses principes éthiques interdisant l'utilisation de l'IA pour les armes ou la surveillance, un changement stratégique dans un contexte géopolitique évolutif. L'entreprise justifie cette décision par la nécessité pour les démocraties de maintenir leur avance technologique face aux régimes autoritaires. Les nouveaux principes de Google mettent l'accent sur la prévention des préjudices et l'alignement sur les normes internationales, mais suscitent des inquiétudes quant à une possible dérive vers des usages controversés. L'entreprise évalue chaque cas d'utilisation de l'IA au cas par cas, s'alignant potentiellement sur les politiques de Donald Trump, qui a assoupli les réglementations sur l'IA. Avec des budgets militaires dédiés à l'IA en forte augmentation, Google se positionne pour rester compétitif dans cette course technologique, tout en affirmant respecter les droits humains et le droit international.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/08/ethanhawke-630x420.jpg?resize=300,300&key=331cd54d",
+        "date": "Tue, 04 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Google Gemini : une nouvelle version accessible à tous",
@@ -208,12 +222,5 @@
         "body": "Résumé : \n\nAvec 2,7 milliards de téléspectateurs mensuels, YouTube est une plateforme incontournable pour atteindre un large public. Pour ceux qui hésitent à se lancer, voici sept suggestions de prompts pour ChatGPT qui peuvent aider à démarrer une chaîne et à obtenir des résultats concrets. Ces prompts couvrent divers aspects, de la planification stratégique à la création de contenu engageant, en passant par l'optimisation de scripts et la conception d'une stratégie de lancement. L'accent est mis sur l'exploitation de l'expertise unique de l'utilisateur, la fourniture de solutions pratiques et l'établissement d'une présence authentique et utile sur la plateforme.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679f038db7a3dc34e4f5416f/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA aux États-Unis",
-        "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
-        "body": "Le président Trump a révoqué un décret de l'ère Biden visant à établir des directives de sécurité pour l'IA générative. Le décret de Biden demandait aux développeurs de grands modèles d'IA, comme la gamme GPT d'OpenAI, de partager les résultats de leurs tests de sécurité avec le gouvernement américain. Il chargeait également des agences fédérales d'évaluer les risques potentiels liés à l'IA en matière de sécurité chimique, biologique, radiologique, nucléaire, informatique et d'infrastructure critique. De plus, le décret comprenait des mesures de protection des travailleurs et des consommateurs, ainsi qu'une étude sur l'impact potentiel de l'IA sur le marché du travail. La révocation de ce décret par Trump suggère un changement de priorité vers le développement de nouveaux outils d'IA, avec la présence notable de dirigeants technologiques lors de son inauguration. Cela pourrait conduire à un affrontement avec l'Union européenne concernant son \"AI Act\", qui impose des exigences de transparence et interdit certaines utilisations de l'IA. Cependant, d'autres mesures de l'administration Biden visant à stimuler le développement de l'IA aux États-Unis pourraient rester en place, y compris un nouveau cadre réglementaire restreignant le partage international de puces et de modèles d'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2196799962.jpg?quality=90&strip=all&crop=0%2C0.14164305949009%2C100%2C99.71671388102&w=2400",
-        "date": "Mon, 03 Feb 2025 12:11:07 GMT"
     }
 ]
