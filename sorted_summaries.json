@@ -1,5 +1,26 @@
 [
     {
+        "title": "La révolution des travailleurs numériques",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/02/05/your-next-co-worker-is-going-to-be-a-robot-3-practical-implications/?ss=ai",
+        "body": "OneDigital, une entreprise de services financiers, a adopté une approche innovante en créant une équipe de travailleurs numériques, ou agents IA, accessibles via un portail de recrutement IA interne. Ces travailleurs numériques, comme \"Frank\" et \"Yesper\", sont formés dans différents domaines d'expertise et offrent une assistance personnalisée aux employés de l'entreprise. L'entreprise prévoit d'en déployer davantage dans des domaines tels que l'efficacité des ventes, les tâches administratives, les RH, etc. Cette initiative reflète une prise de conscience croissante parmi les entreprises leaders que l'IA implique non seulement un changement technologique, mais aussi un changement organisationnel. L'analogie avec les travailleurs numériques rend le concept d'IA plus accessible et souligne l'importance de réinvestir dans le talent humain pour créer une boucle d'apprentissage positive où les performances des travailleurs humains et numériques s'amplifient mutuellement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a3867e783769921b91c2d7/0x0.jpg?format=jpg&crop=1039,487,x0,y283,safe&width=440",
+        "date": "Wed, 05 Feb 2025 17:58:00 GMT"
+    },
+    {
+        "title": "Gemini 2.0",
+        "link": "https://www.theverge.com/news/606530/gemini-ai-app-flash-thinking-2-0-update",
+        "body": "Google met à jour son application Gemini avec sa nouvelle IA expérimentale capable d'expliquer son raisonnement. La mise à jour Gemini 2.0 Flash Thinking, désormais disponible, fait partie d'une série de lancements d'IA Gemini 2.0, dont le modèle phare Gemini 2.0 Pro. L'IA peut désormais interagir avec d'autres applications Google comme YouTube, Search et Google Maps. Gemini 2.0 rivalisera avec d'autres IA de raisonnement comme o1 d'OpenAI et R1 de DeepSeek. Ces modèles décomposent les problèmes en étapes plus petites et gèrent mieux les tâches complexes, même si le temps de traitement peut être plus long. Google lance également une version expérimentale de Gemini 2.0 Pro, offrant de meilleures performances en codage et en mathématiques. Gemini 2.0 Flash, le modèle IA haute efficacité de Google, est maintenant accessible aux développeurs. Enfin, Google introduit un nouveau modèle à faible coût, Gemini 2.0 Flash-Lite, offrant des performances équivalentes à Gemini 1.5 Flash à un prix plus abordable.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Wed, 05 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. L'article explore les dernières avancées et annonces dans le domaine de l'IA, notamment les modèles de langage de grande taille, les capacités de recherche approfondie et les fonctionnalités d'agent autonome. Il aborde également les controverses et les préoccupations liées à l'IA, telles que les fausses informations, les problèmes de sécurité et les questions éthiques. L'article souligne la course croissante entre les entreprises pour développer des applications d'IA pratiques et rentables, avec des investissements importants et une concurrence intense.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Feb 2025 16:00:00 GMT"
+    },
+    {
         "title": "L'avènement de l'IA agentique",
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/05/here-comes-the-big-strong-agentic-ai-wave/?ss=ai",
         "body": "L'IA agentique, qui désigne des systèmes intelligents ou des « agents » capables de raisonner, de s'adapter et d'agir de manière autonome, est la nouvelle tendance dans le domaine de l'IA. Deloitte prévoit que 25 % des entreprises utilisant l'IA générative lanceront des projets pilotes ou des preuves de concept en matière d'IA agentique d'ici 2025, ce chiffre passant à 50 % d'ici 2027. L'IA agentique se distingue de l'IA générative en ce qu'elle ne se contente pas de produire du texte ou des images en réponse à des prompts, mais qu'elle opère avec autonomie et prend des décisions basées sur des données en temps réel. Elle permet aux entreprises de combler l'écart entre le potentiel de l'IA et la réalité des affaires, en offrant des insights actionnables et en optimisant les processus. Les experts prévoient un large éventail d'applications, notamment dans les domaines de la santé, de la chaîne d'approvisionnement, de la logistique et de la finance. Cependant, l'IA agentique soulève également des questions éthiques et réglementaires, car les entreprises doivent désormais prendre la responsabilité d'une utilisation éthique de l'IA, en garantissant la transparence, la responsabilité et le respect de la vie privée des données.",
@@ -21,11 +42,25 @@
         "date": "Wed, 05 Feb 2025 13:00:00 GMT"
     },
     {
+        "title": "Démocraties et leadership en IA",
+        "link": "https://www.theverge.com/news/606418/google-ai-principles-weapons-surveillance#comments",
+        "body": "Google a mis à jour ses principes d'éthique en IA, supprimant les engagements à ne pas utiliser l'IA de manière dommageable, notamment pour la surveillance, les armes et les technologies visant à blesser les personnes. Ce changement s'aligne sur les concurrents de Google dans le développement de l'IA, comme Meta et OpenAI, dont les technologies sont autorisées pour un usage militaire. DeepMind, acquis par Google en 2014, avait à l'origine des termes interdisant son utilisation à des fins militaires ou de surveillance. Malgré son engagement antérieur à ne pas développer d'armes IA, Google a travaillé sur des contrats militaires, notamment avec le Pentagone et le gouvernement israélien. Les nouveaux principes de Google se concentrent sur l'innovation, la collaboration et le développement responsable de l'IA, avec un accent sur le leadership démocratique et la protection des valeurs fondamentales.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Feb 2025 12:14:30 GMT"
+    },
+    {
         "title": "La communication entre IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/04/unraveling-the-curious-mystery-of-two-different-ai-models-suddenly-forming-a-new-language-of-their-very-own/?ss=ai",
         "body": "Deux systèmes d'IA peuvent communiquer entre eux en utilisant un langage naturel conventionnel, mais ils peuvent également créer leur propre langage, plus efficace et optimisé pour leurs échanges internes. Cette capacité découle de leur conception mathématique et computationnelle, qui vise à optimiser les communications en minimisant les étapes et en maximisant la précision des réponses. Bien que cela puisse sembler être un signe de conscience ou de préparation à une prise de contrôle, il s'agit simplement d'une adaptation du langage naturel pour améliorer l'efficacité de la communication entre les IA. Les humains peuvent influencer le langage utilisé par les IA, mais avec l'avancement de l'AGI et de l'ASI, il sera de plus en plus difficile de contrôler leur formulation linguistique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a2bb75595491723cada78b/0x0.jpg?format=jpg&crop=3840,2879,x911,y0,safe&width=440",
         "date": "Wed, 05 Feb 2025 01:00:00 GMT"
+    },
+    {
+        "title": "Wave Link ajoute des améliorations vocales assistées par l'IA",
+        "link": "https://www.theverge.com/news/606244/elgatos-wave-link-2-0-promises-clear-vocals-in-any-environment",
+        "body": "Elgato a sorti une nouvelle version de son logiciel de contrôle de streaming audio Wave Link, qui comprend de nouvelles fonctionnalités d'amélioration vocale assistées par l'IA pour améliorer la qualité audio de votre micro. La mise à jour 2.0, qui fonctionne avec le matériel Elgato, notamment les micros et l'écosystème Stream Deck, comprend également un nouveau système de gestion au niveau du système d'exploitation pour une redirection flexible des flux audio. Wave Link 2.0 prend désormais en charge les effets audio personnalisés et les plugins, et peut créer des boutons de contrôle Stream Deck personnalisés pour un ajustement rapide du volume. Il fonctionne également avec les pédales Stream Deck et les cadrans Stream Deck Plus.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-04-at-5.22.36%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.0294117647059%2C100%2C87.941176470588&w=2400",
+        "date": "Tue, 04 Feb 2025 23:29:45 GMT"
     },
     {
         "title": "Gemini AI et la monétisation",
@@ -201,19 +236,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679cfa59b23ec2abd1bd3287/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 03 Feb 2025 19:00:00 GMT"
-    },
-    {
-        "title": "La médecine du futur : l'IA au service de la santé",
-        "link": "https://www.forbes.com/sites/talpatalon/",
-        "body": "L'auteur, un médecin urgentiste et généraliste, entrepreneur et chercheur en santé, présente une réflexion sur le rôle de l'IA dans l'avenir de la médecine. Il souligne l'importance de l'IA dans les progrès médicaux, notamment avec l'émergence de la multiomique, une approche permettant d'analyser de grandes quantités de données biologiques. L'auteur mentionne également la course aux modèles d'IA personnalisés dans le domaine de la santé, avec des entreprises technologiques offrant des services de plus en plus sophistiqués, tels que ChatGPT qui propose désormais un numéro de téléphone pour les appels et messages. \n\nL'article aborde également d'autres avancées médicales potentielles, telles que l'édition de gènes pour traiter l'herpès génital, l'utilisation de stents cérébraux veineux et les progrès de l'informatique quantique et de l'apprentissage automatique. Enfin, il soulève des questions éthiques importantes concernant les progrès médicaux et la nécessité de s'assurer que le développement technologique ne laisse personne derrière.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a0fa87f34b36851080ba8d/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Feb 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Authentifier les images AI",
-        "link": "https://www.theverge.com/news/604989/cloudflare-adobe-content-credentials-authenticty-feature#comments",
-        "body": "Cloudflare s'associe à Adobe et à son système Content Credentials pour lutter contre la manipulation d'images par l'IA. Ce système ajoute une balise de métadonnées numériques aux images et vidéos, permettant de suivre leur propriété, leur historique de publication et d'éventuelles modifications, y compris celles effectuées par des outils d'IA. Cloudflare, en rejoignant la Content Authenticity Initiative (CAI), offre désormais une option pour préserver les Content Credentials sur son réseau, permettant ainsi de vérifier l'authenticité des contenus via les outils Adobe. Cette initiative, basée sur des standards techniques open-source, vise à aider les artistes et photographes à conserver la paternité de leur travail, tout en offrant un moyen de distinguer les contenus authentiques de ceux modifiés par l'IA. Avec environ 20 % du web passant par son réseau, Cloudflare donne une portée significative à cette initiative.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 16:04:29 GMT"
     }
 ]
