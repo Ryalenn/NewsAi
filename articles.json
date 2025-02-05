@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "« Nous avons été du mauvais côté de l’histoire » : Sam Altman revient sur le développement de ChatGPT",
+        "title": "\u00ab Nous avons \u00e9t\u00e9 du mauvais c\u00f4t\u00e9 de l\u2019histoire \u00bb : Sam Altman revient sur le d\u00e9veloppement de ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/2492956_nous-avons-ete-du-mauvais-cote-de-lhistoire-sam-altman-revient-sur-le-developpement-de-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-2-768x513.jpg?resize=200,200&key=4ac63e48",
         "date": "Mon, 03 Feb 2025 23:00:00 GMT",
@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Un million de dollars d’amende et jusqu’à 20 ans de prison : c’est la sanction que risqueraient les Américains qui utiliseraient DeepSeek",
+        "title": "Un million de dollars d\u2019amende et jusqu\u2019\u00e0 20 ans de prison : c\u2019est la sanction que risqueraient les Am\u00e9ricains qui utiliseraient DeepSeek",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2494238_un-million-de-dollars-damende-et-jusqua-20-ans-de-prison-cest-la-sanction-que-risqueraient-les-americains-qui-utiliseraient-deepseek",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-smartphone-1200x750-1-768x480.jpg?resize=188,188&key=0c67cc4b",
         "date": "Mon, 03 Feb 2025 23:00:00 GMT",
@@ -201,5 +201,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a2bb75595491723cada78b/0x0.jpg?format=jpg&crop=3840,2879,x911,y0,safe&width=440",
         "date": "Wed, 05 Feb 2025 01:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Google lance une nouvelle version de Gemini sur smartphone",
+        "link": "https://www.frandroid.com/culture-tech/2494340_google-lance-une-nouvelle-version-de-gemini-sur-smartphone",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-1-768x432.png?resize=169,169&key=94c53d72",
+        "date": "Tue, 04 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2025/1/21/24348504/donald-trump-ai-safety-executive-order-rescind",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2196799962.jpg?quality=90&strip=all&crop=0%2C0.14164305949009%2C100%2C99.71671388102&w=2400",
+        "date": "Mon, 03 Feb 2025 12:11:07 GMT",
+        "check": "no"
     }
 ]
