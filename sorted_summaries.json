@@ -243,26 +243,5 @@
         "body": "L'ingénierie des invites est une compétence essentielle pour interagir efficacement avec l'IA générative et les grands modèles linguistiques. L'article présente une technique avancée appelée ingénierie des invites amplifiées par la conversation (CAPE), qui consiste à avoir une conversation avec l'IA pour qu'elle s'aligne sur votre style d'écriture. Cela permet à l'IA de mieux comprendre vos intentions et de fournir des réponses plus précises. L'article souligne les avantages de cette approche, notamment la réduction du temps et des coûts associés à la reformulation des invites. Il fournit également des recommandations pour former l'IA à reconnaître votre style d'invite, y compris en utilisant une variété de types de questions et en fournissant des commentaires pendant la conversation. L'article conclut en soulignant que l'ingénierie des invites amplifiées par la conversation peut être particulièrement bénéfique pour les utilisateurs fréquents de l'IA générative qui cherchent à améliorer leurs interactions.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a02af0f1a8aedc12084a80/0x0.jpg?format=jpg&crop=1772,1328,x41,y0,safe&width=440",
         "date": "Tue, 04 Feb 2025 08:00:00 GMT"
-    },
-    {
-        "title": "Nvidia Studio Voice",
-        "link": "https://www.theverge.com/news/603518/nvidia-broadcast-ai-studio-voice-virtual-key-light",
-        "body": "Nvidia a récemment lancé la fonction \"Studio Voice\", qui élimine le bruit de fond des appels audio, ainsi que les nouvelles cartes graphiques RTX 50 Series et DLSS 4. La fonction \"Studio Voice\" a été testée avec succès sur une RTX 3070, améliorant considérablement la qualité audio d'un microphone intégré médiocre. L'article mentionne également d'autres fonctionnalités de l'application Nvidia Broadcast, telles que \"Virtual Key Light\" et \"Eye Contact\", qui améliorent l'éclairage et simulent un contact visuel naturel. Ces fonctionnalités nécessitent une puissance de traitement importante et sont donc recommandées pour les GPU RTX 4080 ou RTX 5090.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2197366395.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Feb 2025 23:59:32 GMT"
-    },
-    {
-        "title": "L'interdiction de DeepSeek aux États-Unis",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2494238_un-million-de-dollars-damende-et-jusqua-20-ans-de-prison-cest-la-sanction-que-risqueraient-les-americains-qui-utiliseraient-deepseek",
-        "body": "Le projet de loi américain intitulé \"Decoupling America’s Artificial Intelligence Capabilities from China Act\" propose des sanctions sévères, y compris des amendes et des peines de prison, pour quiconque utiliserait DeepSeek, un chatbot chinois. Le texte vise également à empêcher les entreprises américaines de collaborer avec la Chine dans le domaine de l'IA, citant des préoccupations de sécurité nationale liées au stockage des données utilisateurs sur des serveurs chinois. OpenAI, le créateur de ChatGPT, accuse DeepSeek d'avoir utilisé ses données pour développer son modèle R1, capable de rivaliser avec GPT-4 à moindre coût.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-smartphone-1200x750-1-768x480.jpg?resize=188,188&key=0c67cc4b",
-        "date": "Mon, 03 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La riposte d'OpenAI face à DeepSeek",
-        "link": "https://www.frandroid.com/culture-tech/2492956_nous-avons-ete-du-mauvais-cote-de-lhistoire-sam-altman-revient-sur-le-developpement-de-chatgpt",
-        "body": "L'émergence de DeepSeek sur le marché de l'IA, avec ses coûts réduits et sa puissance impressionnante, a secoué l'industrie et poussé OpenAI à reconsidérer sa stratégie. Lors d'une session de questions-réponses, Sam Altman, PDG d'OpenAI, a reconnu que DeepSeek avait réduit l'avance de son entreprise. Il reste confiant dans la capacité d'OpenAI à produire de meilleurs modèles à l'avenir, mais admet que leur avance sera moins significative. Kevin Weil, directeur des produits, a également indiqué que seuls les anciens modèles moins performants pourraient être open source. Face à cette nouvelle concurrence, OpenAI cherche à rassurer en promettant de grandes avancées pour ChatGPT.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-2-768x513.jpg?resize=200,200&key=4ac63e48",
-        "date": "Mon, 03 Feb 2025 23:00:00 GMT"
     }
 ]
