@@ -1,5 +1,12 @@
 [
     {
+        "title": "La viande du futur",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/07/ai-helps-to-create-lab-grown-meat/?ss=ai",
+        "body": "La viande cultivée en laboratoire est déjà une réalité, avec deux entreprises californiennes, GOOD Meat et Upside Foods, qui se démarquent sur le marché. Les analystes prévoient un fort potentiel pour ce type de produit, avec un impact positif sur l'environnement, l'éthique et la santé publique. Grace Choi, analyste chez MIT Capital Partners, souligne les avantages de la viande de laboratoire, notamment la réduction des émissions de gaz à effet de serre, de la pollution de l'eau et des problèmes liés au bien-être animal. L'intelligence artificielle joue un rôle clé dans l'optimisation des processus de production, permettant d'améliorer l'efficacité et la scalabilité. Les simulations structurelles et l'évaluation par IA des processus in vitro contribuent à une recherche robuste pour obtenir les meilleurs produits et concurrencer la production traditionnelle. La présentation de Choi suggère que la consommation de viande de laboratoire pourrait devenir courante, mais dépendra des préférences des consommateurs. La viande cultivée en laboratoire offre une alternative éthique à la viande conventionnelle, mais son adoption reste incertaine en raison de la réticence initiale des consommateurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a6467c6a16ca4f782bd6b4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Feb 2025 17:45:00 GMT"
+    },
+    {
         "title": "ChatGPT's Deep Dive",
         "link": "https://www.theverge.com/openai/607587/chatgpt-deep-research-hands-on-section-230",
         "body": "ChatGPT, avec sa nouvelle fonctionnalité \"Deep Research\", a été mis à l'épreuve dans le domaine juridique, en particulier sur la Section 230 de la Communications Decency Act. Bien qu'il ait fourni un résumé précis de décisions de justice récentes, il a omis des développements importants de l'année dernière, faussant ainsi la perspective globale. Bien que techniquement impressionnant, ChatGPT nécessite une surveillance étroite et des directives claires pour fournir des résultats fiables. L'outil est utile pour explorer des sujets familiers, mais a besoin d'améliorations pour une recherche juridique spécialisée.",
@@ -26,6 +33,20 @@
         "body": "Apple a apparemment abandonné le développement de lunettes de réalité augmentée, choisissant plutôt de se concentrer sur son casque de réalité mixte Vision Pro, destiné aux entreprises. Cette décision soulève des questions quant à la capacité d'Apple à rattraper son retard dans le domaine de l'IA, en particulier avec son assistant Siri, qui a été dépassé par la concurrence. Malgré cela, la taille et l'influence d'Apple signifient que Siri pourrait encore devenir un acteur majeur dans l'écosystème Apple. L'article passe ensuite en revue les développements dans le domaine de l'IA chez d'autres grandes entreprises technologiques, notamment Amazon, Meta, Google et Riffusion, mettant en évidence leurs investissements et innovations dans l'IA, ainsi que les défis auxquels elles sont confrontées.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a553c7dc40823c6afd46df/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 07 Feb 2025 00:56:00 GMT"
+    },
+    {
+        "title": "Free intègre un assistant IA premium dans ses forfaits mobiles",
+        "link": "https://www.frandroid.com/marques/free/2498248_free-mobile-devient-le-premier-operateur-a-inclure-un-assistant-ia-premium-dans-ses-forfaits-mobiles",
+        "body": "Free, connu pour son innovation, s'associe à Mistral AI, une entreprise française d'IA, pour offrir à ses clients un assistant IA premium sans frais supplémentaires. Le Chat Mistral Chat Pro, la version premium de l'IA de Mistral AI, sera inclus dans les forfaits mobiles de Free à partir du 10 février, offrant ainsi un accès à une IA de pointe à plus de 15 millions de clients. Cette offre exclusive sera gratuite pendant 12 mois, puis facturée 17,99 euros par mois. Les utilisateurs pourront profiter de fonctionnalités avancées, telles que des réponses rapides, des suggestions personnalisées et un mode privé, ainsi que d'un accès illimité au modèle Chat le plus performant et à des fonctionnalités étendues. Cette annonce intervient au moment où Mistral AI lance son application Le Chat sur Android et iPhone, et à l'approche du Sommet pour l'action sur l'IA à Paris.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/12/big-bang-store-5-alexis-anice-768x512.jpg?resize=200,200&key=604dbab0",
+        "date": "Thu, 06 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La course à l'IA accessible",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2497564_ces-chercheurs-ont-concu-un-rival-de-chatgpt-pour-moins-de-50-dollars",
+        "body": "La course à l'intelligence artificielle (IA) prend un nouveau tournant avec l'émergence de modèles open source à faible coût. Des chercheurs des universités de Stanford et de Washington ont développé un modèle d'IA capable de raisonner comme ChatGPT et R1 de DeepSeek pour moins de 50 dollars. Ils ont utilisé un modèle open source qu'ils ont affiné grâce à un processus de distillation, en l'entraînant à partir des réponses d'un autre modèle. Cette approche a récemment été mise en lumière par OpenAI, qui accuse DeepSeek d'avoir utilisé une méthode similaire. Les chercheurs ont également démontré que l'ajout d'un délai avant la réponse de l'IA peut améliorer la précision par rapport aux méthodes de renforcement traditionnelles. Bien que cette technique ne permette actuellement que de dupliquer des modèles existants, elle ouvre des perspectives intéressantes pour l'accessibilité de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/openai-1200x675-1-768x432.jpg?resize=169,169&key=474f96ce",
+        "date": "Thu, 06 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Le piratage de données pour entraîner l'IA",
@@ -140,6 +161,13 @@
         "date": "Thu, 06 Feb 2025 00:00:00 GMT"
     },
     {
+        "title": "ChatGPT Search : l'offensive d'OpenAI contre Google",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2496740_chatgpt-search-devient-aussi-simple-gratuit-et-rapide-a-utiliser-que-google",
+        "body": "ChatGPT Search, l'outil de recherche d'OpenAI, est désormais accessible dans toutes les régions où ChatGPT est proposé, sans nécessiter de compte. Cette évolution majeure le rend aussi facile à utiliser que Google, avec une simple URL : chat.com. Cette nouvelle fonctionnalité de recherche sur le web via ChatGPT menace directement la domination de Google dans le domaine, en offrant une alternative plus intuitive et naturelle pour les utilisateurs. OpenAI reconnaît ainsi l'importance de la recherche sur Internet dans l'utilisation de ChatGPT, et s'aligne sur les nouvelles tendances de recherche d'informations, notamment avec l'émergence de l'IA générative et de TikTok.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-search-2-1200x437-1-928x338.jpeg?resize=280,280&key=0e7de2e0",
+        "date": "Wed, 05 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "Le champion français de l'IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2496582_oubliez-chatgpt-et-deepseek-le-champion-francais-propose-enfin-son-app",
         "body": "Mistral, une start-up française, lance une nouvelle version majeure de son chatbot \"Le Chat\", un concurrent direct de ChatGPT. Mistral propose également des modèles open source et son LLM, Mistral Large, capable de rivaliser avec GPT-4 et Google Gemini Pro. \"Le Chat\" se concentre sur la rapidité des réponses avec sa fonction \"Flash Answers\", visant à écrire jusqu'à 1000 mots par seconde. L'assistant utilise les modèles de Mistral, ainsi que la recherche sur Internet et les articles de presse, y compris ceux de l'AFP grâce à un partenariat récent. Désormais disponible sur smartphone, \"Le Chat\" de Mistral se mesure aux leaders du marché.",
@@ -168,6 +196,13 @@
         "date": "Wed, 05 Feb 2025 23:00:00 GMT"
     },
     {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grandes entreprises technologiques rendent les technologies de chatbot IA plus accessibles au grand public. OpenAI, avec GPT-4, Microsoft avec Copilot et Google avec Gemini, sont à l'avant-garde de cette tendance. L'IA utilise des programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés précédemment. Cependant, ces outils peuvent présenter de fausses informations comme des vérités, car ils n'ont pas de base de données de \"faits\". ChatGPT, l'IA chatbot d'OpenAI, n'exige plus de connexion pour utiliser son moteur de recherche, le mettant en concurrence directe avec Google et Bing. Google introduit son modèle IA \"raisonnement\" dans l'application Gemini, capable d'expliquer ses réponses à des questions complexes. DeepSeek, une startup chinoise, attire l'attention avec son assistant IA, mais limite les nouvelles inscriptions en raison d'attaques malveillantes. Meta lance une fonctionnalité de \"mémoire\" pour son chatbot IA, utilisant les conversations passées et les détails des comptes Facebook et Instagram pour des recommandations plus pertinentes. L'assistant IA de DeepSeek est également intégré à Samsung et Microsoft améliore la recherche Windows avec l'IA. L'industrie explore diverses applications de l'IA, y compris dans la musique, la santé et la génération d'images.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Feb 2025 20:58:06 GMT"
+    },
+    {
         "title": "ChatGPT ouvre son moteur de recherche au public",
         "link": "https://www.theverge.com/news/606939/chatgpt-ai-search-without-account#comments",
         "body": "OpenAI a annoncé que son moteur de recherche basé sur l'IA, ChatGPT, est désormais accessible sans connexion. Cette fonctionnalité permet à ChatGPT de fournir des réponses basées sur les informations du web, tout en citant ses sources. Initialement lancé pour les abonnés payants, puis pour le grand public, ChatGPT est maintenant directement en concurrence avec les moteurs de recherche traditionnels comme Google et Bing. L'IA de recherche Perplexity offre également une recherche web sans connexion et s'est récemment associée à TripAdvisor pour les informations et évaluations d'hôtels. De plus, une mise à jour récente donne à ChatGPT un aspect plus traditionnel, avec des cartes, des images et des descriptions de lieux locaux.",
@@ -187,47 +222,5 @@
         "body": "L'article retrace l'histoire du MIT Media Lab à l'occasion de son 40e anniversaire en 2025, en se concentrant sur les personnes et les événements clés qui ont contribué à son développement. Fondé en 1985 par Nicholas Negroponte et Jerry Weisner, le Media Lab se distingue par son approche hybride de la technologie et des arts, offrant un espace unique pour l'expérimentation. L'article met en lumière l'influence de figures telles que Steve Coons, Ivan Sutherland, Marvin Minsky et Seymour Papert, ainsi que la contribution de Negroponte dans le domaine de la recherche en vision par ordinateur et en expérience tactile. Le rôle de Weisner, conseiller du président Kennedy lors de la mission lunaire et partisan des arts et des sciences humaines, est également souligné. L'article explore les premiers travaux du Media Lab, notamment le projet Mac, qui a introduit le partage de temps et une nouvelle ère d'expérimentation informatique, ainsi que les recherches sur l'ordinateur Whirlwind de MIT, pionnier de la mémoire centrale. Negroponte discute de l'évolution de la perception du Media Lab, de son impact sur l'architecture du campus et de ses collaborations avec des personnalités telles qu'Alan Kay d'Atari et un jeune Steve Jobs. Il reflète également sur les projets uniques entrepris par le laboratoire, y compris la recréation de l'historique raid israélien sur Entebbe. Enfin, l'article met en évidence un document fondateur de Negroponte, qui critique l'état de l'informatique personnelle à l'époque et plaide pour une approche plus interdisciplinaire, impliquant les sciences de la perception et de la cognition.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a3bcd7a905c92a77dd3e9f/0x0.png?format=png&crop=1210,680,x227,y0,safe&width=440",
         "date": "Wed, 05 Feb 2025 19:00:00 GMT"
-    },
-    {
-        "title": "DBT Labs : une success story dans la gestion des données pour l'IA",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/05/how-dbt-labs-turned-an-open-source-data-tool-into-a-billion-dollar-business/?ss=ai",
-        "body": "DBT Labs, une entreprise de logiciels de gestion de données, a récemment franchi le cap des 100 millions de dollars de revenus annuels récurrents, en partie grâce à l'essor de l'intelligence artificielle. Fondée il y a près de 10 ans par Tristan Handy, l'entreprise a connu un essor important depuis sa création, passant d'un simple projet annexe au sein d'une société de conseil à une entreprise florissante avec plus de 5 000 clients payants. La clé de son succès réside dans son outil d'analyse de données, initialement développé pour répondre aux frustrations du fondateur face aux logiciels encombrants existants. En se concentrant sur la simplification des tâches fastidieuses de nettoyage et de conversion des données, l'entreprise a su se démarquer et offrir une solution plus efficace et fiable pour les ingénieurs de données. La décision stratégique d'open-sourcer le cœur de leur technologie, DBT Core, a également contribué à leur succès, menant à une adoption croissante et à un pivot vers une entreprise de logiciels à part entière. Les produits de DBT Labs sont désormais utilisés par des entreprises de renom telles que Conde Nast, Nasdaq et Siemens pour simplifier, formater et tirer de nouvelles informations de leurs données. La croissance de l'entreprise est soutenue par des investisseurs de premier plan, avec une valorisation de 4,2 milliards de dollars en 2022. La numérisation des données à l'ère de la pandémie et l'essor de l'IA ont également joué un rôle clé dans l'essor de DBT Labs, en soulignant l'importance de données propres et bien organisées pour alimenter les modèles IA. L'entreprise prévoit de continuer à se concentrer sur ses utilisateurs de niche et à ajouter de nouvelles fonctionnalités pour les praticiens des données.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a3ac463cc205928824e2ae/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 05 Feb 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La révolution des travailleurs numériques",
-        "link": "https://www.forbes.com/sites/johnsviokla/2025/02/05/your-next-co-worker-is-going-to-be-a-robot-3-practical-implications/?ss=ai",
-        "body": "OneDigital, une entreprise de services financiers, a adopté une approche innovante en créant une équipe de travailleurs numériques, ou agents IA, accessibles via un portail de recrutement IA interne. Ces travailleurs numériques, comme \"Frank\" et \"Yesper\", sont formés dans différents domaines d'expertise et offrent une assistance personnalisée aux employés de l'entreprise. L'entreprise prévoit d'en déployer davantage dans des domaines tels que l'efficacité des ventes, les tâches administratives, les RH, etc. Cette initiative reflète une prise de conscience croissante parmi les entreprises leaders que l'IA implique non seulement un changement technologique, mais aussi un changement organisationnel. L'analogie avec les travailleurs numériques rend le concept d'IA plus accessible et souligne l'importance de réinvestir dans le talent humain pour créer une boucle d'apprentissage positive où les performances des travailleurs humains et numériques s'amplifient mutuellement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a3867e783769921b91c2d7/0x0.jpg?format=jpg&crop=1039,487,x0,y283,safe&width=440",
-        "date": "Wed, 05 Feb 2025 17:58:00 GMT"
-    },
-    {
-        "title": "Reviewed Relaunched",
-        "link": "https://www.theverge.com/news/606628/gannett-usa-today-reviewed-stackcommerce#comments",
-        "body": "Le site de critiques de produits Reviewed, qui avait été fermé par Gannett l'année dernière, a été relancé par un nouveau propriétaire, StackCommerce. StackCommerce a acquis la marque, la propriété intellectuelle, le domaine et le contenu de Reviewed, et a continué à publier des articles et des mises à jour sur le site, même si celui-ci était censé être fermé. L'acquisition est passée relativement inaperçue et les lecteurs ne semblent pas s'être rendu compte du changement de propriétaire. La situation est compliquée par le fait que de nombreux membres du personnel de Reviewed qui ont perdu leur emploi étaient des travailleurs syndiqués. La relation entre Gannett et Reviewed était tendue, avec des grèves et des désaccords sur l'utilisation de critiques de produits générées par l'IA. Il n'est pas clair comment les critiques et recommandations sont maintenant effectuées, et l'ancien propriétaire, Gannett, avait admis que le laboratoire de test de produits avait été fermé.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 05 Feb 2025 17:05:00 GMT"
-    },
-    {
-        "title": "Fiabilité des données dans les publicités pour l'IA",
-        "link": "https://www.theverge.com/news/606467/google-ai-super-bowl-ad-gouda-error-removed#comments",
-        "body": "Google a modifié la réponse de son IA Gemini dans une publicité diffusée pendant le Super Bowl, retirant une statistique incorrecte sur la consommation de fromage Gouda dans le monde. La publicité montrait à l'origine Gemini affirmant que le Gouda représentait 50 à 60 % de la consommation mondiale de fromage, ce qui a été critiqué comme étant faux. La réponse de Gemini a été modifiée pour dire simplement que le Gouda est « l'un des fromages les plus populaires au monde ». Cette modification met en évidence l'importance de la fiabilité des données pour les outils d'IA, en particulier lorsqu'ils sont présentés comme des aides à la rédaction pour les entreprises.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/google-cheese-ad_4b3ffa.png?quality=90&strip=all&crop=7.8571428571429%2C0%2C84.285714285714%2C100&w=2400",
-        "date": "Wed, 05 Feb 2025 17:01:54 GMT"
-    },
-    {
-        "title": "Gemini 2.0",
-        "link": "https://www.theverge.com/news/606530/gemini-ai-app-flash-thinking-2-0-update",
-        "body": "Google met à jour son application Gemini avec sa nouvelle IA expérimentale capable d'expliquer son raisonnement. La mise à jour Gemini 2.0 Flash Thinking, désormais disponible, fait partie d'une série de lancements d'IA Gemini 2.0, dont le modèle phare Gemini 2.0 Pro. L'IA peut désormais interagir avec d'autres applications Google comme YouTube, Search et Google Maps. Gemini 2.0 rivalisera avec d'autres IA de raisonnement comme o1 d'OpenAI et R1 de DeepSeek. Ces modèles décomposent les problèmes en étapes plus petites et gèrent mieux les tâches complexes, même si le temps de traitement peut être plus long. Google lance également une version expérimentale de Gemini 2.0 Pro, offrant de meilleures performances en codage et en mathématiques. Gemini 2.0 Flash, le modèle IA haute efficacité de Google, est maintenant accessible aux développeurs. Enfin, Google introduit un nouveau modèle à faible coût, Gemini 2.0 Flash-Lite, offrant des performances équivalentes à Gemini 1.5 Flash à un prix plus abordable.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Wed, 05 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. L'article explore les dernières avancées et annonces dans le domaine de l'IA, notamment les modèles de langage de grande taille, les capacités de recherche approfondie et les fonctionnalités d'agent autonome. Il aborde également les controverses et les préoccupations liées à l'IA, telles que les fausses informations, les problèmes de sécurité et les questions éthiques. L'article souligne la course croissante entre les entreprises pour développer des applications d'IA pratiques et rentables, avec des investissements importants et une concurrence intense.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 05 Feb 2025 16:00:00 GMT"
     }
 ]
