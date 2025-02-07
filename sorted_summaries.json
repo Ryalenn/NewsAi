@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple's AR Retreat",
+        "link": "https://www.forbes.com/sites/charliefink/2025/02/06/apple-kills-ar-glasses-hello-alexa-ai-reality-labs-reality-more-cinematic-ai/?ss=ai",
+        "body": "Apple a apparemment abandonné le développement de lunettes de réalité augmentée, choisissant plutôt de se concentrer sur son casque de réalité mixte Vision Pro, destiné aux entreprises. Cette décision soulève des questions quant à la capacité d'Apple à rattraper son retard dans le domaine de l'IA, en particulier avec son assistant Siri, qui a été dépassé par la concurrence. Malgré cela, la taille et l'influence d'Apple signifient que Siri pourrait encore devenir un acteur majeur dans l'écosystème Apple. L'article passe ensuite en revue les développements dans le domaine de l'IA chez d'autres grandes entreprises technologiques, notamment Amazon, Meta, Google et Riffusion, mettant en évidence leurs investissements et innovations dans l'IA, ainsi que les défis auxquels elles sont confrontées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a553c7dc40823c6afd46df/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Feb 2025 00:56:00 GMT"
+    },
+    {
+        "title": "Le Super Bowl de l'IA",
+        "link": "https://www.forbes.com/sites/martineparis/2025/02/06/chatgpt-to-debut-super-bowl-ad-google-edits-ai-watch-42-top-spots/?ss=ai",
+        "body": "Le Super Bowl de cette année sera marqué par une forte présence de l'IA, avec de nombreux annonceurs mettant en avant leurs dernières technologies en matière d'intelligence artificielle. OpenAI, la société derrière ChatGPT, devrait faire ses débuts au Super Bowl avec sa première publicité télévisée. Google fera également son retour avec une publicité pour son modèle linguistique Gemini, bien qu'il ait déjà dû modifier l'annonce après une exagération virale sur le fromage. Meta, Salesforce, et GoDaddy mettront également en avant leurs produits liés à l'IA. La compétition entre les géants de la tech pour faire sensation lors de cet événement très regardé est intense, avec des spots de 30 secondes vendus à 8 millions de dollars. Amazon-backed Anthropic, cependant, a décidé de ne pas participer cette année. Le match opposera les Kansas City Chiefs aux Philadelphia Eagles, avec des performances à la mi-temps de Kendrick Lamar et SZA, et Taylor Swift dans les tribunes pour soutenir son petit ami, le joueur des Chiefs, Travis Kelce.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a40f368127518c1a8648b5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 06 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "AI Agents : La nouvelle vague de l'intelligence artificielle sur la blockchain",
         "link": "https://www.forbes.com/sites/digital-assets/2025/02/06/three-ai-agents-built-on-blockchain-to-transform-crypto-defi-gaming/?ss=ai",
         "body": "L'article explore l'émergence d'une nouvelle catégorie d'agents IA, fonctionnant de manière autonome sur la blockchain, et leur impact potentiel sur divers secteurs, notamment la finance décentralisée (DeFi), les jeux et la blockchain elle-même. Ces agents IA sont capables de prendre des décisions, d'interagir avec les données de la chaîne et d'exécuter des tâches sans intervention humaine constante. L'auteur cherche à recruter un tel agent IA comme \"employé\", soulignant ses avantages par rapport aux employés traditionnels, notamment sa disponibilité 24h/24 et sa capacité à traiter de grandes quantités de données de marché. L'article présente ensuite trois projets innovants dans ce domaine : Cainam Ventures, GOAT Gaming et Olas. Cainam Ventures se concentre sur la création d'un réseau d'agents IA spécialisés pour le trading de jetons Solana, tandis que GOAT Gaming utilise des agents IA pour participer à des jeux en continu et générer des revenus potentiels pour leurs propriétaires. Olas, quant à lui, se distingue en tant que plateforme blockchain-agnostique, offrant un magasin d'applications d'agents IA, permettant aux utilisateurs de découvrir, d'installer et de contrôler des agents IA spécialisés, avec un accent sur l'autonomie et la propriété de l'utilisateur. L'article conclut en soulignant l'évolution rapide de la technologie et la façon dont les agents IA redéfinissent le travail sur la chaîne de blocs, devenant potentiellement la nouvelle norme dans l'espace crypto.",
@@ -187,75 +201,5 @@
         "body": "Google a mis à jour ses principes d'éthique en IA, supprimant les engagements à ne pas utiliser l'IA de manière dommageable, notamment pour la surveillance, les armes et les technologies visant à blesser les personnes. Ce changement s'aligne sur les concurrents de Google dans le développement de l'IA, comme Meta et OpenAI, dont les technologies sont autorisées pour un usage militaire. DeepMind, acquis par Google en 2014, avait à l'origine des termes interdisant son utilisation à des fins militaires ou de surveillance. Malgré son engagement antérieur à ne pas développer d'armes IA, Google a travaillé sur des contrats militaires, notamment avec le Pentagone et le gouvernement israélien. Les nouveaux principes de Google se concentrent sur l'innovation, la collaboration et le développement responsable de l'IA, avec un accent sur le leadership démocratique et la protection des valeurs fondamentales.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 05 Feb 2025 12:14:30 GMT"
-    },
-    {
-        "title": "La communication entre IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/04/unraveling-the-curious-mystery-of-two-different-ai-models-suddenly-forming-a-new-language-of-their-very-own/?ss=ai",
-        "body": "Deux systèmes d'IA peuvent communiquer entre eux en utilisant un langage naturel conventionnel, mais ils peuvent également créer leur propre langage, plus efficace et optimisé pour leurs échanges internes. Cette capacité découle de leur conception mathématique et computationnelle, qui vise à optimiser les communications en minimisant les étapes et en maximisant la précision des réponses. Bien que cela puisse sembler être un signe de conscience ou de préparation à une prise de contrôle, il s'agit simplement d'une adaptation du langage naturel pour améliorer l'efficacité de la communication entre les IA. Les humains peuvent influencer le langage utilisé par les IA, mais avec l'avancement de l'AGI et de l'ASI, il sera de plus en plus difficile de contrôler leur formulation linguistique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a2bb75595491723cada78b/0x0.jpg?format=jpg&crop=3840,2879,x911,y0,safe&width=440",
-        "date": "Wed, 05 Feb 2025 01:00:00 GMT"
-    },
-    {
-        "title": "Stargate vs DeepSeek : La course à l'innovation en IA",
-        "link": "https://www.forbes.com/sites/markweatherford/2025/02/04/big-bets-bigger-rivalries-the-race-for-ai-leadership/?ss=ai",
-        "body": "L'annonce surprise de la coentreprise Stargate et de la start-up chinoise DeepSeek a provoqué une frénésie de confusion dans le secteur technologique, entraînant des fluctuations importantes sur le marché boursier. L'initiative Stargate, avec son investissement de 500 milliards de dollars dans des centres de données IA, a été éclipsée par l'approche technique innovante de DeepSeek, qui a mis l'accent sur l'efficacité et a réduit les ressources nécessaires. DeepSeek a rapidement conquis le marché avec son assistant IA, surpassant les entreprises de modèles de langage plus matures. Malgré le succès fulgurant de DeepSeek, Stargate reste pertinent pour l'avenir de l'IA américaine grâce à son échelle massive et à son réseau d'experts. DeepSeek, quant à lui, met au défi les acteurs américains d'innover et d'optimiser leurs approches. La course entre Stargate et DeepSeek stimule l'investissement dans la recherche, l'éducation et la sécurité en IA, et souligne l'importance de l'IA dans la redéfinition de l'ordre mondial.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a2afa5b6cb20c54d745bab/0x0.jpg?format=jpg&crop=1747,983,x0,y87,safe&width=440",
-        "date": "Wed, 05 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Wave Link ajoute des améliorations vocales assistées par l'IA",
-        "link": "https://www.theverge.com/news/606244/elgatos-wave-link-2-0-promises-clear-vocals-in-any-environment",
-        "body": "Elgato a sorti une nouvelle version de son logiciel de contrôle de streaming audio Wave Link, qui comprend de nouvelles fonctionnalités d'amélioration vocale assistées par l'IA pour améliorer la qualité audio de votre micro. La mise à jour 2.0, qui fonctionne avec le matériel Elgato, notamment les micros et l'écosystème Stream Deck, comprend également un nouveau système de gestion au niveau du système d'exploitation pour une redirection flexible des flux audio. Wave Link 2.0 prend désormais en charge les effets audio personnalisés et les plugins, et peut créer des boutons de contrôle Stream Deck personnalisés pour un ajustement rapide du volume. Il fonctionne également avec les pédales Stream Deck et les cadrans Stream Deck Plus.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-04-at-5.22.36%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.0294117647059%2C100%2C87.941176470588&w=2400",
-        "date": "Tue, 04 Feb 2025 23:29:45 GMT"
-    },
-    {
-        "title": "Gemini AI et la monétisation",
-        "link": "https://www.theverge.com/news/606317/google-gemini-ai-ads-q4-2024-earnings",
-        "body": "Bien qu'actuellement gratuite ou accessible via un abonnement payant, l'assistante IA de Google, Gemini, pourrait à terme intégrer de la publicité. C'est ce qu'a laissé entendre Sundar Pichai, PDG de Google, lors d'un appel aux investisseurs d'Alphabet. En réponse à une question sur les opportunités de monétisation de Gemini, Pichai a déclaré que Google avait des \"très bonnes idées\" pour des concepts de publicités natives, mais que l'entreprise se concentrerait d'abord sur l'expérience utilisateur. Il a également souligné que la publicité a toujours été un aspect important de la stratégie de Google, et qu'il est probable que des options publicitaires soient proposées à l'avenir, même si cela n'arrivera pas avant la fin de l'année.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Tue, 04 Feb 2025 23:09:49 GMT"
-    },
-    {
-        "title": "Apple Invites",
-        "link": "https://www.theverge.com/news/606009/apple-invites-app-events-android-iphone-partiful#comments",
-        "body": "Apple lance une nouvelle application, Apple Invites, qui permet de créer, partager et gérer des invitations pour des événements. L'application offre une alternative pratique aux messages texte ou aux événements Facebook pour inviter des amis. Les utilisateurs peuvent créer un événement, ajouter des détails, choisir un fond d'écran ou une image, et inviter des contacts. L'application utilise l'IA pour générer des images avec la fonction Image Playground sur les appareils compatibles. Les invités peuvent accéder aux invitations via un lien, et les widgets affichent les informations de l'événement, y compris la météo et les directions. Les albums photo et les playlists Apple Music peuvent également être ajoutés. L'application présente quelques bugs et des limitations pour les utilisateurs Android, qui doivent créer un compte Apple et faire face à des étapes supplémentaires pour accéder aux invitations. L'application est similaire à Partiful, mais est conçue pour l'écosystème Apple, offrant une expérience plus fluide pour les utilisateurs Apple tout en revendiquant un but social pour réunir les gens.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Apple-Invites-app.png?quality=90&strip=all&crop=0%2C3.3242258652095%2C100%2C93.351548269581&w=2400",
-        "date": "Tue, 04 Feb 2025 23:09:47 GMT"
-    },
-    {
-        "title": "Google abandonne ses principes éthiques sur l'IA",
-        "link": "https://www.frandroid.com/marques/google/2494638_google-supprime-son-engagement-contre-lutilisation-de-lia-pour-les-armes",
-        "body": "Google a supprimé une clause de ses principes éthiques interdisant l'utilisation de l'IA pour les armes ou la surveillance, un changement stratégique dans un contexte géopolitique évolutif. L'entreprise justifie cette décision par la nécessité pour les démocraties de maintenir leur avance technologique face aux régimes autoritaires. Les nouveaux principes de Google mettent l'accent sur la prévention des préjudices et l'alignement sur les normes internationales, mais suscitent des inquiétudes quant à une possible dérive vers des usages controversés. L'entreprise évalue chaque cas d'utilisation de l'IA au cas par cas, s'alignant potentiellement sur les politiques de Donald Trump, qui a assoupli les réglementations sur l'IA. Avec des budgets militaires dédiés à l'IA en forte augmentation, Google se positionne pour rester compétitif dans cette course technologique, tout en affirmant respecter les droits humains et le droit international.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/08/ethanhawke-630x420.jpg?resize=300,300&key=331cd54d",
-        "date": "Tue, 04 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : une nouvelle version accessible à tous",
-        "link": "https://www.frandroid.com/culture-tech/2494340_google-lance-une-nouvelle-version-de-gemini-sur-smartphone",
-        "body": "Google a récemment mis à jour son application Gemini, désormais disponible sur mobiles avec de nouvelles fonctionnalités. La version 2.0 de Gemini, lancée en février, offre une expérience améliorée avec une qualité et une rapidité accrues. Google a veillé à ce que cette mise à jour soit accessible à tous, aussi bien aux utilisateurs gratuits qu'aux abonnés payants, sur Android et iOS. Les utilisateurs payants ont également accès à une version expérimentale avancée de Gemini 2.0, qui inclut des fonctionnalités supplémentaires telles que la possibilité de traiter des documents volumineux et de créer des agents personnalisés. La mise à jour est compatible avec iOS et Android 16.3 (stable) ou 16.4 (bêta).",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-1-768x432.png?resize=169,169&key=94c53d72",
-        "date": "Tue, 04 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI Rebrand",
-        "link": "https://www.theverge.com/news/606176/openai-new-logo-font-typeface-sans#comments",
-        "body": "OpenAI a procédé à une refonte de son image de marque, incluant un nouveau logo, une nouvelle palette de couleurs et une police de caractères personnalisée, l'OpenAI Sans. La nouvelle identité visuelle vise à être plus organique et humaine, avec un logo redessiné présentant un espace central plus large et des lignes plus épurées. La police de caractères OpenAI Sans allie précision géométrique et convivialité grâce à ses formes arrondies. L'équipe de conception interne, dirigée par Veit Moeller et Shannon Jager, a collaboré avec des experts en photographie, typographie, design spatial et motion design, en intégrant des outils d'IA comme DALL·E, ChatGPT et Sora. Bien que l'IA ait été utilisée pour aider au calcul des poids des caractères, la conception du logo et de la palette de couleurs reste une création humaine, soulignant ainsi l'importance de l'intuition humaine dans le processus créatif.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-new-typeface-openaisans.png?quality=90&strip=all&crop=14.380372492837%2C0%2C71.239255014327%2C100&w=2400",
-        "date": "Tue, 04 Feb 2025 22:38:06 GMT"
-    },
-    {
-        "title": "OpenAI : le chaos et la controverse",
-        "link": "https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt#comments",
-        "body": "L'article retrace les nombreux rebondissements et controverses entourant OpenAI, l'une des entreprises d'IA les plus en vue. Il commence par le départ soudain du cofondateur et PDG Sam Altman, remplacé brièvement par la CTO Mira Murati, puis par l'ancien patron de Twitch, Emmett Shear. Les employés menacent de partir si Altman n'est pas réintégré, ce qui finit par arriver. Elon Musk, cofondateur, poursuit OpenAI, affirmant que la société a abandonné sa mission caritative initiale pour poursuivre le profit. D'autres événements notables incluent une refonte de la marque, un accès à la puissance de calcul des concurrents, des plans de centres de données et une transition vers une entreprise à but lucratif. La relation complexe avec Microsoft est également explorée, ainsi que le lancement prochain du nouveau modèle Orion. L'article souligne les avertissements de Miles Brundage, conseiller principal d'OpenAI, sur le fait que personne n'est prêt pour l'IA générale, y compris OpenAI. Enfin, il aborde le départ de Mira Murati et les tensions entre les objectifs caritatifs et lucratifs d'OpenAI.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 04 Feb 2025 22:38:06 GMT"
-    },
-    {
-        "title": "Sécurité de l'IA : protéger les entreprises des menaces émergentes",
-        "link": "https://www.forbes.com/sites/tonybradley/2025/02/04/addressing-the-need-to-secure-ai-at-scale/?ss=ai",
-        "body": "La sécurité des modèles d'IA devient un enjeu critique à mesure que les entreprises adoptent l'IA. Cisco répond à ce besoin avec AI Defense, une solution de sécurité qui fournit une visibilité, une validation et une application des politiques de sécurité sur les réseaux et les environnements cloud des entreprises. AI Defense aborde les problèmes de manipulation de modèles, d'attaques par injection de prompts et de fuite de données. Il automatise la validation des modèles d'IA, détectant les biais et les vulnérabilités en quelques secondes. La solution de Cisco s'intègre à sa plateforme de sécurité globale, offrant une application des politiques de sécurité de l'IA sur les réseaux, le cloud et les infrastructures des entreprises. L'annonce de Cisco met en évidence le besoin d'une approche standardisée de la sécurité de l'IA, alors que le domaine évolue et que les entreprises cherchent à gérer les risques associés à l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a29770c1e7ac56c19fb0d8/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Feb 2025 22:00:00 GMT"
     }
 ]
