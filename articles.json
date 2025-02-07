@@ -63,14 +63,14 @@
         "check": "yes"
     },
     {
-        "title": "Le Samsung Galaxy S25 Ultra bat l’iPhone à plate couture lorsqu’il s’agit de retirer un objet d’une photo",
+        "title": "Le Samsung Galaxy S25 Ultra bat l\u2019iPhone \u00e0 plate couture lorsqu\u2019il s\u2019agit de retirer un objet d\u2019une photo",
         "link": "https://www.frandroid.com/produits-android/smartphone/2495280_le-samsung-galaxy-s25-ultra-bat-liphone-a-plate-couture-lorsquil-sagit-de-retirer-un-objet-dune-photo",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/samsung-galaxy-s25-ultra-frandroid-p1055215-1200x800-1-768x512.jpg?resize=200,200&key=b2fef5c4",
         "date": "Wed, 05 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT s’offre de nouvelles fonctions sur WhatsApp",
+        "title": "ChatGPT s\u2019offre de nouvelles fonctions sur WhatsApp",
         "link": "https://www.frandroid.com/marques/2495718_chatgpt-soffre-de-nouvelles-fonctions-sur-whatsapp",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/comment-creer-un-groupe-whatsapp-1200x750-1-768x480.jpg?resize=188,188&key=353b9791",
         "date": "Wed, 05 Feb 2025 23:00:00 GMT",
@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Oubliez ChatGPT et Deepseek, le champion français propose enfin son app",
+        "title": "Oubliez ChatGPT et Deepseek, le champion fran\u00e7ais propose enfin son app",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2496582_oubliez-chatgpt-et-deepseek-le-champion-francais-propose-enfin-son-app",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-2-1200x900-1-768x576.jpeg?resize=225,225&key=004370b4",
         "date": "Wed, 05 Feb 2025 23:00:00 GMT",
@@ -189,7 +189,7 @@
         "check": "yes"
     },
     {
-        "title": "Pour entraîner son IA, Facebook a piraté (et partagé) des millions de livres sans autorisations",
+        "title": "Pour entra\u00eener son IA, Facebook a pirat\u00e9 (et partag\u00e9) des millions de livres sans autorisations",
         "link": "https://www.frandroid.com/marques/meta/2497254_pour-entrainer-son-ia-facebook-a-pirate-et-partage-des-millions-de-livres-sans-autorisations",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/facebook-torrent-1200x800-1-768x512.jpg?resize=200,200&key=b367f19d",
         "date": "Thu, 06 Feb 2025 23:00:00 GMT",
@@ -208,5 +208,33 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24285780/1238269484.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
         "date": "Thu, 06 Feb 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/openai/607587/chatgpt-deep-research-hands-on-section-230",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 07 Feb 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/607508/google-gemini-super-bowl-ads#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=9.0668080593849%2C0%2C81.86638388123%2C100&w=2400",
+        "date": "Thu, 06 Feb 2025 18:39:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/607515/google-photossynthid-ai-watermarks-magic-editor#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/AI-art-haein-jeong.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 06 Feb 2025 17:04:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/02/07/the-prototype-math-suggests-the-eagles-will-go-on-fourth-down-during-the-super-bowl/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a53ea199c0740f104d3de8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Feb 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
