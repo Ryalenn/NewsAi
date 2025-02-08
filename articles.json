@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Pour entraîner son IA, Facebook a piraté (et partagé) des millions de livres sans autorisations",
+        "title": "Pour entra\u00eener son IA, Facebook a pirat\u00e9 (et partag\u00e9) des millions de livres sans autorisations",
         "link": "https://www.frandroid.com/marques/meta/2497254_pour-entrainer-son-ia-facebook-a-pirate-et-partage-des-millions-de-livres-sans-autorisations",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/facebook-torrent-1200x800-1-768x512.jpg?resize=200,200&key=b367f19d",
         "date": "Thu, 06 Feb 2025 23:00:00 GMT",
@@ -187,5 +187,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a6b9b2f295a51670cd2b6c/0x0.jpg?format=jpg&crop=5382,3026,x0,y150,safe&width=440",
         "date": "Sat, 08 Feb 2025 02:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.wired.com/story/doge-chatbot-ai-first-agenda/",
+        "image": "",
+        "date": "Fri, 07 Feb 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/02/08/github-copilot-agent-and-the-rise-of-ai-coding-assistants/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a6f86e4e87ec2eb412c845/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 08 Feb 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
