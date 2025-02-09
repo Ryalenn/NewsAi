@@ -75,19 +75,5 @@
         "body": "Google Photos intègre désormais une technologie de watermarking invisible appelée SynthID, développée par Google DeepMind, pour indiquer lorsque des images ont été modifiées par son outil Magic Editor Reimagine. Reimagine permet aux utilisateurs de transformer n'importe quelle partie d'une image en entrant un simple texte, mais ces modifications peuvent être trompeuses. SynthID ajoute un watermark invisible dans l'image elle-même, qui peut être détecté par un logiciel de décodage spécifique. Les images modifiées avec Reimagine afficheront désormais des informations sur l'utilisation de l'IA, y compris le type de source numérique et le fait qu'elles ont été éditées avec l'IA de Google. Cette fonctionnalité vise à rendre plus transparente l'utilisation de l'IA dans la modification d'images et à aider à identifier les images fausses ou manipulées sur les réseaux sociaux et les applications de messagerie.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6453785544c17b79714bd1ec/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 07 Feb 2025 17:28:00 GMT"
-    },
-    {
-        "title": "ChatGPT's Deep Dive",
-        "link": "https://www.theverge.com/openai/607587/chatgpt-deep-research-hands-on-section-230",
-        "body": "ChatGPT, avec sa nouvelle fonctionnalité \"Deep Research\", a été mis à l'épreuve dans le domaine juridique, en particulier sur la Section 230 de la Communications Decency Act. Bien qu'il ait fourni un résumé précis de décisions de justice récentes, il a omis des développements importants de l'année dernière, faussant ainsi la perspective globale. Bien que techniquement impressionnant, ChatGPT nécessite une surveillance étroite et des directives claires pour fournir des résultats fiables. L'outil est utile pour explorer des sujets familiers, mais a besoin d'améliorations pour une recherche juridique spécialisée.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 07 Feb 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Le match ultime",
-        "link": "https://www.forbes.com/sites/alexknapp/2025/02/07/the-prototype-math-suggests-the-eagles-will-go-on-fourth-down-during-the-super-bowl/?ss=ai",
-        "body": "Bien que le Super Bowl soit l'événement principal, avec les Chiefs de Kansas City et les Eagles de Philadelphie s'affrontant à nouveau, l'article se concentre sur l'utilisation de l'analyse statistique dans le sport. Une nouvelle étude menée par le mathématicien Nate Sandholtz utilise l'analyse statistique pour comparer la tolérance au risque des entraîneurs de la NFL lors des quatrièmes tentatives, et conclut que Nick Sirianni est plus enclin à prendre des risques que son homologue Andy Reid.\n\nL'article mentionne également la startup Urban Sky, qui développe des ballons stratosphériques pour la collecte de données environnementales et la surveillance des catastrophes, ainsi que des découvertes scientifiques récentes, notamment une nouvelle souche de riz à faibles émissions de méthane et une méthode de cuisson parfaite pour les œufs. Il aborde également des sujets tels que les astéroïdes proches de la Terre, les premiers astronautes noirs et l'impact des ordres exécutifs de l'administration Trump sur la recherche scientifique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a53ea199c0740f104d3de8/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 07 Feb 2025 14:00:00 GMT"
     }
 ]
