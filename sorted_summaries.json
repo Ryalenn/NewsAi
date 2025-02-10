@@ -1,5 +1,40 @@
 [
     {
+        "title": "La révolution de l'IA : les modèles open-source menacent-ils les géants de la tech ?",
+        "link": "https://www.forbes.com/sites/jamesbroughel/2025/02/10/deepseeks-r1-model-creates-an-uncertain-investment-landscape-for-ai/?ss=ai",
+        "body": "La récente sortie de l'application d'IA chinoise DeepSeek a provoqué une vente massive d'actions technologiques américaines, les investisseurs craignant que les avancées de DeepSeek dans le domaine de l'IA ne menacent la rentabilité des géantes de la tech aux États-Unis et en Europe. Le modèle R1 de DeepSeek, un système d'IA open-source, a rapidement gagné en popularité parmi les développeurs et les chercheurs, faisant chuter le cours des actions des fournisseurs de matériel et d'infrastructure d'IA, notamment Nvidia. Cet événement, ainsi que l'annonce simultanée du projet Stargate, un investissement massif dans les centres de données d'IA, soulignent l'incertitude profonde entourant les investissements dans l'IA et les modèles économiques qui domineront à l'avenir. Le modèle R1 de DeepSeek est considéré comme un rival sérieux pour les systèmes propriétaires comme GPT-4 d'OpenAI et Gemini de Google, et son caractère open-source ajoute de l'huile sur le feu dans les débats sur la supériorité éventuelle des systèmes d'IA open-source ou propriétaires. La baisse du cours de l'action de Nvidia et les investissements importants dans l'infrastructure de l'IA, tels que le projet Stargate, soulignent le potentiel à long terme de l'IA malgré la volatilité du marché. Cependant, les coûts de formation potentiellement faibles de DeepSeek contrastent fortement avec les dépenses massives en centres de données, remettant en question la rentabilité de ces derniers. L'histoire de DeepSeek soulève également des questions sur les droits de propriété intellectuelle et la réglementation gouvernementale, les exportations de puces IA avancées et la nécessité d'un environnement concurrentiel sain pour favoriser l'innovation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa52dde4ca46bba34fe345/0x0.jpg?format=jpg&crop=2139,1519,x165,y70,safe&width=440",
+        "date": "Mon, 10 Feb 2025 20:00:00 GMT"
+    },
+    {
+        "title": "La transformation de MetLife grâce à l'innovation, à l'IA et à la préparation de la main-d'œuvre pour l'avenir",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/02/10/inside-metlifes-innovation-journey-with-bill-pappas/?ss=ai",
+        "body": "Résumé : \n\nMetLife, une compagnie d'assurance mondiale avec un héritage de plus de 150 ans, se transforme en un géant agile en alignant ses équipes technologiques et opérationnelles avec les objectifs de l'entreprise. Sous la direction de Bill Pappas, responsable de la technologie et des opérations mondiales, MetLife construit une culture de l'innovation, adopte l'IA de manière stratégique et prépare sa main-d'œuvre aux exigences futures. L'entreprise intègre l'IA dans ses processus clés, tels que le traitement des sinistres, le service client et les opérations informatiques internes, tout en mettant l'accent sur l'éducation et le développement des compétences de sa main-d'œuvre. Pappas considère l'IA comme une opportunité transformatrice et l'adopte de manière délibérée et responsable, en veillant à son alignement avec les objectifs de l'entreprise. En mettant l'accent sur l'innovation, la collaboration et l'adoption responsable de l'IA, MetLife se positionne pour diriger la prochaine phase de transformation numérique tout en identifiant de nouvelles opportunités de croissance.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa4cd9916565921817e20b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 19:00:00 GMT"
+    },
+    {
+        "title": "Protection des mineurs en ligne",
+        "link": "https://www.theverge.com/news/609367/roblox-discord-openai-google-roost-online-safety-tools#comments",
+        "body": "Google, OpenAI, Roblox et Discord s'associent pour créer l'initiative Robust Open Online Safety Tools (ROOST), qui vise à fournir des outils d'IA open-source gratuits pour aider à protéger les enfants en ligne. ROOST vise à rendre les technologies de sécurité de base plus accessibles et à fournir des outils pour identifier, examiner et signaler les contenus liés à l'exploitation sexuelle des enfants. L'initiative est en partie motivée par l'impact des avancées de l'IA générative sur les environnements en ligne et cherche à répondre à un besoin critique d'accélérer l'innovation en matière de sécurité des enfants en ligne. Les détails sur les outils de détection sont limités, mais ils utiliseront des modèles d'IA linguistique de grande taille et unifieront les options existantes pour gérer les contenus inappropriés. ROOST a levé plus de 27 millions de dollars pour ses quatre premières années d'activité et sera soutenu par des experts en sécurité des enfants, en IA et en technologie open-source.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK461_INTERNET_CHILD_SAFETY_Stock_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Feb 2025 18:13:33 GMT"
+    },
+    {
+        "title": "L'Europe à la traîne dans la course à l'IA",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/02/10/europe-is-behind-in-ai---heres-how-to-catch-up-and-innovate/?ss=ai",
+        "body": "Titre : L'Europe à la traîne dans la course à l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa3c0839aea7e7395383d8/0x0.jpg?format=jpg&crop=1080,607,x0,y278,safe&width=440",
+        "date": "Mon, 10 Feb 2025 18:00:00 GMT"
+    },
+    {
+        "title": "OpenAI's In-House Chip",
+        "link": "https://www.theverge.com/news/609421/openai-in-house-chip-development#comments",
+        "body": "OpenAI prévoit de finaliser son propre circuit intégré d'IA cette année, selon un rapport de Reuters. L'entreprise a l'intention de produire ce circuit intégré à partir de l'année prochaine, ce qui lui permettra de réduire sa dépendance aux puces Nvidia pour l'entraînement et l'exécution de ses modèles d'IA. Le circuit sera fabriqué par TSMC à l'aide d'une technologie 3 nanomètres plus efficace, avec une mémoire à bande passante élevée et des capacités de réseau étendues. Au lancement, OpenAI déploiera sa puce sur une échelle limitée, principalement pour l'exécution de modèles d'IA. L'entreprise prévoit également de développer des versions futures de la puce avec des processeurs et des fonctionnalités plus avancés. L'équipe de conception de puces d'OpenAI, dirigée par l'ancien ingénieur Google TPU Richard Ho, est passée à 40 personnes récemment, alors que les efforts s'intensifient. Les géants technologiques comme OpenAI investissent massivement dans l'infrastructure d'IA et l'achat de puces, malgré les questions sur la nécessité d'acquérir des milliers de puces pour alimenter leurs systèmes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Feb 2025 17:36:18 GMT"
+    },
+    {
         "title": "La course aux puces IA",
         "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
         "body": "La demande pour les puces IA de Nvidia a explosé, propulsant la valeur de l'entreprise à plus de 1 billion de dollars. Cette demande a également incité des entreprises comme Microsoft, Meta, OpenAI, Amazon et Google à développer leurs propres processeurs IA. Nvidia, AMD et Intel sont désormais engagés dans une course pour concevoir des puces IA plus efficaces et plus puissantes. Pendant ce temps, OpenAI prévoit de produire sa propre puce IA l'année prochaine, réduisant ainsi sa dépendance aux puces Nvidia. Intel, malgré des pertes massives, simplifie sa stratégie pour se concentrer sur l'IA, tandis que Nvidia fait face à une enquête antitrust en Chine. AMD reprioritise également le développement de ses puces IA, tandis que des rumeurs circulent sur des projets de fabrication de puces IA au Moyen-Orient liés à OpenAI et Elon Musk.",
@@ -68,6 +103,13 @@
         "body": "OpenAI a fait ses débuts au Super Bowl avec une publicité de 60 secondes présentant l'IA comme l'une des plus grandes innovations de l'humanité. La publicité, qui a coûté 14 millions de dollars, retrace l'évolution technologique de l'humanité, en mettant en avant des applications modernes de l'IA, telles que ChatGPT. La CMO d'OpenAI, Kate Rouch, a déclaré que la publicité visait à montrer l'IA comme un outil pratique et accessible, plutôt que de se concentrer sur l'AGI ou la superintelligence. La publicité arrive à un moment crucial pour OpenAI, alors que l'entreprise cherche à se valoriser à 300 milliards de dollars et à faire face à la concurrence croissante. La pression était forte après la récente controverse entourant la publicité de Google sur l'IA. Rouch a souligné l'importance de l'authenticité et a déclaré qu'OpenAI croit fondamentalement en la puissance transformatrice de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/OpenAI_ad_4.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
         "date": "Mon, 10 Feb 2025 00:51:12 GMT"
+    },
+    {
+        "title": "L'avenir de l'art est-il l'IA ?",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/02/09/christies-to-hold-first-auction-devoted-solely-to-ai-art-amid-pushback/?ss=ai",
+        "body": "La maison de vente aux enchères Christie's s'apprête à lancer \"Augmented Intelligence\", sa première vente consacrée à l'art créé avec l'aide de l'IA. La vente, qui proposera plus de 20 lots, suscite des réactions mitigées de la part des artistes, certains l'embrassant comme un outil créatif passionnant, tandis que d'autres critiquent l'utilisation non autorisée de leur travail pour entraîner des modèles IA. L'événement met en lumière la collaboration entre l'IA et les artistes, ainsi que le débat sur l'intersection de l'art et de l'IA, avec des œuvres allant de la sculpture à l'art numérique, en passant par des peintures à l'huile et à l'acrylique. La maison de vente a déjà vendu des œuvres d'art créées par intelligence artificielle, mais c'est la première fois qu'elle organise une vente aux enchères exclusivement consacrée à ce type d'art. Les estimations des prix de vente varient considérablement, allant de 100 $ à 1,7 million de dollars.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a94188ab777aa7718f5232/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 00:00:00 GMT"
     },
     {
         "title": "L'intelligence artificielle : une opportunité pour l'emploi ?",
@@ -180,12 +222,5 @@
         "body": "Free, toujours à l'affût d'innovations, s'associe à Mistral AI, une entreprise française d'IA, pour offrir à ses clients un assistant IA premium inclus gratuitement dans ses forfaits mobiles. Le Chat Mistral Chat Pro, la version premium de l'IA de Mistral, sera disponible pour les plus de 15 millions de clients mobiles de Free à partir du 10 février. Cette offre exclusive sera gratuite pendant 12 mois, puis facturée 17,99 euros TTC par mois. Les utilisateurs pourront profiter de fonctionnalités avancées, telles que des réponses rapides, des suggestions personnalisées et un mode privé, rendant ainsi l'IA premium accessible à un large public. Cette annonce intervient au moment où Mistral AI lance son application Le Chat sur Android et iPhone, et juste avant le Sommet pour l'action sur l'IA à Paris.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/12/big-bang-store-5-alexis-anice-768x512.jpg?resize=200,200&key=604dbab0",
         "date": "Sat, 08 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Révolution de l'IA au Royaume-Uni",
-        "link": "https://www.forbes.com/sites/robertolsen-1/2025/02/08/ai-puts-70-of-britains-knowledge-economy-tasks-at-risk/?ss=ai",
-        "body": "Le Premier ministre britannique, Keir Starmer, a dévoilé un plan d'action pour l'IA visant à stimuler la croissance économique et à faire du Royaume-Uni un leader mondial dans le domaine de l'IA. Le groupe de réflexion Institute for Public Policy Research (IPPR) prévoit que l'IA aura un impact « sismique » sur la société britannique, transformant ou remplaçant potentiellement jusqu'à 70 % des tâches des cols blancs. L'IA a déjà un impact significatif sur les emplois liés aux technologies de l'information, tels que la gestion de projets, le marketing et le support administratif. Le sommet AI Action Summit, qui se tiendra à Paris, réunira des dirigeants mondiaux et des acteurs de l'industrie pour discuter du développement et des objectifs futurs de l'IA. Le Premier ministre Starmer a souligné l'engagement du Royaume-Uni à devenir une « superpuissance de l'IA », en promettant d'augmenter la productivité et d'ajouter des milliards à l'économie grâce à des investissements dans l'infrastructure de l'IA, des données publiques accessibles et une réglementation pro-innovation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a7bd88896e179f16b5ca4b/0x0.jpg?format=jpg&crop=2960,1664,x0,y59,safe&width=440",
-        "date": "Sat, 08 Feb 2025 20:40:00 GMT"
     }
 ]
