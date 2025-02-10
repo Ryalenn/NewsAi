@@ -1,5 +1,40 @@
 [
     {
+        "title": "La course aux puces IA",
+        "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
+        "body": "La demande pour les puces IA de Nvidia a explosé, propulsant la valeur de l'entreprise à plus de 1 billion de dollars. Cette demande a également incité des entreprises comme Microsoft, Meta, OpenAI, Amazon et Google à développer leurs propres processeurs IA. Nvidia, AMD et Intel sont désormais engagés dans une course pour concevoir des puces IA plus efficaces et plus puissantes. Pendant ce temps, OpenAI prévoit de produire sa propre puce IA l'année prochaine, réduisant ainsi sa dépendance aux puces Nvidia. Intel, malgré des pertes massives, simplifie sa stratégie pour se concentrer sur l'IA, tandis que Nvidia fait face à une enquête antitrust en Chine. AMD reprioritise également le développement de ses puces IA, tandis que des rumeurs circulent sur des projets de fabrication de puces IA au Moyen-Orient liés à OpenAI et Elon Musk.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Feb 2025 17:36:18 GMT"
+    },
+    {
+        "title": "Démocratiser l'IA",
+        "link": "https://www.forbes.com/sites/committeeof200/2025/02/10/graduating-the-new-ai-ready-workforce-how-ga-tech-is-leading-the-way/?ss=ai",
+        "body": "Sophia Velastegui, conseillère en IA, met en lumière la façon dont les universités, comme Georgia Tech, s'adaptent à l'ère de l'IA en intégrant l'IA dans tous les domaines d'étude. Georgia Tech, en collaboration avec NVIDIA, a lancé le premier superordinateur d'IA destiné aux étudiants, démocratisant ainsi l'accès à des ressources informatiques de pointe. L'initiative AI Makerspace donne aux étudiants de toutes les disciplines la possibilité d'utiliser l'IA, avec le soutien d'une faculté experte. Ce modèle pionnier prépare la main-d'œuvre de demain en garantissant que les diplômés ont les compétences nécessaires pour façonner l'avenir de l'IA dans divers secteurs. Georgia Tech encourage également l'interdisciplinarité et l'accessibilité avec un mineur d'IA ouvert à tous les principaux, et des investissements dans des programmes d'éducation continue. Cette approche produit une main-d'œuvre compétente en IA, prête à relever les défis mondiaux et à prospérer dans un marché en évolution rapide. La collaboration entre les universités et l'industrie crée non seulement de meilleurs outils, mais forme également une main-d'œuvre plus intelligente et plus agile.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa2bf4164d04b1eb8e7a66/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 17:00:00 GMT"
+    },
+    {
+        "title": "AI Doomsday Clock Advances",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/02/10/ai-doomsday-clock-ticks-closer-to-uncontrolled-super-ai/?ss=ai",
+        "body": "Les créateurs de l'AI Safety Clock, ou \"Horloge de l'Apocalypse de l'IA\", ont symboliquement avancé l'heure de deux minutes, mettant en garde contre les risques croissants liés au développement incontrôlé de l'intelligence artificielle. Cette horloge, conçue pour susciter un dialogue critique sur l'IA, indique désormais 23h36, soit 24 minutes avant minuit, moment où l'IA pourrait échapper au contrôle humain. L'accélération des outils open-source en IA, les investissements massifs des États-Unis et de la Chine dans l'IA, la déréglementation et le manque de priorité accordée à la sécurité de l'IA sont autant de raisons invoquées pour justifier cette avance. Michael Wade, professeur et directeur du centre TONOMUS pour la transformation numérique et de l'IA, souligne que les risques liés à l'IA évoluent plus rapidement que les efforts pour les contrôler, et appelle les dirigeants, les régulateurs et les décideurs politiques à accorder une attention urgente à cette technologie en pleine expansion, afin de réduire les menaces potentielles qu'elle pourrait représenter.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa26b624c93a1d8b76fa60/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Double Littératie",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/02/10/beyond-ai-literacy-why-double-literacy-is-the-future-of-innovation/?ss=ai",
+        "body": "L'Acte sur l'IA de l'UE, entré en vigueur le 1er août 2024, révolutionne la gouvernance technologique en mettant l'accent sur l'éthique et la responsabilité. L'article souligne l'importance de la littératie de l'IA, mais va plus loin en introduisant le concept de « double littératie » : la littératie algorithmique et la littératie du cerveau et du corps. La première implique une compréhension à 360 degrés des systèmes d'IA, tandis que la seconde se concentre sur la cognition humaine, les réponses émotionnelles et la dynamique sociétale. Ensemble, elles permettent une intelligence hybride (HI) qui améliore la prise de décision, garantit un déploiement éthique de l'IA et favorise l'innovation responsable. Les organisations qui adoptent la double littératie gagnent en résilience et en pertinence à long terme, tout en se positionnant en avance sur les exigences réglementaires. L'article fournit également un plan d'action pour intégrer la double littératie, comprenant une évaluation de la littératie actuelle, des programmes de formation sur mesure et une culture d'apprentissage continu.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/675a02d055445dac05445f0d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des clones numériques aux côtés des humains",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/02/10/genius-on-demand-introducing-ai-mind-clones/?ss=ai",
+        "body": "L'article explore l'idée de recourir à l'intelligence artificielle pour accéder à l'intelligence de génies comme Einstein, Da Vinci ou Tesla, et comment cela pourrait révolutionner le monde des affaires. Il mentionne les travaux de Srinidhi Ranganathan et de son équipe, qui ont développé des clones d'intelligence artificielle générale, ainsi que d'autres exemples de clones numériques, comme celui de Hiroshi Ishiguro et de Deepak Chopra. L'article soulève également des questions éthiques et juridiques concernant la technologie de clonage, notamment en ce qui concerne l'utilisation de l'image de personnes décédées. Enfin, il présente un scénario futuriste dans lequel les clones mentaux pourraient être utilisés pour surmonter les défis en matière de marketing et d'innovation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a95db52faf347e15efee4f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 15:00:00 GMT"
+    },
+    {
         "title": "L'IA pour une agriculture durable",
         "link": "https://www.forbes.com/sites/johnwerner/2025/02/10/ai-at-work-revolutionary-agriculture-in-africa-and-elsewhere/?ss=ai",
         "body": "L'article met en lumière l'utilisation de l'IA dans l'agriculture, en particulier en Afrique, où elle aide à relever des défis agricoles spécifiques. Jonas Sogbadji, spécialiste en robotique, cite l'exemple du Ghana, où une maladie du cacao a affecté les plantes, impactant ainsi la chaîne d'approvisionnement et le marché. L'IA, à travers des technologies de drones et de capteurs au sol, peut aider à détecter les maladies des cultures et à améliorer les pratiques de gestion agricole, augmentant ainsi le rendement et la sécurité alimentaire. Ces technologies peuvent également créer des emplois et lutter contre la malnutrition. Sogbadji souligne que l'IA peut aider à résoudre les problèmes agricoles actuels et à promouvoir des pratiques plus durables, offrant ainsi une alternative aux OGM controversés. L'utilisation de l'IA dans l'agriculture a le potentiel d'améliorer la qualité de la nourriture pour tous et de lutter contre l'insécurité alimentaire et le changement climatique.",
@@ -26,6 +61,27 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a9a30855479808c0198e9e/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Feb 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'aube d'une nouvelle ère",
+        "link": "https://www.theverge.com/openai/608476/openai-super-bowl-chatgpt-commercial#comments",
+        "body": "OpenAI a fait ses débuts au Super Bowl avec une publicité de 60 secondes présentant l'IA comme l'une des plus grandes innovations de l'humanité. La publicité, qui a coûté 14 millions de dollars, retrace l'évolution technologique de l'humanité, en mettant en avant des applications modernes de l'IA, telles que ChatGPT. La CMO d'OpenAI, Kate Rouch, a déclaré que la publicité visait à montrer l'IA comme un outil pratique et accessible, plutôt que de se concentrer sur l'AGI ou la superintelligence. La publicité arrive à un moment crucial pour OpenAI, alors que l'entreprise cherche à se valoriser à 300 milliards de dollars et à faire face à la concurrence croissante. La pression était forte après la récente controverse entourant la publicité de Google sur l'IA. Rouch a souligné l'importance de l'authenticité et a déclaré qu'OpenAI croit fondamentalement en la puissance transformatrice de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/OpenAI_ad_4.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 10 Feb 2025 00:51:12 GMT"
+    },
+    {
+        "title": "L'intelligence artificielle : une opportunité pour l'emploi ?",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2500177_lintelligence-artificielle-nexiste-pas-selon-le-patron-de-take-two-interactive",
+        "body": "L'article explore les opinions divergentes sur l'impact de l'IA et des LLM sur l'emploi. Strauss Zelnick, PDG de Take-Two Interactive, affirme que l'IA n'est qu'un outil numérique qui augmentera l'emploi et la productivité, comme les technologies numériques l'ont fait par le passé. Cependant, des exemples récents montrent que l'IA a déjà eu un impact négatif sur l'emploi, comme chez Dropbox et dans l'industrie du jeu vidéo. Le PDG de Take-Two pense néanmoins que l'IA pourrait avoir un impact positif sur certains secteurs, notamment celui du jeu vidéo. L'industrie se tourne de plus en plus vers l'IA, mais il reste à voir si son impact sera bénéfique pour les entreprises et l'emploi. Enfin, Zelnick souligne le défi des droits d'auteur et de la protection des œuvres générées par l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/bltps-dlc2-2-1200x675-1-768x432.jpeg?resize=169,169&key=3e1e88a1",
+        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Mistral Le Chat : l'IA française expliquée",
+        "link": "https://www.frandroid.com/android/applications",
+        "body": "L'article présente un aperçu de l'IA française nommée Mistral Le Chat. Il fournit un ensemble de 7 questions-réponses pour aider les lecteurs à comprendre le fonctionnement et les capacités de cette IA. L'article mentionne également d'autres IA populaires, telles que ChatGPT et Deepseek, et souligne la disponibilité de l'application du champion français.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/google-gboard-1200x675-1-768x432.png?resize=169,169&key=7d4a869b",
+        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "La concurrence s'organise face à la domination de Nvidia sur le marché des puces IA",
@@ -131,12 +187,5 @@
         "body": "Le Premier ministre britannique, Keir Starmer, a dévoilé un plan d'action pour l'IA visant à stimuler la croissance économique et à faire du Royaume-Uni un leader mondial dans le domaine de l'IA. Le groupe de réflexion Institute for Public Policy Research (IPPR) prévoit que l'IA aura un impact « sismique » sur la société britannique, transformant ou remplaçant potentiellement jusqu'à 70 % des tâches des cols blancs. L'IA a déjà un impact significatif sur les emplois liés aux technologies de l'information, tels que la gestion de projets, le marketing et le support administratif. Le sommet AI Action Summit, qui se tiendra à Paris, réunira des dirigeants mondiaux et des acteurs de l'industrie pour discuter du développement et des objectifs futurs de l'IA. Le Premier ministre Starmer a souligné l'engagement du Royaume-Uni à devenir une « superpuissance de l'IA », en promettant d'augmenter la productivité et d'ajouter des milliards à l'économie grâce à des investissements dans l'infrastructure de l'IA, des données publiques accessibles et une réglementation pro-innovation.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a7bd88896e179f16b5ca4b/0x0.jpg?format=jpg&crop=2960,1664,x0,y59,safe&width=440",
         "date": "Sat, 08 Feb 2025 20:40:00 GMT"
-    },
-    {
-        "title": "La décentralisation de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/08/have-your-ai-talk-to-my-ai--decentralized-intelligence-for-tomorrow/?ss=ai",
-        "body": "La décentralisation des plateformes d'IA est une nouvelle approche proposée pour mieux exploiter la puissance des modèles LLM et des nouvelles technologies. Bien qu'elle ne soit pas encore répandue, cette idée émerge dans certains milieux universitaires et professionnels, notamment au MIT Media Lab, qui célèbre son 40e anniversaire. Les défenseurs de la décentralisation de l'IA soulignent que dans les modèles centralisés actuels, quelques grandes entreprises dominent l'utilisation des données pour alimenter les systèmes. Ils suggèrent un design \"mixture of experts\", où l'interaction entre l'apprentissage par renforcement et l'ajustement fin supervisé crée un flux de travail efficace. Cet article explore également le concept de \"Web 3\" et la façon dont il s'aligne sur l'IA décentralisée, ainsi que les risques et les avantages potentiels de ces systèmes, y compris l'importance de la confiance entre les agents IA. Les experts suggèrent de déployer d'abord ces systèmes dans des environnements à faible risque, puis de les améliorer jusqu'à ce qu'ils deviennent fiables pour des applications critiques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a7985bbe473933ca509f48/0x0.jpg?format=jpg&crop=1277,719,x0,y60,safe&width=440",
-        "date": "Sat, 08 Feb 2025 17:45:00 GMT"
     }
 ]
