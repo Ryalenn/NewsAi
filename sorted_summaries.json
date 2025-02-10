@@ -1,5 +1,19 @@
 [
     {
+        "title": "Nouveautés de Google Workspace",
+        "link": "https://workspaceupdates.googleblog.com/2025/02/release-notes-02-07-2025.html",
+        "body": "Le texte met en avant la communauté Google Cloud, qui permet aux administrateurs de Google Workspace de se connecter et d'interagir avec leurs pairs et les employés de Google. La communauté offre des discussions sur les produits, des articles informatifs et des astuces pratiques. De plus, la page « What's new in Google Workspace ? » du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et changements mineurs non annoncés sur le blog des mises à jour de Google Workspace.",
+        "image": "",
+        "date": "Sun, 09 Feb 2025 22:56:13 GMT"
+    },
+    {
+        "title": "L'IA pour le bien social",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/02/09/four-ways-to-use-prosocial-ai-as-catalyst-of-economic-prosperity/?ss=ai",
+        "body": "L'intelligence artificielle (IA) a le potentiel de transformer nos sociétés, mais ses avantages sont actuellement limités à une élite privilégiée. Pour réaliser le potentiel de l'IA pour le bien social et relever les défis mondiaux, nous devons l'aligner sur l'intelligence naturelle (NI) et les ambitions prosociales. L'IA est un outil puissant pour résoudre des problèmes sociaux profondément enracinés, tels que l'accès à la justice, les évaluations immobilières biaisées et l'exclusion financière. Cependant, son succès dépend des ambitions et des actions des humains qui l'utilisent. Nous devons être conscients des menaces fondamentales que sont la dégradation de l'autonomie, l'érosion des liens communautaires, le changement climatique et l'accentuation des divisions sociales. En guidant l'IA avec des valeurs humaines et des cadres éthiques, nous pouvons aborder ces problèmes et créer un monde plus équitable. Des plateformes comme Adalat AI en Inde et l'initiative Restorative Value Model de Just Value illustrent le pouvoir de l'IA pour améliorer l'accès à la justice et corriger les évaluations immobilières biaisées. Des solutions innovantes comme Lucrefy utilisent l'IA pour combler le fossé financier pour les petites et moyennes entreprises. En combinant la sagesse humaine et les capacités de l'IA, nous pouvons créer des solutions synergiques, maintenir la supervision humaine et placer le bien-être collectif au centre du développement de l'IA. L'avenir de la croissance inclusive réside dans ce partenariat délibéré entre l'intelligence naturelle et artificielle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a93186ffa4d940db447905/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 09 Feb 2025 22:00:00 GMT"
+    },
+    {
         "title": "DeepMind SynthID",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/02/09/google-announces-much-needed-ai-protection-feature-for-google-photos/?ss=ai",
         "body": "Google Photos ajoute désormais des filigranes numériques invisibles aux images modifiées avec son outil Magic Editor Reimagine, basé sur l'IA. SynthID, une technologie de DeepMind, est utilisée pour créer ces filigranes, qui alertent les utilisateurs sur la présence de modifications apportées par l'IA. Les images éditées avec Reimagine afficheront des informations sur l'IA, indiquant qu'elles ont été modifiées avec l'IA de Google. Les filigranes SynthID sont difficiles à supprimer et ne peuvent être lus que par un logiciel de décodage spécifique. Google a également ajouté des filigranes SynthID aux images créées avec son outil Imagen. Bien que SynthID soit une étape positive, sa portée est limitée car seuls les produits Google peuvent actuellement le détecter. Pour une adoption plus large, Google doit rendre les décodeurs SynthID disponibles pour les tiers.",
@@ -47,19 +61,5 @@
         "body": "Deux rapports majeurs, publiés par Microsoft et le Forum Économique Mondial, offrent des perspectives différentes sur l'avenir du travail, avec un focus particulier sur l'IA générative. Le rapport de Microsoft suggère que l'IA générative peut apporter des gains de productivité, mais que l'impact à long terme pourrait être modeste jusqu'à ce que nous restructurions le travail. Le rapport du Forum Économique Mondial prend en compte des variables plus larges, telles que les conditions macroéconomiques, le changement climatique et l'évolution démographique, et suggère que près de 40 % des compétences actuelles deviendront obsolètes d'ici 2030. Les experts réunis lors d'une table ronde organisée par la Saiid Business School de l'Université d'Oxford s'accordent sur le fait que le changement est imminent et qu'il doit aller au-delà de la simple productivité, en redéfinissant les flux de travail avec une participation humaine significative. Les prédictions varient quant à la rapidité et à l'ampleur de ces changements. L'attention doit se porter sur deux aspects clés : éviter l'homogénéisation des résultats de l'IA générative et prévenir l'érosion des compétences cognitives, créatives et d'évaluation chez les utilisateurs. Trouver le juste équilibre entre l'ingéniosité humaine et l'efficacité des machines est un défi de conception crucial pour l'avenir du travail.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a6b9b2f295a51670cd2b6c/0x0.jpg?format=jpg&crop=5382,3026,x0,y150,safe&width=440",
         "date": "Sat, 08 Feb 2025 02:00:00 GMT"
-    },
-    {
-        "title": "Nouveautés de Google Workspace",
-        "link": "https://workspaceupdates.googleblog.com/2025/02/release-notes-02-07-2025.html",
-        "body": "Le texte met en avant la communauté Google Cloud, qui permet aux administrateurs de Google Workspace de se connecter et d'interagir avec leurs pairs et les employés de Google. La communauté offre des discussions sur les produits, des articles informatifs et des astuces pratiques. De plus, la page \"What's new in Google Workspace?\" du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et changements mineurs non annoncés sur le blog des mises à jour de Google Workspace.",
-        "image": "",
-        "date": "Sat, 08 Feb 2025 00:58:18 GMT"
-    },
-    {
-        "title": "La réflexion sur la chaîne de pensée dans l'IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/07/why-doing-chain-of-thought-prompting-in-reasoning-llms-gums-up-the-works/?ss=ai",
-        "body": "Résumé : \n\nCet article explore la technique de « chain-of-thought » (CoT), une technique de prompt couramment utilisée dans l'IA générative et les grands modèles linguistiques (LLM). CoT encourage l'IA à présenter une série d'étapes pour résoudre un problème donné, ce qui permet d'évaluer la logique de l'IA et de détecter d'éventuelles erreurs. Les nouveaux modèles d'IA générative et LLM effectuent désormais automatiquement une chaîne de pensée, contrairement aux versions précédentes. Demander explicitement une chaîne de pensée à un modèle qui l'effectue déjà implicitement peut entraîner des problèmes, comme des résultats incohérents ou des hallucinations de l'IA. L'article fournit des conseils pour utiliser efficacement CoT, y compris la détermination du type de modèle d'IA, l'expérimentation avec des problèmes simples et complexes, et la prise en compte de la nature des problèmes ou des questions posées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67974917f434afb21353884d/0x0.jpg?format=jpg&crop=2161,1621,x135,y0,safe&width=440",
-        "date": "Fri, 07 Feb 2025 22:00:00 GMT"
     }
 ]
