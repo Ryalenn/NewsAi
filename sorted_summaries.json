@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA pour une agriculture durable",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/10/ai-at-work-revolutionary-agriculture-in-africa-and-elsewhere/?ss=ai",
+        "body": "L'article met en lumière l'utilisation de l'IA dans l'agriculture, en particulier en Afrique, où elle aide à relever des défis agricoles spécifiques. Jonas Sogbadji, spécialiste en robotique, cite l'exemple du Ghana, où une maladie du cacao a affecté les plantes, impactant ainsi la chaîne d'approvisionnement et le marché. L'IA, à travers des technologies de drones et de capteurs au sol, peut aider à détecter les maladies des cultures et à améliorer les pratiques de gestion agricole, augmentant ainsi le rendement et la sécurité alimentaire. Ces technologies peuvent également créer des emplois et lutter contre la malnutrition. Sogbadji souligne que l'IA peut aider à résoudre les problèmes agricoles actuels et à promouvoir des pratiques plus durables, offrant ainsi une alternative aux OGM controversés. L'utilisation de l'IA dans l'agriculture a le potentiel d'améliorer la qualité de la nourriture pour tous et de lutter contre l'insécurité alimentaire et le changement climatique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa0f6f8a950f6401593c55/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 14:39:00 GMT"
+    },
+    {
         "title": "Stargate Project",
         "link": "https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project",
         "body": "Le projet Stargate est un plan de construction d'un réseau de centres de données pour l'intelligence artificielle aux États-Unis, avec un investissement initial de 500 milliards de dollars sur quatre ans. Les entreprises impliquées incluent SoftBank, OpenAI, Oracle, MGX, Arm, Microsoft et Nvidia. La construction a déjà commencé au Texas et d'autres sites à travers le pays sont à l'étude. Oracle, Nvidia et OpenAI collaboreront étroitement à la conception et à l'exploitation du système informatique. Microsoft a également annoncé une mise à jour de son partenariat avec OpenAI, incluant un engagement important sur Azure pour soutenir les produits et la formation d'OpenAI jusqu'en 2030.",
@@ -19,6 +26,27 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a9a30855479808c0198e9e/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Feb 2025 07:00:00 GMT"
+    },
+    {
+        "title": "La concurrence s'organise face à la domination de Nvidia sur le marché des puces IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2499911_mauvaise-nouvelle-pour-nvidia-openai-serait-sur-le-point-de-sortir-sa-propre-puce",
+        "body": "Nvidia est le leader incontesté dans le domaine de la création de puces dédiées à l'IA, avec des clients tels qu'OpenAI, Google et Microsoft. Cependant, sa position dominante pourrait être menacée, car OpenAI développe sa propre puce, qui sera fabriquée par TSMC et prête pour la production de masse d'ici 2026. Intel, Google et Microsoft travaillent également sur des alternatives aux puces Nvidia, mais aucun n'a encore réussi à proposer une solution compétitive.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nvidia-ai-on-rtx-100vp-d-1200x675-1-768x432.jpg?resize=169,169&key=87aaa299",
+        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La France investit dans l'IA et les Deepfakes",
+        "link": "https://www.frandroid.com/culture-tech/2499519_macron-utilise-des-deepfake-pour-promouvoir-le-sommet-de-lia-a-paris",
+        "body": "Le président français Emmanuel Macron a annoncé un investissement important de 109 milliards d'euros pour stimuler les capacités du pays en matière d'intelligence artificielle, reconnaissant ainsi l'importance de l'IA dans l'économie mondiale. Cependant, son utilisation de \"Deepfakes\" sur les réseaux sociaux a suscité des controverses, car cette technologie est souvent associée à la désinformation et à des dérives éthiques. Les \"Deepfakes\" ont été initialement utilisés pour créer du contenu pornographique, mais leur utilisation s'est étendue à d'autres domaines, tels que le divertissement et la grève des acteurs de doublage. L'article souligne la nécessité d'aborder les implications de cette technologie avant de l'utiliser à des fins promotionnelles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/macron-deepfake-1200x675-1-768x432.png?resize=169,169&key=e7276a4c",
+        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La publicité de l'IA au Super Bowl",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2499497_avec-sa-superbe-publicite-openai-montre-les-limites-de-chatgpt-et-sora",
+        "body": "En 2025, OpenAI a diffusé une publicité de 60 secondes pendant le Super Bowl, mettant en avant les avancées de l'humanité à travers l'histoire, de la maîtrise du feu à la conquête spatiale. La publicité, qui a coûté environ 14 millions de dollars, se termine par la présentation de ChatGPT, l'IA conversationnelle de l'entreprise. La voix de ChatGPT demande à l'utilisateur : « Que voulez-vous créer ensuite ? », suggérant que l'IA peut aider à la prochaine révolution technologique. Bien que la publicité célèbre les réalisations humaines, OpenAI admet qu'elle se concentre sur la créativité humaine plutôt que sur le remplacement de l'humain par l'IA. La publicité elle-même a été créée par des équipes humaines, soulignant les limites actuelles de l'IA générative.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-the-intelligence-age-0-41-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=18f947c1",
+        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft ajuste sa stratégie IA",
