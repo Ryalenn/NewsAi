@@ -1,5 +1,26 @@
 [
     {
+        "title": "Stargate Project",
+        "link": "https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project",
+        "body": "Le projet Stargate est un plan de construction d'un réseau de centres de données pour l'intelligence artificielle aux États-Unis, avec un investissement initial de 500 milliards de dollars sur quatre ans. Les entreprises impliquées incluent SoftBank, OpenAI, Oracle, MGX, Arm, Microsoft et Nvidia. La construction a déjà commencé au Texas et d'autres sites à travers le pays sont à l'étude. Oracle, Nvidia et OpenAI collaboreront étroitement à la conception et à l'exploitation du système informatique. Microsoft a également annoncé une mise à jour de son partenariat avec OpenAI, incluant un engagement important sur Azure pour soutenir les produits et la formation d'OpenAI jusqu'en 2030.",
+        "image": "",
+        "date": "Mon, 10 Feb 2025 08:46:07 GMT"
+    },
+    {
+        "title": "L'IA générative, votre alliée pour la Saint-Valentin",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/10/last-minute-valentines-day-brainstorming-via-generative-ai/?ss=ai",
+        "body": "L'IA générative peut être un outil précieux pour ceux qui cherchent des idées de dernière minute pour la Saint-Valentin. En discutant avec des modèles de langage ou des outils d'IA générative comme ChatGPT, les utilisateurs peuvent obtenir des suggestions et des conseils pour planifier une soirée réussie. L'IA peut aider à identifier des activités rapides à organiser, à écrire des notes sentimentales, et à s'assurer que tous les détails sont pris en compte. Bien que l'IA ne soit pas parfaite et puisse parfois fournir de mauvais conseils, une conversation interactive peut aider à obtenir de meilleurs résultats. Les utilisateurs doivent rester vigilants et critiques envers les suggestions de l'IA, tout en s'assurant de communiquer leurs contraintes de temps et de budget.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1045,783,x65,y0,safe&width=440",
+        "date": "Mon, 10 Feb 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'aube d'une nouvelle ère pour l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/10/5-amazing-things-you-can-do-with-chatgpts-new-operator-mode/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a9a30855479808c0198e9e/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Feb 2025 07:00:00 GMT"
+    },
+    {
         "title": "Nouveautés de Google Workspace",
         "link": "https://workspaceupdates.googleblog.com/2025/02/release-notes-02-07-2025.html",
         "body": "Le texte met en avant la communauté Google Cloud, qui permet aux administrateurs de Google Workspace de se connecter et d'interagir avec leurs pairs et les employés de Google. La communauté offre des discussions sur les produits, des articles informatifs et des astuces pratiques. De plus, la page « What's new in Google Workspace ? » du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et changements mineurs non annoncés sur le blog des mises à jour de Google Workspace.",
@@ -26,6 +47,13 @@
         "body": "L'IA est en train de transformer tous les secteurs et tous les aspects de la vie, et ce changement sera profond et omniprésent. Les intervenants soulignent son impact universel sur l'entreprise et les relations humaines, avec un accent particulier sur l'intégration de l'IA et de la robotique. Les citations des experts soulignent l'importance de l'IA dans la connectivité, la créativité et l'autonomie. La propriété des données est un enjeu crucial, avec des personnalités influentes comme Will.i.am soulignant la nécessité de protéger les données individuelles. L'automatisation et l'emploi sont également au cœur des préoccupations, les intervenants discutant de l'impact potentiel de l'IA sur le marché du travail. Enfin, l'intégration délibérée de l'IA est essentielle, avec des avertissements sur les effets secondaires imprévus et l'importance de comprendre comment interagir avec l'IA de manière saine et positive.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a7aa34a2afb7deeeca2720/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 09 Feb 2025 09:00:00 GMT"
+    },
+    {
+        "title": "L'éthique de l'IA et ses implications pour l'avenir",
+        "link": "https://www.youtube.com/watch?v=1Hz19kpCse4",
+        "body": "L'article aborde les questions éthiques complexes qui entourent le développement et le déploiement de l'IA. Il souligne l'importance de considérer l'IA comme un outil puissant qui doit être utilisé de manière responsable et éthique. L'auteur met en évidence les implications potentielles de l'IA sur la vie privée, la sécurité, l'emploi et la société dans son ensemble. Il est mentionné que l'IA peut améliorer considérablement la vie des gens, mais qu'elle peut également conduire à des abus et à des violations des droits si elle est mal utilisée. L'article plaide pour une réglementation et une surveillance attentives du développement de l'IA, ainsi que pour une collaboration entre les experts en éthique, les scientifiques, les ingénieurs et les décideurs politiques pour garantir que l'IA soit développée de manière responsable et éthique. L'auteur suggère également que l'éducation et la sensibilisation du public sont essentielles pour s'assurer que les gens comprennent l'impact de l'IA et puissent participer de manière significative à la discussion sur son avenir.",
+        "image": "",
+        "date": "Sun, 09 Feb 2025 00:00:00 GMT"
     },
     {
         "title": "Free intègre l'IA de Mistral AI dans ses forfaits mobiles",
