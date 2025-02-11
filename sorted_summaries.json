@@ -1,5 +1,26 @@
 [
     {
+        "title": "Double Literacy",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/02/11/why-hybrid-intelligence-is-our-best-bet-to-thrive-now/?ss=ai",
+        "body": "L'article souligne l'importance de la double littératie dans le domaine de l'IA, suggérant qu'une compréhension holistique de l'intelligence naturelle (NI) et de l'intelligence artificielle (IA) est essentielle pour naviguer dans un paysage technologique en évolution rapide. Les récents progrès de l'IA, notamment avec des modèles comme ChatGPT, soulignent la nécessité d'une approche équilibrée. La double littératie implique de maîtriser à la fois l'IA et la NI, reconnaissant leurs forces et leurs limites respectives. La NI, avec ses dimensions individuelles et collectives, intègre la signification, l'éthique et l'adaptabilité dans la prise de décision, tandis que l'IA excelle dans le traitement de vastes ensembles de données. En combinant les deux, l'intelligence hybride peut transformer des domaines tels que la recherche, la médecine, l'éducation et les affaires, en tirant parti de la précision de l'IA et de la profondeur de la NI. Pour éviter les risques liés à l'évolution rapide de l'IA, tels que le contournement de ses contraintes intégrées, les individus et les organisations doivent cultiver leur propre NI et poser des questions fondamentales sur l'utilisation de l'IA, garantissant ainsi une collaboration éthique et responsable entre l'humain et la machine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab7e245513b29ac8f68283/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 20:20:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une révolution progressive",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/11/more-than-one-ai-revolution-yann-lecun-on-tech-trajectories/?ss=ai",
+        "body": "Résumé : \n\nYann LeCun, vice-président et scientifique en chef de l'IA chez Meta, partage ses idées sur l'état actuel et l'avenir de l'intelligence artificielle. Il remet en question le terme « intelligence artificielle générale » (AGI), le remplaçant par AMI (Advanced Machine Intelligence), et suggère que l'évolution de l'IA sera progressive plutôt que soudaine. LeCun souligne également l'importance de l'open source pour créer des modèles fondamentaux diversifiés et démocratiques, et prédit que l'IA aura un impact aussi significatif que l'invention de l'imprimerie, conduisant à une nouvelle renaissance. Il met en évidence le potentiel de l'apprentissage auto-supervisé et des systèmes d'IA axés sur les objectifs, ainsi que l'importance de l'IA pour les appareils portables et les assistants numériques. Enfin, LeCun prévoit un avenir où l'IA améliorera l'intelligence humaine et révolutionnera la façon dont nous interagissons avec le monde numérique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67abaab8079bed3318f0c592/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 20:00:00 GMT"
+    },
+    {
+        "title": "L'IA, un avantage stratégique, pas juste un outil de réduction des coûts",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/02/11/the-big-ai-mistake---why-just-cutting-jobs-might-cost-your-company/?ss=ai",
+        "body": "Bien que l'IA puisse aider à réduire les coûts, les entreprises qui l'utilisent uniquement à cette fin risquent de perdre à long terme. Zac Engler, ancien manager chez Apple et expert en IA, propose un modèle en trois couches, le « AI Work Trifurcation », qui catégorise le travail en tâches entièrement automatisées, hybrides et humaines. Il suggère que les dirigeants qui comprennent comment diviser le travail et utiliser l'IA en fonction de ces catégories peuvent dominer leur secteur. Engler souligne que l'IA devrait être utilisée pour gérer 20 % du travail stratégique qui génère 80 % de la valeur de l'organisation, plutôt que simplement réduire les coûts de main-d'œuvre.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab9a2d9b00b2979192ef93/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 19:00:00 GMT"
+    },
+    {
         "title": "Communications unifiées",
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/11/how-ai-is-taking-the-chaos-out-of-business-communications/?ss=ai",
         "body": "Les conversations professionnelles ont de plus en plus lieu sur des plateformes de messagerie, mais une grande partie de ces interactions se perd dans des silos de communication. Dima Gutzeit, fondateur et PDG de LeapXpert, propose une solution basée sur l'IA pour résoudre ce problème : « l'intelligence de communication assistée par l'IA ». L'IA peut structurer et gouverner les données de communication, permettant aux dirigeants d'extraire des informations exploitables. Gutzeit souligne l'importance d'un système de communication centralisé pour garantir que les informations précieuses ne restent pas isolées dans des discussions individuelles. Les plateformes alimentées par l'IA qui consolident et gouvernent les canaux de communication offrent un enregistrement unifié, consultable et vérifiable des discussions, tout en garantissant la conformité et en améliorant la prise de décision. Les outils tels que la plateforme de communication LeapXpert aident les entreprises à engager leurs employés et leurs clients sur plusieurs canaux de communication tout en respectant les cadres réglementaires. Alors que l'adoption de l'IA se généralise, il est essentiel de mettre en place des canaux de communication et de gouvernance assistés par l'IA pour améliorer l'efficacité opérationnelle et répondre aux exigences de conformité croissantes.",
@@ -19,6 +40,13 @@
         "body": "Résumé : Les utilisateurs qui ont désactivé les fonctionnalités d'IA d'Apple dans iOS/iPadOS 18.3 ou macOS 15.3 constatent qu'elles se réactivent après la mise à jour vers iOS 18.3.1 ou macOS 15.3.1. Ce problème a été signalé sur MacRumors et Reddit, et confirmé par un développeur. Apple n'a pas encore commenté ce problème. Les utilisateurs soucieux de leur vie privée devraient vérifier les paramètres de leur appareil et désactiver à nouveau Apple Intelligence s'il est activé. La prochaine mise à jour iOS 18.4 devrait apporter des améliorations significatives à Siri et une intégration plus profonde de l'IA.",
         "image": "",
         "date": "Tue, 11 Feb 2025 17:42:41 GMT"
+    },
+    {
+        "title": "La guerre des milliardaires pour le contrôle de l'IA",
+        "link": "https://www.forbes.com/sites/dimitarmixmihov/2025/02/11/elon-musk-bids-97b-for-openai-sam-altman-says-hell-buy-x-instead/?ss=ai",
+        "body": "Elon Musk tente une offre publique d'achat hostile de 97,4 milliards de dollars pour OpenAI, la société derrière ChatGPT, dans une escalade de son conflit avec l'ancien co-fondateur Sam Altman. Musk s'oppose à la conversion d'OpenAI en une entité à but lucratif, citant des préoccupations de sécurité et de transparence. Altman a rejeté l'offre, faisant allusion à l'achat de Twitter par Musk pour 44 milliards de dollars. La bataille s'intensifie, avec Musk poursuivant également OpenAI pour un prétendu abandon de sa mission originale de développement d'IA pour le bien commun.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab77adc66fa0d2bb553738/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 16:00:00 GMT"
     },
     {
         "title": "Les limites des chatbots",
@@ -47,6 +75,13 @@
         "body": "DeepSeek, une nouvelle application d'IA, est devenue l'application gratuite la plus téléchargée aux États-Unis une semaine seulement après son lancement, surpassant ainsi ChatGPT. Cet article compare les forces relatives de ChatGPT et DeepSeek, deux modèles d'IA dominants. ChatGPT excelle dans la création de contenu créatif et engageant, et peut même être formé pour écrire avec la voix de l'utilisateur. DeepSeek, quant à lui, est plus performant dans les domaines techniques, comme la documentation de codage ou les explications scientifiques. Dans les tâches de recherche, ChatGPT se distingue par son interprétation et son raisonnement subjectif, tandis que DeepSeek offre des réponses structurées et des illustrations visuelles. Les deux modèles sont utiles pour la génération d'idées, ChatGPT étant associé à des tâches créatives et DeepSeek à des compétences techniques. DeepSeek est également salué pour son modèle open source, offrant flexibilité et transparence aux développeurs. Avec de nouveaux acteurs entrant sur le marché de l'IA, les utilisateurs peuvent s'attendre à des outils plus compétitifs et accessibles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ab6646dc8bd862a2795a51/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Feb 2025 15:00:00 GMT"
+    },
+    {
+        "title": "Retour et revente optimisés",
+        "link": "https://www.forbes.com/sites/dennismitzner/2025/02/11/ai-is-transforming-e-commerce-returns-cutting-costs-and-improving-efficiency/?ss=ai",
+        "body": "L'IA révolutionne la gestion des retours dans le commerce électronique, améliorant l'efficacité, réduisant les coûts et augmentant la durabilité. En collectant des données détaillées (images, vidéos, historique d'achat) au moment du retour, l'IA prend des décisions instantanées, réduisant le recours aux agents de service client. Elle optimise également l'acheminement des retours, réduisant ainsi les étapes de transport et de traitement inutiles. L'IA assiste les opérateurs d'entrepôts dans le tri et l'évaluation des articles, réduisant considérablement les délais de traitement. Les entreprises Renow, Gain, Onebeat et ReturnGO utilisent l'IA pour rationaliser la gestion des retours, prédire et prévenir les retours, et optimiser la gestion des stocks. L'IA permet d'évaluer l'état des produits, d'analyser les modèles de retour, de suivre les commentaires des clients et d'évaluer la demande du marché en temps réel, ce qui permet aux détaillants de prendre des décisions rentables. L'IA améliore la précision des descriptions de produits et permet une tarification dynamique des articles de revente. Le marché de l'optimisation des retours se développe, et des entreprises comme Daze se concentrent sur des modèles commerciaux durables et une efficacité améliorée. L'IA transforme les retours coûteux en opportunités de rentabilité, d'efficacité et de durabilité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab00fa2515c026dea866e1/0x0.jpg?format=jpg&crop=2394,1347,x0,y123,safe&width=440",
+        "date": "Tue, 11 Feb 2025 14:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : OpenAI, ChatGPT et au-delà",
@@ -117,6 +152,13 @@
         "body": "Elon Musk a fait une offre de 97,4 milliards de dollars pour le rachat d'OpenAI. Sam Altman a rapidement rejeté l'offre, affirmant qu'il préférerait acheter Twitter pour une fraction du prix. L'article souligne que les investissements dans l'IA atteignent un nouveau niveau de spéculation, avec des entreprises qui lèvent des fonds uniquement sur la base du battage médiatique. DeepSeek est présenté comme un nouveau concurrent d'OpenAI, remettant en question sa position de leader dans le domaine de l'IA. L'auteur suggère que l'offre de Musk pourrait indiquer que le partenariat entre Microsoft et OpenAI touche à sa fin, et que Microsoft pourrait se concentrer sur les applications d'IA plutôt que sur la recherche de pointe. La course à l'IA s'intensifie, avec des acteurs majeurs se positionnant pour dominer le marché.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67aa7ee29a0e8f16e9f0fd28/0x0.jpg?format=jpg&crop=3873,1816,x0,y380,safe&width=440",
         "date": "Tue, 11 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Google I/O 2025 : les nouveautés IA au cœur de l'événement",
+        "link": "https://www.frandroid.com/events/google-io/2502235_google-i-o-2025-une-date-un-programme-et-les-nouveautes-que-lon-attend",
+        "body": "Google a annoncé les dates de sa conférence annuelle I/O, qui se tiendra les 20 et 21 mai 2025 au Shoreline Amphitheater de Mountain View. L'IA sera au centre des discussions, avec notamment la présentation de Gemini, l'IA de Google intégrée à Android XR pour la réalité mixte. Android 16 et l'Assistant Google, qui devrait gagner en puissance, seront également à l'honneur. Sundar Pichai, CEO de Google, assurera la keynote d'ouverture. L'événement sera accessible en ligne pour les développeurs et passionnés de tech.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-28-7-1200x678-1-768x434.jpg?resize=170,170&key=358a060b",
+        "date": "Mon, 10 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "L'engagement d'EDF envers l'IA",
