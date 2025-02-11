@@ -1,5 +1,40 @@
 [
     {
+        "title": "Communications unifiées",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/11/how-ai-is-taking-the-chaos-out-of-business-communications/?ss=ai",
+        "body": "Les conversations professionnelles ont de plus en plus lieu sur des plateformes de messagerie, mais une grande partie de ces interactions se perd dans des silos de communication. Dima Gutzeit, fondateur et PDG de LeapXpert, propose une solution basée sur l'IA pour résoudre ce problème : « l'intelligence de communication assistée par l'IA ». L'IA peut structurer et gouverner les données de communication, permettant aux dirigeants d'extraire des informations exploitables. Gutzeit souligne l'importance d'un système de communication centralisé pour garantir que les informations précieuses ne restent pas isolées dans des discussions individuelles. Les plateformes alimentées par l'IA qui consolident et gouvernent les canaux de communication offrent un enregistrement unifié, consultable et vérifiable des discussions, tout en garantissant la conformité et en améliorant la prise de décision. Les outils tels que la plateforme de communication LeapXpert aident les entreprises à engager leurs employés et leurs clients sur plusieurs canaux de communication tout en respectant les cadres réglementaires. Alors que l'adoption de l'IA se généralise, il est essentiel de mettre en place des canaux de communication et de gouvernance assistés par l'IA pour améliorer l'efficacité opérationnelle et répondre aux exigences de conformité croissantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab8ab24db61c9fdc092a15/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 18:20:00 GMT"
+    },
+    {
+        "title": "La domination de l'IA",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/02/11/goku---a-chinese-open-source-model-challenges-openai-and-the-us/?ss=ai",
+        "body": "ByteDance a lancé Goku, un modèle d'IA avancé capable de générer des images et des vidéos à partir de textes. Goku, basé sur des Transformers à flux rectifiés, produit des visuels de haute qualité avec moins de distorsions et de glitches. En tant que modèle open source, Goku abaisse la barrière d'accès à la technologie IA pour les entreprises et les startups, mettant au défi OpenAI et les gouvernements cherchant à contrôler l'accès à l'IA. Cet article souligne l'importance de la littératie en IA pour capturer la valeur de ces avancées, car le succès de l'IA dépend de son application pratique dans divers secteurs. À mesure que l'IA abaisse les barrières de création de contenu, les abus comme les deepfakes deviennent plus préoccupants. Les organisations doivent investir dans la littératie en IA pour rester compétitives face à l'avancée rapide des entreprises chinoises et à la concurrence croissante pour OpenAI. Le futur de l'IA sera façonné par ceux qui peuvent le mieux mettre en œuvre.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab7f5c6dd1f13deee6725b/0x0.jpg?format=jpg&crop=1080,507,x0,y321,safe&width=440",
+        "date": "Tue, 11 Feb 2025 17:55:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence s'active à nouveau après la dernière mise à jour",
+        "link": "https://www.theverge.com/news/609955/apple-intelligence-ios-18-3-1-macos-15-3-1-update",
+        "body": "Résumé : Les utilisateurs qui ont désactivé les fonctionnalités d'IA d'Apple dans iOS/iPadOS 18.3 ou macOS 15.3 constatent qu'elles se réactivent après la mise à jour vers iOS 18.3.1 ou macOS 15.3.1. Ce problème a été signalé sur MacRumors et Reddit, et confirmé par un développeur. Apple n'a pas encore commenté ce problème. Les utilisateurs soucieux de leur vie privée devraient vérifier les paramètres de leur appareil et désactiver à nouveau Apple Intelligence s'il est activé. La prochaine mise à jour iOS 18.4 devrait apporter des améliorations significatives à Siri et une intégration plus profonde de l'IA.",
+        "image": "",
+        "date": "Tue, 11 Feb 2025 17:42:41 GMT"
+    },
+    {
+        "title": "Les limites des chatbots",
+        "link": "https://www.theverge.com/news/610006/ai-chatbots-distorting-news-bbc-study#comments",
+        "body": "Une étude de la BBC a révélé que les chatbots d'IA, tels que ChatGPT, Gemini, Copilot et Perplexity, rencontrent des difficultés importantes lorsqu'il s'agit de résumer des articles de presse avec exactitude. Plus de la moitié des résumés générés par ces outils contenaient des \"problèmes significatifs\" sous une forme ou une autre, notamment des inexactitudes factuelles et des déformations de l'information. L'étude a montré que 51 % des réponses présentaient des problèmes majeurs, 19 % des citations de la BBC comprenaient des informations, des chiffres et des dates erronés, et 13 % des citations avaient été modifiées ou n'existaient pas dans l'article d'origine. Ces résultats soulignent les limites actuelles des technologies d'IA en matière de traitement et de synthèse de l'information, et soulignent la nécessité d'une vérification humaine rigoureuse.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 15:54:06 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot IA plus accessibles au grand public. L'étude de la BBC sur la précision des résumés de nouvelles créés par l'IA a révélé des problèmes importants, notamment des inexactitudes et des distorsions. ChatGPT de OpenAI, Copilot de Microsoft et Gemini de Google sont au cœur de l'attention, avec de nouvelles fonctionnalités et une plus grande accessibilité. Meta, DeepSeek et d'autres entreprises lancent également de nouvelles fonctionnalités d'IA, tandis que Nvidia annonce un nouveau kit de développement pour l'informatique AI. L'industrie de l'IA est en plein essor, avec des investissements importants et une course à la création d'applications pratiques.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 15:54:06 GMT"
+    },
+    {
         "title": "La puissance de l'IA",
         "link": "https://www.forbes.com/sites/chuckbrooks/2025/02/11/4-key-considerations-for-business-leaders-to-address-ai-driven-threats/?ss=ai",
         "body": "L'IA transforme non seulement les entreprises, mais a également un impact significatif sur la cybersécurité. Si l'IA améliore l'identification et l'analyse automatisée des menaces en temps réel, les cybercriminels l'utilisent également, ainsi que l'apprentissage automatique, pour lancer des attaques plus efficaces. Deux aspects sont à considérer : l'automatisation et l'accélération des cyberattaques, et la création de contenus faux mais réalistes (deepfakes). Les entreprises doivent donc évaluer les risques liés à l'IA, comprendre comment elle pourrait être utilisée contre elles et renforcer leur cybersécurité en conséquence. Les dirigeants doivent accorder la priorité à la cybersécurité, en investissant dans des outils de cybersécurité assistés par l'IA et en formant leur personnel à identifier les risques liés à l'IA. De plus, une culture de la cybersécurité doit être instaurée, avec une sensibilisation aux dangers potentiels des outils d'IA. Enfin, les entreprises doivent rester au fait des évolutions technologiques et des menaces émergentes pour se protéger efficacement.",
@@ -7,11 +42,46 @@
         "date": "Tue, 11 Feb 2025 15:08:00 GMT"
     },
     {
+        "title": "La bataille des géants de l'IA",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/02/11/chatgpt-deepseek-and-the-ai-race-which-model-is-right-for-you-in-2025/?ss=ai",
+        "body": "DeepSeek, une nouvelle application d'IA, est devenue l'application gratuite la plus téléchargée aux États-Unis une semaine seulement après son lancement, surpassant ainsi ChatGPT. Cet article compare les forces relatives de ChatGPT et DeepSeek, deux modèles d'IA dominants. ChatGPT excelle dans la création de contenu créatif et engageant, et peut même être formé pour écrire avec la voix de l'utilisateur. DeepSeek, quant à lui, est plus performant dans les domaines techniques, comme la documentation de codage ou les explications scientifiques. Dans les tâches de recherche, ChatGPT se distingue par son interprétation et son raisonnement subjectif, tandis que DeepSeek offre des réponses structurées et des illustrations visuelles. Les deux modèles sont utiles pour la génération d'idées, ChatGPT étant associé à des tâches créatives et DeepSeek à des compétences techniques. DeepSeek est également salué pour son modèle open source, offrant flexibilité et transparence aux développeurs. Avec de nouveaux acteurs entrant sur le marché de l'IA, les utilisateurs peuvent s'attendre à des outils plus compétitifs et accessibles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab6646dc8bd862a2795a51/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : OpenAI, ChatGPT et au-delà",
+        "link": "https://www.theverge.com/the-vergecast/609956/chatgpt-operator-deep-research-tasks-doge-coup-vergecast#comments",
+        "body": "Dans le dernier épisode du Vergecast, les animateurs discutent des dernières avancées d'OpenAI avec ChatGPT, y compris les nouvelles fonctionnalités Tasks, Operator et Deep Research. Ils explorent l'expérience utilisateur, les avantages et les inconvénients, et notent la lenteur du système. Kylie Robison du Verge partage ses impressions sur ces nouvelles fonctionnalités. L'épisode comprend également une mise à jour sur Elon Musk et la prise de contrôle de DOGE au gouvernement américain, soulignant l'impact potentiel sur les réglementations et les conséquences pour Musk. Enfin, l'équipe répond à une question sur la diffusion du Super Bowl, avec des réflexions sur la qualité de la diffusion et les améliorations souhaitées.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/VRG_VST_0211_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 13:56:59 GMT"
+    },
+    {
         "title": "L'Europe investit massivement dans l'IA",
         "link": "https://www.theverge.com/news/609930/eu-200-billion-investment-ai-development",
         "body": "L'Union européenne prévoit d'investir 200 milliards d'euros dans le domaine de l'intelligence artificielle, afin de concurrencer les États-Unis et la Chine. La présidente de la Commission européenne, Ursula von der Leyen, a annoncé un investissement supplémentaire de 50 milliards d'euros, s'ajoutant aux 150 milliards déjà promis par des investisseurs privés dans le cadre de l'European AI Champions Initiative. L'objectif est de faire de l'Europe l'un des leaders mondiaux en IA, en adoptant une approche éthique et coopérative. Cet investissement sera utilisé pour construire des infrastructures de pointe pour l'entraînement de modèles IA complexes. L'UE a été l'une des premières puissances mondiales à réglementer l'IA avec l'AI Act. Cet investissement massif vise à rattraper le retard sur les États-Unis et la Chine en matière d'infrastructure IA avancée, suite à la sortie de chatbots populaires comme ChatGPT et DeepSeek.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK414_AI_CHATBOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 11 Feb 2025 13:17:59 GMT"
+    },
+    {
+        "title": "L'avenir du commerce électronique et du SaaS : l'optimisation pour les agents IA",
+        "link": "https://www.forbes.com/sites/darpanmunjal/2025/02/11/ai-agents-are-here-how-businesses-must-adapt-to-stay-competitive/?ss=ai",
+        "body": "L'article explore l'impact potentiel des agents IA sur l'avenir du commerce électronique et des entreprises SaaS. Il souligne comment les entreprises intégrant déjà des agents IA améliorent leur efficacité et leur optimisation. Alors que la technologie des agents évolue rapidement, les entreprises de commerce électronique et de SaaS doivent s'adapter pour rester compétitives. L'optimisation de la manière dont les produits sont présentés deviendra essentielle pour garantir que les agents IA peuvent facilement découvrir les options pertinentes. Les entreprises qui anticipent ces changements et optimisent leurs fonctions de recherche et de découverte seront en avance sur la concurrence. L'article souligne également l'importance de l'optimisation agentique, qui consiste à améliorer les places de marché pour offrir des informations statiques et pour interagir de manière dynamique et collaborative avec les agents IA. Les entreprises doivent fournir une classification et un filtrage approfondis des produits, ainsi que des balises et des descriptions qui répondent aux invites agentiques et correspondent au langage naturel utilisé par les clients. De plus, l'optimisation du code et la résolution des problèmes potentiels liés à l'accès des agents IA sont essentielles pour garantir une navigation fluide. Les entreprises doivent également distinguer les IA autorisées des IA malveillantes et créer des sites Web, des contenus et des fonctionnalités de recherche qui conviennent à la fois aux clients humains et aux agents IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa8c61883545dae0364bb1/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Future AGI lève des fonds pour améliorer la précision et la fiabilité de l'IA",
+        "link": "https://www.forbes.com/sites/davidprosser/2025/02/11/holding-ai-applications-to-account-with-future-agi/?ss=ai",
+        "body": "Future AGI, une startup de San Francisco, annonce un financement de pré-amorçage de 1,6 million de dollars pour développer sa plateforme d'évaluation et d'optimisation de l'IA. La plateforme automatise l'évaluation des résultats des modèles IA (texte, image) et itère pour affiner et améliorer leur fiabilité. La société, fondée par Nikhil Pareek et Charu Gupta, vise à accélérer le temps de mise sur le marché des applications IA en fournissant une couche de données qui surveille, évalue et améliore les systèmes IA. Future AGI se distingue de ses concurrents (Arize AI, Galileo AI, etc.) en identifiant les causes profondes des problèmes et en fournissant des recommandations d'amélioration. La société travaille avec des clients dans le commerce de détail et les industries créatives, et vise à atteindre 1 million de dollars de revenus d'ici la fin de l'année.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa47984787da64c26994c5/0x0.jpg?format=jpg&crop=3413,1599,x0,y335,safe&width=440",
+        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Déployer une main-d'œuvre IA pour stimuler la croissance de votre entreprise",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/02/11/5-ways-to-use-an-ai-agent-to-grow-your-business/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67a9b496226f3a518c09fb29/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
     },
     {
         "title": "La révolution de l'IA durable et éthique",
@@ -196,6 +266,13 @@
         "date": "Mon, 10 Feb 2025 00:51:12 GMT"
     },
     {
+        "title": "L'impact de l'IA sur le marché du travail",
+        "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
+        "body": "L'article présente le lancement de l'Anthropic Economic Index, une initiative visant à étudier l'impact de l'IA sur les marchés du travail et l'économie. L'index fournit des données et des analyses basées sur des millions de conversations anonymes, révélant comment l'IA est intégrée aux tâches réelles dans l'économie moderne. Les chercheurs en IA, les économistes et les experts en politiques sont invités à contribuer à l'index. \n\nLes principales conclusions de l'article incluent :\n- L'IA est adoptée de manière sélective pour différentes tâches au sein d'occupations variées, avec une utilisation plus importante dans les domaines de l'informatique et des mathématiques, ainsi que dans les arts, le design et les médias.\n- Seulement 4 % des emplois utilisent l'IA pour au moins 75 % de leurs tâches, tandis que 36 % des emplois l'utilisent pour au moins 25 % de leurs tâches.\n- Les emplois avec des taux d'utilisation d'IA élevés se trouvent dans les gammes de salaires moyens à élevés, comme les programmeurs informatiques et les rédacteurs publicitaires.\n- L'augmentation (l'IA collaborant avec les utilisateurs) est légèrement plus courante que l'automatisation (l'IA effectuant des tâches seule).\n- L'analyse longitudinale de l'impact de l'IA sur le marché du travail est importante, car l'utilisation de l'IA évolue rapidement et peut entraîner des changements sociétaux et économiques significatifs.\n\nL'article souligne également l'importance de combiner les preuves, les valeurs et l'expérience de diverses perspectives pour préparer l'impact de l'IA sur le marché du travail.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ai-usage-anthropic.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Feb 2025 00:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'art est-il l'IA ?",
         "link": "https://www.forbes.com/sites/lesliekatz/2025/02/09/christies-to-hold-first-auction-devoted-solely-to-ai-art-amid-pushback/?ss=ai",
         "body": "La maison de vente aux enchères Christie's s'apprête à lancer \"Augmented Intelligence\", sa première vente consacrée à l'art créé avec l'aide de l'IA. La vente, qui proposera plus de 20 lots, suscite des réactions mitigées de la part des artistes, certains l'embrassant comme un outil créatif passionnant, tandis que d'autres critiquent l'utilisation non autorisée de leur travail pour entraîner des modèles IA. L'événement met en lumière la collaboration entre l'IA et les artistes, ainsi que le débat sur l'intersection de l'art et de l'IA, avec des œuvres allant de la sculpture à l'art numérique, en passant par des peintures à l'huile et à l'acrylique. La maison de vente a déjà vendu des œuvres d'art créées par intelligence artificielle, mais c'est la première fois qu'elle organise une vente aux enchères exclusivement consacrée à ce type d'art. Les estimations des prix de vente varient considérablement, allant de 100 $ à 1,7 million de dollars.",
@@ -292,12 +369,5 @@
         "body": "L'intelligence artificielle (IA) a le potentiel de transformer nos sociétés, mais ses avantages sont actuellement limités à une élite privilégiée. Pour réaliser le potentiel de l'IA pour le bien social et relever les défis mondiaux, nous devons l'aligner sur l'intelligence naturelle (NI) et les ambitions prosociales. L'IA est un outil puissant pour résoudre des problèmes sociaux profondément enracinés, tels que l'accès à la justice, les évaluations immobilières biaisées et l'exclusion financière. Cependant, son succès dépend des ambitions et des actions des humains qui l'utilisent. Nous devons être conscients des menaces fondamentales que sont la dégradation de l'autonomie, l'érosion des liens communautaires, le changement climatique et l'accentuation des divisions sociales. En guidant l'IA avec des valeurs humaines et des cadres éthiques, nous pouvons aborder ces problèmes et créer un monde plus équitable. Des plateformes comme Adalat AI en Inde et l'initiative Restorative Value Model de Just Value illustrent le pouvoir de l'IA pour améliorer l'accès à la justice et corriger les évaluations immobilières biaisées. Des solutions innovantes comme Lucrefy utilisent l'IA pour combler le fossé financier pour les petites et moyennes entreprises. En combinant la sagesse humaine et les capacités de l'IA, nous pouvons créer des solutions synergiques, maintenir la supervision humaine et placer le bien-être collectif au centre du développement de l'IA. L'avenir de la croissance inclusive réside dans ce partenariat délibéré entre l'intelligence naturelle et artificielle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a93186ffa4d940db447905/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 09 Feb 2025 22:00:00 GMT"
-    },
-    {
-        "title": "DeepMind SynthID",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/02/09/google-announces-much-needed-ai-protection-feature-for-google-photos/?ss=ai",
-        "body": "Google Photos ajoute désormais des filigranes numériques invisibles aux images modifiées avec son outil Magic Editor Reimagine, basé sur l'IA. SynthID, une technologie de DeepMind, est utilisée pour créer ces filigranes, qui alertent les utilisateurs sur la présence de modifications apportées par l'IA. Les images éditées avec Reimagine afficheront des informations sur l'IA, indiquant qu'elles ont été modifiées avec l'IA de Google. Les filigranes SynthID sont difficiles à supprimer et ne peuvent être lus que par un logiciel de décodage spécifique. Google a également ajouté des filigranes SynthID aux images créées avec son outil Imagen. Bien que SynthID soit une étape positive, sa portée est limitée car seuls les produits Google peuvent actuellement le détecter. Pour une adoption plus large, Google doit rendre les décodeurs SynthID disponibles pour les tiers.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6453785544c17b79714bd1ec/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 09 Feb 2025 16:00:00 GMT"
     }
 ]
