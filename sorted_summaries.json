@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution des assistants IA autonomes",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/12/the-everything-ai-how-googles-super-assistant-could-change-life-as-we-know-it/?ss=ai",
+        "body": "Les derniers projets de Google, Astra et Mariner, visent à révolutionner notre interaction avec la technologie grâce à des assistants IA autonomes capables de voir, de comprendre et d'agir dans les mondes physique et numérique. Astra permet à l'IA de voir et de comprendre le monde à travers les smartphones et les lunettes intelligentes, tout en maintenant des conversations en contexte. Mariner, quant à lui, introduit des capacités d'agentivité, permettant à l'IA de naviguer de manière autonome dans les interfaces numériques et de prendre le contrôle du navigateur pour effectuer des tâches complexes. OpenAI a également dévoilé Operate, qui donne à l'IA des capacités de planification sophistiquées, lui permettant d'anticiper les obstacles et d'ajuster son approche en temps réel. La combinaison de ces capacités IA pourrait créer un assistant qui comprend et opère de manière transparente dans les mondes physique et numérique, révolutionnant ainsi la vie quotidienne et le travail, de la gestion des tâches ménagères à la transformation des services client, de la gestion de projet complexe et de la transcription en temps réel. La concurrence entre les géants de la tech comme Google, OpenAI et Microsoft accélère l'innovation, mais soulève également des questions importantes sur l'étendue du pouvoir et de l'autorité que nous devrions donner aux IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ac4ba573adde28103c457b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 07:00:00 GMT"
+    },
+    {
         "title": "La course à l'AGI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/11/sam-altman-moves-the-cheese-when-it-comes-to-attaining-agi/?ss=ai",
         "body": "L'article souligne l'importance de définir clairement l'intelligence artificielle générale (AGI) pour s'assurer que les efforts et les progrès dans le domaine de l'IA soient alignés avec les attentes de la société. Il explore les définitions de l'AGI proposées par Sam Altman, PDG d'OpenAI, et d'autres, et souligne comment les définitions vagues peuvent conduire à des interprétations et à des attentes variables. L'auteur suggère que la définition de l'AGI devrait être ambitieuse et complète, englobant à la fois l'intelligence étroite et générale, et alignée sur les capacités humaines dans tous les domaines. La discussion met en évidence les implications de définitions plus souples, qui pourraient conduire à des revendications prématurées de réalisation de l'AGI, et souligne l'importance d'établir des objectifs clairs pour guider le développement de l'AGI.",
@@ -12,6 +19,27 @@
         "body": "Elon Musk propose d'acheter la branche à but non lucratif d'OpenAI pour 97,4 milliards de dollars, ce que le PDG Sam Altman refuse rapidement. Altman cherche à restructurer OpenAI en une entreprise à but lucratif, ce qui soulève des questions sur la valeur de l'entreprise et la participation de ses membres du conseil d'administration. Pendant ce temps, Thomson Reuters remporte un procès pour violation de droit d'auteur contre la startup Ross Intelligence, remettant en question les pratiques de formation des startups d'IA. Des milliers d'artistes s'opposent à une vente aux enchères prévue par Christie's, intitulée \"Augmented Intelligence\", qui vendrait des œuvres d'art créées avec des outils d'IA, citant des préoccupations éthiques et des violations de droits d'auteur. La vente aux enchères suscite des critiques de la part de leaders du secteur, qui soulignent les questions éthiques entourant l'utilisation d'outils d'IA formés sur des œuvres d'art sous droit d'auteur.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67abe0f1579d5fabfe56d976/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "YouTube renforce la sécurité des mineurs avec l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502391_youtube-va-tenter-de-deviner-votre-age-grace-a-lia",
+        "body": "Dans un article de blog, YouTube a annoncé son intention d'utiliser l'apprentissage automatique pour estimer l'âge des utilisateurs, renforçant ainsi la sécurité des mineurs sur la plateforme. L'objectif est d'éviter que des contenus inappropriés soient proposés aux jeunes spectateurs et de détecter les comptes créés avec de fausses identités pour contourner les restrictions liées à l'âge. Bien que Google n'ait pas fourni beaucoup de détails, il affirme vouloir fournir des expériences et des protections adaptées à l'âge des enfants. La plateforme reconnaît que le système ne sera pas parfait, mais espère néanmoins limiter les dégâts.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/youtube-frandroid-illustration-3-1200x673-1-768x431.jpg?resize=168,168&key=53517937",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'Europe contre-attaque",
+        "link": "https://www.frandroid.com/marques/orange/2502299_lue-veut-revenir-dans-la-course-a-lia-avec-un-investissement-de-200-milliards-deuros",
+        "body": "L'Union européenne annonce un plan d'investissement de 200 milliards d'euros sur cinq ans pour le développement de l'IA, en réponse au projet américain \"Stargate\". Ce plan, nommé \"InvestAI\", comprend 50 milliards d'euros de fonds publics pour construire des \"gigausines européennes d'IA\" et 150 milliards d'euros d'investissements privés de la part de plus de 70 entreprises, dont Mistral AI, Orange et Spotify. L'objectif est de faire de l'Europe un leader dans le domaine de l'IA, tout en respectant les principes de protection des données comme le RGPD. Les entreprises impliquées appellent à un cadre réglementaire simplifié et harmonisé pour encourager l'innovation.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-du-2025-02-12-08-49-14-1200x841-1-768x538.jpg?resize=210,210&key=5277424a",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Mistral AI confronté à des problèmes de confidentialité des données",
+        "link": "https://www.frandroid.com/culture-tech/2502271_la-start-up-francaise-mistral-le-chat-dans-la-tourmente-pour-entorse-presumee-au-rgpd",
+        "body": "Alors que Mistral AI lance son application de chatbot \"Le Chat\" en France, la start-up est confrontée à une plainte pour non-respect du RGPD. Jérémy Roche, avocat spécialisé en protection des données, souligne que Mistral AI ne permet pas aux utilisateurs de la version gratuite de son chatbot de refuser le traitement de leurs données personnelles, contrairement à ses concurrents. La politique de confidentialité de l'entreprise indique que les données d'entrée et de sortie peuvent être utilisées pour entraîner ses modèles d'IA, mais seuls les abonnés payants peuvent s'y opposer. La plainte souligne que cette pratique va à l'encontre de l'article 12 du RGPD, qui interdit d'exiger un paiement pour le respect des droits à la protection des données. La CNIL et d'autres autorités européennes de protection des données pourraient intervenir si Mistral AI ne remédie pas à ce problème.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-2-768x576.jpeg?resize=225,225&key=a631f7c1",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : une course à l'échelle et à l'accessibilité",
@@ -313,26 +341,5 @@
         "body": "L'article met en lumière l'utilisation de l'IA dans l'agriculture, en particulier en Afrique, où elle aide à relever des défis agricoles spécifiques. Jonas Sogbadji, spécialiste en robotique, cite l'exemple du Ghana, où une maladie du cacao a affecté les plantes, impactant ainsi la chaîne d'approvisionnement et le marché. L'IA, à travers des technologies de drones et de capteurs au sol, peut aider à détecter les maladies des cultures et à améliorer les pratiques de gestion agricole, augmentant ainsi le rendement et la sécurité alimentaire. Ces technologies peuvent également créer des emplois et lutter contre la malnutrition. Sogbadji souligne que l'IA peut aider à résoudre les problèmes agricoles actuels et à promouvoir des pratiques plus durables, offrant ainsi une alternative aux OGM controversés. L'utilisation de l'IA dans l'agriculture a le potentiel d'améliorer la qualité de la nourriture pour tous et de lutter contre l'insécurité alimentaire et le changement climatique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67aa0f6f8a950f6401593c55/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Feb 2025 14:39:00 GMT"
-    },
-    {
-        "title": "Stargate Project",
-        "link": "https://www.theverge.com/2025/1/21/24348816/openai-softbank-ai-data-center-stargate-project",
-        "body": "Le projet Stargate est un plan de construction d'un réseau de centres de données pour l'intelligence artificielle aux États-Unis, avec un investissement initial de 500 milliards de dollars sur quatre ans. Les entreprises impliquées incluent SoftBank, OpenAI, Oracle, MGX, Arm, Microsoft et Nvidia. La construction a déjà commencé au Texas et d'autres sites à travers le pays sont à l'étude. Oracle, Nvidia et OpenAI collaboreront étroitement à la conception et à l'exploitation du système informatique. Microsoft a également annoncé une mise à jour de son partenariat avec OpenAI, incluant un engagement important sur Azure pour soutenir les produits et la formation d'OpenAI jusqu'en 2030.",
-        "image": "",
-        "date": "Mon, 10 Feb 2025 08:46:07 GMT"
-    },
-    {
-        "title": "L'IA générative, votre alliée pour la Saint-Valentin",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/10/last-minute-valentines-day-brainstorming-via-generative-ai/?ss=ai",
-        "body": "L'IA générative peut être un outil précieux pour ceux qui cherchent des idées de dernière minute pour la Saint-Valentin. En discutant avec des modèles de langage ou des outils d'IA générative comme ChatGPT, les utilisateurs peuvent obtenir des suggestions et des conseils pour planifier une soirée réussie. L'IA peut aider à identifier des activités rapides à organiser, à écrire des notes sentimentales, et à s'assurer que tous les détails sont pris en compte. Bien que l'IA ne soit pas parfaite et puisse parfois fournir de mauvais conseils, une conversation interactive peut aider à obtenir de meilleurs résultats. Les utilisateurs doivent rester vigilants et critiques envers les suggestions de l'IA, tout en s'assurant de communiquer leurs contraintes de temps et de budget.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1045,783,x65,y0,safe&width=440",
-        "date": "Mon, 10 Feb 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'aube d'une nouvelle ère pour l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/10/5-amazing-things-you-can-do-with-chatgpts-new-operator-mode/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a9a30855479808c0198e9e/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Feb 2025 07:00:00 GMT"
     }
 ]
