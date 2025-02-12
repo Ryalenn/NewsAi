@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "EDF veut accueillir les besoins des géants de l’IA",
+        "title": "EDF veut accueillir les besoins des g\u00e9ants de l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/2501119_edf-veut-accueillir-les-besoins-des-geants-de-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nucleaire-1200x675-1-768x432.jpg?resize=169,169&key=bbc81774",
         "date": "Mon, 10 Feb 2025 23:00:00 GMT",
@@ -238,7 +238,7 @@
         "check": "yes"
     },
     {
-        "title": "Google I/O 2025 : une date, un programme et les nouveautés que l’on attend",
+        "title": "Google I/O 2025 : une date, un programme et les nouveaut\u00e9s que l\u2019on attend",
         "link": "https://www.frandroid.com/events/google-io/2502235_google-i-o-2025-une-date-un-programme-et-les-nouveautes-que-lon-attend",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-28-7-1200x678-1-768x434.jpg?resize=170,170&key=358a060b",
         "date": "Mon, 10 Feb 2025 23:00:00 GMT",
@@ -313,5 +313,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ac0c759f1e9815c389ae24/0x0.jpg?format=jpg&crop=1560,1170,x97,y0,safe&width=440",
         "date": "Wed, 12 Feb 2025 03:01:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502391_youtube-va-tenter-de-deviner-votre-age-grace-a-lia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/youtube-frandroid-illustration-3-1200x673-1-768x431.jpg?resize=168,168&key=53517937",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/orange/2502299_lue-veut-revenir-dans-la-course-a-lia-avec-un-investissement-de-200-milliards-deuros",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-du-2025-02-12-08-49-14-1200x841-1-768x538.jpg?resize=210,210&key=5277424a",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/2502271_la-start-up-francaise-mistral-le-chat-dans-la-tourmente-pour-entorse-presumee-au-rgpd",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-2-768x576.jpeg?resize=225,225&key=a631f7c1",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/12/the-everything-ai-how-googles-super-assistant-could-change-life-as-we-know-it/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ac4ba573adde28103c457b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
