@@ -1,5 +1,12 @@
 [
     {
+        "title": "Deep Research Assistant",
+        "link": "https://9to5google.com/2025/02/11/gemini-deep-research-iphone/",
+        "body": "Google lance Deep Research, un assistant de recherche basé sur l'IA, pour les applications Android et iPhone. Deep Research utilise un raisonnement avancé et une compréhension du contexte à long terme pour agir en tant qu'assistant de recherche, explorant des sujets complexes et produisant des rapports détaillés. Les utilisateurs peuvent poser des questions de recherche complexes et l'IA répondra avec un plan multi-étapes modifiable. Une fois la recherche démarrée, l'IA recherche sur le Web, explore les sites Web et affine ses recherches en fonction de ses découvertes. Les rapports finaux sont organisés en sections avec des tableaux et des sources citées, et peuvent être exportés vers Google Docs. Deep Research est actuellement alimenté par Gemini 1.5 Pro, avec une mise à niveau potentielle vers 2.0 Pro à l'avenir.",
+        "image": "",
+        "date": "Wed, 12 Feb 2025 11:36:18 GMT"
+    },
+    {
         "title": "La révolution des assistants IA autonomes",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/02/12/the-everything-ai-how-googles-super-assistant-could-change-life-as-we-know-it/?ss=ai",
         "body": "Les derniers projets de Google, Astra et Mariner, visent à révolutionner notre interaction avec la technologie grâce à des assistants IA autonomes capables de voir, de comprendre et d'agir dans les mondes physique et numérique. Astra permet à l'IA de voir et de comprendre le monde à travers les smartphones et les lunettes intelligentes, tout en maintenant des conversations en contexte. Mariner, quant à lui, introduit des capacités d'agentivité, permettant à l'IA de naviguer de manière autonome dans les interfaces numériques et de prendre le contrôle du navigateur pour effectuer des tâches complexes. OpenAI a également dévoilé Operate, qui donne à l'IA des capacités de planification sophistiquées, lui permettant d'anticiper les obstacles et d'ajuster son approche en temps réel. La combinaison de ces capacités IA pourrait créer un assistant qui comprend et opère de manière transparente dans les mondes physique et numérique, révolutionnant ainsi la vie quotidienne et le travail, de la gestion des tâches ménagères à la transformation des services client, de la gestion de projet complexe et de la transcription en temps réel. La concurrence entre les géants de la tech comme Google, OpenAI et Microsoft accélère l'innovation, mais soulève également des questions importantes sur l'étendue du pouvoir et de l'autorité que nous devrions donner aux IA.",
@@ -19,6 +26,20 @@
         "body": "Elon Musk propose d'acheter la branche à but non lucratif d'OpenAI pour 97,4 milliards de dollars, ce que le PDG Sam Altman refuse rapidement. Altman cherche à restructurer OpenAI en une entreprise à but lucratif, ce qui soulève des questions sur la valeur de l'entreprise et la participation de ses membres du conseil d'administration. Pendant ce temps, Thomson Reuters remporte un procès pour violation de droit d'auteur contre la startup Ross Intelligence, remettant en question les pratiques de formation des startups d'IA. Des milliers d'artistes s'opposent à une vente aux enchères prévue par Christie's, intitulée \"Augmented Intelligence\", qui vendrait des œuvres d'art créées avec des outils d'IA, citant des préoccupations éthiques et des violations de droits d'auteur. La vente aux enchères suscite des critiques de la part de leaders du secteur, qui soulignent les questions éthiques entourant l'utilisation d'outils d'IA formés sur des œuvres d'art sous droit d'auteur.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67abe0f1579d5fabfe56d976/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Régulation de l'IA : une coopération internationale émergente",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502337_la-france-signe-avec-linde-et-la-chine-pour-une-ia-ethique",
+        "body": "La France et l'Inde ont co-organisé un sommet international sur l'IA à Paris, aboutissant à une déclaration commune pour une IA \"ouverte\", \"inclusive\" et \"éthique\". La Chine a également signé cette déclaration, soutenant une gouvernance basée sur le dialogue mondial pour rendre la technologie accessible et prévenir la concentration du marché. L'UE a déjà mis en place une législation sur l'IA, tandis que la France et l'UE prévoient d'investir 200 milliards d'euros dans son développement. Cependant, les États-Unis et le Royaume-Uni sont absents de cet accord, l'administration Trump considérant la régulation comme un frein à l'innovation.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/emmanuel-macron-1200x740-1-768x474.jpg?resize=185,185&key=f634b1c5",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Free s'associe à Mistral AI",
+        "link": "https://www.frandroid.com/marques/free/2502433_faux-depart-pour-loffre-free-mobile-x-mistral-ai-certains-clients-rencontrent-deja-des-problemes",
+        "body": "Free, opérateur du Groupe Iliad, a annoncé un partenariat avec Mistral AI, une entreprise française d'IA, offrant un accès gratuit de 12 mois à la version pro de son assistant IA, Le Chat. Cependant, certains abonnés ont signalé que Le Chat Pro n'était pas disponible sur les applications iOS et Android, seul l'IA standard étant proposé. Le problème proviendrait de Mistral AI, qui devrait mettre à jour son application. Malgré cela, les abonnés Free Mobile bénéficient tout de même de l'accès à Le Chat Pro sur le web. Pour activer l'offre, les abonnés doivent créer un compte Mistral AI et se connecter à leur espace abonné Free Mobile.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/free-mistral-1200x675-1-768x432.jpg?resize=169,169&key=017d8add",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "YouTube renforce la sécurité des mineurs avec l'IA",
@@ -208,6 +229,27 @@
         "body": "L'article explore l'utilisation croissante des prompt-a-thons, une variante des hackathons, pour améliorer les compétences fondamentales et avancées en ingénierie des prompts, qui est essentielle pour exploiter efficacement l'IA générative et les grands modèles linguistiques. Un prompt-a-thon bien conçu et bien exécuté peut aider les utilisateurs à devenir plus compétents dans les meilleures pratiques de l'ingénierie des prompts. L'auteur partage également ses expériences personnelles dans l'organisation et la facilitation de ces événements. Les prompt-a-thons offrent un forum pour apprendre et pratiquer l'ingénierie des prompts, avec un accent sur des domaines spécifiques tels que l'utilisation de l'IA générative dans les domaines médical, financier et juridique. Ils encouragent également le réseautage et l'établissement de relations collégiales durables. L'article fournit des conseils pour choisir un prompt-a-thon, en soulignant l'importance de s'assurer que l'événement est bien structuré et pratique, et en s'assurant qu'il correspond à vos objectifs, tels que l'apprentissage de l'ingénierie des prompts ou l'application de l'IA générative au développement de prototypes de startups.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679db81d3516788dea268c7a/0x0.jpg?format=jpg&crop=1091,817,x77,y0,safe&width=440",
         "date": "Tue, 11 Feb 2025 03:23:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/610408/perplexity-f1-oracle-red-bull-racing-tiktok-stargate",
+        "body": "La course de Formule 1 est le nouveau terrain de jeu des entreprises d'IA, avec des enjeux financiers importants. La startup de recherche alimentée par l'IA, Perplexity, était sur le point de signer un contrat de parrainage avec Red Bull Racing, mais le contrat a été bloqué par Oracle, le plus grand sponsor de l'équipe, en raison de conflits d'intérêts liés à des offres concurrentes pour l'achat de TikTok et de la concurrence avec OpenAI, soutenu par Oracle. Ce blocage souligne l'intensité croissante de la course à l'IA, alors que les entreprises technologiques cherchent à s'associer à des équipes de Formule 1 et que des investissements et des parrainages importants sont en jeu.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2182160171.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "La guerre des enchères pour OpenAI",
+        "link": "https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/",
+        "body": "Sam Altman, PDG d'OpenAI, a exprimé son désaccord avec l'offre d'Elon Musk visant à acquérir le contrôle de l'entreprise. Dans une lettre au personnel, Altman a souligné que la structure d'OpenAI est conçue pour empêcher une prise de contrôle individuelle, notant que Musk dirige une entreprise concurrente d'IA. La lettre indique également que le conseil d'administration d'OpenAI, dont Altman est membre, n'a pas reçu d'offre officielle de Musk et de ses investisseurs, et qu'il prévoit de rejeter l'offre lorsqu'elle sera présentée. Les employés d'OpenAI ont réagi à la nouvelle avec inquiétude et exaspération. Un groupe d'investisseurs dirigé par Musk a fait une offre non sollicitée de 97,4 milliards de dollars pour acquérir tous les actifs d'OpenAI, ce qui a surpris l'industrie technologique. La société d'IA concurrente de Musk, xAI, et la société de capital-investissement Valor Equity Partners soutiennent l'offre. La structure complexe d'OpenAI, qui est actuellement en train de convertir sa filiale à but lucratif en société à bénéfice public, complique le processus d'acquisition. La société est valorisée à 157 milliards de dollars et est en pourparlers avec SoftBank pour un investissement potentiel de 40 milliards de dollars, ce qui porterait sa valorisation à 300 milliards de dollars. Le conseil d'administration d'OpenAI, bien qu'il n'ait pas l'obligation de maximiser les rendements pour les investisseurs, a le devoir de négocier une valorisation raisonnable pour poursuivre les objectifs à but non lucratif de l'entreprise.",
+        "image": "",
+        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Un nouvel élan pour les réseaux sociaux grâce à l'IA éthique",
+        "link": "https://www.theverge.com/news/610269/buzzfeed-social-media-platform-launch#comments",
+        "body": "BuzzFeed prévoit de lancer une nouvelle plateforme sociale qui se veut une \"oasis à l'abri du défilement compulsif alimenté par les algorithmes\". La plateforme utilisera l'IA pour redonner le contrôle aux utilisateurs, contrairement aux pratiques actuelles des géants des médias sociaux. Le PDG de BuzzFeed, Jonah Peretti, critique l'utilisation de l'IA par des plateformes comme Meta et TikTok, qui favorisent le contenu suscitant des réponses compulsives et prévisibles. Il décrit ce contenu comme \"SNARF\" (Stakes, Novelty, Anger, Retention, Fear), qui manipule les utilisateurs avec des tactiques addictives. En réponse, BuzzFeed lance une plateforme qui utilise l'IA de manière éthique pour promouvoir la créativité, la connexion et le contenu joyeux, offrant ainsi une alternative à l'environnement actuel des médias sociaux, qui est souvent jugé addictif et préjudiciable.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/buzzfeed-island.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
     },
     {
         "title": "La course à l'IA s'intensifie",
