@@ -1,5 +1,26 @@
 [
     {
+        "title": "La guerre des enchères",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/11/the-prompt-artists-want-to-shut-down-ai-art-auction/?ss=ai",
+        "body": "Elon Musk propose d'acheter la branche à but non lucratif d'OpenAI pour 97,4 milliards de dollars, ce que le PDG Sam Altman refuse rapidement. Altman cherche à restructurer OpenAI en une entreprise à but lucratif, ce qui soulève des questions sur la valeur de l'entreprise et la participation de ses membres du conseil d'administration. Pendant ce temps, Thomson Reuters remporte un procès pour violation de droit d'auteur contre la startup Ross Intelligence, remettant en question les pratiques de formation des startups d'IA. Des milliers d'artistes s'opposent à une vente aux enchères prévue par Christie's, intitulée \"Augmented Intelligence\", qui vendrait des œuvres d'art créées avec des outils d'IA, citant des préoccupations éthiques et des violations de droits d'auteur. La vente aux enchères suscite des critiques de la part de leaders du secteur, qui soulignent les questions éthiques entourant l'utilisation d'outils d'IA formés sur des œuvres d'art sous droit d'auteur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67abe0f1579d5fabfe56d976/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une course à l'échelle et à l'accessibilité",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/11/covering-sam-altmans-three-observations-on-ai/?ss=ai",
+        "body": "L'article met en lumière les réflexions de Sam Altman, PDG d'OpenAI, et de Nathaniel Whittemore, rédacteur de l'AI Daily Brief, sur l'évolution de l'IA et son impact potentiel sur la société. Altman présente trois observations clés : premièrement, une équation approximative reliant l'intelligence d'un modèle aux ressources investies dans son entraînement et son fonctionnement ; deuxièmement, une réduction annuelle de 10 fois le coût d'une certaine quantité d'intelligence ; et troisièmement, l'idée que la valeur socio-économique de l'intelligence est super-exponentielle. Whittemore ajoute cinq observations supplémentaires, notamment sur l'importance de la mise à l'échelle, la rapidité de la baisse des coûts de l'intelligence artificielle, et le besoin de compétences en gestion pour superviser les agents IA. Il souligne également l'absence de politiques claires pour encadrer le développement de l'IA. L'article suggère que l'IA pourrait avoir un impact profond et omniprésent sur l'économie et la société, tout en reconnaissant que son avenir soulève des questions complexes qui nécessitent l'attention de diverses parties prenantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67abd1f3f52b009fb399ca32/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Feb 2025 22:00:00 GMT"
+    },
+    {
+        "title": "La FTC sous contrôle conservateur",
+        "link": "https://www.theverge.com/2024/12/10/24318388/trump-ftc-chair-pick-andrew-ferguson-censorship-tech-companies",
+        "body": "Le président élu Donald Trump a choisi Andrew Ferguson pour diriger la Federal Trade Commission (FTC), en remplacement de Lina Khan. Ferguson, déjà commissaire à la FTC, a été choisi pour son programme conservateur, qui comprend la lutte contre ce qu'il considère comme la 'censure' des grandes entreprises technologiques, la protection de la liberté d'expression et la résistance à ce qu'il appelle le 'programme anti-business' de Khan. Trump a également annoncé la nomination de Mark Meador, partenaire d'un cabinet d'avocats spécialisé en droit de la concurrence, en tant que commissaire à la FTC. Ferguson a promis de mettre fin à la 'vendetta' des Big Tech contre la concurrence et la liberté d'expression, et de faire des États-Unis le leader technologique mondial.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2182160171.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 21:02:15 GMT"
+    },
+    {
         "title": "Double Literacy",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/02/11/why-hybrid-intelligence-is-our-best-bet-to-thrive-now/?ss=ai",
         "body": "L'article souligne l'importance de la double littératie dans le domaine de l'IA, suggérant qu'une compréhension holistique de l'intelligence naturelle (NI) et de l'intelligence artificielle (IA) est essentielle pour naviguer dans un paysage technologique en évolution rapide. Les récents progrès de l'IA, notamment avec des modèles comme ChatGPT, soulignent la nécessité d'une approche équilibrée. La double littératie implique de maîtriser à la fois l'IA et la NI, reconnaissant leurs forces et leurs limites respectives. La NI, avec ses dimensions individuelles et collectives, intègre la signification, l'éthique et l'adaptabilité dans la prise de décision, tandis que l'IA excelle dans le traitement de vastes ensembles de données. En combinant les deux, l'intelligence hybride peut transformer des domaines tels que la recherche, la médecine, l'éducation et les affaires, en tirant parti de la précision de l'IA et de la profondeur de la NI. Pour éviter les risques liés à l'évolution rapide de l'IA, tels que le contournement de ses contraintes intégrées, les individus et les organisations doivent cultiver leur propre NI et poser des questions fondamentales sur l'utilisation de l'IA, garantissant ainsi une collaboration éthique et responsable entre l'humain et la machine.",
@@ -33,6 +54,13 @@
         "body": "ByteDance a lancé Goku, un modèle d'IA avancé capable de générer des images et des vidéos à partir de textes. Goku, basé sur des Transformers à flux rectifiés, produit des visuels de haute qualité avec moins de distorsions et de glitches. En tant que modèle open source, Goku abaisse la barrière d'accès à la technologie IA pour les entreprises et les startups, mettant au défi OpenAI et les gouvernements cherchant à contrôler l'accès à l'IA. Cet article souligne l'importance de la littératie en IA pour capturer la valeur de ces avancées, car le succès de l'IA dépend de son application pratique dans divers secteurs. À mesure que l'IA abaisse les barrières de création de contenu, les abus comme les deepfakes deviennent plus préoccupants. Les organisations doivent investir dans la littératie en IA pour rester compétitives face à l'avancée rapide des entreprises chinoises et à la concurrence croissante pour OpenAI. Le futur de l'IA sera façonné par ceux qui peuvent le mieux mettre en œuvre.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ab7f5c6dd1f13deee6725b/0x0.jpg?format=jpg&crop=1080,507,x0,y321,safe&width=440",
         "date": "Tue, 11 Feb 2025 17:55:00 GMT"
+    },
+    {
+        "title": "DeepSeek's Rise",
+        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
+        "body": "DeepSeek, une startup chinoise, bouleverse le secteur de l'IA avec des modèles de langage à grande échelle et à faible coût, qui, selon elle, peuvent rivaliser avec ceux de géants comme OpenAI et Meta. Son modèle phare R1 est capable de performances comparables au modèle o1 d'OpenAI, tandis que son nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek, concurrente de ChatGPT, a rapidement atteint le sommet de l'App Store, et l'entreprise perturbe les marchés financiers, faisant chuter la valeur de Nvidia de 17 %. DeepSeek a attiré l'attention en construisant des modèles open-source avec moins d'argent et de GPU que ses concurrents. La startup a également attiré l'attention d'Apple, qui a soumis des fonctionnalités co-développées avec Alibaba aux régulateurs chinois, et a suscité des inquiétudes aux États-Unis, où un projet de loi bipartite vise à interdire l'utilisation de DeepSeek sur les appareils gouvernementaux. Nvidia fait l'éloge des performances des modèles DeepSeek sur ses GPU RTX 50, mais reconnaît que l'annonce de DeepSeek a eu un impact sur sa capitalisation boursière. DeepSeek remet en question l'idée que les meilleures puces de Nvidia sont essentielles pour progresser dans l'IA, et Microsoft se prépare rapidement à intégrer le modèle R1 à Azure. DeepSeek a également soulevé des questions sur l'efficacité énergétique de l'IA, affirmant que son modèle utilise environ un dixième de la puissance de calcul du modèle Meta Llama 3.1. Enfin, OpenAI et Microsoft enquêtent sur une éventuelle utilisation de l'API OpenAI par DeepSeek pour intégrer ses modèles.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 17:42:41 GMT"
     },
     {
         "title": "Apple Intelligence s'active à nouveau après la dernière mise à jour",
@@ -299,117 +327,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a9a30855479808c0198e9e/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Feb 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'aube d'une nouvelle ère",
-        "link": "https://www.theverge.com/openai/608476/openai-super-bowl-chatgpt-commercial#comments",
-        "body": "OpenAI a fait ses débuts au Super Bowl avec une publicité de 60 secondes présentant l'IA comme l'une des plus grandes innovations de l'humanité. La publicité, qui a coûté 14 millions de dollars, retrace l'évolution technologique de l'humanité, en mettant en avant des applications modernes de l'IA, telles que ChatGPT. La CMO d'OpenAI, Kate Rouch, a déclaré que la publicité visait à montrer l'IA comme un outil pratique et accessible, plutôt que de se concentrer sur l'AGI ou la superintelligence. La publicité arrive à un moment crucial pour OpenAI, alors que l'entreprise cherche à se valoriser à 300 milliards de dollars et à faire face à la concurrence croissante. La pression était forte après la récente controverse entourant la publicité de Google sur l'IA. Rouch a souligné l'importance de l'authenticité et a déclaré qu'OpenAI croit fondamentalement en la puissance transformatrice de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/OpenAI_ad_4.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Mon, 10 Feb 2025 00:51:12 GMT"
-    },
-    {
-        "title": "L'impact de l'IA sur le marché du travail",
-        "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
-        "body": "L'article présente le lancement de l'Anthropic Economic Index, une initiative visant à étudier l'impact de l'IA sur les marchés du travail et l'économie. L'index fournit des données et des analyses basées sur des millions de conversations anonymes, révélant comment l'IA est intégrée aux tâches réelles dans l'économie moderne. Les chercheurs en IA, les économistes et les experts en politiques sont invités à contribuer à l'index. \n\nLes principales conclusions de l'article incluent :\n- L'IA est adoptée de manière sélective pour différentes tâches au sein d'occupations variées, avec une utilisation plus importante dans les domaines de l'informatique et des mathématiques, ainsi que dans les arts, le design et les médias.\n- Seulement 4 % des emplois utilisent l'IA pour au moins 75 % de leurs tâches, tandis que 36 % des emplois l'utilisent pour au moins 25 % de leurs tâches.\n- Les emplois avec des taux d'utilisation d'IA élevés se trouvent dans les gammes de salaires moyens à élevés, comme les programmeurs informatiques et les rédacteurs publicitaires.\n- L'augmentation (l'IA collaborant avec les utilisateurs) est légèrement plus courante que l'automatisation (l'IA effectuant des tâches seule).\n- L'analyse longitudinale de l'impact de l'IA sur le marché du travail est importante, car l'utilisation de l'IA évolue rapidement et peut entraîner des changements sociétaux et économiques significatifs.\n\nL'article souligne également l'importance de combiner les preuves, les valeurs et l'expérience de diverses perspectives pour préparer l'impact de l'IA sur le marché du travail.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ai-usage-anthropic.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 10 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'art est-il l'IA ?",
-        "link": "https://www.forbes.com/sites/lesliekatz/2025/02/09/christies-to-hold-first-auction-devoted-solely-to-ai-art-amid-pushback/?ss=ai",
-        "body": "La maison de vente aux enchères Christie's s'apprête à lancer \"Augmented Intelligence\", sa première vente consacrée à l'art créé avec l'aide de l'IA. La vente, qui proposera plus de 20 lots, suscite des réactions mitigées de la part des artistes, certains l'embrassant comme un outil créatif passionnant, tandis que d'autres critiquent l'utilisation non autorisée de leur travail pour entraîner des modèles IA. L'événement met en lumière la collaboration entre l'IA et les artistes, ainsi que le débat sur l'intersection de l'art et de l'IA, avec des œuvres allant de la sculpture à l'art numérique, en passant par des peintures à l'huile et à l'acrylique. La maison de vente a déjà vendu des œuvres d'art créées par intelligence artificielle, mais c'est la première fois qu'elle organise une vente aux enchères exclusivement consacrée à ce type d'art. Les estimations des prix de vente varient considérablement, allant de 100 $ à 1,7 million de dollars.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a94188ab777aa7718f5232/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Elon Musk fait une offre de 97,4 milliards de dollars pour racheter OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2500607_974-milliards-de-dollars-elon-musk-veut-racheter-openai-chatgpt",
-        "body": "Elon Musk propose de racheter OpenAI, la société d'IA qu'il avait co-fondée, pour 97,4 milliards de dollars. Cette offre inattendue intervient alors qu'OpenAI s'apprêtait à finaliser une levée de fonds de 40 milliards de dollars menée par SoftBank, valorisant ainsi la société à 300 milliards de dollars. La réponse du CEO d'OpenAI, Sam Altman, a été ironique, suggérant plutôt de racheter Twitter pour 9,74 milliards de dollars. La bataille ne fait que commencer, avec un consortium d'investisseurs derrière Musk, dont Vy Capital, Xai (sa société d'IA) et l'agent hollywoodien Ari Emanuel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/openai-logo-1200x675-1-768x432.jpg?resize=169,169&key=a5db87d1",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'intelligence artificielle : une opportunité pour l'emploi ?",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2500177_lintelligence-artificielle-nexiste-pas-selon-le-patron-de-take-two-interactive",
-        "body": "L'article explore les opinions divergentes sur l'impact de l'IA et des LLM sur l'emploi. Strauss Zelnick, PDG de Take-Two Interactive, affirme que l'IA n'est qu'un outil numérique qui augmentera l'emploi et la productivité, comme les technologies numériques l'ont fait par le passé. Cependant, des exemples récents montrent que l'IA a déjà eu un impact négatif sur l'emploi, comme chez Dropbox et dans l'industrie du jeu vidéo. Le PDG de Take-Two pense néanmoins que l'IA pourrait avoir un impact positif sur certains secteurs, notamment celui du jeu vidéo. L'industrie se tourne de plus en plus vers l'IA, mais il reste à voir si son impact sera bénéfique pour les entreprises et l'emploi. Enfin, Zelnick souligne le défi des droits d'auteur et de la protection des œuvres générées par l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/bltps-dlc2-2-1200x675-1-768x432.jpeg?resize=169,169&key=3e1e88a1",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Mistral Le Chat : l'IA française expliquée",
-        "link": "https://www.frandroid.com/android/applications",
-        "body": "L'article présente un aperçu de l'IA française nommée Mistral Le Chat. Il fournit un ensemble de 7 questions-réponses pour aider les lecteurs à comprendre le fonctionnement et les capacités de cette IA. L'article mentionne également d'autres IA populaires, telles que ChatGPT et Deepseek, et souligne la disponibilité de l'application du champion français.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/google-gboard-1200x675-1-768x432.png?resize=169,169&key=7d4a869b",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La concurrence s'organise face à la domination de Nvidia sur le marché des puces IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2499911_mauvaise-nouvelle-pour-nvidia-openai-serait-sur-le-point-de-sortir-sa-propre-puce",
-        "body": "Nvidia est le leader incontesté dans le domaine de la création de puces dédiées à l'IA, avec des clients tels qu'OpenAI, Google et Microsoft. Cependant, sa position dominante pourrait être menacée, car OpenAI développe sa propre puce, qui sera fabriquée par TSMC et prête pour la production de masse d'ici 2026. Intel, Google et Microsoft travaillent également sur des alternatives aux puces Nvidia, mais aucun n'a encore réussi à proposer une solution compétitive.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nvidia-ai-on-rtx-100vp-d-1200x675-1-768x432.jpg?resize=169,169&key=87aaa299",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La France investit dans l'IA et les Deepfakes",
-        "link": "https://www.frandroid.com/culture-tech/2499519_macron-utilise-des-deepfake-pour-promouvoir-le-sommet-de-lia-a-paris",
-        "body": "Le président français Emmanuel Macron a annoncé un investissement important de 109 milliards d'euros pour stimuler les capacités du pays en matière d'intelligence artificielle, reconnaissant ainsi l'importance de l'IA dans l'économie mondiale. Cependant, son utilisation de \"Deepfakes\" sur les réseaux sociaux a suscité des controverses, car cette technologie est souvent associée à la désinformation et à des dérives éthiques. Les \"Deepfakes\" ont été initialement utilisés pour créer du contenu pornographique, mais leur utilisation s'est étendue à d'autres domaines, tels que le divertissement et la grève des acteurs de doublage. L'article souligne la nécessité d'aborder les implications de cette technologie avant de l'utiliser à des fins promotionnelles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/macron-deepfake-1200x675-1-768x432.png?resize=169,169&key=e7276a4c",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La publicité de l'IA au Super Bowl",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2499497_avec-sa-superbe-publicite-openai-montre-les-limites-de-chatgpt-et-sora",
-        "body": "En 2025, OpenAI a diffusé une publicité de 60 secondes pendant le Super Bowl, mettant en avant les avancées de l'humanité à travers l'histoire, de la maîtrise du feu à la conquête spatiale. La publicité, qui a coûté environ 14 millions de dollars, se termine par la présentation de ChatGPT, l'IA conversationnelle de l'entreprise. La voix de ChatGPT demande à l'utilisateur : « Que voulez-vous créer ensuite ? », suggérant que l'IA peut aider à la prochaine révolution technologique. Bien que la publicité célèbre les réalisations humaines, OpenAI admet qu'elle se concentre sur la créativité humaine plutôt que sur le remplacement de l'humain par l'IA. La publicité elle-même a été créée par des équipes humaines, soulignant les limites actuelles de l'IA générative.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-the-intelligence-age-0-41-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=18f947c1",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft ajuste sa stratégie IA",
-        "link": "https://www.frandroid.com/marques/microsoft/2499260_microsoft-permet-aux-utilisateurs-de-desactiver-la-touche-copilot",
-        "body": "Microsoft a récemment lancé une nouvelle gamme de PC en partenariat avec différents fabricants, mettant en avant Copilot, son outil d'IA. Cependant, depuis ce lancement, Copilot a connu plusieurs changements, passant d'une fonctionnalité intégrée à Windows à une application indépendante, puis étant intégré à la suite Microsoft 365. Maintenant, selon XDA Developers, Microsoft envisage de retirer la touche dédiée à Copilot sur ses claviers, permettant aux utilisateurs de la reprogrammer selon leurs besoins. Cette décision reflète la volonté de Microsoft de créer une IA \"digne de confiance\", tout en ne l'imposant pas de force aux utilisateurs. L'entreprise semble ajuster sa stratégie IA, en écoutant les retours des utilisateurs et en adaptant ses outils en conséquence.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/maxresdefault-1200x675-1-768x432.jpg?resize=169,169&key=c791815e",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La France investit massivement dans l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2499420_109-milliards-deuros-dinvestissements-dans-lintelligence-artificielle-en-france-dou-vient-cet-argent-et-a-quoi-va-t-il-servir",
-        "body": "La France a annoncé un investissement de 109 milliards d'euros dans l'intelligence artificielle, provenant à la fois d'investissements publics et privés. Cet investissement vise à concurrencer la domination des États-Unis et de la Chine dans le secteur. L'argent servira à construire un centre de données géant et à tirer parti de l'expertise française en mathématiques, ingénierie et recherche. La France mise également sur son parc nucléaire pour fournir une énergie stable et décarbonée aux infrastructures énergivores de l'IA. Cet investissement s'inscrit dans une stratégie géopolitique de développement de la souveraineté numérique, avec un rapprochement de l'Inde, qui dispose d'un vivier important de talents en ingénierie.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/argent-1200x800-1-768x512.jpg?resize=200,200&key=4375ee23",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Photos : l'IA au service de la transparence",
-        "link": "https://www.frandroid.com/marques/google/2498976_google-photos-va-filigraner-les-images-modifiees-par-lia-pour-plus-de-transparence",
-        "body": "Google introduit une nouvelle fonctionnalité dans son application Google Photos qui utilise l'IA pour modifier les images. La fonction \"Reimagine\" permet aux utilisateurs de demander à l'application d'apporter des modifications spécifiques à leurs photos, comme changer un ciel nuageux en un ciel bleu ensoleillé. Cependant, pour promouvoir la transparence et l'éthique dans l'utilisation de l'IA, Google va désormais filigraner numériquement les images modifiées à l'aide de l'outil \"Magic Editor\". Ce filigrane, nommé SynthID, sera invisible à l'œil nu mais détectable par des outils tels que Google Lens. Ainsi, les utilisateurs pourront savoir si une image a été modifiée par l'IA, même si la technologie présente certaines limites pour les modifications sur de petits éléments.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/sk3kwi5rvj-1200x672-1-768x430.jpg?resize=168,168&key=662c3d5e",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'ascension de Mistral AI",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2499248_mistral-le-chat-7-questions-et-7-reponses-pour-tout-comprendre-a-lia-francaise",
-        "body": "Mistral AI, une startup française fondée par trois experts en IA, a rapidement émergé comme un acteur clé dans l'écosystème de l'IA en France et au-delà. Avec des levées de fonds importantes et des partenariats stratégiques, l'entreprise rivalise désormais avec les géants américains de l'IA. Mistral AI se distingue par sa gamme de modèles d'IA, notamment Mistral Large 2, qui rivalise avec GPT-4, et des modèles plus légers et spécialisés. Leur approche se concentre sur l'efficacité et l'optimisation, plutôt que sur la course aux modèles les plus grands. L'entreprise a également innové avec son système d'experts, qui offre des performances élevées tout en optimisant l'utilisation des ressources. Mistral AI a développé \"Le Chat\", une interface conversationnelle similaire à ChatGPT, et a adopté une politique de distribution hybride, proposant certains modèles en open source et d'autres sous licence commerciale. L'impact de Mistral AI sur l'écosystème tech français est significatif, attirant l'attention sur la French Tech et contribuant à retenir les talents en France.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-1200x675-1-768x432.jpg?resize=169,169&key=8466c5f9",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Free Mobile intègre Mistral AI dans ses forfaits",
-        "link": "https://www.frandroid.com/marques/free/2499298_free-mobile-offre-mistral-le-chat-gratuitement-comment-lactiver",
-        "body": "Free Mobile propose désormais 12 mois d'accès gratuit à l'IA conversationnelle Mistral Le Chat avec ses forfaits, y compris le forfait à 2 euros. L'activation de l'option se fait facilement depuis l'espace abonné mobile de Free, redirigeant ensuite les utilisateurs vers le site de Mistral pour terminer la souscription. L'abonnement Pro de Mistral, d'une valeur de 215,88 euros, offre un support dédié, un accès illimité au modèle IA le plus performant et la navigation web, sans partage de données avec Mistral AI.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nvidia-overlay-2025-02-10-upvjoi2dls-1200x728-1-768x466.png?resize=182,182&key=c2202fcc",
-        "date": "Sun, 09 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nouveautés de Google Workspace",
-        "link": "https://workspaceupdates.googleblog.com/2025/02/release-notes-02-07-2025.html",
-        "body": "Le texte met en avant la communauté Google Cloud, qui permet aux administrateurs de Google Workspace de se connecter et d'interagir avec leurs pairs et les employés de Google. La communauté offre des discussions sur les produits, des articles informatifs et des astuces pratiques. De plus, la page « What's new in Google Workspace ? » du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et changements mineurs non annoncés sur le blog des mises à jour de Google Workspace.",
-        "image": "",
-        "date": "Sun, 09 Feb 2025 22:56:13 GMT"
-    },
-    {
-        "title": "L'IA pour le bien social",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/02/09/four-ways-to-use-prosocial-ai-as-catalyst-of-economic-prosperity/?ss=ai",
-        "body": "L'intelligence artificielle (IA) a le potentiel de transformer nos sociétés, mais ses avantages sont actuellement limités à une élite privilégiée. Pour réaliser le potentiel de l'IA pour le bien social et relever les défis mondiaux, nous devons l'aligner sur l'intelligence naturelle (NI) et les ambitions prosociales. L'IA est un outil puissant pour résoudre des problèmes sociaux profondément enracinés, tels que l'accès à la justice, les évaluations immobilières biaisées et l'exclusion financière. Cependant, son succès dépend des ambitions et des actions des humains qui l'utilisent. Nous devons être conscients des menaces fondamentales que sont la dégradation de l'autonomie, l'érosion des liens communautaires, le changement climatique et l'accentuation des divisions sociales. En guidant l'IA avec des valeurs humaines et des cadres éthiques, nous pouvons aborder ces problèmes et créer un monde plus équitable. Des plateformes comme Adalat AI en Inde et l'initiative Restorative Value Model de Just Value illustrent le pouvoir de l'IA pour améliorer l'accès à la justice et corriger les évaluations immobilières biaisées. Des solutions innovantes comme Lucrefy utilisent l'IA pour combler le fossé financier pour les petites et moyennes entreprises. En combinant la sagesse humaine et les capacités de l'IA, nous pouvons créer des solutions synergiques, maintenir la supervision humaine et placer le bien-être collectif au centre du développement de l'IA. L'avenir de la croissance inclusive réside dans ce partenariat délibéré entre l'intelligence naturelle et artificielle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a93186ffa4d940db447905/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 09 Feb 2025 22:00:00 GMT"
     }
 ]
