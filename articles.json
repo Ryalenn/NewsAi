@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "EDF veut accueillir les besoins des géants de l’IA",
+        "title": "EDF veut accueillir les besoins des g\u00e9ants de l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/2501119_edf-veut-accueillir-les-besoins-des-geants-de-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nucleaire-1200x675-1-768x432.jpg?resize=169,169&key=bbc81774",
         "date": "Mon, 10 Feb 2025 23:00:00 GMT",
@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "Google I/O 2025 : une date, un programme et les nouveautés que l’on attend",
+        "title": "Google I/O 2025 : une date, un programme et les nouveaut\u00e9s que l\u2019on attend",
         "link": "https://www.frandroid.com/events/google-io/2502235_google-i-o-2025-une-date-un-programme-et-les-nouveautes-que-lon-attend",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-28-7-1200x678-1-768x434.jpg?resize=170,170&key=358a060b",
         "date": "Mon, 10 Feb 2025 23:00:00 GMT",
@@ -280,7 +280,7 @@
         "check": "yes"
     },
     {
-        "title": "La France signe avec l’Inde et la Chine pour une IA « éthique »",
+        "title": "La France signe avec l\u2019Inde et la Chine pour une IA \u00ab \u00e9thique \u00bb",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502337_la-france-signe-avec-linde-et-la-chine-pour-une-ia-ethique",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/emmanuel-macron-1200x740-1-768x474.jpg?resize=185,185&key=f634b1c5",
         "date": "Tue, 11 Feb 2025 23:00:00 GMT",
@@ -322,7 +322,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous pouvez désormais générer des vidéos avec l’IA d’Adobe directement sur le Web",
+        "title": "Vous pouvez d\u00e9sormais g\u00e9n\u00e9rer des vid\u00e9os avec l\u2019IA d\u2019Adobe directement sur le Web",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2500185_vous-pouvez-desormais-generer-des-videos-avec-lia-dadobe-directement-sur-un-site-web",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/product-1080x1350-1-1200x799-1-768x511.png?resize=200,200&key=9cd46f63",
         "date": "Tue, 11 Feb 2025 23:00:00 GMT",
@@ -355,5 +355,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ab8ce8e0ce56150adf78f5/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Feb 2025 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.bloomberg.com/news/articles/2025-02-12/myfitnesspal-to-offer-personalized-ai-meal-planning-after-quietly-buying-startup",
+        "image": "",
+        "date": "Wed, 12 Feb 2025 16:31:04 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/610876/adobe-generate-video-ai-public-beta-available#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Screenshot-2025-02-12-134433.jpg?quality=90&strip=all&crop=6.8268563497571%2C0%2C86.346287300486%2C100&w=2400",
+        "date": "Wed, 12 Feb 2025 14:23:36 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Feb 2025 23:58:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/02/12/employai-of-the-month-software-copilots-in-the-workforce/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa08679b7be43abf7e172f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 17:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/dimitarmixmihov/2025/02/12/is-chatgpt-turning-right-wing-chinese-researchers-suggest-so/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ac7ec37ac050d2006ffeda/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
