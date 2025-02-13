@@ -1,10 +1,45 @@
 [
     {
+        "title": "Les pièges de la course à l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/13/5-ai-mistakes-that-could-kill-your-business-in-2025/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ad94696713371bbf06f6ec/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 13 Feb 2025 06:00:00 GMT"
+    },
+    {
         "title": "Kanye West, l'IA et la controverse",
         "link": "https://www.forbes.com/sites/lesliekatz/2025/02/13/inside-the-viral-ai-video-of-celebrities-slamming-yes-hateful-remarks/?ss=ai",
         "body": "Le dernier dérapage de Kanye West, qui a tenu des propos antisémites, a suscité une réaction inattendue : une vidéo générée par IA, devenue virale, dans laquelle des célébrités juives le condamnent. Bien que la vidéo soit fictive, son impact est réel, avec un message fort contre l'antisémitisme. Cette affaire soulève des questions éthiques sur l'utilisation de l'IA, notamment sur la ligne floue entre la liberté d'expression et la propagation de la haine. L'incident survient alors que l'antisémitisme est en hausse dans le monde, et met en lumière le rôle potentiel de l'IA dans la lutte contre les discours de haine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ad8433b4afa0d69a4e0228/0x0.jpg?format=jpg&crop=2941,1656,x0,y52,safe&width=440",
         "date": "Thu, 13 Feb 2025 05:56:00 GMT"
+    },
+    {
+        "title": "Google lance Deep Search sur iPhone",
+        "link": "https://www.frandroid.com/marques/google/2503787_gemini-deploie-une-de-ses-meilleures-fonctions-sur-iphone",
+        "body": "Google déploie Deep Search, une nouvelle fonctionnalité d'IA sur iPhone, offrant des réponses plus approfondies et précises aux utilisateurs. Deep Search va au-delà de la correspondance de mots-clés en synthétisant des informations provenant de diverses sources, y compris du texte, des images et des PDF. Il propose un plan de recherche personnalisable, vérifie les informations et compare les sources, offrant ainsi des réponses fiables et contextualisées. Basé sur le modèle Gemini 1.5 Pro, Deep Search nécessite un abonnement Gemini Advanced et offre une expérience d'assistant IA améliorée avec des réponses documentées et vérifiées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-34.png?resize=300,300&key=93e5b090",
+        "date": "Wed, 12 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La lutte de Scarlett Johansson contre les dérives de l'IA",
+        "link": "https://www.frandroid.com/culture-tech/2504057_scarlett-johansson-repart-en-guerre-contre-lia-apres-lapparition-dun-nouveau-deepfake",
+        "body": "Scarlett Johansson, malgré elle, est devenue une figure de proue dans la lutte contre les abus de l'IA. Elle s'est récemment opposée à un deepfake utilisant son image pour s'en prendre à Kanye West. Johansson souligne les dangers de l'IA dans l'amplification des discours de haine et appelle à une régulation gouvernementale. Elle a déjà combattu l'utilisation non autorisée de son image et de sa voix dans des publicités et par des entreprises comme OpenAI. Son expérience dans le film \"Her\" reflète tristement la réalité actuelle.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/scarlett-johansson-48471749881-1200x800-1-768x512.jpeg?resize=200,200&key=96c15ff0",
+        "date": "Wed, 12 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "ChatGPT sous pression politique",
+        "link": "https://www.frandroid.com/culture-tech/2503837_sous-pression-politique-chatgpt-se-convertit-a-la-liberte-dexpression-a-la-trump",
+        "body": "Des membres de l'administration Trump accusent ChatGPT d'être de gauche, ce qui a poussé OpenAI à annoncer des changements dans les directives de son chatbot. L'entreprise souhaite s'aligner sur le principe de la liberté d'expression à l'Américaine, en s'attachant à la vérité des faits et en évitant d'imposer un point de vue. OpenAI tente de naviguer entre les critiques de Trump et celles d'Elon Musk, qui accuse l'IA de biais \"woke\" et \"politiquement corrects\". L'entreprise réaffirme ses règles contre les appels à la haine et à la violence, tout en soulignant qu'aucun sujet ne devrait être hors limite.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
+        "date": "Wed, 12 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Les limites des chatbots dans la recherche d'information",
+        "link": "https://www.frandroid.com/culture-tech/2502701_la-moitie-des-reponses-generees-par-ces-ia-seraient-fausses-ou-biaisees",
+        "body": "Une étude de la BBC révèle que la moitié des réponses fournies par des chatbots leaders du marché (ChatGPT, Gemini, Copilot, Perplexity) à des questions d'actualité contiennent des problèmes importants. Un cinquième des réponses citant du contenu BBC présentait des erreurs, et 13 % des citations étaient modifiées ou inventées. Les nouveaux modèles de raisonnement, qui affichent leurs sources, ont accru la confiance des utilisateurs, mais la prudence reste de mise. Pete Archer de la BBC souligne que les chatbots devraient permettre aux éditeurs de garder le contrôle sur l'utilisation de leur contenu. L'exemple de Perplexity, qui a prêté au média des qualificatifs non utilisés, souligne l'importance de la précision dans les réponses des IA pour éviter de fausses interprétations.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/clavier-sur-ordinateur-portable-1200x800-1-768x512.jpg?resize=200,200&key=c47cc72d",
+        "date": "Wed, 12 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Priceline nomme un nouveau CTO spécialisé en IA",
