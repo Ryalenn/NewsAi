@@ -1,5 +1,12 @@
 [
     {
+        "title": "Priceline nomme un nouveau CTO spécialisé en IA",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/02/12/priceline-has-appointed-sejal-amin-as-cto/?ss=ai",
+        "body": "Priceline, une entreprise de réservation de voyages en ligne, a nommé Sejal Amin au poste de directrice de la technologie (CTO). Sejal Amin possède plus de 25 ans d'expérience dans la direction d'équipes mondiales et la conduite de transformations numériques stratégiques. Son expertise sera mise à contribution pour faire progresser la stratégie technologique de Priceline et améliorer l'expérience de réservation de voyages de ses clients. \n\nSejal Amin a précédemment occupé le poste de CTO chez Shutterstock, où elle a dirigé l'intégration de l'IA pour revitaliser les fonctionnalités clients. Son expérience dans l'IA et l'optimisation du cloud sera particulièrement précieuse pour faire progresser les capacités de l'entreprise en matière d'IA. Priceline a investi de manière significative dans l'IA pour simplifier la réservation de voyages, en s'appuyant sur des innovations telles que Penny Voice, qui utilise l'API en temps réel d'OpenAI pour son assistant IA. \n\nL'entreprise se réjouit de la contribution de Sejal Amin à la culture de l'innovation et à la promotion de la diversité dans les postes de direction dans le domaine de la technologie des voyages.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ad1272707d1027ada96721/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Feb 2025 21:00:00 GMT"
+    },
+    {
         "title": "L'Ascension de l'IA dans l'Industrie Cinématographique",
         "link": "https://www.forbes.com/sites/charliefink/2025/02/12/the-best-star-wars-movie-in-years-is-made-with-ai/?ss=ai",
         "body": "L'article met en lumière le travail de Kavan Cardoza, un cinéaste et artiste IA qui a créé un court métrage impressionnant dans l'univers de Star Wars, \"Ghost's Apprentice\". Le court métrage, réalisé en seulement 14 jours, utilise des outils d'IA de pointe tels que Google Veo, Midjourney et Runway. Cardoza a poussé la technologie de génération de vidéos par IA à ses limites, créant des visuels spectaculaires et une narration captivante. L'auteur suggère que les studios devraient embrasser le talent de Cardoza plutôt que de tenter de le réprimer, soulignant que l'IA offre des opportunités incroyables pour les jeunes créateurs ambitieux. L'article conclut en suggérant que l'IA pourrait marquer l'aube d'une nouvelle ère pour Hollywood, avec des histoires et des visuels plus accessibles que jamais.",
@@ -19,6 +26,13 @@
         "body": "L'article explore l'évolution de l'IA et son impact sur l'avenir du travail. Il met en évidence la manière dont l'IA transforme déjà les entreprises, en particulier avec l'émergence d'agents IA spécialisés qui automatisent diverses tâches, des fonctions de vente et de marketing à l'ingénierie logicielle. L'article suggère que les gestionnaires devront bientôt superviser des équipes composées à la fois d'humains et d'agents IA, et que l'IA deviendra un membre à part entière de la main-d'œuvre, capable d'effectuer des tâches complexes et de contribuer aux résultats des organisations. Bien que les avantages de l'IA soient clairs, l'article souligne également les défis auxquels sont confrontées les entreprises, notamment la complexité de la technologie, le manque de compréhension de son potentiel et la pénurie d'experts en IA. Enfin, il est suggéré que des solutions de plateforme de type « no-code » pourraient aider les entreprises à tirer parti de l'IA sans avoir à gérer la complexité technique sous-jacente. \n\nRésumé : L'IA évolue rapidement et transforme déjà le monde du travail. Les agents IA spécialisés automatisent diverses tâches, améliorant ainsi la productivité et réduisant les coûts opérationnels. Les gestionnaires devront s'adapter à la supervision d'équipes mixtes d'humains et d'agents IA, et l'IA deviendra un membre à part entière de la main-d'œuvre. Bien que les avantages soient clairs, les entreprises doivent surmonter des défis tels que la complexité de la technologie, le manque de compréhension de son potentiel et la pénurie de talents en IA. Les solutions de plateforme « no-code » pourraient aider à surmonter ces obstacles et à accélérer l'adoption de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67aa08679b7be43abf7e172f/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Feb 2025 17:30:00 GMT"
+    },
+    {
+        "title": "Protection des mineurs en ligne",
+        "link": "https://www.theverge.com/news/610512/google-age-estimation-machine-learning#comments",
+        "body": "Google annonce son intention d'utiliser l'apprentissage automatique pour estimer l'âge de ses utilisateurs et ainsi proposer des expériences adaptées à leur âge. Cette technologie, déjà annoncée par YouTube, utilisera les données existantes des utilisateurs, telles que les sites visités et les habitudes de visionnage sur YouTube, pour déterminer leur âge. Lorsque le système détectera un utilisateur potentiellement mineur, Google ajustera ses paramètres et proposera des options de vérification d'âge. Cette initiative s'inscrit dans le cadre d'une attention accrue portée à la sécurité des enfants en ligne, avec de nouvelles lois comme KOSA, COPPA 2.0 et KOSMA, qui visent à protéger les enfants sur Internet et les réseaux sociaux. D'autres entreprises, comme Meta, utilisent également l'IA pour détecter les mineurs. De plus, Google introduit de nouvelles fonctionnalités pour aider les parents à gérer l'activité en ligne de leurs enfants, comme la limitation des appels et des notifications pendant les heures d'école.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Feb 2025 17:00:00 GMT"
     },
     {
         "title": "L'appel de Scarlett Johansson pour une réglementation de l'IA",
@@ -103,6 +117,13 @@
         "body": "Un juge américain a rejeté les arguments de défense de Ross Intelligence, une startup d'IA juridique, dans une affaire de violation de droits d'auteur intentée par Thomson Reuters. La décision, qui favorise Thomson Reuters, soulève des questions importantes sur la légalité de l'utilisation de données protégées par le droit d'auteur pour entraîner des outils d'IA. Des poursuites similaires contre OpenAI, Microsoft et d'autres entreprises majeures de l'IA sont en cours, remettant en question la défense de \"l'utilisation équitable\" des données protégées par le droit d'auteur. La décision du juge Bibas souligne l'impact de l'utilisation de matériel protégé par Ross sur la valeur du travail original, ainsi que la concurrence directe créée par l'outil. Cette affaire a des implications importantes pour l'industrie de l'IA, soulignant la nécessité de licences appropriées et de considérations éthiques lors de l'utilisation de données pour entraîner des modèles d'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 11 Feb 2025 23:58:55 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des réponses réfléchies et vérifiées",
+        "link": "https://www.frandroid.com/marques/2503787_gemini-deploie-une-de-ses-meilleures-fonctions-sur-iphone",
+        "body": "Google déploie Deep Research, une nouvelle fonctionnalité basée sur l'IA pour l'iPhone, offrant des réponses plus approfondies et contextualisées. Deep Research va au-delà de la correspondance de mots-clés en synthétisant des informations provenant de diverses sources, y compris du texte, des images et des PDF. La technologie prend un peu plus de temps, mais fournit des réponses fiables et vérifiées. Le modèle Gemini 1.5 Pro, bientôt remplacé par Gemini 2.0, permet à l'IA de réfléchir de manière plus poussée et de gérer un grand volume d'informations. L'abonnement Gemini Advanced est requis pour accéder à cette fonctionnalité, qui marque une évolution significative par rapport aux assistants basiques comme Siri, offrant des conversations plus poussées et des réponses documentées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-34.png?resize=300,300&key=93e5b090",
+        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "OpenAI présente GPT-5",
@@ -327,68 +348,5 @@
         "body": "L'article explore l'utilisation croissante des prompt-a-thons, une variante des hackathons, pour améliorer les compétences fondamentales et avancées en ingénierie des prompts, qui est essentielle pour exploiter efficacement l'IA générative et les grands modèles linguistiques. Un prompt-a-thon bien conçu et bien exécuté peut aider les utilisateurs à devenir plus compétents dans les meilleures pratiques de l'ingénierie des prompts. L'auteur partage également ses expériences personnelles dans l'organisation et la facilitation de ces événements. Les prompt-a-thons offrent un forum pour apprendre et pratiquer l'ingénierie des prompts, avec un accent sur des domaines spécifiques tels que l'utilisation de l'IA générative dans les domaines médical, financier et juridique. Ils encouragent également le réseautage et l'établissement de relations collégiales durables. L'article fournit des conseils pour choisir un prompt-a-thon, en soulignant l'importance de s'assurer que l'événement est bien structuré et pratique, et en s'assurant qu'il correspond à vos objectifs, tels que l'apprentissage de l'ingénierie des prompts ou l'application de l'IA générative au développement de prototypes de startups.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679db81d3516788dea268c7a/0x0.jpg?format=jpg&crop=1091,817,x77,y0,safe&width=440",
         "date": "Tue, 11 Feb 2025 03:23:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/610408/perplexity-f1-oracle-red-bull-racing-tiktok-stargate",
-        "body": "La course de Formule 1 est le nouveau terrain de jeu des entreprises d'IA, avec des enjeux financiers importants. La startup de recherche alimentée par l'IA, Perplexity, était sur le point de signer un contrat de parrainage avec Red Bull Racing, mais le contrat a été bloqué par Oracle, le plus grand sponsor de l'équipe, en raison de conflits d'intérêts liés à des offres concurrentes pour l'achat de TikTok et de la concurrence avec OpenAI, soutenu par Oracle. Ce blocage souligne l'intensité croissante de la course à l'IA, alors que les entreprises technologiques cherchent à s'associer à des équipes de Formule 1 et que des investissements et des parrainages importants sont en jeu.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2182160171.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "La guerre des enchères pour OpenAI",
-        "link": "https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/",
-        "body": "Sam Altman, PDG d'OpenAI, a exprimé son désaccord avec l'offre d'Elon Musk visant à acquérir le contrôle de l'entreprise. Dans une lettre au personnel, Altman a souligné que la structure d'OpenAI est conçue pour empêcher une prise de contrôle individuelle, notant que Musk dirige une entreprise concurrente d'IA. La lettre indique également que le conseil d'administration d'OpenAI, dont Altman est membre, n'a pas reçu d'offre officielle de Musk et de ses investisseurs, et qu'il prévoit de rejeter l'offre lorsqu'elle sera présentée. Les employés d'OpenAI ont réagi à la nouvelle avec inquiétude et exaspération. Un groupe d'investisseurs dirigé par Musk a fait une offre non sollicitée de 97,4 milliards de dollars pour acquérir tous les actifs d'OpenAI, ce qui a surpris l'industrie technologique. La société d'IA concurrente de Musk, xAI, et la société de capital-investissement Valor Equity Partners soutiennent l'offre. La structure complexe d'OpenAI, qui est actuellement en train de convertir sa filiale à but lucratif en société à bénéfice public, complique le processus d'acquisition. La société est valorisée à 157 milliards de dollars et est en pourparlers avec SoftBank pour un investissement potentiel de 40 milliards de dollars, ce qui porterait sa valorisation à 300 milliards de dollars. Le conseil d'administration d'OpenAI, bien qu'il n'ait pas l'obligation de maximiser les rendements pour les investisseurs, a le devoir de négocier une valorisation raisonnable pour poursuivre les objectifs à but non lucratif de l'entreprise.",
-        "image": "",
-        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Un nouvel élan pour les réseaux sociaux grâce à l'IA éthique",
-        "link": "https://www.theverge.com/news/610269/buzzfeed-social-media-platform-launch#comments",
-        "body": "BuzzFeed prévoit de lancer une nouvelle plateforme sociale qui se veut une \"oasis à l'abri du défilement compulsif alimenté par les algorithmes\". La plateforme utilisera l'IA pour redonner le contrôle aux utilisateurs, contrairement aux pratiques actuelles des géants des médias sociaux. Le PDG de BuzzFeed, Jonah Peretti, critique l'utilisation de l'IA par des plateformes comme Meta et TikTok, qui favorisent le contenu suscitant des réponses compulsives et prévisibles. Il décrit ce contenu comme \"SNARF\" (Stakes, Novelty, Anger, Retention, Fear), qui manipule les utilisateurs avec des tactiques addictives. En réponse, BuzzFeed lance une plateforme qui utilise l'IA de manière éthique pour promouvoir la créativité, la connexion et le contenu joyeux, offrant ainsi une alternative à l'environnement actuel des médias sociaux, qui est souvent jugé addictif et préjudiciable.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/buzzfeed-island.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/02/10/musk-vs-altman-value-and-reality-of-open-ai/?ss=ai",
-        "body": "Elon Musk a fait une offre de 97,4 milliards de dollars pour le rachat d'OpenAI. Sam Altman a rapidement rejeté l'offre, affirmant qu'il préférerait acheter Twitter pour une fraction du prix. L'article souligne que les investissements dans l'IA atteignent un nouveau niveau de spéculation, avec des entreprises qui lèvent des fonds uniquement sur la base du battage médiatique. DeepSeek est présenté comme un nouveau concurrent d'OpenAI, remettant en question sa position de leader dans le domaine de l'IA. L'auteur suggère que l'offre de Musk pourrait indiquer que le partenariat entre Microsoft et OpenAI touche à sa fin, et que Microsoft pourrait se concentrer sur les applications d'IA plutôt que sur la recherche de pointe. La course à l'IA s'intensifie, avec des acteurs majeurs se positionnant pour dominer le marché.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa7ee29a0e8f16e9f0fd28/0x0.jpg?format=jpg&crop=3873,1816,x0,y380,safe&width=440",
-        "date": "Tue, 11 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Google I/O 2025 : les nouveautés IA au cœur de l'événement",
-        "link": "https://www.frandroid.com/events/google-io/2502235_google-i-o-2025-une-date-un-programme-et-les-nouveautes-que-lon-attend",
-        "body": "Google a annoncé les dates de sa conférence annuelle I/O, qui se tiendra les 20 et 21 mai 2025 au Shoreline Amphitheater de Mountain View. L'IA sera au centre des discussions, avec notamment la présentation de Gemini, l'IA de Google intégrée à Android XR pour la réalité mixte. Android 16 et l'Assistant Google, qui devrait gagner en puissance, seront également à l'honneur. Sundar Pichai, CEO de Google, assurera la keynote d'ouverture. L'événement sera accessible en ligne pour les développeurs et passionnés de tech.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-28-7-1200x678-1-768x434.jpg?resize=170,170&key=358a060b",
-        "date": "Mon, 10 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'engagement d'EDF envers l'IA",
-        "link": "https://www.frandroid.com/culture-tech/2501119_edf-veut-accueillir-les-besoins-des-geants-de-lia",
-        "body": "Le président français Emmanuel Macron a annoncé un investissement important dans le développement de l'IA en France. EDF, le géant de l'énergie, cherche à attirer les acteurs de la tech en leur proposant des tarifs préférentiels et des sites pour les data centers. EDF met en avant son électricité abondante et bas carbone, mais devra gérer la forte consommation énergétique de l'IA. L'entreprise semble bien positionnée pour le moment, avec une production excédentaire et des exportations vers l'Europe.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nucleaire-1200x675-1-768x432.jpg?resize=169,169&key=bbc81774",
-        "date": "Mon, 10 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La riposte de Bouygues Telecom",
-        "link": "https://www.frandroid.com/marques/bouygues-telecom/2501101_bouygues-telecom-repond-a-free-le-meilleur-service-dia-offert-pendant-12-mois",
-        "body": "Bouygues Telecom contre-attaque face à Free Mobile en offrant à ses abonnés mobile et fixe un abonnement d'un an à Perplexity Pro, un moteur de recherche puissant qui combine la recherche web traditionnelle, l'IA générative et la logique mathématique. Perplexity Pro, habituellement proposé à 22 euros par mois, permet d'accéder à des modèles avancés d'IA comme GPT-40 et Deepseek, ainsi qu'à des fonctionnalités de génération d'images et de traitement de langage naturel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/bouygues-telecom-ia-768x470.jpg?resize=184,184&key=c106c846",
-        "date": "Mon, 10 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Elon Musk veut acheter OpenAI",
-        "link": "https://www.frandroid.com/culture-tech/2500687_elon-musk-peut-il-vraiment-racheter-openai-pour-100-milliards-de-dollars",
-        "body": "Elon Musk a proposé d'acheter OpenAI, la société mère de ChatGPT, pour 100 milliards de dollars. Il souhaite fusionner OpenAI avec sa propre entreprise d'IA, xAI, qui développe le chatbot Grok. Cependant, le PDG d'OpenAI, Sam Altman, a décliné l'offre, soulignant que l'entreprise n'est pas à vendre. La structure d'OpenAI, qui est actuellement en train de passer du statut d'entreprise à but non lucratif à une entreprise traditionnelle, complique également la proposition de Musk. Microsoft, avec un financement important dans OpenAI, est un autre facteur à considérer. La tentative d'acquisition soulève des questions sur la concurrence et l'accès de Musk à la Maison Blanche.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
-        "date": "Mon, 10 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La guerre des enchères pour OpenAI",
-        "link": "https://www.theverge.com/news/609685/elon-musk-openai-purchase-offer#comments",
-        "body": "Elon Musk a annoncé une offre de 97,4 milliards de dollars pour racheter la branche à but non lucratif d'OpenAI, dans le but de ramener l'organisation à sa mission d'origine : développer l'IA en toute sécurité et en open source. Cette offre intervient à un moment crucial pour OpenAI, qui est déjà en pleine restructuration vers un modèle à but lucratif, avec des investissements et des projets d'infrastructure massifs. La proposition de Musk complique la transition d'OpenAI vers le secteur à but lucratif, son équipe s'engageant à égaler ou à surpasser toute offre supérieure. Cela crée une situation délicate pour le PDG d'OpenAI, Sam Altman, qui négocie déjà avec Microsoft et d'autres parties prenantes. La réponse d'Altman a été de proposer d'acheter Twitter pour 9,74 milliards de dollars, soulignant ainsi l'intensité de leur rivalité.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Mon, 10 Feb 2025 21:24:07 GMT"
     }
 ]
