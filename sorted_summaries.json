@@ -28,6 +28,13 @@
         "date": "Thu, 13 Feb 2025 05:56:00 GMT"
     },
     {
+        "title": "Réinventer la découverte de médicaments grâce à l'IA",
+        "link": "https://www.forbes.com/sites/davidprosser/2025/02/12/how-latent-labs-plans-to-create-medicines-from-scratch-with-ai/?ss=ai",
+        "body": "Titre : Réinventer la découverte de médicaments avec l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ac73e9f22d1ed288dfd8dc/0x0.jpg?format=jpg&crop=2100,984,x0,y301,safe&width=440",
+        "date": "Thu, 13 Feb 2025 00:00:00 GMT"
+    },
+    {
         "title": "Microsoft et les écueils de la traduction automatique",
         "link": "https://www.frandroid.com/marques/2504173_dois-je-me-faire-sauter-letrange-publicite-de-microsoft-pour-copilot",
         "body": "Microsoft a automatisé la traduction de l'anglais vers le français dans ses produits, ce qui a entraîné des erreurs de traduction embarrassantes. La dernière en date concerne une publicité pour son IA Copilot, où la phrase \"Should I get bangs?\" a été traduite par \"Dois-je me faire sauter ?\" au lieu de \"Dois-je me faire une frange ?\". Cette erreur soulève des questions sur la fiabilité des outils de traduction automatique de Microsoft et suggère que l'entreprise devrait investir dans des traducteurs humains pour éviter de tels incidents à l'avenir.",
@@ -75,6 +82,13 @@
         "body": "L'article met en lumière le travail de Kavan Cardoza, un cinéaste et artiste IA qui a créé un court métrage impressionnant dans l'univers de Star Wars, \"Ghost's Apprentice\". Le court métrage, réalisé en seulement 14 jours, utilise des outils d'IA de pointe tels que Google Veo, Midjourney et Runway. Cardoza a poussé la technologie de génération de vidéos par IA à ses limites, créant des visuels spectaculaires et une narration captivante. L'auteur suggère que les studios devraient embrasser le talent de Cardoza plutôt que de tenter de le réprimer, soulignant que l'IA offre des opportunités incroyables pour les jeunes créateurs ambitieux. L'article conclut en suggérant que l'IA pourrait marquer l'aube d'une nouvelle ère pour Hollywood, avec des histoires et des visuels plus accessibles que jamais.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ad07ae8f86af5aa1a6293a/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Feb 2025 20:57:00 GMT"
+    },
+    {
+        "title": "La feuille de route de OpenAI",
+        "link": "https://www.theverge.com/news/611365/openai-gpt-4-5-roadmap-sam-altman-orion",
+        "body": "Le PDG de OpenAI, Sam Altman, a partagé une feuille de route détaillant les plans de l'entreprise pour ses modèles d'IA GPT-4.5 et GPT-5. GPT-4.5, connu en interne sous le nom de Orion, sera le dernier modèle non-chaîne de pensée de l'entreprise. Après cela, OpenAI vise à unifier les modèles o-series et GPT-series en créant des systèmes polyvalents et adaptables. L'entreprise prévoit également d'intégrer sa technologie o3 dans GPT-5, offrant ainsi un accès illimité aux utilisateurs gratuits de ChatGPT. Les abonnés Plus et Pro auront accès à des niveaux d'intelligence plus élevés. La sortie de GPT-4.5 et GPT-5 est prévue pour les semaines/mois à venir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Feb 2025 20:02:59 GMT"
     },
     {
         "title": "L'IA, compagnon essentiel des astronautes",
@@ -166,6 +180,13 @@
         "body": "L'article souligne l'importance de définir clairement l'intelligence artificielle générale (AGI) pour s'assurer que les efforts et les progrès dans le domaine de l'IA soient alignés avec les attentes de la société. Il explore les définitions de l'AGI proposées par Sam Altman, PDG d'OpenAI, et d'autres, et souligne comment les définitions vagues peuvent conduire à des interprétations et à des attentes variables. L'auteur suggère que la définition de l'AGI devrait être ambitieuse et complète, englobant à la fois l'intelligence étroite et générale, et alignée sur les capacités humaines dans tous les domaines. La discussion met en évidence les implications de définitions plus souples, qui pourraient conduire à des revendications prématurées de réalisation de l'AGI, et souligne l'importance d'établir des objectifs clairs pour guider le développement de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ac0c759f1e9815c389ae24/0x0.jpg?format=jpg&crop=1560,1170,x97,y0,safe&width=440",
         "date": "Wed, 12 Feb 2025 03:01:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : directives éthiques et pragmatisme",
+        "link": "https://www.theverge.com/openai/611375/openai-chatgpt-model-spec-controversial-topics#comments",
+        "body": "OpenAI publie une version étendue de son \"Model Spec\", un document définissant le comportement attendu de ses modèles d'IA, avec un focus sur la customisation, la transparence et la liberté intellectuelle. Ce document de 63 pages aborde des sujets controversés tels que la gestion de sujets sensibles, la propriété intellectuelle, la prévention du harcèlement et la promotion de discussions ouvertes et sans restrictions arbitraires. L'article souligne l'importance de trouver un équilibre entre la transformation de contenus sensibles et la création de nouveaux contenus, tout en montrant de l'empathie sans feindre des émotions. Le document aborde également le problème de la \"flagornerie de l'IA\", où les modèles ont tendance à être trop d'accord. ChatGPT devrait désormais fournir les mêmes réponses factuelles indépendamment de la formulation de la question, donner des retours honnêtes et agir comme un collègue réfléchi plutôt que comme un flatteur. OpenAI sollicite également des commentaires publics sur le document, reconnaissant que de nombreux sujets sont complexes et nuancés.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Feb 2025 00:00:00 GMT"
     },
     {
         "title": "La guerre des enchères",
@@ -327,68 +348,5 @@
         "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot IA plus accessibles au grand public. L'étude de la BBC sur la précision des résumés de nouvelles créés par l'IA a révélé des problèmes importants, notamment des inexactitudes et des distorsions. ChatGPT de OpenAI, Copilot de Microsoft et Gemini de Google sont au cœur de l'attention, avec de nouvelles fonctionnalités et une plus grande accessibilité. Meta, DeepSeek et d'autres entreprises lancent également de nouvelles fonctionnalités d'IA, tandis que Nvidia annonce un nouveau kit de développement pour l'informatique AI. L'industrie de l'IA est en plein essor, avec des investissements importants et une course à la création d'applications pratiques.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 11 Feb 2025 15:54:06 GMT"
-    },
-    {
-        "title": "La puissance de l'IA",
-        "link": "https://www.forbes.com/sites/chuckbrooks/2025/02/11/4-key-considerations-for-business-leaders-to-address-ai-driven-threats/?ss=ai",
-        "body": "L'IA transforme non seulement les entreprises, mais a également un impact significatif sur la cybersécurité. Si l'IA améliore l'identification et l'analyse automatisée des menaces en temps réel, les cybercriminels l'utilisent également, ainsi que l'apprentissage automatique, pour lancer des attaques plus efficaces. Deux aspects sont à considérer : l'automatisation et l'accélération des cyberattaques, et la création de contenus faux mais réalistes (deepfakes). Les entreprises doivent donc évaluer les risques liés à l'IA, comprendre comment elle pourrait être utilisée contre elles et renforcer leur cybersécurité en conséquence. Les dirigeants doivent accorder la priorité à la cybersécurité, en investissant dans des outils de cybersécurité assistés par l'IA et en formant leur personnel à identifier les risques liés à l'IA. De plus, une culture de la cybersécurité doit être instaurée, avec une sensibilisation aux dangers potentiels des outils d'IA. Enfin, les entreprises doivent rester au fait des évolutions technologiques et des menaces émergentes pour se protéger efficacement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/65136ef7b8c1e7036890dde4/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 15:08:00 GMT"
-    },
-    {
-        "title": "La bataille des géants de l'IA",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/02/11/chatgpt-deepseek-and-the-ai-race-which-model-is-right-for-you-in-2025/?ss=ai",
-        "body": "DeepSeek, une nouvelle application d'IA, est devenue l'application gratuite la plus téléchargée aux États-Unis une semaine seulement après son lancement, surpassant ainsi ChatGPT. Cet article compare les forces relatives de ChatGPT et DeepSeek, deux modèles d'IA dominants. ChatGPT excelle dans la création de contenu créatif et engageant, et peut même être formé pour écrire avec la voix de l'utilisateur. DeepSeek, quant à lui, est plus performant dans les domaines techniques, comme la documentation de codage ou les explications scientifiques. Dans les tâches de recherche, ChatGPT se distingue par son interprétation et son raisonnement subjectif, tandis que DeepSeek offre des réponses structurées et des illustrations visuelles. Les deux modèles sont utiles pour la génération d'idées, ChatGPT étant associé à des tâches créatives et DeepSeek à des compétences techniques. DeepSeek est également salué pour son modèle open source, offrant flexibilité et transparence aux développeurs. Avec de nouveaux acteurs entrant sur le marché de l'IA, les utilisateurs peuvent s'attendre à des outils plus compétitifs et accessibles.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab6646dc8bd862a2795a51/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Retour et revente optimisés",
-        "link": "https://www.forbes.com/sites/dennismitzner/2025/02/11/ai-is-transforming-e-commerce-returns-cutting-costs-and-improving-efficiency/?ss=ai",
-        "body": "L'IA révolutionne la gestion des retours dans le commerce électronique, améliorant l'efficacité, réduisant les coûts et augmentant la durabilité. En collectant des données détaillées (images, vidéos, historique d'achat) au moment du retour, l'IA prend des décisions instantanées, réduisant le recours aux agents de service client. Elle optimise également l'acheminement des retours, réduisant ainsi les étapes de transport et de traitement inutiles. L'IA assiste les opérateurs d'entrepôts dans le tri et l'évaluation des articles, réduisant considérablement les délais de traitement. Les entreprises Renow, Gain, Onebeat et ReturnGO utilisent l'IA pour rationaliser la gestion des retours, prédire et prévenir les retours, et optimiser la gestion des stocks. L'IA permet d'évaluer l'état des produits, d'analyser les modèles de retour, de suivre les commentaires des clients et d'évaluer la demande du marché en temps réel, ce qui permet aux détaillants de prendre des décisions rentables. L'IA améliore la précision des descriptions de produits et permet une tarification dynamique des articles de revente. Le marché de l'optimisation des retours se développe, et des entreprises comme Daze se concentrent sur des modèles commerciaux durables et une efficacité améliorée. L'IA transforme les retours coûteux en opportunités de rentabilité, d'efficacité et de durabilité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ab00fa2515c026dea866e1/0x0.jpg?format=jpg&crop=2394,1347,x0,y123,safe&width=440",
-        "date": "Tue, 11 Feb 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : OpenAI, ChatGPT et au-delà",
-        "link": "https://www.theverge.com/the-vergecast/609956/chatgpt-operator-deep-research-tasks-doge-coup-vergecast#comments",
-        "body": "Dans le dernier épisode du Vergecast, les animateurs discutent des dernières avancées d'OpenAI avec ChatGPT, y compris les nouvelles fonctionnalités Tasks, Operator et Deep Research. Ils explorent l'expérience utilisateur, les avantages et les inconvénients, et notent la lenteur du système. Kylie Robison du Verge partage ses impressions sur ces nouvelles fonctionnalités. L'épisode comprend également une mise à jour sur Elon Musk et la prise de contrôle de DOGE au gouvernement américain, soulignant l'impact potentiel sur les réglementations et les conséquences pour Musk. Enfin, l'équipe répond à une question sur la diffusion du Super Bowl, avec des réflexions sur la qualité de la diffusion et les améliorations souhaitées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/VRG_VST_0211_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 13:56:59 GMT"
-    },
-    {
-        "title": "L'Europe investit massivement dans l'IA",
-        "link": "https://www.theverge.com/news/609930/eu-200-billion-investment-ai-development",
-        "body": "L'Union européenne prévoit d'investir 200 milliards d'euros dans le domaine de l'intelligence artificielle, afin de concurrencer les États-Unis et la Chine. La présidente de la Commission européenne, Ursula von der Leyen, a annoncé un investissement supplémentaire de 50 milliards d'euros, s'ajoutant aux 150 milliards déjà promis par des investisseurs privés dans le cadre de l'European AI Champions Initiative. L'objectif est de faire de l'Europe l'un des leaders mondiaux en IA, en adoptant une approche éthique et coopérative. Cet investissement sera utilisé pour construire des infrastructures de pointe pour l'entraînement de modèles IA complexes. L'UE a été l'une des premières puissances mondiales à réglementer l'IA avec l'AI Act. Cet investissement massif vise à rattraper le retard sur les États-Unis et la Chine en matière d'infrastructure IA avancée, suite à la sortie de chatbots populaires comme ChatGPT et DeepSeek.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK414_AI_CHATBOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 13:17:59 GMT"
-    },
-    {
-        "title": "L'avenir du commerce électronique et du SaaS : l'optimisation pour les agents IA",
-        "link": "https://www.forbes.com/sites/darpanmunjal/2025/02/11/ai-agents-are-here-how-businesses-must-adapt-to-stay-competitive/?ss=ai",
-        "body": "L'article explore l'impact potentiel des agents IA sur l'avenir du commerce électronique et des entreprises SaaS. Il souligne comment les entreprises intégrant déjà des agents IA améliorent leur efficacité et leur optimisation. Alors que la technologie des agents évolue rapidement, les entreprises de commerce électronique et de SaaS doivent s'adapter pour rester compétitives. L'optimisation de la manière dont les produits sont présentés deviendra essentielle pour garantir que les agents IA peuvent facilement découvrir les options pertinentes. Les entreprises qui anticipent ces changements et optimisent leurs fonctions de recherche et de découverte seront en avance sur la concurrence. L'article souligne également l'importance de l'optimisation agentique, qui consiste à améliorer les places de marché pour offrir des informations statiques et pour interagir de manière dynamique et collaborative avec les agents IA. Les entreprises doivent fournir une classification et un filtrage approfondis des produits, ainsi que des balises et des descriptions qui répondent aux invites agentiques et correspondent au langage naturel utilisé par les clients. De plus, l'optimisation du code et la résolution des problèmes potentiels liés à l'accès des agents IA sont essentielles pour garantir une navigation fluide. Les entreprises doivent également distinguer les IA autorisées des IA malveillantes et créer des sites Web, des contenus et des fonctionnalités de recherche qui conviennent à la fois aux clients humains et aux agents IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa8c61883545dae0364bb1/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Future AGI lève des fonds pour améliorer la précision et la fiabilité de l'IA",
-        "link": "https://www.forbes.com/sites/davidprosser/2025/02/11/holding-ai-applications-to-account-with-future-agi/?ss=ai",
-        "body": "Future AGI, une startup de San Francisco, annonce un financement de pré-amorçage de 1,6 million de dollars pour développer sa plateforme d'évaluation et d'optimisation de l'IA. La plateforme automatise l'évaluation des résultats des modèles IA (texte, image) et itère pour affiner et améliorer leur fiabilité. La société, fondée par Nikhil Pareek et Charu Gupta, vise à accélérer le temps de mise sur le marché des applications IA en fournissant une couche de données qui surveille, évalue et améliore les systèmes IA. Future AGI se distingue de ses concurrents (Arize AI, Galileo AI, etc.) en identifiant les causes profondes des problèmes et en fournissant des recommandations d'amélioration. La société travaille avec des clients dans le commerce de détail et les industries créatives, et vise à atteindre 1 million de dollars de revenus d'ici la fin de l'année.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa47984787da64c26994c5/0x0.jpg?format=jpg&crop=3413,1599,x0,y335,safe&width=440",
-        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Déployer une main-d'œuvre IA pour stimuler la croissance de votre entreprise",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/02/11/5-ways-to-use-an-ai-agent-to-grow-your-business/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67a9b496226f3a518c09fb29/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA durable et éthique",
-        "link": "https://www.forbes.com/sites/digital-assets/2025/02/11/blockchain-proven-content-and-nvidia-alternative-check-out-crowdgenai/?ss=ai",
-        "body": "CrowdGenAI, une start-up innovante présentée au Forum économique mondial de Davos, propose une approche révolutionnaire de l'IA en utilisant des clusters CPU optimisés au lieu des GPU Nvidia dominants sur le marché. Cette approche réduit considérablement les coûts et la consommation d'énergie, tout en offrant une alternative durable et éthique aux défis actuels de l'IA. La technologie de CrowdGenAI permet de distribuer les charges de travail de l'IA sur des clusters CPU standard, rendant l'entraînement de l'IA plus accessible et efficace. De plus, leur système TraceID, basé sur la blockchain, garantit la propriété et la traçabilité des données, abordant ainsi les problèmes de désinformation et de propriété intellectuelle. Cette approche perturbe le paradigme GPU de Nvidia, offrant un avenir plus durable et transparent à l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aaa0807578a44c7260242f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 13:00:00 GMT"
     }
 ]
