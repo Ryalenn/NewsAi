@@ -1,5 +1,12 @@
 [
     {
+        "title": "Lutte contre les abus liés à l'IA",
+        "link": "https://www.commerce.senate.gov/2025/1/sens-cruz-klobuchar-reps-salazar-dean-continue-fight-to-pass-take-it-down-act",
+        "body": "Les sénateurs américains Ted Cruz et Amy Klobuchar ont présenté un projet de loi bipartite, le TAKE IT DOWN Act, qui criminaliserait la publication d'images à caractère sexuel sans consentement, y compris les deepfakes générés par l'IA. Le projet de loi exige que les plateformes suppriment ces images dans les 48 heures suivant la notification. Le TAKE IT DOWN Act a reçu le soutien de plus de 100 organisations, y compris des groupes de défense des victimes, des représentants de la loi et des leaders de l'industrie technologique. Le projet de loi vise à protéger les victimes d'abus sexuels en ligne et à responsabiliser les plateformes en ligne. Il est co-parrainé par un groupe bipartite de sénateurs et soutenu par de grandes entreprises technologiques, telles que Snap, Google, Microsoft, Meta et TikTok. Le RAINN, le plus grand réseau national de lutte contre la violence sexuelle, a également appelé à l'adoption rapide de ce projet de loi.",
+        "image": "",
+        "date": "Thu, 13 Feb 2025 21:57:33 GMT"
+    },
+    {
         "title": "L'avenir de l'IA dans les affaires",
         "link": "https://www.forbes.com/sites/johnwerner/2025/02/13/111-ways-ai-drives-return-on-investment/?ss=ai",
         "body": "L'article met en lumière l'impact de l'IA sur les entreprises et la manière dont les entrepreneurs et les dirigeants peuvent l'exploiter. L'IA transforme les entreprises à travers deux piliers fondamentaux : l'engagement et la production. L'engagement comprend les ventes, le service client et l'interaction avec le public cible, tandis que la production se concentre sur la productivité, l'efficacité et les capacités des employés. Les applications de l'IA dans ces domaines améliorent l'efficacité et la prise de décision. Les experts soulignent l'importance d'une conception centrée sur l'humain, où l'IA assiste les employés plutôt qu'elle ne les remplace. De plus, la valeur de l'expérimentation et de la création de prototypes avec l'IA est soulignée, permettant aux entreprises de prévoir les résultats et d'optimiser leurs processus. Andrew Ng, lors d'une conférence à Davos, a partagé ses idées sur l'utilisation de l'IA pour améliorer l'analyse des prix, la conformité juridique et la rentabilité. L'article conclut en soulignant l'importance de la conception et de la compréhension de l'évolution du paysage concurrentiel pour garantir que l'IA apporte une valeur durable aux entreprises.",
@@ -49,11 +56,25 @@
         "date": "Thu, 13 Feb 2025 17:00:00 GMT"
     },
     {
+        "title": "Veo 2 sur YouTube",
+        "link": "https://www.theverge.com/news/612031/youtube-ai-generated-video-shorts-veo-2-dream-screen",
+        "body": "Google intègre son modèle vidéo Veo 2 à l'outil Dream Screen de YouTube pour Shorts. Cette fonctionnalité expérimentale permet aux créateurs de générer des clips vidéo autonomes à l'aide de l'IA, qui peuvent ensuite être ajoutés à des Shorts. Dream Screen, lancé en septembre 2023, génère déjà des images et des vidéos basées sur des descriptions textuelles, mais celles-ci étaient auparavant limitées aux arrière-plans de type écran vert. La nouvelle fonctionnalité de génération de clips est désormais accessible aux utilisateurs de Dream Screen via l'appareil photo Shorts, en sélectionnant \"Créer\" dans le sélecteur de médias. Les utilisateurs peuvent entrer une description textuelle et choisir un style, un effet cinématographique, une longueur de vidéo et un objectif. YouTube prévoit de déployer cette fonctionnalité aux États-Unis, au Canada, en Australie et en Nouvelle-Zélande, avec une expansion future prévue. L'intégration de Veo 2 améliore la vitesse et la qualité de la génération vidéo, tout en ajoutant des étiquettes visuelles et des filigranes SynthID invisibles pour identifier le contenu créé ou modifié par l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 13 Feb 2025 15:07:24 GMT"
+    },
+    {
         "title": "La menace des robots footballeurs",
         "link": "https://www.forbes.com/sites/dimitarmixmihov/2025/02/13/dont-expect-googles-deepmind-robots-at-the-fifa-world-cup-anytime-soon/?ss=ai",
         "body": "Bien que les robots et l'IA puissent menacer certains emplois, les stars du football comme Cristiano Ronaldo et Lionel Messi n'ont probablement rien à craindre, du moins pour l'instant. DeepMind, le laboratoire de recherche en IA de Google, a récemment publié un article sur l'apprentissage par renforcement profond, dans lequel des robots humanoïdes miniatures jouent au football. L'objectif était de tester l'efficacité de cette méthode d'apprentissage pour enseigner aux robots des compétences motrices sophistiquées et des stratégies comportementales complexes à faible coût. Les robots ont appris des compétences telles que la récupération après une chute, la marche, le pivotement et le coup de pied, ainsi que la transition fluide entre les mouvements. Ils ont également développé une compréhension des dynamiques du jeu, en anticipant les mouvements du ballon et en bloquant les tirs. Bien que cette expérience soit prometteuse, DeepMind souligne que le prochain défi consistera à faire s'affronter des équipes de robots, puis à les faire jouer en utilisant uniquement leurs capteurs intégrés, sans système de capture de mouvement externe. Malgré les investissements de Google, Apple et Tesla dans le domaine des robots humanoïdes, il semble que nous soyons encore loin de voir des robots participer à la Coupe du Monde de la FIFA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ae01d4f01d4516b93efe87/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 13 Feb 2025 15:00:00 GMT"
+    },
+    {
+        "title": "Apple s'associe à Alibaba pour apporter l'intelligence Apple aux iPhones en Chine",
+        "link": "https://www.theverge.com/news/611992/apple-intelligence-ai-china-alibaba-iphone#comments",
+        "body": "Apple s'associe à Alibaba pour intégrer des fonctionnalités d'intelligence artificielle aux iPhones en Chine. Les fonctionnalités Apple Intelligence n'étant pas encore disponibles dans le pays, cela a probablement contribué au déclin des ventes de smartphones de l'entreprise. Alibaba a déclaré qu'Apple avait choisi de collaborer avec eux pour utiliser leur technologie IA et alimenter les iPhones. Bien que l'annonce donne un aperçu du choix d'Apple, d'autres partenariats avec des entreprises technologiques chinoises comme Tencent, ByteDance et DeepSeek sont toujours possibles. Apple travaille également avec Baidu sur des fonctionnalités de recherche IA et sur l'amélioration de Siri en chinois. En dehors de la Chine, Apple Intelligence utilise une combinaison de technologies propriétaires et de ChatGPT d'OpenAI, qui n'est pas disponible en Chine. Apple et Alibaba ont soumis les documents nécessaires aux régulateurs pour approbation. Les ventes d'iPhones en Chine ont diminué, Apple ayant perdu la première place au quatrième trimestre 2024 au profit de Huawei et de Xiaomi. Les analystes attribuent ce retard au manque de fonctionnalités IA sur les iPhones en Chine.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 13 Feb 2025 14:05:07 GMT"
     },
     {
         "title": "L'IA révolutionne l'industrie de l'assurance",
@@ -131,6 +152,13 @@
         "body": "Une étude de la BBC révèle que la moitié des réponses fournies par des chatbots leaders du marché (ChatGPT, Gemini, Copilot, Perplexity) à des questions d'actualité contiennent des problèmes importants. Un cinquième des réponses citant du contenu BBC présentait des erreurs, et 13 % des citations étaient modifiées ou inventées. Les nouveaux modèles de raisonnement, qui affichent leurs sources, ont accru la confiance des utilisateurs, mais la prudence reste de mise. Pete Archer de la BBC souligne que les chatbots devraient permettre aux éditeurs de garder le contrôle sur l'utilisation de leur contenu. L'exemple de Perplexity, qui a prêté au média des qualificatifs non utilisés, souligne l'importance de la précision dans les réponses des IA pour éviter de fausses interprétations.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/clavier-sur-ordinateur-portable-1200x800-1-768x512.jpg?resize=200,200&key=c47cc72d",
         "date": "Wed, 12 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : directives éthiques et pragmatisme",
+        "link": "https://www.theverge.com/openai/611375/openai-chatgpt-model-spec-controversial-topics#comments",
+        "body": "OpenAI publie une version étendue de son \"Model Spec\", un document définissant le comportement de ses modèles d'IA, avec un accent sur la personnalisation, la transparence et la liberté intellectuelle. La nouvelle spécification de 63 pages aborde des sujets controversés, des problèmes éthiques et l'exploration d'idées sans restrictions arbitraires. La mise à jour coïncide avec l'annonce du PDG Sam Altman d'un nouveau modèle, GPT-4.5 (Orion), et inclut des débats éthiques actuels en IA. OpenAI vise à gérer les réponses du modèle à des questions complexes, comme les problèmes du tramway, et à encourager une exploration pragmatique des sujets controversés tout en maintenant des limites claires en matière de désinformation et de contenu nuisible. La spécification aborde également la gestion du contenu pour adultes, l'empathie et la définition de limites tout en maximisant l'utilité. Ces directives reflètent une approche pragmatique de la gestion du contenu sensible. OpenAI cible également le problème de la \"flagornerie de l'IA\", encourageant des réponses réfléchies et honnêtes plutôt qu'une simple complaisance. La spécification introduit une chaîne de commandement claire pour les instructions et est publiée sous licence Creative Commons Zero, permettant aux autres de l'adopter et de la modifier librement.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Feb 2025 21:00:00 GMT"
     },
     {
         "title": "Priceline nomme un nouveau CTO spécialisé en IA",
@@ -243,96 +271,5 @@
         "body": "L'article souligne l'importance de définir clairement l'intelligence artificielle générale (AGI) pour s'assurer que les efforts et les progrès dans le domaine de l'IA soient alignés avec les attentes de la société. Il explore les définitions de l'AGI proposées par Sam Altman, PDG d'OpenAI, et d'autres, et souligne comment les définitions vagues peuvent conduire à des interprétations et à des attentes variables. L'auteur suggère que la définition de l'AGI devrait être ambitieuse et complète, englobant à la fois l'intelligence étroite et générale, et alignée sur les capacités humaines dans tous les domaines. La discussion met en évidence les implications de définitions plus souples, qui pourraient conduire à des revendications prématurées de réalisation de l'AGI, et souligne l'importance d'établir des objectifs clairs pour guider le développement de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ac0c759f1e9815c389ae24/0x0.jpg?format=jpg&crop=1560,1170,x97,y0,safe&width=440",
         "date": "Wed, 12 Feb 2025 03:01:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : directives éthiques et pragmatisme",
-        "link": "https://www.theverge.com/openai/611375/openai-chatgpt-model-spec-controversial-topics#comments",
-        "body": "OpenAI publie une version étendue de son \"Model Spec\", un document définissant le comportement attendu de ses modèles d'IA, avec un focus sur la customisation, la transparence et la liberté intellectuelle. Ce document de 63 pages aborde des sujets controversés tels que la gestion de sujets sensibles, la propriété intellectuelle, la prévention du harcèlement et la promotion de discussions ouvertes et sans restrictions arbitraires. L'article souligne l'importance de trouver un équilibre entre la transformation de contenus sensibles et la création de nouveaux contenus, tout en montrant de l'empathie sans feindre des émotions. Le document aborde également le problème de la \"flagornerie de l'IA\", où les modèles ont tendance à être trop d'accord. ChatGPT devrait désormais fournir les mêmes réponses factuelles indépendamment de la formulation de la question, donner des retours honnêtes et agir comme un collègue réfléchi plutôt que comme un flatteur. OpenAI sollicite également des commentaires publics sur le document, reconnaissant que de nombreux sujets sont complexes et nuancés.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 12 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "La guerre des enchères",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/11/the-prompt-artists-want-to-shut-down-ai-art-auction/?ss=ai",
-        "body": "Elon Musk propose d'acheter la branche à but non lucratif d'OpenAI pour 97,4 milliards de dollars, ce que le PDG Sam Altman refuse rapidement. Altman cherche à restructurer OpenAI en une entreprise à but lucratif, ce qui soulève des questions sur la valeur de l'entreprise et la participation de ses membres du conseil d'administration. Pendant ce temps, Thomson Reuters remporte un procès pour violation de droit d'auteur contre la startup Ross Intelligence, remettant en question les pratiques de formation des startups d'IA. Des milliers d'artistes s'opposent à une vente aux enchères prévue par Christie's, intitulée \"Augmented Intelligence\", qui vendrait des œuvres d'art créées avec des outils d'IA, citant des préoccupations éthiques et des violations de droits d'auteur. La vente aux enchères suscite des critiques de la part de leaders du secteur, qui soulignent les questions éthiques entourant l'utilisation d'outils d'IA formés sur des œuvres d'art sous droit d'auteur.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67abe0f1579d5fabfe56d976/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 12 Feb 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'essor des chatbots basés sur l'IA et les modèles linguistiques massifs",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbots basées sur l'IA plus accessibles au grand public. Ces outils d'IA, comme Copilot, Gemini et GPT-4, utilisent l'apprentissage automatique pour analyser les propriétés statistiques du langage et faire des prédictions. Cependant, ils peuvent également présenter des informations fausses comme vraies, car ils n'ont pas de base de données de « faits » codée en dur. Des poursuites judiciaires concernant l'utilisation de données protégées par le droit d'auteur pour entraîner ces outils sont en cours. Des recherches de la BBC ont révélé que les chatbots luttent contre les inexactitudes et les distorsions factuelles lors de la synthèse des nouvelles. Des entreprises comme OpenAI, Google et Meta introduisent de nouvelles fonctionnalités et améliorations pour leurs chatbots, les rendant plus compétitifs sur le marché des moteurs de recherche. L'IA est de plus en plus utilisée dans diverses applications, notamment les assistants de codage, les moniteurs de santé et les applications de productivité.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 23:58:55 GMT"
-    },
-    {
-        "title": "L'IA et les questions de droit d'auteur",
-        "link": "https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement#comments",
-        "body": "Un juge américain a rejeté les arguments de défense de Ross Intelligence, une startup d'IA juridique, dans une affaire de violation de droits d'auteur intentée par Thomson Reuters. La décision, qui favorise Thomson Reuters, soulève des questions importantes sur la légalité de l'utilisation de données protégées par le droit d'auteur pour entraîner des outils d'IA. Des poursuites similaires contre OpenAI, Microsoft et d'autres entreprises majeures de l'IA sont en cours, remettant en question la défense de \"l'utilisation équitable\" des données protégées par le droit d'auteur. La décision du juge Bibas souligne l'impact de l'utilisation de matériel protégé par Ross sur la valeur du travail original, ainsi que la concurrence directe créée par l'outil. Cette affaire a des implications importantes pour l'industrie de l'IA, soulignant la nécessité de licences appropriées et de considérations éthiques lors de l'utilisation de données pour entraîner des modèles d'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Feb 2025 23:58:55 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des réponses réfléchies et vérifiées",
-        "link": "https://www.frandroid.com/marques/2503787_gemini-deploie-une-de-ses-meilleures-fonctions-sur-iphone",
-        "body": "Google déploie Deep Research, une nouvelle fonctionnalité basée sur l'IA pour l'iPhone, offrant des réponses plus approfondies et contextualisées. Deep Research va au-delà de la correspondance de mots-clés en synthétisant des informations provenant de diverses sources, y compris du texte, des images et des PDF. La technologie prend un peu plus de temps, mais fournit des réponses fiables et vérifiées. Le modèle Gemini 1.5 Pro, bientôt remplacé par Gemini 2.0, permet à l'IA de réfléchir de manière plus poussée et de gérer un grand volume d'informations. L'abonnement Gemini Advanced est requis pour accéder à cette fonctionnalité, qui marque une évolution significative par rapport aux assistants basiques comme Siri, offrant des conversations plus poussées et des réponses documentées.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-34.png?resize=300,300&key=93e5b090",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI présente GPT-5",
-        "link": "https://www.frandroid.com/culture-tech/2503745_openai-fait-le-plein-dannonces-gpt-4-5-arrive-et-gpt-5-remplacera-tous-les-modeles-existants",
-        "body": "Lors d'une annonce surprise, Sam Altman, PDG d'OpenAI, a dévoilé les plans de l'entreprise pour GPT-5, la prochaine itération de son modèle linguistique. GPT-5 sera un modèle unifié capable de s'adapter automatiquement aux besoins des utilisateurs, simplifiant ainsi l'offre actuelle d'OpenAI. La version standard de GPT-5 sera gratuite, avec des fonctionnalités plus avancées disponibles pour les abonnés payants. Avant le lancement de GPT-5, OpenAI prévoit de lancer un modèle intermédiaire, GPT-4.5, qui ne disposera pas de capacités de raisonnement intégrées. Cette annonce fait suite au sommet sur l'IA à Paris, et alors qu'OpenAI fait face à une concurrence croissante, notamment de la part du laboratoire chinois DeepSeek.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/altman-dev-day-8-1200x801-3-768x513.jpg?resize=200,200&key=8bf71e13",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Adobe étend les capacités de son moteur d'IA créative",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2500185_vous-pouvez-desormais-generer-des-videos-avec-lia-dadobe-directement-sur-un-site-web",
-        "body": "Adobe a récemment annoncé l'expansion de son moteur d'IA générative, Firefly, en le rendant accessible directement via le Web. Les utilisateurs peuvent désormais générer des vidéos de cinq secondes à l'aide d'un simple prompt, avec la possibilité de modifier divers paramètres tels que le plan, le ratio et les mouvements de caméra. La version Web de Firefly permet également d'utiliser des images clés, offrant ainsi un contrôle sur les images de début et de fin de la séquence. Les vidéos générées sont intégrées au Creative Cloud et peuvent être utilisées dans Premiere Pro et After Effects. L'accès à Firefly Web est payant, avec des crédits à acheter pour chaque 20 ou 70 secondes de vidéo générée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/product-1080x1350-1-1200x799-1-768x511.png?resize=200,200&key=9cd46f63",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Régulation de l'IA : une coopération internationale émergente",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502337_la-france-signe-avec-linde-et-la-chine-pour-une-ia-ethique",
-        "body": "La France et l'Inde ont co-organisé un sommet international sur l'IA à Paris, aboutissant à une déclaration commune pour une IA \"ouverte\", \"inclusive\" et \"éthique\". La Chine a également signé cette déclaration, soutenant une gouvernance basée sur le dialogue mondial pour rendre la technologie accessible et prévenir la concentration du marché. L'UE a déjà mis en place une législation sur l'IA, tandis que la France et l'UE prévoient d'investir 200 milliards d'euros dans son développement. Cependant, les États-Unis et le Royaume-Uni sont absents de cet accord, l'administration Trump considérant la régulation comme un frein à l'innovation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/emmanuel-macron-1200x740-1-768x474.jpg?resize=185,185&key=f634b1c5",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Free s'associe à Mistral AI",
-        "link": "https://www.frandroid.com/marques/free/2502433_faux-depart-pour-loffre-free-mobile-x-mistral-ai-certains-clients-rencontrent-deja-des-problemes",
-        "body": "Free, opérateur du Groupe Iliad, a annoncé un partenariat avec Mistral AI, une entreprise française d'IA, offrant un accès gratuit de 12 mois à la version pro de son assistant IA, Le Chat. Cependant, certains abonnés ont signalé que Le Chat Pro n'était pas disponible sur les applications iOS et Android, seul l'IA standard étant proposé. Le problème proviendrait de Mistral AI, qui devrait mettre à jour son application. Malgré cela, les abonnés Free Mobile bénéficient tout de même de l'accès à Le Chat Pro sur le web. Pour activer l'offre, les abonnés doivent créer un compte Mistral AI et se connecter à leur espace abonné Free Mobile.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/free-mistral-1200x675-1-768x432.jpg?resize=169,169&key=017d8add",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "YouTube renforce la sécurité des mineurs avec l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2502391_youtube-va-tenter-de-deviner-votre-age-grace-a-lia",
-        "body": "Dans un article de blog, YouTube a annoncé son intention d'utiliser l'apprentissage automatique pour estimer l'âge des utilisateurs, renforçant ainsi la sécurité des mineurs sur la plateforme. L'objectif est d'éviter que des contenus inappropriés soient proposés aux jeunes spectateurs et de détecter les comptes créés avec de fausses identités pour contourner les restrictions liées à l'âge. Bien que Google n'ait pas fourni beaucoup de détails, il affirme vouloir fournir des expériences et des protections adaptées à l'âge des enfants. La plateforme reconnaît que le système ne sera pas parfait, mais espère néanmoins limiter les dégâts.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/youtube-frandroid-illustration-3-1200x673-1-768x431.jpg?resize=168,168&key=53517937",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'Europe contre-attaque",
-        "link": "https://www.frandroid.com/marques/orange/2502299_lue-veut-revenir-dans-la-course-a-lia-avec-un-investissement-de-200-milliards-deuros",
-        "body": "L'Union européenne annonce un plan d'investissement de 200 milliards d'euros sur cinq ans pour le développement de l'IA, en réponse au projet américain \"Stargate\". Ce plan, nommé \"InvestAI\", comprend 50 milliards d'euros de fonds publics pour construire des \"gigausines européennes d'IA\" et 150 milliards d'euros d'investissements privés de la part de plus de 70 entreprises, dont Mistral AI, Orange et Spotify. L'objectif est de faire de l'Europe un leader dans le domaine de l'IA, tout en respectant les principes de protection des données comme le RGPD. Les entreprises impliquées appellent à un cadre réglementaire simplifié et harmonisé pour encourager l'innovation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-du-2025-02-12-08-49-14-1200x841-1-768x538.jpg?resize=210,210&key=5277424a",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Mistral AI confronté à des problèmes de confidentialité des données",
-        "link": "https://www.frandroid.com/culture-tech/2502271_la-start-up-francaise-mistral-le-chat-dans-la-tourmente-pour-entorse-presumee-au-rgpd",
-        "body": "Alors que Mistral AI lance son application de chatbot \"Le Chat\" en France, la start-up est confrontée à une plainte pour non-respect du RGPD. Jérémy Roche, avocat spécialisé en protection des données, souligne que Mistral AI ne permet pas aux utilisateurs de la version gratuite de son chatbot de refuser le traitement de leurs données personnelles, contrairement à ses concurrents. La politique de confidentialité de l'entreprise indique que les données d'entrée et de sortie peuvent être utilisées pour entraîner ses modèles d'IA, mais seuls les abonnés payants peuvent s'y opposer. La plainte souligne que cette pratique va à l'encontre de l'article 12 du RGPD, qui interdit d'exiger un paiement pour le respect des droits à la protection des données. La CNIL et d'autres autorités européennes de protection des données pourraient intervenir si Mistral AI ne remédie pas à ce problème.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-2-768x576.jpeg?resize=225,225&key=a631f7c1",
-        "date": "Tue, 11 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une course à l'échelle et à l'accessibilité",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/11/covering-sam-altmans-three-observations-on-ai/?ss=ai",
-        "body": "L'article met en lumière les réflexions de Sam Altman, PDG d'OpenAI, et de Nathaniel Whittemore, rédacteur de l'AI Daily Brief, sur l'évolution de l'IA et son impact potentiel sur la société. Altman présente trois observations clés : premièrement, une équation approximative reliant l'intelligence d'un modèle aux ressources investies dans son entraînement et son fonctionnement ; deuxièmement, une réduction annuelle de 10 fois le coût d'une certaine quantité d'intelligence ; et troisièmement, l'idée que la valeur socio-économique de l'intelligence est super-exponentielle. Whittemore ajoute cinq observations supplémentaires, notamment sur l'importance de la mise à l'échelle, la rapidité de la baisse des coûts de l'intelligence artificielle, et le besoin de compétences en gestion pour superviser les agents IA. Il souligne également l'absence de politiques claires pour encadrer le développement de l'IA. L'article suggère que l'IA pourrait avoir un impact profond et omniprésent sur l'économie et la société, tout en reconnaissant que son avenir soulève des questions complexes qui nécessitent l'attention de diverses parties prenantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67abd1f3f52b009fb399ca32/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Feb 2025 22:00:00 GMT"
     }
 ]
