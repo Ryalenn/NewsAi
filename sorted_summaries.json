@@ -1,5 +1,12 @@
 [
     {
+        "title": "Digital Twins for a Greener Future",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/14/4-use-cases-for-data-center-digital-twins-and-more-on-ai-simulations/?ss=ai",
+        "body": "L'article met en évidence l'importance des jumeaux numériques pour optimiser l'efficacité énergétique et la durabilité des centres de données, qui deviendront de plus en plus nécessaires avec l'essor de l'IA. La modélisation de la conception et du fonctionnement des centres de données peut aider à réduire leur empreinte énergétique. Les jumeaux numériques peuvent également contribuer à prédire et à atténuer les impacts du changement climatique, comme le démontre la plateforme Earth-2 de Nvidia. Les intervenants du Forum de Davos ont souligné le rôle de la modélisation et de l'IA dans la gestion des systèmes complexes et la compréhension de notre avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67af6ff0a68a6bab9d97c91e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 14 Feb 2025 16:00:00 GMT"
+    },
+    {
         "title": "La danse du changement",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/02/14/what-ai-age-and-trump-have-in-common---and-what-you-can-do-about-it/?ss=ai",
         "body": "L'article explore les liens entre l'IA, le vieillissement et l'émergence de figures politiques polarisantes comme Donald Trump, soulignant leur impact sur les individus et les sociétés. Il met en évidence la nature en constante évolution de la vie et suggère d'adopter l'intelligence hybride, combinant les forces humaines et la puissance algorithmique de l'IA. L'article aborde également la complexité du vieillissement aux niveaux personnel et démographique, ainsi que les changements politiques soudains et leurs racines historiques profondes. Il souligne l'importance de comprendre la nature multidimensionnelle de l'intelligence humaine et la façon dont l'IA peut la compléter. Enfin, il propose un modèle en quatre étapes, l'A-Frame, pour aider les individus et les sociétés à naviguer dans ces changements de manière significative et responsable.",
@@ -19,6 +26,13 @@
         "body": "Les licenciements liés à l'IA commencent dans le secteur technologique, mais de nouvelles opportunités d'emploi émergent pour les travailleurs. L'IA améliore les performances des programmeurs, ce qui entraîne une réduction de la main-d'œuvre. Anthropic, une startup soutenue par Amazon, prévoit de lever 2 milliards de dollars, valorisant l'entreprise à 60 milliards de dollars. Adobe lance Firefly Video, un outil alimenté par l'IA pour créer du contenu vidéo. Anduril Industries, fondée par le créateur d'Oculus, reprend le projet de casque de réalité augmentée militaire de Microsoft. Snap Inc. présente un modèle de texte à image optimisé pour les appareils mobiles. Les publicités du Super Bowl mettent en avant l'IA et la réalité étendue. OpenAI et Meta font appel à des célébrités pour leurs publicités. Google Gemini AI aide un père au foyer à se préparer pour un entretien d'embauche. Native Foreign remasterise son court métrage animé avec le modèle Sora d'OpenAI. Un film de fan de Star Wars généré par IA impressionne Hollywood. Un cinéaste expérimente le silence et les subtilités dans un court-métrage de science-fiction avec l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ae602462dc25ac7335a564/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 14 Feb 2025 04:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini rend l'analyse de fichiers accessible à tous",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2506527_google-contre-attaque-cette-fonction-desormais-gratuite-sur-gemini-peut-vous-faire-oublier-chatgpt",
+        "body": "Google démocratise l'une des fonctionnalités les plus puissantes de Gemini, l'analyse de fichiers, en la rendant gratuite pour tous les utilisateurs. Concrètement, toute personne disposant d'un compte Google peut désormais télécharger des documents pour les faire analyser par l'IA de Gemini. Cette fonctionnalité permet d'extraire des informations et de créer des visualisations complexes à partir de divers formats de fichiers, y compris les images. La force de cette nouveauté réside dans sa polyvalence, avec la capacité de traiter une grande variété de formats. Cependant, les limites de la version gratuite en termes de taille des documents restent à clarifier.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-46-768x529.png?resize=207,207&key=4365731b",
+        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Google Gemini déploie une fonctionnalité d'analyse de fichiers gratuite",
@@ -47,6 +61,13 @@
         "body": "La course à l'intelligence artificielle (IA) ne se limite pas aux avancées en matière de raisonnement, mais s'intéresse également à l'efficacité énergétique et technique. AMD et le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) de France collaborent pour améliorer les technologies de calcul de l'IA, avec un double objectif : optimiser les processus de calcul pour améliorer les performances des chatbots et réduire leur consommation énergétique. Cette initiative prend une dimension écologique importante, alors que des entreprises comme Google ou Grok, l'IA d'Elon Musk, ont fait des compromis sur la neutralité carbone au profit de l'avancée technologique. Le partenariat franco-américain entre AMD et le CEA vise à trouver des solutions pour l'IA, applicables dans des domaines variés tels que l'énergie et la médecine. Les différences de régulation entre les États-Unis et l'Europe, qui misent sur une IA éthique, pourraient influencer l'évolution de cette collaboration.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/serveurs-1200x673-1-768x431.jpg?resize=168,168&key=911f22ba",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Gemini AI Assistant se souvient des conversations passées",
+        "link": "https://www.theverge.com/news/612638/google-gemini-ai-advanced-recall-conversations#comments",
+        "body": "L'assistant IA de Google, Gemini, peut désormais se rappeler les conversations passées et y faire référence pour fournir des réponses plus pertinentes. Cette fonctionnalité est disponible pour les abonnés à l'offre Gemini Advanced via Google One AI Premium. Grâce à cette mise à jour, Gemini peut reprendre des conversations là où elles se sont arrêtées, sans que l'utilisateur ait besoin de récapituler ou de rechercher le fil de discussion. Les utilisateurs peuvent également demander à Gemini de résumer les conversations précédentes et de développer des projets existants. La fonctionnalité de rappel de Gemini est maintenant disponible en anglais pour les abonnés au plan Google One AI Premium, avec une expansion prévue vers d'autres langues et clients Google Workspace dans les semaines à venir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Thu, 13 Feb 2025 22:33:37 GMT"
     },
     {
         "title": "Lutte contre les abus liés à l'IA",
@@ -236,33 +257,5 @@
         "body": "Le PDG de OpenAI, Sam Altman, a partagé une feuille de route détaillant les plans de l'entreprise pour ses modèles d'IA GPT-4.5 et GPT-5. GPT-4.5, connu en interne sous le nom de Orion, sera le dernier modèle non-chaîne de pensée de l'entreprise. Après cela, OpenAI vise à unifier les modèles o-series et GPT-series en créant des systèmes polyvalents et adaptables. L'entreprise prévoit également d'intégrer sa technologie o3 dans GPT-5, offrant ainsi un accès illimité aux utilisateurs gratuits de ChatGPT. Les abonnés Plus et Pro auront accès à des niveaux d'intelligence plus élevés. La sortie de GPT-4.5 et GPT-5 est prévue pour les semaines/mois à venir.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 12 Feb 2025 20:02:59 GMT"
-    },
-    {
-        "title": "L'IA, compagnon essentiel des astronautes",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/12/ai-in-space-astronauts-are-likely-to-need-help/?ss=ai",
-        "body": "L'IA pourrait s'avérer extrêmement précieuse pour les astronautes, qui évoluent dans un environnement inconnu et isolé. Les chercheurs du MIT Media Lab développent une interface cerveau-ordinateur pour faciliter la communication des astronautes et soutenir leur état cognitif pendant leur séjour dans l'espace. Cette technologie, basée sur la spectroscopie infrarouge et la mesure des signaux électriques du cerveau, peut adapter l'environnement pour optimiser les performances des astronautes. De même, la réalité augmentée permettrait aux astronautes de collaborer plus efficacement avec les robots. Ces avancées sont essentielles alors que les missions spatiales, comme l'alunissage prévu pour 2027, deviennent de plus en plus ambitieuses, et que la sécurité des astronautes, confrontés à des séjours prolongés dans l'espace, est une préoccupation croissante.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aceb6b2d6a44d8a1ae3d6c/0x0.jpg?format=jpg&crop=1819,1022,x0,y242,safe&width=440",
-        "date": "Wed, 12 Feb 2025 18:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail avec l'IA",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/02/12/employai-of-the-month-software-copilots-in-the-workforce/?ss=ai",
-        "body": "L'article explore l'évolution de l'IA et son impact sur l'avenir du travail. Il met en évidence la manière dont l'IA transforme déjà les entreprises, en particulier avec l'émergence d'agents IA spécialisés qui automatisent diverses tâches, des fonctions de vente et de marketing à l'ingénierie logicielle. L'article suggère que les gestionnaires devront bientôt superviser des équipes composées à la fois d'humains et d'agents IA, et que l'IA deviendra un membre à part entière de la main-d'œuvre, capable d'effectuer des tâches complexes et de contribuer aux résultats des organisations. Bien que les avantages de l'IA soient clairs, l'article souligne également les défis auxquels sont confrontées les entreprises, notamment la complexité de la technologie, le manque de compréhension de son potentiel et la pénurie d'experts en IA. Enfin, il est suggéré que des solutions de plateforme de type « no-code » pourraient aider les entreprises à tirer parti de l'IA sans avoir à gérer la complexité technique sous-jacente. \n\nRésumé : L'IA évolue rapidement et transforme déjà le monde du travail. Les agents IA spécialisés automatisent diverses tâches, améliorant ainsi la productivité et réduisant les coûts opérationnels. Les gestionnaires devront s'adapter à la supervision d'équipes mixtes d'humains et d'agents IA, et l'IA deviendra un membre à part entière de la main-d'œuvre. Bien que les avantages soient clairs, les entreprises doivent surmonter des défis tels que la complexité de la technologie, le manque de compréhension de son potentiel et la pénurie de talents en IA. Les solutions de plateforme « no-code » pourraient aider à surmonter ces obstacles et à accélérer l'adoption de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67aa08679b7be43abf7e172f/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 12 Feb 2025 17:30:00 GMT"
-    },
-    {
-        "title": "Protection des mineurs en ligne",
-        "link": "https://www.theverge.com/news/610512/google-age-estimation-machine-learning#comments",
-        "body": "Google annonce son intention d'utiliser l'apprentissage automatique pour estimer l'âge de ses utilisateurs et ainsi proposer des expériences adaptées à leur âge. Cette technologie, déjà annoncée par YouTube, utilisera les données existantes des utilisateurs, telles que les sites visités et les habitudes de visionnage sur YouTube, pour déterminer leur âge. Lorsque le système détectera un utilisateur potentiellement mineur, Google ajustera ses paramètres et proposera des options de vérification d'âge. Cette initiative s'inscrit dans le cadre d'une attention accrue portée à la sécurité des enfants en ligne, avec de nouvelles lois comme KOSA, COPPA 2.0 et KOSMA, qui visent à protéger les enfants sur Internet et les réseaux sociaux. D'autres entreprises, comme Meta, utilisent également l'IA pour détecter les mineurs. De plus, Google introduit de nouvelles fonctionnalités pour aider les parents à gérer l'activité en ligne de leurs enfants, comme la limitation des appels et des notifications pendant les heures d'école.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 12 Feb 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'appel de Scarlett Johansson pour une réglementation de l'IA",
-        "link": "https://www.theverge.com/news/611016/scarlett-johansson-deepfake-laws-ai-video#comments",
-        "body": "Scarlett Johansson exhorte les gouvernements à adopter des lois sur la sécurité de l'IA, après la circulation en ligne d'une vidéo deepfake la mettant en scène. Johansson, qui a déjà été impliquée dans des poursuites judiciaires liées à l'utilisation non autorisée de son image par des développeurs d'IA, souligne le danger potentiel de l'IA lorsqu'elle est utilisée à des fins de discours de haine et de désinformation. Elle insiste sur le fait que la réglementation de l'IA est une question bipartisane qui affecte l'avenir immédiat de l'humanité et devrait donc être une priorité absolue pour les législateurs. L'article souligne également l'inaction des gouvernements américain et britannique en matière de réglementation de l'IA, y compris le veto du gouverneur de Californie sur un projet de loi sur la sécurité de l'IA et le refus de signer une déclaration internationale sur l'utilisation éthique de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2161499653.jpg?quality=90&strip=all&crop=0%2C0.027639579878382%2C100%2C99.944720840243&w=2400",
-        "date": "Wed, 12 Feb 2025 16:17:56 GMT"
     }
 ]
