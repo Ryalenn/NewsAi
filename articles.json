@@ -77,14 +77,14 @@
         "check": "yes"
     },
     {
-        "title": "Un mythe s’effondre, une requête ChatGPT ne brûle pas plus d’énergie qu’une simple recherche Google",
+        "title": "Un mythe s\u2019effondre, une requ\u00eate ChatGPT ne br\u00fble pas plus d\u2019\u00e9nergie qu\u2019une simple recherche Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2505717_non-une-requete-chatgpt-ne-brule-pas-plus-denergie-quune-simple-recherche-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-45-1200x771-1-768x493.jpg?resize=193,193&key=2d15ac93",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "L’IA plus rapide et plus puissante ? AMD et le CEA ont un plan",
+        "title": "L\u2019IA plus rapide et plus puissante ? AMD et le CEA ont un plan",
         "link": "https://www.frandroid.com/culture-tech/2505303_lia-plus-rapide-et-plus-puissante-amd-et-le-cea-ont-un-plan",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/serveurs-1200x673-1-768x431.jpg?resize=168,168&key=911f22ba",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
@@ -98,7 +98,7 @@
         "check": "no"
     },
     {
-        "title": "Gemini offre l’une de ses meilleures fonctions gratuitement",
+        "title": "Gemini offre l\u2019une de ses meilleures fonctions gratuitement",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2505493_gemini-offre-lune-de-ses-meilleures-fonctions-gratuitement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-2-768x432.png?resize=169,169&key=15b8433f",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
@@ -201,5 +201,19 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257561_VERGECAST_DOGE_CVirginia_VRG_0207_Site.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Fri, 14 Feb 2025 14:25:55 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/613571/openai-rejects-elon-musk-purchase-offer#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 14 Feb 2025 22:27:48 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/command-line-newsletter/613219/tiktok-ban-ceo-all-hands#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25829977/STK051_TIKTOKBAN_B_CVirginia_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Fri, 14 Feb 2025 18:31:19 GMT",
+        "check": "no"
     }
 ]
