@@ -140,14 +140,14 @@
         "check": "yes"
     },
     {
-        "title": "Un mythe s’effondre, une requête ChatGPT ne brûle pas plus d’énergie qu’une simple recherche Google",
+        "title": "Un mythe s\u2019effondre, une requ\u00eate ChatGPT ne br\u00fble pas plus d\u2019\u00e9nergie qu\u2019une simple recherche Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2505717_non-une-requete-chatgpt-ne-brule-pas-plus-denergie-quune-simple-recherche-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-45-1200x771-1-768x493.jpg?resize=193,193&key=2d15ac93",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "L’IA plus rapide et plus puissante ? AMD et le CEA ont un plan",
+        "title": "L\u2019IA plus rapide et plus puissante ? AMD et le CEA ont un plan",
         "link": "https://www.frandroid.com/culture-tech/2505303_lia-plus-rapide-et-plus-puissante-amd-et-le-cea-ont-un-plan",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/serveurs-1200x673-1-768x431.jpg?resize=168,168&key=911f22ba",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
@@ -161,7 +161,7 @@
         "check": "no"
     },
     {
-        "title": "Gemini offre l’une de ses meilleures fonctions gratuitement",
+        "title": "Gemini offre l\u2019une de ses meilleures fonctions gratuitement",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2505493_gemini-offre-lune-de-ses-meilleures-fonctions-gratuitement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-2-768x432.png?resize=169,169&key=15b8433f",
         "date": "Thu, 13 Feb 2025 23:00:00 GMT",
@@ -222,5 +222,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/66bf3c39bf62d18d8dec02bd/0x0.jpg?format=jpg&crop=1000,563,x0,y105,safe&width=440",
         "date": "Fri, 14 Feb 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/2504173_dois-je-me-faire-sauter-letrange-publicite-de-microsoft-pour-copilot",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=2b86d7dc",
+        "date": "Thu, 13 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/perplexity-deep-research.png?quality=90&strip=all&crop=3.3673469387755%2C0%2C93.265306122449%2C100&w=2400",
+        "date": "Fri, 14 Feb 2025 21:25:20 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/larsdaniel/2025/02/14/your-brain-on-ai-atrophied-and-unprepared-warns-microsoft-study/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67af87cfb5798c49dcdbd646/0x0.jpg?format=jpg&crop=4873,2743,x0,y447,safe&width=440",
+        "date": "Fri, 14 Feb 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
