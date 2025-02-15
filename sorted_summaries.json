@@ -1,5 +1,12 @@
 [
     {
+        "title": "Siri d'Apple retardé",
+        "link": "https://www.bloomberg.com/news/articles/2025-02-14/apple-s-long-promised-ai-overhaul-for-siri-runs-into-bugs-possible-delays",
+        "body": "Résumé : Apple rencontre des problèmes techniques et des bogues logiciels avec la refonte de son assistant numérique Siri, ce qui pourrait entraîner des retards ou des limitations lors de sa sortie. La société avait initialement dévoilé ses plans pour une nouvelle version de Siri intégrant l'IA lors de sa conférence pour développeurs en juin dernier, et a même promu certaines de ses fonctionnalités auprès des clients. Cependant, selon des sources anonymes, Apple est toujours en train de finaliser le logiciel, et certaines fonctionnalités prévues pour avril pourraient devoir être reportées à mai ou plus tard.",
+        "image": "",
+        "date": "Sat, 15 Feb 2025 01:18:32 GMT"
+    },
+    {
         "title": "L'IA et les métaphores",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/14/why-our-metaphors-about-ai-shape-how-ai-thinks-about-us/?ss=ai",
         "body": "Cet article explore l'impact des métaphores sur la perception et l'utilisation de l'IA, ainsi que la façon dont l'IA peut elle-même être influencée par des métaphores qui façonnent ses actions. L'auteur commence par expliquer comment les métaphores peuvent être puissantes et influencer le comportement humain, puis examine les métaphores couramment associées à l'IA, telles que \"l'IA est mon ami\" ou \"l'IA est comme un enfant\". L'article présente ensuite un nouveau concept : l'IA peut adopter une métaphore sur l'IA et l'utiliser comme force motrice pour ses actions. L'auteur illustre cela en posant une question à plusieurs applications d'IA générative et en analysant leurs réponses à travers le prisme de différentes métaphores. Enfin, l'article souligne l'importance de comprendre comment les métaphores influencent l'IA, en particulier à mesure que l'IA générative évolue vers l'IA physique, capable d'actions dans le monde réel.",
@@ -54,6 +61,13 @@
         "body": "Bien que l'IA fasse son entrée dans le monde des rencontres en ligne, les utilisateurs s'inquiètent de plus en plus de son impact. Une étude de Jigsaw, le plus grand fournisseur d'expériences de rencontres en personne aux États-Unis, révèle une forte résistance à l'idée que l'IA joue un rôle dans les rencontres. Cette résistance à l'IA reflète une méfiance plus générale envers les rencontres en ligne et une préférence pour les rencontres en personne. La majorité des répondants sont en désaccord avec l'affirmation selon laquelle \"l'IA est l'avenir des rencontres\" et s'inquiètent de l'authenticité des connexions établies en ligne, en particulier avec l'introduction de réponses générées par l'IA. Les gens craignent que l'IA ne rende les interactions moins sincères et nuise à l'établissement d'une chimie authentique. Les recherches soutiennent ces préoccupations, soulignant les problèmes de mensonges et de manque de confiance dans les rencontres en ligne, qui pourraient être exacerbés par le contenu généré par l'IA. Malgré la commodité des applications de rencontre, les interactions humaines en personne restent la norme pour établir des relations romantiques significatives. Les gens semblent aspirer à la simplicité des rencontres organiques, en personne. Les résultats de l'enquête de Jigsaw le confirment, avec une nette préférence pour les rencontres en personne et une méfiance à l'égard de l'implication de l'IA dans les relations romantiques. Les experts en relations partagent ces préoccupations, soulignant l'importance des connexions humaines réelles et suggérant que l'IA pourrait aider dans certains domaines, mais qu'elle manque actuellement de personnalisation. La conclusion est claire : malgré ses progrès, les rencontres modernes échouent souvent à offrir ce que les gens désirent vraiment, une véritable connexion humaine. Cette résistance à l'IA dans les rencontres n'est pas simplement une méfiance envers la nouvelle technologie, mais plutôt un profond désir de relations organiques et authentiques. Les plateformes de rencontre doivent réévaluer leur priorité de la commodité par rapport à la connexion si elles veulent vraiment aider les gens à trouver l'amour.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66bf3c39bf62d18d8dec02bd/0x0.jpg?format=jpg&crop=1000,563,x0,y105,safe&width=440",
         "date": "Fri, 14 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Apple's AI Push in China",
+        "link": "https://www.bloomberg.com/news/articles/2025-02-14/apple-plans-to-overhaul-china-iphones-with-ai-by-middle-of-year?srnd=undefined",
+        "body": "Résumé : Apple Inc. s'efforce d'apporter ses fonctionnalités d'IA en Chine d'ici le milieu de l'année, un projet complexe nécessitant des modifications logicielles et une forte dépendance à l'égard des partenaires locaux. Plusieurs équipes d'Apple en Chine et aux États-Unis travaillent à l'adaptation de sa plateforme Apple Intelligence pour la région, avec un lancement prévu dès le mois de mai. Outre le travail d'ingénierie, Apple doit encore surmonter des obstacles réglementaires en Chine.",
+        "image": "",
+        "date": "Fri, 14 Feb 2025 08:37:34 GMT"
     },
     {
         "title": "L'informatique quantique, une révolution pour l'IA",
@@ -180,26 +194,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ada86ebf59937382c21f29/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 13 Feb 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Veo 2 sur YouTube",
-        "link": "https://www.theverge.com/news/612031/youtube-ai-generated-video-shorts-veo-2-dream-screen",
-        "body": "Google intègre son modèle vidéo Veo 2 à l'outil Dream Screen de YouTube pour Shorts. Cette fonctionnalité expérimentale permet aux créateurs de générer des clips vidéo autonomes à l'aide de l'IA, qui peuvent ensuite être ajoutés à des Shorts. Dream Screen, lancé en septembre 2023, génère déjà des images et des vidéos basées sur des descriptions textuelles, mais celles-ci étaient auparavant limitées aux arrière-plans de type écran vert. La nouvelle fonctionnalité de génération de clips est désormais accessible aux utilisateurs de Dream Screen via l'appareil photo Shorts, en sélectionnant \"Créer\" dans le sélecteur de médias. Les utilisateurs peuvent entrer une description textuelle et choisir un style, un effet cinématographique, une longueur de vidéo et un objectif. YouTube prévoit de déployer cette fonctionnalité aux États-Unis, au Canada, en Australie et en Nouvelle-Zélande, avec une expansion future prévue. L'intégration de Veo 2 améliore la vitesse et la qualité de la génération vidéo, tout en ajoutant des étiquettes visuelles et des filigranes SynthID invisibles pour identifier le contenu créé ou modifié par l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 13 Feb 2025 15:07:24 GMT"
-    },
-    {
-        "title": "La menace des robots footballeurs",
-        "link": "https://www.forbes.com/sites/dimitarmixmihov/2025/02/13/dont-expect-googles-deepmind-robots-at-the-fifa-world-cup-anytime-soon/?ss=ai",
-        "body": "Bien que les robots et l'IA puissent menacer certains emplois, les stars du football comme Cristiano Ronaldo et Lionel Messi n'ont probablement rien à craindre, du moins pour l'instant. DeepMind, le laboratoire de recherche en IA de Google, a récemment publié un article sur l'apprentissage par renforcement profond, dans lequel des robots humanoïdes miniatures jouent au football. L'objectif était de tester l'efficacité de cette méthode d'apprentissage pour enseigner aux robots des compétences motrices sophistiquées et des stratégies comportementales complexes à faible coût. Les robots ont appris des compétences telles que la récupération après une chute, la marche, le pivotement et le coup de pied, ainsi que la transition fluide entre les mouvements. Ils ont également développé une compréhension des dynamiques du jeu, en anticipant les mouvements du ballon et en bloquant les tirs. Bien que cette expérience soit prometteuse, DeepMind souligne que le prochain défi consistera à faire s'affronter des équipes de robots, puis à les faire jouer en utilisant uniquement leurs capteurs intégrés, sans système de capture de mouvement externe. Malgré les investissements de Google, Apple et Tesla dans le domaine des robots humanoïdes, il semble que nous soyons encore loin de voir des robots participer à la Coupe du Monde de la FIFA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ae01d4f01d4516b93efe87/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 13 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Apple s'associe à Alibaba pour apporter l'intelligence Apple aux iPhones en Chine",
-        "link": "https://www.theverge.com/news/611992/apple-intelligence-ai-china-alibaba-iphone#comments",
-        "body": "Apple s'associe à Alibaba pour intégrer des fonctionnalités d'intelligence artificielle aux iPhones en Chine. Les fonctionnalités Apple Intelligence n'étant pas encore disponibles dans le pays, cela a probablement contribué au déclin des ventes de smartphones de l'entreprise. Alibaba a déclaré qu'Apple avait choisi de collaborer avec eux pour utiliser leur technologie IA et alimenter les iPhones. Bien que l'annonce donne un aperçu du choix d'Apple, d'autres partenariats avec des entreprises technologiques chinoises comme Tencent, ByteDance et DeepSeek sont toujours possibles. Apple travaille également avec Baidu sur des fonctionnalités de recherche IA et sur l'amélioration de Siri en chinois. En dehors de la Chine, Apple Intelligence utilise une combinaison de technologies propriétaires et de ChatGPT d'OpenAI, qui n'est pas disponible en Chine. Apple et Alibaba ont soumis les documents nécessaires aux régulateurs pour approbation. Les ventes d'iPhones en Chine ont diminué, Apple ayant perdu la première place au quatrième trimestre 2024 au profit de Huawei et de Xiaomi. Les analystes attribuent ce retard au manque de fonctionnalités IA sur les iPhones en Chine.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626295/247263_iphone_16_pro_AKrales_0799.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 13 Feb 2025 14:05:07 GMT"
     }
 ]
