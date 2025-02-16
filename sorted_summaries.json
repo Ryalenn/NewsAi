@@ -1,5 +1,12 @@
 [
     {
+        "title": "No-Tracking, No-AI Search",
+        "link": "https://udm14.com/",
+        "body": "Cet article présente une page permettant d'accéder à une recherche Google sans IA et respectueuse de la vie privée. La page, nommée \"TenBlueLinks\", fait partie du moteur Web Open Web Engine et offre un code accessible sur Glitch et Github. La version régulière et une version \"SFW\" sont disponibles. La fonctionnalité désactive potentiellement la personnalisation des résultats de recherche et le suivi des recherches par Google. La page utilise également l'outil d'analyse de la confidentialité Plausible pour les analyses, garantissant ainsi l'anonymat des recherches.",
+        "image": "",
+        "date": "Sat, 15 Feb 2025 20:39:07 GMT"
+    },
+    {
         "title": "L'IA, la biologie computationnelle et l'avenir du divertissement",
         "link": "https://www.forbes.com/sites/johnwerner/2025/02/15/marie-curie-lord-voldemort-and-sheldon-cooper-tell-us-about-ai-ethics/?ss=ai",
         "body": "La biologie computationnelle, qui applique les modèles mathématiques et les techniques de l'informatique à l'étude des systèmes biologiques, est un domaine émergent qui attire de plus en plus l'attention grâce aux progrès de l'IA. Alan Turing, connu pour le test de Turing, a également contribué à la biologie computationnelle avec son article de 1952 sur l'émergence de motifs naturels. Les applications modernes incluent la création de panels de discussion éthique en IA composés de personnages fictifs et historiques, comme Marie Curie, Lord Voldemort et Sheldon Cooper. Ces systèmes démontrent la récupération d'informations assistée par génération (RAG) et l'approche d'ensemble de Marvin Minsky. Yufei Chen, de l'MIT, suggère que ces technologies peuvent révolutionner le divertissement et conduire à des applications plus interactives, comme le tutorat et la compagnie en IA.",
@@ -103,61 +110,5 @@
         "body": "Les licenciements liés à l'IA commencent dans le secteur technologique, mais de nouvelles opportunités d'emploi émergent pour les travailleurs. L'IA améliore les performances des programmeurs, ce qui entraîne une réduction de la main-d'œuvre. Anthropic, une startup soutenue par Amazon, prévoit de lever 2 milliards de dollars, valorisant l'entreprise à 60 milliards de dollars. Adobe lance Firefly Video, un outil alimenté par l'IA pour créer du contenu vidéo. Anduril Industries, fondée par le créateur d'Oculus, reprend le projet de casque de réalité augmentée militaire de Microsoft. Snap Inc. présente un modèle de texte à image optimisé pour les appareils mobiles. Les publicités du Super Bowl mettent en avant l'IA et la réalité étendue. OpenAI et Meta font appel à des célébrités pour leurs publicités. Google Gemini AI aide un père au foyer à se préparer pour un entretien d'embauche. Native Foreign remasterise son court métrage animé avec le modèle Sora d'OpenAI. Un film de fan de Star Wars généré par IA impressionne Hollywood. Un cinéaste expérimente le silence et les subtilités dans un court-métrage de science-fiction avec l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ae602462dc25ac7335a564/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 14 Feb 2025 04:00:00 GMT"
-    },
-    {
-        "title": "Mauvaise traduction de Microsoft",
-        "link": "https://www.frandroid.com/marques/2504173_dois-je-me-faire-sauter-letrange-publicite-de-microsoft-pour-copilot",
-        "body": "Microsoft a récemment diffusé une publicité pour sa technologie d'IA, Copilot, qui a été mal traduite du fait de l'utilisation de la traduction automatique. La phrase en anglais \"Should I get bangs?\" a été traduite par \"dois-je me faire sauter?\", ce qui a un sens complètement différent et vulgaire en français. Cet incident souligne l'importance de la qualité des traductions, surtout lorsqu'il s'agit de promouvoir des technologies avancées comme l'IA. La mauvaise traduction a été retirée par Microsoft France.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=2b86d7dc",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini rend l'analyse de fichiers accessible à tous",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2506527_google-contre-attaque-cette-fonction-desormais-gratuite-sur-gemini-peut-vous-faire-oublier-chatgpt",
-        "body": "Google démocratise l'une des fonctionnalités les plus puissantes de Gemini, l'analyse de fichiers, en la rendant gratuite pour tous les utilisateurs. Concrètement, toute personne disposant d'un compte Google peut désormais télécharger des documents pour les faire analyser par l'IA de Gemini. Cette fonctionnalité permet d'extraire des informations et de créer des visualisations complexes à partir de divers formats de fichiers, y compris les images. La force de cette nouveauté réside dans sa polyvalence, avec la capacité de traiter une grande variété de formats. Cependant, les limites de la version gratuite en termes de taille des documents restent à clarifier.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-46-768x529.png?resize=207,207&key=4365731b",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini déploie une fonctionnalité d'analyse de fichiers gratuite",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2505493_gemini-offre-lune-de-ses-meilleures-fonctions-gratuitement",
-        "body": "Google améliore continuellement son chatbot, et sa dernière mise à jour inclut une fonctionnalité d'analyse de fichiers gratuite. Cette fonction, initialement payante, permet de poser des questions précises sur différents types de fichiers, tels que des documents textuels (TXT, DOC, PDF, etc.), des fichiers de code (C, PY, JAVA, etc.), des feuilles de calcul (CSV, XLS, etc.), ainsi que les formats Google Docs et Sheets. La version gratuite n'a pas de limite de quantité d'informations spécifiée pour le moment. La version payante, quant à elle, peut gérer jusqu'à 1500 pages de texte ou 30 000 lignes de code. Bien que la fonctionnalité soit en cours de déploiement, certains utilisateurs n'y ont pas encore accès. De plus, Google n'a pas mis à jour sa documentation à ce sujet.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-20-1200x675-2-768x432.png?resize=169,169&key=15b8433f",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Protéger la confidentialité des données dans les interactions avec les chatbots IA",
-        "link": "https://www.frandroid.com/services/2505995_chatgpt-en-mode-incognito-voici-comment-utiliser-le-service-anonymement",
-        "body": "L'article souligne les préoccupations croissantes concernant la confidentialité des données dans l'ère des chatbots IA. Il met en évidence le fait que la plupart des chatbots, comme ChatGPT, stockent les conversations sur des serveurs distants, ce qui soulève des questions sur l'utilisation potentielle de ces données par les entreprises. DuckDuckGo, connu pour son moteur de recherche respectueux de la vie privée, propose une alternative avec DuckDuckGo AI Chat, qui se concentre sur l'anonymat des utilisateurs lors des interactions avec les IA. Bien que cette solution ne soit pas parfaite, elle offre une option plus sûre pour ceux qui souhaitent préserver la confidentialité de leurs données tout en profitant des avantages des chatbots IA. L'article soulève également la question de savoir si cette approche incitera l'industrie à repenser ses pratiques en matière de confidentialité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-2025-02-14-a-122736-768x422.jpg?resize=165,165&key=089478b3",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'efficacité énergétique de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2505717_non-une-requete-chatgpt-ne-brule-pas-plus-denergie-quune-simple-recherche-google",
-        "body": "Une étude d'Epoch AI révèle que la consommation énergétique de ChatGPT est bien inférieure aux estimations précédentes, avec 0,3 wattheure par requête pour GPT-4. Ce résultat s'explique par une utilisation plus réaliste des serveurs et l'adoption de puces plus efficaces. La consommation de ChatGPT est comparable à une recherche Google, soit 0,3 Wh. Malgré ces progrès, la consommation annuelle projetée de ChatGPT reste élevée, et les gains d'efficacité peinent à compenser l'augmentation des besoins énergétiques liés aux modèles de raisonnement plus profonds.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-45-1200x771-1-768x493.jpg?resize=193,193&key=2d15ac93",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, une course à l'efficacité énergétique",
-        "link": "https://www.frandroid.com/culture-tech/2505303_lia-plus-rapide-et-plus-puissante-amd-et-le-cea-ont-un-plan",
-        "body": "La course à l'intelligence artificielle (IA) ne se limite pas aux avancées en matière de raisonnement, mais s'intéresse également à l'efficacité énergétique et technique. AMD et le Commissariat à l'énergie atomique et aux énergies alternatives (CEA) de France collaborent pour améliorer les technologies de calcul de l'IA, avec un double objectif : optimiser les processus de calcul pour améliorer les performances des chatbots et réduire leur consommation énergétique. Cette initiative prend une dimension écologique importante, alors que des entreprises comme Google ou Grok, l'IA d'Elon Musk, ont fait des compromis sur la neutralité carbone au profit de l'avancée technologique. Le partenariat franco-américain entre AMD et le CEA vise à trouver des solutions pour l'IA, applicables dans des domaines variés tels que l'énergie et la médecine. Les différences de régulation entre les États-Unis et l'Europe, qui misent sur une IA éthique, pourraient influencer l'évolution de cette collaboration.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/serveurs-1200x673-1-768x431.jpg?resize=168,168&key=911f22ba",
-        "date": "Thu, 13 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini AI Assistant se souvient des conversations passées",
-        "link": "https://www.theverge.com/news/612638/google-gemini-ai-advanced-recall-conversations#comments",
-        "body": "L'assistant IA de Google, Gemini, peut désormais se rappeler les conversations passées et y faire référence pour fournir des réponses plus pertinentes. Cette fonctionnalité est disponible pour les abonnés à l'offre Gemini Advanced via Google One AI Premium. Grâce à cette mise à jour, Gemini peut reprendre des conversations là où elles se sont arrêtées, sans que l'utilisateur ait besoin de récapituler ou de rechercher le fil de discussion. Les utilisateurs peuvent également demander à Gemini de résumer les conversations précédentes et de développer des projets existants. La fonctionnalité de rappel de Gemini est maintenant disponible en anglais pour les abonnés au plan Google One AI Premium, avec une expansion prévue vers d'autres langues et clients Google Workspace dans les semaines à venir.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Thu, 13 Feb 2025 22:33:37 GMT"
-    },
-    {
-        "title": "Lutte contre les abus liés à l'IA",
-        "link": "https://www.commerce.senate.gov/2025/1/sens-cruz-klobuchar-reps-salazar-dean-continue-fight-to-pass-take-it-down-act",
-        "body": "Les sénateurs américains Ted Cruz et Amy Klobuchar ont présenté un projet de loi bipartite, le TAKE IT DOWN Act, qui criminaliserait la publication d'images à caractère sexuel sans consentement, y compris les deepfakes générés par l'IA. Le projet de loi exige que les plateformes suppriment ces images dans les 48 heures suivant la notification. Le TAKE IT DOWN Act a reçu le soutien de plus de 100 organisations, y compris des groupes de défense des victimes, des représentants de la loi et des leaders de l'industrie technologique. Le projet de loi vise à protéger les victimes d'abus sexuels en ligne et à responsabiliser les plateformes en ligne. Il est co-parrainé par un groupe bipartite de sénateurs et soutenu par de grandes entreprises technologiques, telles que Snap, Google, Microsoft, Meta et TikTok. Le RAINN, le plus grand réseau national de lutte contre la violence sexuelle, a également appelé à l'adoption rapide de ce projet de loi.",
-        "image": "",
-        "date": "Thu, 13 Feb 2025 21:57:33 GMT"
     }
 ]
