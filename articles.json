@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "« Pas à vendre » : la réponse cinglante d’OpenAI à Elon Musk",
+        "title": "\u00ab Pas \u00e0 vendre \u00bb : la r\u00e9ponse cinglante d\u2019OpenAI \u00e0 Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2507123_pas-a-vendre-la-reponse-cinglante-dopenai-a-elon-musk",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/cyber-rodeo-at-giga-texas-52-49-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=b8d1a12b",
         "date": "Sat, 15 Feb 2025 23:00:00 GMT",
@@ -42,14 +42,14 @@
         "check": "yes"
     },
     {
-        "title": "Voici une nouvelle preuve que vous ne possédez pas vos posts sur X (Twitter)",
+        "title": "Voici une nouvelle preuve que vous ne poss\u00e9dez pas vos posts sur X (Twitter)",
         "link": "https://www.frandroid.com/culture-tech/2507211_voici-une-nouvelle-preuve-que-vous-ne-possedez-pas-vos-posts-sur-x-twitter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/x-frandroid-x-elon-musk-1200x675-1-768x432.jpg?resize=169,169&key=6ddc333f",
         "date": "Sun, 16 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Testez gratuitement GPT-4, Claude 3.5, Mistral Large et 24 autres IA sur la plateforme française compar:IA",
+        "title": "Testez gratuitement GPT-4, Claude 3.5, Mistral Large et 24 autres IA sur la plateforme fran\u00e7aise compar:IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2507619_testez-gratuitement-gpt-4-claude-3-5-mistral-large-et-24-autres-ia-sur-la-plateforme-francaise-comparia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-2025-02-17-a-110350-1200x857-1-768x548.png?resize=214,214&key=9342f049",
         "date": "Sun, 16 Feb 2025 23:00:00 GMT",
@@ -75,5 +75,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b34574c79b7c46585e4ccd/0x0.jpg?format=jpg&crop=4170,2782,x0,y104,safe&width=440",
         "date": "Mon, 17 Feb 2025 14:28:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/02/17/the-future-is-solo-ai-is-creating-billion-dollar-one-person-companies/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b37ad9c24d1607cbc6e36d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Feb 2025 18:23:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/17/omnihuman-and-the-singing-dancing-video-revolution/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b36c994db4964d80d8bf80/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Feb 2025 17:00:00 GMT",
+        "check": "no"
     }
 ]
