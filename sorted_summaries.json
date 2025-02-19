@@ -1,5 +1,33 @@
 [
     {
+        "title": "La nouvelle aventure de Mira Murati",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/18/the-prompt-former-openai-cto-mira-murati-reveals-her-new-ai-startup/?ss=ai",
+        "body": "L'ancienne CTO d'OpenAI, Mira Murati, lance Thinking Machine Labs, une entreprise qui vise à développer des systèmes d'IA accessibles et polyvalents. Elle s'entoure d'une équipe d'ingénieurs et de chercheurs expérimentés, et prévoit de publier ses travaux, y compris les codes sources, dans un esprit de collaboration et d'ouverture. \n\nLe résumé : \n\nMira Murati, ancienne CTO d'OpenAI, annonce sa nouvelle entreprise, Thinking Machine Labs, qui se concentre sur le développement d'IA accessible. Son équipe est composée de talents issus de startups reconnues dans le domaine. L'entreprise adopte une approche ouverte en publiant ses travaux, y compris les codes sources. Parallèlement, xAI, l'entreprise d'IA d'Elon Musk, dévoile Grok-3, un modèle de raisonnement capable de répondre à des questions complexes. La course à l'IA suscite des controverses, avec des poursuites contre Cohere pour violations de droits d'auteur, et des enjeux financiers importants, comme en témoigne la valorisation de Figure AI à près de 40 milliards de dollars. La sécurité est également un enjeu, avec l'utilisation frauduleuse de l'IA dans les arnaques romantiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b5042800146482c4765efb/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 18 Feb 2025 22:00:00 GMT"
+    },
+    {
+        "title": "Gemini, l'outil d'IA de Google",
+        "link": "https://www.theverge.com/2024/12/11/24318217/google-gemini-advanced-deep-research-launch",
+        "body": "Google a dévoilé un nouvel outil d'IA nommé Deep Research, qui permet aux utilisateurs d'exploiter les capacités de son bot Gemini pour effectuer des recherches approfondies sur le web et générer des rapports détaillés. Deep Research est actuellement disponible uniquement en anglais pour les abonnés à Gemini Advanced. Les utilisateurs peuvent demander à Gemini d'effectuer des recherches sur un sujet particulier, et le chatbot crée un plan de recherche multi-étapes, que l'utilisateur peut modifier ou approuver. Gemini effectue ses recherches en plusieurs étapes, en trouvant d'abord des informations intéressantes, puis en effectuant des recherches associées. Une fois terminé, il génère un rapport de ses principales découvertes, avec des liens vers les sources. Les utilisateurs peuvent demander à Gemini d'approfondir certains aspects ou de modifier son rapport, et ils peuvent également exporter la recherche vers Google Docs. Cette fonctionnalité ressemble à celle offerte par l'outil Pages de l'IA Perplexity. La sortie de Deep Research s'inscrit dans le cadre d'une annonce plus large de Google concernant Gemini 2.0, son nouveau modèle pour une ère d'IA \"agentique\", capable d'effectuer des tâches pour les utilisateurs.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-advanced-deep-research-mobile.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Feb 2025 21:50:59 GMT"
+    },
+    {
+        "title": "Google Meet améliore la prise de notes avec des listes de tâches et des dates d'échéance",
+        "link": "https://www.theverge.com/news/614742/google-meet-gemini-ai-note-taking-action-items#comments",
+        "body": "Google Meet améliore sa fonctionnalité de prise de notes alimentée par l'IA Gemini en ajoutant des listes de tâches et des dates d'échéance suggérées. La fonctionnalité, lancée l'année dernière, offre une transcription vocale-texte précise, séparant les intervenants et résumant les discussions dans un document Google partagé automatiquement après la réunion. La nouvelle mise à jour va plus loin en suggérant des étapes suivantes, y compris les délais et les parties prenantes responsables. Bien que l'IA ne puisse pas encore remplacer la créativité humaine, cette assistance en matière de prise de notes, si elle est déployée avec prudence, pourrait s'avérer utile pour les équipes Workspace, en particulier lorsqu'il s'agit de gérer des informations sensibles.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Feb 2025 20:52:51 GMT"
+    },
+    {
+        "title": "Les géants de la tech démocratisent l'IA conversationnelle",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grandes entreprises technologiques, telles que Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4), rendent les technologies de chatbot basées sur des modèles linguistiques massifs plus accessibles au grand public. Ces outils d'IA fonctionnent comme des systèmes d'autocompletion sophistiqués, prédisant le mot suivant dans une phrase en se basant sur les propriétés statistiques du langage. Cependant, ils peuvent présenter des informations erronées comme des faits, car ils n'ont pas de base de données de « faits » codée en dur. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les fonctionnalités améliorées de Google Meet, le retard du lancement d'Alexa par Amazon, des poursuites judiciaires contre des entreprises d'IA pour violation de droits d'auteur, et les problèmes de désinformation rencontrés par les chatbots d'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Feb 2025 20:52:51 GMT"
+    },
+    {
         "title": "L'avenir du commerce : les machines comme clients",
         "link": "https://www.forbes.com/sites/torconstantino/2025/02/18/machine-customers-ai-buyers-to-control-30-trillion-in-purchases-by-2030/?ss=ai",
         "body": "Les dirigeants d'entreprise prévoient que d'ici 2030, 21 % ou plus de leurs revenus proviendront de clients machines, selon Gartner. D'ici 2028, on estime que neuf milliards de produits B2B connectés à Internet, ou dispositifs de l'Internet des objets (IdO), pourraient devenir des « clients machines », capables d'effectuer des achats, de négocier des transactions et d'influencer les décisions commerciales de manière autonome. Les « clients machines » sont une sous-catégorie spécialisée d'agents IA, distincte des assistants numériques, des chatbots et des outils d'automatisation. L'auteur et analyste de Gartner, Don Scheibenreif, a introduit ce terme dans son livre « When Machines Become Customers », prédisant que les machines joueront un rôle croissant dans les décisions d'achat automatisées. Bien que les dirigeants reconnaissent le potentiel de ce marché, estimé à des trillions de dollars, la plupart des entreprises, en particulier les départements marketing, ne sont pas encore équipées pour vendre à des bots. Les stratégies de marketing traditionnelles, qui s'appuient sur l'aspect émotionnel, ne fonctionnent pas avec les clients machines, qui prennent des décisions basées sur des facteurs différents, tels que la disponibilité, le prix, l'impact environnemental et les pratiques DEI de l'entreprise. Sirte Pihlaja, spécialiste de l'expérience client, souligne que les équipes marketing doivent adapter leur contenu et leurs stratégies pour répondre aux besoins des clients machines, qui scannent et analysent les informations différemment des humains. Les entreprises doivent combler les lacunes en matière de compétences et accélérer l'acquisition de connaissances en matière d'IA pour tirer parti de cette nouvelle dynamique du marché.",
@@ -68,6 +96,13 @@
         "body": "L'article présente l'histoire de Mark, un veuf qui, après avoir perdu sa femme du cancer, décide de prendre un rôle plus actif dans la gestion de la santé de sa famille. En utilisant une application de séquençage génomique et des outils d'intelligence artificielle, Mark découvre que son fils est prédisposé à la maladie d'Alzheimer et que sa fille présente un risque élevé de cancer du sein. Pour optimiser leur santé, il crée des jumeaux numériques de sa famille, qui lui permettent de tester différents scénarios en matière d'alimentation, d'exercice physique et d'exposition à des facteurs environnementaux. Cette approche, appelée \"précision wellness\" par Michael O'Reilly, fondateur de Genomics Personalized Health, combine la génomique, l'IA, les facteurs environnementaux et le suivi du mode de vie pour prendre le contrôle de sa santé avant l'apparition de maladies. O'Reilly souligne que cette approche diffère de la médecine réactive traditionnelle et donne aux individus les moyens de surveiller leur santé et de prendre des décisions proactives et éclairées. L'article explore également le potentiel des plateformes de précision wellness qui intègrent des insights génomiques et des recommandations basées sur l'IA, ainsi que l'utilisation de jumeaux numériques dans le domaine de la santé pour mieux comprendre l'évolution des maladies et optimiser les plans de traitement. Enfin, il aborde les préoccupations en matière de confidentialité des données de santé personnelles et suggère d'utiliser la blockchain pour garantir la sécurité et la propriété de ces données.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b38850c2ca9a7ed9cac524/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Feb 2025 12:14:00 GMT"
+    },
+    {
+        "title": "Grok-3, l'IA de xAI, offre des capacités de raisonnement avancées",
+        "link": "https://www.theverge.com/news/614218/elon-musk-xai-big-brain-reasoning-grok-3",
+        "body": "Elon Musk a présenté Grok-3, la dernière version de son modèle d'IA développé par xAI. Grok-3 offre des capacités de raisonnement avancées, surpassant les modèles concurrents de OpenAI, Google et DeepSeek en termes de puissance de calcul et de performances. L'IA est capable de traiter des questions complexes en décomposant les instructions en tâches plus simples et en vérifiant les faits avant de fournir une réponse. xAI lance également Deep Search, un agent IA basé sur Grok, et prévoit d'ajouter une fonctionnalité de voix synthétisée à l'application Grok. L'abonnement X Premium Plus, nécessaire pour accéder à Grok-3, a augmenté à 40 $ par mois, et une nouvelle option SuperGrok offrira un accès anticipé aux fonctionnalités avancées pour 30 $ par mois.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Feb 2025 11:42:55 GMT"
     },
     {
         "title": "Image Generation Models and Bias",
@@ -147,6 +182,20 @@
         "date": "Mon, 17 Feb 2025 14:28:00 GMT"
     },
     {
+        "title": "L'avenir du journalisme ?",
+        "link": "https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo#comments",
+        "body": "The New York Times adopte des outils d'IA pour assister ses journalistes dans diverses tâches, telles que la suggestion d'éditions, de titres et de questions pour les interviews. L'IA sera également utilisée pour résumer des articles, coder et écrire. Le journal a introduit un outil interne appelé Echo pour résumer les articles et les briefings, et a fourni de nouvelles lignes directrices éditoriales sur l'utilisation de l'IA. Bien que l'IA soit utilisée pour assister les journalistes, le Times s'engage à ce que le travail journalistique soit toujours réalisé et supervisé par des humains. Le journal est impliqué dans une bataille juridique avec OpenAI et Microsoft, alléguant que ChatGPT a été formé sur du contenu du Times sans autorisation. D'autres publications ont également introduit l'IA dans leurs salles de rédaction, pour des tâches allant de la correction orthographique et grammaticale à la génération d'articles entiers.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2198481572.jpg?quality=90&strip=all&crop=0.002886836027713%2C0%2C99.994226327945%2C100&w=2400",
+        "date": "Mon, 17 Feb 2025 12:01:49 GMT"
+    },
+    {
+        "title": "DeepSeek : l'ascension fulgurante d'un concurrent chinois dans le domaine de l'IA",
+        "link": "https://www.theverge.com/24353060/deepseek-ai-china-nvidia-openai#comments",
+        "body": "DeepSeek, une startup chinoise, fait parler d'elle dans le domaine de l'IA en proposant des modèles linguistiques de grande taille et à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Leur modèle phare, R1, rivaliserait avec o1 d'OpenAI, tandis que leur nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a même fait chuter la valeur de l'action de Nvidia de 17 %, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière pour cette dernière. DeepSeek a été fondée en 2023 par Liang Wenfeng et s'est distinguée en développant des modèles IA open source avec moins d'argent et de GPU que ses concurrents. L'article explore également l'impact de DeepSeek sur les marchés financiers, les préoccupations concernant la sécurité des données, les réponses de ses concurrents et les implications potentielles pour l'avenir de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 17 Feb 2025 10:17:06 GMT"
+    },
+    {
         "title": "Les pièges de l'adoption précipitée de l'IA générative",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/02/17/5-fatal-genai-mistakes-that-could-destroy-your-business-in-2025/?ss=ai",
         "body": "Titre",
@@ -159,26 +208,5 @@
         "body": "Le texte explore les commentaires récents de Sam Altman sur l'importance future de l'IA et soulève la question de l'accessibilité économique de l'IA avancée pour tous. Il suggère que l'IA pourrait devenir si essentielle que tout le monde en dépendra, ce qui soulève la question du budget informatique nécessaire pour y accéder. L'article présente différents scénarios et solutions possibles, y compris la réduction des coûts d'utilisation de l'IA, la réglementation de l'IA en tant que ressource essentielle, et l'exploration de l'IA en tant que droit humain universel. Il met également en lumière les implications géopolitiques de l'accès à l'IA et les questions de souveraineté et de colonialisme numérique. Enfin, il soulève la possibilité que l'IA soit achetée à l'aide de jetons numériques plutôt que d'argent traditionnel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67aed2f1d3b1a85b6cb09f8e/0x0.jpg?format=jpg&crop=1454,1089,x177,y0,safe&width=440",
         "date": "Mon, 17 Feb 2025 04:00:00 GMT"
-    },
-    {
-        "title": "Les dangers de Grok, l'IA d'Elon Musk",
-        "link": "https://www.frandroid.com/culture-tech/2507211_voici-une-nouvelle-preuve-que-vous-ne-possedez-pas-vos-posts-sur-x-twitter",
-        "body": "Elon Musk, le nouveau propriétaire de Twitter, désormais appelé X, souhaite avoir un contrôle important sur les contenus publiés par les utilisateurs. Les nouvelles conditions générales de la plateforme permettent à X de réutiliser les images publiées, sans considération pour la propriété intellectuelle de l'œuvre originale. L'IA de Musk, Grok, peut ainsi remixer les œuvres, ce qui soulève des inquiétudes quant au respect des droits des artistes. De plus, Grok pourrait identifier à tort des œuvres originales comme étant générées par l'IA. Bien que le bouton \"remixer avec Grok\" ne soit pas disponible pour tous les utilisateurs, les conditions générales autorisent X à utiliser, copier et modifier les contenus publiés pour améliorer ses services d'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/x-frandroid-x-elon-musk-1200x675-1-768x432.jpg?resize=169,169&key=6ddc333f",
-        "date": "Sun, 16 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Compar:IA, une plateforme pour comparer les modèles d'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2507619_testez-gratuitement-gpt-4-claude-3-5-mistral-large-et-24-autres-ia-sur-la-plateforme-francaise-comparia",
-        "body": "En octobre 2024, le Ministère de la Culture et la Direction Interministérielle du Numérique (DINUM) ont lancé la plateforme compar:IA, un outil gratuit permettant de comparer et d'évaluer différents modèles d'intelligence artificielle conversationnelle. La plateforme donne accès à des modèles renommés tels que GPT-4o d'OpenAI, Claude 3.5 Sonnet v2 d'Anthropic, Gemini 2.0 Flash de Google, DeepSeek v3 et les différentes versions de Mistral, le modèle français. compar:IA permet aux utilisateurs de dialoguer simultanément avec deux modèles d'IA anonymisés, favorisant ainsi une comparaison objective et le développement de l'esprit critique. La plateforme contribue également à la préservation de la diversité linguistique en collectant les préférences des utilisateurs francophones, et promeut la démocratisation de l'IA en offrant un accès gratuit à une variété de modèles. Enfin, elle intègre une dimension écologique en évaluant l'impact environnemental des modèles grâce à l'approche d'Ecologits.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-2025-02-17-a-110350-1200x857-1-768x548.png?resize=214,214&key=9342f049",
-        "date": "Sun, 16 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA selon Elon Musk",
-        "link": "https://www.frandroid.com/marques/tesla/2507213_lia-la-plus-intelligente-sur-terre-devrait-bientot-etre-disponible-dans-les-tesla-selon-elon-musk",
-        "body": "Elon Musk, après avoir manifesté son intérêt pour le rachat d'OpenAI, se concentre maintenant sur le développement de sa propre IA, Grok 3, au sein de sa société xAI. Grok 3 est décrite comme l'IA \"la plus intelligente sur Terre\" et sera présentée officiellement lors d'un événement à Los Angeles. Musk prévoit également d'intégrer Grok dans les véhicules Tesla, ce qui pourrait être une mise à jour révolutionnaire pour l'industrie automobile. Grok 3 est conçu pour fournir des réponses directes et sans filtre, et sa capacité de calcul est en cours d'augmentation pour surpasser la concurrence. La présentation de Grok 3 devrait révéler plus de détails sur ses capacités et son impact potentiel sur l'avenir de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/33944890310-bcbc906514-o-1200x800-3-768x512.jpg?resize=200,200&key=7b0c73e6",
-        "date": "Sun, 16 Feb 2025 23:00:00 GMT"
     }
 ]
