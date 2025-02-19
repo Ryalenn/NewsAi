@@ -1,5 +1,12 @@
 [
     {
+        "title": "La prochaine génération d'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/19/openais-gpt-5-is-coming-heres-what-we-know-so-far/?ss=ai",
+        "body": "La prochaine mise à jour de ChatGPT, basée sur le modèle GPT-5, devrait révolutionner l'IA en unifiant les capacités de raisonnement avancées et le traitement du langage naturel. Cela pourrait éliminer le besoin de modèles IA distincts pour différentes applications métier. GPT-5 intégrera les capacités de raisonnement des modèles Omni de GPT-4 avec les capacités linguistiques des LLM, permettant une utilisation générale pour une large gamme de tâches. Cela marque un pas de plus vers l'objectif final de l'AGI. \n\nLes assistants IA dotés de GPT-5 pourront prédire, planifier, résoudre des problèmes et analyser avec une plus grande précision, offrant ainsi de nouvelles possibilités d'utilisation, notamment dans l'analyse de données complexes et la simulation de phénomènes naturels. La combinaison de la prédiction linguistique, de la mémoire et du raisonnement pourrait conduire à un comportement agentique beaucoup plus sophistiqué et responsable, réduisant les cas de \"hallucinations\" où les chatbots IA inventent simplement des réponses. \n\nDe plus, la \"unification\" des capacités de GPT-4 et des modèles Omni devrait améliorer l'expérience utilisateur en simplifiant l'interaction avec la plateforme. Ces avancées rendent l'IA générative plus attrayante pour les professionnels et les utilisateurs quotidiens, renforçant la confiance dans ses capacités et son utilité dans les tâches courantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b599fa3d06233d1740e935/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 19 Feb 2025 08:46:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : optimistes contre pessimistes",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/18/ai-doomers-versus-ai-accelerationists-locked-in-battle-for-future-of-humanity/?ss=ai",
         "body": "L'article explore le débat polarisé entre les \"pessimistes de l'IA\", qui croient que les progrès rapides de l'IA constituent un risque existentiel, et les \"optimistes de l'IA\", qui affirment que l'IA apportera des avantages monumentaux et fera progresser l'humanité. L'auteur souligne l'importance d'examiner les deux côtés de la question, reconnaissant les complexités et les nuances impliquées dans le développement de l'IA. Le débat couvre des sujets tels que le risque existentiel, l'impact économique, les progrès scientifiques et l'approche réglementaire, soulignant la nécessité d'une discussion rationnelle et ouverte. L'article encourage une réflexion nuancée sur l'avenir de l'IA, reconnaissant les avantages potentiels tout en gérant attentivement les risques associés.",
@@ -12,6 +19,13 @@
         "body": "L'IA révolutionne la chaîne d'approvisionnement, la rendant plus efficace et rentable. L'IA optimise la gestion des stocks, la maintenance prédictive, le suivi logistique en temps réel, la prévision de la demande et de l'offre, et la réactivité aux changements de comportement des consommateurs. Elle améliore également la production en fonction de la demande, réduit les déchets et optimise les ressources. De plus, l'IA permet d'analyser les données de divers facteurs tels que les coûts de transport, les délais de livraison et les performances des fournisseurs, améliorant ainsi l'ensemble du processus de la chaîne d'approvisionnement. La gestion des risques liés aux fournisseurs est également améliorée grâce à l'IA, qui prédit les perturbations potentielles et suggère des alternatives. L'automatisation des entrepôts et la livraison du dernier kilomètre sont également améliorées par l'IA, ce qui réduit les coûts de main-d'œuvre et améliore l'efficacité et la précision des commandes. Enfin, l'IA permet aux entreprises de mieux naviguer dans les complexités de la chaîne d'approvisionnement, d'optimiser la logistique et de gérer les risques liés aux fournisseurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b53813c5855ca30c25aa04/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Feb 2025 01:00:00 GMT"
+    },
+    {
+        "title": "Humane AI Pin : la fin d'une utopie",
+        "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/2510363_humaine-ai-pin-le-tueur-du-smartphone-est-mort-et-le-smartphone-vit-toujours",
+        "body": "L'entreprise Humane, qui avait créé le buzz avec son AI Pin, un accessoire intelligent censé remplacer les smartphones, a été rachetée par HP. La commercialisation de l'AI Pin a été entachée de polémiques et les ventes ont été décevantes. L'entreprise, qui cherchait un repreneur, a été rachetée pour 116 millions d'euros, bien en deçà de sa valorisation estimée à 1 milliard d'euros. HP est surtout intéressé par les talents de l'entreprise et son portefeuille de brevets. La division matérielle de Humane sera fermée et les serveurs débranchés, rendant l'AI Pin inutilisable à partir du 28 février.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/humane-ai-pin-frandroid-humane-ai-pin-business-768x511.jpeg?resize=200,200&key=aa359b52",
+        "date": "Tue, 18 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "La nouvelle aventure de Mira Murati",
@@ -208,12 +222,5 @@
         "body": "DeepSeek, une startup chinoise, fait parler d'elle dans le domaine de l'IA en proposant des modèles linguistiques de grande taille et à faible coût, prétendument aussi performants que ceux de géants comme OpenAI et Meta. Leur modèle phare, R1, rivaliserait avec o1 d'OpenAI, tandis que leur nouveau modèle multimodal Janus Pro surpasserait Stable Diffusion et DALL-E 3. L'application DeepSeek a rapidement atteint le sommet de l'App Store, et l'entreprise a même fait chuter la valeur de l'action de Nvidia de 17 %, entraînant une perte de près de 600 milliards de dollars de capitalisation boursière pour cette dernière. DeepSeek a été fondée en 2023 par Liang Wenfeng et s'est distinguée en développant des modèles IA open source avec moins d'argent et de GPU que ses concurrents. L'article explore également l'impact de DeepSeek sur les marchés financiers, les préoccupations concernant la sécurité des données, les réponses de ses concurrents et les implications potentielles pour l'avenir de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Feb 2025 10:17:06 GMT"
-    },
-    {
-        "title": "Les pièges de l'adoption précipitée de l'IA générative",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/17/5-fatal-genai-mistakes-that-could-destroy-your-business-in-2025/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b2dd013e04f3fd83a0b7e7/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Feb 2025 07:00:00 GMT"
     }
 ]
