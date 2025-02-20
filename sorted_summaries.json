@@ -1,5 +1,26 @@
 [
     {
+        "title": "Nouvelles évolutions dans le partenariat Microsoft-OpenAI",
+        "link": "https://www.theverge.com/2025/1/21/24349006/microsoft-openai-compute-partnership",
+        "body": "Microsoft et OpenAI ont modifié leur partenariat, accordant à OpenAI un accès à la puissance de calcul de ses concurrents. L'accord initial, qui court jusqu'en 2030, reste globalement inchangé, avec des droits exclusifs pour Microsoft sur la technologie OpenAI et l'API OpenAI restant exclusive à Azure. Cependant, l'exclusivité sur la nouvelle capacité de calcul est devenue un droit de premier refus pour Microsoft, qui a également approuvé la construction de capacités supplémentaires par OpenAI pour la recherche et l'entraînement de modèles. Auparavant, OpenAI était limité à l'utilisation de l'infrastructure cloud Azure de Microsoft. Ce changement fait suite à la création de Stargate, un projet de centres de données aux États-Unis en collaboration avec Arm, Nvidia, Oracle et OpenAI. OpenAI a besoin de milliards de dollars en puissance de calcul pour ses modèles et sa base d'utilisateurs, ce qui a conduit à des tensions dans le partenariat en raison de la vitesse de fourniture de ressources par Microsoft. L'accord comprend une clause inhabituelle permettant à OpenAI de mettre fin au partenariat s'il développe une intelligence artificielle générale (AGI), définie comme un système capable de générer plus de 100 milliards de dollars de profits.",
+        "image": "",
+        "date": "Thu, 20 Feb 2025 14:03:16 GMT"
+    },
+    {
+        "title": "L'année des agents IA",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/02/20/how-to-start-using-ai-agents-to-transform-your-business-now/?ss=ai",
+        "body": "Résumé : \n\nL'article prédit que 2025 sera l'année où les agents IA transformeront les entreprises, soulignant leur capacité à prendre des décisions et à agir de manière autonome. Il fournit des conseils pour une implémentation réussie, y compris la définition des problèmes spécifiques à résoudre, la compréhension des différents types d'agents IA et de leurs fonctions, et la construction et le déploiement progressif d'agents. L'article souligne également l'importance de la supervision humaine et d'une approche responsable de la mise en œuvre de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b733b57d8a9a363e3f3077/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Feb 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Réinventer les soins de santé avec l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/20/ai-can-save-us-six-new-elements-of-self-care/?ss=ai",
+        "body": "L'IA, les wearables, les données multimodales, la réalité augmentée/virtuelle et d'autres innovations transforment rapidement les soins de santé. L'un des progrès les plus significatifs est la possibilité de surveiller en continu les signes vitaux grâce à des wearables intelligents à faible coût. L'IA permet également d'exploiter de nouveaux types de données de santé multimodales, notamment la génomique, l'analyse du microbiome et les déterminants sociaux de la santé, pour créer des profils de santé complets. Les systèmes basés sur l'IA permettront de passer d'une approche réactive des soins de santé à une optimisation de la santé continue et personnalisée. De plus, les outils de diagnostic assistés par l'IA peuvent détecter les maladies plus tôt et avec une plus grande précision. L'intégration de l'IA dans les flux de travail des soins de santé peut aider à réduire les coûts et à améliorer l'accessibilité. La convergence de l'IA, des wearables, des plateformes de santé numériques et de la médecine personnalisée est sur le point de révolutionner les soins de santé, en mettant l'accent sur la prévention, la prédiction et la personnalisation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6505e47c3104c920b72250ba/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Feb 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'illusion du temps de réflexion dans l'IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/19/how-giving-ai-more-thinking-time-lands-into-an-overthinking-trap/?ss=ai",
         "body": "Bien que l'allocation de plus de temps et de ressources informatiques à l'IA puisse parfois améliorer ses performances, il ne s'agit pas d'une solution universelle et cache un problème plus profond dans la conception de l'IA contemporaine. L'article remet en question l'idée selon laquelle donner plus de \"temps de réflexion\" ou de \"temps de calcul\" à l'IA est la clé pour améliorer ses réponses. Bien que cela puisse parfois être bénéfique, il existe des inconvénients et des limites à cette approche. L'auteur souligne que cette stratégie peut entraîner un gaspillage de temps et de ressources, et que l'IA peut même s'égarer et fournir des réponses incorrectes ou confuses. De plus, les coûts de calcul supplémentaires peuvent être supportés par les utilisateurs, même s'ils ne les paient pas directement. L'article conclut que les améliorations à court terme obtenues grâce à des ressources informatiques supplémentaires ne résolvent pas les problèmes sous-jacents de conception et d'architecture de l'IA, et que des approches plus innovantes sont nécessaires pour de véritables progrès à long terme.",
@@ -19,6 +40,20 @@
         "body": "Hoan Ton-That, co-fondateur et ancien PDG de Clearview AI, a démissionné de son poste en décembre, devenant président, puis démissionnant complètement de l'entreprise en janvier. Clearview AI a été au centre d'une controverse en 2020 pour avoir collecté des milliards d'images de médias sociaux sans le consentement des utilisateurs. Ton-That, qui était le visage public de l'entreprise, a fait face à une avalanche de poursuites de la part de groupes de défense des droits civils concernant les violations de la vie privée. Clearview AI, avec sa base de données de 60 milliards d'images, s'est engagé à ne vendre qu'aux agences gouvernementales, principalement aux forces de l'ordre locales. L'entreprise a connu des difficultés pour vendre ses technologies aux agences fédérales sous l'administration Biden en raison de préoccupations concernant les droits civils et la vie privée. Clearview AI a généré 16 millions de dollars de revenus annuels récurrents, principalement grâce à des contrats avec les forces de l'ordre locales, et espère tripler ce chiffre cette année.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b65b71dc5437ff936207b4/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 20 Feb 2025 00:00:00 GMT"
+    },
+    {
+        "title": "L'ascension de Rabbit",
+        "link": "https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream",
+        "body": "Rabbit, une startup d'IA, a vendu 40 000 unités de son gadget R1 à 199 $ en seulement huit jours lors du CES en janvier. Son système d'exploitation Rabbit OS, basé sur un \"Large Action Model\", agit comme un assistant virtuel universel interagissant avec des applications courantes. La société a récemment lancé le \"LAM Playground\", un agent web généraliste, et la fonctionnalité \"Teach Mode\" qui permet aux utilisateurs d'enseigner des tâches à l'IA. Malgré des critiques mitigées, Rabbit a vendu 100 000 R1 et continue d'innover, avec des fonctionnalités telles que la personnalisation de l'interface par l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214892/videoframe_787161.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 19 Feb 2025 23:06:59 GMT"
+    },
+    {
+        "title": "La chute de l'AI Pin",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2512557_cest-officiel-lai-pin-ne-servira-plus-a-rien",
+        "body": "L'AI Pin, un appareil de Humane présenté comme une curiosité en 2024, est un échec cuisant. Moins d'un an après sa sortie, il est racheté par HP, et les fonctionnalités connectées seront coupées en février 2025. Les utilisateurs pourront seulement utiliser la fonction hors-ligne de l'indicateur de niveau de batterie. Malgré cela, Humane se tourne vers de nouveaux projets, en intégrant un laboratoire d'innovation en IA chez HP pour créer un écosystème intelligent.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/247075-humane-ai-pin-akrales-0499-1200x800-1-768x512.jpg?resize=200,200&key=6e26ec2e",
+        "date": "Wed, 19 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Xbox et l'IA générative",
@@ -278,26 +313,5 @@
         "body": "Meta organisera une nouvelle conférence, \"LlamaCon\", lors de laquelle elle partagera des mises à jour sur les développements de l'IA open source pour aider les développeurs à créer des applications et des produits. LlamaCon aura lieu le 29 avril 2025, des mois avant la conférence Meta Connect prévue pour les 17 et 18 septembre. Meta prévoit d'investir des milliards dans l'IA cette année et pourrait également lancer une nouvelle paire de lunettes intelligentes avec un affichage tête haute plus petit.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 18 Feb 2025 16:53:00 GMT"
-    },
-    {
-        "title": "Amélioration vidéo avec Project Starlight",
-        "link": "https://community.topazlabs.com/t/project-starlight-video-ai-6-1-beta-3/87446",
-        "body": "Topaz Video AI annonce une mise à jour de son modèle de diffusion Project Starlight, qui permet désormais le rendu de jusqu'à 9000 images de rendu Starlight en utilisant des crédits cloud. Cette mise à jour marque une évolution significative par rapport aux modèles précédents, offrant la plus grande amélioration des capacités du modèle depuis le lancement de Video AI. Project Starlight est capable d'améliorer même les séquences vidéo les plus difficiles, y compris celles qui produisaient auparavant des artefacts avec les modèles actuels. Bien que ce modèle soit plus lent et plus coûteux à exécuter, l'entreprise prévoit d'étendre son accessibilité aux GPU de bureau haut de gamme. Les utilisateurs actifs de Video AI peuvent actuellement traiter gratuitement trois aperçus de 10 secondes par semaine, avec des résultats partageables via des liens non répertoriés. De plus, les utilisateurs de Video AI peuvent également rendre jusqu'à 9000 images vidéo (5 minutes à 30 images par seconde) à l'aide de Starlight, avec une tarification promotionnelle de 90 crédits par minute.",
-        "image": "",
-        "date": "Tue, 18 Feb 2025 15:11:00 GMT"
-    },
-    {
-        "title": "Meta's AI Ambitions",
-        "link": "https://www.theverge.com/the-vergecast/614299/meta-metaverse-ai-plans-2025",
-        "body": "L'épisode de *The Vergecast* explore les récents changements de direction de Meta et Sonos, deux entreprises qui ont beaucoup évolué ces dernières années. Concernant Meta, la discussion se concentre sur son engagement dans l'IA, avec des modèles comme Llama et des produits comme les lunettes intelligentes Ray-Ban. La monétisation via les publicités Facebook est également abordée. La société a récemment changé de nom pour refléter son intérêt pour le métaverse, mais l'IA semble être sa priorité actuelle. La conversation couvre également les ventes de lunettes intelligentes, les changements de position politique de l'entreprise et une note interne du CTO prédisant le succès ou l'échec du métaverse d'ici 2025. La deuxième partie de l'épisode se concentre sur Sonos, qui a lancé un casque de bonne qualité mais a connu des problèmes avec sa nouvelle application. Sonos a une nouvelle équipe de direction et prévoit de nouvelles lignes de produits, mais doit regagner la confiance de ses fans après des lancements récents décevants.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Tuesday_VergecastVST_0211_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 18 Feb 2025 14:37:58 GMT"
-    },
-    {
-        "title": "Révolution de l'animation 3D",
-        "link": "https://www.forbes.com/sites/charliefink/2025/02/18/replikant-chat-brings-ai-characters-to-life/?ss=ai",
-        "body": "REPLIKANT, une nouvelle plateforme d'animation 3D alimentée par l'IA, offre des outils innovants pour l'animation des personnages et des lèvres, ainsi qu'une intégration avec des caméras animées. L'application, bien notée sur Steam et suivie sur YouTube, est utilisée dans divers domaines, de l'éducation au divertissement. Elle permet des conversations naturelles en temps réel avec des avatars IA, incluant des mouvements du corps et un contact visuel. L'IA accède à des sources de connaissances externes et offre une personnalisation pour différents cas d'utilisation. L'outil est accessible à un large public, avec un modèle freemium et une disponibilité multiplateforme. REPLIKANT vise à démocratiser l'animation professionnelle, combinant animation procédurale et personnalisation basée sur l'IA pour transformer la narration numérique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67afeae595ee8c790c8626b0/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Feb 2025 13:00:00 GMT"
     }
 ]
