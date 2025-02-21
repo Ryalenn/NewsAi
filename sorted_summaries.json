@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : l'informatique en périphérie et l'évolution des LLM",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/21/edge-computing-for-tomorrow/?ss=ai",
+        "body": "L'informatique en périphérie (Edge Computing) est l'une des innovations fondamentales les plus importantes de la dernière décennie, permettant aux LLM de passer d'un modèle mainframe centralisé à un modèle décentralisé sur les appareils utilisateurs en seulement un an et demi. Cette évolution ouvre de nombreuses opportunités, notamment pour l'IoT et l'intelligence artificielle. Les intervenants, dont des représentants d'Ericsson, de Toyota Research, de VoiceBrain, de Rockwell Automation et de Liquid AI, ont discuté de l'impact de cette technologie sur divers secteurs, tels que la sécurité publique, l'automobile et la résolution des problèmes de connectivité. Ils ont souligné l'importance de garantir l'utilisation éthique de l'IA et de ne pas considérer uniquement les données, mais aussi les actions en boucle fermée que l'IA peut désormais effectuer en périphérie, sans connectivité Internet.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b890637e82cb67ad0a033e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 21 Feb 2025 14:43:00 GMT"
+    },
+    {
         "title": "OpenAI lance un agent IA capable de naviguer sur le web",
         "link": "https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer",
         "body": "OpenAI a présenté un aperçu de recherche d'un agent IA nommé Operator, capable d'effectuer des tâches en ligne pour l'utilisateur. Operator utilise un modèle \"Computer-Using Agent\" qui combine les capacités de vision de GPT-4 avec le renforcement de l'apprentissage pour interagir avec les interfaces graphiques. Il peut naviguer sur le web, saisir du texte, cliquer et faire défiler. Operator est conçu pour \"voir\" à travers des captures d'écran et \"interagir\" avec un navigateur, tout en étant capable de s'auto-corriger et de demander l'aide de l'utilisateur si nécessaire. OpenAI collabore avec des entreprises pour s'assurer que l'agent répond aux besoins du monde réel et respecte les normes établies. L'outil est actuellement disponible pour les abonnés américains de ChatGPT Pro, mais OpenAI prévoit de l'étendre à d'autres utilisateurs et de l'intégrer à ChatGPT dans le futur.",
@@ -26,6 +33,13 @@
         "body": "L'article couvre plusieurs développements importants dans le domaine de l'IA et de la RA, avec un accent particulier sur leur utilisation dans le divertissement et la technologie. Niantic, la société derrière Pokémon Go, envisage de vendre le jeu à Scopely Inc. pour 3,5 milliards de dollars, soulignant la valeur croissante des jeux mobiles en RA. Brahma, une filiale de technologie d'IA, acquiert Metaphysic, une entreprise spécialisée dans la technologie de deepfake et les outils d'IA pour la création de contenu photoréaliste. HP acquiert Humane, la startup derrière l'AI Pin, pour 116 millions de dollars, avec l'intention d'intégrer leur équipe et leur technologie dans une nouvelle division axée sur l'IA. Microsoft dévoile la puce Majorana 1, une avancée significative dans l'informatique quantique, offrant un potentiel de calcul bien supérieur aux ordinateurs classiques. Alpha3D, une plateforme de création d'actifs 3D basée sur l'IA, acquiert MoonlanderAI, étendant ainsi les outils de développement de jeux basés sur l'IA. Enfin, l'article discute de l'évolution des expériences de création dans les jeux vidéo à grande échelle, comme Grand Theft Auto, et de l'émergence de communautés sociales dans les espaces de réalité virtuelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b7cd6c0756e72d81a1006d/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 21 Feb 2025 01:02:00 GMT"
+    },
+    {
+        "title": "La révolution de l'audio numérique",
+        "link": "https://www.frandroid.com/services/streaming-musical/2515057_fini-les-voix-humaines-votre-prochain-livre-audio-sur-spotify-sera-peut-etre-100-ia",
+        "body": "Spotify s'associe à ElevenLabs, une entreprise spécialisée dans la technologie de narration vocale basée sur l'IA, pour offrir une option de narration IA aux auteurs de livres électroniques. Les écrivains peuvent désormais faire \"narrer\" leurs livres par l'IA d'ElevenLabs, les télécharger et les distribuer sur Spotify via la plateforme \"Findaway Voices\". ElevenLabs offre une gamme de 29 langues pour la narration, et les auditeurs seront informés si le contenu est narré par une voix numérique. Cette initiative a le potentiel de révolutionner l'industrie de l'audio en ligne, en particulier pour les livres audio, en offrant une alternative efficace et économique aux voix humaines.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/livre-audio-illustration-1200x799-1-768x511.jpg?resize=200,200&key=460c78fc",
+        "date": "Thu, 20 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "ChatGPT continue de séduire malgré la concurrence",
@@ -117,6 +131,13 @@
         "body": "Hoan Ton-That, co-fondateur et ancien PDG de Clearview AI, a démissionné de son poste en décembre, devenant président, puis démissionnant complètement de l'entreprise en janvier. Clearview AI a fait l'objet de controverses en 2020 pour sa collecte de milliards d'images de médias sociaux sans le consentement des utilisateurs. Ton-That, qui était le visage public de l'entreprise, a supervisé la création d'un outil de reconnaissance faciale basé sur une base de données de milliards de photos récupérées sur les réseaux sociaux. L'outil a été largement testé par des organismes gouvernementaux, des détaillants et des organismes d'application de la loi, suscitant des inquiétudes concernant le déploiement à grande échelle de la reconnaissance faciale. Clearview AI a fait face à une avalanche de poursuites judiciaires de la part de groupes de défense des droits civils et a conclu des règlements tout en continuant à travailler avec les organismes gouvernementaux. L'entreprise, qui revendique une base de données de 60 milliards d'images, s'est engagée à ne vendre qu'aux organismes gouvernementaux, principalement aux forces de l'ordre locales. Clearview AI a des contrats avec le gouvernement ukrainien pour identifier les soldats tombés au combat et espère développer ses activités avec l'administration Trump, en mettant l'accent sur la sécurité et l'expansion de la surveillance biométrique. L'entreprise a généré 16 millions de dollars de revenus annuels récurrents, principalement à partir de contrats avec les forces de l'ordre locales, et espère tripler ses revenus cette année.",
         "image": "",
         "date": "Thu, 20 Feb 2025 03:29:00 GMT"
+    },
+    {
+        "title": "Démocratisation de l'audiobook IA",
+        "link": "https://www.theverge.com/news/616355/spotify-audiobooks-elevenlabs-ai-narration#comments",
+        "body": "Spotify s'associe à ElevenLabs pour faciliter la création et la diffusion d'audiobooks narrés par l'IA. ElevenLabs est un fournisseur de voix IA reconnu, offrant 29 langues et une large gamme de voix synthétiques. Bien que Spotify valorise la narration humaine, il reconnaît le potentiel de l'IA pour réduire les coûts de production et encourager la création d'audiobooks à partir de titres plus anciens et moins connus. Les titres narrés par l'IA seront identifiés comme tels dans les métadonnées et les descriptions.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 20 Feb 2025 00:00:00 GMT"
     },
     {
         "title": "Clearview AI CEO Steps Down",
@@ -236,40 +257,5 @@
         "body": "Fiverr, une plateforme de services freelance, lance un nouvel outil permettant aux créateurs de former des modèles d'IA sur leur propre travail. Les clients peuvent ainsi acheter l'accès à des modèles d'IA personnalisés et générer du contenu rapidement, tout en bénéficiant de l'expertise d'un professionnel. Cette fonctionnalité fait partie de la nouvelle suite d'outils Fiverr Go, qui donne aux créateurs le contrôle total sur leur processus créatif et leurs droits. Les freelances peuvent éditer et fixer le prix de leurs modèles d'IA personnalisés, qui sont proposés pour divers services tels que les voix off, l'écriture de chansons, la conception graphique, l'illustration, la rédaction de copies et le marketing numérique. Fiverr souligne que, en raison de la nature de l'IA, des sorties exclusives ne peuvent être garanties et que des résultats similaires pourraient être générés pour différents utilisateurs. La plateforme indique également que seuls les meilleurs freelances sélectionnés auront accès à la suite d'IA au départ, afin de garantir une adoption et des résultats de haute qualité.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/AI_art_chat_H_Jeong_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 19 Feb 2025 15:23:00 GMT"
-    },
-    {
-        "title": "L'avenir de la créativité avec l'IA",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/02/19/from-patrons-to-platforms-will-ai-produce-a-new-hollywood-golden-age/?ss=ai",
-        "body": "L'article explore l'impact potentiel de l'IA sur le processus créatif, en particulier dans l'industrie cinématographique. Il compare la situation actuelle des cinéastes aux peintres de la Renaissance, qui dépendaient des mécènes pour leur soutien financier. De nos jours, les cinéastes sont confrontés à des contraintes similaires imposées par les studios hollywoodiens, qui financent leurs projets. L'auteur suggère que l'IA pourrait être un outil puissant pour les cinéastes, leur permettant de contourner les contraintes traditionnelles et de réaliser leur vision créative en toute liberté. John C. Gaeta, un pionnier de l'IA dans l'industrie cinématographique, présente sa plateforme \"escape.ai\", qui vise à fusionner le cinéma, les jeux vidéo, l'IA générative et la réalité immersive pour créer une nouvelle forme de narration. Gaeta croit que l'IA peut être un outil d'amélioration de la créativité humaine, permettant aux cinéastes de créer des mondes interactifs et évolutifs qui transcendent la narration traditionnelle. L'article conclut que, malgré les craintes que l'IA remplace la créativité humaine, son véritable potentiel réside dans l'amélioration des capacités des artistes, leur permettant de libérer leur créativité et d'inaugurer une nouvelle ère cinématographique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b4c2ca636eb09e49310222/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Feb 2025 14:30:00 GMT"
-    },
-    {
-        "title": "Meta's Undersea Cable",
-        "link": "https://www.theverge.com/2024/11/29/24308746/meta-10-billion-global-subsea-cable-project",
-        "body": "Meta prévoit de construire un câble sous-marin en fibre optique qui encerclera le globe, évitant les zones de tension géopolitique. Ce projet, estimé à 10 milliards de dollars, s'étendrait sur plus de 40 000 kilomètres et serait entièrement détenu par l'entreprise, lui donnant un contrôle total sur le trafic prioritaire pour ses produits et services. Cette initiative alignerait Meta sur les efforts de Google, qui possède également des routes de câbles privés et a investi dans d'autres. Le câble, surnommé \"W\" en raison de sa forme, est considéré comme le \"plus grand de tous les câbles sous-marins\" et devrait prendre entre 5 et 10 ans pour être achevé. Meta devrait révéler davantage de détails sur le projet, notamment sa capacité, son itinéraire prévu et les raisons de sa construction privée, au début de 2025. L'itinéraire du câble reliera la côte est des États-Unis à la côte ouest, avec des points de connexion en Inde, en Afrique du Sud et en Australie, tout en évitant les régions où des coupures de câble ont récemment été observées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Meta-Project-Waterworth-map.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Feb 2025 14:01:11 GMT"
-    },
-    {
-        "title": "La chute de Humane",
-        "link": "https://www.theverge.com/gadgets/615135/humane-ai-pin-shutdown-disaster#comments",
-        "body": "La startup Humane, fondée en 2018, a levé 230 millions de dollars et a récemment vendu une partie de sa technologie à HP pour 116 millions de dollars. La société a développé le Humane AI Pin, un gadget portable qui a été largement promu comme étant à la pointe de la technologie IA. Cependant, le produit a été lancé trop tôt, avec des fonctionnalités de base manquantes et des performances médiocres. Malgré des mises à jour, les ventes ont été dépassées par les retours et la société a dû rappeler l'étui de chargement en raison de risques de surchauffe. L'article critique également le prix élevé du dispositif et les frais mensuels obligatoires. La chute de Humane est considérée comme l'une des pires échecs technologiques de tous les temps, et sert d'avertissement aux startups qui cherchent à se précipiter sur le marché avec des produits IA non testés.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25379325/247075_Humane_AI_pin_AKrales_0144.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Feb 2025 13:35:57 GMT"
-    },
-    {
-        "title": "L'échec de l'épingle AI de Humane",
-        "link": "https://www.theverge.com/2023/11/9/23954497/humane-ai-pin-wearable-news-announcements",
-        "body": "L'entreprise Humane, qui a développé une épingle AI portable, a été rachetée par HP pour 116 millions de dollars. L'épingle AI, qui a été lancée fin 2023, était un petit gadget qui pouvait s'attacher aux vêtements à l'aide d'un pack de batterie magnétique. Malgré un prix élevé de 699 dollars et un abonnement mensuel de 24 dollars, l'épingle AI n'a pas réussi à convaincre et a été abandonnée moins d'un an après son lancement. HP acquiert l'équipe et la technologie de Humane, mais mettra fin aux services et au support de l'épingle AI à la fin février, sans offrir de remboursement aux propriétaires en dehors de la fenêtre de retour de 90 jours. L'épingle AI a été critiquée pour ses réponses lentes et une expérience utilisateur décevante, et n'a pas réussi à se positionner comme un remplacement pour les smartphones comme promis par ses fondateurs.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25071922/F_gmLL4bQAAb4iR.jpeg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Wed, 19 Feb 2025 13:35:57 GMT"
-    },
-    {
-        "title": "Maîtriser l'art de fidéliser les clients",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/02/19/6-chatgpt-prompts-to-improve-client-retention-and-engagement-in-2025/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b567fa45ff4ed4e6ab2c73/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Feb 2025 13:00:00 GMT"
     }
 ]
