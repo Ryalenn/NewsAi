@@ -1,5 +1,19 @@
 [
     {
+        "title": "OpenAI lance un agent IA capable de naviguer sur le web",
+        "link": "https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer",
+        "body": "OpenAI a présenté un aperçu de recherche d'un agent IA nommé Operator, capable d'effectuer des tâches en ligne pour l'utilisateur. Operator utilise un modèle \"Computer-Using Agent\" qui combine les capacités de vision de GPT-4 avec le renforcement de l'apprentissage pour interagir avec les interfaces graphiques. Il peut naviguer sur le web, saisir du texte, cliquer et faire défiler. Operator est conçu pour \"voir\" à travers des captures d'écran et \"interagir\" avec un navigateur, tout en étant capable de s'auto-corriger et de demander l'aide de l'utilisateur si nécessaire. OpenAI collabore avec des entreprises pour s'assurer que l'agent répond aux besoins du monde réel et respecte les normes établies. L'outil est actuellement disponible pour les abonnés américains de ChatGPT Pro, mais OpenAI prévoit de l'étendre à d'autres utilisateurs et de l'intégrer à ChatGPT dans le futur.",
+        "image": "",
+        "date": "Fri, 21 Feb 2025 11:10:58 GMT"
+    },
+    {
+        "title": "L'avenir de l'AGI",
+        "link": "https://www.forbes.com/sites/charlestowersclark/2025/02/21/deepl-ceo-challenges-microsoft--openais-100-billion-agi-definition/?ss=ai",
+        "body": "L'article explore la définition de l'AGI (Artificial General Intelligence) et la controverse entourant la récente évaluation de Microsoft et OpenAI, qui l'estiment à 100 milliards de dollars de revenus annuels. Les leaders de l'industrie ont des opinions divergentes sur ce qu'est l'AGI et sur le calendrier de sa réalisation. Jarek Kutylowski, PDG de DeepL, met en garde contre un enthousiasme prématuré et souligne l'importance de comprendre les limitations de la technologie. Le débat sur le calendrier de l'AGI dépend de la définition que l'on en donne : si l'on se concentre uniquement sur les capacités cognitives, des prédictions ambitieuses d'une émergence dans 2 à 4 ans semblent plausibles, mais si l'on inclut les capacités physiques, nous sommes encore loin du compte. L'auteur partage également sa propre expérience avec les prédictions de l'IA, soulignant l'importance de prendre en compte la résistance humaine au changement. L'intégration de l'AGI dans la société sera probablement progressive, permettant à la société de s'adapter à un rythme gérable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b83c9b922eca390e907242/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 21 Feb 2025 08:00:00 GMT"
+    },
+    {
         "title": "L'intelligence artificielle et l'horloge de l'apocalypse",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/02/21/impact-of-ai-on-the-infamous-doomsday-clock-countdown/?ss=ai",
         "body": "L'Horloge de l'Apocalypse, une métaphore de la proximité de l'humanité avec l'autodestruction, a récemment été ajustée pour indiquer que nous sommes plus près que jamais de la fin des temps. Bien que les principaux facteurs de ce changement soient les armements nucléaires, les armes biologiques et le changement climatique, l'avancée de l'IA est également considérée comme une menace. L'article explore le rôle de l'IA dans l'Horloge de l'Apocalypse, suggérant qu'elle pourrait à la fois accélérer et retarder la fin de notre existence. L'IA peut être utilisée pour le bien, comme pour trouver un remède au cancer, mais elle présente également des risques importants, notamment lorsqu'elle est connectée à des dispositifs physiques ou utilisée pour influencer les humains à des fins néfastes. L'auteur souligne l'importance de considérer tous les types d'IA, pas seulement l'IA générative, et met en évidence le débat en cours sur le rôle de l'IA dans le mouvement de l'Horloge de l'Apocalypse. L'article se termine par des réflexions sur le rôle de l'humanité dans la formation de l'IA et son impact potentiel sur notre monde.",
@@ -12,6 +26,27 @@
         "body": "L'article couvre plusieurs développements importants dans le domaine de l'IA et de la RA, avec un accent particulier sur leur utilisation dans le divertissement et la technologie. Niantic, la société derrière Pokémon Go, envisage de vendre le jeu à Scopely Inc. pour 3,5 milliards de dollars, soulignant la valeur croissante des jeux mobiles en RA. Brahma, une filiale de technologie d'IA, acquiert Metaphysic, une entreprise spécialisée dans la technologie de deepfake et les outils d'IA pour la création de contenu photoréaliste. HP acquiert Humane, la startup derrière l'AI Pin, pour 116 millions de dollars, avec l'intention d'intégrer leur équipe et leur technologie dans une nouvelle division axée sur l'IA. Microsoft dévoile la puce Majorana 1, une avancée significative dans l'informatique quantique, offrant un potentiel de calcul bien supérieur aux ordinateurs classiques. Alpha3D, une plateforme de création d'actifs 3D basée sur l'IA, acquiert MoonlanderAI, étendant ainsi les outils de développement de jeux basés sur l'IA. Enfin, l'article discute de l'évolution des expériences de création dans les jeux vidéo à grande échelle, comme Grand Theft Auto, et de l'émergence de communautés sociales dans les espaces de réalité virtuelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b7cd6c0756e72d81a1006d/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 21 Feb 2025 01:02:00 GMT"
+    },
+    {
+        "title": "ChatGPT continue de séduire malgré la concurrence",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2514507_chatgpt-conserve-son-avance-sur-le-chinois-deepseek",
+        "body": "Malgré l'émergence de DeepSeek, un modèle d'IA chinois, ChatGPT d'OpenAI maintient sa popularité avec une augmentation de 33% d'utilisateurs actifs hebdomadaires en février. L'entreprise américaine compte désormais 400 millions d'utilisateurs, attirés par l'utilité et la curiosité technologique de l'IA. La version professionnelle de ChatGPT compte également deux millions d'utilisateurs. L'adoption massive de l'IA incite à la création de politiques publiques pour un cadre légal plus éthique et une meilleure gestion environnementale.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/deepseek-vs-open-ai-chatgpt-bis-1200x750-1-768x480.png?resize=188,188&key=988244ee",
+        "date": "Thu, 20 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Montage vidéo assisté par l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2505459_premiere-pro-adobe-transforme-le-montage-video-grace-a-ses-outils-dintelligence-artificielle",
+        "body": "Adobe Premiere Pro intègre de nouvelles fonctionnalités basées sur l'IA pour améliorer le flux de travail de montage vidéo. L'extension générative permet d'ajuster la durée des plans et des sons d'ambiance, tandis que Media Intelligence organise et identifie les éléments visuels et sonores. Un outil de recadrage intelligent adapte les images à différents formats, et l'IA améliore la précision et la qualité audio, y compris la transcription automatique des dialogues. L'étalonnage des couleurs et l'intégration des formats RAW et LOG sont également simplifiés. L'IA d'Adobe est développée de manière responsable, sans utiliser de contenu web ou utilisateur.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/firefly-illustration-dun-homme-en-train-de-travailler-sur-un-banc-de-montage-dans-un-style-lowpoly-1-768x432.jpg?resize=169,169&key=bc621da5",
+        "date": "Thu, 20 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Course à l'IA",
+        "link": "https://www.frandroid.com/produits-android/2514209_la-nouvelle-version-majeure-de-chatgpt-pourrait-arriver-plus-tot-que-prevue",
+        "body": "OpenAI s'apprête à lancer la version 4.5 de son modèle linguistique ChatGPT, nommé Orion, dès la semaine prochaine sur les serveurs de Microsoft. Cette mise à jour est vue comme une transition vers la très attendue version 5, qui devrait arriver d'ici fin mai selon The Verge. Face à la concurrence chinoise de DeepSeek, OpenAI maintient ainsi sa position de leader dans le domaine des LLM.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=3176f022",
+        "date": "Thu, 20 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Visual Intelligence, la reconnaissance d'images d'Apple",
@@ -236,26 +271,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b567fa45ff4ed4e6ab2c73/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : collaboration et sécurité",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/19/international-collaboration-right-now-treaty-verifications-and-more/?ss=ai",
-        "body": "Lors d'un panel à Davos, des experts en IA ont discuté de l'avenir de l'intelligence artificielle, prédisant l'émergence d'une forme d'intelligence artificielle générale dans les 5 à 10 prochaines années. Ils ont souligné l'importance de la collaboration internationale pour gérer cette évolution rapide et garantir que l'IA profite à l'humanité. Les discussions ont porté sur la sécurité de l'IA, les systèmes avec et sans intervention humaine, et les risques associés aux systèmes dotés d'une capacité d'auto-préservation. Les panélistes ont suggéré des solutions telles qu'un traité international, des institutions dédiées à l'IA et une collaboration accrue entre les gouvernements, les entreprises et les universités pour atténuer les risques et promouvoir une utilisation responsable de l'IA. Ils ont également souligné l'importance de comprendre les algorithmes sous-jacents et de développer des systèmes fiables.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b5ceab54bf84e73d41d7fd/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Feb 2025 12:31:00 GMT"
-    },
-    {
-        "title": "La peur du chaos",
-        "link": "https://www.forbes.com/sites/pialauritzen/2025/02/19/can-ai-take-over-the-world-what-elon-musks-dei-fear-is-really-about/?ss=ai",
-        "body": "Elon Musk a récemment exprimé sa crainte qu'une IA axée sur la diversité, l'équité et l'inclusion (DEI) ne décide d'éliminer les hommes en position de pouvoir. Bien que cela puisse sembler être une paranoïa exagérée, cette crainte révèle une inquiétude plus profonde et plus universelle : la peur du chaos et de la perte de contrôle. Les questions fréquentes sur l'IA, telles que \"L'IA peut-elle prendre le contrôle du monde ?\", suggèrent que cette peur n'est pas limitée aux \"hommes en position de pouvoir\". En réalité, nous projetons souvent nos propres motivations et craintes sur l'IA, supposant qu'elle doit être contrôlée, que ce soit par des individus puissants ou par une IA elle-même. Cependant, en nous concentrant sur ces craintes, nous négligeons de nous interroger sur notre propre besoin de contrôle et sur la source de notre peur du chaos. En remettant en question ces hypothèses et en explorant notre relation avec la technologie, nous pouvons développer une compréhension plus nuancée de l'IA et de nous-mêmes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b335fd046ea0fc1e012888/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Feb 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Gemini, l'application de chatbot de Google, est désormais disponible sur iPhone",
-        "link": "https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai",
-        "body": "Google a discrètement lancé Gemini, son application de chatbot basée sur l'IA, sur l'App Store pour les utilisateurs d'iPhone. L'application gratuite offre une interface simple avec une fenêtre de chat et un historique des conversations. Les utilisateurs peuvent interagir avec le chatbot via du texte, de la voix ou leur caméra. L'application propose également Gemini Live, un mode de conversation plus interactif similaire au mode vocal de ChatGPT. Gemini Live était déjà disponible sur Android, mais c'est une nouveauté pour les utilisateurs d'iPhone, leur offrant un accès rapide et facile à l'IA de Google. L'application vise à mettre l'IA de Google à portée de main des utilisateurs, en leur permettant de créer une habitude d'interaction avec le chatbot. Bien que Gemini ait des limitations sur les paramètres du téléphone et l'accès aux autres applications, il peut interagir avec d'autres applications Google, comme YouTube Music et Google Maps, offrant ainsi une expérience plus interactive et accessible sur le téléphone.",
-        "image": "",
-        "date": "Wed, 19 Feb 2025 09:28:14 GMT"
     }
 ]
