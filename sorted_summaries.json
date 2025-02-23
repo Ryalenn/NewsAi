@@ -103,12 +103,5 @@
         "body": "OpenAI a présenté un aperçu de recherche d'un agent IA nommé Operator, capable d'effectuer des tâches en ligne pour l'utilisateur. Operator utilise un modèle \"Computer-Using Agent\" qui combine les capacités de vision de GPT-4 avec le renforcement de l'apprentissage pour interagir avec les interfaces graphiques. Il peut naviguer sur le web, saisir du texte, cliquer et faire défiler. Operator est conçu pour \"voir\" à travers des captures d'écran et \"interagir\" avec un navigateur, tout en étant capable de s'auto-corriger et de demander l'aide de l'utilisateur si nécessaire. OpenAI collabore avec des entreprises pour s'assurer que l'agent répond aux besoins du monde réel et respecte les normes établies. L'outil est actuellement disponible pour les abonnés américains de ChatGPT Pro, mais OpenAI prévoit de l'étendre à d'autres utilisateurs et de l'intégrer à ChatGPT dans le futur.",
         "image": "",
         "date": "Fri, 21 Feb 2025 11:10:58 GMT"
-    },
-    {
-        "title": "L'avenir de l'AGI",
-        "link": "https://www.forbes.com/sites/charlestowersclark/2025/02/21/deepl-ceo-challenges-microsoft--openais-100-billion-agi-definition/?ss=ai",
-        "body": "L'article explore la définition de l'AGI (Artificial General Intelligence) et la controverse entourant la récente évaluation de Microsoft et OpenAI, qui l'estiment à 100 milliards de dollars de revenus annuels. Les leaders de l'industrie ont des opinions divergentes sur ce qu'est l'AGI et sur le calendrier de sa réalisation. Jarek Kutylowski, PDG de DeepL, met en garde contre un enthousiasme prématuré et souligne l'importance de comprendre les limitations de la technologie. Le débat sur le calendrier de l'AGI dépend de la définition que l'on en donne : si l'on se concentre uniquement sur les capacités cognitives, des prédictions ambitieuses d'une émergence dans 2 à 4 ans semblent plausibles, mais si l'on inclut les capacités physiques, nous sommes encore loin du compte. L'auteur partage également sa propre expérience avec les prédictions de l'IA, soulignant l'importance de prendre en compte la résistance humaine au changement. L'intégration de l'AGI dans la société sera probablement progressive, permettant à la société de s'adapter à un rythme gérable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b83c9b922eca390e907242/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 21 Feb 2025 08:00:00 GMT"
     }
 ]
