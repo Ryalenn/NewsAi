@@ -89,19 +89,5 @@
         "body": "L'informatique en périphérie (Edge Computing) est l'une des innovations fondamentales les plus importantes de la dernière décennie, permettant aux LLM de passer d'un modèle mainframe centralisé à un modèle décentralisé sur les appareils utilisateurs en seulement un an et demi. Cette évolution ouvre de nombreuses opportunités, notamment pour l'IoT et l'intelligence artificielle. Les intervenants, dont des représentants d'Ericsson, de Toyota Research, de VoiceBrain, de Rockwell Automation et de Liquid AI, ont discuté de l'impact de cette technologie sur divers secteurs, tels que la sécurité publique, l'automobile et la résolution des problèmes de connectivité. Ils ont souligné l'importance de garantir l'utilisation éthique de l'IA et de ne pas considérer uniquement les données, mais aussi les actions en boucle fermée que l'IA peut désormais effectuer en périphérie, sans connectivité Internet.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b890637e82cb67ad0a033e/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 21 Feb 2025 14:43:00 GMT"
-    },
-    {
-        "title": "Apple's iPhone 16E and the Rise of Affordable AI",
-        "link": "https://www.theverge.com/the-vergecast/617137/iphone-16e-humane-ai-pin-vergecast",
-        "body": "Dans cet épisode de The Vergecast, David Pierce et ses collègues discutent de l'iPhone 16E d'Apple, un smartphone abordable offrant la plupart des fonctionnalités désirées, mais omettant certains aspects clés de l'écosystème iPhone. Ils explorent les compromis faits par Apple pour réduire le prix et spéculent sur l'importance du nouveau modem C1. L'émission passe également en revue d'autres actualités de l'industrie, notamment le Oppo Find N5, l'échec de l'Humane AI Pin et l'évolution du Rabbit R1. La discussion s'étend également sur des sujets tels que les nouvelles règles du New York Times pour l'IA, les avancées de Microsoft en informatique quantique et l'avenir de James Bond en matière de streaming. \n\nRésumé : Cet article résume un épisode de podcast axé sur les dernières nouvelles en matière de technologie, avec un accent particulier sur l'iPhone 16E d'Apple et son impact sur le marché des smartphones et de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257561_VERGECAST_IPHONE16E_VRG_0207_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 21 Feb 2025 11:10:58 GMT"
-    },
-    {
-        "title": "OpenAI lance un agent IA capable de naviguer sur le web",
-        "link": "https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer",
-        "body": "OpenAI a présenté un aperçu de recherche d'un agent IA nommé Operator, capable d'effectuer des tâches en ligne pour l'utilisateur. Operator utilise un modèle \"Computer-Using Agent\" qui combine les capacités de vision de GPT-4 avec le renforcement de l'apprentissage pour interagir avec les interfaces graphiques. Il peut naviguer sur le web, saisir du texte, cliquer et faire défiler. Operator est conçu pour \"voir\" à travers des captures d'écran et \"interagir\" avec un navigateur, tout en étant capable de s'auto-corriger et de demander l'aide de l'utilisateur si nécessaire. OpenAI collabore avec des entreprises pour s'assurer que l'agent répond aux besoins du monde réel et respecte les normes établies. L'outil est actuellement disponible pour les abonnés américains de ChatGPT Pro, mais OpenAI prévoit de l'étendre à d'autres utilisateurs et de l'intégrer à ChatGPT dans le futur.",
-        "image": "",
-        "date": "Fri, 21 Feb 2025 11:10:58 GMT"
     }
 ]
