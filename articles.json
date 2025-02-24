@@ -49,21 +49,21 @@
         "check": "yes"
     },
     {
-        "title": "J’ai testé Apple Intelligence en français sur mon iPhone, et voici ce que j’en pense",
+        "title": "J\u2019ai test\u00e9 Apple Intelligence en fran\u00e7ais sur mon iPhone, et voici ce que j\u2019en pense",
         "link": "https://www.frandroid.com/os/ios/2516453_jai-teste-apple-intelligence-en-francais-sur-mon-iphone-et-voici-ce-que-jen-pense",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/apple-intelligence-frandroid-p1066773-768x512.jpg?resize=200,200&key=cb7039ae",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Grok, est une IA « rebelle » sauf quand il s’agit d’Elon Musk",
+        "title": "Grok, est une IA \u00ab rebelle \u00bb sauf quand il s\u2019agit d\u2019Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/2516533_grok-est-une-ia-rebelle-sauf-quand-il-sagit-delon-musk",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/33944890310-bcbc906514-o-1200x800-5-768x512.jpg?resize=200,200&key=0186cc1f",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Ces écoles remplacent leur CPE par un ChatGPT",
+        "title": "Ces \u00e9coles remplacent leur CPE par un ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/2516747_ces-ecoles-remplacent-leur-cpe-par-un-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/etudiants-sur-leur-smartphone-1000x667-1-768x512.jpg?resize=200,200&key=0b071cae",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
@@ -82,5 +82,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bb884dc88d76bce4792e7b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Feb 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 24 Feb 2025 07:32:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/24/how-to-prop-up-human-ip-in-the-ai-age/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc9aa43f0c08debe95d763/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/02/24/from-lost-sales-to-big-wins-how-ai-can-close-more-deals/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bb99d1badd7a1cc1561f91/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chriswestfall/2025/02/24/apple-to-hire-20000-workers-as-part-of--500-billion-us-investment/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc8673a31ac185ea71de80/0x0.jpg?format=jpg&crop=2560,1440,x0,y127,safe&width=440",
+        "date": "Mon, 24 Feb 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
