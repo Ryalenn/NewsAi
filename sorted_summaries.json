@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sonar Acquires AutoCodeRover",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/02/24/sonar-bets-on-ai-code-automation-with-autocoderover-acquisition/?ss=ai",
+        "body": "Sonar, un leader dans le domaine des solutions de code propre, a acquis AutoCodeRover, un agent IA pour l'amélioration des programmes. L'intégration d'AutoCodeRover dans la plateforme SonarQube de Sonar automatise la maintenance logicielle à grande échelle et améliore son avantage concurrentiel face aux outils DevOps assistés par IA. AutoCodeRover, développé par des chercheurs de NUS, analyse les codebases existants, infère l'intention des développeurs et propose des corrections ciblées, tout en tenant compte des contraintes spécifiques au projet. Sonar vise à intégrer ces capacités dans SonarQube d'ici fin 2025, mais doit surmonter les défis liés au maintien de l'intégrité du code et à la confiance des développeurs. L'acquisition intervient alors que les entreprises cherchent à améliorer la productivité des ingénieurs logiciels, souvent entravée par la dette technique. Sonar évolue ainsi d'un gardien de l'assurance qualité vers un facilitateur de productivité, soulignant le rôle croissant de l'IA dans le développement logiciel.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc049f883418334d097663/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 05:34:00 GMT"
+    },
+    {
+        "title": "Google Veo 2 : le coût de l'IA vidéo",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2516173_google-veo-2-50-centimes-par-seconde-le-prix-de-lia-video-revolutionnaire",
+        "body": "Google a récemment annoncé que son modèle d'IA, Veo 2, capable de créer des vidéos à partir de descriptions textuelles, est désormais disponible pour 50 centimes par seconde de vidéo générée. Bien que cela puisse sembler coûteux, Jon Barron de Google DeepMind a souligné que ce prix est bien inférieur au coût de production d'un film hollywoodien. Veo 2 est conçu pour créer des clips courts et réalistes, avec des mouvements fluides et une compréhension des lois physiques. Sora, le modèle concurrent d'OpenAI, est proposé à 200 dollars par mois avec un abonnement ChatGPT Pro, permettant de générer autant de vidéos que souhaité. Veo 2 se distingue par sa capacité à gérer des demandes complexes et des effets cinématographiques. D'autres modèles d'IA générative pour la vidéo sont également disponibles, tels que Runway Gen-3, Kling, Luma Dream Machine, et Genmo Mochi 1.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/google-keynote-google-i-o-24-1-48-48-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=ae6364fb",
+        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
         "link": "https://x.com/aaronp613/status/1893058313316671627",
         "body": "La course à l'IA",
