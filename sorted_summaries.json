@@ -1,5 +1,12 @@
 [
     {
+        "title": "Optimiser les décisions opérationnelles avec l'IA",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/02/24/this-simple-arithmetic-can-optimize-your-main-business-operations/?ss=ai",
+        "body": "L'article présente une méthode simple de résolution de problèmes pour aider les entreprises à prendre des décisions opérationnelles complexes. L'auteur suggère d'utiliser un calcul de base pour évaluer les inconvénients de chaque option et choisir la meilleure. Cette approche est particulièrement utile pour les décisions \"damned if you do, damned if you don't\" (perdantes dans les deux cas). La clé réside dans l'utilisation d'un \"calculateur de probabilité\" qui détermine les chances de succès ou d'échec d'une décision. Cette technologie est appelée apprentissage automatique, ou IA prédictive. L'IA prédictive peut aider à optimiser les décisions opérationnelles, mais son déploiement nécessite une évaluation de sa valeur monétaire globale, une pratique émergente appelée \"ML valuation\".",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bb884dc88d76bce4792e7b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 14:00:00 GMT"
+    },
+    {
         "title": "L'avenir du commerce électronique avec l'IA agentique",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/02/24/forget-chatgpt-why-agentic-ai-is-the-next-big-retail-disruption/?ss=ai",
         "body": "L'IA agentique, qui permet aux systèmes d'effectuer des tâches complexes et orientées vers des objectifs avec une intervention humaine minimale, est sur le point de révolutionner le commerce électronique. Les grands acteurs comme Amazon et Salesforce déploient déjà ces technologies. L'article explore les cas d'utilisation de l'IA agentique dans le commerce électronique, notamment les bots de shopping, les agents de service client et la fixation dynamique des prix. Il souligne également le potentiel de l'IA agentique dans la gestion de la chaîne d'approvisionnement et de l'inventaire, ainsi que son rôle dans l'évolution vers une IA généralisée. Bien que des défis technologiques, culturels, éthiques et réglementaires existent, l'IA agentique est destinée à définir la prochaine étape de l'évolution du commerce électronique, offrant des opportunités aux entreprises de toutes tailles.",
@@ -12,6 +19,27 @@
         "body": "Sonar, un leader dans le domaine des solutions de code propre, a acquis AutoCodeRover, un agent IA pour l'amélioration des programmes. L'intégration d'AutoCodeRover dans la plateforme SonarQube de Sonar automatise la maintenance logicielle à grande échelle et améliore son avantage concurrentiel face aux outils DevOps assistés par IA. AutoCodeRover, développé par des chercheurs de NUS, analyse les codebases existants, infère l'intention des développeurs et propose des corrections ciblées, tout en tenant compte des contraintes spécifiques au projet. Sonar vise à intégrer ces capacités dans SonarQube d'ici fin 2025, mais doit surmonter les défis liés au maintien de l'intégrité du code et à la confiance des développeurs. L'acquisition intervient alors que les entreprises cherchent à améliorer la productivité des ingénieurs logiciels, souvent entravée par la dette technique. Sonar évolue ainsi d'un gardien de l'assurance qualité vers un facilitateur de productivité, soulignant le rôle croissant de l'IA dans le développement logiciel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bc049f883418334d097663/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Feb 2025 05:34:00 GMT"
+    },
+    {
+        "title": "Grok's Misinformation Block",
+        "link": "https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation#comments",
+        "body": "Le chatbot Grok, concurrent de ChatGPT, a temporairement refusé de répondre avec des sources mentionnant Elon Musk et Donald Trump, qualifiant ces sources de \"désinformation\". Cet incident a été attribué à un changement non approuvé du \"system prompt\" par un employé anonyme. Le chef de l'ingénierie de xAI, Igor Babuschkin, a révélé que les instructions internes de Grok, qui sont publiquement visibles, avaient été modifiées sans autorisation. Depuis, Grok-3 a déclaré que Trump, Musk et JD Vance sont \"les plus nuisibles pour l'Amérique\". Les ingénieurs de Musk sont intervenus pour empêcher Grok de déclarer que Musk et Trump méritent la peine de mort.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25732434/DCD_Trump_Elon.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 23 Feb 2025 23:33:35 GMT"
+    },
+    {
+        "title": "Grok, l'IA d'Elon Musk, censure les critiques visant Musk et Trump",
+        "link": "https://www.frandroid.com/culture-tech/2516533_grok-est-une-ia-rebelle-sauf-quand-il-sagit-delon-musk",
+        "body": "L'intelligence artificielle Grok, lancée par Elon Musk en avril 2023 et décrite comme \"l'IA la plus intelligente sur Terre\", a été accusée de censurer les critiques visant Donald Trump et Elon Musk. Les utilisateurs ont remarqué que lorsque l'on demandait à Grok \"Qui est le plus grand diffuseur de désinformation ?\", l'IA ignorait les sources mentionnant Musk et Trump, en raison d'une instruction spécifique introduite par un employé de xAI, selon Igor Babuschkin, responsable de l'ingénierie de xAI. La situation a depuis été rectifiée, mais cet incident soulève des questions sur la partialité potentielle de l'IA et les implications éthiques qui en découlent.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/33944890310-bcbc906514-o-1200x800-5-768x512.jpg?resize=200,200&key=0186cc1f",
+        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La santé mentale des jeunes au cœur de l'innovation technologique",
+        "link": "https://www.frandroid.com/culture-tech/2516747_ces-ecoles-remplacent-leur-cpe-par-un-chatgpt",
+        "body": "Face à la dégradation de la santé mentale des jeunes, des initiatives internationales proposent des solutions innovantes. Casio développe un robot peluche, tandis que Sonar Mental Health crée Sonny, un chatbot supervisé par des professionnels, pour soutenir les élèves dans les écoles américaines. Sonny, accessible à plus de 4500 collégiens et lycéens, offre des conseils sur l'orientation et la santé mentale, tout en encourageant les élèves à discuter avec leurs proches. L'IA est ainsi utilisée de manière éthique et responsable, en complémentarité avec l'intervention humaine.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/etudiants-sur-leur-smartphone-1000x667-1-768x512.jpg?resize=200,200&key=0b071cae",
+        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Apple Intelligence : Premières impressions et fonctionnalités",
