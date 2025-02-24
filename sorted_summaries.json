@@ -1,10 +1,38 @@
 [
     {
+        "title": "L'avenir de la créativité humaine à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/24/how-to-prop-up-human-ip-in-the-ai-age/?ss=ai",
+        "body": "L'article explore les implications de l'IA sur le travail des créateurs de contenu humains, en particulier dans les industries créatives et artistiques. Il met en lumière les préoccupations concernant l'impact potentiel de l'IA sur les revenus des artistes et des créateurs de contenu. L'étude citée suggère que l'IA pourrait menacer les revenus des créateurs de contenu humains, avec une perte potentielle de revenus estimée à 22 milliards d'euros d'ici 2028. L'article soulève également des questions importantes sur l'économie des créateurs et la manière dont les plateformes peuvent équilibrer les intérêts des créateurs et des plateformes elles-mêmes. Il est suggéré que la recherche doit développer des métriques et des méthodologies appropriées pour comprendre et gérer stratégiquement l'activité des créateurs de contenu. L'interview de Bill Gross, fondateur d'IDEA lab, souligne la nécessité de s'assurer que l'IA partage équitablement les revenus avec les créateurs humains, soulignant l'importance de la créativité humaine dans le processus créatif. L'article mentionne également des plateformes comme Gigastar, qui offrent de nouvelles façons de monétiser le contenu humain, et explore les réactions et les préoccupations des créateurs face à ces opportunités. Enfin, il souligne l'importance de protéger la valeur de l'art et des œuvres expressives créées par des cerveaux biologiques, plutôt que par des systèmes d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc9aa43f0c08debe95d763/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la vente : l'IA au service de l'expérience client",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/02/24/from-lost-sales-to-big-wins-how-ai-can-close-more-deals/?ss=ai",
+        "body": "L'article explore l'idée d'utiliser l'IA pour améliorer les expériences de vente et augmenter les taux de conversion. Il commence par une anecdote sur une expérience de vente frustrante, soulignant le manque d'empathie et de désir pragmatique de résoudre le problème du client. L'auteur suggère que l'IA, lorsqu'elle est formée avec des LLM, peut anticiper et répondre aux besoins des clients, améliorant ainsi l'expérience de vente. L'article présente également Rezolve AI et son produit brainpowa, qui imite les meilleurs vendeurs en combinant la connaissance du produit, l'empathie et la capacité de conclure une vente. L'auteur souligne l'écart entre les taux d'abandon pour les achats en ligne et en magasin, attribuant le taux plus élevé d'achats en ligne à l'absence d'assistance personnalisée. Le modèle de vente LLM est présenté comme une solution persuasive, rassurante et guidante, plutôt que simplement informative. L'article conclut en suggérant que l'IA pourrait améliorer les compétences de vente des humains et que, inversement, les humains pourraient apprendre de l'IA en observant les comportements des meilleurs vendeurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bb99d1badd7a1cc1561f91/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Feb 2025 15:00:00 GMT"
+    },
+    {
+        "title": "Apple investit dans l'emploi et l'IA aux États-Unis",
+        "link": "https://www.forbes.com/sites/chriswestfall/2025/02/24/apple-to-hire-20000-workers-as-part-of--500-billion-us-investment/?ss=ai",
+        "body": "Apple annonce un investissement de 500 milliards de dollars aux États-Unis, comprenant l'embauche de 20 000 travailleurs en recherche et développement, avec un focus particulier sur l'IA et la fabrication. L'entreprise prévoit d'ouvrir une usine à grande échelle au Texas et un nouveau site de 100 000 m² à Houston pour l'assemblage de serveurs destinés aux centres de données, qui alimenteront Apple Intelligence, la plateforme d'IA de l'entreprise. D'autres investissements sont prévus en Arizona pour le travail sur les puces en silicium et dans le Michigan pour une académie de fabrication. L'annonce d'Apple suit une rencontre entre le PDG Tim Cook et le président Trump concernant les tarifs chinois, et s'aligne avec l'agenda \"America First\" du gouvernement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc8673a31ac185ea71de80/0x0.jpg?format=jpg&crop=2560,1440,x0,y127,safe&width=440",
+        "date": "Mon, 24 Feb 2025 15:00:00 GMT"
+    },
+    {
         "title": "Optimiser les décisions opérationnelles avec l'IA",
         "link": "https://www.forbes.com/sites/ericsiegel/2025/02/24/this-simple-arithmetic-can-optimize-your-main-business-operations/?ss=ai",
         "body": "L'article présente une méthode simple de résolution de problèmes pour aider les entreprises à prendre des décisions opérationnelles complexes. L'auteur suggère d'utiliser un calcul de base pour évaluer les inconvénients de chaque option et choisir la meilleure. Cette approche est particulièrement utile pour les décisions \"damned if you do, damned if you don't\" (perdantes dans les deux cas). La clé réside dans l'utilisation d'un \"calculateur de probabilité\" qui détermine les chances de succès ou d'échec d'une décision. Cette technologie est appelée apprentissage automatique, ou IA prédictive. L'IA prédictive peut aider à optimiser les décisions opérationnelles, mais son déploiement nécessite une évaluation de sa valeur monétaire globale, une pratique émergente appelée \"ML valuation\".",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bb884dc88d76bce4792e7b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Feb 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "body": "Apple a sorti iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA. Les fonctionnalités incluent la génération d'images, la création d'emojis personnalisés \"Genmoji\" et l'intégration de ChatGPT. Apple Intelligence est activé par défaut sur les nouveaux appareils et les mises à jour. La mise à jour comprend également des changements non liés à l'IA, tels que la possibilité de modifier les applications par défaut et de tester son audition avec AirPods. De plus, iPadOS 18 dispose désormais d'une application calculatrice et peut résoudre des équations mathématiques dans les notes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 24 Feb 2025 07:32:14 GMT"
     },
     {
         "title": "L'avenir du commerce électronique avec l'IA agentique",
@@ -82,19 +110,5 @@
         "body": "L'entreprise norvégienne 1X a présenté son robot humanoïde Neo Gamma, conçu pour assister les utilisateurs dans diverses tâches ménagères. Neo Gamma se distingue des autres robots en ciblant le marché domestique, un défi de taille dans le domaine de la robotique. Son système d'IA avancé lui permet de percevoir et de comprendre son environnement, évitant ainsi les obstacles et interagissant de manière naturelle grâce à l'IA générative. Le robot peut être téléopéré à distance et bénéficie du soutien d'OpenAI, l'éditeur de ChatGPT. Bien qu'il s'agisse encore d'un prototype, Neo Gamma pourrait avoir un impact significatif sur la vie quotidienne, en particulier pour les seniors, en offrant une assistance personnalisée. Cependant, des défis tels que la sécurité, le prix et la fiabilité doivent être relevés avant une adoption généralisée.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/introducing-neo-gamma-another-step-closer-to-home-0-16-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=60d8633e",
         "date": "Sat, 22 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Quantum Computing Revolution",
-        "link": "https://www.forbes.com/sites/chuckbrooks/2025/02/22/quantum-computing-has-arrived-we-need-to-prepare-for-its-impact/?ss=ai",
-        "body": "Le domaine de l'informatique a connu des avancées extraordinaires depuis l'invention de la calculatrice électronique dans les années 1960, et plus récemment, des progrès révolutionnaires ont été accomplis dans le traitement de l'information. L'article met en évidence l'avènement de l'informatique quantique, qui se distingue de l'informatique classique et qui, grâce à sa vitesse et sa puissance, est destinée à propulser l'humanité dans le futur, en particulier dans les domaines de l'intelligence artificielle et de l'analyse de données. L'informatique quantique s'appuie sur les états d'incertitude au niveau atomique, un concept connu sous le nom de superposition, permettant à un seul qubit de stocker tous les états concevables simultanément. Les récents progrès technologiques ont rendu l'informatique quantique plus accessible et scalable, et des entreprises comme Microsoft, Google, Intel et IBM ont déjà développé des processeurs et des algorithmes quantiques. L'informatique quantique aura un impact profond sur de nombreux domaines, notamment la science, la santé, la finance, la cybersécurité et l'exploration spatiale, et son potentiel pour transformer l'IA et le métaverse est particulièrement notable. Cependant, l'informatique quantique présente également des risques en matière de cybersécurité, car elle pourrait compromettre les systèmes de cryptage actuels.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/63c9ca0a5317481ef6922d8b/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 22 Feb 2025 17:33:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans le monde des affaires",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/22/the-best-time-for-ai-was-yesterday-5-key-steps-for-business/?ss=ai",
-        "body": "Lors du sommet de Davos en janvier, un panel composé de dirigeantes de Palantir, Verdane, Ericsson et McKinsey a partagé ses idées sur l'adoption proactive de l'IA dans le monde des affaires. Åsa Tamsons (Ericsson) a souligné l'urgence pour les entreprises d'intégrer l'IA, affirmant que celles qui ne le font pas seront bientôt dépassées. Ellinor Schrewelius (Verdane) a mis en avant la vitesse à laquelle les progrès peuvent désormais être accomplis grâce à l'IA et à l'informatique quantique. Le panel a discuté de l'impact de l'IA au-delà du secteur informatique, utilisant l'exemple de l'énergie et de l'évolution vers de nouvelles initiatives en matière de puissance nucléaire pour alimenter les centres de données. Laura Rudas (Palantir) a souligné l'importance de lier l'IA aux données de l'entreprise en temps réel pour résoudre les problèmes clés, plutôt que de se concentrer sur des solutions génériques. Elle a également mentionné la création d'une ontologie basée sur des données non structurées. Solveigh Hieronimus (McKinsey) a ajouté que cartographier les initiatives d'IA de manière modulaire est un défi de leadership pour mieux intégrer ces technologies.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ba07653f1d0fdb2ea7a829/0x0.png?format=png&width=440",
-        "date": "Sat, 22 Feb 2025 17:00:00 GMT"
     }
 ]
