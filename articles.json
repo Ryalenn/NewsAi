@@ -35,21 +35,21 @@
         "check": "yes"
     },
     {
-        "title": "J’ai testé Apple Intelligence en français sur mon iPhone, et voici ce que j’en pense",
+        "title": "J\u2019ai test\u00e9 Apple Intelligence en fran\u00e7ais sur mon iPhone, et voici ce que j\u2019en pense",
         "link": "https://www.frandroid.com/os/ios/2516453_jai-teste-apple-intelligence-en-francais-sur-mon-iphone-et-voici-ce-que-jen-pense",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/apple-intelligence-frandroid-p1066773-768x512.jpg?resize=200,200&key=cb7039ae",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Grok, est une IA « rebelle » sauf quand il s’agit d’Elon Musk",
+        "title": "Grok, est une IA \u00ab rebelle \u00bb sauf quand il s\u2019agit d\u2019Elon Musk",
         "link": "https://www.frandroid.com/culture-tech/2516533_grok-est-une-ia-rebelle-sauf-quand-il-sagit-delon-musk",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/33944890310-bcbc906514-o-1200x800-5-768x512.jpg?resize=200,200&key=0186cc1f",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Ces écoles remplacent leur CPE par un ChatGPT",
+        "title": "Ces \u00e9coles remplacent leur CPE par un ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/2516747_ces-ecoles-remplacent-leur-cpe-par-un-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/etudiants-sur-leur-smartphone-1000x667-1-768x512.jpg?resize=200,200&key=0b071cae",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous pouvez tester Apple Intelligence sur votre iPhone, la bêta publique iOS 18.4 est là",
+        "title": "Vous pouvez tester Apple Intelligence sur votre iPhone, la b\u00eata publique iOS 18.4 est l\u00e0",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2517635_vous-pouvez-tester-apple-intelligence-sur-votre-iphone-la-beta-publique-ios-18-4-est-la",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/apple-intelligence-frandroid-p1066768-1200x800-1-768x512.jpg?resize=200,200&key=fcf5dd85",
         "date": "Sun, 23 Feb 2025 23:00:00 GMT",
@@ -145,5 +145,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bd23b7e329bd162bb45dba/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Feb 2025 02:43:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Claude 3.7 annonc\u00e9 comme la premi\u00e8re IA qui raisonne comme un humain",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2517709_claude-3-7-annonce-comme-la-premiere-ia-qui-raisonne-comme-un-humain",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-100-5-1200x675-1-768x432.jpg?resize=169,169&key=6c843e36",
+        "date": "Mon, 24 Feb 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/02/25/1000-plus-musicians-drop-silent-album-to-protest-ai-copyright-tweaks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bd53187679a1805ef57a8a/0x0.jpg?format=jpg&crop=1876,1157,x734,y50,safe&width=440",
+        "date": "Tue, 25 Feb 2025 05:35:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/02/25/gemini-lands-on-agentforce-a-bold-move-by-google-and-salesforce/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bd514dce7319f6ee91260d/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 25 Feb 2025 05:00:00 GMT",
+        "check": "no"
     }
 ]
