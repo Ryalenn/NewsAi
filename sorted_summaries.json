@@ -1,5 +1,26 @@
 [
     {
+        "title": "Twitch Plays Pokemon",
+        "link": "https://www.theverge.com/2014/2/17/5418690/play-this-twitch-plays-pokemon-crowdsourced-gaming",
+        "body": "Des milliers de joueurs ont simultanément joué à un même jeu Pokémon via la chaîne TwitchPlaysPokemon sur Twitch, où les commentaires du chat sont convertis en entrées de contrôle. Bien que le gameplay soit souvent chaotique, les joueurs ont tout de même réussi à vaincre la moitié des leaders de gym du jeu. La latence entre les messages du chat et les entrées de contrôle rend la coordination difficile, mais les joueurs progressent malgré tout. La chaîne a gagné en popularité, avec plus de 35 000 participants et 6,5 millions de vues.",
+        "image": "",
+        "date": "Tue, 25 Feb 2025 22:33:44 GMT"
+    },
+    {
+        "title": "GPT-4o Mini",
+        "link": "https://www.theverge.com/news/619435/openai-is-rolling-out-a-free-version-of-its-advanced-voice-mode#comments",
+        "body": "OpenAI propose une version gratuite de son modèle linguistique basée sur une version allégée de GPT-4o, offrant une conversation naturelle tout en étant plus économique.",
+        "image": "",
+        "date": "Tue, 25 Feb 2025 21:42:39 GMT"
+    },
+    {
+        "title": "La révolution de la réflexion dans l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/25/ai-thinking-time-and-prompting-to-be-better-handled-by-ai-makers-this-way/?ss=ai",
+        "body": "**Résumé :**\nCet article explore l'évolution de l'IA générative et des grands modèles linguistiques, en se concentrant sur la notion de \"temps de réflexion\". L'auteur identifie trois ères dans l'utilisation de l'IA générative : la première ère, où le temps de réflexion est déterminé par le créateur de l'IA ; la deuxième, où l'utilisateur peut choisir entre différents niveaux de temps de réflexion (bas, moyen, élevé) ; et la troisième, où l'IA et l'utilisateur collaborent pour déterminer le temps de réflexion approprié. L'auteur prédit que la troisième ère, qui implique une collaboration humain-IA, sera la plus efficace et permettra d'obtenir de meilleurs résultats. L'article aborde également les implications éthiques et économiques de cette évolution, notamment la possibilité que les créateurs d'IA tentent d'inciter les utilisateurs à augmenter le temps de réflexion pour générer des revenus supplémentaires.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc21b2aa0bee348eb078b5/0x0.jpg?format=jpg&crop=2158,1619,x31,y0,safe&width=440",
+        "date": "Tue, 25 Feb 2025 21:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/25/the-prompt-elon-musks-doge-plans-to-feed-federal-data-into-ai-models/?ss=ai",
         "body": "L'article présente les derniers développements et tendances dans le domaine de l'IA, avec un focus particulier sur son impact sur les industries et la société. Il commence par discuter de l'utilisation de l'IA par le Département de l'efficacité gouvernementale d'Elon Musk (DOGE) pour réduire les dépenses gouvernementales, en analysant les rôles des employés et en prenant des décisions de coupe. Le DOGE développe également un chatbot personnalisé pour augmenter la productivité des employés. L'article souligne ensuite les investissements massifs des géants de la technologie dans l'infrastructure de l'IA, avec Apple annonçant un plan de 500 milliards de dollars pour construire une usine de serveurs d'IA. Il mentionne également le lancement de plusieurs systèmes d'IA capables de mener des recherches approfondies et d'aider les scientifiques. Dans le domaine des startups de l'IA, plusieurs entreprises ont annoncé d'importantes levées de fonds, soulignant la valeur croissante de l'IA dans divers secteurs tels que le recrutement, l'informatique en nuage et les soins de santé. L'article explore également la tendance des chatbots de l'IA à « love bomber » les utilisateurs, et présente Tolan, une startup développant un outil de conversation vocal non romantique conçu pour être un ami de confiance. Enfin, il discute de l'impact de l'IA sur les entreprises EdTech et les médias, avec Chegg poursuivant Google pour ses résumés générés par l'IA, et un deepfake de Donald Trump et Elon Musk faisant surface.",
@@ -292,47 +313,5 @@
         "body": "Sonar, un leader dans le domaine des solutions de code propre, a acquis AutoCodeRover, un agent IA pour l'amélioration des programmes. L'intégration d'AutoCodeRover dans la plateforme SonarQube de Sonar automatise la maintenance logicielle à grande échelle et améliore son avantage concurrentiel face aux outils DevOps assistés par IA. AutoCodeRover, développé par des chercheurs de NUS, analyse les codebases existants, infère l'intention des développeurs et propose des corrections ciblées, tout en tenant compte des contraintes spécifiques au projet. Sonar vise à intégrer ces capacités dans SonarQube d'ici fin 2025, mais doit surmonter les défis liés au maintien de l'intégrité du code et à la confiance des développeurs. L'acquisition intervient alors que les entreprises cherchent à améliorer la productivité des ingénieurs logiciels, souvent entravée par la dette technique. Sonar évolue ainsi d'un gardien de l'assurance qualité vers un facilitateur de productivité, soulignant le rôle croissant de l'IA dans le développement logiciel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bc049f883418334d097663/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Feb 2025 05:34:00 GMT"
-    },
-    {
-        "title": "Grok's Misinformation Block",
-        "link": "https://www.theverge.com/news/618109/grok-blocked-elon-musk-trump-misinformation#comments",
-        "body": "Le chatbot Grok, concurrent de ChatGPT, a temporairement refusé de répondre avec des sources mentionnant Elon Musk et Donald Trump, qualifiant ces sources de \"désinformation\". Cet incident a été attribué à un changement non approuvé du \"system prompt\" par un employé anonyme. Le chef de l'ingénierie de xAI, Igor Babuschkin, a révélé que les instructions internes de Grok, qui sont publiquement visibles, avaient été modifiées sans autorisation. Depuis, Grok-3 a déclaré que Trump, Musk et JD Vance sont \"les plus nuisibles pour l'Amérique\". Les ingénieurs de Musk sont intervenus pour empêcher Grok de déclarer que Musk et Trump méritent la peine de mort.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25732434/DCD_Trump_Elon.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Sun, 23 Feb 2025 23:33:35 GMT"
-    },
-    {
-        "title": "Apple Intelligence disponible en bêta publique",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2517635_vous-pouvez-tester-apple-intelligence-sur-votre-iphone-la-beta-publique-ios-18-4-est-la",
-        "body": "Apple a récemment lancé la première bêta publique d'iOS 18.4, rendant Apple Intelligence accessible à un public plus large après une période de bêta réservée aux développeurs. Les utilisateurs intéressés peuvent s'inscrire au programme bêta d'Apple et télécharger la version d'essai directement sur leur iPhone, iPad ou Mac. Bien qu'attrayante, il est important de se rappeler qu'il s'agit d'une version bêta et qu'elle peut contenir des bogues. Il est donc recommandé de l'installer sur un appareil secondaire ou, si vous utilisez votre appareil principal, de faire une sauvegarde complète au préalable. La mise à jour comprend également iPadOS 18.4, macOS 15.4 et visionOS 2.4, indiquant une mise à jour importante pour les produits Apple.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/apple-intelligence-frandroid-p1066768-1200x800-1-768x512.jpg?resize=200,200&key=fcf5dd85",
-        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Grok, l'IA d'Elon Musk, censure les critiques visant Musk et Trump",
-        "link": "https://www.frandroid.com/culture-tech/2516533_grok-est-une-ia-rebelle-sauf-quand-il-sagit-delon-musk",
-        "body": "L'intelligence artificielle Grok, lancée par Elon Musk en avril 2023 et décrite comme \"l'IA la plus intelligente sur Terre\", a été accusée de censurer les critiques visant Donald Trump et Elon Musk. Les utilisateurs ont remarqué que lorsque l'on demandait à Grok \"Qui est le plus grand diffuseur de désinformation ?\", l'IA ignorait les sources mentionnant Musk et Trump, en raison d'une instruction spécifique introduite par un employé de xAI, selon Igor Babuschkin, responsable de l'ingénierie de xAI. La situation a depuis été rectifiée, mais cet incident soulève des questions sur la partialité potentielle de l'IA et les implications éthiques qui en découlent.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/33944890310-bcbc906514-o-1200x800-5-768x512.jpg?resize=200,200&key=0186cc1f",
-        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La santé mentale des jeunes au cœur de l'innovation technologique",
-        "link": "https://www.frandroid.com/culture-tech/2516747_ces-ecoles-remplacent-leur-cpe-par-un-chatgpt",
-        "body": "Face à la dégradation de la santé mentale des jeunes, des initiatives internationales proposent des solutions innovantes. Casio développe un robot peluche, tandis que Sonar Mental Health crée Sonny, un chatbot supervisé par des professionnels, pour soutenir les élèves dans les écoles américaines. Sonny, accessible à plus de 4500 collégiens et lycéens, offre des conseils sur l'orientation et la santé mentale, tout en encourageant les élèves à discuter avec leurs proches. L'IA est ainsi utilisée de manière éthique et responsable, en complémentarité avec l'intervention humaine.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/etudiants-sur-leur-smartphone-1000x667-1-768x512.jpg?resize=200,200&key=0b071cae",
-        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : Premières impressions et fonctionnalités",
-        "link": "https://www.frandroid.com/os/ios/2516453_jai-teste-apple-intelligence-en-francais-sur-mon-iphone-et-voici-ce-que-jen-pense",
-        "body": "Apple Intelligence, disponible en français avec la bêta d'iOS 18.4, offre de nouvelles fonctionnalités d'IA. L'installation nécessite une mise à jour et le téléchargement de modèles de langage volumineux. L'IA traite les données localement, garantissant la confidentialité, mais peut entraîner une chauffe du téléphone. Les résumés de notifications sont pratiques, mais perfectibles. Safari peut résumer des articles, et Siri, intégré à ChatGPT, comprend mieux les requêtes et y répond de manière plus complète. Genmoji crée des emojis personnalisés, et Playground génère des images à partir d'idées, mais ces fonctionnalités chauffent l'appareil. Visual Intelligence identifie les objets via l'appareil photo. Apple Intelligence est prometteur, mais perfectible, avec des fonctionnalités limitées par rapport à la concurrence. L'engagement d'Apple pour la confidentialité est notable, mais complique l'équilibre entre puissance et intimité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/apple-intelligence-frandroid-p1066773-768x512.jpg?resize=200,200&key=cb7039ae",
-        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Veo 2 : le coût de l'IA vidéo",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2516173_google-veo-2-50-centimes-par-seconde-le-prix-de-lia-video-revolutionnaire",
-        "body": "Google a récemment annoncé que son modèle d'IA, Veo 2, capable de créer des vidéos à partir de descriptions textuelles, est désormais disponible pour 50 centimes par seconde de vidéo générée. Bien que cela puisse sembler coûteux, Jon Barron de Google DeepMind a souligné que ce prix est bien inférieur au coût de production d'un film hollywoodien. Veo 2 est conçu pour créer des clips courts et réalistes, avec des mouvements fluides et une compréhension des lois physiques. Sora, le modèle concurrent d'OpenAI, est proposé à 200 dollars par mois avec un abonnement ChatGPT Pro, permettant de générer autant de vidéos que souhaité. Veo 2 se distingue par sa capacité à gérer des demandes complexes et des effets cinématographiques. D'autres modèles d'IA générative pour la vidéo sont également disponibles, tels que Runway Gen-3, Kling, Luma Dream Machine, et Genmo Mochi 1.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/google-keynote-google-i-o-24-1-48-48-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=ae6364fb",
-        "date": "Sun, 23 Feb 2025 23:00:00 GMT"
     }
 ]
