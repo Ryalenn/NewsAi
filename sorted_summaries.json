@@ -1,10 +1,24 @@
 [
     {
+        "title": "Quantum Countdown",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/26/5-essential-steps-to-prepare-your-business-for-the-quantum-era/?ss=ai",
+        "body": "Les entreprises doivent se préparer à l'ère de l'informatique quantique, qui va révolutionner le traitement des données et impacter profondément les modèles économiques existants. Voici les 5 étapes essentielles pour s'y préparer : \n\n1. Suivre de près les avancées dans le domaine de l'informatique quantique pour anticiper son intégration dans la stratégie de l'entreprise. \n\n2. Identifier les opportunités qu'offrira l'informatique quantique pour améliorer les processus existants et en créer de nouveaux. \n\n3. Se préparer aux impacts sur la cybersécurité, notamment avec la possibilité de décrypter des méthodes d'encryptage classiques. \n\n4. Comprendre les forces et limites de l'informatique quantique pour identifier les cas d'utilisation spécifiques à votre industrie. \n\n5. Collaborer avec des experts universitaires et des consultants pour combler le manque de connaissances et se positionner en tant que leader dans l'adoption de cette technologie. \n\nL'informatique quantique va offrir des possibilités incroyables, et les entreprises doivent dès maintenant se préparer à cette révolution pour en tirer le meilleur parti.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bec98b7cc71eb731df2818/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Feb 2025 08:00:00 GMT"
+    },
+    {
         "title": "L'Estonie parie sur l'IA dans l'éducation",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2025/02/26/chatgpt-to-be-given-to-all-estonian-high-school-students/?ss=ai",
         "body": "Le gouvernement estonien s'associe à OpenAI pour fournir ChatGPT à tous les élèves et enseignants du secondaire. L'initiative, qui débutera en septembre 2025, fait partie de la stratégie nationale de l'Estonie pour intégrer l'IA dans des secteurs clés. L'Estonie, qui figure déjà parmi les 15 premiers pays en matière d'adoption de l'IA, se concentre désormais sur l'utilisation de l'IA pour améliorer l'apprentissage, réduire la charge de travail des enseignants et préparer les étudiants à une main-d'œuvre axée sur l'IA. ChatGPT Edu offrira aux étudiants un tutorat personnalisé, des aides et des commentaires basés sur l'IA pour compléter l'enseignement traditionnel. L'assistant alimenté par l'IA aidera également les enseignants dans la planification, les tâches administratives et le soutien individualisé des étudiants. Cette initiative s'appuie sur l'histoire de l'Estonie en matière de politiques numériques, le pays ayant informatisé ses écoles dès 1996 et étant devenu un leader en matière de gouvernance électronique. L'Estonie est l'un des premiers pays à intégrer systématiquement l'IA dans l'éducation à l'échelle nationale, misant sur l'IA pour stimuler l'innovation entrepreneuriale, la préparation de la main-d'œuvre et la croissance du secteur technologique. Le succès de cette initiative dépendra de la mise en œuvre efficace et de la formation des enseignants, tout en naviguant sur les questions éthiques et le équilibre entre l'assistance de l'IA et l'instruction humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67be7f49504b8e0e73e2a1c5/0x0.jpg?format=jpg&crop=1575,886,x0,y81,safe&width=440",
         "date": "Wed, 26 Feb 2025 05:59:00 GMT"
+    },
+    {
+        "title": "ChatGPT : Deep Research désormais accessible à tous",
+        "link": "https://www.frandroid.com/culture-tech/2519275_chatgpt-deploie-sa-fonction-de-recherche-approfondie-a-tous-les-comptes-payants",
+        "body": "OpenAI élargit l'accès à sa fonctionnalité \"Deep Research\" pour les utilisateurs payants de ChatGPT, offrant ainsi une recherche approfondie à un plus large public. Deep Research, basé sur le modèle o3, peut effectuer l'équivalent d'une semaine de recherche en 15 minutes, en explorant le web, les documents fournis et d'autres sources pertinentes. Les utilisateurs de ChatGPT Plus peuvent soumettre jusqu'à 10 requêtes par mois, tandis que les comptes Pro ont une limite de 120 requêtes. La fonctionnalité, qui sera bientôt disponible sur les applications mobiles et PC, peut coûter jusqu'à 1000 $ en énergie et ressources matérielles pour certaines requêtes. Malgré son coût élevé, elle n'est pas exempte d'erreurs et les utilisateurs doivent toujours vérifier les informations fournies par l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/capture-decran-du-2025-02-26-07-34-55-768x355.png?resize=300,300&key=25ebb048",
+        "date": "Tue, 25 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Twitch Plays Pokemon",
@@ -299,12 +313,5 @@
         "body": "L'article présente une méthode simple de résolution de problèmes pour aider les entreprises à prendre des décisions opérationnelles complexes. L'auteur suggère d'utiliser un calcul de base pour évaluer les inconvénients de chaque option et choisir la meilleure. Cette approche est particulièrement utile pour les décisions \"damned if you do, damned if you don't\" (perdantes dans les deux cas). La clé réside dans l'utilisation d'un \"calculateur de probabilité\" qui détermine les chances de succès ou d'échec d'une décision. Cette technologie est appelée apprentissage automatique, ou IA prédictive. L'IA prédictive peut aider à optimiser les décisions opérationnelles, mais son déploiement nécessite une évaluation de sa valeur monétaire globale, une pratique émergente appelée \"ML valuation\".",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bb884dc88d76bce4792e7b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Feb 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence",
-        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
-        "body": "Apple a sorti iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA. Les fonctionnalités incluent la génération d'images, la création d'emojis personnalisés \"Genmoji\" et l'intégration de ChatGPT. Apple Intelligence est activé par défaut sur les nouveaux appareils et les mises à jour. La mise à jour comprend également des changements non liés à l'IA, tels que la possibilité de modifier les applications par défaut et de tester son audition avec AirPods. De plus, iPadOS 18 dispose désormais d'une application calculatrice et peut résoudre des équations mathématiques dans les notes.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 24 Feb 2025 07:32:14 GMT"
     }
 ]
