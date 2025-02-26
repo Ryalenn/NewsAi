@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'Estonie parie sur l'IA dans l'éducation",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/02/26/chatgpt-to-be-given-to-all-estonian-high-school-students/?ss=ai",
+        "body": "Le gouvernement estonien s'associe à OpenAI pour fournir ChatGPT à tous les élèves et enseignants du secondaire. L'initiative, qui débutera en septembre 2025, fait partie de la stratégie nationale de l'Estonie pour intégrer l'IA dans des secteurs clés. L'Estonie, qui figure déjà parmi les 15 premiers pays en matière d'adoption de l'IA, se concentre désormais sur l'utilisation de l'IA pour améliorer l'apprentissage, réduire la charge de travail des enseignants et préparer les étudiants à une main-d'œuvre axée sur l'IA. ChatGPT Edu offrira aux étudiants un tutorat personnalisé, des aides et des commentaires basés sur l'IA pour compléter l'enseignement traditionnel. L'assistant alimenté par l'IA aidera également les enseignants dans la planification, les tâches administratives et le soutien individualisé des étudiants. Cette initiative s'appuie sur l'histoire de l'Estonie en matière de politiques numériques, le pays ayant informatisé ses écoles dès 1996 et étant devenu un leader en matière de gouvernance électronique. L'Estonie est l'un des premiers pays à intégrer systématiquement l'IA dans l'éducation à l'échelle nationale, misant sur l'IA pour stimuler l'innovation entrepreneuriale, la préparation de la main-d'œuvre et la croissance du secteur technologique. Le succès de cette initiative dépendra de la mise en œuvre efficace et de la formation des enseignants, tout en naviguant sur les questions éthiques et le équilibre entre l'assistance de l'IA et l'instruction humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67be7f49504b8e0e73e2a1c5/0x0.jpg?format=jpg&crop=1575,886,x0,y81,safe&width=440",
+        "date": "Wed, 26 Feb 2025 05:59:00 GMT"
+    },
+    {
         "title": "Twitch Plays Pokemon",
         "link": "https://www.theverge.com/2014/2/17/5418690/play-this-twitch-plays-pokemon-crowdsourced-gaming",
         "body": "Des milliers de joueurs ont simultanément joué à un même jeu Pokémon via la chaîne TwitchPlaysPokemon sur Twitch, où les commentaires du chat sont convertis en entrées de contrôle. Bien que le gameplay soit souvent chaotique, les joueurs ont tout de même réussi à vaincre la moitié des leaders de gym du jeu. La latence entre les messages du chat et les entrées de contrôle rend la coordination difficile, mais les joueurs progressent malgré tout. La chaîne a gagné en popularité, avec plus de 35 000 participants et 6,5 millions de vues.",
@@ -299,19 +306,5 @@
         "body": "Apple a sorti iOS 18, iPadOS 18, macOS Sequoia, watchOS 11 et d'autres mises à jour, introduisant Apple Intelligence, une suite d'outils d'IA. Les fonctionnalités incluent la génération d'images, la création d'emojis personnalisés \"Genmoji\" et l'intégration de ChatGPT. Apple Intelligence est activé par défaut sur les nouveaux appareils et les mises à jour. La mise à jour comprend également des changements non liés à l'IA, tels que la possibilité de modifier les applications par défaut et de tester son audition avec AirPods. De plus, iPadOS 18 dispose désormais d'une application calculatrice et peut résoudre des équations mathématiques dans les notes.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 24 Feb 2025 07:32:14 GMT"
-    },
-    {
-        "title": "L'avenir du commerce électronique avec l'IA agentique",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/24/forget-chatgpt-why-agentic-ai-is-the-next-big-retail-disruption/?ss=ai",
-        "body": "L'IA agentique, qui permet aux systèmes d'effectuer des tâches complexes et orientées vers des objectifs avec une intervention humaine minimale, est sur le point de révolutionner le commerce électronique. Les grands acteurs comme Amazon et Salesforce déploient déjà ces technologies. L'article explore les cas d'utilisation de l'IA agentique dans le commerce électronique, notamment les bots de shopping, les agents de service client et la fixation dynamique des prix. Il souligne également le potentiel de l'IA agentique dans la gestion de la chaîne d'approvisionnement et de l'inventaire, ainsi que son rôle dans l'évolution vers une IA généralisée. Bien que des défis technologiques, culturels, éthiques et réglementaires existent, l'IA agentique est destinée à définir la prochaine étape de l'évolution du commerce électronique, offrant des opportunités aux entreprises de toutes tailles.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc13b604d2dc076d8d8f8e/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 24 Feb 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Sonar Acquires AutoCodeRover",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/02/24/sonar-bets-on-ai-code-automation-with-autocoderover-acquisition/?ss=ai",
-        "body": "Sonar, un leader dans le domaine des solutions de code propre, a acquis AutoCodeRover, un agent IA pour l'amélioration des programmes. L'intégration d'AutoCodeRover dans la plateforme SonarQube de Sonar automatise la maintenance logicielle à grande échelle et améliore son avantage concurrentiel face aux outils DevOps assistés par IA. AutoCodeRover, développé par des chercheurs de NUS, analyse les codebases existants, infère l'intention des développeurs et propose des corrections ciblées, tout en tenant compte des contraintes spécifiques au projet. Sonar vise à intégrer ces capacités dans SonarQube d'ici fin 2025, mais doit surmonter les défis liés au maintien de l'intégrité du code et à la confiance des développeurs. L'acquisition intervient alors que les entreprises cherchent à améliorer la productivité des ingénieurs logiciels, souvent entravée par la dette technique. Sonar évolue ainsi d'un gardien de l'assurance qualité vers un facilitateur de productivité, soulignant le rôle croissant de l'IA dans le développement logiciel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc049f883418334d097663/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 24 Feb 2025 05:34:00 GMT"
     }
 ]
