@@ -1,10 +1,31 @@
 [
     {
+        "title": "Visibilité Invisible",
+        "link": "https://www.forbes.com/sites/gusalexiou/2025/02/27/disfigurement-charity-exposes-rampant-exclusion-by-ai-facial-recognition-tools/?ss=ai",
+        "body": "Une campagne mondiale met en lumière la discrimination vécue par les personnes présentant des différences faciales lors de l'utilisation d'outils de reconnaissance faciale basés sur l'IA. La technologie de reconnaissance faciale, qui a connu une croissance exponentielle ces dernières années, a offert à la fois sécurité et commodité aux utilisateurs, mais a également entraîné des problèmes pour ceux dont les traits faciaux ne correspondent pas aux critères « normaux » des algorithmes d'IA. La campagne 'Visibly Invisible' vise à attirer l'attention des entreprises technologiques, des entreprises et des législateurs sur ces problèmes. L'enquête menée par Face Equality International révèle que 32 % des personnes présentant des différences faciales ont rencontré des difficultés à télécharger des photos sur les réseaux sociaux, 21 % ont eu des problèmes avec les applications bancaires, 12 % n'ont jamais réussi à utiliser les portillons électroniques aux aéroports, et 22 % n'ont pas pu déverrouiller leur téléphone avec leur visage. Ces problèmes soulignent le besoin de recherche supplémentaire sur les points de défaillance et les erreurs des outils de reconnaissance faciale, ainsi que sur leur comportement avec les personnes sans différences faciales. De plus, la différence faciale n'est pas toujours reconnue comme un handicap, ce qui laisse les individus sans protection juridique contre la discrimination.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf8d6a6f576f359899ba06/0x0.jpg?format=jpg&crop=1275,1187,x0,y263,safe&width=440",
+        "date": "Thu, 27 Feb 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'expérience client : éviter les pièges et exploiter l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/27/why-54-of-customers-are-disappointed-5-cx-mistakes-your-business-cant-afford/?ss=ai",
+        "body": "Bien que l'expérience client soit devenue un facteur clé de différenciation pour les entreprises, de nombreuses entreprises commettent des erreurs critiques dans sa mise en œuvre. L'article met en évidence certains pièges courants, tels que le manque de stratégie de données claire, la protection inadéquate des données sensibles, et l'utilisation inefficace de l'IA et de l'automatisation. Il souligne également l'importance d'une approche omnicanal coordonnée, de l'anticipation des besoins des clients et de l'autonomisation des employés de première ligne. En évitant ces pièges et en exploitant stratégiquement l'IA, les entreprises peuvent transformer l'expérience client en un avantage concurrentiel puissant.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c00b311a8af3eb891ee524/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 06:00:00 GMT"
+    },
+    {
         "title": "Apple's AI Ambitions",
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/26/inside-apples-massive-500-billion-ai-bet/?ss=ai",
         "body": "Apple annonce un investissement de 500 milliards de dollars dans le développement de l'IA aux États-Unis sur les 4 prochaines années, avec l'embauche de 20 000 personnes et l'ouverture d'une usine au Texas. Cet engagement fait suite à des promesses similaires non tenues par Apple lors des mandats de Trump et de Biden. L'impact réel de cet investissement sur l'industrie de l'IA, en particulier sur la chaîne d'approvisionnement des semi-conducteurs, est incertain. Les experts sont sceptiques quant à la capacité d'Apple à modifier significativement la chaîne d'approvisionnement à court terme, mais reconnaissent l'importance de la production nationale de puces pour la compétitivité en IA et la sécurité nationale. Cet investissement s'inscrit dans un contexte de tensions géopolitiques et de course mondiale à l'IA, et pourrait influencer les politiques gouvernementales en matière d'infrastructure IA, de sécurité nationale et d'incitations pour l'industrie technologique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bfaa0dd417d6cb2ab60ed6/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Feb 2025 00:55:00 GMT"
+    },
+    {
+        "title": "Amazon présente Alexa+",
+        "link": "https://www.frandroid.com/marques/2520975_amazon-alexa-le-chatbot-qui-connait-presque-tout-de-votre-vie-arrive-en-europe-et-en-france-dici-la-fin-de-lannee",
+        "body": "Amazon a dévoilé Alexa+, une mise à niveau majeure de son assistant vocal, lors d'une conférence à New York. Alexa+ est un chatbot qui se distingue en utilisant les meilleurs modèles de langage pour chaque tâche. Amazon met l'accent sur les capacités d'assistant personnel d'Alexa+, qui peut accéder à un large éventail de données personnelles, notamment l'historique des achats, les flux vidéo des sonnettes Ring et les préférences de divertissement. Le responsable produit d'Amazon a déclaré qu'Alexa+ « connaît presque tout de votre vie ». Le chatbot est également capable de détecter les émotions dans la voix de l'utilisateur pour s'adapter au contexte. La bêta d'Alexa+ sera d'abord lancée aux États-Unis, puis en Europe d'ici la fin de l'année.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/zwzlmtc0mjgt-cb550168268-768x480.jpg?resize=187,187&key=d5dd8233",
+        "date": "Wed, 26 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Copilot de Microsoft : une IA qui encourage le piratage ?",
@@ -348,12 +369,5 @@
         "body": "Résumé : Le gouvernement britannique a publié une consultation sur la manière de clarifier les droits d'auteur pour l'entraînement des modèles d'IA. Actuellement, il y a une incertitude juridique sur l'utilisation de contenu protégé par le droit d'auteur pour entraîner des modèles d'IA. Le gouvernement propose une exception pour l'extraction de données à des fins d'entraînement d'IA, tout en permettant aux titulaires de droits de réserver leurs droits et d'exiger une rémunération. Le gouvernement cherche également à améliorer la transparence de la part des développeurs d'IA sur les données utilisées pour entraîner les modèles et à encourager les licences collectives. Le gouvernement reconnaît également la nécessité de clarifier les droits d'auteur pour les sorties d'IA et d'explorer les droits de personnalité pour les individus. La consultation vise à obtenir des commentaires sur ces propositions et à trouver un équilibre entre les besoins de l'industrie créative et du secteur de l'IA.",
         "image": "",
         "date": "Tue, 25 Feb 2025 10:01:15 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des agents autonomes et polyvalents",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/02/25/the-important-difference-between-agentic-ai-and-ai-agents/?ss=ai",
-        "body": "L'article explique la différence entre les termes \"agents IA\" et \"IA agentique\", souvent confondus dans le domaine de l'intelligence artificielle. Les \"agents IA\" sont des applications spécifiques conçues pour travailler de manière autonome sur des problèmes à plusieurs étapes, avec peu d'intervention humaine. Ils sont déjà largement utilisés, notamment dans les banques et le commerce électronique, pour la vérification d'identité, l'automatisation des transactions et l'amélioration du service grâce à l'apprentissage des habitudes des utilisateurs. D'autre part, l'\"IA agentique\" fait référence au domaine de l'IA qui permet aux machines d'agir comme des agents. Il s'agit de développer des modèles d'IA capables de travailler de manière indépendante et autonome, comme des généralistes capables de s'adapter à différentes tâches, contrairement aux \"agents IA\" qui sont des spécialistes. L'IA agentique est un domaine de recherche en évolution qui, selon certains, pourrait conduire à l'émergence d'une IA générale artificielle (AGI), capable d'accomplir une variété de tâches complexes. L'article souligne l'importance de comprendre ces concepts pour quiconque souhaite utiliser l'IA de manière efficace dans un proche avenir. À mesure que l'IA agentique progressera, nous verrons apparaître des agents de plus en plus sophistiqués, capables d'automatiser diverses tâches, qu'elles soient numériques ou physiques, grâce à l'intégration de la robotique. Ces avancées rapides dans le domaine de l'IA sont susceptibles de transformer rapidement le paysage technologique, rendant essentielle la compréhension de ces développements pour prospérer dans la nouvelle ère technologique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bd69f5a459f5d742180899/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 07:00:00 GMT"
     }
 ]
