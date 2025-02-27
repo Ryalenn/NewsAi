@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA révolutionne l'industrie automobile",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/02/27/ai-takes-the-wheel-in-accelerating-the-automotive-industry/?ss=ai",
+        "body": "L'IA a un impact profond et diversifié sur l'industrie automobile, allant de la sécurité à la fabrication en passant par l'expérience client. Si les voitures autonomes font les gros titres, l'IA améliore également les véhicules actuels avec des fonctionnalités avancées d'assistance à la conduite, des expériences en véhicule personnalisées et des systèmes de voix naturelle. La fabrication et la chaîne d'approvisionnement bénéficient également de l'IA, qui optimise l'efficacité, la qualité et la gestion des stocks. De plus, l'IA améliore la maintenance prédictive et le service client. Ainsi, l'IA transforme l'industrie automobile dans son ensemble, et pas seulement dans le domaine des véhicules autonomes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/677b05b4de7c6d6bda729926/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 10:00:00 GMT"
+    },
+    {
         "title": "Visibilité Invisible",
         "link": "https://www.forbes.com/sites/gusalexiou/2025/02/27/disfigurement-charity-exposes-rampant-exclusion-by-ai-facial-recognition-tools/?ss=ai",
         "body": "Une campagne mondiale met en lumière la discrimination vécue par les personnes présentant des différences faciales lors de l'utilisation d'outils de reconnaissance faciale basés sur l'IA. La technologie de reconnaissance faciale, qui a connu une croissance exponentielle ces dernières années, a offert à la fois sécurité et commodité aux utilisateurs, mais a également entraîné des problèmes pour ceux dont les traits faciaux ne correspondent pas aux critères « normaux » des algorithmes d'IA. La campagne 'Visibly Invisible' vise à attirer l'attention des entreprises technologiques, des entreprises et des législateurs sur ces problèmes. L'enquête menée par Face Equality International révèle que 32 % des personnes présentant des différences faciales ont rencontré des difficultés à télécharger des photos sur les réseaux sociaux, 21 % ont eu des problèmes avec les applications bancaires, 12 % n'ont jamais réussi à utiliser les portillons électroniques aux aéroports, et 22 % n'ont pas pu déverrouiller leur téléphone avec leur visage. Ces problèmes soulignent le besoin de recherche supplémentaire sur les points de défaillance et les erreurs des outils de reconnaissance faciale, ainsi que sur leur comportement avec les personnes sans différences faciales. De plus, la différence faciale n'est pas toujours reconnue comme un handicap, ce qui laisse les individus sans protection juridique contre la discrimination.",
@@ -19,6 +26,27 @@
         "body": "Apple annonce un investissement de 500 milliards de dollars dans le développement de l'IA aux États-Unis sur les 4 prochaines années, avec l'embauche de 20 000 personnes et l'ouverture d'une usine au Texas. Cet engagement fait suite à des promesses similaires non tenues par Apple lors des mandats de Trump et de Biden. L'impact réel de cet investissement sur l'industrie de l'IA, en particulier sur la chaîne d'approvisionnement des semi-conducteurs, est incertain. Les experts sont sceptiques quant à la capacité d'Apple à modifier significativement la chaîne d'approvisionnement à court terme, mais reconnaissent l'importance de la production nationale de puces pour la compétitivité en IA et la sécurité nationale. Cet investissement s'inscrit dans un contexte de tensions géopolitiques et de course mondiale à l'IA, et pourrait influencer les politiques gouvernementales en matière d'infrastructure IA, de sécurité nationale et d'incitations pour l'industrie technologique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bfaa0dd417d6cb2ab60ed6/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Feb 2025 00:55:00 GMT"
+    },
+    {
+        "title": "Phi-4 : l'IA multimodale de Microsoft",
+        "link": "https://www.frandroid.com/marques/microsoft/2521463_phi-4-multimodal-lia-de-microsoft-qui-percoit-le-monde-comme-un-humain",
+        "body": "Microsoft a présenté Phi-4-multimodal, une IA de 5,6 milliards de paramètres qui surpasse ses concurrents de taille similaire et rivalise avec des modèles plus grands. Son architecture innovante, basée sur un \"mélange de LoRA\", intègre harmonieusement différentes modalités d'entrée. Phi-4-multimodal excelle dans les tâches de reconnaissance vocale et de vision, tout en conservant de solides capacités linguistiques. Parallèlement, Microsoft a dévoilé Phi-4-mini, un modèle de 3,8 milliards de paramètres spécialisé dans le traitement du langage, qui surpasse les modèles de 8 milliards de paramètres sur certains benchmarks. Ces modèles efficaces et polyvalents sont facilement déployables sur des appareils standard ou en edge computing, réduisant ainsi les coûts et les problèmes de confidentialité. Phi-4-multimodal a déjà suscité l'intérêt de l'industrie, avec une intégration par l'entreprise Capacity pour améliorer sa plateforme de moteur de réponse IA. Les modèles Phi sont désormais accessibles via Azure AI Foundry, Hugging Face et le catalogue d'API Nvidia.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/microsoft-logo-scaled-1-768x512.jpg?resize=200,200&key=21a3068f",
+        "date": "Wed, 26 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'ascension de Nvidia grâce à l'IA",
+        "link": "https://www.frandroid.com/marques/nvidia/2521427_nvidia-explose-les-records-393-milliards-grace-a-lia-et-cela-ne-semble-pas-fini",
+        "body": "Nvidia, initialement connu pour ses puces graphiques pour jeux vidéo, est devenu un acteur clé dans le domaine de l'IA. Au dernier trimestre, l'entreprise a annoncé un chiffre d'affaires impressionnant de 39,3 milliards de dollars, avec une croissance significative dans le segment des centres de données, qui inclut les GPU utilisés pour l'IA. Les entreprises de développement d'IA, telles que Microsoft, xAI, OpenAI et Meta, font confiance aux produits Nvidia pour améliorer leurs technologies. La société prévoit une croissance continue avec son nouveau système Blackwell, une architecture de puces de pointe pour les supercalculateurs d'IA. Malgré la concurrence émergente, comme la start-up chinoise DeepSeek, Nvidia reste serein et conserve une part de marché dominante dans le domaine des GPU.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nvidia-ceo-jensen-huang-keynote-at-ces-2025-55-44-screenshot-1-1200x675-1-768x432.jpg?resize=169,169&key=5b4b28dc",
+        "date": "Wed, 26 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini : les futurs plans de déploiement",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2521029_ces-nouveaux-smartphones-pourraient-embarquer-gemini-advanced-gratuitement",
+        "body": "Le média Android Authority a découvert en analysant le code de l'application Google que l'offre Google Gemini, qui propose un accès à l'IA Gemini Advanced pour une vingtaine d'euros par mois, pourrait bientôt être disponible sur les smartphones Xiaomi. Actuellement, les nouveaux détenteurs de téléphones Google Pixel 9 et Samsung Galaxy S25 bénéficient d'un abonnement gratuit de 6 à 12 mois. Bien que le modèle Xiaomi concerné ne soit pas précisé, les rumeurs sur la sortie du Xiaomi 15 Ultra suggèrent qu'il pourrait s'agir du modèle visé par Google. L'entreprise espère ainsi habituer les utilisateurs à son IA et les convertir en abonnés payants. L'événement Xiaomi du 2 mars au Mobile World Congress à Barcelone devrait apporter plus de détails à ce sujet.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/gemini-logo-1200x675-1-768x432.png?resize=169,169&key=4818b10e",
+        "date": "Wed, 26 Feb 2025 23:00:00 GMT"
     },
     {
         "title": "Amazon présente Alexa+",
@@ -341,33 +369,5 @@
         "body": "L'accélérateur Comcast NBCUniversal SportsTech a sélectionné 10 startups axées sur les sports et la technologie, dont plusieurs utilisent l'IA pour développer leurs produits. Orreco, une entreprise irlandaise de logiciels avec une plateforme d'analyse sportive basée sur l'IA, fait partie du programme. Camb.AI, une entreprise basée à Dubaï qui traduit la parole en plus de 140 langues, et OZ Sports, une entreprise islandaise qui utilise l'IA pour alimenter des caméras pour les productions sportives à distance, sont également incluses. Le programme offre un financement, un mentorat et des opportunités de partenariat, avec la participation de partenaires tels que NBC Sports, Sky Sports et NASCAR. Jenna Kurath, vice-présidente de Comcast, souligne l'importance de l'IA pour apporter des économies de coûts et une efficacité incroyables.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/65d651dd0f9408f3dabcdd38/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "La course à la domination de l'IA s'intensifie, et les données propriétaires en sont le nouveau Graal",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/02/25/why-proprietary-data-is-the-new-gold-for-ai-companies/?ss=ai",
-        "body": "Résumé : L'article explore l'évolution de la compétition entre les entreprises d'IA, qui se concentre désormais sur les données propriétaires plutôt que sur les modèles d'IA eux-mêmes. Les experts affirment que l'avantage concurrentiel provient de l'accès à des ensembles de données exclusifs et de haute qualité, permettant d'affiner les modèles d'IA pour des applications spécifiques. Cela est particulièrement vrai dans des secteurs spécialisés comme la santé, où les données privées peuvent améliorer considérablement la précision des diagnostics. Cependant, l'acquisition et la gestion de ces données exclusives sont coûteuses et complexes, et soulèvent des questions juridiques et éthiques. Alors que les réglementations sur la confidentialité des données se durcissent, les entreprises qui détiennent des données de haute valeur sont en position de force pour dicter les conditions de leur utilisation et d'accès. Cette tendance suggère que l'avenir de l'IA pourrait être façonné non pas par les développeurs de modèles, mais par les détenteurs de données de haute qualité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bd75735c29eaab620244ff/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 11:50:00 GMT"
-    },
-    {
-        "title": "Gemini Code Assist",
-        "link": "https://www.theverge.com/news/618839/google-gemini-ai-code-assist-free-individuals-availability#comments",
-        "body": "Google lance une version gratuite de son outil d'IA pour le codage, Gemini Code Assist, désormais disponible mondialement pour les développeurs indépendants. Gemini Code Assist utilise le modèle d'IA Gemini 2.0 de Google pour générer des blocs de code, compléter le code en temps réel et fournir une assistance via une interface de chat. L'outil gratuit offre un plafond généreux de 180 000 complétions de code par mois, surpassant largement les limites de l'offre gratuite de son concurrent direct, GitHub Copilot. Gemini Code Assist peut être installé dans des environnements de développement populaires et prend en charge tous les langages de programmation du domaine public. La version individuelle gratuite ne comprend pas les fonctionnalités avancées des versions payantes, telles que les métriques de productivité et les intégrations avec les services Google Cloud.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Feb 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Google Cloud Gemini pour tous",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/02/25/google-cloud-offers-free-software-developer-assistant/?ss=ai",
-        "body": "Google Cloud lance Gemini Code Assist, un assistant de codage basé sur l'IA, en version gratuite pour les particuliers. Cet outil, disponible dans les environnements de développement intégrés (IDE) Visual Studio Code et JetBrains, offre des fonctionnalités de saisie semi-automatique, de génération de code et de discussion. Gemini Code Assist pour GitHub, également en version préliminaire publique, fournit des révisions de code basées sur l'IA pour les référentiels publics et privés. L'objectif est de rendre les outils d'IA accessibles à tous les développeurs, qu'ils soient étudiants, indépendants ou petites entreprises. La version gratuite propose jusqu'à 180 000 saisies semi-automatiques de code par mois et prend en charge tous les langages de programmation du domaine public. Les développeurs peuvent utiliser le langage naturel pour générer, expliquer et améliorer le code, en laissant à Gemini les tâches répétitives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b85fdba6839b8b08bd3905/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Titre : Le Royaume-Uni cherche à clarifier les droits d'auteur pour l'IA",
-        "link": "https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence/copyright-and-artificial-intelligence",
-        "body": "Résumé : Le gouvernement britannique a publié une consultation sur la manière de clarifier les droits d'auteur pour l'entraînement des modèles d'IA. Actuellement, il y a une incertitude juridique sur l'utilisation de contenu protégé par le droit d'auteur pour entraîner des modèles d'IA. Le gouvernement propose une exception pour l'extraction de données à des fins d'entraînement d'IA, tout en permettant aux titulaires de droits de réserver leurs droits et d'exiger une rémunération. Le gouvernement cherche également à améliorer la transparence de la part des développeurs d'IA sur les données utilisées pour entraîner les modèles et à encourager les licences collectives. Le gouvernement reconnaît également la nécessité de clarifier les droits d'auteur pour les sorties d'IA et d'explorer les droits de personnalité pour les individus. La consultation vise à obtenir des commentaires sur ces propositions et à trouver un équilibre entre les besoins de l'industrie créative et du secteur de l'IA.",
-        "image": "",
-        "date": "Tue, 25 Feb 2025 10:01:15 GMT"
     }
 ]
