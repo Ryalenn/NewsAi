@@ -1,5 +1,40 @@
 [
     {
+        "title": "L'avenir de l'art et de l'IA : une collaboration humaine et machine",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/02/27/christies-ai-themed-art-auction-how-do-we-know-what-holds-value/?ss=ai",
+        "body": "L'article explore l'intersection croissante de l'art et de l'intelligence artificielle, en mettant en évidence la récente vente aux enchères de Christie's dédiée aux œuvres d'art intégrant l'IA. Il suggère que cet événement marque un changement de paradigme dans le monde de l'art, où l'IA est désormais considérée comme un moyen sérieux d'exploration créative. L'article met en lumière des artistes comme Holly Herndon, Sougwen Chung et Harold Cohen, qui repoussent les limites de l'IA dans leur pratique artistique. En concevant leurs propres algorithmes, en formant des modèles sur mesure et en intégrant la robotique et la vision informatique, ces artistes créent des œuvres qui fusionnent l'intention humaine et l'intelligence artificielle. L'article souligne également l'importance de l'originalité et du travail artistique, ainsi que des considérations éthiques dans l'utilisation de l'IA dans l'art. Enfin, il encourage les professionnels de tous les secteurs à embrasser l'IA non pas comme un outil d'automatisation, mais comme une source d'inspiration pour de nouvelles formes d'innovation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bfbc1511a16386d94d9afb/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 17:47:00 GMT"
+    },
+    {
+        "title": "GPT-4.5",
+        "link": "https://www.theverge.com/news/620067/openai-gpt-4-5-nearly-here",
+        "body": "Résumé : OpenAI s'apprête à lancer GPT-4.5, nom de code Orion, d'ici fin février, selon des indices découverts dans la version Android de ChatGPT et confirmés par une source proche de l'entreprise.",
+        "image": "",
+        "date": "Thu, 27 Feb 2025 16:15:50 GMT"
+    },
+    {
+        "title": "L'importance de l'oubli dans l'IA",
+        "link": "https://www.forbes.com/sites/nishatalagala/2025/02/27/why-unlearning-is-hard-for-ai-and-why-your-business-should-care/?ss=ai",
+        "body": "L'article souligne l'importance de la capacité d'un modèle d'IA à \"oublier\" ou à supprimer des éléments de données spécifiques de sa base de connaissances, un concept connu sous le nom d' \"oubli\" dans l'IA. Bien que les humains oublient naturellement, l'oubli dans l'IA est un défi complexe en raison de la manière dont les modèles d'IA intègrent les données. Les motifs des données étudiées précédemment sont intégrés aux coefficients du modèle de manière subtile, rendant difficile l'extraction de l'impact d'un point de données spécifique. De plus, la réutilisation des modèles d'IA entraînés pour créer de nouveaux modèles ajoute une couche de complexité à l'oubli. L'article souligne l'importance de l'oubli dans l'IA pour les entreprises, notamment pour répondre aux exigences légales de suppression de données et pour gérer les données inappropriées ou biaisées. Pour gérer l'oubli de l'IA, les entreprises doivent accorder une attention particulière à la gouvernance des données et de l'IA, en veillant à ce que les besoins en matière d'oubli soient identifiés et traités.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c0969b219791d72e6660f2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : les agents IA",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/02/27/the-top-150-ai-agents/?ss=ai",
+        "body": "L'avenir de l'IA réside dans les agents IA, qui sont désormais recherchés par les startups pour leur capacité à améliorer l'efficacité et la productivité. Les agents IA sont des logiciels autonomes qui prennent des décisions et interagissent sans intervention humaine. Il existe trois catégories principales : les agents d'automatisation, les agents conversationnels et les plateformes multi-agents. Les agents d'automatisation excellent dans l'exécution de tâches répétitives, la gestion de la chaîne d'approvisionnement et les tests logiciels. Les agents conversationnels améliorent l'expérience client grâce à des interactions sociales intelligentes et des réponses personnalisées. Les plateformes multi-agents coordonnent le travail de plusieurs agents IA spécialisés, optimisant ainsi les processus interfonctionnels. Ces agents révolutionnent les secteurs du commerce électronique, du marketing et du service client, libérant les employés des tâches fastidieuses et leur permettant de se concentrer sur des activités à forte valeur ajoutée. Avec leur capacité à améliorer l'efficacité, la prise de décision et l'expérience client, les agents IA deviennent des partenaires essentiels pour les organisations innovantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c096d14a0c383a8777f711/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 16:00:00 GMT"
+    },
+    {
+        "title": "La fin des modèles géants",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/27/do-we-need-bigger-ai-models/?ss=ai",
+        "body": "L'article explore l'idée que l'ère des modèles d'IA de grande taille pourrait toucher à sa fin, car les chercheurs explorent de nouvelles architectures de modélisation pour améliorer les performances et la productivité. Microsoft, Sam Altman et d'autres suggèrent que les lois de mise à l'échelle traditionnelles atteignent leurs limites et que de nouvelles approches sont nécessaires. Symbolica AI, soutenue par Vinod Khosla, en est un exemple : elle propose de construire des modèles basés sur des collections de symboles, plutôt que de se concentrer uniquement sur la taille des modèles. Son fondateur, George Morgan, critique l'approche homogène actuelle, qui conduit à des résultats prévisibles et à des modèles coûteux, et suggère que la décentralisation vers des modèles plus petits et plus efficaces pourrait être la voie à suivre. L'article mentionne également l'émergence des réseaux liquides et de l'IA agentique, qui favorisent la collaboration de petits modèles pour créer une conscience numérique sophistiquée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/664b653c9531e7e38c9f9678/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 27 Feb 2025 15:00:00 GMT"
+    },
+    {
         "title": "L'IA révolutionne l'industrie automobile",
         "link": "https://www.forbes.com/sites/ronschmelzer/2025/02/27/ai-takes-the-wheel-in-accelerating-the-automotive-industry/?ss=ai",
         "body": "L'IA a un impact profond et diversifié sur l'industrie automobile, allant de la sécurité à la fabrication en passant par l'expérience client. Si les voitures autonomes font les gros titres, l'IA améliore également les véhicules actuels avec des fonctionnalités avancées d'assistance à la conduite, des expériences en véhicule personnalisées et des systèmes de voix naturelle. La fabrication et la chaîne d'approvisionnement bénéficient également de l'IA, qui optimise l'efficacité, la qualité et la gestion des stocks. De plus, l'IA améliore la maintenance prédictive et le service client. Ainsi, l'IA transforme l'industrie automobile dans son ensemble, et pas seulement dans le domaine des véhicules autonomes.",
@@ -189,6 +224,13 @@
         "date": "Wed, 26 Feb 2025 05:59:00 GMT"
     },
     {
+        "title": "Alexa Plus",
+        "link": "https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news",
+        "body": "Amazon dévoile enfin Alexa Plus, une version améliorée de son assistant vocal Alexa, alimentée par des modèles linguistiques et des intégrations avec des partenaires d'actualité, des applications et des services de commande. Alexa Plus peut ajouter des événements à votre calendrier, acheter des billets de concert, répondre à des questions sur l'actualité, etc. L'assistant est disponible sur de nombreux appareils Echo existants, mais pas sur les modèles les plus anciens. L'accès anticipé gratuit sera proposé aux États-Unis fin mars 2025 pour les clients disposant d'appareils Echo Show éligibles, qui devront toutefois s'inscrire pour l'utiliser. Alexa Plus est capable de mémoriser des détails personnels tels que les préférences alimentaires et cinématographiques, et peut également analyser et résumer des documents. Amazon prévoit de facturer les utilisateurs pour ces nouvelles fonctionnalités pour la première fois.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB337_ALEXA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 26 Feb 2025 00:00:00 GMT"
+    },
+    {
         "title": "Alexa, l'assistant vocal intelligent d'Amazon",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/2520529_amazon-devoile-alexa-lia-lit-vos-docs-voit-votre-maison-et-devine-vos-envies",
         "body": "Amazon dévoile une version améliorée de son assistant vocal, Alexa+. Cette nouvelle IA promet une transformation dans l'interaction avec la technologie. Alexa+ est dotée de capacités avancées de vision par ordinateur, pouvant analyser et comprendre les images et vidéos en temps réel. Elle peut également détecter et répondre aux émotions de l'utilisateur, et accéder à une \"mémoire\" de préférences et d'habitudes pour personnaliser ses réponses. Alexa+ devient ainsi une assistante pro de la maison connectée, contrôlant les appareils Amazon et offrant des suggestions personnalisées. L'accès à Alexa+ est gratuit pour les membres Prime et sera disponible sur les appareils Echo Show à partir de mars.",
@@ -278,61 +320,5 @@
         "body": "Bien qu'une majorité de travailleurs n'utilisent pas ou peu les chatbots IA dans leur travail, ceux qui les utilisent les trouvent utiles pour accélérer leurs tâches et améliorer la qualité de leur travail. Les travailleurs plus jeunes et ceux ayant un niveau d'éducation plus élevé sont plus enclins à utiliser les chatbots IA et à les trouver utiles. Parmi les utilisateurs réguliers, plus de la moitié affirment que les chatbots IA les aident à gagner du temps et 41 % disent qu'ils améliorent la qualité de leur travail. Les tâches les plus courantes pour lesquelles les chatbots IA sont utilisés incluent la recherche d'informations, l'édition de contenu écrit et la rédaction de rapports.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/pew-research-survey.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 25 Feb 2025 19:28:08 GMT"
-    },
-    {
-        "title": "Queer History Unveiled",
-        "link": "https://www.forbes.com/sites/lesliekatz/2025/02/25/getty-museum-acquires-its-first-ai-generated-photograph/?ss=ai",
-        "body": "Le musée Getty acquiert la première photo générée par IA pour sa collection permanente, \"Cristian en el Amor de Calle\" de Matias Sauter Morera. La photo fait partie d'une série qui explore la culture clandestine des \"pegamachos\" au Costa Rica, des hommes qui maintenaient une identité hétérosexuelle tout en ayant des rencontres secrètes avec d'autres hommes. Morera a utilisé l'IA pour créer des portraits fictifs, un choix délibéré pour protéger l'anonymat des sujets tout en imaginant des histoires homoérotiques. L'acquisition de cette œuvre par le Getty reflète leur intérêt pour l'exploration de l'IA par les artistes et leur volonté d'élargir leur collection d'œuvres d'artistes LGBTQ+ et latino-américains. Morera considère l'IA comme un médium créatif distinct, qui lui permet d'imaginer et de construire une histoire parallèle fictive.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67be0a3406954624e86315b1/0x0.jpg?format=jpg&crop=1516,853,x0,y143,safe&width=440",
-        "date": "Tue, 25 Feb 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Copilot Unlimited",
-        "link": "https://www.theverge.com/news/619199/microsoft-copilot-free-unlimited-voice-think-deeper-open-ai-o1-reasoning-model-ai#comments",
-        "body": "Microsoft a récemment supprimé les limites d'utilisation du modèle de raisonnement o1 d'OpenAI dans Copilot, ainsi que des fonctionnalités vocales de Copilot, pour tous les utilisateurs. Auparavant, les fonctionnalités Think Deeper (basée sur o1) et Voice étaient limitées pour les utilisateurs gratuits, mais ces restrictions ont été levées pour permettre des conversations étendues avec l'assistant IA de Copilot. L'équipe Copilot déclare qu'elle s'efforce d'offrir un accès illimité aux fonctionnalités avancées à autant de personnes que possible, tout en gérant la demande élevée et en veillant à la sécurité et à l'utilisation appropriée du service. Cette annonce intervient deux ans après le lancement initial de Copilot par Microsoft, et un mois après la refonte de l'abonnement Copilot Pro et l'intégration de fonctionnalités IA d'Office dans Microsoft 365. L'abonnement Copilot Pro, qui coûte 20 dollars par mois, offre toujours un accès prioritaire aux derniers modèles pendant les périodes de forte demande, ainsi qu'un accès anticipé à des fonctionnalités IA expérimentales.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Feb 2025 17:53:48 GMT"
-    },
-    {
-        "title": "Chegg contre Google",
-        "link": "https://www.theverge.com/news/619051/chegg-google-ai-overviews-monopoly#comments",
-        "body": "Chegg, une entreprise d'éducation en ligne, a déposé une plainte contre Google, affirmant que ses résumés de résultats de recherche générés par l'IA ont nui à son trafic et à ses revenus. Chegg allègue que Google abuse de sa position de monopole en contraignant les entreprises à utiliser leur contenu pour les \"AI Overviews\", sans contrepartie financière. Cette action en justice est la première du genre de la part d'une seule entreprise concernant cette fonctionnalité d'IA. La plainte a un impact significatif sur Chegg, qui envisage désormais une acquisition et un retrait de la cote. L'entreprise affirme que l'enjeu dépasse son propre cas et concerne l'industrie de l'édition numérique, l'avenir de la recherche sur Internet et l'accès des étudiants à des ressources éducatives de qualité. Google, de son côté, défend sa pratique, affirmant que les \"AI Overviews\" augmentent la diversité du trafic vers différents sites. Cette affaire soulève des préoccupations quant à l'impact potentiel des résumés générés par l'IA sur le trafic des sites Web, avec des médias et des organisations de presse exprimant leur inquiétude.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Feb 2025 17:42:41 GMT"
-    },
-    {
-        "title": "Make It Fair",
-        "link": "https://www.theverge.com/news/619063/uk-newspapers-covers-protest-government-ai-rights-proposal#comments",
-        "body": "Les principaux journaux britanniques s'unissent pour protester contre les propositions du gouvernement concernant la protection des droits d'auteur et l'IA. La campagne 'Make It Fair' vise à protéger les industries créatives britanniques contre l'utilisation de leurs œuvres protégées par des entreprises d'IA sans permission ni compensation équitable. La période de consultation publique sur les propositions, qui visent à autoriser l'utilisation de données protégées par le droit d'auteur pour l'entraînement de l'IA à des fins commerciales, est désormais close. Les créateurs craignent que l'assouplissement des protections des droits d'auteur n'ait un impact dévastateur sur l'industrie créative britannique, évaluée à 152 milliards de dollars. La campagne 'Make It Fair' est soutenue par de grands journaux, dont The Sun, Daily Mail et The Guardian, ainsi que par la Creative Rights in AI Coalition, qui cherche à protéger les droits des créateurs dans l'ère de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/IMG_4825.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
-        "date": "Tue, 25 Feb 2025 16:40:37 GMT"
-    },
-    {
-        "title": "L'importance de fidéliser les utilisateurs",
-        "link": "https://www.forbes.com/sites/abdoriani/2025/02/25/5-tips-to-improve-user-retention-of-your-startup/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf6f025e4e437d3629c16/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA dans la recherche scientifique",
-        "link": "https://www.forbes.com/sites/johnsviokla/2025/02/25/lab-wars-is-ai-coming-for-your-white-coat-3-implications/?ss=ai",
-        "body": "Google a récemment annoncé sa plateforme IA co-scientifique, qui utilise sept agents IA pour aider les chercheurs, de la conception à la découverte. Cette approche de \"jeu auto-dirigé\" permet aux agents de débattre de différentes idées et d'évoluer dans leur réflexion. Les idées générées par l'IA ont été évaluées par de vrais scientifiques et ont été jugées presque équivalentes en termes d'impact potentiel et d'originalité. L'IA a, par exemple, identifié de nouveaux candidats pour le recyclage de médicaments dans le traitement de la leucémie myéloïde aiguë, qui se sont avérés cliniquement pertinents. \n\nLes avancées scientifiques ont des implications profondes pour de nombreuses entreprises, comme SpaceX, qui a repoussé les limites de la soudure de l'aluminium pour réduire les coûts de construction de fusées. Les fabricants, les entreprises pharmaceutiques, énergétiques et informatiques peuvent grandement bénéficier d'une science plus rapide, plus précise et moins coûteuse. \n\nLes modèles linguistiques à grande échelle, basés sur les mathématiques matricielles, permettent l'analyse croisée de différents types de données (images, textes, données de capteurs, etc.) dans un espace de connaissance partagé. Cela ouvre la voie à de nouvelles perspectives et à des découvertes remarquables. \n\nActions recommandées pour les dirigeants : \n\n1. Établir une stratégie de R&D augmentée par l'IA pour accélérer la génération d'hypothèses et la planification de la recherche. \n2. Cultiver une culture de l'IA au sein des équipes scientifiques pour compléter l'expertise humaine et surpasser la concurrence. \n3. Recruter des talents scientifiques capables d'utiliser et de développer de nouveaux modèles IA, en collaboration avec des institutions académiques. \n\nLes agents IA et les modèles linguistiques évoluent rapidement, transformant radicalement la création et la fluidité des connaissances. Les scientifiques de Google, basés sur le silicium, travaillent sans relâche pour explorer et améliorer en permanence.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bd01ba92cef1cc55f90a65/0x0.jpg?format=jpg&crop=2820,1321,x0,y424,safe&width=440",
-        "date": "Tue, 25 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans les applications d'entreprise",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/25/on-developing-cutting-edge-ai-what-business-need-to-do-right-now/?ss=ai",
-        "body": "L'article explore le rôle de l'IA dans le développement de stratégies d'entreprise innovantes. Il souligne l'importance d'une approche ciblée, où les entreprises identifient d'abord leurs problèmes les plus importants et utilisent l'IA pour y répondre. Les experts, dont Cassie Kozyrkov de Google, suggèrent que les entreprises « résolvent leurs plus gros problèmes » avec l'IA. Cela implique d'aligner les initiatives d'IA sur les objectifs de l'organisation, garantissant ainsi une cohérence stratégique et des résultats efficaces. L'article présente également les réflexions d'Inma Martinez, conseillère en IA, qui souligne l'importance de la mise à l'échelle des applications d'IA pour créer un avantage concurrentiel durable. Enfin, l'article résume cinq stratégies d'application de l'IA à la stratégie d'entreprise, notamment le développement de stratégies axées sur les données, les analyses prédictives et l'optimisation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf594f756aae409e3b7e1/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence s'apprête à accueillir Google Gemini",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/02/25/apples-much-needed-apple-intelligence-upgrade-underway-report-claims/?ss=ai",
-        "body": "Des fragments de code suggèrent qu'Apple prépare l'intégration de Google Gemini en tant que modèle d'IA tiers optionnel pour Apple Intelligence. Cette mise à jour, d'abord évoquée après la WWDC 2024, permettra aux utilisateurs de basculer entre ChatGPT et Gemini pour les tâches d'IA dans le cloud. Les utilisateurs d'iPhone pourront activer ChatGPT via le menu \"Apple Intelligence & Siri\", leur permettant de choisir le modèle d'IA pour certaines tâches. L'ajout de Gemini offrira plus de choix et permettra une meilleure intégration avec les services Google. De plus, la flexibilité d'Apple Intelligence pourrait, à l'avenir, permettre l'intégration d'autres modèles d'IA concurrents ou même l'hébergement de modèles personnalisés sur des serveurs privés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf32f1e2e403aac1f9f9b/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 16:00:00 GMT"
     }
 ]
