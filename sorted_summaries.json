@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sesame, l'avenir de l'IA conversationnelle ?",
+        "link": "https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe#comments",
+        "body": "Le co-fondateur d'Oculus, Brendan Iribe, lance une nouvelle startup appelée Sesame, qui développe une IA conversationnelle avancée et des lunettes d'IA. Sesame a impressionné avec son assistant vocal naturel et réactif, \"Maya\", qui surpasse les offres actuelles avec des réponses rapides et des pauses naturelles. La startup a reçu un financement d'investisseurs d'Oculus, notamment Andreessen Horowitz, Spark Capital et Matrix Partners. Sesame prévoit également d'open-source ses modèles et de prendre en charge plus de 20 langues. L'entreprise développe des lunettes d'IA pour accompagner son assistant vocal, offrant un accès pratique et un audio de haute qualité tout au long de la journée.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/8.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 27 Feb 2025 19:19:08 GMT"
+    },
+    {
+        "title": "Xbox AI Gaming Revolution",
+        "link": "https://www.theverge.com/notepad-microsoft-newsletter/620839/microsoft-xbox-ai-gaming-muse-model-notepad#comments",
+        "body": "Microsoft dévoile son modèle d'IA Muse, capable de générer du gameplay, marquant le début de ses expérimentations d'IA pour Xbox. Muse, développé par Microsoft Research, a été entraîné sur le jeu Xbox Bleeding Edge et peut comprendre un monde 3D, la physique et interagir avec les joueurs. Cette annonce a divisé les opinions, certains craignant le remplacement des développeurs par l'IA, tandis que d'autres y voient un simple outil supplémentaire. L'industrie du jeu vidéo est déjà confrontée à des problèmes de coûts et de licenciements, ce qui augmente l'anxiété face à l'IA. Microsoft prévoit d'utiliser Muse pour générer des jeux et envisage de libérer au moins un jeu généré par IA sur Copilot Labs. La collaboration entre Microsoft Research et Xbox sur des mini-jeux et des modèles d'IA comme Muse n'est que le début de leurs efforts pour intégrer l'IA dans le jeu vidéo. Lors de la GDC du mois prochain, Microsoft mettra en avant d'autres utilisations de l'IA dans le jeu vidéo, y compris des outils d'assistance aux développeurs. Malgré les critiques de certains développeurs, Microsoft encourage ses studios de jeux Xbox à adopter l'IA, ce qui pourrait conduire à des décisions importantes en 2025.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 27 Feb 2025 18:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'art et de l'IA : une collaboration humaine et machine",
         "link": "https://www.forbes.com/sites/geruiwang/2025/02/27/christies-ai-themed-art-auction-how-do-we-know-what-holds-value/?ss=ai",
         "body": "L'article explore l'intersection croissante de l'art et de l'intelligence artificielle, en mettant en évidence la récente vente aux enchères de Christie's dédiée aux œuvres d'art intégrant l'IA. Il suggère que cet événement marque un changement de paradigme dans le monde de l'art, où l'IA est désormais considérée comme un moyen sérieux d'exploration créative. L'article met en lumière des artistes comme Holly Herndon, Sougwen Chung et Harold Cohen, qui repoussent les limites de l'IA dans leur pratique artistique. En concevant leurs propres algorithmes, en formant des modèles sur mesure et en intégrant la robotique et la vision informatique, ces artistes créent des œuvres qui fusionnent l'intention humaine et l'intelligence artificielle. L'article souligne également l'importance de l'originalité et du travail artistique, ainsi que des considérations éthiques dans l'utilisation de l'IA dans l'art. Enfin, il encourage les professionnels de tous les secteurs à embrasser l'IA non pas comme un outil d'automatisation, mais comme une source d'inspiration pour de nouvelles formes d'innovation.",
@@ -63,6 +77,13 @@
         "date": "Thu, 27 Feb 2025 00:55:00 GMT"
     },
     {
+        "title": "OpenAI lance GPT-4.5, un LLM amélioré",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2522993_openai-gpt-4-5-disponible-tout-ce-que-vous-devez-savoir-sur-la-nouvelle-ia-de-chatgpt",
+        "body": "OpenAI a dévoilé GPT-4.5, une version améliorée de GPT-4 avec plus de connaissances et une meilleure compréhension des intentions des utilisateurs. Il est disponible en avant-première pour les abonnés ChatGPT Pro et sera lancé dans l'abonnement ChatGPT Plus la semaine prochaine. GPT-4.5 a été entraîné avec une grande quantité de données et utilise l'apprentissage non supervisé et le \"chain-of-thought\". Il offre des réponses plus précises et moins d'hallucinations. OpenAI a également amélioré sa capacité à comprendre les émotions et les besoins des utilisateurs, le rendant plus intuitif et chaleureux. Malgré ses améliorations, GPT-4.5 est moins puissant que les modèles o1 et o3, mais 10 fois plus efficace que GPT-4. OpenAI prévoit de lancer GPT-5, qui fusionnera les meilleures fonctionnalités de GPT et o3.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/openai-logo-1200x675-2-768x432.jpg?resize=169,169&key=bdc3ead9",
+        "date": "Wed, 26 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "Phi-4 : l'IA multimodale de Microsoft",
         "link": "https://www.frandroid.com/marques/microsoft/2521463_phi-4-multimodal-lia-de-microsoft-qui-percoit-le-monde-comme-un-humain",
         "body": "Microsoft a présenté Phi-4-multimodal, une IA de 5,6 milliards de paramètres qui surpasse ses concurrents de taille similaire et rivalise avec des modèles plus grands. Son architecture innovante, basée sur un \"mélange de LoRA\", intègre harmonieusement différentes modalités d'entrée. Phi-4-multimodal excelle dans les tâches de reconnaissance vocale et de vision, tout en conservant de solides capacités linguistiques. Parallèlement, Microsoft a dévoilé Phi-4-mini, un modèle de 3,8 milliards de paramètres spécialisé dans le traitement du langage, qui surpasse les modèles de 8 milliards de paramètres sur certains benchmarks. Ces modèles efficaces et polyvalents sont facilement déployables sur des appareils standard ou en edge computing, réduisant ainsi les coûts et les problèmes de confidentialité. Phi-4-multimodal a déjà suscité l'intérêt de l'industrie, avec une intégration par l'entreprise Capacity pour améliorer sa plateforme de moteur de réponse IA. Les modèles Phi sont désormais accessibles via Azure AI Foundry, Hugging Face et le catalogue d'API Nvidia.",
@@ -103,6 +124,13 @@
         "body": "Amazon a présenté Alexa+, une nouvelle version de son assistant vocal doté d'une intelligence artificielle générative. Développé en collaboration avec Anthropic, Alexa+ offre des fonctionnalités avancées telles que la reconnaissance de scènes et de citations dans les films, la personnalisation des routines pour chaque membre du foyer, l'analyse des images des caméras de sécurité et des recommandations de contenu personnalisées. Alexa+ sera disponible aux États-Unis sur les appareils Echo Show et via une application dédiée.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/image-112-2-1200x675-1-768x432.jpg?resize=169,169&key=45caa970",
         "date": "Wed, 26 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La course aux puces IA",
+        "link": "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia",
+        "body": "La demande pour les puces IA de Nvidia a explosé, propulsant la valeur de l'entreprise à plus d'un trillion de dollars. Les clients comme Microsoft, Meta, OpenAI, Amazon et Google développent leurs propres processeurs IA, tandis que Nvidia, AMD et Intel rivalisent pour lancer de nouvelles puces IA plus efficaces et plus puissantes. OpenAI prévoit de produire sa propre puce IA l'année prochaine, réduisant ainsi sa dépendance aux puces Nvidia. Intel, quant à lui, simplifie sa feuille de route après des pertes massives et des problèmes avec sa puce Gaudi. DeepSeek, une startup chinoise, attire l'attention avec ses modèles IA open-source, tandis que le prix des actions de Nvidia chute. Sony renforce son partenariat avec AMD pour développer des technologies de jeu basées sur l'IA. Nvidia fait l'objet d'une enquête antitrust en Chine et Intel fait face à des changements majeurs avec le départ soudain de son PDG et la scission de son activité de fabrication de puces. AMD reprioritise également sa stratégie, mettant désormais l'accent sur les puces IA plutôt que sur les GPU haut de gamme pour les joueurs. Enfin, une enquête antitrust du Département de la Justice sur la domination de Nvidia dans le domaine de l'IA s'intensifie.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 26 Feb 2025 22:58:48 GMT"
     },
     {
         "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
@@ -285,40 +313,5 @@
         "body": "OpenAI propose une version gratuite de son modèle linguistique basée sur une version allégée de GPT-4o, offrant une conversation naturelle tout en étant plus économique.",
         "image": "",
         "date": "Tue, 25 Feb 2025 21:42:39 GMT"
-    },
-    {
-        "title": "La révolution de la réflexion dans l'IA générative",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/25/ai-thinking-time-and-prompting-to-be-better-handled-by-ai-makers-this-way/?ss=ai",
-        "body": "**Résumé :**\nCet article explore l'évolution de l'IA générative et des grands modèles linguistiques, en se concentrant sur la notion de \"temps de réflexion\". L'auteur identifie trois ères dans l'utilisation de l'IA générative : la première ère, où le temps de réflexion est déterminé par le créateur de l'IA ; la deuxième, où l'utilisateur peut choisir entre différents niveaux de temps de réflexion (bas, moyen, élevé) ; et la troisième, où l'IA et l'utilisateur collaborent pour déterminer le temps de réflexion approprié. L'auteur prédit que la troisième ère, qui implique une collaboration humain-IA, sera la plus efficace et permettra d'obtenir de meilleurs résultats. L'article aborde également les implications éthiques et économiques de cette évolution, notamment la possibilité que les créateurs d'IA tentent d'inciter les utilisateurs à augmenter le temps de réflexion pour générer des revenus supplémentaires.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc21b2aa0bee348eb078b5/0x0.jpg?format=jpg&crop=2158,1619,x31,y0,safe&width=440",
-        "date": "Tue, 25 Feb 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/02/25/the-prompt-elon-musks-doge-plans-to-feed-federal-data-into-ai-models/?ss=ai",
-        "body": "L'article présente les derniers développements et tendances dans le domaine de l'IA, avec un focus particulier sur son impact sur les industries et la société. Il commence par discuter de l'utilisation de l'IA par le Département de l'efficacité gouvernementale d'Elon Musk (DOGE) pour réduire les dépenses gouvernementales, en analysant les rôles des employés et en prenant des décisions de coupe. Le DOGE développe également un chatbot personnalisé pour augmenter la productivité des employés. L'article souligne ensuite les investissements massifs des géants de la technologie dans l'infrastructure de l'IA, avec Apple annonçant un plan de 500 milliards de dollars pour construire une usine de serveurs d'IA. Il mentionne également le lancement de plusieurs systèmes d'IA capables de mener des recherches approfondies et d'aider les scientifiques. Dans le domaine des startups de l'IA, plusieurs entreprises ont annoncé d'importantes levées de fonds, soulignant la valeur croissante de l'IA dans divers secteurs tels que le recrutement, l'informatique en nuage et les soins de santé. L'article explore également la tendance des chatbots de l'IA à « love bomber » les utilisateurs, et présente Tolan, une startup développant un outil de conversation vocal non romantique conçu pour être un ami de confiance. Enfin, il discute de l'impact de l'IA sur les entreprises EdTech et les médias, avec Chegg poursuivant Google pour ses résumés générés par l'IA, et un deepfake de Donald Trump et Elon Musk faisant surface.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67be24e420a8d4afcdf20af5/0x0.jpg?format=jpg&crop=3000,1687,x0,y61,safe&width=440",
-        "date": "Tue, 25 Feb 2025 20:21:00 GMT"
-    },
-    {
-        "title": "Make Europe Competitive Again",
-        "link": "https://www.forbes.com/sites/sylvainduranton/2025/02/25/europe-at-a-crossroads-business-leaders-must-take-the-lead/?ss=ai",
-        "body": "L'Europe est à la croisée des chemins alors que les États-Unis et la Chine investissent massivement dans l'IA et l'innovation technologique. L'article plaide pour une implication plus forte des leaders des entreprises européennes, en particulier des indices DAX et CAC 40, pour stimuler le changement et l'optimisme. Les réglementations complexes et la stagnation politique menacent la compétitivité de l'Europe, et les auteurs suggèrent que l'expérience et l'influence des dirigeants d'entreprises peuvent aider à façonner l'avenir de l'Europe, en particulier en réponse à des initiatives telles que le projet américain \"Stargate\". L'élection de Donald Trump et son mépris ouvert pour les réglementations européennes sont également discutés comme un appel au réveil pour l'Europe, soulignant la nécessité de mobiliser les talents et l'optimisme du continent.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67be1e7c916bf89ce4df7269/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Feb 2025 20:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. Ces outils d'IA, comme ChatGPT, Copilot et Gemini, fonctionnent en utilisant des programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de faits codés en dur, ils peuvent présenter des informations fausses comme vraies. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les préoccupations concernant l'utilisation de l'IA sur le lieu de travail, les tarifs des outils d'IA, les modèles hybrides, les applications de jeux et les assistants vocaux. Les entreprises comme Meta, Amazon et Samsung investissent également dans l'IA, que ce soit pour la création de contenu, l'amélioration des assistants virtuels ou l'intégration dans les smartphones. L'article mentionne également des problèmes juridiques et éthiques liés à l'IA, tels que des poursuites pour violation de droits d'auteur et des préoccupations en matière de sécurité. Enfin, il aborde le lancement de nouveaux modèles et fonctionnalités par OpenAI et Google, ainsi que la concurrence croissante de startups comme DeepSeek.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Feb 2025 19:28:08 GMT"
-    },
-    {
-        "title": "L'utilisation des chatbots IA sur le lieu de travail",
-        "link": "https://www.pewresearch.org/social-trends/2025/02/25/workers-experience-with-ai-chatbots-in-their-jobs/",
-        "body": "Bien qu'une majorité de travailleurs n'utilisent pas ou peu les chatbots IA dans leur travail, ceux qui les utilisent les trouvent utiles pour accélérer leurs tâches et améliorer la qualité de leur travail. Les travailleurs plus jeunes et ceux ayant un niveau d'éducation plus élevé sont plus enclins à utiliser les chatbots IA et à les trouver utiles. Parmi les utilisateurs réguliers, plus de la moitié affirment que les chatbots IA les aident à gagner du temps et 41 % disent qu'ils améliorent la qualité de leur travail. Les tâches les plus courantes pour lesquelles les chatbots IA sont utilisés incluent la recherche d'informations, l'édition de contenu écrit et la rédaction de rapports.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/pew-research-survey.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Feb 2025 19:28:08 GMT"
     }
 ]
