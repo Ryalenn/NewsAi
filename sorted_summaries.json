@@ -1,5 +1,19 @@
 [
     {
+        "title": "La course à l'efficacité dans la course aux LLMs",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/02/28/gpt-45-drops-as-ai-competition-intensifies--data-efficiency-matters/?ss=ai",
+        "body": "La course à l'armement des LLMs s'intensifie avec OpenAI, Anthropic, xAI et DeepSeek qui rivalisent pour révolutionner le marché. La question clé est de savoir si les modèles d'IA peuvent devenir à la fois plus intelligents, plus rapides et moins coûteux. DeepSeek R1 suggère que l'avenir appartient aux modèles qui maîtrisent l'efficacité des données grâce à des méthodes d'apprentissage machine innovantes. Cette tendance reflète l'évolution de l'informatique, passant des ordinateurs centraux aux microprocesseurs et à l'informatique personnelle. Les LLMs d'aujourd'hui nécessitent des infrastructures colossales et une énorme quantité d'énergie. La tendance évolue vers des modèles plus petits, plus personnalisés et plus efficaces, grâce à des techniques d'apprentissage améliorées et à des données de haute qualité. Les innovations dans ce domaine, comme les travaux de Jiayi Pan et Fei-Fei Li, permettent un développement de l'IA plus accessible et durable. L'open source et la collaboration contribuent également à cette évolution. Les modèles commerciaux adoptent ces innovations, comme Claude 3.7 Sonnet d'Anthropic, qui offre un compromis entre puissance et coût. La combinaison de capacités de langage et de raisonnement dans un seul modèle, comme proposé par DeepSeek, pourrait améliorer les performances et l'expérience utilisateur. La réduction de la dépendance aux centres de données pourrait également réduire l'empreinte carbone de l'IA. La course à l'efficacité dans la course aux LLMs aura des répercussions profondes, ouvrant de nouvelles possibilités pour l'intelligence incarnée, la robotique et l'accessibilité mondiale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c1773c98c99994f97b02e5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Feb 2025 17:00:00 GMT"
+    },
+    {
+        "title": "La science américaine en péril",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/02/28/the-prototype-trump-research-cuts-hit-the-national-weather-serviceand-antarctica/?ss=ai",
+        "body": "Les coupes budgétaires touchent plusieurs agences scientifiques fédérales, entraînant des licenciements et affectant la recherche. Des startups se lancent dans l'exploration lunaire, avec des missions récentes de Firefly Aerospace et Intuitive Machines. En IA, OpenAI lance une version limitée de GPT-4.5, améliorant la compréhension contextuelle et la résolution de problèmes. D'autres avancées technologiques incluent des fibres élastiques programmables et un centre de données miniature testé sur la Lune.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c1321dee2135a75a9f10b4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Feb 2025 15:00:00 GMT"
+    },
+    {
         "title": "Apple Intelligence s'apprête à accueillir Google Gemini",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/02/28/apples-much-needed-apple-intelligence-upgrade-underway-report-claims/?ss=ai",
         "body": "Des fragments de code suggèrent qu'Apple prépare l'intégration de Google Gemini en tant que modèle d'IA tiers optionnel pour Apple Intelligence. Cette mise à jour permettra aux utilisateurs de basculer entre ChatGPT et Gemini pour les tâches d'IA, offrant ainsi plus de choix et garantissant qu'Apple Intelligence reste à la pointe des derniers développements en matière d'IA. Gemini devrait également améliorer la traduction sur Google Translate, offrant des traductions plus précises et contextuelles. L'ajout de Gemini est une mise à niveau importante, car il offre une meilleure intégration avec les produits Google et des fonctionnalités multimodales avancées. La conception flexible d'Apple Intelligence laisse également la porte ouverte à d'autres modèles d'IA à l'avenir, répondant ainsi à la demande des utilisateurs.",
@@ -68,6 +82,13 @@
         "body": "Amazon prépare une offensive pour l'automne 2025 avec de nouveaux appareils et une version améliorée de son assistant vocal, Alexa+. L'entreprise compte ainsi renforcer son écosystème d'appareils connectés et d'IA, avec plus de 500 millions d'appareils compatibles Alexa dans le monde. Parmi les nouveautés attendues, une version améliorée des Echo Frames, des lunettes intelligentes intégrant Alexa, et une mise à jour d'Alexa+ avec des capacités IA avancées. Amazon prévoit un déploiement progressif d'Alexa+ sur certains modèles d'Echo Show, avec la possibilité d'étendre la mise à jour à d'autres appareils plus tard.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/amazon-echo-spot-2024-1200x777-1-768x497.jpg?resize=194,194&key=6b134e37",
         "date": "Thu, 27 Feb 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Copilot sur macOS et les mises à jour iOS",
+        "link": "https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download#comments",
+        "body": "Microsoft lance une application Copilot native pour macOS, offrant un accès à l'assistant IA de l'entreprise, similaire à la version Windows. L'application macOS comprend un mode sombre et une commande de raccourci (Commande + Espace) pour activer l'assistant IA. L'application iPad est mise à jour avec un mode écran partagé, et les utilisateurs d'iPhone et d'iPad peuvent désormais se connecter avec leur Apple ID, télécharger des fichiers texte ou PDF et générer des résumés de documents. La fonctionnalité de résumé de document sera bientôt disponible sur l'application macOS. Cette sortie fait suite à la récente annonce de Microsoft concernant l'utilisation illimitée et gratuite de Copilot Voice et Think Deeper.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 27 Feb 2025 20:32:37 GMT"
     },
     {
         "title": "GPT-4.5, le nouveau modèle LLM d'OpenAI",
@@ -246,44 +267,16 @@
     },
     {
         "title": "Alexa Plus",
+        "link": "https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app#comments",
+        "body": "Amazon renouvelle Alexa avec de nouvelles fonctionnalités d'IA, accessibles via le site alexa.com et l'application mobile Alexa. Les abonnés à Alexa Plus pourront interagir avec le nouvel assistant vocal pour diverses tâches, telles que les achats, la domotique et l'analyse de vidéos de caméras de surveillance. Alexa Plus peut également résumer des documents. Le service sera disponible aux États-Unis dans les prochaines semaines pour 19,99 $ par mois ou inclus dans l'abonnement Prime.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ZWZlMTc0Mjgt._CB550168268_.jpg?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
+        "date": "Wed, 26 Feb 2025 19:28:41 GMT"
+    },
+    {
+        "title": "Alexa Plus",
         "link": "https://www.theverge.com/news/620005/amazon-alexa-plus-ai-smart-assistant-pricing-availability-devices#comments",
         "body": "Amazon a annoncé une nouvelle version de son assistant vocal, Alexa Plus, qui offrira des fonctionnalités étendues et des conversations plus naturelles. L'accès anticipé débutera fin mars 2025 pour les clients américains possédant des appareils Echo Show compatibles. Alexa Plus sera proposé gratuitement aux utilisateurs Prime, tandis que les autres devront payer 19,99 $ par mois. De nombreuses nouvelles fonctionnalités seront liées aux services Amazon Music et Prime Video. Alexa Plus sera disponible sur la plupart des appareils Alexa existants, y compris l'application mobile, les Fire TV et tablettes. Les appareils Echo Show avec écran tactile seront prioritaires lors de l'accès anticipé, et certains anciens appareils Echo ne seront pas compatibles.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 26 Feb 2025 19:00:21 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.forbes.com/sites/prakharkhanna/2025/02/26/amazons-genai-powered-alexa-plus-is-smarter-contextual-and-more-personal/?ss=ai",
-        "body": "Alexa, l'assistant vocal d'Amazon, se voit offrir une mise à jour importante grâce à l'IA générative, avec une nouvelle version appelée Alexa Plus. Alexa Plus comprend mieux le contexte et le sens, offrant ainsi une expérience plus conversationnelle et personnalisée. Il peut mémoriser les préférences alimentaires, les allergies et les traditions familiales, et proposer des suggestions adaptées. La nouvelle fonctionnalité de recherche contextuelle est impressionnante, permettant de trouver des chansons spécifiques ou de sauter vers une scène particulière d'un film. Alexa Plus peut également effectuer des tâches comme réserver des billets ou trouver des courses Uber. Il s'agit d'un système agnostique en termes de modèle, permettant à l'assistant de choisir le meilleur modèle pour chaque tâche. Alexa Plus sera disponible sur les appareils Echo Show aux États-Unis à partir de mars, avec un abonnement mensuel ou gratuitement pour les membres Amazon Prime.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf52294bc5055d3d8ea81a/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Feb 2025 17:49:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé : innovations et investissements",
-        "link": "https://www.forbes.com/sites/amyfeldman/2025/02/26/innovationrx-eli-lilly-has-stockpiled-nearly-550-million-of-its-next-obesity-drug/?ss=ai",
-        "body": "Eli Lilly parie sur un nouveau médicament oral pour la perte de poids, avec des stocks d'une valeur de 550 millions de dollars. La startup Cellino fait un pas de plus vers la production à grande échelle de cellules souches iPSCs, avec un premier site de production prévu pour l'année prochaine. Mesoblast obtient l'approbation de la FDA pour Ryoncil, une première thérapie à base de cellules souches stromales mésenchymateuses pour traiter la maladie du greffon contre l'hôte. Genesis Therapeutics conclut un accord avec Incyte pour utiliser sa plateforme de découverte de médicaments basée sur l'IA, avec un paiement initial de 30 millions de dollars. Medtronic obtient l'approbation de la FDA pour un dispositif de stimulation cérébrale profonde auto-ajustable pour la maladie de Parkinson.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf3ec88f188df31770754c/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Feb 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app#comments",
-        "body": "Amazon lance une nouvelle application mobile et un site web, alexa.com, permettant aux abonnés d'Alexa Plus d'interagir avec l'assistant vocal basé sur l'IA. Alexa Plus offrira diverses fonctionnalités, telles que la possibilité d'avoir des conversations pour effectuer des tâches quotidiennes, contrôler les appareils domotiques, et analyser/résumer des documents. Le service sera disponible aux États-Unis dans les prochaines semaines pour 19,99 $ par mois ou inclus dans l'abonnement Prime.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/lcimg-23ffbf60-1de1-42d6-a392-04ab708cb723.jpeg?quality=90&strip=all&crop=0.03125%2C0%2C99.9375%2C100&w=2400",
-        "date": "Wed, 26 Feb 2025 16:36:33 GMT"
-    },
-    {
-        "title": "La course aux modèles LLM s'intensifie",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/26/what-new-model-is-best-does-it-matter/?ss=ai",
-        "body": "Résumé : Les principaux acteurs du domaine des LLM déploient de nouvelles versions de leurs modèles à un rythme effréné, ce qui rend difficile l'évaluation de leurs performances réelles. Des analystes et testeurs utilisent de nouveaux critères d'évaluation, mais certains affirment que ces efforts n'ont pas d'impact significatif sur l'utilisateur final. Le podcast AI Daily Brief explore cette question, mettant en avant les modèles o3 mini d'OpenAI et Grok3, qui se distinguent par leurs capacités de raisonnement et leurs fonctionnalités avancées. Les hôtes discutent de l'utilité de repères comme GPQA et AIME, suggérant que les utilisateurs curieux devraient plutôt tester eux-mêmes les modèles avec différents types de requêtes, de prompts et de défis. Le podcast mentionne également le modèle Claude 3.7 Sonnet, qui combine des capacités de raisonnement et de traitement du langage, et présente les observations d'Ethan Mollick sur les capacités impressionnantes de cette nouvelle génération d'IA, notamment en matière de tâches complexes, de mathématiques et de codage. Mollick souligne l'importance de la puissance de calcul et du temps d'inférence, qui améliorent les performances des modèles, et suggère que les dirigeants doivent reconsidérer les capacités de l'IA, qui peut désormais être un partenaire intellectuel à part entière, capable de gérer des tâches analytiques complexes, créatives et de recherche.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf4371b97440617f077217/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 26 Feb 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Alexa, enfin prête",
-        "link": "https://www.theverge.com/news/619755/amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant#comments",
-        "body": "Amazon lance enfin la version tant attendue d'Alexa basée sur l'IA generative, appelée Alexa Plus. Alexa Plus peut effectuer des tâches pour l'utilisateur, telles que commander des courses ou envoyer des invitations à des événements, et peut mémoriser des détails personnels tels que les préférences alimentaires et cinématographiques. Alexa Plus est disponible pour 19,99 $ par mois ou gratuitement pour les membres Amazon Prime. Il fonctionnera sur la plupart des appareils Alexa existants et sera initialement disponible gratuitement en accès anticipé. Alexa Plus peut poursuivre des conversations, a des capacités visuelles et peut effectuer diverses tâches, telles que réserver des tables dans des restaurants locaux ou créer des itinéraires de voyage. Il peut également contrôler les appareils de domotique, créer des routines et être utilisé pour la musique et les films. Amazon affirme qu'Alexa Plus est un système agnostique en termes de modèle, utilisant son propre modèle Amazon Nova ainsi que ceux d'autres entreprises. Il s'intègre également avec divers partenaires pour accéder à des données sur les marchés financiers, les sports, etc. Malgré les annonces initiales en 2023, Amazon a connu des difficultés dans le développement d'Alexa Plus, mais il est maintenant prêt à être lancé, entrant en concurrence avec d'autres assistants numériques tels que Google Gemini et ChatGPT.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Alexa-Plus.webp?quality=90&strip=all&crop=36.05625%2C10.708929486461%2C63.94375%2C63.984345529892&w=2400",
-        "date": "Wed, 26 Feb 2025 15:25:30 GMT"
     }
 ]
