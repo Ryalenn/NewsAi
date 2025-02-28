@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gemini se souvient de vous",
+        "link": "https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory",
+        "body": "Google Gemini, un chatbot IA, peut désormais personnaliser ses réponses en fonction des intérêts et préférences de l'utilisateur. La fonctionnalité Gemini Advanced permet au chatbot d'adapter ses suggestions et réponses en fonction des détails partagés par l'utilisateur, tels que ses goûts alimentaires, son travail, ses hobbies ou ses aspirations. Les utilisateurs peuvent également fournir des informations pertinentes sur eux-mêmes via la page \"Saved Info\" du chatbot, comme des préférences végétariennes ou leur profession. La fonctionnalité est accessible via un abonnement Google One AI Premium et est actuellement disponible uniquement en anglais.",
+        "image": "",
+        "date": "Fri, 28 Feb 2025 19:15:43 GMT"
+    },
+    {
+        "title": "L'avenir de la réglementation de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/02/28/laws-on-ai-what-will-they-look-like/?ss=ai",
+        "body": "L'article explore les complexités de la réglementation de l'IA, en mettant l'accent sur les défis et les opportunités pour les entreprises, en particulier les petites entreprises. Il résume les discussions d'un panel d'experts en droit et en technologie lors d'un événement de l'IIA à Davos, y compris les points de vue de Gabriele Mazzinin, qui a contribué à l'European AI Act, de Pablo Arredondo, fondateur d'une société de legaltech, et de Julia Apostle, avocate chez Orrick.\n\nLe panel a abordé des sujets tels que la nécessité d'outils de surveillance et de transparence, les défis posés par les multiples cadres juridiques, l'évolution rapide des modèles d'IA et l'impact des modèles open source. Ils ont également discuté de l'impact de la réglementation de l'IA sur les entreprises américaines et non européennes. Les experts concluent que la réglementation vise à favoriser l'innovation et que les entreprises et les régulateurs peuvent travailler ensemble pour trouver le bon équilibre entre innovation et gestion des risques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c20acd7bd60cd072e75eae/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Feb 2025 19:00:00 GMT"
+    },
+    {
         "title": "La course à l'efficacité dans la course aux LLMs",
         "link": "https://www.forbes.com/sites/geruiwang/2025/02/28/gpt-45-drops-as-ai-competition-intensifies--data-efficiency-matters/?ss=ai",
         "body": "La course à l'armement des LLMs s'intensifie avec OpenAI, Anthropic, xAI et DeepSeek qui rivalisent pour révolutionner le marché. La question clé est de savoir si les modèles d'IA peuvent devenir à la fois plus intelligents, plus rapides et moins coûteux. DeepSeek R1 suggère que l'avenir appartient aux modèles qui maîtrisent l'efficacité des données grâce à des méthodes d'apprentissage machine innovantes. Cette tendance reflète l'évolution de l'informatique, passant des ordinateurs centraux aux microprocesseurs et à l'informatique personnelle. Les LLMs d'aujourd'hui nécessitent des infrastructures colossales et une énorme quantité d'énergie. La tendance évolue vers des modèles plus petits, plus personnalisés et plus efficaces, grâce à des techniques d'apprentissage améliorées et à des données de haute qualité. Les innovations dans ce domaine, comme les travaux de Jiayi Pan et Fei-Fei Li, permettent un développement de l'IA plus accessible et durable. L'open source et la collaboration contribuent également à cette évolution. Les modèles commerciaux adoptent ces innovations, comme Claude 3.7 Sonnet d'Anthropic, qui offre un compromis entre puissance et coût. La combinaison de capacités de langage et de raisonnement dans un seul modèle, comme proposé par DeepSeek, pourrait améliorer les performances et l'expérience utilisateur. La réduction de la dépendance aux centres de données pourrait également réduire l'empreinte carbone de l'IA. La course à l'efficacité dans la course aux LLMs aura des répercussions profondes, ouvrant de nouvelles possibilités pour l'intelligence incarnée, la robotique et l'accessibilité mondiale.",
@@ -243,40 +257,5 @@
         "body": "L'IA, une priorité stratégique mondiale",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/phi4.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 26 Feb 2025 22:00:00 GMT"
-    },
-    {
-        "title": "Le futur de l'IA au Canada",
-        "link": "https://www.forbes.com/sites/hessiejones/2025/02/26/politics-and-the-perils-of-ai-exacerbating-social-divides-in-canada/?ss=ai",
-        "body": "Le Canada se trouve à un tournant crucial en matière d'intelligence artificielle (IA). Bien que le gouvernement ait proposé un investissement important pour positionner le pays comme une puissance mondiale en IA, l'adoption de cette technologie risque d'accentuer les disparités sociales et économiques existantes. Les intervenants du secteur social mettent en garde contre le risque de créer une société à deux vitesses, où une partie de la population est laissée pour compte et n'a pas accès aux outils et avantages de l'IA. Les problèmes vont au-delà de l'accès à la technologie, soulevant des questions fondamentales sur la gouvernance et les bénéfices de l'IA. Les intervenants soulignent la nécessité de repenser le développement et la mise en œuvre de l'IA, en accordant une attention particulière à son impact social et aux incitations qu'elle crée. Le fossé numérique au Canada est exacerbé par les changements politiques aux États-Unis, qui pourraient avoir des répercussions sur la réglementation de l'IA, la protection des données et la concurrence dans le secteur technologique. Les organisations à but non lucratif et les communautés autochtones sont particulièrement touchées par ces enjeux, faisant face à des obstacles en matière d'adoption de l'IA et à des risques de violation de données. Les leaders du secteur appellent à des stratégies proactives pour maintenir l'élan dans le développement de l'IA, indépendamment des changements politiques, et soulignent l'importance de la coopération entre les organisations à but non lucratif, les philanthropes et les innovateurs en technologie éthique. Ils insistent sur la nécessité de responsabiliser les décideurs politiques concernant l'impact social de l'inaction en matière de politiques liées à l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf5b8d1ca39d55691199df/0x0.jpg?format=jpg&crop=1998,1124,x0,y0,safe&width=440",
-        "date": "Wed, 26 Feb 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La morale des machines",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/02/26/ethical-ai-tussling-with-the-contentious-doctrine-of-double-effect-in-ai/?ss=ai",
-        "body": "Résumé : Cet article explore le lien entre l'éthique de l'IA et le dilemme du trolley, en se concentrant sur le cas des voitures autonomes. Il introduit la doctrine de l'effet double, qui suggère que les actions morales sont façonnées par la nature de l'acte et les principes sous-jacents. L'article présente ensuite le problème du trolley, un scénario hypothétique dans lequel un choix moral difficile doit être fait. En appliquant la doctrine de l'effet double, l'article examine les implications éthiques de l'IA autonome, en particulier dans les situations où un choix doit être fait entre des résultats potentiellement bons et mauvais. L'article soulève des questions importantes sur la manière dont l'IA devrait être programmée pour gérer ces scénarios et sur la transparence des algorithmes impliqués.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6217e0d0cd56c14b67a3c8ee/0x0.jpg?format=jpg&crop=2153,1211,x0,y50,safe&width=440",
-        "date": "Wed, 26 Feb 2025 20:59:00 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news",
-        "body": "Amazon dévoile enfin Alexa Plus, une version améliorée de son assistant vocal Alexa, alimentée par l'IA. Alexa Plus combine des modèles linguistiques larges et des intégrations avec des partenaires d'actualité, des applications et des services de commande. Les utilisateurs pourront ajouter des événements à leur calendrier, acheter des billets de concert et poser des questions sur l'actualité. L'assistant sera disponible sur de nombreux appareils Echo existants, mais pas sur les modèles les plus anciens. Alexa Plus offrira également la possibilité d'avoir des conversations plus naturelles, de commander des courses et d'inviter des amis à des événements. L'assistant mémorisera également les préférences personnelles en matière d'alimentation et de films. L'accès anticipé gratuit sera proposé aux États-Unis fin mars 2025 pour les clients disposant d'appareils Echo Show éligibles.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB337_ALEXA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 26 Feb 2025 20:25:59 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.theverge.com/news/619923/amazon-alexa-plus-com-mobile-app#comments",
-        "body": "Amazon renouvelle Alexa avec de nouvelles fonctionnalités d'IA, accessibles via le site alexa.com et l'application mobile Alexa. Les abonnés à Alexa Plus pourront interagir avec le nouvel assistant vocal pour diverses tâches, telles que les achats, la domotique et l'analyse de vidéos de caméras de surveillance. Alexa Plus peut également résumer des documents. Le service sera disponible aux États-Unis dans les prochaines semaines pour 19,99 $ par mois ou inclus dans l'abonnement Prime.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/ZWZlMTc0Mjgt._CB550168268_.jpg?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
-        "date": "Wed, 26 Feb 2025 19:28:41 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.theverge.com/news/620005/amazon-alexa-plus-ai-smart-assistant-pricing-availability-devices#comments",
-        "body": "Amazon a annoncé une nouvelle version de son assistant vocal, Alexa Plus, qui offrira des fonctionnalités étendues et des conversations plus naturelles. L'accès anticipé débutera fin mars 2025 pour les clients américains possédant des appareils Echo Show compatibles. Alexa Plus sera proposé gratuitement aux utilisateurs Prime, tandis que les autres devront payer 19,99 $ par mois. De nombreuses nouvelles fonctionnalités seront liées aux services Amazon Music et Prime Video. Alexa Plus sera disponible sur la plupart des appareils Alexa existants, y compris l'application mobile, les Fire TV et tablettes. Les appareils Echo Show avec écran tactile seront prioritaires lors de l'accès anticipé, et certains anciens appareils Echo ne seront pas compatibles.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 26 Feb 2025 19:00:21 GMT"
     }
 ]
