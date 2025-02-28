@@ -147,7 +147,7 @@
         "check": "yes"
     },
     {
-        "title": "Amazon Alexa+, le chatbot « qui connaît presque tout de votre vie » arrive en Europe et en France d’ici la fin de l’année",
+        "title": "Amazon Alexa+, le chatbot \u00ab qui conna\u00eet presque tout de votre vie \u00bb arrive en Europe et en France d\u2019ici la fin de l\u2019ann\u00e9e",
         "link": "https://www.frandroid.com/marques/2520975_amazon-alexa-le-chatbot-qui-connait-presque-tout-de-votre-vie-arrive-en-europe-et-en-france-dici-la-fin-de-lannee",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/zwzlmtc0mjgt-cb550168268-768x480.jpg?resize=187,187&key=d5dd8233",
         "date": "Wed, 26 Feb 2025 23:00:00 GMT",
@@ -264,5 +264,33 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 26 Feb 2025 22:58:48 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.reuters.com/technology/canadas-privacy-watchdog-opens-investigation-into-x-following-complaint-2025-02-27/",
+        "image": "",
+        "date": "Fri, 28 Feb 2025 01:08:41 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/cfRYp0nItZ8-HD.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Thu, 27 Feb 2025 20:11:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB337_ALEXA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 26 Feb 2025 20:25:59 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/02/27/viverse-launch-50-million-meta-horizon-fund-new-bets-on-the-metaverse/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c10846692e9512e6d761e0/0x0.jpg?format=jpg&crop=904,509,x0,y34,safe&width=440",
+        "date": "Fri, 28 Feb 2025 01:15:00 GMT",
+        "check": "no"
     }
 ]
