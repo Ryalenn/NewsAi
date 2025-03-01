@@ -1,5 +1,12 @@
 [
     {
+        "title": "La résurrection de l'IA Pin",
+        "link": "https://www.wired.com/story/the-humane-ai-pin-has-already-been-brought-back-to-life/",
+        "body": "Des hackers ont réussi à contourner l'authentification de l'IA Pin de Humane, un gadget d'IA portable, après que l'entreprise a annoncé l'arrêt de ses services et le remboursement des clients. Les hackers ont utilisé un certificat interne fourni par un employé de Humane, permettant ainsi l'accès au système d'exploitation du dispositif. Cet événement a suscité des réactions mitigées, y compris au sein de la communauté des utilisateurs, certains craignant des violations de droits de propriété intellectuelle et des répercussions de la part de HP, qui a acquis les actifs d'IA de Humane. L'article explore les motivations des hackers et des utilisateurs, ainsi que leur désir de libérer le potentiel de l'appareil et de le transformer en un outil quotidien pratique, sans l'inconvénient d'un écran.",
+        "image": "",
+        "date": "Sat, 01 Mar 2025 14:48:16 GMT"
+    },
+    {
         "title": "L'intelligence artificielle en classe",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/03/01/ai-is-changing-how-we-learn-the-new-role-of-human-teachers/?ss=ai",
         "body": "L'article met en lumière l'importance du rôle des enseignants dans l'ère de l'intelligence artificielle (IA). Il décrit une situation où un enseignant utilise la dépendance d'un élève envers l'IA générative comme un moment d'enseignement pour discuter de l'importance de la pensée critique et de la curiosité. L'incident souligne la tension entre l'IA et l'intelligence naturelle (NI) : si l'IA excelle dans le traitement des données, elle manque des dimensions plus profondes de la compréhension humaine qui caractérisent la NI. L'enseignement se déplace ainsi de la simple transmission de connaissances vers le développement de l'autonomie cognitive des élèves, les préparant à un monde où l'IA et la NI coexistent. Les enseignants sont irremplaçables car ils aident les élèves à développer une pensée critique et autonome, les guidant dans l'exercice de leur curiosité et de leur créativité. L'auteur suggère que les enseignants qui excellent dans l'intelligence hybride (HI) maximisent les avantages de l'IA et de la NI, en utilisant délibérément les outils d'IA en classe pour renforcer l'apprentissage. L'objectif est de créer des environnements d'apprentissage plus efficaces, où les forces computationnelles de l'IA soutiennent et amplifient la sagesse humaine. Dans un monde façonné par l'IA, les enseignants sont plus que jamais essentiels, en tant que défenseurs des valeurs humaines, de l'intelligence émotionnelle et de la pensée critique.",
@@ -19,6 +26,13 @@
         "body": "Escape.ai, une nouvelle plateforme dédiée à l'IA cinématographique, lance ses propres récompenses, les 'Escape Awards', un jour avant les Oscars. L'événement met en valeur les créateurs d'IA avec un festival de films et une cérémonie de remise des prix, avec un vote exclusif des créateurs de la plateforme. Le projet Odyssey, une compétition de cinéma d'IA, offre des prix en argent et des outils d'IA gratuits aux participants. Le gagnant de la compétition narrative est 'One Last Wish' d'Edmond Yang. Promise Studios acquiert Curious Refuge pour développer un pipeline de talents créatifs axé sur l'IA. Ils lancent également un concours d'animation IA. Google lance Veo 2, un générateur de vidéos IA, à 1800 $ de l'heure. Veo 2 cible les cinéastes et les studios avec des fonctionnalités avancées. 'ANPU', un court-métrage d'Yves Dalbiez, utilise l'IA pour fusionner la mythologie égyptienne et la cinématographie moderne. Le film expérimental 'Space Trash' de Jas Black explore l'IA et l'escapisme avec des effets visuels d'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c1cedb7fe16f987284e659/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 01 Mar 2025 08:00:00 GMT"
+    },
+    {
+        "title": "La stratégie de Google pour gagner la course à l'AGI",
+        "link": "https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products#comments",
+        "body": "Le co-fondateur de Google, Sergey Brin, a récemment envoyé un message clair aux employés de la division DeepMind de Google, soulignant l'intensification de la concurrence dans la course au développement de l'AGI (intelligence artificielle générale). Brin suggère d'augmenter les heures de travail à 60 heures par semaine, d'encourager le travail en bureau, de privilégier la simplicité et d'accélérer le processus de développement. Il souligne également la nécessité de faire confiance aux utilisateurs et de réduire les filtres et les restrictions dans les produits d'IA de Google. Bien que le message soit destiné aux chercheurs en IA de DeepMind, il est remarquable qu'il vienne de Brin, qui n'a actuellement aucun rôle formel chez Google hormis en tant que membre du conseil d'administration. La lettre de Brin aux chercheurs de Gemini met en évidence l'importance de l'efficacité du code, de la productivité, du travail en bureau, d'une organisation claire et de la simplicité. Il encourage également l'excellence, la rapidité et l'itération à petite échelle pour obtenir de véritables avancées à grande échelle.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Sergey-Brin-CL-site-wide-2.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 28 Feb 2025 23:46:04 GMT"
     },
     {
         "title": "La prochaine génération d'IA conversationnelle",
@@ -152,33 +166,5 @@
         "body": "Amazon prépare une offensive pour l'automne 2025 avec de nouveaux appareils et une version améliorée de son assistant vocal, Alexa+. L'entreprise compte ainsi renforcer son écosystème d'appareils connectés et d'IA, avec plus de 500 millions d'appareils compatibles Alexa dans le monde. Parmi les nouveautés attendues, une version améliorée des Echo Frames, des lunettes intelligentes intégrant Alexa, et une mise à jour d'Alexa+ avec des capacités IA avancées. Amazon prévoit un déploiement progressif d'Alexa+ sur certains modèles d'Echo Show, avec la possibilité d'étendre la mise à jour à d'autres appareils plus tard.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/amazon-echo-spot-2024-1200x777-1-768x497.jpg?resize=194,194&key=6b134e37",
         "date": "Thu, 27 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Copilot sur macOS et les mises à jour iOS",
-        "link": "https://www.theverge.com/news/621114/microsoft-copilot-app-macos-download#comments",
-        "body": "Microsoft lance une application Copilot native pour macOS, offrant un accès à l'assistant IA de l'entreprise, similaire à la version Windows. L'application macOS comprend un mode sombre et une commande de raccourci (Commande + Espace) pour activer l'assistant IA. L'application iPad est mise à jour avec un mode écran partagé, et les utilisateurs d'iPhone et d'iPad peuvent désormais se connecter avec leur Apple ID, télécharger des fichiers texte ou PDF et générer des résumés de documents. La fonctionnalité de résumé de document sera bientôt disponible sur l'application macOS. Cette sortie fait suite à la récente annonce de Microsoft concernant l'utilisation illimitée et gratuite de Copilot Voice et Think Deeper.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 27 Feb 2025 20:32:37 GMT"
-    },
-    {
-        "title": "GPT-4.5, le nouveau modèle LLM d'OpenAI",
-        "link": "https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release",
-        "body": "OpenAI lance GPT-4.5, son plus grand modèle de langage IA à ce jour, en tant qu'aperçu de recherche pour les utilisateurs ChatGPT Pro. Bien qu'il ne s'agisse pas d'un modèle de pointe, GPT-4.5 offre de meilleures capacités d'écriture, une meilleure connaissance du monde et une personnalité plus raffinée. Le modèle est plus performant dans la reconnaissance de modèles et l'établissement de connexions, ce qui le rend idéal pour l'écriture, la programmation et la résolution de problèmes pratiques. GPT-4.5 a été formé à l'aide de nouvelles techniques de supervision et de méthodes traditionnelles comme le SFT et le RLHF. Malgré certaines limitations, il présente beaucoup moins d'hallucinations que les modèles précédents et offre des conversations plus chaleureuses et intuitives, selon OpenAI. Le modèle sera progressivement déployé pour les utilisateurs Plus, Team, Enterprise et Edu après son lancement initial pour les utilisateurs Pro.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/cfRYp0nItZ8-HD.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Thu, 27 Feb 2025 20:11:32 GMT"
-    },
-    {
-        "title": "Sesame, l'avenir de l'IA conversationnelle ?",
-        "link": "https://www.theverge.com/news/621022/sesame-voice-assistant-ai-glasses-oculus-brendan-iribe#comments",
-        "body": "Le co-fondateur d'Oculus, Brendan Iribe, lance une nouvelle startup appelée Sesame, qui développe une IA conversationnelle avancée et des lunettes d'IA. Sesame a impressionné avec son assistant vocal naturel et réactif, \"Maya\", qui surpasse les offres actuelles avec des réponses rapides et des pauses naturelles. La startup a reçu un financement d'investisseurs d'Oculus, notamment Andreessen Horowitz, Spark Capital et Matrix Partners. Sesame prévoit également d'open-source ses modèles et de prendre en charge plus de 20 langues. L'entreprise développe des lunettes d'IA pour accompagner son assistant vocal, offrant un accès pratique et un audio de haute qualité tout au long de la journée.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/8.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 27 Feb 2025 19:19:08 GMT"
-    },
-    {
-        "title": "Créativité et efficacité améliorées par l'IA",
-        "link": "https://www.forbes.com/sites/emmalynnellendt/2025/02/27/how-content-creators-are-using-ai-in-2025/?ss=ai",
-        "body": "L'IA est de plus en plus utilisée par les créateurs de contenu et les influenceurs pour améliorer leur productivité et leur créativité. Des outils comme ChatGPT, Opus Clip et Reclaim AI aident à générer des idées, à créer du contenu et à organiser le flux de travail. Par exemple, Bree Pair, fondatrice de Thrive, utilise ChatGPT pour stocker et rechercher du contenu, tandis qu'Austen Tosone, podcasteuse, utilise Opus Clip pour créer automatiquement des clips vidéo pour sa chaîne YouTube. Kayla Watkins, quant à elle, utilise ChatGPT pour créer du contenu pour Instagram, et Gabby Beckford, fondatrice de SeekPTO, utilise Reclaim AI et Descript AI pour planifier ses tâches et éditer des vidéos plus rapidement. L'IA permet aux créateurs de contenu de gagner du temps et de se concentrer sur des tâches plus créatives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bfaa22c120e7bdbb875900/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 27 Feb 2025 19:00:00 GMT"
     }
 ]
