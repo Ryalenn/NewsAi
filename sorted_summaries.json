@@ -14,6 +14,13 @@
         "date": "Sat, 01 Mar 2025 08:00:00 GMT"
     },
     {
+        "title": "La fin de l'hégémonie de Google ?",
+        "link": "https://www.frandroid.com/marques/google/2517885_je-fais-beaucoup-de-recherches-betes-jai-remplace-le-moteur-de-recherche-google-pendant-un-mois",
+        "body": "L'auteur, un journaliste, a décidé de remplacer Google par Perplexity Pro, un moteur de recherche basé sur l'IA, pendant un mois pour son travail. Perplexity s'est avéré très efficace pour les recherches complexes, fournissant des résultats pertinents et des sources fiables. Il a également aidé à trouver des contacts spécifiques. Cependant, pour des recherches simples et rapides, Google reste plus pratique et plus rapide. De plus, Perplexity n'est pas encore performant pour la recherche d'images. En conclusion, l'auteur continuera d'utiliser Perplexity pour les recherches complexes, mais retournera à Google pour les tâches quotidiennes simples.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1-768x432.jpg?resize=169,169&key=5fe0e9b4",
+        "date": "Fri, 28 Feb 2025 23:00:00 GMT"
+    },
+    {
         "title": "Robotaxis de Tesla",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/02/28/tesla-applies-for-second-of-six-permits-needed-for-ca-robot/?ss=ai",
         "body": "Tesla a présenté une demande de permis pour exploiter un service de robotaxis en Californie, bien qu'il ait déjà déclaré vouloir lancer un service similaire à Austin, au Texas, cette année. L'entreprise fait face à des critiques concernant son manque de progrès dans l'obtention des permis nécessaires, tant au niveau de l'État qu'au niveau fédéral. Bien que Tesla possède déjà un des six permis californiens, il n'a jamais été utilisé, et l'entreprise n'a pas encore atteint les niveaux de sécurité requis pour les autres. Son système FSD version 13 nécessiterait une intervention critique environ toutes les 400 miles, selon les conducteurs. Waymo, en comparaison, a parcouru 2,3 millions de miles sans incident. Tesla doit également faire face à des problèmes de réglementation et à des exigences techniques, comme la déclaration que ses véhicules ne peuvent pas fonctionner en mode autonome en dehors de leur zone de service officielle.",
@@ -201,12 +208,5 @@
         "body": "L'article explore l'idée que l'ère des modèles d'IA de grande taille pourrait toucher à sa fin, car les chercheurs explorent de nouvelles architectures de modélisation pour améliorer les performances et la productivité. Microsoft, Sam Altman et d'autres suggèrent que les lois de mise à l'échelle traditionnelles atteignent leurs limites et que de nouvelles approches sont nécessaires. Symbolica AI, soutenue par Vinod Khosla, en est un exemple : elle propose de construire des modèles basés sur des collections de symboles, plutôt que de se concentrer uniquement sur la taille des modèles. Son fondateur, George Morgan, critique l'approche homogène actuelle, qui conduit à des résultats prévisibles et à des modèles coûteux, et suggère que la décentralisation vers des modèles plus petits et plus efficaces pourrait être la voie à suivre. L'article mentionne également l'émergence des réseaux liquides et de l'IA agentique, qui favorisent la collaboration de petits modèles pour créer une conscience numérique sophistiquée.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/664b653c9531e7e38c9f9678/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'IA révolutionne l'industrie automobile",
-        "link": "https://www.forbes.com/sites/ronschmelzer/2025/02/27/ai-takes-the-wheel-in-accelerating-the-automotive-industry/?ss=ai",
-        "body": "L'IA a un impact profond et diversifié sur l'industrie automobile, allant de la sécurité à la fabrication en passant par l'expérience client. Si les voitures autonomes font les gros titres, l'IA améliore également les véhicules actuels avec des fonctionnalités avancées d'assistance à la conduite, des expériences en véhicule personnalisées et des systèmes de voix naturelle. La fabrication et la chaîne d'approvisionnement bénéficient également de l'IA, qui optimise l'efficacité, la qualité et la gestion des stocks. De plus, l'IA améliore la maintenance prédictive et le service client. Ainsi, l'IA transforme l'industrie automobile dans son ensemble, et pas seulement dans le domaine des véhicules autonomes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/677b05b4de7c6d6bda729926/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 27 Feb 2025 10:00:00 GMT"
     }
 ]
