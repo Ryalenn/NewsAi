@@ -1,5 +1,12 @@
 [
     {
+        "title": "Révolution de l'IA dans l'industrie pharmaceutique",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/03/02/how-ai-is-transforming-the-pharmaceutical-industry/?ss=ai",
+        "body": "L'IA révolutionne l'industrie pharmaceutique, transformant tout, de la découverte de médicaments à la recherche, en passant par les essais cliniques et la fabrication. L'article explore comment l'IA accélère l'innovation, réduit les coûts et le temps de développement des médicaments, et améliore l'efficacité des essais cliniques et de la recherche. L'IA peut analyser rapidement de vastes ensembles de données chimiques, biologiques et relatives aux patients, ce qui permet d'identifier de nouveaux médicaments et de repositionner les médicaments existants. Les essais cliniques sont optimisés grâce à une sélection plus efficace des participants et à une conception d'étude améliorée. Enfin, l'IA améliore la précision des traitements médicaux, prédisant l'interaction médicament-cible et personnalisant les traitements en fonction du profil génétique et biologique des individus.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c464bb696004c8ae8a69ea/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 02 Mar 2025 14:00:00 GMT"
+    },
+    {
         "title": "L'IA, l'éthique et le marché du travail",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/01/more-from-chicago-protecting-artists-free-speech-and-the-meaning-of-education/?ss=ai",
         "body": "L'article explore les questions éthiques liées à l'impact de l'IA sur le marché du travail et la propriété des données. Il souligne l'importance de protéger la valeur du travail humain et de garantir que les individus gardent le contrôle de leurs données. L'exemple de l'Université de Chicago, où un outil appelé Nightshade est utilisé pour protéger les œuvres d'art de l'imitation par l'IA, est présenté. L'interview met également en évidence l'importance de la liberté d'expression et du débat communautaire dans les universités. Enfin, il soulève des questions sur la place de l'IA dans le marché du travail et notre philosophie économique et commerciale.",
@@ -110,33 +117,5 @@
         "body": "La course à l'armement des LLMs s'intensifie avec OpenAI, Anthropic, xAI et DeepSeek qui rivalisent pour révolutionner le marché. La question clé est de savoir si les modèles d'IA peuvent devenir à la fois plus intelligents, plus rapides et moins coûteux. DeepSeek R1 suggère que l'avenir appartient aux modèles qui maîtrisent l'efficacité des données grâce à des méthodes d'apprentissage machine innovantes. Cette tendance reflète l'évolution de l'informatique, passant des ordinateurs centraux aux microprocesseurs et à l'informatique personnelle. Les LLMs d'aujourd'hui nécessitent des infrastructures colossales et une énorme quantité d'énergie. La tendance évolue vers des modèles plus petits, plus personnalisés et plus efficaces, grâce à des techniques d'apprentissage améliorées et à des données de haute qualité. Les innovations dans ce domaine, comme les travaux de Jiayi Pan et Fei-Fei Li, permettent un développement de l'IA plus accessible et durable. L'open source et la collaboration contribuent également à cette évolution. Les modèles commerciaux adoptent ces innovations, comme Claude 3.7 Sonnet d'Anthropic, qui offre un compromis entre puissance et coût. La combinaison de capacités de langage et de raisonnement dans un seul modèle, comme proposé par DeepSeek, pourrait améliorer les performances et l'expérience utilisateur. La réduction de la dépendance aux centres de données pourrait également réduire l'empreinte carbone de l'IA. La course à l'efficacité dans la course aux LLMs aura des répercussions profondes, ouvrant de nouvelles possibilités pour l'intelligence incarnée, la robotique et l'accessibilité mondiale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c1773c98c99994f97b02e5/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Feb 2025 17:00:00 GMT"
-    },
-    {
-        "title": "La science américaine en péril",
-        "link": "https://www.forbes.com/sites/alexknapp/2025/02/28/the-prototype-trump-research-cuts-hit-the-national-weather-serviceand-antarctica/?ss=ai",
-        "body": "Les coupes budgétaires touchent plusieurs agences scientifiques fédérales, entraînant des licenciements et affectant la recherche. Des startups se lancent dans l'exploration lunaire, avec des missions récentes de Firefly Aerospace et Intuitive Machines. En IA, OpenAI lance une version limitée de GPT-4.5, améliorant la compréhension contextuelle et la résolution de problèmes. D'autres avancées technologiques incluent des fibres élastiques programmables et un centre de données miniature testé sur la Lune.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c1321dee2135a75a9f10b4/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence s'apprête à accueillir Google Gemini",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/02/28/apples-much-needed-apple-intelligence-upgrade-underway-report-claims/?ss=ai",
-        "body": "Des fragments de code suggèrent qu'Apple prépare l'intégration de Google Gemini en tant que modèle d'IA tiers optionnel pour Apple Intelligence. Cette mise à jour permettra aux utilisateurs de basculer entre ChatGPT et Gemini pour les tâches d'IA, offrant ainsi plus de choix et garantissant qu'Apple Intelligence reste à la pointe des derniers développements en matière d'IA. Gemini devrait également améliorer la traduction sur Google Translate, offrant des traductions plus précises et contextuelles. L'ajout de Gemini est une mise à niveau importante, car il offre une meilleure intégration avec les produits Google et des fonctionnalités multimodales avancées. La conception flexible d'Apple Intelligence laisse également la porte ouverte à d'autres modèles d'IA à l'avenir, répondant ainsi à la demande des utilisateurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf32f1e2e403aac1f9f9b/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 14:37:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des assistants autonomes et personnalisés",
-        "link": "https://www.forbes.com/sites/solrashidi/2025/02/28/the-5-ai-trends-in-2025-agents-open-source-and-multi-model/?ss=ai",
-        "body": "Les tendances clés de l'IA pour 2025 :\n\n- L'IA open source : des modèles comme DeepSeek-2 offrent des performances élevées à moindre coût, rivalisant avec les alternatives propriétaires.\n- Multimodalité : l'IA du futur traitera simultanément texte, images, vidéos et audio, permettant des expériences interactives et une synthèse d'informations multi-formats.\n- Localisation de l'IA : en fonctionnant directement sur les appareils, l'IA offre une meilleure confidentialité, sécurité et performance, répondant aux besoins de confidentialité des données sensibles.\n- Tarification compétitive : la concurrence fait baisser les prix de l'IA, rendant cette technologie plus accessible aux entreprises et aux utilisateurs.\n- Agents IA : Grok 3 et Perplexity AI sont des exemples précurseurs d'agents IA capables de raisonner, planifier et agir de manière autonome, anticipant les besoins et exécutant des tâches complexes. \n\nL'IA évolue vers des assistants personnalisés, autonomes et proactifs, transformant les entreprises et la vie quotidienne. Les professionnels qui intégreront ces technologies obtiendront un avantage compétitif significatif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c0e5d31c263307a2106d52/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Améliorations majeures de Google Traduction",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/02/28/google-translate-to-gain-much-needed-ai-upgrade-says-report/?ss=ai",
-        "body": "Google Traduction s'apprête à bénéficier d'une mise à niveau importante grâce à l'IA Gemini de Google. Les fonctionnalités découvertes par l'analyste d'applications AssembleDebug permettront aux utilisateurs de poser des questions de suivi et de demander des modifications en fonction du contexte, améliorant ainsi la flexibilité et l'interactivité des traductions. Les utilisateurs pourront, par exemple, demander des précisions culturelles ou modifier le ton et le style de la traduction. Ces fonctionnalités s'avèrent particulièrement utiles pour des langues comme le japonais, qui dépendent fortement du contexte social et des relations entre les interlocuteurs. Les fonctionnalités alimentées par Gemini semblent nécessiter une connexion Internet pour fonctionner. Bien que les fonctionnalités spécifiques puissent changer, leur déploiement est attendu prochainement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c1b830e28a08d5960ba904/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 13:00:00 GMT"
     }
 ]
