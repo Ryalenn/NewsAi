@@ -1,5 +1,12 @@
 [
     {
+        "title": "Wave Energy and AI",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/02/wave-power-and-ai/?ss=ai",
+        "body": "L'article met en lumière les discussions d'un panel à Davos sur le rôle de l'IA dans la promotion de l'énergie renouvelable, en particulier l'énergie des vagues. Inna Braverman, cofondatrice d'Eco Wave Power, a souligné l'importance de sensibiliser le public à l'énergie des vagues en tant que nouvelle source d'énergie renouvelable, et a mentionné que cette technologie est sur le point d'être commercialisée aux États-Unis. Amanda Rischbieth a souligné le rôle des médias et de la technologie sans code dans la diffusion de ces innovations, tandis que Maria Ivanova a suggéré d'utiliser des plateformes en ligne comme LinkedIn pour partager les connaissances et connecter les gens au-delà des événements physiques. Le panel a également discuté de l'importance de rester connecté avec la nouvelle génération de chercheurs et d'innovateurs pour rester à la pointe des idées et des technologies émergentes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c47d8f2d1668c8f703df6d/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 02 Mar 2025 15:00:00 GMT"
+    },
+    {
         "title": "Révolution de l'IA dans l'industrie pharmaceutique",
         "link": "https://www.forbes.com/sites/kathleenwalch/2025/03/02/how-ai-is-transforming-the-pharmaceutical-industry/?ss=ai",
         "body": "L'IA révolutionne l'industrie pharmaceutique, transformant tout, de la découverte de médicaments à la recherche, en passant par les essais cliniques et la fabrication. L'article explore comment l'IA accélère l'innovation, réduit les coûts et le temps de développement des médicaments, et améliore l'efficacité des essais cliniques et de la recherche. L'IA peut analyser rapidement de vastes ensembles de données chimiques, biologiques et relatives aux patients, ce qui permet d'identifier de nouveaux médicaments et de repositionner les médicaments existants. Les essais cliniques sont optimisés grâce à une sélection plus efficace des participants et à une conception d'étude améliorée. Enfin, l'IA améliore la précision des traitements médicaux, prédisant l'interaction médicament-cible et personnalisant les traitements en fonction du profil génétique et biologique des individus.",
@@ -96,19 +103,5 @@
         "body": "Tesla a présenté une demande de permis pour exploiter un service de robotaxis en Californie, bien qu'il ait déjà déclaré vouloir lancer un service similaire à Austin, au Texas, cette année. L'entreprise fait face à des critiques concernant son manque de progrès dans l'obtention des permis nécessaires, tant au niveau de l'État qu'au niveau fédéral. Bien que Tesla possède déjà un des six permis californiens, il n'a jamais été utilisé, et l'entreprise n'a pas encore atteint les niveaux de sécurité requis pour les autres. Son système FSD version 13 nécessiterait une intervention critique environ toutes les 400 miles, selon les conducteurs. Waymo, en comparaison, a parcouru 2,3 millions de miles sans incident. Tesla doit également faire face à des problèmes de réglementation et à des exigences techniques, comme la déclaration que ses véhicules ne peuvent pas fonctionner en mode autonome en dehors de leur zone de service officielle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c24b2f9fd2fa8b1ff83d42/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini se souvient de vous",
-        "link": "https://www.theverge.com/2024/11/19/24300709/google-gemini-chatbot-memory",
-        "body": "Google Gemini, un chatbot IA, peut désormais personnaliser ses réponses en fonction des intérêts et préférences de l'utilisateur. La fonctionnalité Gemini Advanced permet au chatbot d'adapter ses suggestions et réponses en fonction des détails partagés par l'utilisateur, tels que ses goûts alimentaires, son travail, ses hobbies ou ses aspirations. Les utilisateurs peuvent également fournir des informations pertinentes sur eux-mêmes via la page \"Saved Info\" du chatbot, comme des préférences végétariennes ou leur profession. La fonctionnalité est accessible via un abonnement Google One AI Premium et est actuellement disponible uniquement en anglais.",
-        "image": "",
-        "date": "Fri, 28 Feb 2025 19:15:43 GMT"
-    },
-    {
-        "title": "L'avenir de la réglementation de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/02/28/laws-on-ai-what-will-they-look-like/?ss=ai",
-        "body": "L'article explore les complexités de la réglementation de l'IA, en mettant l'accent sur les défis et les opportunités pour les entreprises, en particulier les petites entreprises. Il résume les discussions d'un panel d'experts en droit et en technologie lors d'un événement de l'IIA à Davos, y compris les points de vue de Gabriele Mazzinin, qui a contribué à l'European AI Act, de Pablo Arredondo, fondateur d'une société de legaltech, et de Julia Apostle, avocate chez Orrick.\n\nLe panel a abordé des sujets tels que la nécessité d'outils de surveillance et de transparence, les défis posés par les multiples cadres juridiques, l'évolution rapide des modèles d'IA et l'impact des modèles open source. Ils ont également discuté de l'impact de la réglementation de l'IA sur les entreprises américaines et non européennes. Les experts concluent que la réglementation vise à favoriser l'innovation et que les entreprises et les régulateurs peuvent travailler ensemble pour trouver le bon équilibre entre innovation et gestion des risques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c20acd7bd60cd072e75eae/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 19:00:00 GMT"
     }
 ]
