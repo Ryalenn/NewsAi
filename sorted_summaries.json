@@ -1,5 +1,19 @@
 [
     {
+        "title": "ThinkBook Flip",
+        "link": "https://www.theverge.com/e/622380",
+        "body": "Lenovo présente un nouveau concept d'ordinateur portable pour la productivité et les entreprises, le ThinkBook Flip, doté d'un écran flexible de 13,1 pouces. L'écran peut être plié pour créer une tablette de 12,9 pouces ou déplié pour offrir un grand écran vertical de 18,1 pouces. Le ThinkBook Flip utilise le même panneau OLED que le ThinkBook Plus Gen 6, mais avec un design différent qui élimine les moteurs et utilise toute la surface de l'écran, offrant ainsi 0,4 pouce de plus en termes de taille d'écran. L'appareil peut être utilisé comme un ordinateur portable traditionnel, avec la possibilité de plier l'écran pour révéler un écran plus grand, ou de l'utiliser comme une tablette. Le ThinkBook Flip est également équipé d'un trackpad Smart ForcePad unique, qui offre des raccourcis et des contrôles multimédias illuminés par LED. Bien qu'il s'agisse encore d'un concept, Lenovo prévoit d'utiliser un processeur Intel Ultra 7, 32 Go de RAM LPDDR5X, un stockage SSD PCIe et des ports Thunderbolt 4.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/AI-Display-01.png?quality=90&strip=all&w=2400",
+        "date": "Sun, 02 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La fin de la singularité ?",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/02/ai-and-the-death-of-originality-are-we-thinking-in-circles/?ss=ai",
+        "body": "L'impact de l'IA risque de conduire à une transition vers le plus petit dénominateur cognitif commun. L'article explore comment l'IA, en particulier les grands modèles linguistiques, peut conduire à une homogénéisation de la connaissance et à un appauvrissement de la diversité intellectuelle. Les modèles d'IA identifient les schémas, prédisent le mot suivant et génèrent un texte cohérent, mais favorisent les idées familières et recyclées. Cela crée un paysage de connaissance algorithmique, un effet d'écho virtuel, qui menace de noyer les perspectives originales. L'IA, comme la malbouffe, optimise pour la facilité et le familier, menaçant la curiosité et le progrès humain. La passivité est le vrai danger, nous devons cultiver des habitudes intellectuelles saines et utiliser l'IA comme catalyseur de notre curiosité. L'avenir de la pensée n'est pas prédéterminé, nous pouvons encore façonner un monde où l'ingéniosité humaine prospère aux côtés de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c3950516021a83464f448f/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 02 Mar 2025 22:00:00 GMT"
+    },
+    {
         "title": "Wave Energy and AI",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/02/wave-power-and-ai/?ss=ai",
         "body": "L'article met en lumière les discussions d'un panel à Davos sur le rôle de l'IA dans la promotion de l'énergie renouvelable, en particulier l'énergie des vagues. Inna Braverman, cofondatrice d'Eco Wave Power, a souligné l'importance de sensibiliser le public à l'énergie des vagues en tant que nouvelle source d'énergie renouvelable, et a mentionné que cette technologie est sur le point d'être commercialisée aux États-Unis. Amanda Rischbieth a souligné le rôle des médias et de la technologie sans code dans la diffusion de ces innovations, tandis que Maria Ivanova a suggéré d'utiliser des plateformes en ligne comme LinkedIn pour partager les connaissances et connecter les gens au-delà des événements physiques. Le panel a également discuté de l'importance de rester connecté avec la nouvelle génération de chercheurs et d'innovateurs pour rester à la pointe des idées et des technologies émergentes.",
@@ -68,40 +82,5 @@
         "body": "Amazon dévoile enfin Alexa Plus, une version améliorée de son assistant vocal Alexa, alimentée par l'IA. Alexa Plus combine des modèles linguistiques larges et des intégrations avec des partenaires d'actualité, des applications et des services de commande. Les utilisateurs pourront ajouter des événements à leur calendrier, acheter des billets de concert et poser des questions sur l'actualité. La disponibilité sera limitée lors du lancement en mars. Alexa Plus apporte des améliorations majeures aux maisons intelligentes et une nouvelle voix, offrant une expérience plus conversationnelle et contextuelle. L'assistant peut analyser et résumer des documents, et mémoriser des détails personnels comme les préférences alimentaires et cinématographiques. L'accès anticipé gratuit sera proposé fin mars aux États-Unis sur certains appareils Echo Show éligibles.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB337_ALEXA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Sat, 01 Mar 2025 02:21:46 GMT"
-    },
-    {
-        "title": "La stratégie de Google pour gagner la course à l'AGI",
-        "link": "https://www.theverge.com/command-line-newsletter/622045/google-ai-nanny-products#comments",
-        "body": "Le co-fondateur de Google, Sergey Brin, a récemment envoyé un message clair aux employés de la division DeepMind de Google, soulignant l'intensification de la concurrence dans la course au développement de l'AGI (intelligence artificielle générale). Brin suggère d'augmenter les heures de travail à 60 heures par semaine, d'encourager le travail en bureau, de privilégier la simplicité et d'accélérer le processus de développement. Il souligne également la nécessité de faire confiance aux utilisateurs et de réduire les filtres et les restrictions dans les produits d'IA de Google. Bien que le message soit destiné aux chercheurs en IA de DeepMind, il est remarquable qu'il vienne de Brin, qui n'a actuellement aucun rôle formel chez Google hormis en tant que membre du conseil d'administration. La lettre de Brin aux chercheurs de Gemini met en évidence l'importance de l'efficacité du code, de la productivité, du travail en bureau, d'une organisation claire et de la simplicité. Il encourage également l'excellence, la rapidité et l'itération à petite échelle pour obtenir de véritables avancées à grande échelle.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Sergey-Brin-CL-site-wide-2.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 28 Feb 2025 23:46:04 GMT"
-    },
-    {
-        "title": "La course à l'AGI : Google met la pression",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2525299_openai-met-la-pression-sur-google-au-point-que-son-co-fondateur-exige-le-retour-au-bureau-et-60h-de-travail-par-semaine",
-        "body": "Sergey Brin, co-fondateur de Google, encourage ses employés à revenir au bureau et vise 60 heures de travail hebdomadaires pour développer l'AGI (intelligence artificielle générale). Il s'agit d'une IA capable de résoudre des tâches complexes avec des capacités cognitives humaines. Bien que Google n'ait pas encore imposé officiellement de nouveaux changements, cette note de Brin indique une pression croissante dans la Silicon Valley. La stratégie de Brin est claire : maximiser la productivité et rattraper le retard sur des concurrents comme OpenAI et ses récents succès avec ChatGPT. Ce rythme de travail intense est commun dans la Silicon Valley, mais soulève des questions sur l'équilibre entre travail et repos pour favoriser la créativité et l'innovation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-2-1-768x432.jpg?resize=169,169&key=c6d7f178",
-        "date": "Fri, 28 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La prochaine génération d'IA conversationnelle",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2522993_openai-gpt-4-5-disponible-tout-ce-que-vous-devez-savoir-sur-la-nouvelle-ia-de-chatgpt",
-        "body": "OpenAI a dévoilé GPT-4.5, une mise à jour de son modèle d'IA conversationnelle, qui sera suivie de GPT-5 dans le futur. GPT-4.5 est disponible en avant-première pour les abonnés ChatGPT Pro, et offrira une meilleure compréhension, des réponses plus précises et une intelligence émotionnelle. Entraîné avec une grande quantité de données et en utilisant l'apprentissage non supervisé, GPT-4.5 offre des performances améliorées et une meilleure sécurité. Il s'agit d'un modèle de transition, avec des capacités inférieures aux modèles \"réflexifs\" sur des problèmes complexes, mais qui devrait tout de même rendre ChatGPT encore plus incontournable.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1.jpg?key=9fe2e987",
-        "date": "Fri, 28 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La fin de l'hégémonie de Google ?",
-        "link": "https://www.frandroid.com/marques/google/2517885_je-fais-beaucoup-de-recherches-betes-jai-remplace-le-moteur-de-recherche-google-pendant-un-mois",
-        "body": "L'auteur, un journaliste, a décidé de remplacer Google par Perplexity Pro, un moteur de recherche basé sur l'IA, pendant un mois pour son travail. Perplexity s'est avéré très efficace pour les recherches complexes, fournissant des résultats pertinents et des sources fiables. Il a également aidé à trouver des contacts spécifiques. Cependant, pour des recherches simples et rapides, Google reste plus pratique et plus rapide. De plus, Perplexity n'est pas encore performant pour la recherche d'images. En conclusion, l'auteur continuera d'utiliser Perplexity pour les recherches complexes, mais retournera à Google pour les tâches quotidiennes simples.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1-768x432.jpg?resize=169,169&key=5fe0e9b4",
-        "date": "Fri, 28 Feb 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Robotaxis de Tesla",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/02/28/tesla-applies-for-second-of-six-permits-needed-for-ca-robot/?ss=ai",
-        "body": "Tesla a présenté une demande de permis pour exploiter un service de robotaxis en Californie, bien qu'il ait déjà déclaré vouloir lancer un service similaire à Austin, au Texas, cette année. L'entreprise fait face à des critiques concernant son manque de progrès dans l'obtention des permis nécessaires, tant au niveau de l'État qu'au niveau fédéral. Bien que Tesla possède déjà un des six permis californiens, il n'a jamais été utilisé, et l'entreprise n'a pas encore atteint les niveaux de sécurité requis pour les autres. Son système FSD version 13 nécessiterait une intervention critique environ toutes les 400 miles, selon les conducteurs. Waymo, en comparaison, a parcouru 2,3 millions de miles sans incident. Tesla doit également faire face à des problèmes de réglementation et à des exigences techniques, comme la déclaration que ses véhicules ne peuvent pas fonctionner en mode autonome en dehors de leur zone de service officielle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c24b2f9fd2fa8b1ff83d42/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 28 Feb 2025 23:00:00 GMT"
     }
 ]
