@@ -1,5 +1,33 @@
 [
     {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'IA, tels que Microsoft, OpenAI et Google, rendent la technologie des chatbots plus accessible au grand public. Microsoft Dragon Copilot, un système d'IA pour le secteur de la santé, et Grok-3 d'Elon Musk sont des exemples récents. Teleperformance SE déploie un système d'IA qui adoucit l'accent des travailleurs indiens anglophones, et Google ajoute des fonctionnalités d'IA à Sheets et Meet. Amazon retarde le lancement de la mise à niveau d'Alexa basée sur l'IA, et DeepSeek, une startup chinoise, suscite l'engouement avec son assistant IA. Meta lance une fonctionnalité de « souvenir » pour son chatbot IA, et OpenAI ajoute une fonctionnalité de recherche approfondie à ChatGPT. La course à l'IA s'intensifie avec de nouveaux développements et des acteurs clés.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Mar 2025 18:22:43 GMT"
+    },
+    {
+        "title": "AI Phone Revolution",
+        "link": "https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025",
+        "body": "Deutsche Telekom, en collaboration avec T-Mobile, a annoncé le développement d'un nouveau \"AI Phone\" lors du Mobile World Congress à Barcelone. Le dispositif, qui sera dévoilé plus tard cette année, fonctionnera avec \"Magenta AI\", offrant aux utilisateurs un accès à une gamme d'outils d'IA, dont Perplexity Assistant, Google Cloud AI, ElevenLabs et Picsart. Le concept de téléphone AI, initialement présenté par Deutsche Telekom en 2024, promet un appareil \"sans applications\" contrôlé principalement par la voix, capable de réaliser diverses tâches comme réserver des vols ou des tables dans des restaurants. Le téléphone AI est décrit comme ayant des capacités similaires aux produits \"large action model\", tels que le Rabbit R1. En plus du matériel, Deutsche Telekom prévoit d'intégrer certaines fonctionnalités d'IA de partenaires tels que Google Cloud AI, ElevenLabs et Picsart dans l'application MeinMagenta, compatible avec d'autres smartphones. L'entreprise vise un lancement pour la deuxième moitié de 2025.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/bi-250303-ki-phone-bild02-en.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+        "date": "Mon, 03 Mar 2025 17:51:19 GMT"
+    },
+    {
+        "title": "Gemini sur iOS",
+        "link": "https://www.theverge.com/news/623117/google-gemini-ios-widgets-now-available#comments",
+        "body": "Google met à jour son application Gemini sur iOS et iPadOS, ajoutant des widgets sur l'écran de verrouillage pour un accès rapide à son assistant IA. La mise à jour comprend six widgets, chacun permettant d'accéder directement à une fonction spécifique de Gemini. Cette initiative semble être une tentative délibérée de détourner les utilisateurs d'iPhone et d'iPad de Siri, ou du moins de promouvoir Gemini comme alternative à ChatGPT d'OpenAI. La publicité pour Gemini a également été observée dans des podcasts technologiques axés sur Apple, ce qui indique un effort concerté de la part de Google pour établir une familiarité avec son assistant IA sur les appareils Apple. La société espère probablement tirer parti des progrès lents d'Apple dans l'amélioration de Siri, qui, selon les rapports, pourrait prendre plusieurs années avant d'être véritablement rénové.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Mar 2025 17:38:23 GMT"
+    },
+    {
+        "title": "Alexa, la plateforme vocale d'Amazon, se réinvente",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/621232/amazon-panos-panay-interview-alexa-plus-ai-smart-home#comments",
+        "body": "Résumé : \n\nPanos Panay, responsable des appareils et services chez Amazon, présente Alexa Plus, la nouvelle version de l'assistant vocal alimentée par l'IA. Il explique comment l'IA va changer la façon dont nous utilisons les ordinateurs et comment Amazon a un avantage grâce au grand nombre d'appareils Alexa déjà utilisés dans le monde. Panay décrit la complexité de la mise en œuvre de l'IA dans Alexa, y compris l'orchestration de différents modèles et experts pour fournir des réponses précises et contextuelles. Il souligne l'importance de la structure et de la culture d'entreprise pour réaliser ce projet, ainsi que le soutien du PDG Andy Jassy. Alexa Plus sera disponible sur les appareils Echo avec écran le mois prochain, avec un déploiement progressif sur d'autres appareils Alexa. Panay prévoit qu'Alexa Plus transformera la façon dont les gens interagissent avec les ordinateurs, créant ainsi un changement de plateforme.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DCD_Panos-Panay_Decoder-2.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
+        "date": "Mon, 03 Mar 2025 17:16:02 GMT"
+    },
+    {
         "title": "La taille ne compte pas",
         "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/03/size-doesnt-matter-when-it-comes-to-language-model-data/?ss=ai",
         "body": "Bien que l'article mentionne les différences entre les petits modèles linguistiques (SLM) et les grands modèles linguistiques (LLM), il ne s'agit pas vraiment d'une question de taille ou de complexité. Il s'agit plutôt de la capacité des SLM à prendre des décisions et à équilibrer leur spécialisation avec une connaissance générale plus large. Les SLM ont un domaine d'expertise spécifique, tandis que les LLM offrent une base de données linguistiques plus large et plus générale. Cependant, à mesure que les modèles évoluent, la distinction entre les deux devient floue. L'accent devrait être mis sur la capacité des modèles à naviguer dans la complexité et à prendre des décisions éclairées et équilibrées. Le véritable défi réside dans la combinaison de plusieurs domaines, car il devient de plus en plus difficile de déterminer l'expertise nécessaire dans chaque situation. De plus, les LLM ont leurs propres limitations, telles que des compromis entre la durée de réflexion et la rapidité de la réponse. Enfin, certains biais peuvent être bénéfiques pour les modèles d'IA, leur permettant de prendre des décisions rapides et décisives dans leur domaine de spécialisation.",
@@ -68,6 +96,13 @@
         "body": "Résumé : Cet article examine les récentes affirmations selon lesquelles l'IA générative et les grands modèles linguistiques (LLM) souffrent d'un déclin cognitif. Il remet en question la validité de cette comparaison avec le déclin cognitif humain, qui est un exemple d'anthropomorphisation excessive de l'IA. L'article explore les complexités du développement de l'IA, y compris les améliorations itératives et les risques potentiels de dégradation des performances. Il souligne l'importance de faire preuve de prudence face aux affirmations sensationnalistes sur l'IA et suggère que le \"déclin cognitif\" de l'IA peut être le résultat d'un entraînement de données médiocre, d'ajustements maladroits ou de l'utilisation de données synthétiques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b79b8a9cabb701f39901c4/0x0.jpg?format=jpg&crop=2410,1808,x79,y0,safe&width=440",
         "date": "Mon, 03 Mar 2025 04:00:00 GMT"
+    },
+    {
+        "title": "Mobile World Congress 2025",
+        "link": "https://www.theverge.com/news/616633/mwc-2025-news-products-announcements",
+        "body": "Le Mobile World Congress 2025 à Barcelone met en avant les dernières innovations en matière de technologie mobile, avec un accent particulier sur l'IA. Les annonces incluent le téléphone Nothing Phone 3A, le Samsung Galaxy S25 Edge, et des appareils de Xiaomi, Google, et d'autres fabricants majeurs. Deutsche Telekom présente un \"AI Phone\" contrôlé par la voix et alimenté par l'IA Perplexity. Lenovo dévoile des concepts de PC pliables et à énergie solaire, ainsi que des accessoires modulaires et des moniteurs 3D. Les fabricants de smartphones, dont Xiaomi et Honor, s'engagent à offrir des mises à jour logicielles prolongées. De nouvelles fonctionnalités d'IA sont présentées par Google et Motorola. Les écouteurs sans fil et les technologies de recharge solaire sont également en vedette.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257550_Lenovo_MWC_2025_laptop_preview_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 02 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Samsung Galaxy A-Series Upgrade",
