@@ -154,14 +154,14 @@
         "check": "yes"
     },
     {
-        "title": "Smart Connect : l’outil pratique de de Motorola pour passer d’un écran à un autre",
+        "title": "Smart Connect : l\u2019outil pratique de de Motorola pour passer d\u2019un \u00e9cran \u00e0 un autre",
         "link": "https://www.frandroid.com/marques/2528913_smart-connect-loutil-pratique-de-de-motorola-pour-passer-dun-ecran-a-un-autre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/smart-connect-ecosystem-2-1200x800-1-768x512.jpg?resize=200,200&key=4f03bbac",
         "date": "Mon, 03 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gemini : deux nouvelles fonctionnalités très pratiques arrivent bientôt sur tous les smartphones Android",
+        "title": "Gemini : deux nouvelles fonctionnalit\u00e9s tr\u00e8s pratiques arrivent bient\u00f4t sur tous les smartphones Android",
         "link": "https://www.frandroid.com/marques/google/2528983_gemini-deux-nouvelles-fonctionnalites-tres-pratiques-arrivent-bientot-sur-tous-les-smartphones-android",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/blhy4op9y0u-hd-1200x644-1-768x412.jpg?resize=161,161&key=0937a373",
         "date": "Mon, 03 Mar 2025 23:00:00 GMT",
@@ -180,5 +180,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c6598d8ef1198254286c77/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB338_MICROSOFT_DRAGON_COPILOT.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Mar 2025 18:22:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 03 Mar 2025 18:22:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/04/4-ways-to-harness-the-power-of-hybrid-intelligence-as-you-age/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72a67372929d171a250c0/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Mar 2025 18:24:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/03/04/photography-or-ai-promptography-this-show-makes-it-hard-to-tell/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c686b4095d61a6ccc0f424/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Mar 2025 18:19:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/04/selfie-cameras-and-the-legacy-of-the-active-pixel-sensor-for-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72b86ddd63e642d083c80/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Mar 2025 18:10:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/04/how-an-ai-coach-learns-its-playbook/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c73b427f5d1a3e454da2e8/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Mar 2025 17:45:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/04/poetry-and-guarding-humanity-in-the-ai-age/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72a5bef8d8d71037f6dbf/0x0.jpg?format=jpg&crop=3326,1872,x0,y234,safe&width=440",
+        "date": "Tue, 04 Mar 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
