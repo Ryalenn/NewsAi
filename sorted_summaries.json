@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution des agents IA",
+        "link": "https://www.forbes.com/sites/johnkoetsier/2025/03/04/salesforce-agentexchange-last-generation-of-managers-to-manage-a-wholly-human-workforce/?ss=ai",
+        "body": "Salesforce lance AgentExchange, un marché pour la création et la vente d'agents IA, avec des solutions prêtes à l'emploi pour les entreprises. Les agents IA peuvent gérer des tâches complexes et des flux de travail, complétant ou remplaçant les employés humains. Salesforce AI prévoit que les gestionnaires actuels seront les derniers à gérer une main-d'œuvre entièrement humaine. Les agents sont polyvalents et peuvent, par exemple, aider les équipes de vente, automatiser la signature de contrats ou diagnostiquer les problèmes de dispositifs médicaux. Les concurrents comme Hubspot ont également lancé des plateformes similaires, soulignant l'importance croissante des agents IA dans le monde des affaires. Les agents sont considérés comme les nouvelles applications, avec des capacités plus avancées et accessibles à tous les développeurs. Cependant, la perspective d'agents malveillants ou incontrôlés est une préoccupation, mais Salesforce assure avoir mis en place des protections. Enfin, l'impact sur l'emploi est discuté, avec la possibilité d'une perturbation initiale suivie d'une augmentation de l'entrepreneuriat.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c6598d8ef1198254286c77/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 04 Mar 2025 13:00:00 GMT"
+    },
+    {
         "title": "Assistant Search avec IA",
         "link": "https://www.theverge.com/2023/12/14/24001442/google-is-reportedly-working-on-an-ai-assistant-for-pixels-called-pixie",
         "body": "Google prévoit de lancer une nouvelle fonctionnalité d'assistant IA exclusive aux appareils Pixel, qui utilisera les données de l'utilisateur, telles que les informations de Maps et Gmail, pour offrir une expérience plus personnalisée. Cette fonctionnalité pourrait être lancée avec les prochains smartphones Pixel 9 et 9 Pro l'année prochaine.",
@@ -12,6 +19,27 @@
         "body": "Spotify, connu pour son utilisation de l'IA, s'apprête à lancer de nouveaux outils de création musicale assistés par l'IA dans le cadre d'un abonnement premium. Ces outils pourraient transformer les utilisateurs passifs en créateurs actifs et générer de nouvelles sources de revenus. Spotify a déjà utilisé l'IA pour des fonctionnalités telles que des playlists personnalisées, la catégorisation de chansons et des résumés annuels personnalisés. Plus récemment, il a introduit un DJ IA et des playlists IA avec une interface conversationnelle. L'entreprise a une histoire de création d'outils IA pour générer de l'interaction et de l'engagement. Les nouveaux outils de remix IA de Spotify permettront probablement de personnaliser les chansons, y compris le changement de tempo, la réimagination dans différents genres et le remplacement des voix. Spotify est un excellent exemple d'entreprise mature en matière d'IA, créant de nouveaux services pour ses clients. La société se distingue également en proposant des fonctionnalités IA dans les abonnements premium, ce qui pourrait devenir une tendance populaire pour les fournisseurs de services IA cherchant à rentabiliser leurs investissements dans l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c6a1661944b4af370502f2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 06:00:00 GMT"
+    },
+    {
+        "title": "Motorola et Lenovo améliorent la connectivité multi-appareils",
+        "link": "https://www.frandroid.com/marques/2528913_smart-connect-loutil-pratique-de-de-motorola-pour-passer-dun-ecran-a-un-autre",
+        "body": "Motorola et Lenovo présentent au MWC 2025 de Barcelone une nouvelle version de Smart Connect, un outil permettant une expérience multi-appareils transparente entre smartphones, tablettes et PC de différents constructeurs. Smart Connect intègre désormais des fonctionnalités d'IA pour améliorer le partage de fichiers et la recopie d'écran, avec plus de neuf millions d'utilisateurs mensuels. L'IA permettra un contrôle vocal et une recherche en langage naturel pour retrouver des documents sur différents appareils. La nouvelle version sera disponible sur PC Windows, tablettes Lenovo et appareils Motorola via les magasins d'applications respectifs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/smart-connect-ecosystem-2-1200x800-1-768x512.jpg?resize=200,200&key=4f03bbac",
+        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Gemini : de nouvelles fonctionnalités impressionnantes",
+        "link": "https://www.frandroid.com/marques/google/2528983_gemini-deux-nouvelles-fonctionnalites-tres-pratiques-arrivent-bientot-sur-tous-les-smartphones-android",
+        "body": "Google a annoncé des mises à jour de son IA Gemini, avec deux nouvelles fonctionnalités majeures. La première, Live Vidéo, permet aux utilisateurs de diffuser en direct leur environnement vers le chatbot via leur smartphone, lui donnant la capacité d'identifier et de répondre à des questions sur ce qu'il voit. La seconde est la possibilité de partager des captures d'écran avec Gemini, qui peut alors répondre à des questions sur leur contenu. Ces fonctionnalités, disponibles via un abonnement Gemini Advanced, améliorent considérablement les capacités de Gemini et le positionnent comme un outil puissant pour les utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/blhy4op9y0u-hd-1200x644-1-768x412.jpg?resize=161,161&key=0937a373",
+        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Microsoft repense Copilot pour Windows",
+        "link": "https://www.frandroid.com/marques/microsoft/2529107_microsoft-repense-copilot-pour-windows-avec-une-toute-nouvelle-interface",
+        "body": "Microsoft a mis à jour Copilot avec une nouvelle interface utilisateur native, offrant une expérience plus fluide et cohérente sur Windows 11. La nouvelle version propose une barre latérale pour naviguer entre les conversations, des effets de flou Mica, des menus contextuels intégrés et une performance améliorée. Les utilisateurs peuvent poser des questions spécifiques sur leur PC et recevoir des réponses adaptées à leur version de Windows, renforçant ainsi le rôle de Copilot en tant qu'assistant personnel. La personnalisation reste une option, avec la possibilité de lancer automatiquement l'application au démarrage et d'activer/désactiver les raccourcis clavier. La mise à jour est progressivement déployée via le Microsoft Store pour les utilisateurs Insider.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/copilot-nouvelle-interface-768x533.jpg?resize=208,208&key=9842ad11",
+        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : tendances et opportunités émergentes",
@@ -152,19 +180,5 @@
         "body": "L'impact de l'IA risque de conduire à une transition vers le plus petit dénominateur cognitif commun. L'article explore comment l'IA, en particulier les grands modèles linguistiques, peut conduire à une homogénéisation de la connaissance et à un appauvrissement de la diversité intellectuelle. Les modèles d'IA identifient les schémas, prédisent le mot suivant et génèrent un texte cohérent, mais favorisent les idées familières et recyclées. Cela crée un paysage de connaissance algorithmique, un effet d'écho virtuel, qui menace de noyer les perspectives originales. L'IA, comme la malbouffe, optimise pour la facilité et le familier, menaçant la curiosité et le progrès humain. La passivité est le vrai danger, nous devons cultiver des habitudes intellectuelles saines et utiliser l'IA comme catalyseur de notre curiosité. L'avenir de la pensée n'est pas prédéterminé, nous pouvons encore façonner un monde où l'ingéniosité humaine prospère aux côtés de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c3950516021a83464f448f/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 02 Mar 2025 22:00:00 GMT"
-    },
-    {
-        "title": "Wave Energy and AI",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/02/wave-power-and-ai/?ss=ai",
-        "body": "L'article met en lumière les discussions d'un panel à Davos sur le rôle de l'IA dans la promotion de l'énergie renouvelable, en particulier l'énergie des vagues. Inna Braverman, cofondatrice d'Eco Wave Power, a souligné l'importance de sensibiliser le public à l'énergie des vagues en tant que nouvelle source d'énergie renouvelable, et a mentionné que cette technologie est sur le point d'être commercialisée aux États-Unis. Amanda Rischbieth a souligné le rôle des médias et de la technologie sans code dans la diffusion de ces innovations, tandis que Maria Ivanova a suggéré d'utiliser des plateformes en ligne comme LinkedIn pour partager les connaissances et connecter les gens au-delà des événements physiques. Le panel a également discuté de l'importance de rester connecté avec la nouvelle génération de chercheurs et d'innovateurs pour rester à la pointe des idées et des technologies émergentes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c47d8f2d1668c8f703df6d/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 02 Mar 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Révolution de l'IA dans l'industrie pharmaceutique",
-        "link": "https://www.forbes.com/sites/kathleenwalch/2025/03/02/how-ai-is-transforming-the-pharmaceutical-industry/?ss=ai",
-        "body": "L'IA révolutionne l'industrie pharmaceutique, transformant tout, de la découverte de médicaments à la recherche, en passant par les essais cliniques et la fabrication. L'article explore comment l'IA accélère l'innovation, réduit les coûts et le temps de développement des médicaments, et améliore l'efficacité des essais cliniques et de la recherche. L'IA peut analyser rapidement de vastes ensembles de données chimiques, biologiques et relatives aux patients, ce qui permet d'identifier de nouveaux médicaments et de repositionner les médicaments existants. Les essais cliniques sont optimisés grâce à une sélection plus efficace des participants et à une conception d'étude améliorée. Enfin, l'IA améliore la précision des traitements médicaux, prédisant l'interaction médicament-cible et personnalisant les traitements en fonction du profil génétique et biologique des individus.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c464bb696004c8ae8a69ea/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 02 Mar 2025 14:00:00 GMT"
     }
 ]
