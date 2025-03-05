@@ -1,10 +1,38 @@
 [
     {
+        "title": "La manipulation de l'IA pour promouvoir des escroqueries",
+        "link": "https://www.engadget.com/social-media/facebook-scammers-want-you-to-think-elon-musk-can-cure-diabetes-153042842.html",
+        "body": "Des publicités sur Facebook utilisent des deepfakes d'Elon Musk et de personnalités de Fox News pour promouvoir des suppléments non testés. Ces publicités, qui circulent depuis des semaines, font partie d'une escroquerie plus vaste qui utilise l'IA pour manipuler des vidéos et de l'audio afin de vendre des produits non approuvés. Bien que Meta ait supprimé de nombreuses publicités, les pages Facebook derrière elles restent actives et continuent de publier de nouvelles versions, violant les politiques de Meta sur la désinformation médicale et la divulgation de l'utilisation de l'IA. Les escroqueries impliquent souvent des célébrités et des personnalités publiques, et cette fois-ci, Elon Musk et d'autres figures notables ont été ciblées. Les publicités dirigent les utilisateurs vers des sites Web qui imitent les sites d'actualités grand public, où des vidéos manipulées par l'IA présentent des personnalités des médias câblés faisant la promotion de suppléments non testés. Bien que l'efficacité de ces escroqueries soit inconnue, certains indices suggèrent qu'elles ont convaincu certaines personnes d'acheter les produits.",
+        "image": "",
+        "date": "Wed, 05 Mar 2025 17:10:42 GMT"
+    },
+    {
+        "title": "Google lance de nouvelles fonctionnalités d'achat en ligne basées sur l'IA",
+        "link": "https://www.theverge.com/2023/11/16/23963583/google-search-generative-experience-shopping-ai-images",
+        "body": "Google lance de nouvelles fonctionnalités d'achat basées sur l'IA pour aider les utilisateurs à trouver des produits uniques ou de niche. L'expérience de recherche générative (SGE) de Google utilise l'IA pour suggérer des idées de cadeaux et des articles de mode, et permet aux utilisateurs de trouver des produits correspondant à une description textuelle. La fonctionnalité SGE propose des sous-catégories et des liens vers du contenu utile lors de la recherche d'idées de cadeaux. Par exemple, la recherche de « super cadeaux pour les cuisiniers à domicile » suggère des sous-catégories comme des outils spécialisés, des ingrédients artisanaux et des cours de cuisine. Les utilisateurs peuvent ensuite explorer des options d'achat dans ces sous-catégories. De plus, SGE peut générer des images photoréalistes basées sur une description textuelle d'un vêtement, comme une « doudoune colorée et à motifs », et proposer des produits similaires à l'achat. Cette fonctionnalité sera disponible pour les utilisateurs de SGE aux États-Unis à partir de décembre. Enfin, Google étend son outil d'essayage virtuel basé sur l'IA aux hauts pour hommes, permettant aux utilisateurs de visualiser des vêtements sur 40 modèles différents.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/google-ar-beauty.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Mar 2025 16:00:51 GMT"
+    },
+    {
         "title": "Anthropic's Latest",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/05/the-news-on-claude-37-sonnet/?ss=ai",
         "body": "Dario Amodei, co-fondateur et PDG d'Anthropic, a récemment discuté des derniers développements de l'entreprise, notamment de Claude 3.7 Sonnet, son modèle d'IA hybride axé sur les tâches du monde réel. Amodei a souligné l'importance de la sécurité et des mesures de protection, en particulier à mesure que les modèles d'IA deviennent plus puissants. Il a également abordé l'utilisation personnelle et professionnelle de ces systèmes, la concurrence avec DeepSeek et l'importance de maintenir un avantage technologique pour les démocraties libérales. Enfin, il a évoqué l'essor de l'IA et son impact potentiel sur le monde dans un futur proche.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6723e3c77f7803b6ec449d0b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 05 Mar 2025 14:50:00 GMT"
+    },
+    {
+        "title": "L'investissement de Microsoft dans OpenAI",
+        "link": "https://www.theverge.com/2023/1/23/23567448/microsoft-openai-partnership-extension-ai",
+        "body": "Microsoft a annoncé un investissement de plusieurs milliards de dollars dans OpenAI, le créateur d'outils d'IA populaires tels que ChatGPT et DALL-E 2. Dans le cadre de cet accord, Microsoft deviendra le fournisseur cloud exclusif d'OpenAI et augmentera ses investissements dans le développement et le déploiement de systèmes de superinformatique pour soutenir la recherche d'OpenAI. La société prévoit également d'intégrer les modèles d'OpenAI dans divers produits grand public et professionnels, notamment Bing, Word, PowerPoint et Outlook. L'objectif est de démocratiser l'IA en tant que nouvelle plateforme technologique et de la mettre à la disposition des développeurs et des organisations de tous les secteurs.",
+        "image": "",
+        "date": "Wed, 05 Mar 2025 13:37:23 GMT"
+    },
+    {
+        "title": "Les créateurs s'inquiètent",
+        "link": "https://www.theverge.com/news/624485/turing-award-andrew-barto-richard-sutton-ai-dangers#comments",
+        "body": "Les créateurs d'une méthode d'entraînement fondamentale en IA, Andrew Barto et Richard Sutton, s'inquiètent que les entreprises privilégient le profit à la sécurité. Ces scientifiques de premier plan, lauréats du prix Turing, mettent en garde contre le fait que les entreprises d'IA ne testent pas suffisamment leurs produits avant leur lancement, ce qui pourrait être dangereux. Ils comparent la situation à la construction d'un pont qui serait testé sans mesures de sécurité adéquates. La technique de \"renforcement de l'apprentissage\", qu'ils ont développée, est essentielle aux progrès de l'IA, notamment aux modèles ChatGPT et AlphaGo. Barto critique les pratiques des entreprises d'IA, affirmant qu'elles sont motivées par des incitations commerciales plutôt que par l'avancement de la recherche. Il appelle à une meilleure prise en compte des conséquences potentielles de ces technologies. Son avis est partagé par d'autres sommités de l'IA, comme Yoshua Bengio et Geoffrey Hinton, qui ont également critiqué le développement imprudent de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Turing-award-2024-Richard-Sutton-Andrew-Barto.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Mar 2025 12:48:34 GMT"
     },
     {
         "title": "OpenAI's Financial Future in Question",
@@ -33,6 +61,20 @@
         "body": "Le TAKE IT DOWN Act, une loi visant à protéger les victimes d'abus d'images intimes non consensuelles, y compris les deepfakes, a été adopté à l'unanimité par le Sénat américain. La loi criminalise la publication d'images intimes non consensuelles (NCII), y compris celles générées par l'IA, et exige que les médias sociaux et les sites Web similaires mettent en place des procédures pour supprimer ce contenu dans les 48 heures suivant la notification de la victime. La loi a reçu le soutien de diverses organisations, notamment des groupes de défense des victimes, des forces de l'ordre et des leaders de l'industrie technologique. La loi donne aux victimes les moyens de se défendre et de reprendre le contrôle de leur vie privée et de leur dignité, tout en tenant les auteurs responsables pénalement.",
         "image": "",
         "date": "Wed, 05 Mar 2025 03:22:00 GMT"
+    },
+    {
+        "title": "Google lance son mode IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2531787_google-lance-son-mode-ia-la-fin-des-moteurs-de-recherche-classiques-est-proche",
+        "body": "Google annonce une mise à jour majeure de son moteur de recherche grâce à l'IA. Baptisée Gemini 2.0, cette nouvelle version introduit un \"mode IA\" expérimental qui vise à révolutionner la recherche d'informations en ligne. Ce mode repose sur des \"aperçus IA\", des résumés générés par l'IA et présentés en haut des résultats de recherche. Ces aperçus sont désormais capables de gérer des requêtes plus complexes, telles que des questions sur le codage ou les mathématiques avancées. L'IA lance plusieurs recherches en parallèle, assemble les informations et fournit une réponse claire et centralisée, y compris avec des tableaux et des liens pertinents. Ce virage stratégique de Google est une réponse à la concurrence croissante de moteurs de recherche basés sur l'IA, comme ChatGPT Search et Perplexity, qui offrent des réponses directes générées par des LLM. La mise à jour soulève des inquiétudes quant à l'impact potentiel sur le trafic des sites web, mais Google affirme que la découverte de contenu web reste une priorité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-7-15-1200x797-1-768x510.jpg?resize=199,199&key=7c04cf64",
+        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'assistant IA d'Orange",
+        "link": "https://www.frandroid.com/marques/orange/2531035_la-box-internet-du-futur-orange-devoile-lavenir-de-ses-abonnements-livebox-avec-chatgpt-integre",
+        "body": "Orange a présenté un prototype d'assistant vocal basé sur ChatGPT et intégré à un décodeur TV. Les utilisateurs pourront effectuer des recherches, lancer des chaînes, ajuster le volume et poser diverses questions. L'assistant sera également capable d'interagir avec des plateformes de SVoD et des écosystèmes domotiques. Orange envisage d'offrir le choix entre différents modèles de langage, tels que Mistral ou Perplexity. Bien que cette fonctionnalité soit encore au stade de concept, elle pourrait être intégrée aux futures Livebox Wi-Fi 7.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/livebox-7-768x512.jpeg?resize=200,200&key=82206e23",
+        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Google Pixel Sense",
@@ -112,6 +154,13 @@
         "date": "Tue, 04 Mar 2025 17:45:00 GMT"
     },
     {
+        "title": "La révolution des grands modèles linguistiques",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les géants de l'industrie, tels que Microsoft, OpenAI et Google, démocratisent la technologie des chatbots IA, auparavant limitée aux laboratoires de test. Ces modèles linguistiques massifs (LLM) utilisent l'apprentissage automatique pour analyser les propriétés statistiques du langage et faire des prédictions. Cependant, ils peuvent présenter des informations fausses comme vraies. Des organisations médiatiques ont poursuivi en justice des entreprises d'IA pour violation de droits d'auteur et de marque. Des entreprises comme Meta, DeepSeek et OpenAI continuent de développer de nouvelles fonctionnalités et améliorations pour leurs chatbots, notamment la mémorisation des préférences des utilisateurs et la recherche approfondie. L'IA est également intégrée dans les soins de santé, les centres d'appels et les infrastructures sous-marines.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 04 Mar 2025 17:14:02 GMT"
+    },
+    {
         "title": "Copilot redevient une application native sur Windows",
         "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native#comments",
         "body": "Microsoft lance enfin une version native de son application Copilot pour Windows, après l'avoir transformée en une simple application web l'année dernière. La nouvelle application, déployée cette semaine pour les Windows Insiders, est développée en XAML natif et propose un nouveau panneau latéral ainsi qu'une interface améliorée. L'application Copilot sur Windows correspond désormais au design de l'application récemment lancée sur macOS, permettant le téléchargement d'images et la génération de contenu visuel ou textuel. L'application prend en charge l'interaction vocale et l'accès à l'historique des conversations dans la barre latérale mise à jour. Microsoft avait initialement lancé Copilot comme assistant personnel intégré à Windows 11, mais l'a ensuite retiré au profit d'une application web de base, rendant Copilot moins utile sur les nouveaux PC Copilot Plus. La nouvelle application, disponible en premier pour les Windows Insiders via le Microsoft Store, devrait être déployée sur tous les PC Windows 11 dans les semaines à venir.",
@@ -187,54 +236,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c637dabe99643206e8edba/0x0.jpg?format=jpg&crop=1224,573,x0,y150,safe&width=440",
         "date": "Mon, 03 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft Dragon Copilot",
-        "link": "https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant#comments",
-        "body": "Microsoft a présenté Dragon Copilot, un système d'IA pour le secteur de la santé qui peut, entre autres, écouter et créer des notes basées sur les visites cliniques. Le système combine la technologie de dictée vocale et d'écoute ambiante développée par Nuance, une entreprise d'IA vocale acquise par Microsoft en 2021. Dragon Copilot vise à libérer les cliniciens du fardeau administratif en leur offrant des fonctionnalités telles que la création de notes ambiantes multilingues et la dictée en langage naturel. L'assistant IA fournit des recherches d'informations médicales à usage général à partir de sources fiables et peut automatiser diverses tâches. Microsoft affirme que sa propre enquête a révélé que les cliniciens utilisant la technologie Nuance, qui constitue Dragon Copilot, présentaient moins de symptômes d'épuisement professionnel et que 93 % de leurs patients ont rapporté une meilleure expérience globale. D'autres entreprises, comme Google Cloud, proposent également des outils d'IA similaires pour les établissements de santé. La FDA a publié des considérations pour les dispositifs d'IA générative dans le domaine de la santé, soulignant les avantages potentiels ainsi que les risques associés à la fiabilité des modèles. Microsoft souligne son engagement envers une IA responsable et sécurisée, avec des fonctionnalités intégrant des protections spécifiques au secteur de la santé pour garantir des sorties d'IA précises et sûres.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB338_MICROSOFT_DRAGON_COPILOT.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 18:22:43 GMT"
-    },
-    {
-        "title": "Microsoft Copilot Update",
-        "link": "https://www.theverge.com/2024/10/1/24259261/microsoft-event-copilot-ai-windows",
-        "body": "Microsoft a annoncé une mise à jour importante de son assistant IA Copilot, avec un nouveau design basé sur des cartes et de nouvelles fonctionnalités personnalisées. Copilot Vision permet à l'IA de voir ce que l'utilisateur regarde, tandis que le mode conversationnel naturel et le mode présentateur de nouvelles améliorent l'interaction vocale. Les PC Copilot Plus bénéficieront d'une recherche Windows améliorée par l'IA, avec une fonctionnalité \"Click to Do\" et la possibilité de rechercher des photos à l'aide de descriptions textuelles. Microsoft a également présenté Dragon Copilot, un système IA pour le secteur de la santé, et a dévoilé des fonctionnalités IA pour Paint et Photos. L'entreprise a également annoncé des mises à jour pour Windows 11 et un nouveau mini PC Asus Copilot Plus-capable.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 18:22:43 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'IA, tels que Microsoft, OpenAI et Google, rendent la technologie des chatbots plus accessible au grand public. Microsoft Dragon Copilot, un système d'IA pour le secteur de la santé, et Grok-3 d'Elon Musk sont des exemples récents. Teleperformance SE déploie un système d'IA qui adoucit l'accent des travailleurs indiens anglophones, et Google ajoute des fonctionnalités d'IA à Sheets et Meet. Amazon retarde le lancement de la mise à niveau d'Alexa basée sur l'IA, et DeepSeek, une startup chinoise, suscite l'engouement avec son assistant IA. Meta lance une fonctionnalité de « souvenir » pour son chatbot IA, et OpenAI ajoute une fonctionnalité de recherche approfondie à ChatGPT. La course à l'IA s'intensifie avec de nouveaux développements et des acteurs clés.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 18:22:43 GMT"
-    },
-    {
-        "title": "AI Phone Revolution",
-        "link": "https://www.theverge.com/news/623164/t-mobile-ai-phone-perplexity-assistant-mwc-2025",
-        "body": "Deutsche Telekom, en collaboration avec T-Mobile, a annoncé le développement d'un nouveau \"AI Phone\" lors du Mobile World Congress à Barcelone. Le dispositif, qui sera dévoilé plus tard cette année, fonctionnera avec \"Magenta AI\", offrant aux utilisateurs un accès à une gamme d'outils d'IA, dont Perplexity Assistant, Google Cloud AI, ElevenLabs et Picsart. Le concept de téléphone AI, initialement présenté par Deutsche Telekom en 2024, promet un appareil \"sans applications\" contrôlé principalement par la voix, capable de réaliser diverses tâches comme réserver des vols ou des tables dans des restaurants. Le téléphone AI est décrit comme ayant des capacités similaires aux produits \"large action model\", tels que le Rabbit R1. En plus du matériel, Deutsche Telekom prévoit d'intégrer certaines fonctionnalités d'IA de partenaires tels que Google Cloud AI, ElevenLabs et Picsart dans l'application MeinMagenta, compatible avec d'autres smartphones. L'entreprise vise un lancement pour la deuxième moitié de 2025.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/bi-250303-ki-phone-bild02-en.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
-        "date": "Mon, 03 Mar 2025 17:51:19 GMT"
-    },
-    {
-        "title": "Gemini sur iOS",
-        "link": "https://www.theverge.com/news/623117/google-gemini-ios-widgets-now-available#comments",
-        "body": "Google met à jour son application Gemini sur iOS et iPadOS, ajoutant des widgets sur l'écran de verrouillage pour un accès rapide à son assistant IA. La mise à jour comprend six widgets, chacun permettant d'accéder directement à une fonction spécifique de Gemini. Cette initiative semble être une tentative délibérée de détourner les utilisateurs d'iPhone et d'iPad de Siri, ou du moins de promouvoir Gemini comme alternative à ChatGPT d'OpenAI. La publicité pour Gemini a également été observée dans des podcasts technologiques axés sur Apple, ce qui indique un effort concerté de la part de Google pour établir une familiarité avec son assistant IA sur les appareils Apple. La société espère probablement tirer parti des progrès lents d'Apple dans l'amélioration de Siri, qui, selon les rapports, pourrait prendre plusieurs années avant d'être véritablement rénové.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 17:38:23 GMT"
-    },
-    {
-        "title": "Alexa, la plateforme vocale d'Amazon, se réinvente",
-        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/621232/amazon-panos-panay-interview-alexa-plus-ai-smart-home#comments",
-        "body": "Résumé : \n\nPanos Panay, responsable des appareils et services chez Amazon, présente Alexa Plus, la nouvelle version de l'assistant vocal alimentée par l'IA. Il explique comment l'IA va changer la façon dont nous utilisons les ordinateurs et comment Amazon a un avantage grâce au grand nombre d'appareils Alexa déjà utilisés dans le monde. Panay décrit la complexité de la mise en œuvre de l'IA dans Alexa, y compris l'orchestration de différents modèles et experts pour fournir des réponses précises et contextuelles. Il souligne l'importance de la structure et de la culture d'entreprise pour réaliser ce projet, ainsi que le soutien du PDG Andy Jassy. Alexa Plus sera disponible sur les appareils Echo avec écran le mois prochain, avec un déploiement progressif sur d'autres appareils Alexa. Panay prévoit qu'Alexa Plus transformera la façon dont les gens interagissent avec les ordinateurs, créant ainsi un changement de plateforme.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DCD_Panos-Panay_Decoder-2.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 17:16:02 GMT"
-    },
-    {
-        "title": "La taille ne compte pas",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/03/size-doesnt-matter-when-it-comes-to-language-model-data/?ss=ai",
-        "body": "Bien que l'article mentionne les différences entre les petits modèles linguistiques (SLM) et les grands modèles linguistiques (LLM), il ne s'agit pas vraiment d'une question de taille ou de complexité. Il s'agit plutôt de la capacité des SLM à prendre des décisions et à équilibrer leur spécialisation avec une connaissance générale plus large. Les SLM ont un domaine d'expertise spécifique, tandis que les LLM offrent une base de données linguistiques plus large et plus générale. Cependant, à mesure que les modèles évoluent, la distinction entre les deux devient floue. L'accent devrait être mis sur la capacité des modèles à naviguer dans la complexité et à prendre des décisions éclairées et équilibrées. Le véritable défi réside dans la combinaison de plusieurs domaines, car il devient de plus en plus difficile de déterminer l'expertise nécessaire dans chaque situation. De plus, les LLM ont leurs propres limitations, telles que des compromis entre la durée de réflexion et la rapidité de la réponse. Enfin, certains biais peuvent être bénéfiques pour les modèles d'IA, leur permettant de prendre des décisions rapides et décisives dans leur domaine de spécialisation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c5d3d45c6459a147991d1d/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 03 Mar 2025 16:00:00 GMT"
     }
 ]
