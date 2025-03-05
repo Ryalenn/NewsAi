@@ -1,10 +1,24 @@
 [
     {
+        "title": "TAKE IT DOWN Act Passes Senate",
+        "link": "https://www.commerce.senate.gov/index.php/2025/2/cruz-klobuchar-bill-to-protect-teenagers-from-deepfake-revenge-porn-unanimously-passes-the-senate",
+        "body": "Le TAKE IT DOWN Act, une loi visant à protéger les victimes d'abus d'images intimes non consensuelles, y compris les deepfakes, a été adopté à l'unanimité par le Sénat américain. La loi criminalise la publication d'images intimes non consensuelles (NCII), y compris celles générées par l'IA, et exige que les médias sociaux et les sites Web similaires mettent en place des procédures pour supprimer ce contenu dans les 48 heures suivant la notification de la victime. La loi a reçu le soutien de diverses organisations, notamment des groupes de défense des victimes, des forces de l'ordre et des leaders de l'industrie technologique. La loi donne aux victimes les moyens de se défendre et de reprendre le contrôle de leur vie privée et de leur dignité, tout en tenant les auteurs responsables pénalement.",
+        "image": "",
+        "date": "Wed, 05 Mar 2025 03:22:00 GMT"
+    },
+    {
         "title": "L'impact de ChatGPT sur l'industrie des semi-conducteurs",
         "link": "https://www.forbes.com/sites/karlfreund/2025/03/04/openais-deep-research--answers-to-deep-seek-impact-and-mine/?ss=ai",
         "body": "L'article explore l'impact potentiel de ChatGPT, et plus précisément de son modèle de raisonnement Deep Seek, sur l'industrie des semi-conducteurs, en particulier sur Nvidia et ses concurrents AMD et les fournisseurs de cloud. L'auteur compare les affirmations de Jensen Huang, PDG de Nvidia, selon qui les tâches d'inférence nécessiteront 100 fois plus de puissance de calcul, avec l'opinion d'un investisseur selon qui Deep Seek rendrait obsolètes les processeurs Nvidia H100 et Blackwell. En utilisant l'outil de recherche approfondie de ChatGPT, l'auteur a demandé une analyse de l'impact de Deep Seek sur le marché des semi-conducteurs sur une période de 1 à 3 ans, en se concentrant sur la croissance de l'inférence par rapport à l'entraînement des modèles. La réponse détaillée de ChatGPT, basée sur 42 sources et 6 minutes de réflexion, a produit un rapport de 13 pages, publié sur le site Web de l'auteur, soulignant la valeur des modèles de raisonnement et suggérant une augmentation significative de la demande de puissance de calcul, malgré la réduction des coûts d'entraînement. L'auteur conclut que l'outil de recherche approfondie de ChatGPT est un outil de recherche puissant, capable de fournir des informations précieuses et de concurrencer les analystes humains.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c748e1da6a2a8e65cab391/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 22:00:00 GMT"
+    },
+    {
+        "title": "Amazon's Nova Hybrid AI",
+        "link": "https://www.businessinsider.com/amazon-ai-reasoning-model-nova-2025-3",
+        "body": "Amazon développe son propre modèle d'IA, intégrant des capacités de \"raisonnement\" avancées, sous la marque Nova, avec un lancement prévu en juin. L'objectif est de créer un système hybride capable de fournir à la fois des réponses rapides et une réflexion plus complexe. Le modèle de raisonnement d'Amazon visera à être plus rentable que ses concurrents, tout en offrant des performances élevées. L'équipe AGI d'Amazon, dirigée par Rohit Prasad, travaille sur ce modèle, entrant ainsi en concurrence directe avec des entreprises comme Anthropic et leur modèle Claude 3.7 Sonnet. Amazon a déjà investi 8 milliards de dollars dans Anthropic, soulignant l'importance croissante de l'IA pour l'entreprise.",
+        "image": "",
+        "date": "Tue, 04 Mar 2025 20:28:48 GMT"
     },
     {
         "title": "Le nouveau modèle d'IA d'Elon Musk, Grok-3, soulève des doutes quant à ses capacités réelles, malgré l'enthousiasme qu'il a suscité lors de sa sortie.\n\n**Le dernier modèle d'IA d'Elon Musk sous la loupe",
@@ -54,6 +68,13 @@
         "body": "L'article explore les mécanismes internes de l'apprentissage de l'IA, en se concentrant sur le rôle des modèles linguistiques et des techniques telles que la génération augmentée par récupération et les petits modèles linguistiques pour fournir une intelligence ciblée. Il souligne l'importance d'une fondation de données robuste et d'une architecture de données redessinée pour permettre à l'IA de comprendre le contexte et de s'intégrer véritablement à un environnement d'apprentissage. L'article présente également les réflexions d'Anna Wang, responsable de l'IA chez Multiverse, qui compare l'évolution de la technologie de transport à celle de l'IA dans l'amélioration des compétences de la main-d'œuvre, et souligne l'importance de la surveillance humaine et de la protection des données dans le processus d'apprentissage de l'IA. Enfin, il aborde la nécessité de créer des systèmes sophistiqués qui améliorent les capacités d'apprentissage humain tout en préservant la nature personnelle de l'apprentissage.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c73b427f5d1a3e454da2e8/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 17:45:00 GMT"
+    },
+    {
+        "title": "Copilot redevient une application native sur Windows",
+        "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native#comments",
+        "body": "Microsoft lance enfin une version native de son application Copilot pour Windows, après l'avoir transformée en une simple application web l'année dernière. La nouvelle application, déployée cette semaine pour les Windows Insiders, est développée en XAML natif et propose un nouveau panneau latéral ainsi qu'une interface améliorée. L'application Copilot sur Windows correspond désormais au design de l'application récemment lancée sur macOS, permettant le téléchargement d'images et la génération de contenu visuel ou textuel. L'application prend en charge l'interaction vocale et l'accès à l'historique des conversations dans la barre latérale mise à jour. Microsoft avait initialement lancé Copilot comme assistant personnel intégré à Windows 11, mais l'a ensuite retiré au profit d'une application web de base, rendant Copilot moins utile sur les nouveaux PC Copilot Plus. La nouvelle application, disponible en premier pour les Windows Insiders via le Microsoft Store, devrait être déployée sur tous les PC Windows 11 dans les semaines à venir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 04 Mar 2025 16:56:35 GMT"
     },
     {
         "title": "iPad : une nouvelle génération sans Apple Intelligence",
