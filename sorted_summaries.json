@@ -1,10 +1,24 @@
 [
     {
+        "title": "OpenAI's Financial Future in Question",
+        "link": "https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction",
+        "body": "Les avocats d'Elon Musk ont déposé une motion pour demander une injonction préliminaire afin d'empêcher OpenAI de devenir une entreprise à but lucratif, affirmant que l'organisation à but non lucratif pourrait ne pas avoir suffisamment de fonds pour payer les dommages-intérêts si Musk gagne son procès. La motion fait suite à des rapports indiquant qu'OpenAI envisage de devenir une entreprise à but lucratif et a entamé des discussions préliminaires avec les régulateurs à ce sujet. Les avocats de Musk allèguent également des pratiques anticoncurrentielles de la part d'OpenAI et de Microsoft, affirmant qu'elles violent les lois antitrust américaines. OpenAI a rejeté ces affirmations, les qualifiant de \"sans fondement\".",
+        "image": "",
+        "date": "Wed, 05 Mar 2025 08:44:09 GMT"
+    },
+    {
         "title": "Les domaines de recherche les plus importants en IA",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/03/05/these-topmost-ai-topics-officially-proclaimed-as-driving-the-future-of-ai/?ss=ai",
         "body": "Résumé : Un article récent présente une liste des domaines de recherche les plus importants en IA, établie par l'Association for the Advancement of Artificial Intelligence (AAAI), une organisation professionnelle et universitaire réputée. La liste identifie 17 domaines de recherche prioritaires, allant du raisonnement en IA à l'IA pour le bien social. L'article souligne l'importance de ces domaines pour l'avenir de l'IA et encourage les professionnels de l'IA à se familiariser avec eux.\n\nL'article fournit un aperçu détaillé de chaque domaine, y compris le raisonnement en IA, la véracité et la fiabilité de l'IA, les agents IA, l'évaluation de l'IA, l'éthique et la sécurité de l'IA, l'IA incarnée, l'IA et les sciences cognitives, le matériel informatique et l'IA, l'IA pour le bien social, l'IA et la durabilité, l'IA pour la découverte scientifique, l'intelligence artificielle générale (AGI), la perception de l'IA par rapport à la réalité, la diversité des approches de recherche en IA, la recherche au-delà de la communauté de recherche en IA, le rôle de l'université, et les aspects et implications géopolitiques de l'IA.\n\nL'article souligne l'importance de chacun de ces domaines pour l'avancement de l'IA et son impact sur la société. Il encourage les professionnels de l'IA à se familiariser avec ces domaines et à reconnaître leur rôle dans la création d'un avenir responsable et éthique pour l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/0x0.jpg?format=jpg&crop=859,644,x192,y0,safe&width=440",
         "date": "Wed, 05 Mar 2025 06:08:00 GMT"
+    },
+    {
+        "title": "L'aube de l'informatique quantique",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/05/why-we-dont-have-real-quantum-computing-yet/?ss=ai",
+        "body": "Bien que l'informatique quantique ait le potentiel de révolutionner des domaines tels que l'intelligence artificielle, la découverte de médicaments et la cybersécurité, des défis techniques importants doivent encore être relevés avant de pouvoir l'exploiter pleinement. Les limitations des ordinateurs quantiques actuels incluent une faible tolérance aux pannes, des taux d'erreur élevés et une sensibilité extrême aux interférences. De plus, l'ajout de nouveaux qubits est complexe, car ils doivent être isolés et maintenus à des températures extrêmement basses. Malgré ces défis, des progrès significatifs ont été réalisés, notamment dans l'amélioration de la tolérance aux erreurs et la stabilité des qubits. De plus, le développement de qubits à température ambiante et de nouveaux types de qubits, tels que les qubits photoniques et les qubits à ions piégés, montre des promesses. Des avancées dans la création d'infrastructures, de langages de programmation et de systèmes d'exploitation quantiques sont également en cours. Bien que l'informatique quantique « véritable » puisse encore être éloignée, ces progrès indiquent que nous nous dirigeons vers l'exploitation de son potentiel pour résoudre des problèmes complexes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c7f34d9a4814d5a79835a3/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 05 Mar 2025 06:00:00 GMT"
     },
     {
         "title": "TAKE IT DOWN Act Passes Senate",
@@ -117,6 +131,13 @@
         "body": "Spotify, connu pour son utilisation de l'IA, s'apprête à lancer de nouveaux outils de création musicale assistés par l'IA dans le cadre d'un abonnement premium. Ces outils pourraient transformer les utilisateurs passifs en créateurs actifs et générer de nouvelles sources de revenus. Spotify a déjà utilisé l'IA pour des fonctionnalités telles que des playlists personnalisées, la catégorisation de chansons et des résumés annuels personnalisés. Plus récemment, il a introduit un DJ IA et des playlists IA avec une interface conversationnelle. L'entreprise a une histoire de création d'outils IA pour générer de l'interaction et de l'engagement. Les nouveaux outils de remix IA de Spotify permettront probablement de personnaliser les chansons, y compris le changement de tempo, la réimagination dans différents genres et le remplacement des voix. Spotify est un excellent exemple d'entreprise mature en matière d'IA, créant de nouveaux services pour ses clients. La société se distingue également en proposant des fonctionnalités IA dans les abonnements premium, ce qui pourrait devenir une tendance populaire pour les fournisseurs de services IA cherchant à rentabiliser leurs investissements dans l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c6a1661944b4af370502f2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 06:00:00 GMT"
+    },
+    {
+        "title": "OpenAI lance GPT-4.5, un LLM amélioré",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2522993_openai-gpt-4-5-disponible-tout-ce-que-vous-devez-savoir-sur-la-nouvelle-ia-de-chatgpt",
+        "body": "OpenAI a dévoilé GPT-4.5, une mise à jour de son modèle linguistique GPT-4, qui sera suivie de la version GPT-5. GPT-4.5 est disponible en avant-première pour les abonnés ChatGPT Pro (200 euros/mois), offrant une version améliorée avec plus de connaissances et une meilleure compréhension des intentions des utilisateurs. La semaine prochaine, il sera lancé pour l'abonnement ChatGPT Plus (20 dollars/mois). GPT-4.5 a été entraîné avec une grande quantité de données et utilise l'apprentissage non supervisé et le \"chain-of-thought\". Il offre des réponses plus précises et moins d'hallucinations, et est conçu pour mieux comprendre les émotions et les besoins des utilisateurs. Malgré ses améliorations, il est moins puissant que les modèles o1 et o3 d'OpenAI, mais 10 fois plus efficace que GPT-4. OpenAI a également mis l'accent sur la sécurité, testant le modèle pour s'assurer qu'il ne génère pas de contenu dangereux et qu'il résiste aux tentatives de contourner ses restrictions. GPT-4.5 est considéré comme un modèle de transition, avec GPT-5 teasé comme une fusion des séries GPT et o3.",
+        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1.jpg?key=9fe2e987",
+        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Motorola et Lenovo améliorent la connectivité multi-appareils",
@@ -236,19 +257,5 @@
         "body": "La demande pour les puces IA de Nvidia a explosé, faisant de l'entreprise une société valant plus d'un trillion de dollars. Cette demande a également incité des entreprises comme Microsoft, Meta, OpenAI, Amazon et Google à développer leurs propres processeurs IA. Nvidia, AMD et Intel sont désormais engagés dans une course pour concevoir des puces IA plus efficaces et plus puissantes. OpenAI prévoit de produire sa propre puce IA l'année prochaine, réduisant ainsi sa dépendance aux puces Nvidia. Intel, quant à lui, a connu des difficultés, annonçant l'une des plus grandes pertes trimestrielles de l'histoire des entreprises, mais se repositionne pour se concentrer sur le marché de l'IA. La course pour la domination de l'IA se déplace vers les puces, avec des entreprises et des pays investissant massivement dans le développement et la fabrication de puces IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 03 Mar 2025 14:26:29 GMT"
-    },
-    {
-        "title": "Lenovo's Quirky Concepts",
-        "link": "https://www.theverge.com/news/622379/lenovo-magic-bay-thinkbook-16p-modular-display-tiko-pro-emoji-concepts",
-        "body": "Lenovo présente des accessoires modulaires pour le connecteur magnétique Magic Bay de son ordinateur portable ThinkBook 16P Gen 6. Parmi les concepts présentés, on trouve un deuxième écran vertical de 8 pouces, un double écran transformant l'ordinateur en un setup à trois écrans, et deux concepts nommés Tiko : un écran horizontal pour widgets et un écran circulaire affichant un compagnon émotionnel basé sur l'IA, utilisant des emojis pour interagir avec l'utilisateur. Le Tiko Pro semble être un outil plus ludique et léger, réagissant aux gestes de l'utilisateur.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257550_Lenovo_MWC_2025_laptop_preview_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 03 Mar 2025 09:04:29 GMT"
-    },
-    {
-        "title": "L'éthique de l'IA et ses implications pour l'avenir",
-        "link": "https://www.youtube.com/watch?v=zCMuL7vE9ao",
-        "body": "L'article aborde les questions éthiques complexes qui entourent le développement et le déploiement de l'IA. Il souligne l'importance de considérer l'IA comme un outil puissant qui doit être utilisé de manière responsable et éthique. L'auteur explore les implications de l'IA sur la vie privée, la sécurité, l'équité et la responsabilité. Il met en évidence la nécessité de développer des pratiques et des normes éthiques pour guider le développement et l'utilisation de l'IA, garantissant ainsi qu'elle profite à la société sans causer de dommages. L'article plaide également pour une collaboration entre les experts en IA, les décideurs politiques et le public pour façonner l'avenir de cette technologie, en veillant à ce que les considérations éthiques soient au premier plan.",
-        "image": "",
-        "date": "Mon, 03 Mar 2025 09:04:29 GMT"
     }
 ]
