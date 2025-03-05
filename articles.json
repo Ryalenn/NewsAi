@@ -98,14 +98,14 @@
         "check": "yes"
     },
     {
-        "title": "Smart Connect : l’outil pratique de de Motorola pour passer d’un écran à un autre",
+        "title": "Smart Connect : l\u2019outil pratique de de Motorola pour passer d\u2019un \u00e9cran \u00e0 un autre",
         "link": "https://www.frandroid.com/marques/2528913_smart-connect-loutil-pratique-de-de-motorola-pour-passer-dun-ecran-a-un-autre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/smart-connect-ecosystem-2-1200x800-1-768x512.jpg?resize=200,200&key=4f03bbac",
         "date": "Mon, 03 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gemini : deux nouvelles fonctionnalités très pratiques arrivent bientôt sur tous les smartphones Android",
+        "title": "Gemini : deux nouvelles fonctionnalit\u00e9s tr\u00e8s pratiques arrivent bient\u00f4t sur tous les smartphones Android",
         "link": "https://www.frandroid.com/marques/google/2528983_gemini-deux-nouvelles-fonctionnalites-tres-pratiques-arrivent-bientot-sur-tous-les-smartphones-android",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/blhy4op9y0u-hd-1200x644-1-768x412.jpg?resize=161,161&key=0937a373",
         "date": "Mon, 03 Mar 2025 23:00:00 GMT",
@@ -236,5 +236,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/0x0.jpg?format=jpg&crop=859,644,x192,y0,safe&width=440",
         "date": "Wed, 05 Mar 2025 06:08:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2522993_openai-gpt-4-5-disponible-tout-ce-que-vous-devez-savoir-sur-la-nouvelle-ia-de-chatgpt",
+        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1.jpg?key=9fe2e987",
+        "date": "Mon, 03 Mar 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction",
+        "image": "",
+        "date": "Wed, 05 Mar 2025 08:44:09 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/05/why-we-dont-have-real-quantum-computing-yet/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c7f34d9a4814d5a79835a3/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 05 Mar 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
