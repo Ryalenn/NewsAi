@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution des agents IA",
+        "link": "https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots",
+        "body": "Les entreprises d'IA cherchent à monétiser leurs modèles coûteux et puissants en les présentant comme des « agents » autonomes, capables de prendre des décisions et d'interagir avec leur environnement avec un minimum d'intervention humaine. Microsoft, Google, OpenAI et d'autres développent des agents IA pour automatiser diverses tâches, de l'assistance client à l'analyse de données. Malgré les défis techniques et les préoccupations éthiques, les startups d'agents IA attirent des milliards de dollars d'investissements, les entreprises espérant une révolution de la productivité et de l'efficacité. La promesse d'une IA véritablement partenaire, et non d'un simple outil, est séduisante, mais des questions subsistent quant à la fiabilité et à la responsabilité de ces agents dans des domaines à enjeux élevés comme le droit et la fiscalité.",
+        "image": "",
+        "date": "Thu, 06 Mar 2025 00:16:10 GMT"
+    },
+    {
         "title": "La transformation numérique de Thermo Fisher Scientific",
         "link": "https://www.forbes.com/sites/peterhigh/2025/03/05/ryan-snyder-on-ai-and-digital-innovation-at-thermo-fisher-scientific/?ss=ai",
         "body": "Résumé : \n\nThermo Fisher Scientific, une entreprise de plus de 40 milliards de dollars de chiffre d'affaires annuel, fournit des produits et services à l'industrie des sciences de la vie. Ryan Snyder, Senior Vice President et Chief Information Officer, dirige la transformation numérique de l'entreprise depuis 2019, en intégrant la technologie à la stratégie commerciale. Snyder préconise une fusion de la stratégie technologique et de la stratégie commerciale, avec des leaders technologiques intégrés dans chaque unité commerciale. L'IA et l'analyse de données sont au cœur de la stratégie, avec des équipes dédiées à l'automatisation, à l'IA et aux données travaillant ensemble pour fournir des solutions sur mesure pour chaque division. La stratégie IA de Thermo Fisher repose sur trois piliers : réduction des coûts, amélioration de l'expérience client et innovation. Snyder souligne l'importance de la gouvernance responsable de l'IA et de plusieurs cas d'utilisation de l'IA, notamment dans les essais cliniques et le développement logiciel interne. Son approche de l'innovation est fondée sur l'empathie, en répondant aux besoins spécifiques des leaders commerciaux. Enfin, Snyder met l'accent sur la nécessité de rester à la pointe de la technologie et d'expérimenter pour maintenir la compétitivité de Thermo Fisher à l'avenir.",
@@ -47,6 +54,13 @@
         "body": "Microsoft a annoncé un investissement de plusieurs milliards de dollars dans OpenAI, le créateur d'outils d'IA populaires tels que ChatGPT et DALL-E 2. Dans le cadre de cet accord, Microsoft deviendra le fournisseur cloud exclusif d'OpenAI et augmentera ses investissements dans le développement et le déploiement de systèmes de superinformatique pour soutenir la recherche d'OpenAI. La société prévoit également d'intégrer les modèles d'OpenAI dans divers produits grand public et professionnels, notamment Bing, Word, PowerPoint et Outlook. L'objectif est de démocratiser l'IA en tant que nouvelle plateforme technologique et de la mettre à la disposition des développeurs et des organisations de tous les secteurs.",
         "image": "",
         "date": "Wed, 05 Mar 2025 13:37:23 GMT"
+    },
+    {
+        "title": "Le problème du tramway",
+        "link": "https://www.theverge.com/openai/624209/chatgpt-ethics-specs-humanism#comments",
+        "body": "L'article critique l'incapacité des chatbots, tels que ChatGPT, à gérer les questions éthiques complexes, en utilisant le célèbre \"problème du tramway\" comme exemple. Il souligne que les réponses de ChatGPT à des questions éthiques manquent de nuances et sont excessivement confiantes, ignorant la complexité des débats philosophiques sur ces sujets. L'article remet également en question l'obsession d'OpenAI pour des réponses \"correctes\" ou \"impartiales\", soulignant que l'éthique implique souvent des jugements subjectifs et des valeurs personnelles. Il suggère que les créateurs de chatbots devraient reconnaître les limites de ces outils et s'abstenir de répondre aux questions éthiques, plutôt que de risquer de fournir des réponses simplistes ou potentiellement dangereuses. L'article conclut en critiquant l'idéologie sous-jacente à l'IA, qu'il qualifie de \"mépris anti-humaniste\", et suggère que l'externalisation de la réflexion éthique à des machines peut être préjudiciable à la capacité de penser de manière critique.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257592_Chat_GPT_ethics_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Mar 2025 13:00:00 GMT"
     },
     {
         "title": "Les créateurs s'inquiètent",
@@ -222,47 +236,5 @@
         "body": "Spotify, connu pour son utilisation de l'IA, s'apprête à lancer de nouveaux outils de création musicale assistés par l'IA dans le cadre d'un abonnement premium. Ces outils pourraient transformer les utilisateurs passifs en créateurs actifs et générer de nouvelles sources de revenus. Spotify a déjà utilisé l'IA pour des fonctionnalités telles que des playlists personnalisées, la catégorisation de chansons et des résumés annuels personnalisés. Plus récemment, il a introduit un DJ IA et des playlists IA avec une interface conversationnelle. L'entreprise a une histoire de création d'outils IA pour générer de l'interaction et de l'engagement. Les nouveaux outils de remix IA de Spotify permettront probablement de personnaliser les chansons, y compris le changement de tempo, la réimagination dans différents genres et le remplacement des voix. Spotify est un excellent exemple d'entreprise mature en matière d'IA, créant de nouveaux services pour ses clients. La société se distingue également en proposant des fonctionnalités IA dans les abonnements premium, ce qui pourrait devenir une tendance populaire pour les fournisseurs de services IA cherchant à rentabiliser leurs investissements dans l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c6a1661944b4af370502f2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 06:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service de l'éthique journalistique",
-        "link": "https://www.theverge.com/news/623638/la-times-ai-generated-views-summaries-political-bias#comments",
-        "body": "Le propriétaire du Los Angeles Times, Patrick Soon-Shiong, a annoncé l'utilisation de l'IA pour identifier les articles d'opinion et offrir des perspectives variées. L'IA ajoute le label \"Voices\" aux articles prenant une position ou écrits d'un point de vue personnel, et fournit des \"Insights\", y compris des points de vue différents. Cette initiative vise à soutenir la mission journalistique et à aider les lecteurs à naviguer dans les enjeux complexes. Les membres du syndicat du LA Times sont sceptiques, soulignant l'importance de la supervision éditoriale pour éviter les gaffes. Des exemples de résultats douteux sont déjà apparus, soulignant la nécessité d'une supervision humaine. D'autres médias utilisent l'IA, mais généralement pas pour des évaluations éditoriales.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK149_AI_Chatbot_K_Radtke.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 04 Mar 2025 00:00:00 GMT"
-    },
-    {
-        "title": "OpenAI lance GPT-4.5, un LLM amélioré",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2522993_openai-gpt-4-5-disponible-tout-ce-que-vous-devez-savoir-sur-la-nouvelle-ia-de-chatgpt",
-        "body": "OpenAI a dévoilé GPT-4.5, une mise à jour de son modèle linguistique GPT-4, qui sera suivie de la version GPT-5. GPT-4.5 est disponible en avant-première pour les abonnés ChatGPT Pro (200 euros/mois), offrant une version améliorée avec plus de connaissances et une meilleure compréhension des intentions des utilisateurs. La semaine prochaine, il sera lancé pour l'abonnement ChatGPT Plus (20 dollars/mois). GPT-4.5 a été entraîné avec une grande quantité de données et utilise l'apprentissage non supervisé et le \"chain-of-thought\". Il offre des réponses plus précises et moins d'hallucinations, et est conçu pour mieux comprendre les émotions et les besoins des utilisateurs. Malgré ses améliorations, il est moins puissant que les modèles o1 et o3 d'OpenAI, mais 10 fois plus efficace que GPT-4. OpenAI a également mis l'accent sur la sécurité, testant le modèle pour s'assurer qu'il ne génère pas de contenu dangereux et qu'il résiste aux tentatives de contourner ses restrictions. GPT-4.5 est considéré comme un modèle de transition, avec GPT-5 teasé comme une fusion des séries GPT et o3.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/perplexity-vs-google-1200x675-1.jpg?key=9fe2e987",
-        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Motorola et Lenovo améliorent la connectivité multi-appareils",
-        "link": "https://www.frandroid.com/marques/2528913_smart-connect-loutil-pratique-de-de-motorola-pour-passer-dun-ecran-a-un-autre",
-        "body": "Motorola et Lenovo présentent au MWC 2025 de Barcelone une nouvelle version de Smart Connect, un outil permettant une expérience multi-appareils transparente entre smartphones, tablettes et PC de différents constructeurs. Smart Connect intègre désormais des fonctionnalités d'IA pour améliorer le partage de fichiers et la recopie d'écran, avec plus de neuf millions d'utilisateurs mensuels. L'IA permettra un contrôle vocal et une recherche en langage naturel pour retrouver des documents sur différents appareils. La nouvelle version sera disponible sur PC Windows, tablettes Lenovo et appareils Motorola via les magasins d'applications respectifs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/smart-connect-ecosystem-2-1200x800-1-768x512.jpg?resize=200,200&key=4f03bbac",
-        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini : de nouvelles fonctionnalités impressionnantes",
-        "link": "https://www.frandroid.com/marques/google/2528983_gemini-deux-nouvelles-fonctionnalites-tres-pratiques-arrivent-bientot-sur-tous-les-smartphones-android",
-        "body": "Google a annoncé des mises à jour de son IA Gemini, avec deux nouvelles fonctionnalités majeures. La première, Live Vidéo, permet aux utilisateurs de diffuser en direct leur environnement vers le chatbot via leur smartphone, lui donnant la capacité d'identifier et de répondre à des questions sur ce qu'il voit. La seconde est la possibilité de partager des captures d'écran avec Gemini, qui peut alors répondre à des questions sur leur contenu. Ces fonctionnalités, disponibles via un abonnement Gemini Advanced, améliorent considérablement les capacités de Gemini et le positionnent comme un outil puissant pour les utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/blhy4op9y0u-hd-1200x644-1-768x412.jpg?resize=161,161&key=0937a373",
-        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft repense Copilot pour Windows",
-        "link": "https://www.frandroid.com/marques/microsoft/2529107_microsoft-repense-copilot-pour-windows-avec-une-toute-nouvelle-interface",
-        "body": "Microsoft a mis à jour Copilot avec une nouvelle interface utilisateur native, offrant une expérience plus fluide et cohérente sur Windows 11. La nouvelle version propose une barre latérale pour naviguer entre les conversations, des effets de flou Mica, des menus contextuels intégrés et une performance améliorée. Les utilisateurs peuvent poser des questions spécifiques sur leur PC et recevoir des réponses adaptées à leur version de Windows, renforçant ainsi le rôle de Copilot en tant qu'assistant personnel. La personnalisation reste une option, avec la possibilité de lancer automatiquement l'application au démarrage et d'activer/désactiver les raccourcis clavier. La mise à jour est progressivement déployée via le Microsoft Store pour les utilisateurs Insider.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/copilot-nouvelle-interface-768x533.jpg?resize=208,208&key=9842ad11",
-        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : tendances et opportunités émergentes",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/03/continuing-innovation--ais-next-wave/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c637dabe99643206e8edba/0x0.jpg?format=jpg&crop=1224,573,x0,y150,safe&width=440",
-        "date": "Mon, 03 Mar 2025 23:00:00 GMT"
     }
 ]
