@@ -1,10 +1,31 @@
 [
     {
+        "title": "Sesame, un tournant pour l'IA conversationnelle",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/06/sesame-and-the-promise-of-real-ai-voice/?ss=ai",
+        "body": "Un nouveau modèle vocal, Sesame, est présenté comme un tournant dans l'IA conversationnelle, rappelant le film \"Her\" avec Joaquin Phoenix et la voix de Scarlett Johansson. Nathaniel Whittemore de AI Daily Brief souligne l'explosion des modèles vocaux et la petite taille de Sesame (1 milliard de paramètres), avec des modèles plus grands en développement. La démonstration d'Ethan Mollick, un expert en analyse de l'IA, met en évidence la réponse intrigante de l'IA à une question sur son métier. L'échange révèle une réponse réfléchie et une conscience de sa propre nature non humaine. Les utilisateurs sont impressionnés par le naturel de la voix et la rapidité des réponses, certains la préférant même à un psychologue ou à un professeur d'anglais. Olivia Moore de a16z mentionne également des applications potentielles en ressources humaines et en recrutement. La technologie peut être associée à des lunettes pour une interaction continue avec l'IA. L'article soulève des questions sur l'impact de ces avancées et invite les lecteurs à essayer la démonstration.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c9cfc4f316a72992043fb4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 06 Mar 2025 16:00:00 GMT"
+    },
+    {
+        "title": "La montée des cybermenaces",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/03/06/cyber-threats-are-evolving-faster-than-defenses/?ss=ai",
+        "body": "Les cybercriminels et les acteurs étatiques adoptent de plus en plus l'IA, l'exploitation du cloud et l'ingénierie sociale sophistiquée, forçant les organisations à repenser leur approche de la sécurité. Le rapport de CrowdStrike révèle une image inquiétante des adversaires rapides, efficaces et de plus en plus « entrepreneuriaux ». Leur tactique a évolué au-delà des logiciels malveillants traditionnels, se tournant vers des attaques basées sur l'identité, l'ingénierie sociale basée sur les deepfakes et l'exploitation rapide du cloud. Les défenseurs doivent maintenant rivaliser d'innovation avec les attaquants qui pensent et agissent comme des entreprises. L'utilisation de l'IA dans la cybercriminalité est particulièrement préoccupante, avec des taux de réussite élevés dans les campagnes de phishing et de deepfake. Les criminels utilisent également l'IA pour infiltrer les organisations, comme le groupe nord-coréen Famous Chollima qui a utilisé de faux profils LinkedIn et l'IA pour réussir des entretiens d'embauche. L'activité des acteurs étatiques, en particulier de la Chine, a également augmenté de manière significative, ciblant des industries spécifiques et cherchant à maintenir un accès persistant. Face à l'évolution des menaces, la prochaine phase de la cybersécurité sera un combat entre les attaquants et les défenses pilotées par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c9cb309a98a5997ec966dc/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 06 Mar 2025 16:00:00 GMT"
+    },
+    {
         "title": "L'affaire LA Times",
         "link": "https://www.forbes.com/sites/douglaslaney/2025/03/06/la-times-ai-bot-coddles-the-klan/?ss=ai",
         "body": "Résumé : \n\nLe Los Angeles Times a récemment fait face à une controverse liée à sa nouvelle fonctionnalité \"Insights\" alimentée par l'IA, qui visait à offrir des perspectives alternatives aux éditoriaux. L'IA a généré un contenu qui semblait minimiser l'histoire raciste et violente du Ku Klux Klan, ce qui a provoqué une réaction violente du public et des journalistes. Cet incident soulève des questions importantes sur les risques liés au déploiement d'outils d'IA sans supervision adéquate. Il met en évidence les défis auxquels sont confrontées les organisations lorsqu'elles intègrent l'IA à leurs opérations, notamment la nécessité de prendre en compte les biais et les limitations des systèmes d'IA actuels. Cet événement sert de rappel aux organisations pour qu'elles adoptent une approche réfléchie et responsable de la mise en œuvre de l'IA, en abordant les problèmes de responsabilité et de supervision.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c9aff4ced17f71d153f1d9/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 06 Mar 2025 14:43:00 GMT"
+    },
+    {
+        "title": "L'Amérique façonne l'IA",
+        "link": "https://www.forbes.com/sites/richardnieva/2025/03/06/scale-ai-outlier-us/?ss=ai",
+        "body": "L'article met en lumière le rôle crucial des travailleurs américains dans la formation des modèles d'IA, en particulier dans l'amélioration de l'IA générative. Scale, une entreprise de données d'IA, a lancé Outlier, une plateforme où les pigistes effectuent des tâches pour former des modèles d'IA pour des clients tels que Google, Meta et OpenAI. Les travailleurs américains représentent le segment de contributeurs à la croissance la plus rapide sur Outlier, et Scale met de plus en plus l'accent sur les États-Unis en tant que centre principal pour ces travailleurs. L'article aborde également la controverse entourant les conditions de travail des pigistes, y compris les poursuites pour mauvaises conditions de travail et vol de salaire.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c8d9a7471ed6ba6f089e00/0x0.jpg?format=jpg&crop=1600,900,x0,y0,safe&width=440",
+        "date": "Thu, 06 Mar 2025 11:00:00 GMT"
     },
     {
         "title": "Le rôle crucial du Directeur de l'IA",
@@ -194,68 +215,5 @@
         "body": "L'article explore l'utilisation de l'IA générative et des grands modèles linguistiques pour fournir des commentaires honnêtes et sans détour, ce qui peut être difficile à obtenir d'un être humain en raison de la subjectivité et des biais émotionnels. L'IA peut offrir une perspective plus objective et impartiale, mais il est important de se rappeler qu'elle n'est pas encore consciente et qu'elle peut présenter des biais provenant de ses données d'entraînement. L'auteur suggère d'utiliser l'IA comme un partenaire de conversation, en continuant le dialogue pour obtenir des commentaires plus francs. L'IA peut également être utilisée pour se préparer à fournir des commentaires à d'autres, en la guidant pour qu'elle adopte le persona souhaité. Cependant, l'auteur met en garde contre le fait que l'utilisation de l'IA pour des conseils en matière de santé mentale est une expérience non réglementée qui peut avoir des conséquences imprévues.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b2bf7534d382266266f87a/0x0.jpg?format=jpg&crop=2054,1539,x234,y0,safe&width=440",
         "date": "Tue, 04 Mar 2025 19:00:00 GMT"
-    },
-    {
-        "title": "Hybrid Intelligence",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/04/4-ways-to-harness-the-power-of-hybrid-intelligence-as-you-age/?ss=ai",
-        "body": "L'intelligence hybride, qui combine l'intelligence humaine et l'intelligence artificielle, offre un moyen de prévenir le déclin cognitif et d'y remédier lorsqu'il se produit. L'article souligne l'importance de la neuroplasticité et de la capacité du cerveau à s'adapter et à se renforcer tout au long de la vie adulte, à condition de continuer à se challenger. L'intelligence hybride amplifie les habitudes saines en combinant une compréhension holistique du cerveau et du corps avec des outils basés sur l'IA, des modules de formation personnalisés et des boucles de rétroaction en temps réel. Il s'agit d'adopter de nouvelles expériences d'apprentissage, de pratiquer la concentration et la réflexion, et de rester engagé socialement et émotionnellement. L'intelligence hybride n'est pas un remplacement de l'initiative personnelle, mais un soutien, avec des outils tels que des rappels numériques, des plateformes d'apprentissage et des tuteurs linguistiques basés sur l'IA. L'article explore également les quatre piliers de l'intelligence hybride : l'attitude, l'approche, la capacité et l'ambition, et fournit des exemples d'applications dans le domaine de la santé, de l'assistance numérique et de l'entraînement cérébral interactif. L'engagement personnel, la curiosité et la pratique délibérée restent essentiels pour stimuler la neuroplasticité et favoriser la croissance cognitive.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72a67372929d171a250c0/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 18:24:00 GMT"
-    },
-    {
-        "title": "Rivals: Photography vs. Promptography",
-        "link": "https://www.forbes.com/sites/lesliekatz/2025/03/04/photography-or-ai-promptography-this-show-makes-it-hard-to-tell/?ss=ai",
-        "body": "L'exposition \"Rivals: Photography vs. Promptography\" explore les intersections de l'IA et de la photographie, mettant en lumière les possibilités et les limites de chaque médium. L'exposition présente des œuvres de photographes et d'artistes utilisant l'IA, soulignant la nécessité de clarifier la relation entre la photographie et la \"promptographie\". L'exposition soulève des questions importantes sur la nature de la photographie et le rôle de l'IA dans le processus créatif, invitant à la réflexion sur la place de chaque technique dans la création d'images contemporaines. L'exposition comprend des images photographiques et des œuvres d'art générées par l'IA, mettant en évidence la difficulté à distinguer entre les deux et soulignant le potentiel de l'IA à diriger l'art vers de nouvelles directions passionnantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c686b4095d61a6ccc0f424/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 18:19:00 GMT"
-    },
-    {
-        "title": "Révolution de l'imagerie numérique",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/04/selfie-cameras-and-the-legacy-of-the-active-pixel-sensor-for-ai/?ss=ai",
-        "body": "L'article explore l'évolution de la technologie des caméras, en particulier le rôle de l'abstraction découverte par les scientifiques de la NASA dans le développement des capteurs d'images à méga-pixels et des fonctionnalités d'IA dans les smartphones et autres appareils modernes. La technologie clé est le capteur de pixels actifs (APS), qui a été créé à l'origine pour une utilisation dans l'espace, mais qui a rapidement trouvé des applications terrestres. L'APS améliore la précision, la vitesse et la qualité des images, en particulier dans des conditions d'éclairage variées, grâce à l'intégration de circuits actifs dans chaque pixel. Cette conception a révolutionné la photographie numérique, permettant une miniaturisation et une efficacité énergétique accrues, et a été adoptée dans les smartphones, les webcams et les appareils photo numériques. L'article souligne également le rôle de l'IA dans le traitement des images, notamment la filtration, la gestion de la lumière et la démosaique, un processus de reconstruction d'images en couleurs à partir de données de pixels.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72b86ddd63e642d083c80/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 18:10:00 GMT"
-    },
-    {
-        "title": "Entrepreneurs, Embrassez l'IA",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/03/04/5-ways-ai-agents-can-help-solopreneurs-scale-without-hiring/?ss=ai",
-        "body": "L'article présente les avantages de l'utilisation de l'IA pour les entrepreneurs qui cherchent à développer leur entreprise sans embaucher immédiatement de nouveaux employés. Les agents IA autonomes peuvent gérer le service client, planifier les rendez-vous, créer du contenu et rationaliser les tâches administratives, permettant ainsi aux entrepreneurs de se concentrer sur la stratégie et la croissance. Les agents IA peuvent également aider les entreprises à explorer de nouvelles opportunités tout en gérant leurs activités principales, en effectuant des recherches sur le marché et en exécutant des tâches marketing. L'IA offre une solution puissante pour les entrepreneurs qui cherchent à développer leur entreprise efficacement et efficacement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c744b47e1d7fa301fd2286/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 18:00:00 GMT"
-    },
-    {
-        "title": "L'apprentissage de l'IA : un aperçu",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/04/how-an-ai-coach-learns-its-playbook/?ss=ai",
-        "body": "L'article explore les mécanismes internes de l'apprentissage de l'IA, en se concentrant sur le rôle des modèles linguistiques et des techniques telles que la génération augmentée par récupération et les petits modèles linguistiques pour fournir une intelligence ciblée. Il souligne l'importance d'une fondation de données robuste et d'une architecture de données redessinée pour permettre à l'IA de comprendre le contexte et de s'intégrer véritablement à un environnement d'apprentissage. L'article présente également les réflexions d'Anna Wang, responsable de l'IA chez Multiverse, qui compare l'évolution de la technologie de transport à celle de l'IA dans l'amélioration des compétences de la main-d'œuvre, et souligne l'importance de la surveillance humaine et de la protection des données dans le processus d'apprentissage de l'IA. Enfin, il aborde la nécessité de créer des systèmes sophistiqués qui améliorent les capacités d'apprentissage humain tout en préservant la nature personnelle de l'apprentissage.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c73b427f5d1a3e454da2e8/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 17:45:00 GMT"
-    },
-    {
-        "title": "La révolution des grands modèles linguistiques",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les géants de l'industrie, tels que Microsoft, OpenAI et Google, démocratisent la technologie des chatbots IA, auparavant limitée aux laboratoires de test. Ces modèles linguistiques massifs (LLM) utilisent l'apprentissage automatique pour analyser les propriétés statistiques du langage et faire des prédictions. Cependant, ils peuvent présenter des informations fausses comme vraies. Des organisations médiatiques ont poursuivi en justice des entreprises d'IA pour violation de droits d'auteur et de marque. Des entreprises comme Meta, DeepSeek et OpenAI continuent de développer de nouvelles fonctionnalités et améliorations pour leurs chatbots, notamment la mémorisation des préférences des utilisateurs et la recherche approfondie. L'IA est également intégrée dans les soins de santé, les centres d'appels et les infrastructures sous-marines.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 04 Mar 2025 17:14:02 GMT"
-    },
-    {
-        "title": "Copilot redevient une application native sur Windows",
-        "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native#comments",
-        "body": "Microsoft lance enfin une version native de son application Copilot pour Windows, après l'avoir transformée en une simple application web l'année dernière. La nouvelle application, déployée cette semaine pour les Windows Insiders, est développée en XAML natif et propose un nouveau panneau latéral ainsi qu'une interface améliorée. L'application Copilot sur Windows correspond désormais au design de l'application récemment lancée sur macOS, permettant le téléchargement d'images et la génération de contenu visuel ou textuel. L'application prend en charge l'interaction vocale et l'accès à l'historique des conversations dans la barre latérale mise à jour. Microsoft avait initialement lancé Copilot comme assistant personnel intégré à Windows 11, mais l'a ensuite retiré au profit d'une application web de base, rendant Copilot moins utile sur les nouveaux PC Copilot Plus. La nouvelle application, disponible en premier pour les Windows Insiders via le Microsoft Store, devrait être déployée sur tous les PC Windows 11 dans les semaines à venir.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 04 Mar 2025 16:56:35 GMT"
-    },
-    {
-        "title": "iPad : une nouvelle génération sans Apple Intelligence",
-        "link": "https://www.forbes.com/sites/esatdedezade/2025/03/04/apple-intelligence-is-missing-from-the-new-ipad-as-amazon-and-google-accelerate-ai-adoption/?ss=ai",
-        "body": "Apple a sorti sa nouvelle gamme d'iPad d'entrée de gamme qui, contrairement aux attentes, ne prend pas en charge Apple Intelligence. Cette absence est d'autant plus notable que les concurrents comme Amazon et Google renforcent leurs capacités d'IA. La nouvelle tablette offre néanmoins des améliorations, dont une puce A16 plus rapide et une capacité de stockage doublée. La stratégie d'Apple semble être de réserver l'IA à des appareils plus haut de gamme, créant ainsi une hiérarchie claire dans sa gamme de produits. Cette approche contraste avec celle de Google, qui vise à démocratiser l'IA sur une large gamme d'appareils, et avec la nouvelle orientation d'Amazon, qui fait de l'IA la pièce centrale de sa stratégie. L'évolution du marché de l'IA déterminera la réussite de ces stratégies concurrentes et influencera l'accessibilité de l'IA pour les consommateurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c7271c1edd5d2790cbf064/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un outil puissant qui nécessite une utilisation éthique et responsable",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/04/poetry-and-guarding-humanity-in-the-ai-age/?ss=ai",
-        "body": "L'article met en lumière les préoccupations croissantes concernant le biais et la discrimination potentiels dans les technologies d'IA, en particulier dans les domaines de la reconnaissance faciale et des décisions algorithmiques. Il présente le travail de Joy Buolamwini, une chercheuse de premier plan dans ce domaine, qui a fondé la Ligue de Justice Algorithmique pour aborder l'impact de l'IA sur les individus et les sociétés, et promouvoir des décisions algorithmiques plus équitables. L'article souligne l'importance de reconnaître que l'IA peut perpétuer et exacerber les préjugés existants, et que des mesures doivent être prises pour protéger les individus marginalisés des effets négatifs potentiels. Il met également en évidence la nécessité de gérer les attentes irréalistes concernant l'IA et de reconnaître que les machines, tout comme les humains, sont faillibles et sujettes aux préjugés. Enfin, il souligne l'importance de maintenir l'équilibre entre l'innovation et la responsabilité, en veillant à ce que l'IA soit utilisée de manière éthique et responsable pour améliorer la société plutôt que de la diviser davantage.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c72a5bef8d8d71037f6dbf/0x0.jpg?format=jpg&crop=3326,1872,x0,y234,safe&width=440",
-        "date": "Tue, 04 Mar 2025 16:00:00 GMT"
     }
 ]
