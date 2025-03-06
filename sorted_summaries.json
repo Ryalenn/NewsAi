@@ -21,6 +21,13 @@
         "date": "Thu, 06 Mar 2025 00:16:10 GMT"
     },
     {
+        "title": "Amazon Prime Video utilise l'IA pour le doublage",
+        "link": "https://www.frandroid.com/marques/2532159_amazon-lance-un-programme-de-doublage-par-ia-pour-prime-video",
+        "body": "Amazon Prime Video utilise l'IA pour doubler des films et séries sous licence en anglais et en espagnol latino-américain. Cette expérimentation concerne 12 titres, dont El Cid : La Leyenda, Mi Mamá Lora et Long Lost. Amazon précise que des professionnels travailleront avec l'IA pour assurer la qualité du doublage. Cette initiative vise à rendre sa bibliothèque de streaming plus accessible, mais a suscité des protestations de la part de syndicats d'acteurs en 2024.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/telechargement-1200x675-1-768x432.jpeg?resize=169,169&key=9e80c3c0",
+        "date": "Wed, 05 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "La monétisation de l'IA conversationnelle",
         "link": "https://www.frandroid.com/culture-tech/2531993_un-abonnement-chatgpt-a-plus-de-20-000-e-par-mois-ca-vous-tente-openai-y-reflechit",
         "body": "OpenAI, la société derrière ChatGPT, envisage de nouvelles formules d'abonnement coûteuses pour monétiser sa technologie d'IA conversationnelle. Les prix varient de 2000 à 20 000 dollars par mois, en fonction des capacités et des cas d'utilisation spécifiques. Ces \"agents\" d'IA sont conçus pour effectuer des tâches à la place de l'utilisateur et sont destinés à des professionnels dans des domaines spécialisés. Malgré l'abonnement Pro existant à 200 euros par mois, OpenAI cherche à augmenter ses revenus pour devenir rentable, après des pertes estimées à 5 milliards de dollars en 2024. La société prévoit que 20 à 25 % de ses revenus proviendront de ces agents d'IA. De plus, OpenAI envisage de facturer les gros utilisateurs de ChatGPT en fonction du volume de leurs requêtes.",
@@ -243,12 +250,5 @@
         "body": "Salesforce lance AgentExchange, un marché pour la création et la vente d'agents IA, avec des solutions prêtes à l'emploi pour les entreprises. Les agents IA peuvent gérer des tâches complexes et des flux de travail, complétant ou remplaçant les employés humains. Salesforce AI prévoit que les gestionnaires actuels seront les derniers à gérer une main-d'œuvre entièrement humaine. Les agents sont polyvalents et peuvent, par exemple, aider les équipes de vente, automatiser la signature de contrats ou diagnostiquer les problèmes de dispositifs médicaux. Les concurrents comme Hubspot ont également lancé des plateformes similaires, soulignant l'importance croissante des agents IA dans le monde des affaires. Les agents sont considérés comme les nouvelles applications, avec des capacités plus avancées et accessibles à tous les développeurs. Cependant, la perspective d'agents malveillants ou incontrôlés est une préoccupation, mais Salesforce assure avoir mis en place des protections. Enfin, l'impact sur l'emploi est discuté, avec la possibilité d'une perturbation initiale suivie d'une augmentation de l'entrepreneuriat.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c6598d8ef1198254286c77/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 04 Mar 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Assistant Search avec IA",
-        "link": "https://www.theverge.com/2023/12/14/24001442/google-is-reportedly-working-on-an-ai-assistant-for-pixels-called-pixie",
-        "body": "Google prévoit de lancer une nouvelle fonctionnalité d'assistant IA exclusive aux appareils Pixel, qui utilisera les données de l'utilisateur, telles que les informations de Maps et Gmail, pour offrir une expérience plus personnalisée. Cette fonctionnalité pourrait être lancée avec les prochains smartphones Pixel 9 et 9 Pro l'année prochaine.",
-        "image": "",
-        "date": "Tue, 04 Mar 2025 12:23:00 GMT"
     }
 ]
