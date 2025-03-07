@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Un abonnement ChatGPT à plus de 20 000 € par mois, ça vous tente ? OpenAI y réfléchit",
+        "title": "Un abonnement ChatGPT \u00e0 plus de 20 000 \u20ac par mois, \u00e7a vous tente ? OpenAI y r\u00e9fl\u00e9chit",
         "link": "https://www.frandroid.com/culture-tech/2531993_un-abonnement-chatgpt-a-plus-de-20-000-e-par-mois-ca-vous-tente-openai-y-reflechit",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/openai-300x321.png?resize=300,300&key=951c3910",
         "date": "Wed, 05 Mar 2025 23:00:00 GMT",
@@ -152,5 +152,12 @@
         "image": "",
         "date": "Thu, 06 Mar 2025 22:10:50 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/07/human-plus-ai-redefining-work-in-the-age-of-collaborative-intelligence/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ca908fb0a2831a65a9ce3e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 06:24:00 GMT",
+        "check": "no"
     }
 ]
