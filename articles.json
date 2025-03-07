@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Un abonnement ChatGPT à plus de 20 000 € par mois, ça vous tente ? OpenAI y réfléchit",
+        "title": "Un abonnement ChatGPT \u00e0 plus de 20 000 \u20ac par mois, \u00e7a vous tente ? OpenAI y r\u00e9fl\u00e9chit",
         "link": "https://www.frandroid.com/culture-tech/2531993_un-abonnement-chatgpt-a-plus-de-20-000-e-par-mois-ca-vous-tente-openai-y-reflechit",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/openai-300x321.png?resize=300,300&key=951c3910",
         "date": "Wed, 05 Mar 2025 23:00:00 GMT",
@@ -152,5 +152,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ca908fb0a2831a65a9ce3e/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 07 Mar 2025 06:24:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/microsoft/2533985_microsoft-copilot-offre-la-meilleure-version-de-chatgpt-a-ses-utilisateurs",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=057885c9",
+        "date": "Thu, 06 Mar 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/621252/meta-ai-chatbot-standalone-app",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/WA_META_AI_HOME_SCREEN_WIDGET_FEATURE_ANDROID.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 07 Mar 2025 10:18:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/07/fiverrs-new-suite-of-ai-tools-could-reshape-the-freelance-economy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cabddc5c4d9e22463d088d/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
