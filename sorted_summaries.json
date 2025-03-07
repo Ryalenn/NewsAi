@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : innovations et investissements",
+        "link": "https://www.forbes.com/sites/charliefink/2025/03/06/google-disrupts-itself-peer-metaverse-raises-65-million-mwc-wrap-up/?ss=ai",
+        "body": "L'article passe en revue les dernières avancées dans le domaine de l'IA, avec un focus particulier sur les lunettes intelligentes, les assistants personnels et les applications dans le domaine du jeu et du divertissement. Google lance un nouveau service de recherche qui fournit des réponses plutôt que des liens, remettant en question la valeur des clics et des liens dans un monde dominé par l'IA. Les lunettes intelligentes, comme celles de Meta, Ray-Ban et TCL, offrent des fonctionnalités de traduction en temps réel et une communication mains libres. Honor investit 10 milliards de dollars sur 5 ans dans les appareils intelligents, avec un focus sur l'IA. Peer et Welevel lèvent des fonds pour développer des plateformes métaversielles alimentées par l'IA, tandis que Dubformer et Noctal innovent dans le doublage et la conception sonore grâce à l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ca1fd6b8897cf0a4795020/0x0.jpg?format=jpg&crop=1696,954,x0,y23,safe&width=440",
+        "date": "Thu, 06 Mar 2025 22:36:00 GMT"
+    },
+    {
         "title": "Sesame, un tournant pour l'IA conversationnelle",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/06/sesame-and-the-promise-of-real-ai-voice/?ss=ai",
         "body": "Un nouveau modèle vocal, Sesame, est présenté comme un tournant dans l'IA conversationnelle, rappelant le film \"Her\" avec Joaquin Phoenix et la voix de Scarlett Johansson. Nathaniel Whittemore de AI Daily Brief souligne l'explosion des modèles vocaux et la petite taille de Sesame (1 milliard de paramètres), avec des modèles plus grands en développement. La démonstration d'Ethan Mollick, un expert en analyse de l'IA, met en évidence la réponse intrigante de l'IA à une question sur son métier. L'échange révèle une réponse réfléchie et une conscience de sa propre nature non humaine. Les utilisateurs sont impressionnés par le naturel de la voix et la rapidité des réponses, certains la préférant même à un psychologue ou à un professeur d'anglais. Olivia Moore de a16z mentionne également des applications potentielles en ressources humaines et en recrutement. La technologie peut être associée à des lunettes pour une interaction continue avec l'IA. L'article soulève des questions sur l'impact de ces avancées et invite les lecteurs à essayer la démonstration.",
@@ -159,40 +166,5 @@
         "body": "Le TAKE IT DOWN Act, une loi visant à protéger les victimes d'abus d'images intimes non consensuelles, y compris les deepfakes, a été adopté à l'unanimité par le Sénat américain. La loi criminalise la publication d'images intimes non consensuelles (NCII), y compris celles générées par l'IA, et exige que les médias sociaux et les sites Web similaires mettent en place des procédures pour supprimer ce contenu dans les 48 heures suivant la notification de la victime. La loi a reçu le soutien de diverses organisations, notamment des groupes de défense des victimes, des forces de l'ordre et des leaders de l'industrie technologique. La loi donne aux victimes les moyens de se défendre et de reprendre le contrôle de leur vie privée et de leur dignité, tout en tenant les auteurs responsables pénalement.",
         "image": "",
         "date": "Wed, 05 Mar 2025 03:22:00 GMT"
-    },
-    {
-        "title": "Google lance son mode IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2531787_google-lance-son-mode-ia-la-fin-des-moteurs-de-recherche-classiques-est-proche",
-        "body": "Google annonce une mise à jour majeure de son moteur de recherche grâce à l'IA. Baptisée Gemini 2.0, cette nouvelle version introduit un \"mode IA\" expérimental qui vise à révolutionner la recherche d'informations en ligne. Ce mode repose sur des \"aperçus IA\", des résumés générés par l'IA et présentés en haut des résultats de recherche. Ces aperçus sont désormais capables de gérer des requêtes plus complexes, telles que des questions sur le codage ou les mathématiques avancées. L'IA lance plusieurs recherches en parallèle, assemble les informations et fournit une réponse claire et centralisée, y compris avec des tableaux et des liens pertinents. Ce virage stratégique de Google est une réponse à la concurrence croissante de moteurs de recherche basés sur l'IA, comme ChatGPT Search et Perplexity, qui offrent des réponses directes générées par des LLM. La mise à jour soulève des inquiétudes quant à l'impact potentiel sur le trafic des sites web, mais Google affirme que la découverte de contenu web reste une priorité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-7-15-1200x797-1-768x510.jpg?resize=199,199&key=7c04cf64",
-        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'assistant IA d'Orange",
-        "link": "https://www.frandroid.com/marques/orange/2531035_la-box-internet-du-futur-orange-devoile-lavenir-de-ses-abonnements-livebox-avec-chatgpt-integre",
-        "body": "Orange a présenté un prototype d'assistant vocal basé sur ChatGPT et intégré à un décodeur TV. Les utilisateurs pourront effectuer des recherches, lancer des chaînes, ajuster le volume et poser diverses questions. L'assistant sera également capable d'interagir avec des plateformes de SVoD et des écosystèmes domotiques. Orange envisage d'offrir le choix entre différents modèles de langage, tels que Mistral ou Perplexity. Bien que cette fonctionnalité soit encore au stade de concept, elle pourrait être intégrée aux futures Livebox Wi-Fi 7.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/livebox-7-768x512.jpeg?resize=200,200&key=82206e23",
-        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Pixel Sense",
-        "link": "https://www.frandroid.com/marques/google/2530505_google-va-lancer-pixel-sense-un-tout-nouvel-assistant-ia-revolutionnaire-pour-les-pixel-10",
-        "body": "Google s'apprête à lancer Pixel Sense, un assistant IA évolué pour ses futurs smartphones Pixel 10. Pixel Sense, évolution du projet 'Pixie', offrira une expérience hautement personnalisée en s'adaptant aux habitudes et centres d'intérêt de l'utilisateur. Fonctionnant entièrement sur l'appareil, il garantit la confidentialité des données en empêchant même Google d'y accéder. Pixel Sense se distingue par son intégration profonde avec les applications Google, lui permettant de fournir des suggestions prédictives et d'apprendre des routines quotidiennes. Il peut traiter divers types de fichiers, y compris le texte, les images et le contenu généré par l'IA. La capacité de Pixel Sense à analyser les captures d'écran pour en extraire les métadonnées est particulièrement intéressante. Bien que les détails de son fonctionnement restent à découvrir, cette nouvelle technologie pourrait redéfinir l'interaction avec les futurs smartphones Pixel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-pro-15-1200x802-1-768x513.jpg?resize=201,201&key=c455a33b",
-        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'iPad 11, un pas en arrière pour l'IA d'Apple",
-        "link": "https://www.frandroid.com/marques/apple/2530249_ipad-11-pourquoi-la-nouvelle-tablette-nest-pas-compatible-avec-apple-intelligence",
-        "body": "L'iPad 11, annoncé discrètement par Apple, ne prend pas en charge les fonctionnalités d'IA de la marque. Cette décision s'explique par des limitations techniques et économiques : la puce A16 n'est pas compatible avec la suite logicielle IA d'Apple et la quantité de RAM disponible est insuffisante. Apple a choisi de se concentrer sur le prix plancher de la tablette, mais cela crée une incohérence dans sa stratégie marketing, l'iPad 11 étant désormais un citoyen de seconde zone au sein du catalogue Apple. Avec l'IA générative et les modèles complexes qui se développent, l'iPad 11 risque d'être rapidement dépassé.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/capture-decran-du-2025-03-05-08-40-29-1200x540-1-768x346.jpg?resize=300,300&key=18425679",
-        "date": "Tue, 04 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'impact de ChatGPT sur l'industrie des semi-conducteurs",
-        "link": "https://www.forbes.com/sites/karlfreund/2025/03/04/openais-deep-research--answers-to-deep-seek-impact-and-mine/?ss=ai",
-        "body": "L'article explore l'impact potentiel de ChatGPT, et plus précisément de son modèle de raisonnement Deep Seek, sur l'industrie des semi-conducteurs, en particulier sur Nvidia et ses concurrents AMD et les fournisseurs de cloud. L'auteur compare les affirmations de Jensen Huang, PDG de Nvidia, selon qui les tâches d'inférence nécessiteront 100 fois plus de puissance de calcul, avec l'opinion d'un investisseur selon qui Deep Seek rendrait obsolètes les processeurs Nvidia H100 et Blackwell. En utilisant l'outil de recherche approfondie de ChatGPT, l'auteur a demandé une analyse de l'impact de Deep Seek sur le marché des semi-conducteurs sur une période de 1 à 3 ans, en se concentrant sur la croissance de l'inférence par rapport à l'entraînement des modèles. La réponse détaillée de ChatGPT, basée sur 42 sources et 6 minutes de réflexion, a produit un rapport de 13 pages, publié sur le site Web de l'auteur, soulignant la valeur des modèles de raisonnement et suggérant une augmentation significative de la demande de puissance de calcul, malgré la réduction des coûts d'entraînement. L'auteur conclut que l'outil de recherche approfondie de ChatGPT est un outil de recherche puissant, capable de fournir des informations précieuses et de concurrencer les analystes humains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c748e1da6a2a8e65cab391/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 04 Mar 2025 22:00:00 GMT"
     }
 ]
