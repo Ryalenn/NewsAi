@@ -1,5 +1,26 @@
 [
     {
+        "title": "Une IA inclusive",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/07/empowering-women-in-a-hybrid-world-4-moves-to-drive--innovation/?ss=ai",
+        "body": "À l'occasion de la Journée internationale des droits des femmes 2025, l'article souligne l'importance de la diversité et de l'inclusion dans le domaine de l'IA, en particulier en ce qui concerne la représentation des femmes. Il met en évidence le fait que, malgré les progrès réalisés en matière de droits des femmes, il reste encore beaucoup à faire, notamment dans des domaines tels que l'IA et la science des données. L'article suggère que la fusion de l'intelligence naturelle et artificielle, ou l'intelligence hybride, pourrait être la clé pour accroître la participation des femmes et briser les barrières structurelles. L'intelligence hybride met l'accent sur l'interconnexion systématique entre les capacités cognitives innées des humains et la puissance algorithmique de l'IA. Les femmes, avec leurs compétences en matière de gestion de la complexité et leur vision holistique, peuvent contribuer à catalyser des transformations sociales bénéfiques pour tous. L'article fournit des exemples de startups dirigées par des femmes qui créent des systèmes d'IA dans les domaines des soins de santé, de l'éducation et de la finance, démontrant ainsi l'impact positif de l'inclusion des femmes. Pour réaliser pleinement le potentiel de l'intelligence hybride et offrir aux femmes la place qu'elles méritent, des changements structurels et culturels sont nécessaires, notamment le mentorat, les interventions politiques et la promotion de la littératie algorithmique et humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb2d7a934017581808edff/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 17:37:00 GMT"
+    },
+    {
+        "title": "Gemini, le nouveau chatbot de Google",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/07/googles-gemini-ai-could-soon-gain-full-access-to-your-search-history/?ss=ai",
+        "body": "Google développe un nouveau modèle expérimental de personnalisation pour son chatbot Gemini, qui pourra accéder à l'historique de recherche de l'utilisateur pour fournir des réponses plus personnalisées. Cette fonctionnalité, qui n'est pas encore disponible pour le grand public, a été découverte lors d'une enquête d'Android Authority. Le modèle de personnalisation diffère des autres chatbots de Gemini en demandant la permission d'accéder à l'historique de recherche de l'utilisateur avant de commencer. Les utilisateurs devront également activer le paramètre \"Web & App Activity\" pour que le chatbot fonctionne. Une fois l'accès accordé, les utilisateurs pourront poser des questions basées sur leur historique de recherche Google. Bien que les exemples de questions de base soient assez simples, la véritable valeur de cette fonctionnalité réside dans la possibilité de poser des questions plus complexes et personnelles. Cependant, des préoccupations en matière de confidentialité ont été soulevées, car les historiques de recherche contiennent des informations sensibles. Google a pris des mesures pour répondre à ces préoccupations, en offrant aux utilisateurs la possibilité de déconnecter leur historique de recherche de Gemini et en assurant que les conversations avec ce modèle ne sont pas utilisées pour améliorer Gemini ni stockées en dehors de l'historique de conversation de l'utilisateur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb192c35031b1b17aadf92/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'IA réduit sa consommation énergétique",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/03/07/the-prototype-spacex-starship-test-ends-in-an-explosion-again/?ss=ai",
+        "body": "Bien que l'IA ait connu une croissance rapide ces dernières années, sa consommation énergétique élevée est un problème majeur. Des chercheurs de l'Université technique de Munich ont développé une nouvelle approche mathématique pour l'entraînement des réseaux neuronaux, qui réduit considérablement la consommation d'énergie tout en conservant une précision similaire. Cette découverte est importante car elle pourrait permettre de rendre l'IA plus accessible et durable, tout en réduisant son impact environnemental. De plus, cette approche mathématique pourrait également accélérer le processus d'entraînement, le rendant 100 fois plus rapide que les méthodes actuelles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb07085ed9e426504c0e13/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 15:00:00 GMT"
+    },
+    {
         "title": "La révolution des taxis robots",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/03/07/robotaxis-mostly-waymo-are-giving-13-million-ridesmonth--why/?ss=ai",
         "body": "Waymo, l'unité de conduite autonome d'Alphabet, offre désormais 200 000 courses de taxi autonomes par semaine sans conducteur de sécurité. Ils ne sont pas seuls sur ce marché, avec des startups comme May Mobility et des entreprises chinoises comme Baidu Apollo, Pony.AI et AutoX offrant également des services similaires. Ensemble, ces entreprises fournissent environ 1,3 million de trajets par mois dans des robotaxis sans conducteur de sécurité. L'objectif ultime est de remplacer l'industrie du transport terrestre, qui génère actuellement environ 5 billions de dollars de revenus dans le monde. Les entreprises visent à contrôler l'écosystème de la mobilité, en fournissant non seulement des courses, mais également des services connexes tels que l'entretien, l'assurance et le carburant. Uber, bien qu'il soit un acteur important, risque d'être éclipsé par des entreprises comme Alphabet, qui ont les ressources pour dominer le marché. La révolution des taxis robots est en marche et elle pourrait remodeler fondamentalement l'industrie du transport et la façon dont nous vivons et travaillons.",
@@ -26,6 +47,13 @@
         "body": "Dans une ère où les percées en matière d'IA se produisent presque chaque semaine, Jim Wilson, directeur général mondial chez Accenture, explique pourquoi l'avenir appartient à ceux qui maîtrisent la collaboration homme-machine et pourquoi ce partenariat pourrait transformer 40 % des heures de travail dans tous les secteurs. Wilson, co-auteur du livre \"Human + Machine: Reimagining Work in the Age of AI\", offre une perspective optimiste sur l'IA, la considérant non pas comme une menace pour l'emploi, mais comme un outil de collaboration. Il met en évidence l'émergence d'une intelligence collaborative, où l'ingéniosité et l'innovation humaines sont combinées à la puissance de traitement de l'IA pour obtenir de meilleurs résultats que ce que chacun pourrait accomplir seul. Cette approche collaborative a des implications importantes, Accenture prédisant que l'IA transformera plus de 40 % des heures de travail dans tous les secteurs. Wilson souligne l'importance de repenser les rôles et les descriptions de poste, identifiant six catégories d'emplois essentielles et trois façons dont l'IA transforme les emplois existants. Il met également en évidence l'importance de développer des \"compétences de fusion\", telles que le \"jugement d'intégration\", pour évaluer avec succès les sorties de l'IA. Enfin, il souligne que la confiance sera le facteur limitant dans la réalisation des avantages potentiels de l'IA, soulignant le besoin de rôles tels que les ingénieurs en apprentissage automatique explicable.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ca908fb0a2831a65a9ce3e/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 07 Mar 2025 06:24:00 GMT"
+    },
+    {
+        "title": "Apple repousse le lancement de son nouvel assistant vocal Siri",
+        "link": "https://www.frandroid.com/os/ios/2535703_apple-repousse-son-siri-nouvelle-generation-la-grosse-mise-a-jour-est-retardee",
+        "body": "Apple a annoncé un retard dans la mise à jour très attendue de son assistant vocal Siri, qui devait initialement être lancée ce printemps. La nouvelle version, qui devrait offrir une expérience plus personnalisée et intelligente, sera intégrée à iOS 16.4, mais pas avant. Apple Intelligence, la plateforme d'IA d'Apple, est déjà disponible en version bêta publique en France, mais sans le nouveau Siri. Selon la porte-parole d'Apple, Jacqueline Roy, le développement de cette nouvelle version nécessite plus de temps que prévu. Les utilisateurs devront donc attendre un déploiement progressif au cours de l'année prochaine, voire jusqu'en 2026 selon certaines sources.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-7-29-1200x675-1-768x432.jpg?resize=169,169&key=961dee82",
+        "date": "Thu, 06 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft Copilot s'améliore",
@@ -70,6 +98,13 @@
         "date": "Thu, 06 Mar 2025 14:43:00 GMT"
     },
     {
+        "title": "DuckDuckGo intègre l'IA à son moteur de recherche",
+        "link": "https://www.theverge.com/news/624899/duckduckgo-ai-search-chatbot-plans#comments",
+        "body": "DuckDuckGo, entreprise axée sur la confidentialité, intègre désormais l'IA à son moteur de recherche. Les réponses générées par l'IA, qui s'appuyaient auparavant uniquement sur Wikipedia, intègrent désormais des informations provenant de l'ensemble du Web. L'entreprise prévoit également d'intégrer la recherche Web à son chatbot AI, Duck.ai, qui a également quitté la version bêta. Les utilisateurs peuvent choisir la fréquence à laquelle ils souhaitent voir les réponses assistées par l'IA, et peuvent même les désactiver complètement. Duck.ai permet aux utilisateurs d'interagir anonymement avec différents modèles d'IA, tout en garantissant que leurs données ne soient pas utilisées pour l'entraînement. De futures mises à jour de Duck.ai incluront la recherche Web, la voix et la possibilité de télécharger des images.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932932/acastro_STK117__02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 06 Mar 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'Amérique façonne l'IA",
         "link": "https://www.forbes.com/sites/richardnieva/2025/03/06/scale-ai-outlier-us/?ss=ai",
         "body": "L'article met en lumière le rôle crucial des travailleurs américains dans la formation des modèles d'IA, en particulier dans l'amélioration de l'IA générative. Scale, une entreprise de données d'IA, a lancé Outlier, une plateforme où les pigistes effectuent des tâches pour former des modèles d'IA pour des clients tels que Google, Meta et OpenAI. Les travailleurs américains représentent le segment de contributeurs à la croissance la plus rapide sur Outlier, et Scale met de plus en plus l'accent sur les États-Unis en tant que centre principal pour ces travailleurs. L'article aborde également la controverse entourant les conditions de travail des pigistes, y compris les poursuites pour mauvaises conditions de travail et vol de salaire.",
@@ -96,6 +131,13 @@
         "body": "Les entreprises d'IA cherchent à monétiser leurs modèles coûteux et puissants en les présentant comme des « agents » autonomes, capables de prendre des décisions et d'interagir avec leur environnement avec un minimum d'intervention humaine. Microsoft, Google, OpenAI et d'autres développent des agents IA pour automatiser diverses tâches, de l'assistance client à l'analyse de données. Malgré les défis techniques et les préoccupations éthiques, les startups d'agents IA attirent des milliards de dollars d'investissements, les entreprises espérant une révolution de la productivité et de l'efficacité. La promesse d'une IA véritablement partenaire, et non d'un simple outil, est séduisante, mais des questions subsistent quant à la fiabilité et à la responsabilité de ces agents dans des domaines à enjeux élevés comme le droit et la fiscalité.",
         "image": "",
         "date": "Thu, 06 Mar 2025 00:16:10 GMT"
+    },
+    {
+        "title": "Révolution logistique",
+        "link": "https://www.forbes.com/sites/dennismitzner/2025/03/06/ai-is-transforming-e-commerce-logistics-reducing-disruptions-and-building-trust/?ss=ai",
+        "body": "L'IA révolutionne la logistique du commerce électronique en prédisant et atténuant les perturbations de la chaîne d'approvisionnement, optimisant les itinéraires de transport et améliorant la visibilité. Walmart et FourKites utilisent l'IA pour rationaliser les négociations avec les fournisseurs et le suivi en temps réel. BGN utilise les données et l'IA pour anticiper les tendances du marché et sécuriser la chaîne d'approvisionnement. Silo AI et Gelato améliorent l'expérience client grâce au suivi en temps réel et à l'optimisation des itinéraires. L'automatisation et la robotique renforcent la gestion des stocks, GelatoConnect équilibrant les niveaux de stock et améliorant la productivité de l'entrepôt. Les simulations basées sur l'IA prédisent les risques et optimisent les stratégies logistiques, Amazon et DHL utilisant l'IA pour la planification dynamique des itinéraires et la gestion des stocks. Les services de suivi des expéditions, tels qu'AfterShip, améliorent la transparence et la satisfaction des clients. L'adoption de l'IA dans la logistique est essentielle pour maintenir l'efficacité et répondre aux attentes des clients en matière de rapidité et de fiabilité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c554ad02a7810b043edea5/0x0.jpg?format=jpg&crop=3737,2100,x0,y193,safe&width=440",
+        "date": "Thu, 06 Mar 2025 00:00:00 GMT"
     },
     {
         "title": "Amazon Prime Video utilise l'IA pour le doublage",
@@ -126,17 +168,10 @@
         "date": "Wed, 05 Mar 2025 20:39:00 GMT"
     },
     {
-        "title": "La manipulation de l'IA pour promouvoir des escroqueries",
-        "link": "https://www.engadget.com/social-media/facebook-scammers-want-you-to-think-elon-musk-can-cure-diabetes-153042842.html",
-        "body": "Des publicités sur Facebook utilisent des deepfakes d'Elon Musk et de personnalités de Fox News pour promouvoir des suppléments non testés. Ces publicités, qui circulent depuis des semaines, font partie d'une escroquerie plus vaste qui utilise l'IA pour manipuler des vidéos et de l'audio afin de vendre des produits non approuvés. Bien que Meta ait supprimé de nombreuses publicités, les pages Facebook derrière elles restent actives et continuent de publier de nouvelles versions, violant les politiques de Meta sur la désinformation médicale et la divulgation de l'utilisation de l'IA. Les escroqueries impliquent souvent des célébrités et des personnalités publiques, et cette fois-ci, Elon Musk et d'autres figures notables ont été ciblées. Les publicités dirigent les utilisateurs vers des sites Web qui imitent les sites d'actualités grand public, où des vidéos manipulées par l'IA présentent des personnalités des médias câblés faisant la promotion de suppléments non testés. Bien que l'efficacité de ces escroqueries soit inconnue, certains indices suggèrent qu'elles ont convaincu certaines personnes d'acheter les produits.",
-        "image": "",
-        "date": "Wed, 05 Mar 2025 17:10:42 GMT"
-    },
-    {
-        "title": "Google lance de nouvelles fonctionnalités d'achat en ligne basées sur l'IA",
-        "link": "https://www.theverge.com/2023/11/16/23963583/google-search-generative-experience-shopping-ai-images",
-        "body": "Google lance de nouvelles fonctionnalités d'achat basées sur l'IA pour aider les utilisateurs à trouver des produits uniques ou de niche. L'expérience de recherche générative (SGE) de Google utilise l'IA pour suggérer des idées de cadeaux et des articles de mode, et permet aux utilisateurs de trouver des produits correspondant à une description textuelle. La fonctionnalité SGE propose des sous-catégories et des liens vers du contenu utile lors de la recherche d'idées de cadeaux. Par exemple, la recherche de « super cadeaux pour les cuisiniers à domicile » suggère des sous-catégories comme des outils spécialisés, des ingrédients artisanaux et des cours de cuisine. Les utilisateurs peuvent ensuite explorer des options d'achat dans ces sous-catégories. De plus, SGE peut générer des images photoréalistes basées sur une description textuelle d'un vêtement, comme une « doudoune colorée et à motifs », et proposer des produits similaires à l'achat. Cette fonctionnalité sera disponible pour les utilisateurs de SGE aux États-Unis à partir de décembre. Enfin, Google étend son outil d'essayage virtuel basé sur l'IA aux hauts pour hommes, permettant aux utilisateurs de visualiser des vêtements sur 40 modèles différents.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/google-ar-beauty.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 05 Mar 2025 16:00:51 GMT"
+        "title": "Apple Intelligence",
+        "link": "https://www.theverge.com/24246632/apple-intelligence-ios-18-ipad-os-18-macos-sequoia-iphone-16",
+        "body": "Apple a sorti iOS 18, apportant plusieurs mises à jour clés, notamment la suite Apple Intelligence, qui comprend la génération d'images, la création d'emojis personnalisés \"Genmoji\" et l'intégration de ChatGPT. Les fonctionnalités d'Apple Intelligence sont disponibles sur les appareils prenant en charge Apple Intelligence, tels que l'iPhone 15 Pro et les iPad et Macs avec la puce M1. La mise à jour iOS 18.3.1 corrige également une faille de sécurité, tandis que iOS 18.3 apporte des changements aux résumés de notifications. De plus, Apple Intelligence est désormais disponible en Europe et la société cherche à obtenir l'approbation des régulateurs chinois pour ses fonctionnalités co-développées avec Alibaba.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 05 Mar 2025 20:22:35 GMT"
     }
 ]
