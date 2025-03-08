@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : un jeu d'équilibre géopolitique et humain",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/07/uruguay-loves-audio-more-on-ai-habits-and-advantages-around-the-world/?ss=ai",
+        "body": "L'article explore les implications géopolitiques du développement de l'IA et son impact potentiel sur les économies et les sociétés du monde entier. Il met en évidence l'intérêt croissant pour l'IA dans différents pays, avec des exemples spécifiques de domaines tels que l'audio, les images et la vidéo. Les intervenants discutent de l'émergence de nouvelles formes de capital et des défis liés à l'intégration de l'IA dans les communautés et les entreprises. Ils soulignent l'importance de l'IA décentralisée et de la responsabilisation des agents IA. L'article conclut sur l'idée que l'IA devrait finalement permettre de créer un terrain de jeu équitable et de libérer le potentiel humain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb7f99b5f8e28190aa46e5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 07 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "Une IA inclusive",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/03/07/empowering-women-in-a-hybrid-world-4-moves-to-drive--innovation/?ss=ai",
         "body": "À l'occasion de la Journée internationale des droits des femmes 2025, l'article souligne l'importance de la diversité et de l'inclusion dans le domaine de l'IA, en particulier en ce qui concerne la représentation des femmes. Il met en évidence le fait que, malgré les progrès réalisés en matière de droits des femmes, il reste encore beaucoup à faire, notamment dans des domaines tels que l'IA et la science des données. L'article suggère que la fusion de l'intelligence naturelle et artificielle, ou l'intelligence hybride, pourrait être la clé pour accroître la participation des femmes et briser les barrières structurelles. L'intelligence hybride met l'accent sur l'interconnexion systématique entre les capacités cognitives innées des humains et la puissance algorithmique de l'IA. Les femmes, avec leurs compétences en matière de gestion de la complexité et leur vision holistique, peuvent contribuer à catalyser des transformations sociales bénéfiques pour tous. L'article fournit des exemples de startups dirigées par des femmes qui créent des systèmes d'IA dans les domaines des soins de santé, de l'éducation et de la finance, démontrant ainsi l'impact positif de l'inclusion des femmes. Pour réaliser pleinement le potentiel de l'intelligence hybride et offrir aux femmes la place qu'elles méritent, des changements structurels et culturels sont nécessaires, notamment le mentorat, les interventions politiques et la promotion de la littératie algorithmique et humaine.",
@@ -131,33 +138,5 @@
         "body": "Une nouvelle technique de prompt engineering, appelée atom-of-thoughts (AtT), est présentée comme un dérivé de la méthode chain-of-thought (CoT). AtT divise le processus de résolution de problèmes en étapes élémentaires indépendantes, qui sont ensuite résolues séparément et réunies pour obtenir une réponse finale. Cette approche peut potentiellement accélérer le traitement en parallèle et réduire les hallucinations de l'IA. Bien qu'AtT ne soit pas une solution universelle, elle est particulièrement utile pour les problèmes complexes et structurés, tels que la dérivation de preuves mathématiques et la production de code informatique. Les utilisateurs doivent expérimenter AtT sur différents problèmes pour déterminer son efficacité et savoir quand l'utiliser.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c9171fb1375cf38253fda1/0x0.jpg?format=jpg&crop=1662,1246,x3,y0,safe&width=440",
         "date": "Thu, 06 Mar 2025 06:00:00 GMT"
-    },
-    {
-        "title": "La révolution des agents IA",
-        "link": "https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots",
-        "body": "Les entreprises d'IA cherchent à monétiser leurs modèles coûteux et puissants en les présentant comme des « agents » autonomes, capables de prendre des décisions et d'interagir avec leur environnement avec un minimum d'intervention humaine. Microsoft, Google, OpenAI et d'autres développent des agents IA pour automatiser diverses tâches, de l'assistance client à l'analyse de données. Malgré les défis techniques et les préoccupations éthiques, les startups d'agents IA attirent des milliards de dollars d'investissements, les entreprises espérant une révolution de la productivité et de l'efficacité. La promesse d'une IA véritablement partenaire, et non d'un simple outil, est séduisante, mais des questions subsistent quant à la fiabilité et à la responsabilité de ces agents dans des domaines à enjeux élevés comme le droit et la fiscalité.",
-        "image": "",
-        "date": "Thu, 06 Mar 2025 00:16:10 GMT"
-    },
-    {
-        "title": "Révolution logistique",
-        "link": "https://www.forbes.com/sites/dennismitzner/2025/03/06/ai-is-transforming-e-commerce-logistics-reducing-disruptions-and-building-trust/?ss=ai",
-        "body": "L'IA révolutionne la logistique du commerce électronique en prédisant et atténuant les perturbations de la chaîne d'approvisionnement, optimisant les itinéraires de transport et améliorant la visibilité. Walmart et FourKites utilisent l'IA pour rationaliser les négociations avec les fournisseurs et le suivi en temps réel. BGN utilise les données et l'IA pour anticiper les tendances du marché et sécuriser la chaîne d'approvisionnement. Silo AI et Gelato améliorent l'expérience client grâce au suivi en temps réel et à l'optimisation des itinéraires. L'automatisation et la robotique renforcent la gestion des stocks, GelatoConnect équilibrant les niveaux de stock et améliorant la productivité de l'entrepôt. Les simulations basées sur l'IA prédisent les risques et optimisent les stratégies logistiques, Amazon et DHL utilisant l'IA pour la planification dynamique des itinéraires et la gestion des stocks. Les services de suivi des expéditions, tels qu'AfterShip, améliorent la transparence et la satisfaction des clients. L'adoption de l'IA dans la logistique est essentielle pour maintenir l'efficacité et répondre aux attentes des clients en matière de rapidité et de fiabilité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c554ad02a7810b043edea5/0x0.jpg?format=jpg&crop=3737,2100,x0,y193,safe&width=440",
-        "date": "Thu, 06 Mar 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Amazon Prime Video utilise l'IA pour le doublage",
-        "link": "https://www.frandroid.com/marques/2532159_amazon-lance-un-programme-de-doublage-par-ia-pour-prime-video",
-        "body": "Amazon Prime Video utilise l'IA pour doubler des films et séries sous licence en anglais et en espagnol latino-américain. Cette expérimentation concerne 12 titres, dont El Cid : La Leyenda, Mi Mamá Lora et Long Lost. Amazon précise que des professionnels travailleront avec l'IA pour assurer la qualité du doublage. Cette initiative vise à rendre sa bibliothèque de streaming plus accessible, mais a suscité des protestations de la part de syndicats d'acteurs en 2024.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/telechargement-1200x675-1-768x432.jpeg?resize=169,169&key=9e80c3c0",
-        "date": "Wed, 05 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La monétisation de l'IA conversationnelle",
-        "link": "https://www.frandroid.com/culture-tech/2531993_un-abonnement-chatgpt-a-plus-de-20-000-e-par-mois-ca-vous-tente-openai-y-reflechit",
-        "body": "OpenAI, la société derrière ChatGPT, envisage de nouvelles formules d'abonnement coûteuses pour monétiser sa technologie d'IA conversationnelle. Les prix varient de 2000 à 20 000 dollars par mois, en fonction des capacités et des cas d'utilisation spécifiques. Ces \"agents\" d'IA sont conçus pour effectuer des tâches à la place de l'utilisateur et sont destinés à des professionnels dans des domaines spécialisés. Malgré l'abonnement Pro existant à 200 euros par mois, OpenAI cherche à augmenter ses revenus pour devenir rentable, après des pertes estimées à 5 milliards de dollars en 2024. La société prévoit que 20 à 25 % de ses revenus proviendront de ces agents d'IA. De plus, OpenAI envisage de facturer les gros utilisateurs de ChatGPT en fonction du volume de leurs requêtes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/openai-300x321.png?resize=300,300&key=951c3910",
-        "date": "Wed, 05 Mar 2025 23:00:00 GMT"
     }
 ]
