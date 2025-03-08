@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple repousse son Siri nouvelle génération, la grosse mise à jour est retardée",
+        "title": "Apple repousse son Siri nouvelle g\u00e9n\u00e9ration, la grosse mise \u00e0 jour est retard\u00e9e",
         "link": "https://www.frandroid.com/os/ios/2535703_apple-repousse-son-siri-nouvelle-generation-la-grosse-mise-a-jour-est-retardee",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-7-29-1200x675-1-768x432.jpg?resize=169,169&key=961dee82",
         "date": "Thu, 06 Mar 2025 23:00:00 GMT",
@@ -110,5 +110,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cb6c53c85585024f762f6c/0x0.jpg?format=jpg&crop=1891,1064,x0,y97,safe&width=440",
         "date": "Sat, 08 Mar 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/03/08/the-curious-case-of-chinas-chip-surplus/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ccab67305ddd005ba9636b/0x0.jpg?format=jpg&crop=1382,648,x0,y135,safe&width=440",
+        "date": "Sat, 08 Mar 2025 20:56:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cca5c3461df429b5111bfb/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 08 Mar 2025 20:28:00 GMT",
+        "check": "no"
     }
 ]
