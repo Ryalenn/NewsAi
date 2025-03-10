@@ -54,5 +54,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cddb0a3e586839f22da345/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 09 Mar 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/09/how-to-get-comfortable-with-ai-conversation-with-andrew-ng/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ce06dd768892ed6a32af70/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 09 Mar 2025 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/09/ai-around-the-world--tsmc-pumps-more-money-into-us-operations/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ce066fe4f5aba8e38f0e3d/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 09 Mar 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
