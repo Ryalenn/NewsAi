@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir du journalisme selon le PDG de Dow Jones",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/626229/dow-jones-ceo-almar-latour-wsj-interview-ai-journalism#comments",
+        "body": "Almar Latour, PDG de Dow Jones et éditeur du Wall Street Journal, partage sa vision de l'avenir du journalisme et du rôle de l'IA dans ce domaine. Il souligne l'importance de l'information exclusive et de l'analyse approfondie, et décrit la stratégie de Dow Jones pour offrir des informations précises et fiables à ses lecteurs. Latour aborde également les défis auxquels sont confrontés les médias, notamment la concurrence des plateformes gratuites et les luttes pour les droits d'auteur et la liberté de la presse. Il discute de l'utilisation de l'IA dans les produits de données de Dow Jones et de la nécessité de reconnaître la valeur de l'information générée par l'IA. Enfin, il souligne l'importance de la liberté de la presse et de l'adhésion aux principes journalistiques dans un environnement médiatique de plus en plus polarisé.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB340_GOOGLE_CALENDAR_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Mar 2025 18:41:27 GMT"
+    },
+    {
+        "title": "La montée de l'IA chinoise",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/03/10/overhyped-manus-from-monicaai-made-in-china/?ss=ai",
+        "body": "Bien que l'IA chinoise fasse beaucoup parler d'elle, Manus AI, la dernière innovation en date, n'apporte rien de nouveau. À l'inverse de DeepSeek, qui a introduit des avancées significatives, Manus ne propose aucune fonctionnalité révolutionnaire et n'est qu'un autre modèle linguistique de grande taille exécutant des flux de travail scriptés. L'auteur souligne que les entreprises qui se concentrent sur des applications spécifiques à un domaine et qui intègrent efficacement l'IA dans des flux de travail structurés et bien définis créeront une réelle valeur. La réduction de la complexité et la limitation de l'utilisation à des cas spécifiques permettent à l'IA de fonctionner efficacement. L'auteur prédit que les entreprises qui affineront les flux de travail, intégreront efficacement l'IA et maintiendront l'implication humaine définiront l'industrie, tandis que celles qui se concentrent sur le marketing tapageur seront laissées pour compte.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf2c03a2de17f48d88a5ab/0x0.jpg?format=jpg&crop=2333,1093,x0,y213,safe&width=440",
+        "date": "Mon, 10 Mar 2025 18:00:00 GMT"
+    },
+    {
         "title": "La quête de l'AGI : interroger l'indiscutable et penser en dehors du cadre",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/10/the-einstein-of-llms/?ss=ai",
         "body": "L'article explore les débats actuels sur l'intelligence artificielle générale (AGI) et les caractéristiques nécessaires pour atteindre ce niveau d'avancement. Il cite l'essai de Thomas Wolf, qui suggère que la véritable AGI nécessite une capacité à remettre en question les idées reçues et à penser en dehors du cadre établi, à l'instar des grands esprits révolutionnaires de l'histoire, tels qu'Einstein et Copernic. Wolf affirme que les systèmes actuels d'IA sont comme de \"très bons étudiants\", mais qu'ils manquent de la curiosité et de l'audace nécessaires pour remettre en question les connaissances établies et faire des découvertes révolutionnaires. Nathaniel Whittemore, dans le podcast AI Daily Brief, partage une expérience personnelle qui souligne l'importance de la curiosité et de la volonté de travailler dur pour réussir. L'article conclut en soulignant l'importance de la collaboration et de l'interconnexion entre les agents d'IA, reflétant la complexité du cerveau humain, pour atteindre une véritable AGI.",
@@ -117,19 +131,5 @@
         "body": "Apple a annoncé un retard dans le déploiement de fonctionnalités Siri plus personnalisées, qui devaient initialement sortir au printemps. La société a déclaré que ces fonctionnalités, qui incluent une meilleure compréhension du contexte personnel de l'utilisateur et la capacité d'agir en conséquence, nécessitent plus de temps de développement. Les dirigeants d'Apple, dont Craig Federighi, ont exprimé des préoccupations quant au fonctionnement de ces fonctionnalités, et il est possible que le travail doive être repris à zéro. La sortie d'une version Siri modernisée et conversationnelle pourrait être repoussée jusqu'à iOS 20 au plus tôt.",
         "image": "",
         "date": "Sun, 09 Mar 2025 13:54:25 GMT"
-    },
-    {
-        "title": "La ruée vers l'or de l'IA",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/03/08/the-curious-case-of-chinas-chip-surplus/?ss=ai",
-        "body": "En 2024, la Chine a connu une situation complexe en matière de puces d'IA : une surcapacité dans certains domaines, tout en faisant face à des pénuries de puissance de calcul de haute qualité nécessaire au développement avancé de l'IA. Cette contradiction n'est pas simplement un problème technique ou une conséquence des manœuvres géopolitiques, mais plutôt une histoire profondément humaine d'ambition, d'improvisation et des conséquences imprévues d'une ruée vers l'or. Les entreprises et le gouvernement chinois ont réagi aux restrictions américaines en stockant des puces Nvidia, en construisant des centres de données et en créant des grappes informatiques massives. Cependant, cette ruée a conduit à une surabondance de \"calculs de faible qualité\", avec des puces réparties dans des centres de données de qualité variable et souvent peu demandés. La demande pour l'entraînement des modèles, une tâche très intensive en calcul, a chuté, tandis que la demande pour l'inférence, l'exécution des modèles sur des données formées, a augmenté. De plus, le phénomène des grappes \"fausses\" et \"pseudo\" a ajouté à la complexité, avec des entreprises achetant suffisamment de GPU pour former un grand centre informatique, mais les déployant dans plusieurs petits centres de données déconnectés. Le gouvernement chinois a réagi en restreignant la construction de nouveaux centres de données et en encourageant l'informatique en nuage. Bien que ces mesures puissent aider à corriger les déséquilibres, la question reste de savoir si cela aura un impact à long terme sur le développement de l'IA en Chine. La surcapacité d'aujourd'hui pourrait être la base des percées de demain, et les entreprises qui s'adaptent en consolidant les ressources informatiques, en passant à l'inférence et en affinant leurs stratégies de déploiement, émergeront plus fortes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ccab67305ddd005ba9636b/0x0.jpg?format=jpg&crop=1382,648,x0,y135,safe&width=440",
-        "date": "Sat, 08 Mar 2025 20:56:00 GMT"
-    },
-    {
-        "title": "L'aube d'une nouvelle ère : l'avènement des agents IA autonomes",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cca5c3461df429b5111bfb/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 08 Mar 2025 20:28:00 GMT"
     }
 ]
