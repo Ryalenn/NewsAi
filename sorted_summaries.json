@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gemini, le nouveau chatbot de Google",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/10/googles-gemini-ai-could-soon-gain-full-access-to-your-search-history/?ss=ai",
+        "body": "Google développe un nouveau modèle expérimental de personnalisation pour son chatbot Gemini, qui permettra à celui-ci d'accéder à l'historique de recherche de l'utilisateur afin de fournir des réponses plus personnalisées. Cette fonctionnalité, qui sera disponible sur les smartphones Android, demandera la permission de l'utilisateur avant d'accéder à son historique de recherche. Gemini pourra ensuite répondre à des questions sur l'historique de recherche, telles que \"Montre-moi mon historique de recherche\" ou \"Quand ai-je recherché sur Gemini ?\". L'auteur suggère que Gemini pourrait également être capable de répondre à des questions plus complexes, telles que \"Que penserait mon thérapeute de mon historique de recherche ?\". Bien que Google ait pris des mesures pour protéger la vie privée des utilisateurs, des inquiétudes subsistent quant à la possibilité d'une utilisation abusive des informations personnelles. De plus, Google teste actuellement l'intégration de Gemini avec Google Calendar, ce qui permettrait au chatbot d'aider les utilisateurs à gérer leur calendrier et à effectuer des tâches connexes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb192c35031b1b17aadf92/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Mar 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Améliorer l'efficacité des coachs grâce à l'automatisation de l'IA",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/03/10/ai-automations-for-coaches-5-simple-workflows-to-set-up-today/?ss=ai",
+        "body": "Résumé : \n\nL'article fournit cinq exemples d'automatisation de l'IA que les coachs peuvent mettre en place pour améliorer leur efficacité et développer leur activité sans sacrifier leur temps personnel. Le premier exemple est un workflow Zapier qui envoie automatiquement des e-mails de bienvenue, des formulaires d'inscription et des questionnaires aux nouveaux clients, et stocke leurs informations dans un CRM et Google Drive. Le deuxième exemple est un workflow qui extrait les données du système de suivi et fournit un résumé avant chaque session, garantissant ainsi que le coach est bien préparé. Le troisième exemple concerne l'automatisation de la collecte de témoignages en utilisant Zapier pour envoyer des demandes de témoignages à des étapes clés du parcours du client, puis ChatGPT pour résumer les réponses en citations percutantes. Le quatrième exemple consiste à enregistrer les sessions de coaching et à utiliser des outils de transcription de l'IA pour les transformer en contenu marketing authentique. Enfin, le cinquième exemple implique la création d'un tableau de bord qui agrège automatiquement les données des clients à partir de différentes sources, permettant ainsi au coach de surveiller leur progression et d'intervenir si nécessaire.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ce82b35ac8ff4d3305ca86/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Mar 2025 13:00:00 GMT"
+    },
+    {
         "title": "La manipulation des modèles d'IA par la propagande russe",
         "link": "https://www.forbes.com/sites/torconstantino/2025/03/10/russian-propaganda-has-now-infected-western-ai-chatbots---new-study/?ss=ai",
         "body": "Titre",
@@ -96,12 +110,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cca5c3461df429b5111bfb/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 08 Mar 2025 20:28:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA : un nouveau paradigme pour le talent et l'organisation",
-        "link": "https://www.forbes.com/sites/johnsviokla/2025/03/08/ai-agents-and-the-hybrid-organization-3-insights-from-microsoft/?ss=ai",
-        "body": "L'article de Christopher J. Fernandez, vice-président des ressources humaines chez Microsoft, offre un aperçu perspicace de l'avenir du travail, avec la convergence des travailleurs numériques et humains. L'auteur souligne l'importance du continuum de talents, où l'IA peut aider à combler les lacunes en matière de compétences et traduire les domaines de connaissances et les niveaux d'expertise, permettant ainsi une collaboration efficace entre experts et novices. L'IA permet également aux experts de créer leurs propres outils cognitifs, ce qui augmente la liquidité et l'évolutivité des connaissances au sein de l'organisation. Microsoft, en tant que leader dans l'adoption de l'IA, favorise un environnement organique où les connaissances et l'autorité peuvent être partagées naturellement, défiant ainsi la bureaucratie traditionnelle. L'auteur compare cette nouvelle dynamique à un jardin anglais florissant, où les dirigeants guident avec subtilité, encourageant les programmeurs citoyens à créer et partager leurs connaissances à travers l'organisation. Le défi consiste à exploiter le pouvoir des travailleurs numériques pour automatiser les tâches et favoriser l'émergence d'une nouvelle guilde cognitive, capable de créer et de partager de nouveaux outils et enseignements pour revitaliser les processus de création de valeur.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb6c53c85585024f762f6c/0x0.jpg?format=jpg&crop=1891,1064,x0,y97,safe&width=440",
-        "date": "Sat, 08 Mar 2025 14:00:00 GMT"
     }
 ]
