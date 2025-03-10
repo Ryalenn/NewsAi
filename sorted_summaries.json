@@ -1,5 +1,19 @@
 [
     {
+        "title": "La manipulation des modèles d'IA par la propagande russe",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/03/10/russian-propaganda-has-now-infected-western-ai-chatbots---new-study/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ce3b1ccbebd9631f78b8ca/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Mar 2025 12:14:00 GMT"
+    },
+    {
+        "title": "La révolution de la conduite autonome",
+        "link": "https://www.forbes.com/sites/alanohnsman/2025/03/10/why-tesla-isnt-the-ai-powerhouse-musk-says-it-is/?ss=ai",
+        "body": "Bien que Tesla soit connue pour ses voitures électriques, son PDG Elon Musk affirme qu'il s'agit désormais d'une entreprise d'IA. La force de Tesla réside dans son énorme quantité de données vidéo collectées à partir de ses voitures, qui pourraient entraîner ses véhicules à fonctionner sans intervention humaine. Cependant, les experts soulignent que ces données ne sont pas aussi utiles que Musk le prétend, et que la conduite autonome pose des défis très différents de ceux des chatbots de traitement du langage naturel. La conduite autonome nécessite de gérer de nombreuses variables et des situations imprévues, et l'entraînement sur des vidéos de conduite standard ne prépare pas l'IA aux cas limites qui causent des collisions. Les concurrents de Tesla utilisent des lidars et des radars pour obtenir des images plus détaillées, tandis que Tesla parie sur l'utilisation de caméras, ce qui, selon les experts, est risqué et pas nécessaire. Malgré les affirmations de Musk, Tesla n'a pas encore atteint le niveau 5 d'autonomie, et ses promesses répétées en matière de conduite autonome n'ont pas été tenues. Les actions de Tesla et les ventes de véhicules électriques diminuent, mais les investisseurs restent optimistes quant à la vision de Musk en matière d'IA, qui inclut également des robots humanoïdes et des usines intelligentes. Musk lie l'avenir de Tesla à l'IA, mais les experts pensent qu'il a du retard par rapport à des entreprises comme Waymo d'Alphabet, leader du marché des robotaxis. La réussite de la vision de Musk dépendra de la capacité de Tesla à tirer parti de ses données pour atteindre une véritable autonomie, ce qui, selon les experts, nécessitera une évolution majeure dans la façon dont l'IA comprend le monde.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb64c7ec27ac0f6dada5e4/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 10 Mar 2025 10:00:00 GMT"
+    },
+    {
         "title": "FoxBrain, un modèle linguistique chinois traditionnel",
         "link": "https://www.honhai.com/en-us/press-center/press-releases/latest-news/1549",
         "body": "L'Institut de recherche Hon Hai a annoncé le lancement du premier modèle linguistique de grande taille en chinois traditionnel, nommé FoxBrain. Ce modèle a été développé en seulement quatre semaines avec une méthode d'entraînement efficace et à faible coût, et il est optimisé pour le style linguistique des utilisateurs taïwanais. FoxBrain, basé sur l'architecture Meta Llama 3.1 avec 70 milliards de paramètres, surpasse les modèles actuels dans la plupart des catégories du jeu de données TMMLU+, en particulier en mathématiques et en raisonnement logique. Le processus d'entraînement a été réalisé avec 120 GPU NVIDIA H100 et un réseau InfiniBand Quantum-2, et a utilisé des techniques d'augmentation de données et d'évaluation de qualité pour générer 98 milliards de jetons de données d'entraînement de haute qualité. FoxBrain sera ouvert à tous et l'Institut prévoit de collaborer avec des partenaires technologiques pour élargir ses applications dans l'IA, la fabrication, la gestion de la chaîne d'approvisionnement et la prise de décision intelligente.",
