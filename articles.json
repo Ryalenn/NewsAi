@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple retarde la sortie d’un nouveau produit en raison de son retard sur l’IA",
+        "title": "Apple retarde la sortie d\u2019un nouveau produit en raison de son retard sur l\u2019IA",
         "link": "https://www.frandroid.com/marques/2535901_apple-retarde-la-sortie-dun-nouveau-produit-en-raison-de-son-retard-sur-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/06/wwdc-2023-june-5-apple-35-28-screenshot-768x432.jpg?resize=169,169&key=42ef57af",
         "date": "Sun, 09 Mar 2025 23:00:00 GMT",
@@ -131,5 +131,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cf2c03a2de17f48d88a5ab/0x0.jpg?format=jpg&crop=2333,1093,x0,y213,safe&width=440",
         "date": "Mon, 10 Mar 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/10/how-to-take-control-of-your-ai-game-and-win/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b8caaf5d37d5d313604bcf/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 00:50:00 GMT",
+        "check": "no"
     }
 ]
