@@ -1,5 +1,33 @@
 [
     {
+        "title": "L'IA dans le processus de recrutement",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/03/11/why-ai-is-a-double-edged-sword-for-2025-job-seekers---new-research/?ss=ai",
+        "body": "L'IA transforme le marché de l'emploi, avec 75 % des chercheurs d'emploi utilisant des outils d'IA dans leurs candidatures. Une étude de Software Finder révèle que si l'IA peut aider les candidats à obtenir de meilleurs emplois, elle prolonge également le processus de recrutement et soulève des questions sur l'authenticité. L'IA joue un rôle important dans l'efficacité du recrutement, avec 20 % des candidats dans le secteur technologique et 18 % dans le marketing signalant des taux de rappel plus élevés pour les CV assistés par l'IA. L'étude, menée auprès de plus de 1 000 recruteurs et candidats, met en évidence des tendances inattendues, notamment le paradoxe des entreprises qui gagnent du temps grâce à l'IA tout en ayant des préjugés contre les candidats qui utilisent la même technologie. Bien que l'IA puisse améliorer l'employabilité en personnalisant les CV, l'étude révèle un défi en termes d'authenticité, car 75 % des recruteurs ne peuvent pas distinguer les CV générés par l'IA, mais sont tout de même plus enclins à embaucher des candidats avec des CV créés par l'homme. Les candidats utilisant l'IA signalent également des délais de recrutement plus longs. Les utilisateurs de l'IA générative doivent donc enrichir les sorties de l'IA et ne pas se fier uniquement au contenu généré par l'IA. L'IA devrait améliorer les compétences personnelles, car la connexion humaine est essentielle dans les décisions de recrutement. Les recruteurs conviennent que l'authenticité est la clé, et que l'IA peut aider à la structure et à la formulation, mais ne peut pas remplacer l'authenticité humaine. Les chercheurs d'emploi doivent trouver un équilibre entre l'utilisation de l'IA pour rationaliser leurs candidatures et l'authenticité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf9eab7282331b1e6e765b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 13:00:00 GMT"
+    },
+    {
+        "title": "FanDuel lance AceAI",
+        "link": "https://www.forbes.com/sites/mattrybaltowski/2025/03/11/fanduel-launches-first-ai-sports-betting-chat-experience/?ss=ai",
+        "body": "FanDuel, une plateforme de paris sportifs, a lancé AceAI, un outil innovant basé sur l'IA conversationnelle pour aider les parieurs à optimiser la construction de leurs paris. AceAI, disponible dans l'application FanDuel Sportsbook, sert de ressource éducative et de compagnon de pari, offrant aux utilisateurs un accès aux données et aux informations pour les aider dans leurs décisions de pari. Les utilisateurs peuvent effectuer des requêtes par chat ou par voix pour trouver des paris, construire des paris complexes et rechercher des statistiques sur leurs équipes ou joueurs favoris. AceAI vise à simplifier considérablement l'expérience de pari de bout en bout et à fournir des recommandations de paris en temps réel basées sur les intentions de l'utilisateur. La plateforme met également l'accent sur les pratiques de jeu responsable, en dirigeant les utilisateurs vers la page de jeu responsable de FanDuel si nécessaire. Bien que le produit soit actuellement disponible uniquement pour les paris NFL et NBA, FanDuel prévoit de l'étendre à d'autres sports.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf9e507f2bf2c79b7bd9dd/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 12:00:00 GMT"
+    },
+    {
+        "title": "La montée des hackers-à-louer",
+        "link": "https://www.forbes.com/sites/emilsayegh/2025/03/11/how-hack-for-hire-mercenaries-are-reshaping-cybersecurity-crime/?ss=ai",
+        "body": "La montée des services de hack-à-louer transforme le cybercrime en une économie à la demande, accessible à tous. Les gouvernements, les entreprises et même les particuliers peuvent désormais louer les services de hackers, ce qui brouille la frontière entre les testeurs d'intrusion légitimes et les cybercriminels. Le marché, estimé à 12 milliards de dollars en 2019, est en pleine expansion grâce à la démocratisation des outils de hacking pilotés par l'IA. Cette tendance soulève des inquiétudes éthiques et juridiques, car elle peut être exploitée à des fins illégales, menaçant ainsi la cybersécurité, la vie privée et la confiance numérique. Pour y remédier, les gouvernements et les entreprises doivent établir des limites claires et renforcer la réglementation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cd8d1dd75dde64273457bf/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 11:00:00 GMT"
+    },
+    {
+        "title": "Copilot redevient une application native sur Windows",
+        "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native",
+        "body": "Microsoft lance enfin une version native de son application Copilot pour Windows, après l'avoir transformée en une simple application web l'année dernière. La nouvelle application Copilot, qui est déployée cette semaine pour les Windows Insiders, est développée en XAML natif et propose un nouveau panneau latéral ainsi qu'une interface améliorée. L'application Copilot sur Windows correspond désormais au design de l'application Copilot récemment lancée pour macOS, qui permet de télécharger des images et de générer des images ou du texte. Les utilisateurs peuvent également interagir avec Copilot à l'aide d'un microphone et accéder à l'historique des conversations dans la barre latérale mise à jour.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/CoW-Press-to-talk-scaled-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Mar 2025 10:17:00 GMT"
+    },
+    {
         "title": "La privatisation de la météo",
         "link": "https://www.forbes.com/sites/alexknapp/2025/03/11/this-startup-cant-replace-the-national-weather-service-but-it-might-have-to/?ss=ai",
         "body": "Bien qu'il s'agisse d'une opportunité pour les entreprises de prévisions météorologiques basées sur l'IA, les coupes budgétaires et les licenciements au sein du National Weather Service (NWS) et de la NOAA pourraient avoir des conséquences négatives inattendues. Tomorrow.io, une entreprise de prévisions météorologiques basée sur l'IA, pourrait bénéficier d'une augmentation de la demande si le NWS ne parvient pas à fournir des données fiables. Cependant, Shimon Elkabetz, fondateur de Tomorrow.io, n'a jamais envisagé de remplacer le NWS. Les climatologues craignent que les coupes budgétaires ne dégradent déjà les prévisions météorologiques publiques, laissant des lacunes que le secteur privé n'est pas encore en mesure de combler. Tomorrow.io a développé des logiciels qui fournissent non seulement des prévisions météorologiques, mais également des suggestions concrètes pour atténuer les impacts météorologiques pour diverses industries. Ils ont également lancé des satellites pour collecter des données météorologiques, mais leur objectif reste de compléter les services gouvernementaux, pas de les remplacer.",
@@ -33,6 +61,13 @@
         "body": "Sony a présenté en interne une démo technique impressionnante, utilisant l'IA pour faire interagir un personnage de jeu vidéo, Aloy de la série Horizon, avec les joueurs. La vidéo, qui a depuis été retirée, a suscité des débats sur l'utilisation de l'IA dans l'industrie du jeu vidéo et ses implications éthiques. Sharwin Raghoebardajal, directeur de l'ingénierie logicielle chez Sony Interactive Entertainment, a souligné que la démo utilisait différents LLM, dont ChatGPT-4 et Llama3, avec une voix synthétisée par une technologie interne de Sony. Cette expérimentation soulève des questions sur l'avenir de l'IA dans les jeux vidéo, notamment sur son impact potentiel sur les acteurs humains et les coûts de production.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gdc15kvjedin5c4v6cce-1200x675-1-768x432.png?resize=169,169&key=fc2265cb",
         "date": "Mon, 10 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google Calendar intègre Gemini, un bot IA",
+        "link": "https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails#comments",
+        "body": "Google a annoncé une nouvelle fonctionnalité IA qui utilise le bot IA Gemini pour ajouter des événements à Google Calendar à partir de détails envoyés par e-mail dans Gmail. Les e-mails que Gemini identifie comme décrivant des événements auront un nouveau bouton \"Ajouter au calendrier\" qui initiera l'interaction. Lorsque vous cliquez sur ce bouton, un panneau latéral s'ouvre pour confirmer l'ajout de l'événement et vous permettre de le modifier si nécessaire. Auparavant, les utilisateurs pouvaient déjà ajouter des événements via le panneau latéral de Gemini, mais ce processus est désormais automatisé. Cette fonctionnalité est disponible pour les utilisateurs de Google Workspace (business, entreprise et éducation), ainsi que pour les abonnés Google One AI Premium.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB340_GOOGLE_CALENDAR_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Mar 2025 18:41:27 GMT"
     },
     {
         "title": "L'avenir du journalisme selon le PDG de Dow Jones",
@@ -147,6 +182,13 @@
         "date": "Sun, 09 Mar 2025 18:00:00 GMT"
     },
     {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces modèles linguistiques à grande échelle (LLM) fonctionnent en analysant les propriétés statistiques du langage, en utilisant des programmes d'autocompletion pour apprendre et en faisant des suppositions éclairées basées sur le contexte. Bien que ces outils puissent produire des déclarations plausibles, ils présentent également des informations fausses car la plausibilité ne garantit pas la véracité. La course à l'IA s'intensifie, avec des entreprises comme Anthropic, Elon Musk et DeepSeek qui lancent de nouveaux modèles et fonctionnalités, tandis que des entreprises émergentes comme Rabbit et DeepSeek gagnent en popularité. Les entreprises investissent massivement dans l'IA, avec des cas d'utilisation allant des systèmes d'assistance médicale à l'analyse de données, en passant par la modération de contenu et les jeux. Des préoccupations concernant l'exactitude des réponses de l'IA et son impact potentiel sur l'emploi sont également soulevées.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 09 Mar 2025 16:30:03 GMT"
+    },
+    {
         "title": "Gemini 2.0",
         "link": "https://www.theverge.com/news/603821/google-gemini-flash-2-0-ai-app",
         "body": "Google annonce la mise à jour de l'application Gemini avec son nouveau modèle d'IA Gemini 2.0 Flash. Ce modèle amélioré offre des réponses plus rapides et de meilleures performances pour diverses tâches, telles que la réflexion, l'apprentissage et l'écriture. La mise à jour est progressivement déployée sur les applications web et mobiles de Gemini, et sera disponible pour tous les utilisateurs. Google indique également que les versions précédentes de Gemini (1.5 Flash et 1.5 Pro) resteront accessibles pendant quelques semaines. De plus, les capacités de génération d'images de Gemini ont été mises à niveau vers la dernière version d'Imagen 3, offrant des détails et une précision améliorés.",
@@ -159,12 +201,5 @@
         "body": "Elon Musk's 'Department of Government Efficiency' a déployé un chatbot propriétaire, GSAi, auprès de 1 500 employés fédéraux, avec l'objectif ultime d'automatiser les tâches et de rationaliser la main-d'œuvre fédérale. GSAi est conçu pour gérer des tâches générales, mais adapté pour une utilisation gouvernementale sécurisée. Le déploiement de GSAi fait suite à des tests pilotes et s'inscrit dans le cadre d'une initiative plus large visant à intégrer l'IA et l'automatisation dans les agences gouvernementales. Le produit est similaire à des outils commerciaux comme ChatGPT, avec des fonctionnalités adaptées pour garantir la sécurité des données gouvernementales. Les employés peuvent interagir avec GSAi pour des tâches telles que la rédaction d'e-mails, la création de points de discussion, la synthèse de textes et l'écriture de code. Bien que certains le considèrent comme une aide utile, comparable à un stagiaire, d'autres s'inquiètent de l'utilisation potentielle de l'IA pour justifier des licenciements supplémentaires. Des agences telles que le Trésor et le Département de la Santé et des Services sociaux envisagent d'utiliser des chatbots GSA, tandis que l'armée américaine utilise déjà un outil d'IA pour modifier les documents de formation. La branche technologique de la GSA subira une réduction de 50 % de son personnel, avec un recentrage sur les projets publics.",
         "image": "",
         "date": "Sun, 09 Mar 2025 16:05:45 GMT"
-    },
-    {
-        "title": "Apple retarde le déploiement de fonctionnalités Siri plus personnalisées",
-        "link": "https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought",
-        "body": "Apple a annoncé un retard dans le déploiement de fonctionnalités Siri plus personnalisées, qui devaient initialement sortir au printemps. La société a déclaré que ces fonctionnalités, qui incluent une meilleure compréhension du contexte personnel de l'utilisateur et la capacité d'agir en conséquence, nécessitent plus de temps de développement. Les dirigeants d'Apple, dont Craig Federighi, ont exprimé des préoccupations quant au fonctionnement de ces fonctionnalités, et il est possible que le travail doive être repris à zéro. La sortie d'une version Siri modernisée et conversationnelle pourrait être repoussée jusqu'à iOS 20 au plus tôt.",
-        "image": "",
-        "date": "Sun, 09 Mar 2025 13:54:25 GMT"
     }
 ]
