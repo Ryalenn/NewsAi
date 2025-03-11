@@ -63,6 +63,13 @@
         "date": "Mon, 10 Mar 2025 23:00:00 GMT"
     },
     {
+        "title": "Microsoft's AI Ambitions",
+        "link": "https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event",
+        "body": "Microsoft célèbre son 50e anniversaire et organise un événement Copilot sur son campus de Redmond. L'événement, qui aura lieu le 4 avril, coïncide avec des rumeurs selon lesquelles Microsoft développerait ses propres modèles d'IA. L'événement comprendra une célébration réservée aux employés et des annonces sur l'avenir de Copilot, l'assistant IA de Microsoft. Des dirigeants actuels et passés, dont le PDG Satya Nadella et le PDG de Microsoft AI, Mustafa Suleyman, seront présents. Les rumeurs suggèrent que Microsoft développe des modèles d'IA internes, appelés MAI, qui pourraient concurrencer ou même remplacer les modèles OpenAI utilisés dans Copilot. L'événement pourrait être l'occasion pour Microsoft de présenter ses propres avancées en matière d'IA, plaçant ainsi l'IA au cœur de sa stratégie pour les 50 prochaines années.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/microsoftoldlogo.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Mar 2025 18:52:32 GMT"
+    },
+    {
         "title": "Google Calendar intègre Gemini, un bot IA",
         "link": "https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails#comments",
         "body": "Google a annoncé une nouvelle fonctionnalité IA qui utilise le bot IA Gemini pour ajouter des événements à Google Calendar à partir de détails envoyés par e-mail dans Gmail. Les e-mails que Gemini identifie comme décrivant des événements auront un nouveau bouton \"Ajouter au calendrier\" qui initiera l'interaction. Lorsque vous cliquez sur ce bouton, un panneau latéral s'ouvre pour confirmer l'ajout de l'événement et vous permettre de le modifier si nécessaire. Auparavant, les utilisateurs pouvaient déjà ajouter des événements via le panneau latéral de Gemini, mais ce processus est désormais automatisé. Cette fonctionnalité est disponible pour les utilisateurs de Google Workspace (business, entreprise et éducation), ainsi que pour les abonnés Google One AI Premium.",
@@ -173,33 +180,5 @@
         "body": "TSMC prévoit d'investir 165 milliards de dollars dans la production de semi-conducteurs aux États-Unis, ce qui inclut l'ouverture de trois nouvelles usines, de deux centres d'emballage et d'un centre de R&D. Cet investissement est une bonne nouvelle pour l'emploi et l'approvisionnement des entreprises américaines comme Nvidia et AMD. Le PDG de TSMC, Dr C.C. Wei, a souligné l'importance des semi-conducteurs pour le développement de l'IA et d'autres applications technologiques. Cet investissement fait suite au Chips Act de l'administration Biden, qui a investi 52 milliards de dollars dans la production nationale de semi-conducteurs. La décision de TSMC a suscité des réactions de jalousie en Chine, qui considère Taiwan comme faisant partie de son empire, et a également créé une tension géopolitique. D'autres pays comme l'Allemagne, la Russie et l'Inde investissent également dans le développement de l'IA, chacun avec des stratégies différentes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ce066fe4f5aba8e38f0e3d/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 09 Mar 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La course à l'informatique quantique",
-        "link": "https://www.forbes.com/sites/drektadang/2025/03/09/recent-breakthroughs-accelerate-the-race-for-quantum-computing/?ss=ai",
-        "body": "Les géants technologiques Microsoft, Google et IBM font des progrès significatifs dans la course vers l'informatique quantique à grande échelle, avec des puces révolutionnaires qui pourraient rapprocher la technologie de l'adoption commerciale. L'annonce récente de la puce Majorana 1 de Microsoft, basée sur une architecture topologique intégrant des particules de Majorana, marque une étape importante vers des systèmes quantiques à la fois évolutifs et tolérants aux pannes. Google, de son côté, a présenté la puce Willow, qui réduit considérablement les erreurs à mesure que davantage de qubits sont ajoutés. IBM, quant à lui, maintient sa position de leader dans le domaine grâce à des avancées stratégiques dans les qubits transmon supraconducteurs et la correction d'erreurs. Malgré ces progrès, le PDG de Nvidia, Jensen Huang, reste sceptique, estimant que l'utilisation pratique de l'informatique quantique pourrait encore être éloignée de 20 ans. L'industrie se prépare activement à l'adoption généralisée de l'informatique quantique, mais des défis tels que la correction d'erreurs, la mise à l'échelle du matériel et la mise en œuvre pratique doivent encore être relevés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cddb0a3e586839f22da345/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 09 Mar 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA s'intensifie",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces modèles linguistiques à grande échelle (LLM) fonctionnent en analysant les propriétés statistiques du langage, en utilisant des programmes d'autocompletion pour apprendre et en faisant des suppositions éclairées basées sur le contexte. Bien que ces outils puissent produire des déclarations plausibles, ils présentent également des informations fausses car la plausibilité ne garantit pas la véracité. La course à l'IA s'intensifie, avec des entreprises comme Anthropic, Elon Musk et DeepSeek qui lancent de nouveaux modèles et fonctionnalités, tandis que des entreprises émergentes comme Rabbit et DeepSeek gagnent en popularité. Les entreprises investissent massivement dans l'IA, avec des cas d'utilisation allant des systèmes d'assistance médicale à l'analyse de données, en passant par la modération de contenu et les jeux. Des préoccupations concernant l'exactitude des réponses de l'IA et son impact potentiel sur l'emploi sont également soulevées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Sun, 09 Mar 2025 16:30:03 GMT"
-    },
-    {
-        "title": "Gemini 2.0",
-        "link": "https://www.theverge.com/news/603821/google-gemini-flash-2-0-ai-app",
-        "body": "Google annonce la mise à jour de l'application Gemini avec son nouveau modèle d'IA Gemini 2.0 Flash. Ce modèle amélioré offre des réponses plus rapides et de meilleures performances pour diverses tâches, telles que la réflexion, l'apprentissage et l'écriture. La mise à jour est progressivement déployée sur les applications web et mobiles de Gemini, et sera disponible pour tous les utilisateurs. Google indique également que les versions précédentes de Gemini (1.5 Flash et 1.5 Pro) resteront accessibles pendant quelques semaines. De plus, les capacités de génération d'images de Gemini ont été mises à niveau vers la dernière version d'Imagen 3, offrant des détails et une précision améliorés.",
-        "image": "",
-        "date": "Sun, 09 Mar 2025 16:30:03 GMT"
-    },
-    {
-        "title": "DOGE's AI Takeover",
-        "link": "https://www.wired.com/story/gsai-chatbot-1500-federal-workers/",
-        "body": "Elon Musk's 'Department of Government Efficiency' a déployé un chatbot propriétaire, GSAi, auprès de 1 500 employés fédéraux, avec l'objectif ultime d'automatiser les tâches et de rationaliser la main-d'œuvre fédérale. GSAi est conçu pour gérer des tâches générales, mais adapté pour une utilisation gouvernementale sécurisée. Le déploiement de GSAi fait suite à des tests pilotes et s'inscrit dans le cadre d'une initiative plus large visant à intégrer l'IA et l'automatisation dans les agences gouvernementales. Le produit est similaire à des outils commerciaux comme ChatGPT, avec des fonctionnalités adaptées pour garantir la sécurité des données gouvernementales. Les employés peuvent interagir avec GSAi pour des tâches telles que la rédaction d'e-mails, la création de points de discussion, la synthèse de textes et l'écriture de code. Bien que certains le considèrent comme une aide utile, comparable à un stagiaire, d'autres s'inquiètent de l'utilisation potentielle de l'IA pour justifier des licenciements supplémentaires. Des agences telles que le Trésor et le Département de la Santé et des Services sociaux envisagent d'utiliser des chatbots GSA, tandis que l'armée américaine utilise déjà un outil d'IA pour modifier les documents de formation. La branche technologique de la GSA subira une réduction de 50 % de son personnel, avec un recentrage sur les projets publics.",
-        "image": "",
-        "date": "Sun, 09 Mar 2025 16:05:45 GMT"
     }
 ]
