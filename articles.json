@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple retarde la sortie d’un nouveau produit en raison de son retard sur l’IA",
+        "title": "Apple retarde la sortie d\u2019un nouveau produit en raison de son retard sur l\u2019IA",
         "link": "https://www.frandroid.com/marques/2535901_apple-retarde-la-sortie-dun-nouveau-produit-en-raison-de-son-retard-sur-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/06/wwdc-2023-june-5-apple-35-28-screenshot-768x432.jpg?resize=169,169&key=42ef57af",
         "date": "Sun, 09 Mar 2025 23:00:00 GMT",
@@ -138,5 +138,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b8caaf5d37d5d313604bcf/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Mar 2025 00:50:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Gmail : organisez votre agenda en un clic gr\u00e2ce \u00e0 Gemini",
+        "link": "https://www.frandroid.com/marques/google/2537963_gmail-organisez-votre-agenda-en-un-clic-grace-a-gemini",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-galaxy-s24-plus-13-google-apps-gmail-1200x800-1-768x512.jpg?resize=200,200&key=01606a92",
+        "date": "Mon, 10 Mar 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "Sony exp\u00e9rimente avec l\u2019IA pour donner vie \u00e0 ses personnages embl\u00e9matiques",
+        "link": "https://www.frandroid.com/marques/2537581_sony-experimente-avec-lia-pour-transformer-ses-personnages-emblematiques-en-vrais-compagnons",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gdc15kvjedin5c4v6cce-1200x675-1-768x432.png?resize=169,169&key=fc2265cb",
+        "date": "Mon, 10 Mar 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/03/11/this-startup-cant-replace-the-national-weather-service-but-it-might-have-to/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf5ff2b49f7a3f4aaa1b92/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 10:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/11/forget-chatgpt-why-ai-agents-are-the-real-game-changer-for-financial-services/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cfdce1fa1adf661d75778a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
