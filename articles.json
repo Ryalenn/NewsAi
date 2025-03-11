@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Apple retarde la sortie d’un nouveau produit en raison de son retard sur l’IA",
+        "title": "Apple retarde la sortie d\u2019un nouveau produit en raison de son retard sur l\u2019IA",
         "link": "https://www.frandroid.com/marques/2535901_apple-retarde-la-sortie-dun-nouveau-produit-en-raison-de-son-retard-sur-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/06/wwdc-2023-june-5-apple-35-28-screenshot-768x432.jpg?resize=169,169&key=42ef57af",
         "date": "Sun, 09 Mar 2025 23:00:00 GMT",
@@ -133,14 +133,14 @@
         "check": "yes"
     },
     {
-        "title": "Gmail : organisez votre agenda en un clic grâce à Gemini",
+        "title": "Gmail : organisez votre agenda en un clic gr\u00e2ce \u00e0 Gemini",
         "link": "https://www.frandroid.com/marques/google/2537963_gmail-organisez-votre-agenda-en-un-clic-grace-a-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-galaxy-s24-plus-13-google-apps-gmail-1200x800-1-768x512.jpg?resize=200,200&key=01606a92",
         "date": "Mon, 10 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Sony expérimente avec l’IA pour donner vie à ses personnages emblématiques",
+        "title": "Sony exp\u00e9rimente avec l\u2019IA pour donner vie \u00e0 ses personnages embl\u00e9matiques",
         "link": "https://www.frandroid.com/marques/2537581_sony-experimente-avec-lia-pour-transformer-ses-personnages-emblematiques-en-vrais-compagnons",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gdc15kvjedin5c4v6cce-1200x675-1-768x432.png?resize=169,169&key=fc2265cb",
         "date": "Mon, 10 Mar 2025 23:00:00 GMT",
@@ -159,5 +159,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cfdce1fa1adf661d75778a/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Mar 2025 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.reuters.com/technology/artificial-intelligence/meta-begins-testing-its-first-in-house-ai-training-chip-2025-03-11/",
+        "image": "",
+        "date": "Tue, 11 Mar 2025 12:16:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/623889/microsoft-copilot-app-windows-native",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/CoW-Press-to-talk-scaled-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Mar 2025 10:17:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/626951/google-calendar-gmail-ai-gemini-automatically-add-events-from-emails#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB340_GOOGLE_CALENDAR_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Mar 2025 18:41:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 09 Mar 2025 16:30:03 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/03/11/why-ai-is-a-double-edged-sword-for-2025-job-seekers---new-research/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf9eab7282331b1e6e765b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/mattrybaltowski/2025/03/11/fanduel-launches-first-ai-sports-betting-chat-experience/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf9e507f2bf2c79b7bd9dd/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/emilsayegh/2025/03/11/how-hack-for-hire-mercenaries-are-reshaping-cybersecurity-crime/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67cd8d1dd75dde64273457bf/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 11 Mar 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
