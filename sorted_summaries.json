@@ -21,6 +21,13 @@
         "date": "Tue, 11 Mar 2025 23:00:00 GMT"
     },
     {
+        "title": "OpenAI lance de nouvelles API pour les agents IA",
+        "link": "https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk#comments",
+        "body": "OpenAI a lancé une nouvelle API, Responses API, qui fournit des blocs de construction pour créer des agents IA capables de rechercher sur le web, de parcourir des fichiers et d'effectuer des tâches sur un ordinateur. L'API inclut un outil de recherche web basé sur le même modèle que ChatGPT, permettant d'obtenir des informations et des citations en temps réel. La fonctionnalité d'utilisation de l'ordinateur permet à l'agent d'effectuer des tâches au nom de l'utilisateur, tandis qu'un autre outil permet de rechercher dans de grands volumes de documents. OpenAI a également annoncé l'Agents SDK, qui permet aux développeurs d'orchestrer le flux de travail de plusieurs agents IA. Ces nouveaux outils s'ajoutent à l'offre existante d'OpenAI, y compris l'API Chat Completions, et remplaceront l'Assistants API au milieu de 2026.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 11 Mar 2025 17:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la gouvernance : l'IA au service de l'efficacité et de la responsabilité",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/03/11/the-dangers-of-automated-governance-can-ai-lead-a-nation/?ss=ai",
         "body": "L'IA peut potentiellement améliorer l'efficacité et la responsabilité de la gouvernance, mais soulève également des questions éthiques et politiques complexes. Bien que l'IA ait fait ses preuves dans divers domaines, surpassant parfois les performances humaines, elle présente des limites en termes d'adaptabilité et de gestion des événements imprévus. La gouvernance entièrement automatisée soulève des inquiétudes quant à la compréhension des émotions humaines, des nuances éthiques et de la complexité sociale. De plus, la responsabilité des préjudices causés par les biais de l'IA reste floue. L'article propose un système de gouvernance hybride, combinant l'IA et l'intuition, l'adaptabilité et le raisonnement éthique humain. La clé réside dans la double littératie : la compréhension de l'humain et de l'algorithmique.",
@@ -105,6 +112,13 @@
         "date": "Mon, 10 Mar 2025 23:00:00 GMT"
     },
     {
+        "title": "Sony's AI-Powered Aloy",
+        "link": "https://www.theverge.com/news/626695/sony-playstation-ai-characters-aloy-horizon-forbidden-west-prototype#comments",
+        "body": "Sony a créé une version de son personnage de jeu vidéo Aloy, alimentée par l'IA, grâce à son groupe de technologie avancée. La démonstration technologique utilise Whisper d'OpenAI pour la reconnaissance vocale, ainsi que GPT-4 et Llama 3 pour les conversations et la prise de décision. Sony possède également son propre système interne de synthèse vocale émotionnelle (EVS) et sa technologie Mockingbird pour l'animation faciale. La démonstration a été exécutée sur PC, mais Sony a également testé l'exécution de cette technologie directement sur les consoles PS5. Sony a d'abord présenté cette technologie il y a un an, puis une version plus avancée lors de son salon Sony Technology Exchange Fair à Tokyo en novembre. Cette démonstration soulève des questions sur l'utilité de parler à Aloy dans Horizon Forbidden West, ainsi que sur l'impact potentiel de cette technologie sur les acteurs vocaux et les développeurs de jeux.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 10 Mar 2025 19:08:20 GMT"
+    },
+    {
         "title": "Microsoft's AI Ambitions",
         "link": "https://www.theverge.com/news/627077/microsoft-50th-anniversary-copilot-ai-event",
         "body": "Microsoft célèbre son 50e anniversaire et organise un événement Copilot sur son campus de Redmond. L'événement, qui aura lieu le 4 avril, coïncide avec des rumeurs selon lesquelles Microsoft développerait ses propres modèles d'IA. L'événement comprendra une célébration réservée aux employés et des annonces sur l'avenir de Copilot, l'assistant IA de Microsoft. Des dirigeants actuels et passés, dont le PDG Satya Nadella et le PDG de Microsoft AI, Mustafa Suleyman, seront présents. Les rumeurs suggèrent que Microsoft développe des modèles d'IA internes, appelés MAI, qui pourraient concurrencer ou même remplacer les modèles OpenAI utilisés dans Copilot. L'événement pourrait être l'occasion pour Microsoft de présenter ses propres avancées en matière d'IA, plaçant ainsi l'IA au cœur de sa stratégie pour les 50 prochaines années.",
@@ -173,12 +187,5 @@
         "body": "Bien que Tesla soit connue pour ses voitures électriques, son PDG Elon Musk affirme qu'il s'agit désormais d'une entreprise d'IA. La force de Tesla réside dans son énorme quantité de données vidéo collectées à partir de ses voitures, qui pourraient entraîner ses véhicules à fonctionner sans intervention humaine. Cependant, les experts soulignent que ces données ne sont pas aussi utiles que Musk le prétend, et que la conduite autonome pose des défis très différents de ceux des chatbots de traitement du langage naturel. La conduite autonome nécessite de gérer de nombreuses variables et des situations imprévues, et l'entraînement sur des vidéos de conduite standard ne prépare pas l'IA aux cas limites qui causent des collisions. Les concurrents de Tesla utilisent des lidars et des radars pour obtenir des images plus détaillées, tandis que Tesla parie sur l'utilisation de caméras, ce qui, selon les experts, est risqué et pas nécessaire. Malgré les affirmations de Musk, Tesla n'a pas encore atteint le niveau 5 d'autonomie, et ses promesses répétées en matière de conduite autonome n'ont pas été tenues. Les actions de Tesla et les ventes de véhicules électriques diminuent, mais les investisseurs restent optimistes quant à la vision de Musk en matière d'IA, qui inclut également des robots humanoïdes et des usines intelligentes. Musk lie l'avenir de Tesla à l'IA, mais les experts pensent qu'il a du retard par rapport à des entreprises comme Waymo d'Alphabet, leader du marché des robotaxis. La réussite de la vision de Musk dépendra de la capacité de Tesla à tirer parti de ses données pour atteindre une véritable autonomie, ce qui, selon les experts, nécessitera une évolution majeure dans la façon dont l'IA comprend le monde.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cb64c7ec27ac0f6dada5e4/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 10 Mar 2025 10:00:00 GMT"
-    },
-    {
-        "title": "FoxBrain, un modèle linguistique chinois traditionnel",
-        "link": "https://www.honhai.com/en-us/press-center/press-releases/latest-news/1549",
-        "body": "L'Institut de recherche Hon Hai a annoncé le lancement du premier modèle linguistique de grande taille en chinois traditionnel, nommé FoxBrain. Ce modèle a été développé en seulement quatre semaines avec une méthode d'entraînement efficace et à faible coût, et il est optimisé pour le style linguistique des utilisateurs taïwanais. FoxBrain, basé sur l'architecture Meta Llama 3.1 avec 70 milliards de paramètres, surpasse les modèles actuels dans la plupart des catégories du jeu de données TMMLU+, en particulier en mathématiques et en raisonnement logique. Le processus d'entraînement a été réalisé avec 120 GPU NVIDIA H100 et un réseau InfiniBand Quantum-2, et a utilisé des techniques d'augmentation de données et d'évaluation de qualité pour générer 98 milliards de jetons de données d'entraînement de haute qualité. FoxBrain sera ouvert à tous et l'Institut prévoit de collaborer avec des partenaires technologiques pour élargir ses applications dans l'IA, la fabrication, la gestion de la chaîne d'approvisionnement et la prise de décision intelligente.",
-        "image": "",
-        "date": "Mon, 10 Mar 2025 08:43:28 GMT"
     }
 ]
