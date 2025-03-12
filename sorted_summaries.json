@@ -1,5 +1,26 @@
 [
     {
+        "title": "Gemini, la nouvelle fonctionnalité vidéo de Google",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/12/googles-new-ai-video-generator-revealed-in-google-app-leak/?ss=ai",
+        "body": "Google teste actuellement une nouvelle fonctionnalité de génération de vidéos alimentée par l'IA pour l'application Google, basée sur son chatbot Gemini. Cette fonctionnalité, nommée « Toucan », permettra aux utilisateurs de créer des clips vidéo courts à partir de descriptions textuelles, en plus des images déjà générées par Gemini. Le code de l'application Android de Google révèle que la création de vidéos pourrait prendre entre 1 et 2 minutes, indiquant ainsi la nécessité d'une puissance informatique importante. De plus, des limites quotidiennes sur le nombre de vidéos générées pourraient être mises en place, avec des expériences différentes proposées aux utilisateurs payants de Gemini Advanced. La fonctionnalité de génération de vidéos de Toucan n'a pas encore été annoncée officiellement, mais la poursuite de son développement laisse présager une sortie prochaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d1c32f03f7d4abc9271892/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 12 Mar 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Copilot, votre assistant IA dans les discussions de groupe",
+        "link": "https://groupme.com/blog/copilot-has-entered-the-groupme-chat",
+        "body": "Copilot, une nouvelle fonctionnalité basée sur l'IA, est désormais disponible sur GroupMe. Copilot aide les utilisateurs à suivre les discussions de groupe en proposant des réponses rapides, de l'aide pour les devoirs de maths, des suggestions de restaurants et plus encore. Les utilisateurs peuvent accéder à Copilot en appuyant longuement sur n'importe quel message ou en démarrant une nouvelle discussion privée avec Copilot depuis leur liste de discussions. Copilot peut également aider à rédiger la réponse parfaite, à clarifier des concepts complexes, à suggérer des idées de thèmes de voyage ou de fête, à créer des playlists et à faciliter l'organisation d'événements et la collecte de fonds. L'objectif est de créer un IA qui comprend réellement le fonctionnement des discussions de groupe, rendant ainsi les conversations plus fluides, plus amusantes et plus faciles à suivre.",
+        "image": "",
+        "date": "Wed, 12 Mar 2025 16:25:57 GMT"
+    },
+    {
+        "title": "L'ascension de Nvidia et son impact sur l'IA",
+        "link": "https://www.forbes.com/sites/davidteich/2025/03/12/the-nvidia-way-a-very-good-review-of-the-history-of-an-influential-company/?ss=ai",
+        "body": "Titre : L'ascension de Nvidia : un aperçu\n\nRésumé : L'article offre un aperçu du livre « The Nvidia Way » de Tae Kim, qui explore l'histoire de Nvidia et de son fondateur, Jensen Huang. L'auteur de l'article, David A. Teich, loue le livre pour son aperçu de la culture d'entreprise de Nvidia, qui consiste à embaucher des personnes très intelligentes et à les faire travailler très dur. Cependant, il remet en question l'idée que travailler dur est toujours travailler de manière intelligente, suggérant que les employés épuisés ne prennent pas toujours les meilleures décisions. Teich souligne également l'importance de la vision de Huang et de son implication dans le processus, ainsi que sa reconnaissance du rôle crucial du logiciel, en particulier dans le domaine de l'intelligence artificielle (IA). Bien que le livre mentionne l'IA et la puissance de traitement parallèle des GPU, Teich pense qu'il ne souligne pas suffisamment l'importance de l'IA pour le succès actuel de Nvidia. Il suggère que la capacité de Huang à reconnaître le potentiel de l'IA et à développer CUDA, un outil logiciel puissant et portable pour programmer les GPU, a été essentielle pour la réussite de l'entreprise. Enfin, Teich prédit que Nvidia abandonnera éventuellement l'étiquette GPU pour ses lignes de produits IA, car l'IA a dépassé les graphiques en tant que secteur principal de l'entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y6,safe&width=440",
+        "date": "Wed, 12 Mar 2025 15:00:00 GMT"
+    },
+    {
         "title": "Gemma 3",
         "link": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model",
         "body": "Google a mis à jour sa famille de modèles AI Gemma avec la sortie de Gemma 3, qui peut interpréter des images, des vidéos courtes et du texte. Destiné aux développeurs créant des applications AI, le modèle prend en charge plus de 35 langues et peut s'exécuter sur différents appareils, des téléphones aux stations de travail. Google affirme qu'il s'agit du meilleur modèle sur un seul accélérateur au monde, surpassant les performances de modèles concurrents sur un hôte avec un seul GPU. Gemma 3 a également été optimisé pour les GPU Nvidia et le matériel AI dédié. Le modèle présente un encodeur de vision amélioré prenant en charge les images haute résolution et non carrées, ainsi qu'un classifieur de sécurité d'image pour filtrer les contenus explicites, dangereux ou violents. Malgré ses capacités avancées, Google déclare que le risque de mauvais usage de Gemma 3 pour créer des substances nocives est faible. Le modèle est promu avec des crédits Google Cloud et un programme académique offrant 10 000 dollars de crédits pour les chercheurs.",
@@ -19,6 +40,13 @@
         "body": "L'auteur décrit l'évolution du secteur de la restauration, qui adopte de plus en plus l'automatisation et l'IA pour améliorer l'expérience client. La pandémie de COVID-19 a exacerbé la pénurie de main-d'œuvre dans l'industrie, ce qui a conduit les entreprises à se tourner vers des solutions technologiques. Des entreprises comme Richtech Robotics proposent des robots dotés d'une IA pour effectuer des tâches traditionnellement humaines, tels que ADAM, un robot à deux bras capable de préparer des cocktails, du café ou du thé Boba. Matthew Casella, président de Richtech Robotics, suggère que les robots peuvent libérer les serveurs humains des tâches fastidieuses et leur permettre de se concentrer sur l'amélioration de l'expérience client. L'auteur compare cette évolution à celle de la médecine, où l'IA est utilisée pour améliorer les capacités de diagnostic des médecins, leur permettant de se concentrer davantage sur les soins humains. L'auteur conclut que l'IA dans l'industrie de l'hospitalité a le potentiel de créer des expériences mémorables et personnalisées pour les clients, tout en donnant aux employés le temps et les moyens de créer des interactions inoubliables.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d0ec7dd185d06721ea7b6c/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Mar 2025 10:00:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbot basées sur des modèles linguistiques volumineux plus accessibles au grand public. L'article explore les développements récents dans le domaine de l'IA, y compris les nouveaux modèles, les fonctionnalités et les applications pratiques. Il aborde également les controverses, les préoccupations éthiques et l'impact de l'IA sur diverses industries.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Mar 2025 07:46:13 GMT"
     },
     {
         "title": "Révolution dans la restauration rapide",
@@ -173,26 +201,5 @@
         "body": "Almar Latour, PDG de Dow Jones et éditeur du Wall Street Journal, partage sa vision de l'avenir du journalisme et du rôle de l'IA dans ce domaine. Il souligne l'importance de l'information exclusive et de l'analyse approfondie, et décrit la stratégie de Dow Jones pour offrir des informations précises et fiables à ses lecteurs. Latour aborde également les défis auxquels sont confrontés les médias, notamment la concurrence des plateformes gratuites et les luttes pour les droits d'auteur et la liberté de la presse. Il discute de l'utilisation de l'IA dans les produits de données de Dow Jones et de la nécessité de reconnaître la valeur de l'information générée par l'IA. Enfin, il souligne l'importance de la liberté de la presse et de l'adhésion aux principes journalistiques dans un environnement médiatique de plus en plus polarisé.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB340_GOOGLE_CALENDAR_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 10 Mar 2025 18:41:27 GMT"
-    },
-    {
-        "title": "La montée de l'IA chinoise",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/03/10/overhyped-manus-from-monicaai-made-in-china/?ss=ai",
-        "body": "Bien que l'IA chinoise fasse beaucoup parler d'elle, Manus AI, la dernière innovation en date, n'apporte rien de nouveau. À l'inverse de DeepSeek, qui a introduit des avancées significatives, Manus ne propose aucune fonctionnalité révolutionnaire et n'est qu'un autre modèle linguistique de grande taille exécutant des flux de travail scriptés. L'auteur souligne que les entreprises qui se concentrent sur des applications spécifiques à un domaine et qui intègrent efficacement l'IA dans des flux de travail structurés et bien définis créeront une réelle valeur. La réduction de la complexité et la limitation de l'utilisation à des cas spécifiques permettent à l'IA de fonctionner efficacement. L'auteur prédit que les entreprises qui affineront les flux de travail, intégreront efficacement l'IA et maintiendront l'implication humaine définiront l'industrie, tandis que celles qui se concentrent sur le marketing tapageur seront laissées pour compte.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf2c03a2de17f48d88a5ab/0x0.jpg?format=jpg&crop=2333,1093,x0,y213,safe&width=440",
-        "date": "Mon, 10 Mar 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La quête de l'AGI : interroger l'indiscutable et penser en dehors du cadre",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/10/the-einstein-of-llms/?ss=ai",
-        "body": "L'article explore les débats actuels sur l'intelligence artificielle générale (AGI) et les caractéristiques nécessaires pour atteindre ce niveau d'avancement. Il cite l'essai de Thomas Wolf, qui suggère que la véritable AGI nécessite une capacité à remettre en question les idées reçues et à penser en dehors du cadre établi, à l'instar des grands esprits révolutionnaires de l'histoire, tels qu'Einstein et Copernic. Wolf affirme que les systèmes actuels d'IA sont comme de \"très bons étudiants\", mais qu'ils manquent de la curiosité et de l'audace nécessaires pour remettre en question les connaissances établies et faire des découvertes révolutionnaires. Nathaniel Whittemore, dans le podcast AI Daily Brief, partage une expérience personnelle qui souligne l'importance de la curiosité et de la volonté de travailler dur pour réussir. L'article conclut en soulignant l'importance de la collaboration et de l'interconnexion entre les agents d'IA, reflétant la complexité du cerveau humain, pour atteindre une véritable AGI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cf215b5cc1d0082d4ed266/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Mar 2025 17:28:00 GMT"
-    },
-    {
-        "title": "La collaboration homme-machine : une équipe gagnante",
-        "link": "https://www.forbes.com/sites/brentdykes/2025/03/10/the-human-ai-playbook-moving-beyond-automation-to-true-collaboration/?ss=ai",
-        "body": "Bien que l'intelligence artificielle (IA) suscite à la fois de l'enthousiasme et de l'appréhension, les dirigeants d'entreprise la considèrent comme une priorité stratégique. Si certains craignent son impact sur l'emploi, la majorité des dirigeants envisagent une collaboration entre l'IA et les humains plutôt qu'un remplacement. L'auteur de l'article suggère que la collaboration entre l'IA et les humains est complémentaire, chacun apportant des forces et des capacités uniques. L'IA excelle dans la gestion des données et des tâches répétitives, tandis que les humains apportent leur intuition, leur créativité et leur capacité à gérer des situations complexes. L'article propose un modèle, la Matrice de Collaboration Homme-IA, qui évalue les tâches en fonction de leur complexité et de l'avantage de la touche humaine. Ce modèle aide à déterminer le rôle idéal de l'IA et des humains dans différents scénarios, allant des tâches simples et prévisibles aux situations stratégiques complexes. En comprenant et en adoptant ce cadre de collaboration, les organisations peuvent tirer le meilleur parti de l'IA pour accroître leur efficacité et explorer de nouvelles possibilités, tout en apaisant les craintes des employés concernant l'impact de l'IA sur leur emploi.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67cb66d30fab48ed8e7d4ce2/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 10 Mar 2025 16:00:00 GMT"
     }
 ]
