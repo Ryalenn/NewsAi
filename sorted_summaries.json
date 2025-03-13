@@ -1,5 +1,12 @@
 [
     {
+        "title": "Take It Down Act: A Double-Edged Sword?",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/627868/take-it-down-act-weapon-trump-ncii-deepfakes#comments",
+        "body": "Le Take It Down Act, une loi récemment adoptée par le Sénat, vise à lutter contre la distribution d'images intimes sans consentement, y compris les images générées par l'IA. Bien que le projet de loi ait de bonnes intentions, Nilay Patel et Adi Robertson soulignent un inconvénient potentiel : il pourrait donner à l'administration Trump un outil puissant pour cibler ses ennemis et restreindre la liberté d'expression. Ils s'inquiètent du fait que Trump utilise de manière sélective cette loi pour attaquer les plateformes de discours qu'il n'apprécie pas, tout en protégeant ses alliés. Avec la présence d'Elon Musk au sein de l'administration Trump et la prolifération d'images intimes non consensuelles, y compris les deepfakes, le risque d'abus de pouvoir est réel. La conversation soulève des questions difficiles sur l'équilibre entre la protection des victimes et la préservation de la liberté d'expression dans un contexte politique imprévisible.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DCD_0313.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 13 Mar 2025 14:00:00 GMT"
+    },
+    {
         "title": "Cybever : révolutionner la création de mondes virtuels avec l'IA",
         "link": "https://www.forbes.com/sites/charliefink/2025/03/13/cybever-bets-on-ai-to-reshape-3d-world-creation/?ss=ai",
         "body": "Cybever, fondée en 2022 par Cecilia Shen, vise à révolutionner la création de mondes virtuels en utilisant l'IA. L'entreprise affirme pouvoir réduire de 70 % le temps de développement des jeux vidéo en permettant aux utilisateurs de créer des mondes 3D entiers à partir de quelques mots. L'IA de Cybever peut transformer une ville de base en un environnement réaliste, comme New York ou San Francisco, en adaptant les bâtiments et les paysages. L'un des principaux avantages de Cybever est sa capacité à structurer les données 3D et à offrir un contrôle précis aux créateurs, leur permettant de modifier les environnements sans repartir de zéro. Ceci est particulièrement intéressant pour les professionnels de l'industrie du jeu vidéo, des effets visuels et de la simulation, qui peuvent ainsi gagner en efficacité et en flexibilité. La start-up se distingue de ses concurrents, comme World Labs, en mettant l'accent sur des environnements structurés et physiquement précis, offrant ainsi aux utilisateurs un contrôle et une confiance accrus dans les résultats. L'équipe de Cybever, avec son expertise en robotique, en IA et en jeu vidéo, développe des modèles IA qui s'intègrent parfaitement aux outils standard de l'industrie, tels qu'Unreal Engine et Unity. L'entreprise a pour ambition de devenir une plateforme adaptable et évolutive, servant une variété de secteurs au-delà du divertissement, comme la robotique, les véhicules autonomes et les jumeaux numériques.",
@@ -61,6 +68,13 @@
         "body": "L'article explore le potentiel de l'IA pour aider les humains à surmonter leurs biais cognitifs et leurs angles morts mentaux. L'IA peut servir de lentille pour magnifier les angles morts que notre intelligence naturelle a tendance à négliger, améliorant ainsi notre conscience de soi et notre collaboration. L'IA peut également agir comme un partenaire créatif et un coach objectif, nous poussant à sortir de nos zones de confort et à explorer de nouvelles perspectives. En détectant les modèles et les associations à grande échelle, l'IA peut proposer des idées qui remettent en question nos hypothèses et stimulent la pensée créative. De plus, l'IA peut servir de coach de développement personnel et professionnel, analysant les données et révélant les angles morts que nous préférons ignorer. Cependant, l'article souligne également que l'IA n'est pas une solution miracle et que les biais peuvent également s'infiltrer dans les algorithmes. La clé est d'apprendre à interagir avec l'IA en tant que partenaire, reconnaissant nos propres contributions aux entrées et résultats imparfaits. Enfin, l'article suggère que l'IA agit comme un miroir, reflétant nos modèles collectifs et nous poussant à modifier notre approche et à remettre en question nos hypothèses et nos biais.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d1bb3b5e0254223a452b86/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 12 Mar 2025 19:00:00 GMT"
+    },
+    {
+        "title": "Snapchat présente de nouvelles lentilles vidéo animées par l'IA",
+        "link": "https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses#comments",
+        "body": "Snap Inc. a annoncé que les abonnés Snapchat Platinum pourront désormais utiliser des lentilles vidéo avec des animaux ou des fleurs générés par l'IA. Initialement, trois lentilles \"AI Video Lenses\" seront disponibles, dont une lentille renard qui place un renard sur votre épaule et une lentille raton laveur qui fait grimper des ratons laveurs sur votre tête. Snap prévoit d'ajouter de nouvelles lentilles alimentées par l'IA chaque semaine. Ces lentilles sont alimentées par un modèle vidéo génératif développé en interne par Snap, offrant ainsi aux utilisateurs de Snapchat un accès à des outils IA de pointe. L'entreprise a déjà démontré par le passé son intérêt pour l'intégration de l'IA, de la RA et de l'apprentissage automatique à sa plateforme.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK466_01.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 12 Mar 2025 18:59:57 GMT"
     },
     {
         "title": "Gemini, la nouvelle fonctionnalité vidéo de Google",
@@ -166,26 +180,5 @@
         "body": "Waymo étend son service de robotaxis à une zone de 27 miles carrés dans la Silicon Valley pour un groupe limité de clients. La zone comprend le nouveau siège de Waymo à Mountain View, ainsi que les sièges de Google et \"X\", ses sociétés mères. L'auteur a fait l'expérience d'un trajet en Waymo depuis le nouveau siège de l'entreprise vers son ancien siège, et a trouvé l'expérience fluide et confiante. Waymo vise à remplacer les voitures privées et d'autres formes de transport, plutôt que simplement les services de taxi comme Uber. L'auteur suggère également un service partagé pour relier la Silicon Valley et San Francisco, avec un tarif compétitif entre un ticket de train et un trajet en Uber. Waymo prévoit également d'expérimenter des frais d'abonnement plutôt que des prix de taxi.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d0c1af666d85e7739e2847/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI lance de nouvelles API pour les agents IA",
-        "link": "https://www.theverge.com/news/627556/openai-ai-agents-responses-api-agents-sdk#comments",
-        "body": "OpenAI a lancé une nouvelle API, Responses API, qui fournit des blocs de construction pour créer des agents IA capables de rechercher sur le web, de parcourir des fichiers et d'effectuer des tâches sur un ordinateur. L'API inclut un outil de recherche web basé sur le même modèle que ChatGPT, permettant d'obtenir des informations et des citations en temps réel. La fonctionnalité d'utilisation de l'ordinateur permet à l'agent d'effectuer des tâches au nom de l'utilisateur, tandis qu'un autre outil permet de rechercher dans de grands volumes de documents. OpenAI a également annoncé l'Agents SDK, qui permet aux développeurs d'orchestrer le flux de travail de plusieurs agents IA. Ces nouveaux outils s'ajoutent à l'offre existante d'OpenAI, y compris l'API Chat Completions, et remplaceront l'Assistants API au milieu de 2026.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 11 Mar 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la gouvernance : l'IA au service de l'efficacité et de la responsabilité",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/11/the-dangers-of-automated-governance-can-ai-lead-a-nation/?ss=ai",
-        "body": "L'IA peut potentiellement améliorer l'efficacité et la responsabilité de la gouvernance, mais soulève également des questions éthiques et politiques complexes. Bien que l'IA ait fait ses preuves dans divers domaines, surpassant parfois les performances humaines, elle présente des limites en termes d'adaptabilité et de gestion des événements imprévus. La gouvernance entièrement automatisée soulève des inquiétudes quant à la compréhension des émotions humaines, des nuances éthiques et de la complexité sociale. De plus, la responsabilité des préjudices causés par les biais de l'IA reste floue. L'article propose un système de gouvernance hybride, combinant l'IA et l'intuition, l'adaptabilité et le raisonnement éthique humain. La clé réside dans la double littératie : la compréhension de l'humain et de l'algorithmique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d0734053877194a7921466/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Mar 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Marque personnelle amplifiée par l'IA",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/03/11/6-steps-to-grow-your-personal-brand-using-ai-agents/?ss=ai",
-        "body": "Titre : Améliorez votre marque personnelle avec l'IA\n\nRésumé : L'auteur, un entrepreneur et expert en automatisation, souligne l'importance de développer sa marque personnelle, citant l'exemple de Jules César dans l'ancienne Rome. Il explique comment les agents IA peuvent aider à amplifier votre marque personnelle grâce à l'automatisation, la création de contenu et l'engagement. Les étapes clés incluent l'analyse de votre présence en ligne existante, la définition d'objectifs clairs, la création de contenu pour plusieurs plateformes et l'automatisation du partage de contenu et de l'engagement. Les agents conversationnels IA peuvent améliorer l'engagement en permettant aux audiences d'interagir avec votre contenu 24 heures sur 24, 7 jours sur 7, tout en représentant votre marque personnelle de manière cohérente.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d06c5e4672bf739199d369/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Mar 2025 17:00:00 GMT"
     }
 ]
