@@ -91,6 +91,13 @@
         "date": "Wed, 12 Mar 2025 05:49:00 GMT"
     },
     {
+        "title": "Gemma 3, la nouvelle IA open source de Google",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2540351_voici-gemma-3-par-google-une-ia-open-source-puissante-qui-fonctionne-sur-smartphone-et-met-deepseek-au-defi",
+        "body": "Google a récemment dévoilé Gemma 3, la dernière version de sa gamme de modèles d'IA open source basée sur son IA propriétaire, Gemini. Gemma 3 se compose de quatre modèles allant de 1 à 27 milliards de paramètres, offrant ainsi une gamme d'options en termes de puissance et de complexité. Le modèle le plus petit, Gemma3-1B, est particulièrement intéressant car il peut s'exécuter sur un smartphone, le rendant accessible à un large public. Les modèles plus grands sont capables de tâches complexes et peuvent analyser du texte, des images et des vidéos. Gemma 3 est polyvalent, pouvant être utilisé pour créer des assistants virtuels ou personnalisé pour des langues et des besoins spécifiques. Google a également créé le \"Gemmaverse\", une plateforme fournissant des exemples pour inspirer les développeurs. En termes de performance, Gemma 3 rivalise avec des modèles d'IA plus lourds tout en nécessitant beaucoup moins de ressources. Bien que moins précis que les modèles Gemini, Gemma 3 offre des performances compétitives et un grand potentiel pour les développeurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-25-1200x677-1-768x433.png?resize=169,169&key=be884629",
+        "date": "Tue, 11 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la robotique avec Gemini AI",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2539337_apres-les-smartphones-voici-carrement-les-robots-gemini",
         "body": "Google étend les capacités de son IA Gemini, en particulier pour les applications robotiques. La division DeepMind a dévoilé deux nouveaux modèles dérivés de Gemini 2.0, permettant aux robots d'effectuer diverses tâches complexes. Gemini Robotics peut s'adapter à différentes plateformes robotiques et gérer des tâches inconnues, des instructions multiples et de nouveaux environnements. Il excelle dans la manipulation délicate d'objets et peut accomplir des tâches en plusieurs étapes. Gemini Robotics-ER, quant à lui, améliore la compréhension du monde réel par Gemini, en se concentrant sur le raisonnement spatial et la capacité à développer de nouvelles compétences à la volée. Google collabore avec des partenaires spécialisés en robotique pour améliorer et tester ces modèles, avec des taux de réussite impressionnants.",
@@ -180,26 +187,5 @@
         "body": "L'article explore le potentiel de transformation de l'industrie des services financiers par les agents IA autonomes. Ces agents IA de nouvelle génération, capables d'apprendre à effectuer des tâches complexes avec une intervention humaine minimale, sont sur le point de révolutionner divers secteurs, notamment les services financiers. Les entreprises de ce secteur, qui ont toujours su tirer parti des nouvelles technologies, seront profondément impactées par l'IA. Les auteurs prévoient que les agents IA fonctionneront comme des analystes et des conseillers en investissement autonomes, en temps réel, identifiant les tendances et les opportunités, et surpassant les algorithmes IA traditionnels en trouvant de manière autonome les moyens les plus efficaces de maximiser les gains financiers. De plus, ils amélioreront la conformité réglementaire, créeront de nouvelles expériences client hautement personnalisées et révolutionneront le support client et les stratégies d'investissement. Cependant, l'évolution de l'IA soulève également des défis, notamment des pertes d'emplois, des implications éthiques et de sécurité, et la nécessité de cadres pour une utilisation responsable. Si l'industrie parvient à naviguer à travers ces défis, une nouvelle ère transformative s'ouvrira pour les services bancaires, d'assurance et financiers, améliorant l'accès, l'équité et la résilience pour tous.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cfdce1fa1adf661d75778a/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 11 Mar 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Tirer le meilleur parti de l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/10/how-to-take-control-of-your-ai-game-and-win/?ss=ai",
-        "body": "Bien que l'engouement pour l'IA persiste et que des milliards de dollars y soient investis, des questions difficiles se posent quant au retour sur investissement réel qu'elle apporte aux entreprises. L'article fournit des conseils d'experts du secteur sur la manière de tirer le meilleur parti de l'IA pour obtenir de meilleurs résultats. Commencer par une analyse approfondie des besoins et de la vision de l'entreprise, puis déterminer comment l'IA peut être intégrée, est essentiel. Une approche axée sur les données, qui définit clairement les cas d'utilisation, est cruciale pour une utilisation efficace de l'IA. De plus, garantir l'éthique et la transparence de l'IA, ainsi que la conformité aux réglementations, est essentiel pour gagner la confiance des clients. Enfin, mesurer le retour sur investissement de l'IA est essentiel pour s'assurer que les dépenses sont justifiées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b8caaf5d37d5d313604bcf/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 11 Mar 2025 00:50:00 GMT"
-    },
-    {
-        "title": "Gmail et Google Agenda s'allient pour une meilleure productivité",
-        "link": "https://www.frandroid.com/marques/google/2537963_gmail-organisez-votre-agenda-en-un-clic-grace-a-gemini",
-        "body": "Google continue d'intégrer son IA Gemini à ses applications, avec un focus sur la productivité des utilisateurs de Google Workspace. La dernière nouveauté permet de créer facilement des événements dans Google Agenda à partir d'emails reçus sur Gmail. Gemini analyse le contenu des emails et affiche un bouton \"Ajouter à l'agenda\", qui remplit automatiquement les détails de l'événement. Cette fonctionnalité, disponible pour les clients Google Workspace et Google AI Premium, simplifie l'organisation du planning professionnel et la prise de rendez-vous. Pour le moment, elle n'est offerte qu'en anglais sur le web, mais devrait être étendue aux smartphones.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/samsung-galaxy-s24-plus-13-google-apps-gmail-1200x800-1-768x512.jpg?resize=200,200&key=01606a92",
-        "date": "Mon, 10 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA dans les jeux vidéo : les expérimentations de Sony",
-        "link": "https://www.frandroid.com/marques/2537581_sony-experimente-avec-lia-pour-transformer-ses-personnages-emblematiques-en-vrais-compagnons",
-        "body": "Sony a présenté en interne une démo technique impressionnante, utilisant l'IA pour faire interagir un personnage de jeu vidéo, Aloy de la série Horizon, avec les joueurs. La vidéo, qui a depuis été retirée, a suscité des débats sur l'utilisation de l'IA dans l'industrie du jeu vidéo et ses implications éthiques. Sharwin Raghoebardajal, directeur de l'ingénierie logicielle chez Sony Interactive Entertainment, a souligné que la démo utilisait différents LLM, dont ChatGPT-4 et Llama3, avec une voix synthétisée par une technologie interne de Sony. Cette expérimentation soulève des questions sur l'avenir de l'IA dans les jeux vidéo, notamment sur son impact potentiel sur les acteurs humains et les coûts de production.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gdc15kvjedin5c4v6cce-1200x675-1-768x432.png?resize=169,169&key=fc2265cb",
-        "date": "Mon, 10 Mar 2025 23:00:00 GMT"
     }
 ]
