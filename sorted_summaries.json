@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple's Siri Delays",
+        "link": "https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features#comments",
+        "body": "Apple retarde certaines fonctionnalités alimentées par l'IA, initialement promises pour iOS 19. L'entreprise fait face à des critiques concernant la lenteur de ses progrès dans le domaine de l'IA et de Siri. Lors d'une réunion, le directeur senior Robby Walker a qualifié la situation de \"laide\" et a reconnu le burnout potentiel des employés. Il a également souligné que l'inclusion des fonctionnalités retardées dans iOS 19 n'est pas garantie en raison d'autres engagements de l'entreprise. La réunion a révélé des tensions entre l'unité Siri et la division marketing, cette dernière souhaitant mettre en avant des fonctionnalités non prêtes. Apple a depuis retiré une publicité pour l'iPhone 16 mettant en vedette ces fonctionnalités et a ajouté des avertissements sur son site Web. Walker a déclaré que les dirigeants, dont Craig Federighi et John Giannandrea, assument la responsabilité de la situation et que l'équipe Siri a accompli un travail impressionnant.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 14 Mar 2025 19:42:10 GMT"
+    },
+    {
+        "title": "Les dangers de l'IA pour les projets de connaissance libre",
+        "link": "https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/",
+        "body": "Bien que les avantages de l'IA ouverte soient nombreux, il existe des scénarios qui peuvent semer le doute chez ceux qui contribuent à des projets libres et ouverts ou qui publient leurs œuvres sous des licences libres. L'article souligne que les vraies menaces sont les entreprises d'IA qui exploitent le travail des autres sans rien donner en retour et qui étouffent les projets de connaissance libre. Ces entreprises ont une relation vampirique avec les communs, en tirant profit tout en réduisant les incitations à rendre le travail publiquement disponible. L'article plaide pour des mécanismes pour forcer les entreprises d'IA à s'engager avec les référentiels de connaissances sur les termes de leurs créateurs, tels que des modèles payants à haut volume et des signaux de préférence non liés au droit d'auteur. Il souligne également l'importance de l'attribution et du respect pour les communautés qui rendent les communs possibles.",
+        "image": "",
+        "date": "Fri, 14 Mar 2025 19:05:37 GMT"
+    },
+    {
         "title": "TwinMind, l'assistant numérique alimenté par l'IA",
         "link": "https://www.forbes.com/sites/johnkoetsier/2025/03/14/this-personal-ai-becomes-your-twin-mind/?ss=ai",
         "body": "TwinMind est une application mobile d'IA qui agit comme un second cerveau numérique, transcrivant et résumant les conversations, suggérant des points d'action et répondant aux questions détaillées. L'application, qui fonctionne sur Apple Silicon iOS, est conçue pour être efficace en termes de batterie et de respect de la vie privée, en traitant les données sur l'appareil plutôt que dans le cloud. Les utilisateurs peuvent choisir d'utiliser des moteurs IA de haut niveau pour des tâches plus complexes, moyennant des frais supplémentaires, et une version payante sera disponible pour 15 $ par mois. L'application a pour objectif d'aider les utilisateurs à se souvenir des informations importantes et, à long terme, pourrait évoluer pour aider à gérer les finances et les responsabilités domestiques.",
@@ -138,33 +152,5 @@
         "body": "Apple a officiellement annoncé que la sortie des nouvelles fonctionnalités de Siri, son assistant virtuel, serait retardée. Cette information est désormais visible sur l'Apple Store, bien qu'aucune mention similaire n'ait encore été faite sur la version française du site. Ce retard a suscité des critiques de la part de John Gruber, journaliste chez Daring Fireball, qui remet en question la stratégie d'Apple et sa transparence envers le public et la presse. Gruber compare la situation actuelle à celle de l'entreprise avant le retour de Steve Jobs, une période marquée par de fausses promesses. Il souligne l'importance du \"capital de crédibilité\" qu'Apple a mis du temps à reconstruire et qui est maintenant menacé par ce retard. Le journaliste critique également la suppression par Apple d'une publicité de 2024 vantant les mérites du futur Siri.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=47a173e3",
         "date": "Wed, 12 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : un paysage concurrentiel diversifié",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/12/a-broader-field-lets-talk-winners-and-losers-with-ai/?ss=ai",
-        "body": "L'article explore l'idée que l'écosystème de l'IA pourrait évoluer vers un terrain de jeu plus diversifié, avec de multiples leaders et innovateurs, contrairement aux monopoles technologiques traditionnels. Les intervenants, représentant des startups et des entreprises établies, discutent de l'importance de la confiance, de l'efficacité et de la diversité dans le développement de l'IA, ainsi que du rôle de l'IA dans divers secteurs. Ils soulignent également l'importance de se concentrer sur le travail plutôt que sur la valorisation de l'entreprise, et expriment leur enthousiasme face aux opportunités offertes par l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d1e519152c2119fd396e4b/0x0.jpg?format=jpg&crop=1618,910,x0,y148,safe&width=440",
-        "date": "Wed, 12 Mar 2025 20:00:00 GMT"
-    },
-    {
-        "title": "La diversité au cœur de l'IA",
-        "link": "https://www.forbes.com/sites/committeeof200/2025/03/12/why-women-in-ai-are-the-key-to-unlocking-billion-dollar-markets/?ss=ai",
-        "body": "La diversité au sein des équipes d'IA est essentielle pour refléter les besoins des consommateurs et assurer la précision et l'efficacité de la technologie. Bien que les femmes représentent la moitié du marché mondial, leur sous-représentation dans le développement de l'IA conduit à des produits qui ne répondent pas à leurs besoins spécifiques. L'article souligne l'importance de comprendre les comportements des consommateurs et met en évidence les risques associés à la création de solutions IA qui ne prennent pas en compte la diversité des expériences et des perspectives. Des exemples dans les domaines de la santé et des services financiers illustrent comment l'exclusion des femmes peut entraîner des erreurs coûteuses et mettre des vies en danger. En revanche, les initiatives dirigées par des femmes, telles que les diagnostics du cancer du sein assistés par l'IA, ont un impact positif en améliorant la détection précoce, en sauvant des vies et en réduisant les coûts des soins de santé. L'article plaide pour une plus grande inclusion des femmes dans le développement de l'IA, non seulement pour des raisons d'équité, mais aussi pour des avantages économiques, avec des équipes diverses conduisant à des modèles de données plus riches et plus précis, et des produits plus intuitifs qui répondent mieux aux besoins des consommateurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d1de3658ce39bf55962291/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 12 Mar 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un outil pour surmonter nos angles morts",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/12/mirror-mirror-how-ai-exposes-the-blind-spots-holding-you-back/?ss=ai",
-        "body": "L'article explore le potentiel de l'IA pour aider les humains à surmonter leurs biais cognitifs et leurs angles morts mentaux. L'IA peut servir de lentille pour magnifier les angles morts que notre intelligence naturelle a tendance à négliger, améliorant ainsi notre conscience de soi et notre collaboration. L'IA peut également agir comme un partenaire créatif et un coach objectif, nous poussant à sortir de nos zones de confort et à explorer de nouvelles perspectives. En détectant les modèles et les associations à grande échelle, l'IA peut proposer des idées qui remettent en question nos hypothèses et stimulent la pensée créative. De plus, l'IA peut servir de coach de développement personnel et professionnel, analysant les données et révélant les angles morts que nous préférons ignorer. Cependant, l'article souligne également que l'IA n'est pas une solution miracle et que les biais peuvent également s'infiltrer dans les algorithmes. La clé est d'apprendre à interagir avec l'IA en tant que partenaire, reconnaissant nos propres contributions aux entrées et résultats imparfaits. Enfin, l'article suggère que l'IA agit comme un miroir, reflétant nos modèles collectifs et nous poussant à modifier notre approche et à remettre en question nos hypothèses et nos biais.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d1bb3b5e0254223a452b86/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 12 Mar 2025 19:00:00 GMT"
-    },
-    {
-        "title": "Snapchat présente de nouvelles lentilles vidéo animées par l'IA",
-        "link": "https://www.theverge.com/news/628354/snap-snapchat-ai-video-lenses#comments",
-        "body": "Snap Inc. a annoncé que les abonnés Snapchat Platinum pourront désormais utiliser des lentilles vidéo avec des animaux ou des fleurs générés par l'IA. Initialement, trois lentilles \"AI Video Lenses\" seront disponibles, dont une lentille renard qui place un renard sur votre épaule et une lentille raton laveur qui fait grimper des ratons laveurs sur votre tête. Snap prévoit d'ajouter de nouvelles lentilles alimentées par l'IA chaque semaine. Ces lentilles sont alimentées par un modèle vidéo génératif développé en interne par Snap, offrant ainsi aux utilisateurs de Snapchat un accès à des outils IA de pointe. L'entreprise a déjà démontré par le passé son intérêt pour l'intégration de l'IA, de la RA et de l'apprentissage automatique à sa plateforme.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK466_01.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 12 Mar 2025 18:59:57 GMT"
     }
 ]
