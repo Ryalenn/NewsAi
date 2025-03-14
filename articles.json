@@ -105,14 +105,14 @@
         "check": "yes"
     },
     {
-        "title": "Dites adieu à Gemini, voici comment le remplacer par Perplexity sur votre Android",
+        "title": "Dites adieu \u00e0 Gemini, voici comment le remplacer par Perplexity sur votre Android",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2542811_dites-adieu-a-gemini-voici-comment-le-remplacer-par-perplexity-sur-votre-android",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/perplexity-1200x900-1-768x576.jpeg?resize=225,225&key=9eb4445b",
         "date": "Thu, 13 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Laissez ChatGPT contrôler votre porte d’entrée ? Voilà une nouvelle idée saugrenue",
+        "title": "Laissez ChatGPT contr\u00f4ler votre porte d\u2019entr\u00e9e ? Voil\u00e0 une nouvelle id\u00e9e saugrenue",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2542545_laissez-chatgpt-controler-votre-porte-dentree-voila-une-nouvelle-idee-saugrenue",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/netatmo-sonnette-livraison-1200x900-1-768x576.jpg?resize=225,225&key=590b7e1e",
         "date": "Thu, 13 Mar 2025 23:00:00 GMT",
@@ -138,5 +138,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d46563070c9012051c669b/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 14 Mar 2025 17:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 14 Mar 2025 19:42:10 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/",
+        "image": "",
+        "date": "Fri, 14 Mar 2025 19:05:37 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theinformation.com/articles/deepseek-national-treasure-china-now-closely-guarded?rc=mshudk",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25848984/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 14 Mar 2025 18:49:30 GMT",
+        "check": "no"
     }
 ]
