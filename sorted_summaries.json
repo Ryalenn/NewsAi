@@ -7,6 +7,13 @@
         "date": "Sat, 15 Mar 2025 04:00:00 GMT"
     },
     {
+        "title": "Google Gemini : la nouvelle ère de l'IA",
+        "link": "https://www.frandroid.com/marques/google/2543505_la-fin-dune-ere-google-assistant-va-bientot-ceder-sa-place-a-gemini",
+        "body": "Google annonce la transition de Google Assistant vers Gemini, son nouvel assistant IA intégré à sa galaxie d'applications et à Android. Gemini deviendra l'assistant par défaut sur les smartphones Android, ainsi que sur les casques audio, tablettes, montres, enceintes et téléviseurs connectés. La mise à jour vers Gemini sera déployée progressivement, avec certains anciens modèles de smartphones exclus en raison de leurs faibles capacités matérielles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-assistant-1200x900-1-768x576.jpg?resize=225,225&key=cc654a12",
+        "date": "Fri, 14 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "Apple's Siri Delays",
         "link": "https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features#comments",
         "body": "Apple retarde certaines fonctionnalités alimentées par l'IA, initialement promises pour iOS 19. L'entreprise fait face à des critiques concernant la lenteur de ses progrès dans le domaine de l'IA et de Siri. Lors d'une réunion, le directeur senior Robby Walker a qualifié la situation de \"laide\" et a reconnu le burnout potentiel des employés. Il a également souligné que l'inclusion des fonctionnalités retardées dans iOS 19 n'est pas garantie en raison d'autres engagements de l'entreprise. La réunion a révélé des tensions entre l'unité Siri et la division marketing, cette dernière souhaitant mettre en avant des fonctionnalités non prêtes. Apple a depuis retiré une publicité pour l'iPhone 16 mettant en vedette ces fonctionnalités et a ajouté des avertissements sur son site Web. Walker a déclaré que les dirigeants, dont Craig Federighi et John Giannandrea, assument la responsabilité de la situation et que l'équipe Siri a accompli un travail impressionnant.",
@@ -138,19 +145,5 @@
         "body": "Morgan Stanley, partenaire du PGA Tour, a présenté une nouvelle application basée sur l'IA lors de l'édition 2023 du tournoi THE PLAYERS Championship. L'application, nommée AI Course Setup Tool et fonctionnant avec AWS, permet de prédire à l'avance comment chaque trou va se jouer pendant le tournoi, en prenant en compte divers facteurs tels que la distance de frappe et la pénalité pour les balles hors du fairway. Cet outil vise à aider les agronomes, les officiels du tournoi et le personnel sur place à optimiser l'emplacement des tees et des trous, améliorant ainsi la précision et la rapidité des décisions. Justin Rose, ambassadeur de la marque Morgan Stanley et vainqueur de 11 tournois du PGA Tour, s'est dit enthousiaste de voir comment les insights de l'IA influenceront le jeu et offriront un aperçu des applications futures, telles que l'évaluation préventive de l'impact de changements architecturaux mineurs. Alice Milligan, CMO de Morgan Stanley, a souligné que cette nouvelle application représente une évolution naturelle de l'engagement de l'entreprise dans l'innovation technologique, tout en soulignant l'importance de la philanthropie dans le partenariat de l'entreprise avec le tournoi.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d2344ff7859a03cab2c8a6/0x0.jpg?format=jpg&crop=4008,2256,x0,y204,safe&width=440",
         "date": "Thu, 13 Mar 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Les obstacles à l'avènement de l'AGI",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/13/beyond-chatgpt-the-5-toughest-challenges-on-the-path-to-agi/?ss=ai",
-        "body": "L'intelligence artificielle générale (AGI) reste un objectif lointain, même pour les entreprises les plus avancées en matière d'IA, en raison de cinq obstacles majeurs. L'IA actuelle est impressionnante, comme en témoigne ChatGPT, mais elle ne peut pas encore explorer, interagir et apprendre du monde de manière autonome. L'AGI nécessiterait que les machines puissent « généraliser » les connaissances et effectuer toute tâche humaine, ce qui exige des avancées technologiques supplémentaires, des investissements massifs et des changements sociétaux. L'IA actuelle est limitée à des tâches spécifiques et ne peut pas transférer les connaissances acquises d'une tâche à une autre. De plus, les machines dépendent de capteurs pour interagir avec le monde, contrairement aux humains qui disposent d'une gamme d'outils sensoriels et physiques. La réalisation de l'AGI exigera également une puissance de traitement et des quantités de données énormes, ce qui soulève des préoccupations en matière d'empreinte énergétique et de retour sur investissement. Enfin, l'acceptation sociale de l'AGI dépendra de la confiance accordée aux machines et de leur capacité à expliquer leurs décisions.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d28ba8bca6614a8ec7cb44/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 13 Mar 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La percée de l'IA dans la découverte de médicaments",
-        "link": "https://www.forbes.com/sites/zinnialee/2025/03/13/qiming-backed-ai-drug-discovery-startup-insilico-medicine-hits-unicorn-status-with-110-million-funding-round/?ss=ai",
-        "body": "Insilico Medicine, une entreprise de découverte de médicaments basée sur l'IA, a rejoint le club des licornes après une levée de fonds de 110 millions de dollars. La société, fondée en 2014, utilise l'IA et la robotique pour rationaliser le processus de développement de médicaments, en visant à raccourcir les délais et à améliorer le taux de réussite. Leur principal candidat-médicament, Rentosertib, a montré des résultats positifs dans un essai clinique de phase 2 pour le traitement de la fibrose pulmonaire idiopathique, une maladie pulmonaire incurable. Insilico a également concédé des licences pour certains de ses candidats-médicaments à des sociétés pharmaceutiques et a généré des revenus en fournissant son logiciel d'IA pour la découverte de médicaments. La société envisage une introduction en bourse à Hong Kong, suivant les traces de son pair Xtalpi, qui a connu une introduction en bourse réussie en 2024.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d2859a26a584c90548f518/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 13 Mar 2025 07:00:00 GMT"
     }
 ]
