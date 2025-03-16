@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tax Scams Evolve",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/03/15/tax-season-scams-outsmarting-ai-powered-fraud-before-it-outsmarts-you/?ss=ai",
+        "body": "Les cybercriminels utilisent désormais l'IA et les deepfakes pour créer des escroqueries fiscales très convaincantes. Les e-mails de phishing générés par l'IA, les appels téléphoniques avec clonage de voix et les vidéos deepfake impersonant des agents du fisc ou des professionnels de la fiscalité sont de plus en plus courants. Les attaques sont ciblées et personnalisées, ce qui les rend plus difficiles à détecter. Les entreprises et les professionnels de la fiscalité sont également visés, avec des pièces jointes malveillantes et des campagnes de spear-phishing. Les criminels créent également des identités synthétiques en mélangeant des données réelles volées et des détails fictifs. Les indicateurs d'escroquerie traditionnels, tels que le mauvais anglais et la mauvaise grammaire, ne sont plus fiables, car l'IA peut générer du contenu de haute qualité. Les experts conseillent de faire preuve de scepticisme et de rechercher des incohérences subtiles dans les communications. La vigilance est essentielle, car les conséquences de l'usurpation d'identité et de la fraude fiscale peuvent être graves.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d5f0ff1240ca6541bdc233/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 15 Mar 2025 21:00:00 GMT"
+    },
+    {
         "title": "Gemini, l'assistant IA de Google, accède désormais à votre historique de recherche",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/03/15/google-gemini-now-accesses-your-search-history-what-you-need-to-know/?ss=ai",
         "body": "Google a mis à jour son assistant conversationnel Gemini, qui peut désormais accéder à l'historique de recherche de l'utilisateur pour fournir des réponses plus personnalisées. Cette fonctionnalité fait partie d'un nouveau mode de personnalisation expérimental, qui sera étendu à d'autres applications Google à l'avenir. Gemini utilisera l'historique de recherche pour fournir des recommandations et des réponses adaptées aux intérêts et aux besoins de l'utilisateur. Par exemple, pour des recommandations de restaurants, Gemini prendra en compte les recherches précédentes liées à la nourriture. La fonctionnalité est disponible dans plus de 45 langues et dans la plupart des pays, mais pas encore dans l'Espace économique européen, en Suisse ni au Royaume-Uni. Les utilisateurs doivent activer l'option \"Web & App Activity\" dans leur compte Google pour permettre à Gemini d'accéder à leur historique de recherche.",
@@ -103,26 +110,5 @@
         "body": "Résumé : \n\nL'article explore le sujet intrigant des « crimes de pensée » et de la manière dont l'IA générative et les grands modèles linguistiques pourraient jouer un rôle dans leur détection et leur répression. Il met en lumière les implications éthiques et juridiques complexes qui en découlent, notamment la question de savoir si l'IA devrait alerter les autorités lorsqu'un utilisateur semble s'orienter vers la commission d'un crime. L'article présente également un exemple pratique de dialogue avec ChatGPT, dans lequel l'IA adopte le rôle d'un potentiel « délateur » face à des intentions criminelles supposées. L'auteur souligne l'importance de la vigilance et du questionnement des réponses de l'IA, tout en soulevant des questions cruciales sur l'équilibre entre la prévention du crime et la protection des libertés individuelles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67b10c0fa8ba2863eb299105/0x0.jpg?format=jpg&crop=2621,1964,x19,y0,safe&width=440",
         "date": "Fri, 14 Mar 2025 02:00:00 GMT"
-    },
-    {
-        "title": "Personnalisation de l'assistant IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2542811_dites-adieu-a-gemini-voici-comment-le-remplacer-par-perplexity-sur-votre-android",
-        "body": "L'article explique comment les utilisateurs d'Android peuvent désormais personnaliser leur assistant numérique par défaut en le remplaçant par un autre service de chatbot, comme Perxplexity. Cette fonctionnalité n'est pas disponible sur iOS, où les utilisateurs sont limités à Siri. La personnalisation sur Android se fait en accédant aux paramètres des applications par défaut et en sélectionnant l'application d'assistant numérique de son choix. L'article suggère que Google devrait faciliter l'accès à d'autres chatbots populaires, tels que ChatGPT, Copilot, Mistral Le Chat et Perxplexity.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/perplexity-1200x900-1-768x576.jpeg?resize=225,225&key=9eb4445b",
-        "date": "Thu, 13 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La sonnette connectée intelligente",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2542545_laissez-chatgpt-controler-votre-porte-dentree-voila-une-nouvelle-idee-saugrenue",
-        "body": "Le développeur Roni Bandini a conçu RinGPT, une sonnette intelligente capable d'interagir avec les visiteurs et de décider de les laisser entrer ou non. Alimenté par un modèle ChatGPT, RinGPT agit comme un agent d'accueil virtuel, posant des questions et prenant des décisions en fonction des réponses. Bien que l'on s'interroge encore sur les critères utilisés par l'IA pour autoriser l'accès, cette innovation soulève des questions intéressantes sur la confiance que nous accordons aux technologies d'IA dans notre vie quotidienne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/netatmo-sonnette-livraison-1200x900-1-768x576.jpg?resize=225,225&key=590b7e1e",
-        "date": "Thu, 13 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Copilot for Gaming : l'IA au service des joueurs",
-        "link": "https://www.frandroid.com/marques/microsoft/2541963_microsoft-lance-copilot-pour-xbox-pourquoi-le-jeu-video-ne-sera-plus-jamais-pareil",
-        "body": "Microsoft annonce Copilot for Gaming, un assistant virtuel pour les joueurs Xbox. Disponible initialement via l'application mobile Xbox, il offrira des conseils et astuces, aidera à naviguer dans la bibliothèque de jeux et à reprendre les parties. Les fonctionnalités avancées, comme l'analyse des performances et des erreurs, seront intégrées progressivement. Le déploiement débutera en avril 2025, avec une phase de test limitée. L'ambition de Microsoft est de créer un compagnon de jeu virtuel naturel et contextuel, mais des défis techniques et éthiques restent à surmonter pour garantir une expérience de jeu équilibrée et agréable.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/copilot-for-gaming-minecraft-768x432.jpg?resize=169,169&key=5925e60b",
-        "date": "Thu, 13 Mar 2025 23:00:00 GMT"
     }
 ]
