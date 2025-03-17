@@ -77,14 +77,14 @@
         "check": "yes"
     },
     {
-        "title": "Gemini efface les filigranes, une avancée technologique aux conséquences inquiétantes ?",
+        "title": "Gemini efface les filigranes, une avanc\u00e9e technologique aux cons\u00e9quences inqui\u00e9tantes ?",
         "link": "https://www.frandroid.com/marques/google/2544299_gemini-efface-les-filigranes-une-avancee-technologique-aux-consequences-inquietantes",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-gemini-1200x675-1-768x432.jpg?resize=169,169&key=842cd7a4",
         "date": "Sun, 16 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Google Assistant : ces 7 fonctionnalités disparaissent dès maintenant, voici comment les remplacer",
+        "title": "Google Assistant : ces 7 fonctionnalit\u00e9s disparaissent d\u00e8s maintenant, voici comment les remplacer",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2544135_google-assistant-ces-7-fonctionnalites-disparaissent-des-maintenant-voici-comment-les-remplacer",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/nest-audio-vs-echo-dot-1200x900-1-768x576.jpg?resize=225,225&key=fe4fd1ae",
         "date": "Sun, 16 Mar 2025 23:00:00 GMT",
@@ -96,5 +96,40 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Mar 2025 11:57:26 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 17 Mar 2025 13:21:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/17/is-2025-the-year-of-the-robot/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d85ec2f6d95a54a748a0a4/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 18:22:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/17/vaccines-and-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d8656b9d2ff69ba0e3cac9/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 18:10:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/17/okay-ai-solo-kagent-is-an-agentic-ai-framework-for-kubernetes/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d5a90fc373d8ee089604d0/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/17/new-galaxy-s25-edge-leak-reveals-samsungs-valuable-surprise-offer/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d828de6a90d28b098dff17/0x0.jpg?format=jpg&crop=2051,1367,x131,y497,safe&width=440",
+        "date": "Mon, 17 Mar 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
