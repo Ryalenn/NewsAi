@@ -14,6 +14,13 @@
         "date": "Mon, 17 Mar 2025 12:00:00 GMT"
     },
     {
+        "title": "Copilot Update",
+        "link": "https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot",
+        "body": "Microsoft est en train de déployer une version native de son application Copilot pour Windows, avec une nouvelle interface améliorée et un raccourci clavier pour activer l'assistant IA. L'application a été involontairement désinstallée sur certains appareils Windows 11 à la suite de la mise à jour mensuelle de mars. Microsoft travaille sur une solution et les utilisateurs concernés peuvent la réinstaller manuellement depuis le Microsoft Store. De nouvelles fonctionnalités de Copilot seront dévoilées lors d'un événement spécial pour le 50e anniversaire de Microsoft le 4 avril, avec la participation du PDG de Microsoft AI, Mustafa Suleyman. Des rumeurs circulent sur le développement par Microsoft de ses propres modèles d'IA en interne pour concurrencer OpenAI.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 17 Mar 2025 11:57:26 GMT"
+    },
+    {
         "title": "L'avenir de l'écriture avec l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/03/17/5-ai-prompts-that-will-transform-your-writing-forever/?ss=ai",
         "body": "L'IA générative, comme ChatGPT, transforme l'écriture professionnelle, mais les utilisateurs ne tirent pas pleinement parti de son potentiel. L'IA peut aider les écrivains à organiser leurs idées, à structurer leur travail et à améliorer leurs compétences en écriture. La clé réside dans les invites utilisées pour guider l'IA. L'article fournit des exemples d'invites pour diverses tâches d'écriture, telles que l'évaluation critique, le choix des mots, la lutte contre le bloc de l'écrivain, la relecture et l'édition, et l'écriture persuasive. L'IA peut améliorer l'efficacité et la productivité des écrivains, mais il est important de s'adapter aux nouvelles technologies pour tirer parti des opportunités qu'elles offrent.",
@@ -26,6 +33,20 @@
         "body": "L'article explore l'évolution des interfaces cerveau-ordinateur (ICOs) et leur impact potentiel sur divers domaines, notamment la médecine et les sciences du comportement. Il commence par mentionner la première implantation d'une ICO de NeuroLink il y a un an, soulignant la complexité de la mise en œuvre de cette technologie. Danial Hosseintabar, lors d'une conférence TED, explique le fonctionnement des ICO et la manière dont l'IA peut automatiser certains processus de pensée. Il suggère que l'IA pourrait aider à filtrer les contenus en ligne et à améliorer la communication en identifiant les similarités dans les modèles de pensée. Bien que le nombre exact de personnes ayant des implants NeuroLink ne soit pas connu, on estime qu'il est inférieur à quelques centaines. L'article conclut en réfléchissant à l'avenir de l'adoption massive de ces technologies et à leurs possibles applications bénéfiques pour l'humanité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d770291de2ae2fdf2a0be1/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 17 Mar 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Les inquiétudes éthiques et légales autour de Gemini de Google",
+        "link": "https://www.frandroid.com/marques/google/2544299_gemini-efface-les-filigranes-une-avancee-technologique-aux-consequences-inquietantes",
+        "body": "Le modèle d'IA Gemini 2.0 Flash de Google peut supprimer les filigranes des images protégées par des droits d'auteur, ce qui soulève des inquiétudes éthiques et légales. Cette capacité va à l'encontre des engagements de Google en matière de protection de la propriété intellectuelle et pourrait favoriser la manipulation d'images à grande échelle. L'IA reconstitue intelligemment les zones masquées, améliore la qualité de l'image et traite même les filigranes complexes. Cette fonctionnalité soulève des questions sur la violation des droits d'auteur et affaiblit la protection des artistes et photographes. De plus, Google a développé SynthID, un filigrane numérique invisible, et a signé un accord avec la Maison Blanche pour implémenter des filigranes sur les contenus générés par IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-gemini-1200x675-1-768x432.jpg?resize=169,169&key=842cd7a4",
+        "date": "Sun, 16 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini : une nouvelle ère pour l'assistant vocal de Google",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2544135_google-assistant-ces-7-fonctionnalites-disparaissent-des-maintenant-voici-comment-les-remplacer",
+        "body": "Google a récemment annoncé la suppression de plusieurs fonctionnalités de son Assistant vocal, dans le cadre de la transition vers son nouveau système, Gemini. Parmi les fonctionnalités supprimées, on trouve la traduction de conversations en direct et les annonces personnalisables de Family Bell. Google souhaite ainsi se concentrer sur Gemini et éviter de disperser ses utilisateurs. Bien que certaines suppressions puissent être gênantes, Google propose des alternatives, comme l'application Google Traduction. De plus, Gemini offre des fonctionnalités plus personnalisables, même si elles sont moins intuitives. Ces changements reflètent l'évolution de Google vers une nouvelle ère de son assistant vocal, avec un recentrage stratégique et des améliorations continues.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/nest-audio-vs-echo-dot-1200x900-1-768x576.jpg?resize=225,225&key=fe4fd1ae",
+        "date": "Sun, 16 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "La tromperie de l'IA : une menace émergente ?",
@@ -82,12 +103,5 @@
         "body": "Google a mis à jour son assistant conversationnel Gemini, qui peut désormais accéder à l'historique de recherche de l'utilisateur pour fournir des réponses plus personnalisées. Cette fonctionnalité fait partie d'un nouveau mode de personnalisation expérimental, qui sera étendu à d'autres applications Google à l'avenir. Gemini utilisera l'historique de recherche pour fournir des recommandations et des réponses adaptées aux intérêts et aux besoins de l'utilisateur. Par exemple, pour des recommandations de restaurants, Gemini prendra en compte les recherches précédentes liées à la nourriture. La fonctionnalité est disponible dans plus de 45 langues et dans la plupart des pays, mais pas encore dans l'Espace économique européen, en Suisse ni au Royaume-Uni. Les utilisateurs doivent activer l'option \"Web & App Activity\" dans leur compte Google pour permettre à Gemini d'accéder à leur historique de recherche.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67cb192c35031b1b17aadf92/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 15 Mar 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Twintual : l'assistant de communication assisté par l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/03/15/novel-ai-email-assistant-helps-you-escape-inbox-overload/?ss=ai",
-        "body": "L'article présente Twintual, une start-up qui développe un assistant de communication basé sur l'IA pour aider les professionnels à gérer leur surcharge de messagerie. Dirigée par la PDG Cristina Grau-Vilchez, l'entreprise vise à simplifier la communication numérique en utilisant l'IA pour composer des réponses, résumer les discussions et répondre aux messages sur différentes plateformes. Twintual se distingue des autres assistants de messagerie basés sur l'IA en offrant une compatibilité multi-plateformes (Gmail, Outlook, Slack, LinkedIn, WhatsApp), en classant les messages par urgence et en permettant aux utilisateurs de modifier les brouillons de réponses générés par l'IA. L'accent est mis sur la flexibilité, la confidentialité et le contrôle de l'utilisateur final. La start-up a déjà établi des partenariats avec des entreprises leaders du secteur telles que Google et Inflection AI, et a attiré l'attention des entreprises désireuses d'explorer le potentiel de l'IA pour l'automatisation des flux de travail numériques. Twintual rejoint un marché concurrentiel d'outils d'automatisation, mais sa PDG est convaincue que son approche axée sur l'IA comportementale et la personnalisation sera un facteur de différenciation clé.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d4d1a178bb66236b52108d/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 15 Mar 2025 13:00:00 GMT"
     }
 ]
