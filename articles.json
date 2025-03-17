@@ -75,5 +75,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d7c1dc964ed63c7b45fb6e/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 17 Mar 2025 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/03/17/youtuber-mark-rober-tests-cameras-vs-lidar-and-gets-it-wrong/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d7d879b62d000a2e97cad5/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 12:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/03/17/jack-dorseys-ai-assistant--goose-is-taking-off-in-open-source-circles/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d740236cfa0e04315fed41/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
