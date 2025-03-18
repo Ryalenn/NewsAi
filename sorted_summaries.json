@@ -1,5 +1,19 @@
 [
     {
+        "title": "Le réveil nucléaire",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/17/the-ai-fueled-nuclear-renaissance-are-we-loosing-our-biggest-bet/?ss=ai",
+        "body": "L'article explore le retour de l'énergie nucléaire sur le devant de la scène énergétique mondiale, avec un focus particulier sur son lien avec l'intelligence artificielle. Il souligne comment les demandes énergétiques croissantes de l'IA, ainsi que les objectifs climatiques, ont ravivé l'intérêt pour le nucléaire. Les applications de l'IA dans le nucléaire sont présentées comme un facteur clé de cette renaissance, améliorant la sécurité, l'efficacité et la cybersécurité. Cependant, l'auteur met également en garde contre les vulnérabilités introduites par une dépendance accrue à l'IA, notamment les risques de cyberattaques sophistiquées et d'erreurs algorithmiques. L'article examine les dynamiques en jeu à différentes échelles, des choix individuels à la compétition globale pour la domination technologique. Il souligne la nécessité d'une réflexion nuancée sur la résurgence du nucléaire, en reconnaissant les risques tout en évaluant les avantages potentiels. Le rôle de l'IA dans cette équation est double : améliorer la technologie nucléaire et atténuer les craintes du public en présentant une image plus attrayante. Enfin, l'article appelle à une prise de conscience, une évaluation critique et une responsabilité à tous les niveaux pour garantir des résultats positifs pour l'humanité dans cette entreprise à haut risque.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d8854af77da46337057ad4/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "xAI acquiert Hotshot",
+        "link": "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/",
+        "body": "La société d'IA d'Elon Musk, xAI, a acquis Hotshot, une startup qui développe des outils de génération vidéo assistée par IA. Hotshot, fondée par Aakash Sastry et John Mullan, a initialement développé des outils de création et de modification de photos assistés par IA avant de se concentrer sur les modèles texte-vidéo. Avant son acquisition, Hotshot avait attiré des investissements de la part de VCs, notamment Lachy Groom et Alexis Ohanian. xAI pourrait avoir l'intention de développer ses propres modèles de génération vidéo pour concurrencer des plateformes comme Sora et Veo 2 de Google. Musk avait précédemment suggéré que xAI travaillait sur des modèles vidéo pour sa plateforme de chatbot Grok. La date de sortie d'un modèle \"Grok Video\" est attendue \"dans quelques mois\".",
+        "image": "",
+        "date": "Mon, 17 Mar 2025 20:04:23 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : opportunités et défis",
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/17/is-agentic-ai-ready-to-handle-the-way-we-do-business/?ss=ai",
         "body": "L'article explore le potentiel de l'IA agentique, qui pourrait devenir aussi fondamentale pour les opérations commerciales que les ordinateurs personnels dans les années 1990. Il y a un débat sur la signification de l'IA agentique et son importance réelle pour les entreprises. L'IA agentique, contrairement à l'IA générative, est conçue pour prendre des décisions et exécuter des tâches de manière autonome. Les défis de l'IA agentique incluent la crise énergétique, l'efficacité de l'apprentissage et la fiabilité des données. L'optimisation de l'infrastructure est cruciale pour gérer les besoins énergétiques élevés des modèles d'IA. L'apprentissage par renforcement est une technique clé pour améliorer la capacité d'apprentissage et d'adaptation de l'IA. Les données de haute qualité et spécifiques au domaine sont essentielles pour le fonctionnement efficace de l'IA agentique dans des domaines tels que la santé et la finance. Bien que l'IA transforme les entreprises, elle n'est pas encore prête pour la prise de décision dans des scénarios à haut risque. Les entreprises doivent se concentrer sur les fondamentaux, notamment la préparation des données, l'amélioration des compétences en IA du personnel et l'intégration de l'IA pour augmenter la productivité.",
@@ -28,11 +42,25 @@
         "date": "Mon, 17 Mar 2025 16:00:00 GMT"
     },
     {
+        "title": "Gemini 2.0 Flash",
+        "link": "https://www.theverge.com/news/631203/google-gemini-flash-2-native-image-generation-watermark-removal",
+        "body": "Google a récemment mis à disposition des développeurs de nouvelles fonctionnalités expérimentales de son modèle AI Gemini 2.0 Flash. Parmi celles-ci, la capacité à éditer des images de manière conversationnelle et à générer des images à partir de textes. Cependant, les utilisateurs ont découvert que le modèle peut également supprimer avec précision les filigranes des images, ce qui soulève des préoccupations en matière de droits d'auteur. Gemini 2.0 Flash peut remplacer les filigranes Getty Images par un marqueur \"édité avec AI\", tout en remplissant l'image de manière cohérente. De plus, le modèle peut ajouter des images reconnaissables de personnes réelles, comme Elon Musk, ce qui n'est pas autorisé par le modèle Gemini complet. Ces fonctionnalités sont actuellement accessibles uniquement aux développeurs via AI Studio, mais soulèvent des questions quant à la nécessité de garde-fous pour prévenir les abus.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 17 Mar 2025 15:50:22 GMT"
+    },
+    {
         "title": "Samsung Galaxy S25 Edge : l'assistant IA de Google en prime",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/03/17/new-galaxy-s25-edge-leak-reveals-samsungs-valuable-surprise-offer/?ss=ai",
         "body": "Le prochain smartphone Galaxy S25 Edge de Samsung sera proposé avec un plan promotionnel Google Gemini Advanced, selon un rapport. Gemini Advanced est l'assistant IA premium de Google, offrant un accès à ses modèles et fonctionnalités IA les plus puissants. Le téléphone sera lancé à la mi-avril 2025, avec le 16 avril comme date probable. Le Galaxy S25 Edge est un nouvel appareil de la gamme Galaxy S25, avec un positionnement tarifaire entre le S25+ et le S25 Ultra. Bien qu'il n'y ait pas de détails sur la durée de l'abonnement Gemini Advanced inclus, il est probable qu'il soit différent de celui offert avec les autres appareils Galaxy S25.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d828de6a90d28b098dff17/0x0.jpg?format=jpg&crop=2051,1367,x131,y497,safe&width=440",
         "date": "Mon, 17 Mar 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Cube 3D : une avancée dans la génération d'objets 3D",
+        "link": "https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt",
+        "body": "Roblox a lancé Cube 3D, un modèle d'IA capable de créer des objets 3D à partir d'une simple description textuelle. Cube 3D est entraîné à reconnaître et prédire les formes nécessaires pour construire un objet 3D complet, de la même manière qu'un modèle linguistique prédit le prochain mot d'une phrase. Le modèle a été entraîné à l'aide de datasets publics, de données sous licence et de données d'expérience de l'écosystème Roblox. À l'avenir, Cube 3D pourra également générer des objets à partir d'images et deviendra un modèle multimodal capable de traiter le texte, les images, les vidéos et d'autres types d'entrées.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 17 Mar 2025 13:30:00 GMT"
     },
     {
         "title": "Zoom's AI Companion",
@@ -117,19 +145,5 @@
         "body": "L'article explore les idées courantes selon lesquelles l'intelligence artificielle générale (AGI) sera parfaite et sans les imperfections de l'intelligence humaine. Il remet en question cette notion, suggérant que l'AGI reflétera probablement les faiblesses et les forces de l'intelligence humaine. Il examine les camps divisés des experts en IA, entre ceux qui craignent l'extinction de l'humanité et ceux qui croient en une IA bénéfique qui résoudra les problèmes mondiaux. L'article se concentre sur l'AGI, mais mentionne également l'intelligence artificielle superintelligente (ASI) comme une possibilité lointaine, soulignant que l'ASI pourrait avoir des défauts d'intelligence ou non, et que toutes les options sont sur la table. Il souligne l'importance de l'alignement de l'IA avec les valeurs humaines et conclut que l'AGI, bien qu'aspirant à la perfection, pourrait en fait être imparfaite dès le départ.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d6054377dcf920a68a8c4c/0x0.jpg?format=jpg&crop=1731,1297,x208,y0,safe&width=440",
         "date": "Sun, 16 Mar 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Red Eye : La domination chinoise dans l'IA militaire",
-        "link": "https://www.forbes.com/sites/amirhusain/2025/03/15/red-eye-chinas-fighter-pilot-ai-breaks-new-ground/?ss=ai",
-        "body": "L'article décrit les progrès récents de la Chine dans le développement de systèmes d'IA militaire, en particulier le système \"Red Eye\", qui révolutionne le combat aérien. Red Eye, développé par l'Institut du Nord-Ouest de génie mécanique et électrique de Xianyang, surpasse les capacités humaines dans la détection de changements minimes dans les surfaces de contrôle des avions de combat adverses, anticipant ainsi leurs trajectoires avec une précision millimétrique. Cette technologie, basée sur des modèles de vision et des images infrarouges, illustre la capacité de l'IA à transcender les limites humaines et à prendre des décisions en une fraction de seconde. L'auteur souligne l'importance de cette avancée, qui pourrait bouleverser les règles du combat aérien et rendre obsolètes les avantages humains tels que l'imprévisibilité. La Chine teste déjà des drones de combat autonomes et Red Eye pourrait être le prochain pas dans l'évolution de ces technologies, avec un déploiement potentiel sur des plateformes plus lourdes comme l'avion furtif J-20. L'article met en évidence la course à l'autonomie dans le combat aérien entre la Chine et les États-Unis, soulignant que la Chine ne se contente pas de suivre le rythme, mais trace sa propre voie innovante. Les implications de ces progrès vont au-delà du cockpit, avec des considérations éthiques et des questions sur le rôle futur des pilotes humains. L'auteur conclut en appelant à une prise de conscience de la part des États-Unis face à l'avancée chinoise dans le domaine de l'IA militaire.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d63fbff642ab3c13cf8d2b/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 16 Mar 2025 03:22:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence : un fiasco ?",
-        "link": "https://www.frandroid.com/marques/apple/2543851_une-honte-absolue-la-crise-de-siri-explose-au-grand-jour-chez-apple",
-        "body": "Apple, connu pour ses lancements impeccables, fait face à une crise interne suite à l'annonce prématurée d'Apple Intelligence, un ensemble de fonctionnalités IA censées transformer Siri en super-assistant. Le directeur de Siri, Robby Walker, admet que les retards sont embarrassants et que l'entreprise a vendu du rêve trop tôt. Le département marketing a promu des fonctionnalités non prêtes, créant des attentes élevées chez les clients. Les employés sont frustrés et les concurrents avancent à grands pas sur leurs propres IA. Apple ne sait pas quand iOS 19 et les fonctionnalités promises seront prêts, ce qui pourrait coûter cher à l'entreprise en termes d'image et de leadership dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/apple-intelligence-frandroid-p1066773-1200x800-1-768x512.jpg?resize=200,200&key=7f445305",
-        "date": "Sat, 15 Mar 2025 23:00:00 GMT"
     }
 ]
