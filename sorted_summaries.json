@@ -14,6 +14,13 @@
         "date": "Wed, 19 Mar 2025 16:00:00 GMT"
     },
     {
+        "title": "Copilot Returns to Windows 11 Devices",
+        "link": "https://www.theverge.com/news/632523/microsoft-copilot-uninstall-bug-fix#comments",
+        "body": "Microsoft a accidentellement désinstallé Copilot, son assistant IA, de certains appareils Windows 11 lors d'une mise à jour. L'entreprise a maintenant résolu le problème et les appareils affectés sont revenus à leur état d'origine, avec Copilot réinstallé et épinglé à la barre des tâches. Copilot, récemment lancé en tant qu'application native Windows, offre une interface plus élégante et permet de démarrer rapidement une conversation vocale avec l'assistant en maintenant les touches Alt + Barre d'espace.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 19 Mar 2025 15:16:50 GMT"
+    },
+    {
         "title": "OpenAI contre la SB 1047",
         "link": "https://www.theverge.com/policy/632174/openai-trump-proposal-regulation#comments",
         "body": "OpenAI a soumis une proposition de politique \"axée sur la liberté\" au plan d'action en matière d'IA de la Maison Blanche, demandant à l'administration Trump d'utiliser les lois commerciales pour promouvoir la domination américaine en matière d'IA face à la Chine, d'assouplir les restrictions de copyright pour les données d'entraînement, d'investir massivement dans les infrastructures d'IA et d'empêcher les États d'étouffer le secteur avec des centaines de nouvelles lois, en particulier la SB 1047, une loi controversée sur la sécurité de l'IA en Californie. Des centaines de projets de loi liés à l'IA inondent les gouvernements des États, et on s'attend à ce que des centaines, voire des milliers, soient proposés d'ici la fin de 2025, ce que l'industrie de l'IA tente d'éviter. La SB 1047, qui a été adoptée puis veto par le gouverneur Gavin Newsom en 2024, aurait imposé des restrictions de sécurité et une responsabilité juridique strictes aux laboratoires d'IA de pointe, ce qui aurait forcé tous les laboratoires d'IA du pays à se conformer. OpenAI s'est publiquement opposé à ce projet de loi, affirmant qu'il entraverait la croissance et le leadership mondial de l'industrie. Bien que la proposition d'OpenAI préconise la préemption fédérale, elle ne propose pas de cadre national pour remplacer les lois sur l'IA au niveau des États. L'absence de réglementation fédérale et l'impact croissant de l'IA sur la vie quotidienne ont entraîné une augmentation des propositions au niveau des États. OpenAI et l'industrie technologique exploitent la menace de la Chine pour promouvoir leurs objectifs, soulignant les risques pour la sécurité nationale et la perte du statut de superpuissance de l'IA des États-Unis.",
@@ -285,26 +292,5 @@
         "body": "Les données d'Adobe révèlent une augmentation significative des renvois de recherche depuis les outils d'IA, avec une hausse de 1300 % pendant la saison des vacances en 2024 par rapport à 2023. Les utilisateurs passent plus de temps sur les sites et naviguent sur davantage de pages, ce qui suggère que l'IA les dirige vers des pages plus pertinentes. Malgré des débuts chaotiques, avec des erreurs étranges de la part de Google et des controverses entourant la startup Perplexity, la recherche d'IA a gagné en popularité. OpenAI a lancé sa fonctionnalité de recherche dans ChatGPT, en partenariat avec des médias et en soulignant le contrôle des éditeurs sur leur contenu. La recherche d'IA est appréciée des consommateurs, qui l'utilisent pour le shopping en ligne, la recherche d'informations et les recommandations d'achat. Bien que Perplexity et Google incluent de la publicité dans leurs résultats, OpenAI résiste à cette idée, malgré les revenus potentiels. La recherche d'IA offre une alternative à la recherche traditionnelle, encombrée de publicités et de spam SEO, mais doit éviter les mêmes pièges.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24143015/VRG_Illo_5308_K_Radtke_Memeai_Brain_Search.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Mar 2025 22:30:22 GMT"
-    },
-    {
-        "title": "La bataille des moteurs de recherche",
-        "link": "https://www.theverge.com/news/631349/perplexity-ad-google-pizza-glue-fail#comments",
-        "body": "Résumé : La publicité de Perplexity met en scène son assistant IA contre 'Poogle', parodiant Google, en faisant référence à une erreur commise par l'IA de Google concernant l'utilisation de colle pour faire adhérer le fromage à une pizza. Perplexity, se décrivant comme un \"moteur de réponse\", a été accusé de plagiat. Dans sa nouvelle publicité, Lee Jung-jae, star de Squid Game, utilise d'abord Poogle, puis se tourne vers Perplexity pour obtenir une réponse plus satisfaisante à sa question.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lee-jung-jae-perplexity-ad.png?quality=90&strip=all&crop=8.8397790055249%2C0%2C82.32044198895%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 20:14:12 GMT"
-    },
-    {
-        "title": "xAI acquiert Hotshot",
-        "link": "https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/",
-        "body": "La société d'IA d'Elon Musk, xAI, a acquis Hotshot, une startup qui développe des outils de génération vidéo assistée par IA. Hotshot, fondée par Aakash Sastry et John Mullan, a initialement développé des outils de création et de modification de photos assistés par IA avant de se concentrer sur les modèles texte-vidéo. Avant son acquisition, Hotshot avait attiré des investissements de la part de VCs, notamment Lachy Groom et Alexis Ohanian. xAI pourrait avoir l'intention de développer ses propres modèles de génération vidéo pour concurrencer des plateformes comme Sora et Veo 2 de Google. Musk avait précédemment suggéré que xAI travaillait sur des modèles vidéo pour sa plateforme de chatbot Grok. La date de sortie d'un modèle \"Grok Video\" est attendue \"dans quelques mois\".",
-        "image": "",
-        "date": "Mon, 17 Mar 2025 20:04:23 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : opportunités et défis",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/17/is-agentic-ai-ready-to-handle-the-way-we-do-business/?ss=ai",
-        "body": "L'article explore le potentiel de l'IA agentique, qui pourrait devenir aussi fondamentale pour les opérations commerciales que les ordinateurs personnels dans les années 1990. Il y a un débat sur la signification de l'IA agentique et son importance réelle pour les entreprises. L'IA agentique, contrairement à l'IA générative, est conçue pour prendre des décisions et exécuter des tâches de manière autonome. Les défis de l'IA agentique incluent la crise énergétique, l'efficacité de l'apprentissage et la fiabilité des données. L'optimisation de l'infrastructure est cruciale pour gérer les besoins énergétiques élevés des modèles d'IA. L'apprentissage par renforcement est une technique clé pour améliorer la capacité d'apprentissage et d'adaptation de l'IA. Les données de haute qualité et spécifiques au domaine sont essentielles pour le fonctionnement efficace de l'IA agentique dans des domaines tels que la santé et la finance. Bien que l'IA transforme les entreprises, elle n'est pas encore prête pour la prise de décision dans des scénarios à haut risque. Les entreprises doivent se concentrer sur les fondamentaux, notamment la préparation des données, l'amélioration des compétences en IA du personnel et l'intégration de l'IA pour augmenter la productivité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d86cd870dba4cd1a0d567d/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Mar 2025 19:00:00 GMT"
     }
 ]
