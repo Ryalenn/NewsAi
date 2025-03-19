@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de la robotique humanoïde",
+        "link": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
+        "body": "Nvidia a présenté le robot humanoïde NEO Gamma de 1X, fonctionnant avec son modèle de base GR00T N1, lors du GTC 2025. Le modèle GR00T N1, désormais disponible, est un modèle open-source, pré-entraîné et personnalisable conçu pour accélérer le développement et améliorer les capacités des robots humanoïdes. Jensen Huang, fondateur et PDG de Nvidia, déclare que l'ère de la robotique généraliste est arrivée, et que le modèle GR00T N1, avec ses nouveaux frameworks de génération de données et d'apprentissage robotique, permettra aux développeurs de robots d'ouvrir de nouvelles perspectives dans l'ère de l'IA. Le robot NEO Gamma a démontré sa capacité à effectuer des tâches de rangement de manière autonome, en utilisant un modèle de politique post-entraîné basé sur GR00T N1. Bernt Børnich, PDG de 1X Technologies, souligne que l'avenir des robots humanoïdes réside dans leur adaptabilité et leur capacité d'apprentissage, et que le modèle GR00T N1 de Nvidia améliore considérablement la raisonnement et les compétences des robots. D'autres entreprises développant des robots humanoïdes, telles que Boston Dynamics, Agility Robotics et Neura Robotics, ont également eu un accès anticipé au modèle GR00T N1. Ce modèle utilise une architecture à double système inspirée de la cognition humaine, avec un système \"fast-thinking action model\" et un système \"slow-thinking model\" pour la planification des actions, permettant aux robots d'effectuer des mouvements précis et des tâches complexes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GR00T-N1-Image.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 19 Mar 2025 13:12:57 GMT"
+    },
+    {
+        "title": "Google s'empare de Wiz",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai#comments",
+        "body": "Google a annoncé l'acquisition de la startup de sécurité cloud Wiz pour 32 milliards de dollars, dans le but de renforcer son activité cloud et de rattraper ses rivaux Amazon et Microsoft. Wiz, fondée en 2020, s'est rapidement imposée comme l'une des entreprises de logiciels à la croissance la plus rapide au monde, offrant une solution de sécurité innovante appelée \"agentless security\". Cette acquisition est considérée comme un pari risqué pour Google, car il devra surmonter des obstacles d'intégration et des préoccupations réglementaires. Cependant, avec la croissance continue du marché de l'IA, Google pourrait réduire l'écart avec les autres géants technologiques. L'acquisition de Wiz élargit le portefeuille de sécurité de Google et renforce sa crédibilité en tant que fournisseur de solutions d'entreprise, lui permettant potentiellement d'attirer de nouveaux clients vers Google Cloud.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 19 Mar 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la guerre : l'évolution de la guérilla à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/michaelashley/2025/03/19/from-muskets-to-drones-tech-is-transforming-the-battlefield/?ss=ai",
         "body": "L'article explore l'évolution de la guerre, depuis les tactiques de guérilla de la guerre révolutionnaire américaine jusqu'à l'ère moderne de l'IA et des drones. Il soulève la question de savoir si les drones alimentés par l'IA représentent la prochaine évolution de la guerre de guérilla et si les pays qui n'adoptent pas cette technologie seront laissés pour compte. L'auteur souligne les progrès remarquables de la technologie des drones militaires, notamment l'intégration de l'IA pour améliorer la conscience situationnelle et la prise de décision. La discussion porte également sur l'utilisation de drones en essaim, qui offre un avantage tactique important en permettant des missions complexes et coordonnées. L'article conclut que les drones alimentés par l'IA ne sont pas seulement une évolution de la guerre de guérilla, mais aussi de l'ingéniosité humaine, soulignant les défis éthiques et les implications pour l'avenir.",
@@ -26,6 +40,13 @@
         "body": "Bien que l'IA présente un potentiel énorme, des milliards sont gaspillés chaque année sur des initiatives qui ne donnent jamais de résultats concrets, avec un taux d'échec élevé. Cet article explore les raisons fondamentales de ces échecs et fournit des conseils pour les éviter. L'écart entre les attentes et la réalité est souvent dû à une vision mythique de l'IA comme solution magique. Les organisations sous-estiment les besoins en données de l'IA, traitant la mise en œuvre de l'IA uniquement comme un défi technique, ignorant l'adoption humaine. De nombreux projets commencent sans lien clair avec les problèmes commerciaux réels, et les entreprises manquent de talents et de structures de gouvernance en IA. Le succès de l'IA nécessite une planification rigoureuse, en commençant par identifier les problèmes commerciaux spécifiques, en investissant dans l'infrastructure des données et en traitant la mise en œuvre de l'IA comme un changement organisationnel. Une approche incrémentielle, une gouvernance claire et la compréhension de l'IA comme un ensemble de technologies puissantes, mais non magiques, sont essentielles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67da6d3ac809ca458387522b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini désormais accessible sans compte",
+        "link": "https://www.frandroid.com/marques/google/2548373_fini-la-connexion-obligatoire-gemini-se-democratise-pour-tous",
+        "body": "Google a récemment rendu son assistant virtuel Gemini plus accessible en supprimant l'obligation d'avoir un compte Google pour l'utiliser sur le web. Cette décision marque un changement de stratégie pour l'entreprise, permettant aux utilisateurs de tester facilement Gemini en quelques clics. La version anonyme offre un accès limité au modèle de base, Gemini 2.0 Flash, avec des fonctionnalités restreintes. Pour débloquer toutes les capacités de Gemini, un compte est toujours nécessaire. Cette approche vise à trouver un équilibre entre accessibilité et incitation à la création de comptes. Le changement pourrait augmenter la popularité de Gemini et aider Google à rattraper ses concurrents sur le marché de l'IA conversationnelle. De plus, il répond aux préoccupations en matière de vie privée, permettant aux utilisateurs de poser des questions à Gemini sans laisser de traces.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/gemini-sur-iphone-768x579.jpg?resize=226,226&key=32c4ebfd",
+        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Installer un LLM sur son ordinateur",
@@ -75,6 +96,13 @@
         "body": "Google DeepMind a développé SynthID, un outil de détection des images générées par l'IA. SynthID fonctionne comme un filigrane numérique, incorporé dans les pixels de l'image, invisible à l'œil nu mais facilement détectable par l'outil dédié. L'objectif est de lutter contre les abus potentiels de l'IA, notamment lors des élections à venir en 2024 aux États-Unis et au Royaume-Uni. L'outil est d'abord déployé sur Google Cloud et Vertex AI, et pourrait à terme être intégré à Chrome. La course à l'armement est lancée, et Google se dit prêt à faire évoluer SynthID pour rester efficace face aux tentatives de contournement.",
         "image": "",
         "date": "Tue, 18 Mar 2025 20:00:00 GMT"
+    },
+    {
+        "title": "DGX Spark et DGX Station",
+        "link": "https://www.theverge.com/news/631957/nvidia-dgx-spark-station-grace-blackwell-ai-supercomputers-gtc#comments",
+        "body": "Nvidia dévoile ses nouveaux superordinateurs personnels d'IA, le DGX Spark et le DGX Station, alimentés par la plateforme Grace Blackwell de l'entreprise. Le DGX Spark, anciennement connu sous le nom de Digits, est un superordinateur d'IA compact et abordable, tandis que le DGX Station est une version de bureau plus grande destinée aux développeurs d'IA, chercheurs et scientifiques des données. Le DGX Spark est alimenté par le GB10 Blackwell Superchip, offrant une puissance de calcul impressionnante dans un petit facteur de forme de bureau. Il prend en charge les derniers modèles d'IA, y compris les modèles de robotique et de raisonnement mondial de Nvidia. Pendant ce temps, le DGX Station utilise le GB300 Blackwell Ultra desktop superchip, offrant 20 petaflops de performances IA et une mémoire système massive. Les deux systèmes sont conçus pour faciliter le travail sur de grands modèles d'IA, en ligne ou hors ligne. Nvidia a également annoncé que des partenaires OEM, notamment Asus, Dell, HP et d'autres, proposeront leurs propres versions des ordinateurs DGX, disponibles plus tard cette année.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/NVIDIA-DGX-Spark-and-NVIDIA-DGX-Station.jpeg?quality=90&strip=all&crop=0%2C0.019630938358858%2C100%2C99.960738123282&w=2400",
+        "date": "Tue, 18 Mar 2025 19:04:21 GMT"
     },
     {
         "title": "La course aux puces IA",
@@ -145,6 +173,13 @@
         "body": "Résumé : \n\nL'article présente les méthodologies du cycle de vie du développement des prompts (PDLC) comme un moyen systématique d'améliorer les performances des applications d'IA générative. Il compare le processus de création de prompts à la programmation ou à l'ingénierie logicielle, en soulignant l'importance d'une approche structurée. L'auteur suggère que, bien que l'intuition soit parfois utile, une compréhension complète des différentes méthodes de composition des prompts est essentielle pour tirer le meilleur parti de l'IA générative. L'article présente quatre approches fondamentales pour l'ingénierie des prompts, allant de l'instinctuelle à la réfléchie, en passant par la planifiée et la rigoureuse. Il explore également les facteurs clés influençant le choix de l'approche, tels que l'objectif, les limitations, la fréquence et le type de prompt. Enfin, il fournit un aperçu des PDLC proposés par différentes entreprises et chercheurs, soulignant leur structure similaire et leur valeur dans l'amélioration de la cohérence, de la qualité et de l'éthique des réponses de l'IA. L'article encourage les utilisateurs à maîtriser les différentes approches de l'ingénierie des prompts pour s'adapter de manière dynamique aux différentes situations.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/664bb98c3cd8668c7aa3d74f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Mar 2025 05:00:00 GMT"
+    },
+    {
+        "title": "L'IA, un avenir prometteur pour l'industrie alimentaire",
+        "link": "https://www.forbes.com/sites/daphneewingchow/2025/03/18/these-are-the-latest-ai-trends-transforming-the-food-industry/?ss=ai",
+        "body": "L'IA transforme l'industrie alimentaire, de la production et de la sécurité à la personnalisation des régimes et à l'optimisation de la chaîne d'approvisionnement. Le marché de l'agroalimentaire basé sur l'IA devrait atteindre 27,73 milliards de dollars d'ici 2029, grâce à la demande croissante de nutrition personnalisée, au renforcement des normes de sécurité, à l'optimisation de la chaîne d'approvisionnement et à la durabilité. Des outils d'innovation alimentaire comme KLEVER AI et Ai Palette, aux assistants virtuels comme Google Gemini, l'IA améliore l'expérience alimentaire des consommateurs. L'IA permet également de prédire la réponse glycémique des repas et d'analyser les concentrations bactériennes dans les aliments. L'IA transforme les cuisines des restaurants et des ménages, avec des robots chefs capables de préparer des plats rapidement et en toute sécurité. Les distributeurs alimentaires adoptent l'IA pour rationaliser le traitement des commandes et améliorer l'efficacité. L'IA améliore également la nutrition, avec des applications personnalisées et des outils de planification des repas, et permet de recréer des aliments traditionnels avec des ingrédients plus sains. De plus, l'IA révolutionne l'inspection des aliments et l'assurance qualité, améliorant la détection de la contamination et la précision des prédictions de durée de conservation. Les chaînes de restauration rapide investissent dans l'IA pour améliorer l'expérience client, avec des kiosques, des menus numériques et des systèmes de commande vocale. L'IA réduit l'impact environnemental de l'industrie alimentaire en minimisant le gaspillage alimentaire et en optimisant la chaîne d'approvisionnement. Enfin, l'IA a le potentiel de lutter contre la malnutrition et l'insécurité alimentaire, et d'améliorer l'accès à des aliments plus sains.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d925ea4dfdbea80abfb738/0x0.jpg?format=jpg&crop=4230,2379,x0,y132,safe&width=440",
+        "date": "Tue, 18 Mar 2025 00:00:00 GMT"
     },
     {
         "title": "Nvidia présente la RTX Pro 6000",
@@ -257,26 +292,5 @@
         "body": "Google a récemment mis à disposition des développeurs de nouvelles fonctionnalités expérimentales de son modèle AI Gemini 2.0 Flash. Parmi celles-ci, la capacité à éditer des images de manière conversationnelle et à générer des images à partir de textes. Cependant, les utilisateurs ont découvert que le modèle peut également supprimer avec précision les filigranes des images, ce qui soulève des préoccupations en matière de droits d'auteur. Gemini 2.0 Flash peut remplacer les filigranes Getty Images par un marqueur \"édité avec AI\", tout en remplissant l'image de manière cohérente. De plus, le modèle peut ajouter des images reconnaissables de personnes réelles, comme Elon Musk, ce qui n'est pas autorisé par le modèle Gemini complet. Ces fonctionnalités sont actuellement accessibles uniquement aux développeurs via AI Studio, mais soulèvent des questions quant à la nécessité de garde-fous pour prévenir les abus.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Mar 2025 15:50:22 GMT"
-    },
-    {
-        "title": "Samsung Galaxy S25 Edge : l'assistant IA de Google en prime",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/17/new-galaxy-s25-edge-leak-reveals-samsungs-valuable-surprise-offer/?ss=ai",
-        "body": "Le prochain smartphone Galaxy S25 Edge de Samsung sera proposé avec un plan promotionnel Google Gemini Advanced, selon un rapport. Gemini Advanced est l'assistant IA premium de Google, offrant un accès à ses modèles et fonctionnalités IA les plus puissants. Le téléphone sera lancé à la mi-avril 2025, avec le 16 avril comme date probable. Le Galaxy S25 Edge est un nouvel appareil de la gamme Galaxy S25, avec un positionnement tarifaire entre le S25+ et le S25 Ultra. Bien qu'il n'y ait pas de détails sur la durée de l'abonnement Gemini Advanced inclus, il est probable qu'il soit différent de celui offert avec les autres appareils Galaxy S25.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d828de6a90d28b098dff17/0x0.jpg?format=jpg&crop=2051,1367,x131,y497,safe&width=440",
-        "date": "Mon, 17 Mar 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Cube 3D : une avancée dans la génération d'objets 3D",
-        "link": "https://www.theverge.com/news/630977/roblox-cube-3d-objects-mesh-ai-text-prompt",
-        "body": "Roblox a lancé Cube 3D, un modèle d'IA capable de créer des objets 3D à partir d'une simple description textuelle. Cube 3D est entraîné à reconnaître et prédire les formes nécessaires pour construire un objet 3D complet, de la même manière qu'un modèle linguistique prédit le prochain mot d'une phrase. Le modèle a été entraîné à l'aide de datasets publics, de données sous licence et de données d'expérience de l'écosystème Roblox. À l'avenir, Cube 3D pourra également générer des objets à partir d'images et deviendra un modèle multimodal capable de traiter le texte, les images, les vidéos et d'autres types d'entrées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 13:30:00 GMT"
-    },
-    {
-        "title": "Zoom's AI Companion",
-        "link": "https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update#comments",
-        "body": "L'assistant IA de Zoom va bénéficier d'une mise à niveau lui permettant de planifier des réunions et d'effectuer d'autres tâches pour les utilisateurs. Accessible via l'onglet \"Tâches\" de l'application mobile Zoom Workplace, l'IA pourra planifier des réunions de suivi, générer des documents à partir de réunions et créer des clips vidéo. De plus, une nouvelle fonction d'enregistreur vocal transcrira et résumera les réunions en personne. Ces fonctionnalités, ainsi qu'un add-on personnalisé à $12/mois, seront disponibles gratuitement pour les utilisateurs de Zoom Workplace.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 13:21:57 GMT"
     }
 ]
