@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de la guerre : l'évolution de la guérilla à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/03/19/from-muskets-to-drones-tech-is-transforming-the-battlefield/?ss=ai",
+        "body": "L'article explore l'évolution de la guerre, depuis les tactiques de guérilla de la guerre révolutionnaire américaine jusqu'à l'ère moderne de l'IA et des drones. Il soulève la question de savoir si les drones alimentés par l'IA représentent la prochaine évolution de la guerre de guérilla et si les pays qui n'adoptent pas cette technologie seront laissés pour compte. L'auteur souligne les progrès remarquables de la technologie des drones militaires, notamment l'intégration de l'IA pour améliorer la conscience situationnelle et la prise de décision. La discussion porte également sur l'utilisation de drones en essaim, qui offre un avantage tactique important en permettant des missions complexes et coordonnées. L'article conclut que les drones alimentés par l'IA ne sont pas seulement une évolution de la guerre de guérilla, mais aussi de l'ingéniosité humaine, soulignant les défis éthiques et les implications pour l'avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d9d39cca8d26eea9ae374b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 19 Mar 2025 11:00:00 GMT"
+    },
+    {
+        "title": "Gemini AI Assistant",
+        "link": "https://9to5google.com/2025/03/18/gemini-no-sign-in/",
+        "body": "L'application Gemini n'exige plus que les utilisateurs se connectent avec leur compte Google. En mode Incognito, les utilisateurs anonymes sont accueillis par l'interface de chat de Gemini, avec des invites suggérées. L'assistant IA personnel s'adresse désormais aux utilisateurs déconnectés avec \"Rencontrez Gemini, votre assistant IA personnel\". Le modèle Gemini 2.0 Flash est utilisé par défaut, et la connexion est requise pour explorer de nouveaux modèles, télécharger des fichiers et accéder à l'historique des chats. L'application Android nécessite toujours une connexion.",
+        "image": "",
+        "date": "Wed, 19 Mar 2025 10:26:39 GMT"
+    },
+    {
         "title": "Le futur de l'IA est biologique",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/03/19/ai-breakthrough-combines-living-brain-neurons-and-silicon-chips-in-brain-in-a-box-bio-computer/?ss=ai",
         "body": "Résumé : \n\nUn nouveau type d'ordinateur biologique, appelé CL1, combine des puces en silicium traditionnelles avec des neurones cérébraux vivants, offrant une approche révolutionnaire de l'intelligence artificielle. Cet ordinateur biologique, développé par Cortical Labs, est vendu au prix modeste de 35 000 $, ce qui le rend accessible à certains consommateurs et start-ups technologiques. L'article explore les implications de cette technologie, y compris les avantages potentiels en matière d'efficacité énergétique et les considérations éthiques liées à l'utilisation de neurones synthétiques. La possibilité de fusionner l'IA artificielle avec des neurones biologiques soulève des questions sur l'avenir de l'IA et la nature de la conscience.",
@@ -12,6 +26,20 @@
         "body": "Bien que l'IA présente un potentiel énorme, des milliards sont gaspillés chaque année sur des initiatives qui ne donnent jamais de résultats concrets, avec un taux d'échec élevé. Cet article explore les raisons fondamentales de ces échecs et fournit des conseils pour les éviter. L'écart entre les attentes et la réalité est souvent dû à une vision mythique de l'IA comme solution magique. Les organisations sous-estiment les besoins en données de l'IA, traitant la mise en œuvre de l'IA uniquement comme un défi technique, ignorant l'adoption humaine. De nombreux projets commencent sans lien clair avec les problèmes commerciaux réels, et les entreprises manquent de talents et de structures de gouvernance en IA. Le succès de l'IA nécessite une planification rigoureuse, en commençant par identifier les problèmes commerciaux spécifiques, en investissant dans l'infrastructure des données et en traitant la mise en œuvre de l'IA comme un changement organisationnel. Une approche incrémentielle, une gouvernance claire et la compréhension de l'IA comme un ensemble de technologies puissantes, mais non magiques, sont essentielles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67da6d3ac809ca458387522b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Installer un LLM sur son ordinateur",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
+        "body": "Il est désormais possible d'installer un modèle de langage (LLM) sur son propre ordinateur, sans dépendre d'un service cloud. Cela permet de garder ses données privées, d'éviter les abonnements coûteux et de personnaliser son modèle d'IA. Des modèles open-source comme DeepSeek, LLaMA et Mistral sont disponibles gratuitement et peuvent être exécutés localement avec des performances impressionnantes. Des outils comme LM Studio, GPT4All et Ollama facilitent l'installation et l'utilisation de ces LLM, offrant une interface de chat intuitive. Pour les utilisateurs avancés, des outils en ligne de commande comme Llama.cpp et Hugging Face Transformers permettent une personnalisation plus poussée. L'article fournit également des spécifications matérielles recommandées pour exécuter différents modèles LLM.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
+        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Gemini remplace l'Assistant Google sur les Chromebooks",
+        "link": "https://www.frandroid.com/marques/google/2548137_les-chromebook-se-debarrent-de-google-assistant-et-on-ne-sait-pas-si-cest-une-bonne-idee",
+        "body": "Google remplace l'Assistant Google par son IA de nouvelle génération, Gemini, sur les appareils Chrome OS. La mise à jour Chrome OS 134 remplace l'icône de l'Assistant par celle de Gemini, qui offre une expérience plus riche et des fonctionnalités avancées. Gemini ne répond pas à la commande vocale \"Hey Google\", mais les utilisateurs peuvent lancer l'application web progressive en cliquant sur l'icône. L'objectif de Google est de proposer une expérience d'assistant virtuel plus cohérente et puissante sur toutes ses plateformes. La mise à jour Chrome OS introduit également de nouvelles fonctionnalités d'accessibilité et d'insertion de GIF.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/lenovo-chromebook-1200x777-1-768x497.jpg?resize=194,194&key=7db0e7a2",
+        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Nvidia GTC 2025",
@@ -250,26 +278,5 @@
         "body": "L'assistant IA de Zoom va bénéficier d'une mise à niveau lui permettant de planifier des réunions et d'effectuer d'autres tâches pour les utilisateurs. Accessible via l'onglet \"Tâches\" de l'application mobile Zoom Workplace, l'IA pourra planifier des réunions de suivi, générer des documents à partir de réunions et créer des clips vidéo. De plus, une nouvelle fonction d'enregistreur vocal transcrira et résumera les réunions en personne. Ces fonctionnalités, ainsi qu'un add-on personnalisé à $12/mois, seront disponibles gratuitement pour les utilisateurs de Zoom Workplace.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Mar 2025 13:21:57 GMT"
-    },
-    {
-        "title": "La technologie LIDAR surpasse la vision informatique, mais la course à la voiture autonome est loin d'être terminée",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/03/17/youtuber-mark-rober-tests-cameras-vs-lidar-and-gets-it-wrong/?ss=ai",
-        "body": "Résumé : Mark Rober, un créateur YouTube populaire, a récemment publié une vidéo comparant les performances d'une voiture Tesla équipée d'un système de conduite autonome basé sur la vision informatique à celles d'une voiture test équipée d'un LIDAR Luminar. Bien que la voiture Tesla ait échoué à certains tests, notamment dans des conditions de faible visibilité et face à des obstacles inhabituels, la vidéo de Rober a été critiquée pour avoir utilisé une ancienne version du logiciel de conduite autonome de Tesla, appelée \"Autopilot\", qui n'est pas représentative des capacités de leurs systèmes plus récents. La vidéo met en évidence l'importance de la technologie LIDAR dans les systèmes de conduite autonome actuels, mais il est important de noter que la course à la voiture autonome est loin d'être terminée et que des améliorations continues sont apportées aux technologies de vision informatique et de capteurs. La principale difficulté pour la conduite autonome basée sur la vision informatique est d'atteindre un niveau de fiabilité extrêmement élevé, garantissant la sécurité des passagers et des piétons dans diverses conditions.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d7d879b62d000a2e97cad5/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Mar 2025 12:30:00 GMT"
-    },
-    {
-        "title": "Jack Dorsey's Open-Source AI Revolution",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/03/17/jack-dorseys-ai-assistant--goose-is-taking-off-in-open-source-circles/?ss=ai",
-        "body": "Jack Dorsey, le PDG de Block et le fondateur de Twitter, a récemment lancé \"Goose\", un assistant IA open source qui permet aux utilisateurs d'intégrer de grands modèles linguistiques dans des applications avec des applications réelles. Goose, développé à l'origine comme un outil de développement logiciel, gagne en popularité parmi les développeurs grâce à sa capacité à effectuer un travail de codage complexe avec une intervention humaine minimale. Goose utilise le protocole MCP d'Anthropic pour s'intégrer à une large gamme d'outils et de systèmes tiers, ce qui le rend extrêmement flexible. Block, un partisan de longue date de Bitcoin et de la blockchain, voit un lien naturel entre l'IA open source et la finance décentralisée, avec la possibilité que les agents IA basés sur la blockchain utilisent le Bitcoin pour des transactions sans friction. L'adoption de Goose parmi les développeurs continue de gagner du terrain, avec des contributions de haute qualité de la communauté open source. Block travaille sur le traitement IA local et la combinaison de modèles multi-fournisseurs, avec l'objectif de faire de Goose un soutien aux LLM open source entièrement sur appareil.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d740236cfa0e04315fed41/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Mar 2025 12:00:00 GMT"
-    },
-    {
-        "title": "Copilot Update",
-        "link": "https://www.theverge.com/news/631053/microsoft-windows-11-update-uninstall-copilot",
-        "body": "Microsoft est en train de déployer une version native de son application Copilot pour Windows, avec une nouvelle interface améliorée et un raccourci clavier pour activer l'assistant IA. L'application a été involontairement désinstallée sur certains appareils Windows 11 à la suite de la mise à jour mensuelle de mars. Microsoft travaille sur une solution et les utilisateurs concernés peuvent la réinstaller manuellement depuis le Microsoft Store. De nouvelles fonctionnalités de Copilot seront dévoilées lors d'un événement spécial pour le 50e anniversaire de Microsoft le 4 avril, avec la participation du PDG de Microsoft AI, Mustafa Suleyman. Des rumeurs circulent sur le développement par Microsoft de ses propres modèles d'IA en interne pour concurrencer OpenAI.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 11:57:26 GMT"
     }
 ]
