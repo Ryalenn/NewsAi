@@ -1,10 +1,38 @@
 [
     {
+        "title": "L'IA dans l'éducation : des outils Google aux salles de classe",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/03/20/8-schools-innovating-with-google-ai--heres-what-theyre-doing/?ss=ai",
+        "body": "L'article présente huit universités et écoles qui intègrent l'IA de Google dans leurs écosystèmes éducatifs, allant de l'enseignement personnalisé à la recherche avancée. À l'UC Riverside, l'IA participe activement au processus d'apprentissage, les étudiants débattent avec NotebookLM et affinent leurs arguments. L'université explore également comment Gemini peut rationaliser les tâches administratives. Wake Forest University utilise Gemini pour optimiser les flux de travail administratifs et académiques, automatiser la prise de notes et résumer des documents complexes. SDSU utilise Gemini et NotebookLM pour fournir un soutien à l'étude et à l'écriture, ainsi que des opportunités d'apprentissage interactif. Boise State University stimule la créativité de ses professionnels en marketing avec Gemini. Dans l'enseignement primaire et secondaire, CPS utilise l'IA pour optimiser ses opérations et développer son programme, tandis que Miami-Dade County Public Schools fournit un soutien personnalisé aux enseignants et aux étudiants avec Gemini. Albuquerque Public Schools et Ottawa Catholic School Board utilisent Gemini pour la planification des leçons et pour initier les étudiants à l'IA. Ces exemples soulignent l'impact de l'IA de Google dans l'éducation, avec des avantages tangibles pour les étudiants et les enseignants.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dac52a2d07d9f01a852576/0x0.jpg?format=jpg&crop=1945,1095,x0,y100,safe&width=440",
+        "date": "Thu, 20 Mar 2025 04:00:00 GMT"
+    },
+    {
+        "title": "L'IA, la destinée manifeste et l'avenir de l'humanité",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/03/20/human-manifest-destiny-at-the-heart-of-attaining-pinnacle-ai-and-superintelligence/?ss=ai",
+        "body": "Résumé : \n\nL'article explore l'idée que la poursuite de l'intelligence artificielle générale (AGI) et de l'intelligence artificielle superintelligente (ASI) pourrait être motivée par la croyance en une destinée manifeste. Il explique les concepts d'AGI et d'ASI, et décrit les deux camps principaux dans le domaine de l'IA : les \"doomers\" qui prédisent que l'AGI ou l'ASI détruira l'humanité, et les \"accélérationnistes\" qui croient que l'IA avancée résoudra les problèmes de l'humanité. L'article soulève des questions importantes sur la nature de la destinée manifeste dans le contexte de l'IA, en particulier si elle est utilisée pour justifier des actions potentiellement dangereuses. Enfin, il met en lumière les risques potentiels associés à l'atteinte de l'AGI ou de l'ASI, suggérant que même l'AGI, qui est censé être égal à l'intellect humain, pourrait conduire à l'extinction de l'humanité si nous continuons à le faire évoluer vers l'ASI.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d4e1c86c1d4c32497cb148/0x0.jpg?format=jpg&crop=1569,1176,x96,y0,safe&width=440",
+        "date": "Thu, 20 Mar 2025 04:00:00 GMT"
+    },
+    {
+        "title": "Microsoft s'associe à une start-up pour une IA révolutionnaire",
+        "link": "https://www.frandroid.com/marques/microsoft/2548429_microsoft-sassocie-a-une-start-up-suisse-pour-creer-une-ia-cerebrale",
+        "body": "Microsoft s'associe à Inait, une start-up suisse, pour développer une IA imitant le cerveau des mammifères. Cette IA, nommée Claude 3.7, se distingue par sa capacité à apprendre de ses expériences, comme un être vivant, plutôt que de se reposer uniquement sur de grandes quantités de données. Cette approche, basée sur 20 ans de recherche en neurosciences, vise à reproduire l'intelligence biologique pour améliorer les capacités de l'IA. L'objectif est de révolutionner des domaines tels que la robotique et la finance avec des algorithmes plus adaptables et intelligents. La technologie nécessite moins d'énergie et apprend plus rapidement que les modèles actuels. Microsoft prévoit d'intégrer cette IA à ses produits, ce qui pourrait conduire à des assistants virtuels plus sophistiqués et à des robots industriels hautement adaptables.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/microsoft-logo-scaled-1-1200x800-1-768x512.jpg?resize=200,200&key=311508a7",
+        "date": "Wed, 19 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA et le bonheur humain",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/03/19/is-ai-our-gateway-to-happiness/?ss=ai",
         "body": "L'IA est désormais présente dans de nombreux aspects de la vie, et son influence soulève des questions sur son impact sur le bonheur humain. L'auteur explore l'idée que l'IA pourrait être un chemin vers un plus grand bonheur humain ou si elle nous éloigne de celui-ci. En s'appuyant sur diverses écoles philosophiques, l'article examine la nature insaisissable du bonheur et suggère que la compréhension de soi et de la société est essentielle pour atteindre le bonheur dans un monde interconnecté. Les principes de conscience, d'appréciation, d'acceptation et de responsabilité sont proposés pour naviguer dans l'impact de l'IA sur le bonheur. En embrassant ces principes, nous pouvons exploiter le potentiel de l'IA pour améliorer nos vies et nous rapprocher d'une forme de bonheur plus authentique et durable.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67db5a0a5a34d2a817942b03/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Superordinateurs personnels alimentés par l'IA",
+        "link": "https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai",
+        "body": "Plusieurs fabricants, dont Asus, Dell et HP, développent leurs propres superordinateurs personnels basés sur la plateforme Grace Blackwell de Nvidia. Ces appareils sont conçus comme des mini-PC offrant une puissance de traitement de 1 000 AI TOPS et 128 Go de mémoire unifiée. Asus a présenté l'Ascent GX10, qui se distingue par son design en plastique blanc, tandis que HP a dévoilé le HP ZGX Nano AI Station G1n, qui ressemble à la station de travail Z2 mini. Dell, quant à lui, a adopté une approche plus simple avec le \"Dell Pro Max With GB10\", un boîtier noir doté d'un bouton d'alimentation en haut. Lenovo devrait également rejoindre ce marché avec son propre mini-ordinateur basé sur la plateforme Grace Blackwell, mais n'a pas encore révélé de détails. Les ordinateurs Dell sont attendus pour l'été 2025, tandis que le DGX Spark de Nvidia, qui coûte 3 000 dollars, sera disponible à la même période.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25822628/PXL_20250108_162058411.jpg?quality=90&strip=all&crop=0%2C5.7221581443035%2C100%2C88.555683711393&w=2400",
+        "date": "Wed, 19 Mar 2025 18:28:52 GMT"
     },
     {
         "title": "L'avenir de l'IA : risques et avantages",
@@ -222,12 +250,5 @@
         "body": "Plus de 400 professionnels de l'industrie du divertissement, dont Ben Stiller, Mark Ruffalo et Aubrey Plaza, s'opposent à la proposition de Google et d'OpenAI d'obtenir une exemption gouvernementale pour utiliser des contenus protégés par le droit d'auteur pour entraîner leurs modèles d'IA. Les célébrités affirment que les deux entreprises cherchent à « exploiter librement » les industries créatives, alors que Google et OpenAI affirment que les lois actuelles entravent leur capacité à accéder à des données suffisantes pour entraîner leurs modèles d'IA. OpenAI a qualifié l'application de protections d'utilisation équitable à l'IA de question de « sécurité nationale ». Les célébrités soutiennent que les entreprises d'IA devraient négocier des licences appropriées avec les détenteurs de droits d'auteur, comme le font les autres industries.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2204193351.jpg?quality=90&strip=all&crop=0.009356287425156%2C0%2C99.98128742515%2C100&w=2400",
         "date": "Tue, 18 Mar 2025 13:42:42 GMT"
-    },
-    {
-        "title": "L'art de l'ingénierie des prompts",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/03/18/prompt-development-life-cycle-is-a-vital-keystone-for-prompt-engineering/?ss=ai",
-        "body": "Résumé : \n\nL'article présente les méthodologies du cycle de vie du développement des prompts (PDLC) comme un moyen systématique d'améliorer les performances des applications d'IA générative. Il compare le processus de création de prompts à la programmation ou à l'ingénierie logicielle, en soulignant l'importance d'une approche structurée. L'auteur suggère que, bien que l'intuition soit parfois utile, une compréhension complète des différentes méthodes de composition des prompts est essentielle pour tirer le meilleur parti de l'IA générative. L'article présente quatre approches fondamentales pour l'ingénierie des prompts, allant de l'instinctuelle à la réfléchie, en passant par la planifiée et la rigoureuse. Il explore également les facteurs clés influençant le choix de l'approche, tels que l'objectif, les limitations, la fréquence et le type de prompt. Enfin, il fournit un aperçu des PDLC proposés par différentes entreprises et chercheurs, soulignant leur structure similaire et leur valeur dans l'amélioration de la cohérence, de la qualité et de l'éthique des réponses de l'IA. L'article encourage les utilisateurs à maîtriser les différentes approches de l'ingénierie des prompts pour s'adapter de manière dynamique aux différentes situations.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/664bb98c3cd8668c7aa3d74f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Mar 2025 05:00:00 GMT"
     }
 ]
