@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA et le bonheur humain",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/19/is-ai-our-gateway-to-happiness/?ss=ai",
+        "body": "L'IA est désormais présente dans de nombreux aspects de la vie, et son influence soulève des questions sur son impact sur le bonheur humain. L'auteur explore l'idée que l'IA pourrait être un chemin vers un plus grand bonheur humain ou si elle nous éloigne de celui-ci. En s'appuyant sur diverses écoles philosophiques, l'article examine la nature insaisissable du bonheur et suggère que la compréhension de soi et de la société est essentielle pour atteindre le bonheur dans un monde interconnecté. Les principes de conscience, d'appréciation, d'acceptation et de responsabilité sont proposés pour naviguer dans l'impact de l'IA sur le bonheur. En embrassant ces principes, nous pouvons exploiter le potentiel de l'IA pour améliorer nos vies et nous rapprocher d'une forme de bonheur plus authentique et durable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67db5a0a5a34d2a817942b03/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 19 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : risques et avantages",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/19/addressing-ais-impact-on-humans/?ss=ai",
         "body": "L'article aborde le rôle croissant de l'IA dans divers aspects de la vie humaine et les préoccupations associées. Il met en lumière un programme de recherche et un symposium organisés par le MIT pour aborder les questions clés liées à l'impact de l'IA sur la société. Les sujets de discussion incluent la dépendance excessive à l'IA, la manipulation de l'information, l'atrophie des compétences humaines et les interactions émotionnelles avec l'IA. L'événement explore également l'impact de l'IA sur la vie intérieure, sociale, communautaire, professionnelle et créative des individus. Des intervenants renommés, dont Doug Rushkoff, Jaron Lanier et Ariana Huffington, participent au symposium, offrant ainsi une plateforme pour approfondir notre compréhension des implications de l'IA. L'article souligne l'importance d'aborder proactivement ces questions pour gérer l'impact des innovations technologiques sur nos vies.",
@@ -222,75 +229,5 @@
         "body": "Résumé : \n\nL'article présente les méthodologies du cycle de vie du développement des prompts (PDLC) comme un moyen systématique d'améliorer les performances des applications d'IA générative. Il compare le processus de création de prompts à la programmation ou à l'ingénierie logicielle, en soulignant l'importance d'une approche structurée. L'auteur suggère que, bien que l'intuition soit parfois utile, une compréhension complète des différentes méthodes de composition des prompts est essentielle pour tirer le meilleur parti de l'IA générative. L'article présente quatre approches fondamentales pour l'ingénierie des prompts, allant de l'instinctuelle à la réfléchie, en passant par la planifiée et la rigoureuse. Il explore également les facteurs clés influençant le choix de l'approche, tels que l'objectif, les limitations, la fréquence et le type de prompt. Enfin, il fournit un aperçu des PDLC proposés par différentes entreprises et chercheurs, soulignant leur structure similaire et leur valeur dans l'amélioration de la cohérence, de la qualité et de l'éthique des réponses de l'IA. L'article encourage les utilisateurs à maîtriser les différentes approches de l'ingénierie des prompts pour s'adapter de manière dynamique aux différentes situations.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/664bb98c3cd8668c7aa3d74f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Mar 2025 05:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un avenir prometteur pour l'industrie alimentaire",
-        "link": "https://www.forbes.com/sites/daphneewingchow/2025/03/18/these-are-the-latest-ai-trends-transforming-the-food-industry/?ss=ai",
-        "body": "L'IA transforme l'industrie alimentaire, de la production et de la sécurité à la personnalisation des régimes et à l'optimisation de la chaîne d'approvisionnement. Le marché de l'agroalimentaire basé sur l'IA devrait atteindre 27,73 milliards de dollars d'ici 2029, grâce à la demande croissante de nutrition personnalisée, au renforcement des normes de sécurité, à l'optimisation de la chaîne d'approvisionnement et à la durabilité. Des outils d'innovation alimentaire comme KLEVER AI et Ai Palette, aux assistants virtuels comme Google Gemini, l'IA améliore l'expérience alimentaire des consommateurs. L'IA permet également de prédire la réponse glycémique des repas et d'analyser les concentrations bactériennes dans les aliments. L'IA transforme les cuisines des restaurants et des ménages, avec des robots chefs capables de préparer des plats rapidement et en toute sécurité. Les distributeurs alimentaires adoptent l'IA pour rationaliser le traitement des commandes et améliorer l'efficacité. L'IA améliore également la nutrition, avec des applications personnalisées et des outils de planification des repas, et permet de recréer des aliments traditionnels avec des ingrédients plus sains. De plus, l'IA révolutionne l'inspection des aliments et l'assurance qualité, améliorant la détection de la contamination et la précision des prédictions de durée de conservation. Les chaînes de restauration rapide investissent dans l'IA pour améliorer l'expérience client, avec des kiosques, des menus numériques et des systèmes de commande vocale. L'IA réduit l'impact environnemental de l'industrie alimentaire en minimisant le gaspillage alimentaire et en optimisant la chaîne d'approvisionnement. Enfin, l'IA a le potentiel de lutter contre la malnutrition et l'insécurité alimentaire, et d'améliorer l'accès à des aliments plus sains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d925ea4dfdbea80abfb738/0x0.jpg?format=jpg&crop=4230,2379,x0,y132,safe&width=440",
-        "date": "Tue, 18 Mar 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Nvidia présente la RTX Pro 6000",
-        "link": "https://www.frandroid.com/marques/2547595_voici-la-nouvelle-carte-graphique-nvidia-qui-pourrait-tout-changer",
-        "body": "Nvidia a dévoilé sa nouvelle carte graphique, la RTX Pro 6000, conçue pour les stations de travail professionnelles. Avec 96 Go de VRAM et 24 064 cœurs CUDA, elle offre une puissance de calcul impressionnante pour gérer des projets 3D complexes, des simulations et le développement d'IA. La gamme RTX Pro Blackwell propose également des modèles pour ordinateurs portables et serveurs, avec jusqu'à 24 Go de VRAM. Ces cartes graphiques sont idéales pour les professionnels de l'IA, du design, du développement et de la création, offrant une bande passante mémoire élevée et supportant les dernières technologies. La disponibilité est prévue pour avril-mai chez des distributeurs et constructeurs sélectionnés, avec des modèles portables qui arriveront plus tard dans l'année.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-38-1-1200x763-1-768x488.jpg?resize=191,191&key=b39911aa",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA à domicile",
-        "link": "https://www.frandroid.com/marques/2547575_voici-les-deux-premieres-machines-de-nvidia-pour-faire-de-lia-a-la-maison-des-pc-qui-sont-des-supercalculateurs-personnels",
-        "body": "Nvidia a dévoilé deux nouvelles machines, le DGX Spark et le DGX Station, de véritables supercalculateurs personnels dédiés à l'IA. Ces appareils, plus petits qu'un Mac mini, offrent une puissance de traitement impressionnante, avec des capacités pouvant atteindre 20 pétaflops et une mémoire unifiée de 784 Go. Le DGX Spark, disponible en précommande pour 3 000 dollars, est idéal pour les professionnels et les passionnés d'IA, tandis que le DGX Station, plus imposant, est conçu pour les projets d'IA massifs. Ces machines, ainsi que des offres concurrentes d'AMD, HP et Framework, visent à démocratiser l'IA en permettant aux utilisateurs de développer et d'exécuter des modèles d'IA directement depuis leur domicile ou leur lieu de travail, sans dépendre de centres de données distants.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/nvidia-dgx-spark-and-nvidia-dgx-station-1-1200x675-1-768x432.jpeg?resize=169,169&key=2583a63d",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia contre-attaque avec Nemotron Super",
-        "link": "https://www.frandroid.com/marques/nvidia/2547529_nvidia-repond-a-deepseek-r1-avec-nemotron-super",
-        "body": "Le modèle de langage DeepSeek R1, sorti en début d'année, a surpris l'industrie de l'IA occidentale avec son système de raisonnement performant et économique. En réponse, Nvidia a dévoilé sa propre famille de modèles, Nemotron, basée sur Llama 3.3 et proposée en open source. Nemotron Super, en particulier, surpasse DeepSeek R1 dans plusieurs tâches de raisonnement, selon les benchmarks de Nvidia. L'entreprise a déjà convaincu plusieurs partenaires majeurs, tels qu'Atlassian, Box, Accenture, CrowdStrike, Microsoft, SAP et Deloitte, de travailler avec elle sur ces nouveaux modèles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-2-18-5-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=22f787bd",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia dévoile ses nouvelles architectures Vera et Rubin",
-        "link": "https://www.frandroid.com/marques/nvidia/2547491_100-000-teraflops-nvidia-annonce-vera-rubin-sa-prochaine-puce-surpuissante",
-        "body": "Lors de la GTC 2025, Nvidia a présenté ses prochaines architectures processeur et puce graphique, baptisées Vera et Rubin, qui succéderont respectivement à Grace et Blackwell. Vera, qui sera disponible en 2026, intégrera 88 cœurs ARM pour un total de 176 threads et une bande passante impressionnante. De son côté, Rubin offrira des performances exceptionnelles, atteignant 25 pétaflops, et utilisera la mémoire ultrarapide HBM4e. Nvidia prévoit également de lancer Rubin Ultra, une puce composée de 4 GPU Rubin, capable d'atteindre 100 pétaflops. Ces avancées technologiques devraient séduire les géants de l'IA tels qu'OpenAI, Microsoft et Google, avec des gains de performances et une efficacité énergétique remarquables. La firme a également révélé Feynman, la génération suivante de Rubin, prévue pour 2028.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-1-58-34-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=5069ed66",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia dévoile la RTX PRO 6000",
-        "link": "https://www.frandroid.com/marques/nvidia/2547473_plus-puissante-quune-geforce-rtx-5090-nvidia-devoile-la-rtx-pro-6000",
-        "body": "Nvidia a présenté sa nouvelle carte graphique, la RTX PRO 6000, lors de sa conférence GTC 2025. Basée sur l'architecture Blackwell, elle surpasse la GeForce RTX 5090 en termes de puissance avec 24 064 coeurs CUDA, 188 coeurs RT et 752 coeurs Tensor. Cette carte graphique est destinée aux stations de travail et aux serveurs pour des rendus 3D complexes et de l'inférence sur des modèles d'IA avancés. Bien qu'aucun prix n'ait été annoncé, la génération précédente de cartes RTX 6000 ADA coûtait plus de 7000 dollars.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-rtx-6000-pro-2-1200x638-1-768x408.jpg?resize=160,160&key=1ae1e22e",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : un nouvel outil pour l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2546701_voici-canvas-le-nouvel-outil-de-gemini-pour-ne-plus-jamais-vous-passer-de-lia",
-        "body": "Google continue d'impressionner avec ses annonces autour de Gemini, sa plateforme d'IA. La dernière nouveauté est Canvas, un espace interactif au sein de Gemini qui facilite la création, la modification et le partage de documents et de code. Canvas permet d'ajuster facilement le ton, la longueur et la mise en forme du texte, et offre également un aperçu en temps réel des modifications. De plus, il aide les débutants en programmation en générant du code et en offrant des explications sur demande. Canvas est désormais disponible dans le monde entier pour les abonnés Gemini et Gemini Advanced, dans toutes les langues compatibles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/canvas-docs-highlighted-1200x675-1-768x432.jpg?resize=169,169&key=214b8f3d",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'Europe s'attaque au contenu généré par l'IA non signalé",
-        "link": "https://www.frandroid.com/culture-tech/2546213_35-millions-deuros-damende-leurope-lutte-contre-le-contenu-genere-par-ia-non-signale",
-        "body": "L'Union européenne a adopté l'IA Act pour lutter contre l'utilisation de l'IA à des fins de désinformation. L'Espagne va plus loin avec un projet de loi prévoyant des amendes pour les entreprises qui n'indiquent pas clairement lorsque du contenu est généré par l'IA. Ce projet de loi pourrait faire écho en France, où l'IA générative a été utilisée sans indication claire par un parti politique. L'Espagne prévoit également de réglementer l'utilisation de sons et d'images subliminales pour manipuler des groupes vulnérables. L'AESIA, l'Agence espagnole de supervision de l'IA, veillera à l'application de ces règles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/hammer-law-europe-1200x750-1-768x480.jpg?resize=188,188&key=61a5ba26",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le réveil nucléaire",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/17/the-ai-fueled-nuclear-renaissance-are-we-loosing-our-biggest-bet/?ss=ai",
-        "body": "L'article explore le retour de l'énergie nucléaire sur le devant de la scène énergétique mondiale, avec un focus particulier sur son lien avec l'intelligence artificielle. Il souligne comment les demandes énergétiques croissantes de l'IA, ainsi que les objectifs climatiques, ont ravivé l'intérêt pour le nucléaire. Les applications de l'IA dans le nucléaire sont présentées comme un facteur clé de cette renaissance, améliorant la sécurité, l'efficacité et la cybersécurité. Cependant, l'auteur met également en garde contre les vulnérabilités introduites par une dépendance accrue à l'IA, notamment les risques de cyberattaques sophistiquées et d'erreurs algorithmiques. L'article examine les dynamiques en jeu à différentes échelles, des choix individuels à la compétition globale pour la domination technologique. Il souligne la nécessité d'une réflexion nuancée sur la résurgence du nucléaire, en reconnaissant les risques tout en évaluant les avantages potentiels. Le rôle de l'IA dans cette équation est double : améliorer la technologie nucléaire et atténuer les craintes du public en présentant une image plus attrayante. Enfin, l'article appelle à une prise de conscience, une évaluation critique et une responsabilité à tous les niveaux pour garantir des résultats positifs pour l'humanité dans cette entreprise à haut risque.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d8854af77da46337057ad4/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la recherche en ligne est l'IA",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai#comments",
-        "body": "Les données d'Adobe révèlent une augmentation significative des renvois de recherche depuis les outils d'IA, avec une hausse de 1300 % pendant la saison des vacances en 2024 par rapport à 2023. Les utilisateurs passent plus de temps sur les sites et naviguent sur davantage de pages, ce qui suggère que l'IA les dirige vers des pages plus pertinentes. Malgré des débuts chaotiques, avec des erreurs étranges de la part de Google et des controverses entourant la startup Perplexity, la recherche d'IA a gagné en popularité. OpenAI a lancé sa fonctionnalité de recherche dans ChatGPT, en partenariat avec des médias et en soulignant le contrôle des éditeurs sur leur contenu. La recherche d'IA est appréciée des consommateurs, qui l'utilisent pour le shopping en ligne, la recherche d'informations et les recommandations d'achat. Bien que Perplexity et Google incluent de la publicité dans leurs résultats, OpenAI résiste à cette idée, malgré les revenus potentiels. La recherche d'IA offre une alternative à la recherche traditionnelle, encombrée de publicités et de spam SEO, mais doit éviter les mêmes pièges.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24143015/VRG_Illo_5308_K_Radtke_Memeai_Brain_Search.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 22:30:22 GMT"
     }
 ]
