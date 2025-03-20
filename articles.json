@@ -1,44 +1,9 @@
 [
     {
         "title": "",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/03/17/the-ai-fueled-nuclear-renaissance-are-we-loosing-our-biggest-bet/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d8854af77da46337057ad4/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/03/18/prompt-development-life-cycle-is-a-vital-keystone-for-prompt-engineering/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/664bb98c3cd8668c7aa3d74f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Mar 2025 05:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "35 millions d\u2019euros d\u2019amende : l\u2019Europe lutte contre le contenu g\u00e9n\u00e9r\u00e9 par IA non signal\u00e9",
-        "link": "https://www.frandroid.com/culture-tech/2546213_35-millions-deuros-damende-leurope-lutte-contre-le-contenu-genere-par-ia-non-signale",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/hammer-law-europe-1200x750-1-768x480.jpg?resize=188,188&key=61a5ba26",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/marques/nvidia/2547473_plus-puissante-quune-geforce-rtx-5090-nvidia-devoile-la-rtx-pro-6000",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-rtx-6000-pro-2-1200x638-1-768x408.jpg?resize=160,160&key=1ae1e22e",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2546701_voici-canvas-le-nouvel-outil-de-gemini-pour-ne-plus-jamais-vous-passer-de-lia",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/canvas-docs-highlighted-1200x675-1-768x432.jpg?resize=169,169&key=214b8f3d",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/631352/ai-search-adobe-analytics-google-perplexity-openai#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24143015/VRG_Illo_5308_K_Radtke_Memeai_Brain_Search.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 17 Mar 2025 22:30:22 GMT",
         "check": "yes"
     },
     {
@@ -53,20 +18,6 @@
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/03/18/marketing-leaders-are-chasing-genai-roi-but-most-are-missing-the-mark/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d98a7c9c04767c0cb8e87f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 18 Mar 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/marques/nvidia/2547529_nvidia-repond-a-deepseek-r1-avec-nemotron-super",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-2-18-5-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=22f787bd",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/marques/nvidia/2547491_100-000-teraflops-nvidia-annonce-vera-rubin-sa-prochaine-puce-surpuissante",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-1-58-34-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=5069ed66",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
@@ -126,20 +77,6 @@
         "check": "yes"
     },
     {
-        "title": "Cette nouvelle carte graphique Nvidia int\u00e8gre 96 Go de VRAM avec un TDP de 600 watts",
-        "link": "https://www.frandroid.com/marques/2547595_voici-la-nouvelle-carte-graphique-nvidia-qui-pourrait-tout-changer",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-38-1-1200x763-1-768x488.jpg?resize=191,191&key=b39911aa",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Voici les deux premi\u00e8res machines de Nvidia pour faire de l\u2019IA \u00e0 la maison : des PC qui sont des supercalculateurs personnels",
-        "link": "https://www.frandroid.com/marques/2547575_voici-les-deux-premieres-machines-de-nvidia-pour-faire-de-lia-a-la-maison-des-pc-qui-sont-des-supercalculateurs-personnels",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/nvidia-dgx-spark-and-nvidia-dgx-station-1-1200x675-1-768x432.jpeg?resize=169,169&key=2583a63d",
-        "date": "Mon, 17 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
         "title": "",
         "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/18/nvidia-networking-steals-the-show-for-the-second-gtc-in-a-row/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d9f92464e7da532504b8c7/0x0.jpg?format=jpg&width=440",
@@ -154,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "L\u2019IA Mistral peut tourner sur votre ordinateur avec ce nouveau mod\u00e8le",
+        "title": "L’IA Mistral peut tourner sur votre ordinateur avec ce nouveau modèle",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547639_lia-mistral-peut-tourner-sur-votre-ordinateur-avec-ce-nouveau-modele",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-41-768x432.png?resize=169,169&key=a1d4a60a",
         "date": "Tue, 18 Mar 2025 23:00:00 GMT",
@@ -238,14 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "",
-        "link": "https://www.forbes.com/sites/daphneewingchow/2025/03/18/these-are-the-latest-ai-trends-transforming-the-food-industry/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d925ea4dfdbea80abfb738/0x0.jpg?format=jpg&crop=4230,2379,x0,y132,safe&width=440",
-        "date": "Tue, 18 Mar 2025 00:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Doctissimo 2.0 : Google aimerait confier vos questions de sant\u00e9 \u00e0 une IA",
+        "title": "Doctissimo 2.0 : Google aimerait confier vos questions de santé à une IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2548461_doctissimo-2-0-google-aimerait-confier-vos-questions-de-sante-a-une-ia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-pro-fold-2024-frandroid-p1000577-1-1200x800-1-768x512.jpg?resize=200,200&key=6e6aa8da",
         "date": "Tue, 18 Mar 2025 23:00:00 GMT",
