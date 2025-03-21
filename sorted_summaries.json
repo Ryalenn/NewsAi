@@ -28,6 +28,13 @@
         "date": "Fri, 21 Mar 2025 02:59:00 GMT"
     },
     {
+        "title": "L'assistant IA de Meta arrive en Europe",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2550985_apres-le-chat-chatgpt-claude-grok-voici-un-nouveau-chatbot-ia-gratuit-sur-whatsapp-facebook-instagram-et-messenger",
+        "body": "Meta AI, l'assistant IA de Meta, est désormais disponible en Europe, un an après son lancement aux États-Unis. Cet assistant, accessible via WhatsApp, Facebook, Instagram et Messenger, a pour but de simplifier la vie des utilisateurs en répondant à leurs questions et en les aidant dans leurs tâches quotidiennes. Avec plus de 700 millions d'utilisateurs mensuels dans le monde, Meta AI a déjà prouvé son utilité. Cependant, en Europe, son lancement est soumis à des restrictions dues aux lois strictes sur la protection des données. Meta AI ne pourra pas, pour le moment, utiliser les données personnelles des utilisateurs européens pour s'entraîner, mais s'appuiera plutôt sur des informations publiques et du contenu web. Les Européens ne pourront pas non plus générer ou retoucher des images avec Meta AI. Malgré cela, l'assistant IA est disponible en six langues, dont le français, et se distingue particulièrement dans les discussions de groupe, offrant une assistance rapide et pratique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-61-1-1200x672-1-768x430.jpg?resize=168,168&key=c572cb1f",
+        "date": "Thu, 20 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "Nvidia vend des cartes graphiques RTX 50 à GTC",
         "link": "https://www.tomshardware.com/tech-industry/nvidia-sells-rtx-5090-and-rtx-5080-from-a-food-truck-at-gtc",
         "body": "Nvidia propose des cartes graphiques GeForce RTX 5080 et 5090 à leur prix de vente conseillé lors de sa conférence GPU Technology. Les participants à la conférence peuvent acheter les cartes sur place, avec une limite d'une carte par personne. Nvidia ne mettra en vente que 2 000 cartes au total, vendues de manière spontanée, comme une vente flash. Cette initiative permet aux développeurs de logiciels d'accéder aux dernières cartes graphiques de Nvidia, qui sont en forte demande et souvent difficiles à obtenir à leur prix de vente conseillé.",
@@ -299,19 +306,5 @@
         "body": "L'application Gemini n'exige plus que les utilisateurs se connectent avec leur compte Google. En mode Incognito, les utilisateurs anonymes sont accueillis par l'interface de chat de Gemini, avec des invites suggérées. L'assistant IA personnel s'adresse désormais aux utilisateurs déconnectés avec \"Rencontrez Gemini, votre assistant IA personnel\". Le modèle Gemini 2.0 Flash est utilisé par défaut, et la connexion est requise pour explorer de nouveaux modèles, télécharger des fichiers et accéder à l'historique des chats. L'application Android nécessite toujours une connexion.",
         "image": "",
         "date": "Wed, 19 Mar 2025 10:26:39 GMT"
-    },
-    {
-        "title": "Le futur de l'IA est biologique",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/03/19/ai-breakthrough-combines-living-brain-neurons-and-silicon-chips-in-brain-in-a-box-bio-computer/?ss=ai",
-        "body": "Résumé : \n\nUn nouveau type d'ordinateur biologique, appelé CL1, combine des puces en silicium traditionnelles avec des neurones cérébraux vivants, offrant une approche révolutionnaire de l'intelligence artificielle. Cet ordinateur biologique, développé par Cortical Labs, est vendu au prix modeste de 35 000 $, ce qui le rend accessible à certains consommateurs et start-ups technologiques. L'article explore les implications de cette technologie, y compris les avantages potentiels en matière d'efficacité énergétique et les considérations éthiques liées à l'utilisation de neurones synthétiques. La possibilité de fusionner l'IA artificielle avec des neurones biologiques soulève des questions sur l'avenir de l'IA et la nature de la conscience.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1046,783,x33,y0,safe&width=440",
-        "date": "Wed, 19 Mar 2025 08:00:00 GMT"
-    },
-    {
-        "title": "La réalité de la mise en œuvre de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/19/the-ai-graveyard-7-deadly-mistakes-that-kill-most-enterprise-ai-projects/?ss=ai",
-        "body": "Bien que l'IA présente un potentiel énorme, des milliards sont gaspillés chaque année sur des initiatives qui ne donnent jamais de résultats concrets, avec un taux d'échec élevé. Cet article explore les raisons fondamentales de ces échecs et fournit des conseils pour les éviter. L'écart entre les attentes et la réalité est souvent dû à une vision mythique de l'IA comme solution magique. Les organisations sous-estiment les besoins en données de l'IA, traitant la mise en œuvre de l'IA uniquement comme un défi technique, ignorant l'adoption humaine. De nombreux projets commencent sans lien clair avec les problèmes commerciaux réels, et les entreprises manquent de talents et de structures de gouvernance en IA. Le succès de l'IA nécessite une planification rigoureuse, en commençant par identifier les problèmes commerciaux spécifiques, en investissant dans l'infrastructure des données et en traitant la mise en œuvre de l'IA comme un changement organisationnel. Une approche incrémentielle, une gouvernance claire et la compréhension de l'IA comme un ensemble de technologies puissantes, mais non magiques, sont essentielles.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67da6d3ac809ca458387522b/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 19 Mar 2025 07:00:00 GMT"
     }
 ]
