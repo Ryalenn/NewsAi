@@ -1,41 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GR00T-N1-Image.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 13:12:57 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/policy/632174/openai-trump-proposal-regulation#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 15:15:45 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/632121/razer-wyvrn-developer-ai-qa-gamer-copilot-sensa-haptics-thx#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/RazerAI_KV.png?quality=90&strip=all&crop=7.9240506329114%2C0%2C84.151898734177%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 15:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/tech/631651/amazon-alexa-suno-ai-generated-song-copyright-nightmare#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257620_Amazon_AI_copyright_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 13:30:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/johnwerner/2025/03/19/addressing-ais-impact-on-humans/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67daebd604badfd29f252ed3/0x0.jpg?format=jpg&crop=1346,757,x0,y69,safe&width=440",
         "date": "Wed, 19 Mar 2025 16:00:00 GMT",
@@ -46,13 +11,6 @@
         "link": "https://www.forbes.com/sites/innovationrx/2025/03/19/innovationrx-the-trump-administration-sends-mixed-messages-on-vaccines/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67daca69a360a45309a6a447/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/632523/microsoft-copilot-uninstall-bug-fix#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 19 Mar 2025 15:16:50 GMT",
         "check": "yes"
     },
     {
@@ -98,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "OpenAI explose les prix avec cette nouvelle version de ChatGPT\u2026 dans le mauvais sens du terme",
+        "title": "OpenAI explose les prix avec cette nouvelle version de ChatGPT… dans le mauvais sens du terme",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2549681_openai-explose-les-prix-avec-cette-nouvelle-version-de-chatgpt-dans-le-mauvais-sens-du-terme",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/pxl-20240511-065728099portrait-1200x901-1-768x577.jpg?resize=225,225&key=7d6fd62b",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
@@ -119,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "L\u2019IA plus dr\u00f4le que les humains ? Voici ce que r\u00e9v\u00e8le cette \u00e9tude.",
+        "title": "L’IA plus drôle que les humains ? Voici ce que révèle cette étude.",
         "link": "https://www.frandroid.com/culture-tech/2549687_lia-plus-drole-que-les-humains-voici-ce-que-revele-cette-etude",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/rigolade-1200x675-1-768x432.jpg?resize=169,169&key=8909fc25",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
@@ -196,7 +154,7 @@
         "check": "yes"
     },
     {
-        "title": "Anthropic dope Claude avec le web : un rival s\u00e9rieux pour ChatGPT, Mistral et Perplexity",
+        "title": "Anthropic dope Claude avec le web : un rival sérieux pour ChatGPT, Mistral et Perplexity",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2550877_anthropic-dope-claude-avec-le-web-un-rival-serieux-pour-chatgpt-mistral-et-perplexity",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/videoframe-9689-1200x675-1-768x432.jpg?resize=169,169&key=b6adeb6f",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
@@ -294,14 +252,14 @@
         "check": "yes"
     },
     {
-        "title": "Apr\u00e8s Le Chat, ChatGPT, Claude, Grok\u2026 voici un nouveau chatbot IA gratuit sur WhatsApp, Facebook, Instagram et Messenger",
+        "title": "Après Le Chat, ChatGPT, Claude, Grok… voici un nouveau chatbot IA gratuit sur WhatsApp, Facebook, Instagram et Messenger",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2550985_apres-le-chat-chatgpt-claude-grok-voici-un-nouveau-chatbot-ia-gratuit-sur-whatsapp-facebook-instagram-et-messenger",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-61-1-1200x672-1-768x430.jpg?resize=168,168&key=c572cb1f",
         "date": "Thu, 20 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Gmail : retrouvez plus facilement vos mails avec cette mise \u00e0 jour",
+        "title": "Gmail : retrouvez plus facilement vos mails avec cette mise à jour",
         "link": "https://www.frandroid.com/android/applications/2551173_gmail-retrouvez-plus-facilement-vos-mails-avec-cette-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2023/06/rubaitul-azad-w3z2zns1y4i-unsplash.jpg?resize=300,300&key=9ad28229",
         "date": "Thu, 20 Mar 2025 23:00:00 GMT",
