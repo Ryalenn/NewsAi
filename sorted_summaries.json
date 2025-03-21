@@ -1,5 +1,40 @@
 [
     {
+        "title": "Nvidia vend des cartes graphiques RTX 50 à GTC",
+        "link": "https://www.tomshardware.com/tech-industry/nvidia-sells-rtx-5090-and-rtx-5080-from-a-food-truck-at-gtc",
+        "body": "Nvidia propose des cartes graphiques GeForce RTX 5080 et 5090 à leur prix de vente conseillé lors de sa conférence GPU Technology. Les participants à la conférence peuvent acheter les cartes sur place, avec une limite d'une carte par personne. Nvidia ne mettra en vente que 2 000 cartes au total, vendues de manière spontanée, comme une vente flash. Cette initiative permet aux développeurs de logiciels d'accéder aux dernières cartes graphiques de Nvidia, qui sont en forte demande et souvent difficiles à obtenir à leur prix de vente conseillé.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GmdufJwaoAAPpzB.jpg?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
+        "date": "Thu, 20 Mar 2025 22:57:44 GMT"
+    },
+    {
+        "title": "Les limites de l'autonomie",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/03/20/cybertruck-sees-a-road-runner-fake-wall-heres-why/?ss=ai",
+        "body": "L'article porte sur les débats autour des systèmes de conduite autonome et des capteurs utilisés, en particulier la comparaison entre les approches de Tesla, qui utilise principalement des caméras, et celles d'autres entreprises qui utilisent une combinaison de LIDAR, de radar et de caméras. La vidéo de Mark Rober, une célébrité de YouTube, a déclenché la discussion en montrant que l'Autopilot de Tesla, basé sur des caméras, ne pouvait pas détecter un mur en mousse avec une image imprimée d'une route, contrairement à un véhicule équipé de LIDAR. Les tests de Rober ont été critiqués pour leurs défauts, mais ils soulignent un problème important concernant les différentes méthodes de détection. Les réponses de Kyle Paul, un fan de Tesla, et les tests qu'il a effectués sur les différentes versions du système \"Full Self Driving\" (FSD) de Tesla, ont également été examinés, avec des résultats mitigés. L'article aborde les limites de la détection par ordinateur, les avantages potentiels de l'utilisation de plusieurs capteurs et les opinions divergentes au sein de l'industrie sur l'approche la plus efficace. Il critique également Tesla pour son manque de transparence concernant les données d'intervention humaine nécessaires pour évaluer la sécurité de son système FSD.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dc9e3357a8552f5812d14f/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Mar 2025 22:00:00 GMT"
+    },
+    {
+        "title": "Le futur de l'IA dans le divertissement",
+        "link": "https://www.forbes.com/sites/martineparis/2025/03/20/heres-how-the-5-top-ai-apps-would-write-the-white-lotus-season-4/?ss=ai",
+        "body": "L'IA a fait d'énormes progrès ces dernières semaines, avec des assistants IA comme ChatGPT, Claude, Grok, Gemini et Perplexity qui offrent des fonctionnalités de pointe et captivent des millions d'utilisateurs. Amazon, OpenAI et d'autres entreprises ont introduit l'IA dans divers appareils et plateformes, permettant aux utilisateurs d'interagir par la voix, le texte et l'image. L'IA peut désormais voir, entendre, parler, et même créer du contenu divertissant de manière autonome. Dans cet article, l'auteur explore le potentiel de l'IA dans le domaine du divertissement en demandant à cinq assistants IA de créer un traitement pour une série télévisée populaire. Les réponses détaillées et créatives démontrent la puissance de ces outils, qui peuvent non seulement aider les professionnels de l'industrie, mais aussi fournir du contenu divertissant en soi.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dc19968d0ef24a6aeba1dd/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Mar 2025 22:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA dans le domaine juridique",
+        "link": "https://www.forbes.com/sites/hessiejones/2025/03/20/risk-or-revolution-will-ai-replace-lawyers/?ss=ai",
+        "body": "L'intelligence artificielle (IA) transforme de nombreuses industries, y compris le domaine juridique. L'adoption croissante de l'IA dans le secteur juridique vise à améliorer l'efficacité et à réduire les coûts. Les investisseurs soutiennent fortement les startups juridiques basées sur l'IA, avec un financement record en 2024. Les outils d'IA peuvent automatiser diverses tâches juridiques, telles que l'analyse des contrats, la synthèse des documents et la recherche de cas, ce qui permet d'économiser du temps et d'augmenter le temps facturable par avocat. Les experts juridiques discutent des avantages et des défis de l'automatisation, y compris son impact sur l'éducation juridique et l'avenir du travail. La technologie peut améliorer l'accès à des services juridiques abordables, mais soulève également des préoccupations concernant la précision et le rôle de l'humain. L'IA peut libérer les avocats des tâches routinières, leur permettant de se concentrer sur l'empathie, l'éthique et l'innovation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dc81570528fde7092cb98d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Mar 2025 21:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA générative : vers une augmentation discrète",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/20/remind-me-new-personal-memory-augmentation-with-limitless-ai/?ss=ai",
+        "body": "L'intérêt pour l'IA générative s'est récemment déplacé vers les technologies portables, avec l'émergence d'un nouveau produit appelé le pendentif Limitless. Vendu 499 $, ce dispositif écoute l'utilisateur et structure les données non structurées, comme les réflexions personnelles et les listes de tâches. L'entreprise derrière Limitless, anciennement connue sous le nom de Rewind.ai, se concentrait initialement sur l'amélioration de l'audition et de la mémoire humaines. Bien que certains suggèrent que Rewind était une meilleure idée, Limitless attire des investissements importants et l'attention de grands noms. L'appareil soulève des questions sur la vie privée, mais l'entreprise affirme que les données sont sécurisées et cryptées. La discussion autour de Limitless soulève des questions intéressantes sur les attentes des utilisateurs envers les LLM personnalisés et les compromis entre risques et avantages.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dc64b2c1562cfe45b8739d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 20 Mar 2025 19:00:00 GMT"
+    },
+    {
         "title": "Nvidia DGX Cloud Benchmarking Recipes",
         "link": "https://www.forbes.com/sites/davealtavilla/2025/03/20/nvidia-benchmark-recipes-bring-deep-insights-in-real-world-ai-performance/?ss=ai",
         "body": "Résumé : Nvidia a développé un ensemble d'outils de test de performance, appelés DGX Cloud Benchmark Recipes, qui aident les entreprises à évaluer les performances de leur matériel et de leur infrastructure cloud lors de l'exécution de modèles IA avancés. Ces outils fournissent des données précieuses pour guider les décisions d'investissement dans du matériel plus puissant ou dans des niveaux de service de fournisseurs cloud. Les recettes sont un ensemble de conteneurs et de scripts préconfigurés, optimisés pour tester les performances de différents modèles IA sous diverses configurations. HotTech a testé ces outils et a constaté qu'ils fournissent des informations précieuses sur les charges de travail de calcul GPU. De plus, Nvidia fournit une base de données et un calculateur de résultats de performance pour les charges de travail de calcul GPU sur différentes configurations. Les recettes DGX Cloud Benchmarking offrent une flexibilité dans le processus de benchmarking, permettant aux utilisateurs d'adapter les tests à leur infrastructure spécifique. Les entreprises peuvent ainsi prendre des décisions éclairées sur la configuration la plus efficace pour leurs charges de travail IA, tout en tenant compte des initiatives écologiques. Bien que les outils de Nvidia soient très utiles, ils pourraient être améliorés en incluant des benchmarks en temps réel pour l'inférence et en élargissant la gamme de GPU pris en charge.",
@@ -154,6 +189,13 @@
         "date": "Wed, 19 Mar 2025 23:00:00 GMT"
     },
     {
+        "title": "La peur des robots scénaristes",
+        "link": "https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright#comments",
+        "body": "Le scénariste et showrunner Tony Gilroy a décidé de ne pas publier les scripts de sa série acclamée par la critique, \"Andor\", par peur qu'ils ne deviennent des données d'entraînement pour les systèmes d'IA. Cette décision met en lumière les inquiétudes grandissantes des artistes quant à l'utilisation de leur travail pour développer des outils d'IA qui pourraient potentiellement les remplacer. Des personnalités comme Christopher Nolan et Charlie Brooker ont exprimé leur méfiance envers l'IA, tandis que des studios majeurs comme Lionsgate et Disney ont conclu des partenariats avec des startups d'IA. Les syndicats hollywoodiens ont également organisé des grèves pour exiger des protections contre les scripts générés par l'IA et la création de répliques numériques d'acteurs sans leur consentement. Des législations ont été mises en place pour protéger les artistes contre l'utilisation non autorisée de leur travail dans l'entraînement des modèles d'IA, mais le débat juridique reste en suspens.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2147818160.jpg?quality=90&strip=all&crop=0%2C0.099800399201591%2C100%2C99.800399201597&w=2400",
+        "date": "Wed, 19 Mar 2025 19:19:25 GMT"
+    },
+    {
         "title": "Superordinateurs personnels alimentés par l'IA",
         "link": "https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai",
         "body": "Plusieurs fabricants, dont Asus, Dell et HP, développent leurs propres superordinateurs personnels basés sur la plateforme Grace Blackwell de Nvidia. Ces appareils sont conçus comme des mini-PC offrant une puissance de traitement de 1 000 AI TOPS et 128 Go de mémoire unifiée. Asus a présenté l'Ascent GX10, qui se distingue par son design en plastique blanc, tandis que HP a dévoilé le HP ZGX Nano AI Station G1n, qui ressemble à la station de travail Z2 mini. Dell, quant à lui, a adopté une approche plus simple avec le \"Dell Pro Max With GB10\", un boîtier noir doté d'un bouton d'alimentation en haut. Lenovo devrait également rejoindre ce marché avec son propre mini-ordinateur basé sur la plateforme Grace Blackwell, mais n'a pas encore révélé de détails. Les ordinateurs Dell sont attendus pour l'été 2025, tandis que le DGX Spark de Nvidia, qui coûte 3 000 dollars, sera disponible à la même période.",
@@ -243,68 +285,5 @@
         "body": "Bien que l'IA présente un potentiel énorme, des milliards sont gaspillés chaque année sur des initiatives qui ne donnent jamais de résultats concrets, avec un taux d'échec élevé. Cet article explore les raisons fondamentales de ces échecs et fournit des conseils pour les éviter. L'écart entre les attentes et la réalité est souvent dû à une vision mythique de l'IA comme solution magique. Les organisations sous-estiment les besoins en données de l'IA, traitant la mise en œuvre de l'IA uniquement comme un défi technique, ignorant l'adoption humaine. De nombreux projets commencent sans lien clair avec les problèmes commerciaux réels, et les entreprises manquent de talents et de structures de gouvernance en IA. Le succès de l'IA nécessite une planification rigoureuse, en commençant par identifier les problèmes commerciaux spécifiques, en investissant dans l'infrastructure des données et en traitant la mise en œuvre de l'IA comme un changement organisationnel. Une approche incrémentielle, une gouvernance claire et la compréhension de l'IA comme un ensemble de technologies puissantes, mais non magiques, sont essentielles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67da6d3ac809ca458387522b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Andor Showrunner Refuses to Publish Scripts Due to AI Concerns",
-        "link": "https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright#comments",
-        "body": "Le scénariste de la série acclamée par la critique, Tony Gilroy, a décidé de ne pas publier les scripts d'Andor, malgré leur préparation pour la publication, en raison de craintes que le matériel ne serve à entraîner des systèmes d'IA. Gilroy souligne les préoccupations croissantes des artistes quant à l'utilisation de leur travail sans permission pour développer des outils d'IA qui pourraient les remplacer. Cette décision met en évidence le débat en cours sur l'éthique de l'IA et son impact potentiel sur l'industrie du divertissement, avec des personnalités comme Christopher Nolan et Charlie Brooker exprimant également leur méfiance envers la technologie.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2147818160.jpg?quality=90&strip=all&crop=0%2C0.099800399201591%2C100%2C99.800399201597&w=2400",
-        "date": "Wed, 19 Mar 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini au service de la santé",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2548461_doctissimo-2-0-google-aimerait-confier-vos-questions-de-sante-a-une-ia",
-        "body": "Google souhaite étendre les capacités de son IA Gemini en l'appliquant au domaine de la santé. L'entreprise développe une fonctionnalité, \"What People Suggest\", qui utilise l'IA pour suggérer des informations médicales personnalisées aux patients en se basant sur des données de patients présentant des pathologies similaires. Cette fonctionnalité est actuellement disponible sur mobile uniquement aux États-Unis. La directrice de la santé chez Google, le Dr Karen DeSalvo, estime que l'IA est suffisamment avancée pour révolutionner l'expérience de la santé. Cependant, des experts médicaux mettent en garde contre les risques potentiels, soulignant que les réponses générées par l'IA peuvent contenir des erreurs ou être biaisées.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-pro-fold-2024-frandroid-p1000577-1-1200x800-1-768x512.jpg?resize=200,200&key=6e6aa8da",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini désormais accessible sans compte",
-        "link": "https://www.frandroid.com/marques/google/2548373_fini-la-connexion-obligatoire-gemini-se-democratise-pour-tous",
-        "body": "Google a récemment rendu son assistant virtuel Gemini plus accessible en supprimant l'obligation d'avoir un compte Google pour l'utiliser sur le web. Cette décision marque un changement de stratégie pour l'entreprise, permettant aux utilisateurs de tester facilement Gemini en quelques clics. La version anonyme offre un accès limité au modèle de base, Gemini 2.0 Flash, avec des fonctionnalités restreintes. Pour débloquer toutes les capacités de Gemini, un compte est toujours nécessaire. Cette approche vise à trouver un équilibre entre accessibilité et incitation à la création de comptes. Le changement pourrait augmenter la popularité de Gemini et aider Google à rattraper ses concurrents sur le marché de l'IA conversationnelle. De plus, il répond aux préoccupations en matière de vie privée, permettant aux utilisateurs de poser des questions à Gemini sans laisser de traces.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/gemini-sur-iphone-768x579.jpg?resize=226,226&key=32c4ebfd",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Installer un LLM sur son ordinateur",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
-        "body": "Il est désormais possible d'installer un modèle de langage (LLM) sur son propre ordinateur, sans dépendre d'un service cloud. Cela permet de garder ses données privées, d'éviter les abonnements coûteux et de personnaliser son modèle d'IA. Des modèles open-source comme DeepSeek, LLaMA et Mistral sont disponibles gratuitement et peuvent être exécutés localement avec des performances impressionnantes. Des outils comme LM Studio, GPT4All et Ollama facilitent l'installation et l'utilisation de ces LLM, offrant une interface de chat intuitive. Pour les utilisateurs avancés, des outils en ligne de commande comme Llama.cpp et Hugging Face Transformers permettent une personnalisation plus poussée. L'article fournit également des spécifications matérielles recommandées pour exécuter différents modèles LLM.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini remplace l'Assistant Google sur les Chromebooks",
-        "link": "https://www.frandroid.com/marques/google/2548137_les-chromebook-se-debarrent-de-google-assistant-et-on-ne-sait-pas-si-cest-une-bonne-idee",
-        "body": "Google remplace l'Assistant Google par son IA de nouvelle génération, Gemini, sur les appareils Chrome OS. La mise à jour Chrome OS 134 remplace l'icône de l'Assistant par celle de Gemini, qui offre une expérience plus riche et des fonctionnalités avancées. Gemini ne répond pas à la commande vocale \"Hey Google\", mais les utilisateurs peuvent lancer l'application web progressive en cliquant sur l'icône. L'objectif de Google est de proposer une expérience d'assistant virtuel plus cohérente et puissante sur toutes ses plateformes. La mise à jour Chrome OS introduit également de nouvelles fonctionnalités d'accessibilité et d'insertion de GIF.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/lenovo-chromebook-1200x777-1-768x497.jpg?resize=194,194&key=7db0e7a2",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia GTC 2025",
-        "link": "https://www.frandroid.com/marques/nvidia/2547931_rtx-pro-6000-vera-rubin-pc-nvidia-nvidia-gtc-2025-les-5-annonces-quil-ne-fallait-pas-manquer",
-        "body": "Résumé : \n\nLors de la conférence annuelle Nvidia GTC, le PDG Jensen Huang a présenté les dernières avancées de l'entreprise en matière d'IA et ses prévisions pour l'évolution du secteur. Il a souligné la demande croissante de GPU de la part des fournisseurs de services cloud et prévoit un chiffre d'affaires de 1 000 milliards de dollars d'ici 2028 pour les infrastructures de centres de données de Nvidia. L'entreprise a également dévoilé deux nouvelles machines, le DGX Spark et le DGX Station, conçues pour exécuter des modèles d'IA directement depuis le bureau de l'utilisateur. Nvidia a également présenté sa prochaine architecture, Vera Rubin, qui sera 13 fois plus puissante que les GPU actuels. En ce qui concerne les logiciels, Nvidia a annoncé Nemotron Super, un modèle de langage avec 49 milliards de paramètres, qui promet une plus grande précision et vitesse dans les tâches de raisonnement. Enfin, Jensen Huang a insisté sur l'omniprésence future des agents IA et des robots dans notre quotidien.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-2-31-5-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=03148e7a",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Mistral Small 3.1 : une IA française accessible sur PC",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547639_lia-mistral-peut-tourner-sur-votre-ordinateur-avec-ce-nouveau-modele",
-        "body": "Mistral AI, une entreprise française, lance Mistral Small 3.1, un modèle d'IA conçu pour fonctionner sur des ordinateurs personnels, offrant ainsi une alternative aux services cloud distants. Ce modèle de langage, avec ses 24 milliards de paramètres, nécessite une machine puissante, équipée d'une grande quantité de RAM et d'une carte graphique performante. Mistral Small 3.1 se distingue par ses performances, surpassant GPT-4o mini d'OpenAI dans plusieurs domaines, y compris la compréhension de texte, les réponses aux questions et la gestion d'images. De plus, il prend en charge plusieurs langues et est open source, gratuit et personnalisable. Il s'adresse aux entreprises et aux utilisateurs avancés nécessitant une IA locale pour des tâches spécifiques, garantissant ainsi la souveraineté des données. Mistral propose également \"Le Chat\", une alternative à ChatGPT, pour les utilisateurs préférant une option cloud.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-41-768x432.png?resize=169,169&key=a1d4a60a",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia révolutionne l'interconnexion des centres de données avec des commutateurs photoniques en silicium",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/18/nvidia-networking-steals-the-show-for-the-second-gtc-in-a-row/?ss=ai",
-        "body": "Nvidia dévoile ses nouveaux commutateurs photoniques en silicium Quantum-X et Spectrum-X, qui utilisent une technologie optique co-empaquetée pour interconnecter jusqu'à 72 GPU, permettant ainsi une amélioration significative des performances et une réduction de la latence dans les centres de données. Ces commutateurs sont conçus pour répondre aux exigences élevées en matière de réseau des centres de données d'IA, en particulier des usines d'IA. Par rapport aux solutions optiques traditionnelles, les commutateurs de Nvidia offrent une réduction du nombre de lasers, une meilleure efficacité énergétique, une amélioration de l'intégrité du signal, une résilience réseau accrue et une diminution du temps de déploiement. Ces avancées sont essentielles pour faire face aux besoins importants en ressources des charges de travail d'IA agentique. La technologie de Nvidia devrait permettre aux centres de données de continuer à évoluer en fonction des exigences de l'IA. La production en volume de ces solutions optiques co-empaquetées est prévue pour la fin de l'année, marquant ainsi une étape importante pour l'industrie.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d9f92464e7da532504b8c7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Sécurité et confiance dans l'IA d'entreprise",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/18/building-enterprise-ai-on-a-granite-foundation-of-trust-and-confidence/?ss=ai",
-        "body": "Bien que les coûts d'inférence et les performances soient essentiels dans l'IA d'entreprise, la sécurité, la confidentialité et la conformité réglementaire sont tout aussi importantes. L'article met en évidence les vulnérabilités critiques de DeepSeek R1, malgré ses performances élevées et son efficacité économique. D'autre part, IBM Granite 3.2 maintient la sécurité et la robustesse tout en offrant des capacités de raisonnement. Les entreprises doivent effectuer une évaluation des risques complète et prendre en compte les coûts, les performances, la sécurité, la confidentialité et la conformité lors du choix des modèles d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d9d57270be988721c59c32/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Mar 2025 22:00:00 GMT"
     }
 ]
