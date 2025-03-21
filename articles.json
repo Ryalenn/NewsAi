@@ -1,34 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/18/nvidia-networking-steals-the-show-for-the-second-gtc-in-a-row/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d9f92464e7da532504b8c7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/03/18/building-enterprise-ai-on-a-granite-foundation-of-trust-and-confidence/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d9d57270be988721c59c32/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 18 Mar 2025 22:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "L\u2019IA Mistral peut tourner sur votre ordinateur avec ce nouveau mod\u00e8le",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547639_lia-mistral-peut-tourner-sur-votre-ordinateur-avec-ce-nouveau-modele",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-41-768x432.png?resize=169,169&key=a1d4a60a",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/marques/nvidia/2547931_rtx-pro-6000-vera-rubin-pc-nvidia-nvidia-gtc-2025-les-5-annonces-quil-ne-fallait-pas-manquer",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang-2-31-5-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=03148e7a",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/03/19/ai-breakthrough-combines-living-brain-neurons-and-silicon-chips-in-brain-in-a-box-bio-computer/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6780b7cc9763198c7ffdb84c/0x0.jpg?format=jpg&crop=1046,783,x33,y0,safe&width=440",
         "date": "Wed, 19 Mar 2025 08:00:00 GMT",
@@ -39,20 +11,6 @@
         "link": "https://www.forbes.com/sites/bernardmarr/2025/03/19/the-ai-graveyard-7-deadly-mistakes-that-kill-most-enterprise-ai-projects/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67da6d3ac809ca458387522b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 19 Mar 2025 07:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Installer un ChatGPT sur votre PC ou votre Mac : voici le guide ultime pour tous",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.frandroid.com/marques/google/2548137_les-chromebook-se-debarrent-de-google-assistant-et-on-ne-sait-pas-si-cest-une-bonne-idee",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/lenovo-chromebook-1200x777-1-768x497.jpg?resize=194,194&key=7db0e7a2",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
@@ -71,13 +29,6 @@
     },
     {
         "title": "",
-        "link": "https://www.frandroid.com/marques/google/2548373_fini-la-connexion-obligatoire-gemini-se-democratise-pour-tous",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/11/gemini-sur-iphone-768x579.jpg?resize=226,226&key=32c4ebfd",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GR00T-N1-Image.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
         "date": "Wed, 19 Mar 2025 13:12:57 GMT",
@@ -88,13 +39,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 19 Mar 2025 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Doctissimo 2.0 : Google aimerait confier vos questions de sant\u00e9 \u00e0 une IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2548461_doctissimo-2-0-google-aimerait-confier-vos-questions-de-sante-a-une-ia",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-pixel-9-pro-fold-2024-frandroid-p1000577-1-1200x800-1-768x512.jpg?resize=200,200&key=6e6aa8da",
-        "date": "Tue, 18 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
@@ -182,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "OpenAI explose les prix avec cette nouvelle version de ChatGPT\u2026 dans le mauvais sens du terme",
+        "title": "OpenAI explose les prix avec cette nouvelle version de ChatGPT… dans le mauvais sens du terme",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2549681_openai-explose-les-prix-avec-cette-nouvelle-version-de-chatgpt-dans-le-mauvais-sens-du-terme",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/pxl-20240511-065728099portrait-1200x901-1-768x577.jpg?resize=225,225&key=7d6fd62b",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
@@ -197,20 +141,13 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/gettyimages-2147818160.jpg?quality=90&strip=all&crop=0%2C0.099800399201591%2C100%2C99.800399201597&w=2400",
-        "date": "Wed, 19 Mar 2025 00:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/03/20/new-galaxy-s25-edge-leak-reveals-samsungs-valuable-surprise-offer/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67d828de6a90d28b098dff17/0x0.jpg?format=jpg&crop=2051,1367,x131,y497,safe&width=440",
         "date": "Thu, 20 Mar 2025 10:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "L\u2019IA plus dr\u00f4le que les humains ? Voici ce que r\u00e9v\u00e8le cette \u00e9tude.",
+        "title": "L’IA plus drôle que les humains ? Voici ce que révèle cette étude.",
         "link": "https://www.frandroid.com/culture-tech/2549687_lia-plus-drole-que-les-humains-voici-ce-que-revele-cette-etude",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/rigolade-1200x675-1-768x432.jpg?resize=169,169&key=8909fc25",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
@@ -287,7 +224,7 @@
         "check": "yes"
     },
     {
-        "title": "Anthropic dope Claude avec le web : un rival s\u00e9rieux pour ChatGPT, Mistral et Perplexity",
+        "title": "Anthropic dope Claude avec le web : un rival sérieux pour ChatGPT, Mistral et Perplexity",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2550877_anthropic-dope-claude-avec-le-web-un-rival-serieux-pour-chatgpt-mistral-et-perplexity",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/videoframe-9689-1200x675-1-768x432.jpg?resize=169,169&key=b6adeb6f",
         "date": "Wed, 19 Mar 2025 23:00:00 GMT",
