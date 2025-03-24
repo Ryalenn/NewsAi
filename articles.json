@@ -63,14 +63,14 @@
         "check": "yes"
     },
     {
-        "title": "Cet outil permet de transformer une simple image en vidéo complète en 3D",
+        "title": "Cet outil permet de transformer une simple image en vid\u00e9o compl\u00e8te en 3D",
         "link": "https://www.frandroid.com/culture-tech/2552979_cet-outil-permet-de-transformer-une-simple-image-en-video-complete-en-3d",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/chrome-2025-03-24-wo0kaay44k-300x399.jpg?resize=300,300&key=f73e8ac0",
         "date": "Sun, 23 Mar 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "GPT et DeepSeek ont leur rival : voici T1, l’intelligence artificielle du chinois Tencent",
+        "title": "GPT et DeepSeek ont leur rival : voici T1, l\u2019intelligence artificielle du chinois Tencent",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2553301_gpt-et-deepseek-ont-leur-rival-voici-t1-lintelligence-artificielle-du-chinois-tencent",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/tencent-1200x734-1-768x470.jpg?resize=184,184&key=d7570a98",
         "date": "Sun, 23 Mar 2025 23:00:00 GMT",
@@ -96,5 +96,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67df48dc969f7e9d4609d1a3/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 24 Mar 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Les fonctions vid\u00e9o cens\u00e9es r\u00e9volutionner Gemini arrivent enfin sur nos smartphones",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2554165_les-fonctions-video-censees-revolutionner-gemini-arrivent-enfin-sur-nos-smartphones",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/gemini-live-video-demo-1200x675-1-768x432.jpg?resize=169,169&key=3f99995b",
+        "date": "Sun, 23 Mar 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 23 Mar 2025 22:30:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/installer-newsletter/633860/pebble-2-duo-assassins-creed-shadows-pixel-9a-installer",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Installer-76.png?quality=90&strip=all&crop=0%2C0.036469730123997%2C100%2C99.927060539752&w=2400",
+        "date": "Sun, 23 Mar 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/03/24/do-we-need-agi-at-all/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e1ae1fc227982add1ee9c9/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Mar 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/emmalynnellendt/2025/03/24/4-ways-content-creators-can-use-chatgpt/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bfe436ce67a0d8568c1211/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Mar 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/emmalynnellendt/2025/03/24/how-content-creators-can-use-chatgpt/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67dc625dfa260bed678a9de8/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 24 Mar 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/03/24/how-predictive-ai-will-solve-genais-deadly-reliability-problem/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e024e78bee0cfb65bf3706/0x0.jpg?format=jpg&crop=1278,1066,x0,y0,safe&width=440",
+        "date": "Mon, 24 Mar 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
