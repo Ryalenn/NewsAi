@@ -1,5 +1,19 @@
 [
     {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grandes entreprises technologiques rendent les technologies de chatbot IA plus accessibles au grand public. OpenAI, avec GPT-4, Google, avec Gemini, et Microsoft, avec Copilot, sont à l'avant-garde de cette tendance. Google ajoute de nouvelles fonctionnalités IA à Gemini, permettant au système de \"voir\" l'écran de l'utilisateur et de répondre aux questions en temps réel. Microsoft, de son côté, présente Dragon Copilot, un système IA pour le secteur de la santé, tandis qu'Anthropic lance Claude 3.7 Sonnet, un modèle de raisonnement hybride. DeepSeek d'Elon Musk et Grok-3 secouent également le marché de l'IA, avec des fonctionnalités de pointe. L'article aborde également les problèmes de droits d'auteur liés à l'IA, les préoccupations éthiques et les applications pratiques de l'IA dans divers secteurs.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 23 Mar 2025 22:30:14 GMT"
+    },
+    {
+        "title": "L'avènement de l'apprentissage continu dans l'IA",
+        "link": "https://www.forbes.com/sites/robtoews/2025/03/23/the-gaping-hole-in-todays-ai-capabilities-1/?ss=ai",
+        "body": "L'article explore l'évolution passionnante de l'intelligence artificielle vers un nouveau paradigme : l'apprentissage continu, qui permet aux modèles IA d'apprendre et de s'adapter en continu, plutôt que de passer par des phases distinctes d'apprentissage et d'inférence. Cette approche a le potentiel de révolutionner les capacités de l'IA, la rendant plus proche de l'intelligence humaine et ouvrant de nouvelles possibilités pour des applications personnalisées et durables. Bien que des défis subsistent, notamment le problème du \"catastrophic forgetting\", des startups et des laboratoires de recherche font des progrès significatifs dans ce domaine. L'apprentissage continu pourrait créer de nouvelles opportunités de marché et révolutionner les applications de l'IA, tant pour les consommateurs que pour les entreprises.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e03fa66b21fd5655bc80b9/0x0.jpg?format=jpg&crop=2543,1429,x0,y0,safe&width=440",
+        "date": "Sun, 23 Mar 2025 21:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : de la science-fiction à la réalité",
         "link": "https://www.forbes.com/sites/robtoews/2025/03/23/the-gaping-hole-in-todays-ai-capabilities/?ss=ai",
         "body": "L'article explore l'évolution de l'IA, de ses débuts dans la science-fiction à ses applications actuelles et futures. Il souligne l'importance de l'IA dans divers secteurs, notamment la santé, les transports et l'éducation. L'auteur prédit que l'IA continuera à jouer un rôle crucial dans la transformation de nos vies, avec des avancées dans des domaines tels que l'apprentissage automatique, la vision par ordinateur et le traitement du langage naturel. L'IA est déjà utilisée pour améliorer les diagnostics médicaux, développer des véhicules autonomes et personnaliser l'apprentissage en ligne. À l'avenir, l'IA pourrait révolutionner la façon dont nous interagissons avec la technologie, en offrant des expériences plus naturelles et intuitives. L'article souligne également l'importance de la responsabilité et de l'éthique dans le développement de l'IA, garantissant que ses avantages soient accessibles à tous et qu'il soit utilisé de manière responsable.",
@@ -35,6 +49,13 @@
         "date": "Sat, 22 Mar 2025 22:00:00 GMT"
     },
     {
+        "title": "AI Labyrinth",
+        "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data#comments",
+        "body": "Cloudflare, une entreprise majeure dans le domaine de l'infrastructure Internet, présente un nouvel outil, AI Labyrinth, pour contrer les bots de balayage web qui collectent des données pour l'entraînement de l'IA sans autorisation. Plutôt que de bloquer ces bots, AI Labyrinth les attire vers des pages leurres remplies de contenu généré par l'IA, sans valeur pour l'entraînement de l'IA. Cette approche innovante permet de ralentir et de confondre les bots malveillants, tout en les empêchant d'accéder aux données réelles des sites web. Cloudflare souligne que cet outil fonctionne comme un piège amélioré, attirant les bots vers des pages fictives, tandis qu'un humain s'en détournerait rapidement. AI Labyrinth permet également d'identifier plus facilement les bots malveillants et de découvrir de nouveaux modèles de comportement malveillant. Les administrateurs de sites web peuvent activer AI Labyrinth dans la section de gestion des bots du tableau de bord Cloudflare. L'entreprise prévoit de développer des réseaux d'URL liées pour piéger les bots plus efficacement.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sat, 22 Mar 2025 18:17:38 GMT"
+    },
+    {
         "title": "Gemini, la nouvelle évolution de Google Assistant",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/03/22/google-assistant-canceled-for-millions-of-users-what-you-need-to-know/?ss=ai",
         "body": "Google Assistant évolue vers Gemini, une plateforme basée sur l'IA et les grands modèles linguistiques, offrant ainsi des capacités conversationnelles et d'assistance améliorées. Bien que cette transition apporte de nouvelles fonctionnalités, elle entraîne également la disparition de certaines fonctionnalités appréciées des utilisateurs. Les smartphones sont les premiers concernés par ce changement, suivis des enceintes connectées, des télévisions, des objets connectés, des wearables et des voitures. D'ici fin 2025, Google prévoit que Gemini sera disponible sur la plupart des appareils mobiles, rendant l'ancien Google Assistant inaccessible. Cette transition peut nécessiter des ajustements pour les utilisateurs habitués à l'ancien assistant, car certaines fonctionnalités fonctionnent différemment ou ont été supprimées. Google a en effet retiré plusieurs fonctionnalités de Google Assistant, comme les fonctions de recettes de cuisine et les alarmes multimédias. De plus, Gemini peut parfois fournir des informations erronées, ce qui nécessite une vérification de la part de l'utilisateur. Cependant, la puissance de Gemini offre finalement plus de capacités et de personnalisation que l'ancien assistant.",
@@ -47,40 +68,5 @@
         "body": "L'article explore la tension entre l'action et l'inaction dans un monde complexe et en rapide évolution, et leurs conséquences sur les choix individuels et collectifs. Il souligne l'importance de l'agency, la capacité à agir intentionnellement, pour le bien-être humain et la nécessité de s'opposer à l'érosion de cette agency dans un monde hybride où le numérique et le réel s'entremêlent. L'auteur met en lumière le paradoxe de l'IA : d'un côté, son potentiel à renforcer l'agency humaine à travers la démocratisation de l'information, la facilitation de l'action collective et l'automatisation des tâches ; de l'autre, les dangers qu'elle pose, comme les biais algorithmiques, la perte d'emplois et l'érosion des compétences humaines. Enfin, l'article propose un cadre pratique, le \"A-Frame\", pour cultiver un sentiment d'agency aigu et résister à son érosion dans un monde façonné par l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67debcae4fabd103e128465b/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 22 Mar 2025 15:08:00 GMT"
-    },
-    {
-        "title": "La course à l'IA : Google se bat pour rester dans la course",
-        "link": "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/",
-        "body": "Résumé : \n\nChatGPT d'OpenAI a déclenché une course à l'IA entre les géants technologiques, avec Google se battant pour rattraper son retard. Sissie Hsiao a été chargée de construire un rival en 100 jours, ce qui a conduit à la création de Bard, basé sur le modèle linguistique LaMDA de Google. Malgré les problèmes initiaux, Bard a été lancé, mais a été éclipsé par les avancées d'OpenAI, notamment GPT-4. Google a réagi en fusionnant ses équipes de recherche en IA, Google Brain et DeepMind, sous la direction de Demis Hassabis, pour créer un nouveau modèle linguistique, Gemini. Bien que Gemini ait surpassé ChatGPT dans des tests standard, Google a continué à faire face à des problèmes avec ses produits d'IA, notamment des générateurs de texte et d'images, qui ont donné des résultats offensants et inexacts. Malgré ces revers, Google a persévéré et Gemini a finalement atteint la première place dans un classement public. La course à l'IA se poursuit, avec Google cherchant à monétiser ses avancées en IA tout en naviguant dans les défis techniques, éthiques et réglementaires.",
-        "image": "",
-        "date": "Sat, 22 Mar 2025 00:19:57 GMT"
-    },
-    {
-        "title": "Google Workspace Updates",
-        "link": "https://workspaceupdates.googleblog.com/2025/03/new-capabilities-for-google-vids-help-me-create.html",
-        "body": "Un espace communautaire dédié aux administrateurs de Google Workspace leur permet de se connecter entre eux et avec les employés de Google. Ils peuvent y discuter des produits, découvrir des articles et des astuces, et rester informés des dernières nouveautés de Google Workspace. La page \"What's new in Google Workspace?\" du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et changements mineurs.",
-        "image": "",
-        "date": "Sat, 22 Mar 2025 00:04:53 GMT"
-    },
-    {
-        "title": "L'IA chinoise fait des vagues",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2552649_une-ia-autonome-qui-bat-openai-voici-manus-un-nouvel-agent-ia-chinois-tres-prometteur",
-        "body": "La Chine fait des progrès significatifs dans le domaine de l'IA avec son dernier développement, Manus, un agent IA généraliste capable de gérer des tâches complexes de manière autonome. Développée par la startup Monica, Manus se distingue des chatbots classiques en offrant une assistance proactive et en connectant les idées à des actions concrètes. Bien qu'elle surpasse des outils comme Deep Research d'OpenAI dans les tests GAIA, Manus présente encore des bugs et des problèmes de transparence. Son accès est actuellement limité et exclusif, mais elle suscite déjà de nombreuses discussions, démontrant ainsi l'avancée de la Chine dans la course à l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/introducing-manus-the-general-ai-agent-4-6-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=4ee2f59a",
-        "date": "Fri, 21 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia's Ambitious AI Plans",
-        "link": "https://www.forbes.com/sites/karlfreund/2025/03/21/is-jensen-huang-nvidias-chief-revenue-destruction-officer/?ss=ai",
-        "body": "Lors de l'événement GTC à San Jose, le PDG de Nvidia, Jensen Huang, a présenté sa vision de l'IA et de son potentiel de transformation du monde. Nvidia annonce des progrès significatifs dans le domaine de l'IA, avec des puces Blackwell 40 fois plus rapides que les puces Hopper. L'entreprise prévoit de passer à un cycle de production annuel, créant ainsi une tension mais en offrant également une feuille de route claire pour la chaîne d'approvisionnement et l'écosystème. Nvidia dévoile également Dynamo, un système d'exploitation pour les usines d'IA, et Photonics, une solution de mise en réseau optique. La feuille de route des puces de Nvidia comprend Blackwell Ultra, Rubin et Vera Rubin, avec des améliorations en termes de puissance de calcul, de mémoire et de mise en réseau. L'entreprise affirme que sa technologie est déjà intégrée aux piles d'IA de plusieurs grandes entreprises et qu'elle se positionne comme la société de fondements de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67dae5a6db0956180419a86e/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 21 Mar 2025 22:00:00 GMT"
-    },
-    {
-        "title": "Marvell's Data-Driven Transformation",
-        "link": "https://www.forbes.com/sites/peterhigh/2025/03/21/marvell-technologys-cio-on-ai-cloud-and-digital-expansion/?ss=ai",
-        "body": "Marvell Technology, un leader mondial des semi-conducteurs, a connu une croissance importante en exploitant mieux les insights fournis par les données. Nishit Sahay, le directeur de l'information, a joué un rôle clé dans l'évolution de Marvell vers une culture axée sur les données. L'entreprise, qui génère environ 5,5 milliards de dollars de chiffre d'affaires annuel, est un acteur majeur de l'infrastructure axée sur l'IA, fournissant des solutions semi-conductrices critiques pour les centres de données, l'automobile et la mise en réseau. Sahay dirige quatre domaines majeurs : les opérations informatiques traditionnelles, le bureau des données, les initiatives d'IA d'entreprise et la transformation des processus métier. Il a mis en place une fondation numérique, mis en œuvre des efficacités axées sur l'IA, géré des acquisitions importantes et positionné Marvell pour l'innovation durable. Marvell a investi dans une infrastructure technologique évolutive, résiliente et sécurisée, avec une automatisation et une intégration à travers les fonctions. Son bureau des données soutient l'analytique, la science des données, la gouvernance et l'ingénierie, améliorant la visibilité et la prise de décision. La stratégie d'IA de Marvell se concentre sur le développement de produits, l'efficacité de l'entreprise, la gestion du changement et l'investissement à long terme dans les plateformes et la gouvernance. Avec plus de 40 applications en production, Marvell démocratise l'IA et se prépare à l'avenir, y compris l'informatique quantique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ddcbd16121dded677dfe4d/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 21 Mar 2025 22:00:00 GMT"
     }
 ]
