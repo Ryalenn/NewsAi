@@ -47,5 +47,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 23 Mar 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKB326_CLOUDFLARE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sat, 22 Mar 2025 18:17:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 23 Mar 2025 22:30:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/robtoews/2025/03/23/the-gaping-hole-in-todays-ai-capabilities-1/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e03fa66b21fd5655bc80b9/0x0.jpg?format=jpg&crop=2543,1429,x0,y0,safe&width=440",
+        "date": "Sun, 23 Mar 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
