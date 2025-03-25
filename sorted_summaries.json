@@ -84,6 +84,20 @@
         "date": "Tue, 25 Mar 2025 07:00:00 GMT"
     },
     {
+        "title": "Google Gemini 2.5 Pro",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2556591_google-annonce-lia-gemini-2-5-pro-plus-intelligente-plus-puissante-gratuite-pour-linstant",
+        "body": "Google lance Gemini 2.5 Pro, une IA capable de réfléchir avant de fournir des réponses, avec un focus sur la précision et la réflexion, notamment pour les sujets complexes. Accessible via Google AI Studio et l'application Gemini, ce modèle expérimental se démarque par sa capacité à analyser, contextualiser et vérifier ses conclusions. Il excelle dans les benchmarks et surpasse ses concurrents dans l'édition de code et les tests pour développeurs. Avec un \"context window\" d'1 million de tokens, il traite de longs documents et projets. Google prévoit d'intégrer ces capacités de raisonnement dans ses futurs modèles, anticipant l'émergence d'AI agents autonomes. L'accès à Gemini 2.5 Pro est actuellement gratuit, mais les tarifs de l'API seront bientôt annoncés.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-76-6-1200x677-1-768x433.jpg?resize=169,169&key=3254fd96",
+        "date": "Mon, 24 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Sora, la nouvelle fonctionnalité de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2556551_vous-pouvez-desormais-generer-des-images-directement-a-partir-de-chatgpt-et-sora-ca-marche-beaucoup-mieux-et-cest-gratuit",
+        "body": "OpenAI a présenté Sora, une nouvelle fonctionnalité intégrée à ChatGPT, qui permet de créer des images directement depuis la plateforme de chat. Sora est alimenté par GPT-4o, un modèle IA \"omnimodal\" capable de gérer le texte, les images, le son et la vidéo. Cette mise à jour améliore considérablement les capacités de génération d'images de ChatGPT, qui étaient auparavant limitées à Dall-E, un outil moins sophistiqué. Sora excelle dans la création d'images complexes et détaillées, en gérant jusqu'à 20 éléments individuels sans se mélanger les pinceaux. De plus, le texte dans les images est désormais lisible, ce qui le rend idéal pour les menus, les affiches et même les bandes dessinées. La méthode de génération d'images de Sora est \"autorégressive\", ce qui signifie qu'il crée l'image étape par étape, garantissant ainsi une précision et une clarté accrues. Les utilisateurs peuvent également télécharger leurs propres photos et les modifier à l'aide de Sora. OpenAI a mis en place des garde-fous pour prévenir les abus, notamment en empêchant la création de deepfakes et en intégrant des métadonnées pour identifier les images générées. Sora est actuellement gratuit et accessible à tous les utilisateurs de ChatGPT.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-76-5-1200x800-1-768x512.jpg?resize=200,200&key=cc5e9647",
+        "date": "Mon, 24 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "MoshiVis, l'assistant IA français qui révolutionne l'analyse d'images",
         "link": "https://www.frandroid.com/culture-tech/2555597_vos-images-prennent-la-parole-la-startup-de-xavier-niel-lance-moshivis",
         "body": "Dans le domaine de l'IA, la course à l'innovation est féroce, avec des entreprises comme OpenAI et DeepSeek poussant les limites de la performance. Le laboratoire français Kyutai, cofondé par Xavier Niel, se distingue en se concentrant sur l'ajout de fonctionnalités de pointe à son assistant IA open source, Moshi. La nouvelle fonction MoshiVis permet à l'IA de comprendre et de commenter vocalement des images en temps réel, avec une faible latence. Pour y parvenir, MoshiVis intègre 206 millions de paramètres supplémentaires à la version de base de Moshi, qui en compte déjà sept milliards. Cet outil se veut également éthique, avec un filigrane permettant d'identifier les discours générés par l'IA, luttant ainsi contre la désinformation. Moshi se présente comme un assistant audio capable de générer différentes émotions et intonations, et pourrait trouver des applications dans les espaces culturels ou pour l'aide à l'accessibilité.",
@@ -229,12 +243,5 @@
         "body": "Les grandes entreprises technologiques rendent les technologies de chatbot IA plus accessibles au grand public. OpenAI, avec GPT-4, Google, avec Gemini, et Microsoft, avec Copilot, sont à l'avant-garde de cette tendance. Google ajoute de nouvelles fonctionnalités IA à Gemini, permettant au système de \"voir\" l'écran de l'utilisateur et de répondre aux questions en temps réel. Microsoft, de son côté, présente Dragon Copilot, un système IA pour le secteur de la santé, tandis qu'Anthropic lance Claude 3.7 Sonnet, un modèle de raisonnement hybride. DeepSeek d'Elon Musk et Grok-3 secouent également le marché de l'IA, avec des fonctionnalités de pointe. L'article aborde également les problèmes de droits d'auteur liés à l'IA, les préoccupations éthiques et les applications pratiques de l'IA dans divers secteurs.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Sun, 23 Mar 2025 22:30:14 GMT"
-    },
-    {
-        "title": "L'avènement de l'apprentissage continu dans l'IA",
-        "link": "https://www.forbes.com/sites/robtoews/2025/03/23/the-gaping-hole-in-todays-ai-capabilities-1/?ss=ai",
-        "body": "L'article explore l'évolution passionnante de l'intelligence artificielle vers un nouveau paradigme : l'apprentissage continu, qui permet aux modèles IA d'apprendre et de s'adapter en continu, plutôt que de passer par des phases distinctes d'apprentissage et d'inférence. Cette approche a le potentiel de révolutionner les capacités de l'IA, la rendant plus proche de l'intelligence humaine et ouvrant de nouvelles possibilités pour des applications personnalisées et durables. Bien que des défis subsistent, notamment le problème du \"catastrophic forgetting\", des startups et des laboratoires de recherche font des progrès significatifs dans ce domaine. L'apprentissage continu pourrait créer de nouvelles opportunités de marché et révolutionner les applications de l'IA, tant pour les consommateurs que pour les entreprises.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e03fa66b21fd5655bc80b9/0x0.jpg?format=jpg&crop=2543,1429,x0,y0,safe&width=440",
-        "date": "Sun, 23 Mar 2025 21:00:00 GMT"
     }
 ]
