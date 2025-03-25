@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir de l'IA dans le domaine juridique",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/03/25/ai-powered-law-firms-lexisnexis-cto-reveals-why-waiting-is-not-an-option/?ss=ai",
+        "body": "L'industrie juridique, traditionnellement prudente dans l'adoption de nouvelles technologies, est maintenant à un tournant grâce à l'IA. LexisNexis Legal & Professional développe Protégé, un assistant juridique intelligent et génératif, pour révolutionner le travail quotidien des avocats. Protégé se distingue par sa capacité à anticiper les besoins des avocats, offrant ainsi efficacité, précision et personnalisation dans leurs tâches juridiques. La force de LexisNexis réside dans sa plateforme RAG (Retrieval Augmented Generation) qui ancre ses modèles linguistiques dans une base de données massive, garantissant ainsi la précision et la pertinence essentielles au domaine juridique. La collaboration avec des leaders technologiques comme AWS, Microsoft et OpenAI permet de développer des modèles d'IA adaptés au secteur juridique. Les premiers utilisateurs de Protégé rapportent des améliorations significatives en productivité et en qualité des recherches et des documents juridiques. LexisNexis surmonte les obstacles à l'adoption de l'IA dans le domaine juridique en mettant l'accent sur la sécurité, la conformité et le développement éthique de l'IA avec une supervision humaine robuste. L'entreprise prévoit que d'ici cinq ans, chaque professionnel du droit bénéficiera d'un assistant IA personnalisé, tout en soulignant que l'IA assistera mais ne remplacera pas la responsabilité humaine inhérente à la justice.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e028a4865e90f1c510df35/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 25 Mar 2025 09:14:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des agents autonomes et proactifs",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/25/how-ai-agents-will-revolutionize-your-day-to-day-life/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e252b93cf4dd3365504649/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 25 Mar 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'IA à l'épreuve de la pensée humaine",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2554693_les-ia-les-plus-puissantes-echouent-a-ce-test",
+        "body": "L'article présente un nouveau test, ARC-AGI-2, conçu pour évaluer l'intelligence générale des systèmes d'IA en les confrontant à des tâches inédites que les humains trouvent faciles. Le test prend la forme d'un casse-tête visuel, où l'IA doit identifier des motifs et comprendre des règles cachées. Les meilleurs modèles actuels obtiennent des scores faibles, tandis que les humains atteignent en moyenne 60 %. Ce test met en évidence la nécessité de développer des outils d'évaluation plus robustes pour l'IA, qui mesurent la créativité et l'adaptabilité plutôt que la simple capacité à mémoriser. La Fondation Arc Prize lance également un concours, Arc Prize 2025, qui vise à atteindre 85 % de bonnes réponses sur ARC-AGI-2 tout en limitant les coûts énergétiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/image-71-1200x663-1-768x424.jpg?resize=166,166&key=3a9e86d8",
+        "date": "Mon, 24 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "Apple Intelligence débarque en français",
         "link": "https://www.frandroid.com/os/ios/2554623_ios-18-4-rc-est-la-et-avec-lui-apple-intelligence-se-met-a-parler-francais",
         "body": "Apple lance la Release Candidate d'iOS 18.4, intégrant une gamme de fonctionnalités d'IA sous le nom d'Apple Intelligence, désormais disponible en français. Parmi les nouveautés, on trouve la priorisation des notifications, les Genmoji (emojis personnalisés), et l'application Image Playground pour la création d'images. Siri bénéficie d'un nouveau design, de nouvelles voix et d'une meilleure compréhension des requêtes complexes, pouvant désormais passer le relais à ChatGPT. La mise à jour inclut également des améliorations pour les raccourcis et l'introduction de l'IA visuelle sur l'iPhone 15 Pro et l'Apple Vision Pro. Ces fonctionnalités sont accessibles sur les appareils récents comme les iPhone 15 Pro, la gamme iPhone 16 et les appareils Apple équipés de puces M1 ou plus récentes.",
@@ -138,12 +159,5 @@
         "body": "Résumé : David Pierce partage ses coups de cœur technologiques de la semaine, y compris son navigateur iOS préféré, Quiche Browser, et présente l'écran d'accueil de Greg de Jonckheere, le développeur de Quiche. Il mentionne également quelques gadgets intéressants, comme l'iPhone 15 Pro, la tablette Supernote Nomad et le jeu vidéo Assassin's Creed. Il explore également des contenus de divertissement tels que la finale de la série \"Severance\" et le podcast d'Amy Poehler. Enfin, il mentionne sa fascination pour les vidéos de visites de laboratoires Disney.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Installer-76.png?quality=90&strip=all&crop=0%2C0.036469730123997%2C100%2C99.927060539752&w=2400",
         "date": "Sun, 23 Mar 2025 12:00:00 GMT"
-    },
-    {
-        "title": "La science de l'IA",
-        "link": "https://www.forbes.com/sites/craigsmith/2025/03/23/when-ai-takes-over-scientific-discovery/?ss=ai",
-        "body": "L'IA pourrait être plus proche de la réalisation de recherches scientifiques originales que nous ne le pensons. Récemment, un système d'IA de Sakana AI au Japon a conçu une expérience, formulé une hypothèse et rédigé un article scientifique évalué par des pairs sans aucune intervention humaine. L'article, intitulé « Compositional Regularization : Unexpected Obstacles in Enhancing Neural Network Generalization », a été accepté à l'ICLR 2025, une prestigieuse conférence sur l'apprentissage automatique. Le système, appelé AI Scientist-v2, est un agent de recherche autonome conçu pour automatiser l'ensemble du processus scientifique. Bien que cela suggère que nous pourrions être sur le point de vivre une « explosion de l'intelligence » où l'IA deviendrait la force motrice de la science, des experts comme Yann LeCun, lauréat du prix Turing, mettent en garde contre le fait de confondre la correspondance de modèles avec une véritable intelligence. Le débat fait rage pour savoir si l'IA comprend vraiment le monde ou si elle se contente de recouper des modèles à partir de ses données d'entraînement. Malgré cela, à mesure que l'IA devient plus capable, elle jouera un rôle de plus en plus important dans la découverte scientifique, accélérant les revues de littérature, le développement de codes et la conception d'expériences. Bien que l'IA puisse générer des hypothèses et automatiser le travail de laboratoire, LeCun souligne que l'auteur ne signifie pas la compréhension et que la prédiction n'est pas la même que la compréhension. L'avenir pourrait résider dans l'intelligence hybride, où l'IA gère la complexité et l'échelle, tandis que les humains fournissent des insights, une éthique et des bonds conceptuels.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67df674cacf4357e97012145/0x0.jpg?format=jpg&crop=3263,1529,x0,y320,safe&width=440",
-        "date": "Sun, 23 Mar 2025 09:00:00 GMT"
     }
 ]
