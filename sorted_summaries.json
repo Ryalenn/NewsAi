@@ -1,10 +1,24 @@
 [
     {
+        "title": "Quantum Leap",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/26/10-quantum-computing-giants-everyone-must-know-about/?ss=ai",
+        "body": "L'informatique quantique est sur le point de révolutionner des industries telles que la conception de médicaments, la cybersécurité et la finance, avec un marché mondial estimé à 15 milliards de dollars d'ici 2030. Les ordinateurs quantiques représentent une avancée comparable au passage des valves aux transistors dans l'ingénierie informatique. Cela signifie non seulement traiter les données plus rapidement, mais aussi les traiter d'une manière qui redéfinit notre compréhension des données et de ce qui peut être fait avec elles. Les entreprises et les organisations de recherche peuvent désormais accéder à une suite d'outils quantiques basés sur le cloud grâce à des plateformes telles qu'IBM, Google Quantum AI, Microsoft Azure Quantum et d'autres. Les entreprises qui ignorent cette opportunité risquent de prendre du retard sur leurs concurrents.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e39d95785f7abe213012c7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 26 Mar 2025 06:26:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA chez HP",
         "link": "https://www.forbes.com/sites/davealtavilla/2025/03/25/hp-amplify-showcases-ai-powered-productivity-experiences-and-innovation/?ss=ai",
         "body": "HP mise sur l'IA pour transformer ses produits et services, avec plus de 80 nouvelles offres annoncées lors de la conférence HP Amplify. L'entreprise s'efforce d'intégrer profondément l'IA dans son écosystème, améliorant ainsi l'expérience utilisateur, l'efficacité, la collaboration et la gestion informatique. Les derniers PC Copilot+ de HP, notamment les EliteBook Ultra et HP OmniBook X, sont conçus pour placer l'IA au premier plan, avec des processeurs Snapdragon X Elite, Intel Core Ultra et AMD Ryzen AI. HP met également l'accent sur l'amélioration du secteur du jeu, de l'impression et des solutions informatiques grâce à l'IA. La plateforme d'expérience de la main-d'œuvre de HP utilise l'IA pour surveiller les appareils, renforcer la sécurité et fournir des analyses prédictives. HP investit également dans l'éducation à l'IA et s'engage à créer des technologies plus écologiques. La solution Wolf Security de HP fournit une protection multicouche contre les cyberattaques, tandis que les technologies telles que HP Sure Click surveillent les menaces de hameçonnage par e-mail. Les annonces de HP soulignent son objectif stratégique d'intégrer l'IA dans une large gamme de produits et de services, positionnant ainsi l'entreprise comme un acteur clé dans la formation de l'avenir de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e326307dbb2de45e648711/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Mar 2025 22:00:00 GMT"
+    },
+    {
+        "title": "Gemini 2.5 : des modèles d'IA améliorés qui prennent le temps de « réfléchir »",
+        "link": "https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model",
+        "body": "Google a présenté Gemini 2.5, une mise à jour de ses modèles d'IA avec des capacités améliorées grâce à l'introduction de modèles de « raisonnement » qui traitent les tâches étape par étape et prennent des décisions plus éclairées. Gemini 2.5 Pro Experimental, la première version, surpasserait les modèles concurrents sur des benchmarks communs d'IA évaluant la compréhension, les mathématiques, la programmation et d'autres capacités. Le nouveau modèle est accessible via Google AI Studio ou pour les abonnés Gemini Advanced. Gemini se distingue également par sa multimodalité native, lui permettant d'interpréter non seulement du texte, mais aussi de l'audio, des images, des vidéos et du code. Google prévoit également d'introduire une fenêtre de contexte de 2 millions de jetons pour améliorer le traitement des données. Le CEO de Google DeepMind, Demis Hassabis, a salué les avancées de Gemini 2.5 Pro, soulignant ses capacités améliorées en matière de raisonnement multimodal, de programmation et de STEM.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 25 Mar 2025 21:57:37 GMT"
     },
     {
         "title": "La menace de l'IA malveillante",
