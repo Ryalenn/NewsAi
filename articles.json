@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous pouvez désormais poser des questions à Google Maps grâce à l’IA (mais ça ne marche pas vraiment)",
+        "title": "Vous pouvez d\u00e9sormais poser des questions \u00e0 Google Maps gr\u00e2ce \u00e0 l\u2019IA (mais \u00e7a ne marche pas vraiment)",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2556755_vous-pouvez-desormais-poser-des-questions-a-google-maps-grace-a-lia-mais-ca-ne-marche-pas-vraiment",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/google-maps-application-scaled-1-768x578.jpg?resize=226,226&key=e9f8bfbc",
         "date": "Tue, 25 Mar 2025 23:00:00 GMT",
@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT transforme vos photos en chef-d’œuvre Ghibli, mais est-ce vraiment légal ?",
+        "title": "ChatGPT transforme vos photos en chef-d\u2019\u0153uvre Ghibli, mais est-ce vraiment l\u00e9gal ?",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559177_lia-dopenai-transforme-vos-photos-en-chef-doeuvre-ghibli-mais-est-ce-vraiment-legal",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/ghinli-collage-1200x672-1-768x430.jpg?resize=168,168&key=08bc8d5d",
         "date": "Wed, 26 Mar 2025 23:00:00 GMT",
@@ -154,7 +154,7 @@
         "check": "no"
     },
     {
-        "title": "Oubliez le style Ghibli, voici 5 usages renversants et nouveau de la génération d’image GPT-4o",
+        "title": "Oubliez le style Ghibli, voici 5 usages renversants et nouveau de la g\u00e9n\u00e9ration d\u2019image GPT-4o",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559387_oubliez-le-style-ghibli-voici-5-usages-renversants-et-nouveau-de-la-generation-dimage-gpt-4o",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/gncom1fweaahxew.jpg?resize=200,200&key=72c32b9a",
         "date": "Wed, 26 Mar 2025 23:00:00 GMT",
@@ -194,5 +194,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e43ecb720fd50f46727a51/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 26 Mar 2025 17:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 26 Mar 2025 21:46:47 GMT",
+        "check": "no"
     }
 ]
