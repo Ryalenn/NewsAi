@@ -14,6 +14,20 @@
         "date": "Thu, 27 Mar 2025 04:00:00 GMT"
     },
     {
+        "title": "Transformer vos photos en œuvres d'art avec l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559577_comment-transformer-vos-photos-en-style-ghibli-pixar-ou-cyberpunk-avec-chatgpt",
+        "body": "L'article présente les capacités de ChatGPT, et plus particulièrement de GPT-4o, à transformer des photos en œuvres d'art dans différents styles, comme celui de Studio Ghibli, Pixar, ou encore les Simpson. Il fournit un tutoriel étape par étape pour utiliser l'option de génération d'images de ChatGPT et créer des images impressionnantes. Le \"moteur de rendu\" de ChatGPT a été entraîné sur une grande variété de contenus visuels, lui permettant d'imiter de nombreux styles artistiques. L'article donne également des exemples de prompts pour guider l'IA vers le style désiré, et mentionne que d'autres chatbots, comme Grok et Gemini, offrent des fonctionnalités similaires, bien que moins avancées.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/collage-1200x800-1-768x512.jpg?resize=200,200&key=e78b0ce3",
+        "date": "Wed, 26 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Le débat juridique autour de l'IA et du droit d'auteur",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559177_lia-dopenai-transforme-vos-photos-en-chef-doeuvre-ghibli-mais-est-ce-vraiment-legal",
+        "body": "OpenAI a récemment mis à jour son modèle GPT-4o avec un moteur de rendu d'images capable de transformer des photos en œuvres inspirées du Studio Ghibli. Cette innovation a déclenché une vague de créativité en ligne, mais a également soulevé des questions juridiques complexes. Bien que le style \"Ghibli\" en soi ne soit pas protégé par le droit d'auteur, l'utilisation par OpenAI de millions d'images des films de Miyazaki sans autorisation pourrait être problématique. Des poursuites similaires ont déjà été intentées contre OpenAI et d'autres entreprises d'IA. La situation est particulièrement floue en France et en Europe, où la loi ne précise pas clairement si l'entraînement d'une IA sur des œuvres protégées est illégal. En attendant que les tribunaux tranchent, les utilisateurs continuent d'explorer les possibilités offertes par cette nouvelle technologie.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/ghinli-collage-1200x672-1-768x430.jpg?resize=168,168&key=08bc8d5d",
+        "date": "Wed, 26 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "OpenAI's Revenue Surge",
         "link": "https://www.bloomberg.com/news/articles/2025-03-26/openai-expects-revenue-will-triple-to-12-7-billion-this-year",
         "body": "OpenAI, une entreprise de San Francisco, prévoit de plus que tripler ses revenus cette année pour atteindre 12,7 milliards de dollars, grâce à son logiciel d'intelligence artificielle payant. L'année dernière, l'entreprise a généré 3,7 milliards de dollars de revenus annuels et prévoit une croissance continue, avec un doublement des revenus prévu pour l'année prochaine, atteignant 29,4 milliards de dollars.",
@@ -180,40 +194,5 @@
         "body": "Otter lance un nouvel agent de réunion activé par la voix, qui peut participer à des appels Zoom, répondre à des questions et effectuer d'autres tâches. L'agent de réunion agit comme un assistant virtuel, répondant aux questions, prenant des notes et organisant des réunions de suivi lorsqu'il est interpellé. L'entreprise espère que, à terme, l'agent pourra participer activement aux réunions en se basant sur les connaissances acquises lors de réunions précédentes. Otter lance également deux autres agents : un agent de vente, qui fournit un coaching en temps réel aux équipes commerciales pendant les appels clients, et un agent SDR, qui peut donner des démonstrations de produits en direct sans intervention humaine. L'agent de réunion sera disponible pour tous les utilisateurs dans les semaines à venir, tandis que l'agent de vente sera accessible aux clients disposant d'un abonnement entreprise et l'agent SDR sur demande. Ces lancements soulignent l'évolution de l'IA vers des services plus agentifs en 2025.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e18295fef9994cb47d84de/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 25 Mar 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Dynamo : révolutionner l'économie de l'inférence",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/03/25/nvidia-dynamo---next-gen-ai-inference-server-for-enterprises/?ss=ai",
-        "body": "Lors de la conférence GTC 2025, Nvidia a présenté Dynamo, un nouveau serveur d'inférence AI open source conçu pour alimenter les derniers modèles AI de grande envergure. Dynamo est le successeur du serveur d'inférence Triton largement utilisé et représente un bond en avant dans la pile AI de Nvidia. Il est construit pour orchestrer l'inférence du modèle AI sur des flottes massives de GPU avec une haute efficacité, permettant aux \"usines AI\" de générer des insights et des réponses plus rapides et à moindre coût. Dynamo est un framework d'inférence à haut débit et à faible latence pour le déploiement de modèles AI génératifs et de raisonnement dans des environnements distribués. Il s'intègre à la plate-forme AI full-stack de Nvidia en tant que système d'exploitation des usines AI, connectant des GPU, des réseaux et des logiciels avancés pour améliorer les performances de l'inférence. Dynamo est conçu pour servir les derniers modèles de raisonnement, tels que DeepSeek R1. Le service de grands LLM et de modèles de raisonnement hautement performants nécessite de nouvelles approches. Dynamo introduit plusieurs innovations clés dans son architecture, notamment un planificateur GPU dynamique, un routeur intelligent LLM-Aware, une bibliothèque de communication à faible latence et un gestionnaire de mémoire distribué. Il révolutionne l'économie de l'inférence en améliorant la vitesse, l'évolutivité et la rentabilité, permettant aux organisations de fournir des expériences AI avancées sans augmentation proportionnelle des coûts d'infrastructure.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e2a350ca8a38a3a256294f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Mar 2025 12:39:00 GMT"
-    },
-    {
-        "title": "La maturité technologique",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/03/25/ai-privacy-and-power-are-people-finally-reclaiming-their-data/?ss=ai",
-        "body": "L'article explore l'évolution de la conscience publique concernant les dangers de la technologie, en particulier la surveillance et l'exploitation des données par les grandes entreprises technologiques. Il souligne le rôle de la pandémie de COVID-19 dans l'accélération de la numérisation et de la surveillance au travail, et comment cela a contribué à une prise de conscience croissante de l'importance de la souveraineté des données, des droits numériques et des outils de protection de la vie privée assistés par l'IA. Bien que les réglementations gouvernementales sur la protection des données se soient renforcées, l'article met en garde contre les excès de zèle et souligne l'importance de l'éthique et de la responsabilité individuelle dans l'utilisation de la technologie, en particulier de l'IA. L'auteur suggère que la prochaine étape consiste à trouver des solutions pour autonomiser les individus face aux grandes institutions, et que la jeune génération, ayant grandi à l'ombre de la COVID-19, jouera un rôle clé dans la promotion de l'innovation centrée sur l'humain et éthique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e1fb8eefa8a7e3479f39da/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Mar 2025 12:23:00 GMT"
-    },
-    {
-        "title": "La certification sans IA pour les créateurs",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/03/25/why-a-rocket-scientist-built-an-ai-free-certification/?ss=ai",
-        "body": "Seth Jaffe, ancien ingénieur aérospatial et avocat en propriété intellectuelle, a lancé la certification AI-Free, un référentiel en ligne et un service d'archivage de certification. Ce service permet aux écrivains, artistes et créateurs de certifier leur travail comme étant créé par des humains et non par l'IA. La certification est basée sur le système d'honneur, les créateurs déclarant eux-mêmes le niveau d'implication de l'IA dans leur travail. Jaffe prévoit d'étendre le service en collaborant avec des guildes créatives, des organisations professionnelles et des écoles. Il envisage également une mise à niveau future de la plateforme, y compris l'intégration de la blockchain pour une traçabilité immuable et un service de vérification premium. Alors que le contenu généré par l'IA devient plus courant, Jaffe croit que le travail créatif humain gagnera en valeur, les consommateurs appréciant l'originalité et l'ingéniosité humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e0c00eeb490f22ee34338b/0x0.jpg?format=jpg&crop=5320,2992,x680,y501,safe&width=440",
-        "date": "Tue, 25 Mar 2025 12:00:00 GMT"
-    },
-    {
-        "title": "Nvidia lance G-Assist, un assistant IA pour les joueurs",
-        "link": "https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download#comments",
-        "body": "Nvidia a transformé sa blague du poisson d'avril 2017 en une réalité en lançant Project G-Assist, un assistant IA pour les propriétaires de cartes graphiques RTX. G-Assist, disponible dans l'application Nvidia, optimise les paramètres du jeu et du système, mesure les fréquences d'images et contrôle l'éclairage des accessoires connectés. L'assistant utilise un petit modèle linguistique local et répond aux commandes vocales ou textuelles, offrant des réponses similaires à ChatGPT. G-Assist peut également analyser et optimiser les performances de l'ordinateur, détecter les limiteurs de fréquences d'images et recommander des ajustements pour améliorer l'expérience de jeu. Il nécessite environ 10 Go d'espace et fonctionne sur diverses cartes graphiques RTX de série 30, 40 et 50 avec au moins 12 Go de VRAM. L'application Nvidia, qui comprend G-Assist en option, offre également de nouvelles options de remplacement DLSS et des réglages d'échelle et de couleur d'affichage.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343231/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 25 Mar 2025 10:57:14 GMT"
-    },
-    {
-        "title": "Waymo's National Expansion",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/03/25/waymo-robotaxis-are-heading-to-washington/?ss=ai",
-        "body": "Waymo, leader américain de la technologie de conduite autonome, étend ses services de robotaxis payants à de nouvelles villes américaines, dont Washington, D.C., Miami et Atlanta. L'entreprise, qui réalise déjà des bénéfices à Phoenix, San Francisco, Los Angeles, Austin et dans la baie de San Francisco, a évité tout accident grave et n'a causé aucun préjudice à ses passagers. Waymo fait face à une concurrence limitée aux États-Unis, suite à l'arrêt de Cruise soutenu par General Motors après un accident en 2023. Tesla, avec sa propre technologie de conduite autonome basée uniquement sur des caméras, prévoit de lancer un service limité à Austin, au Texas, en juin, tandis qu'Amazon's Zoox et May Mobility proposent également des services de robotaxis autonomes dans certaines régions. Waymo a franchi une étape importante l'année dernière avec des lancements à San Francisco et Los Angeles, générant environ 100 millions de dollars de revenus en 2024 et offrant plus de 200 000 trajets payants par semaine dans toutes les villes où il opère.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e1cd637a02e87c67a51d99/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 25 Mar 2025 10:00:00 GMT"
     }
 ]
