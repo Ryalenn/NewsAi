@@ -1,5 +1,12 @@
 [
     {
+        "title": "Deepfakes : une menace pour la santé publique ?",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/03/28/can-deepfakes-damage-your-health/?ss=ai",
+        "body": "L'article met en lumière les dangers des deepfakes, en particulier dans le domaine de la santé. Les deepfakes sont de plus en plus utilisés pour promouvoir de faux traitements médicaux, discréditer les professionnels de la santé et propager de fausses informations sur des problèmes de santé publique. Ces pratiques peuvent avoir de graves conséquences sur la santé des individus et éroder la confiance envers les professionnels de la santé. L'article souligne également l'importance de développer ses compétences en matière de pensée critique et de détection des deepfakes pour se protéger soi-même et les autres.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e6430b9dea818af1dcb9dd/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Mar 2025 06:00:00 GMT"
+    },
+    {
         "title": "Apple's Siri Leadership Transition",
         "link": "https://www.forbes.com/sites/charliefink/2025/03/28/siris-new-doctor-bigscreens-new-vr-headset-openais-ghibli-update/?ss=ai",
         "body": "Apple a récemment nommé Mike Rockwell, architecte et PDG de Vision Pro, à la tête de Siri. Malgré l'échec de Vision Pro, Apple fait confiance à Rockwell pour diriger l'avenir de son assistant vocal. L'article soulève des questions sur la décision d'Apple, étant donné l'échec de son dernier projet majeur. L'article mentionne également les ambitions d'Apple d'intégrer l'IA à ses montres, ainsi que les dernières avancées en matière de génération d'images par IA, avec un focus sur OpenAI et son modèle GPT-4o.\n\nL'article passe ensuite en revue les dernières actualités du secteur, notamment les ventes décevantes de casques VR, les progrès des startups en matière de génération de texte en image, et les innovations dans le domaine des soins de la peau sur Roblox. Il mentionne également les lauréats des Polys Immersive Awards, qui récompensent l'excellence dans le domaine de la réalité XR. Enfin, l'article annonce les invités du podcast de l'auteur, qui discutent de l'utilisation des codes QR pour la navigation intérieure par les humains et les robots.",
@@ -12,6 +19,20 @@
         "body": "L'article explore l'impact de l'IA sur l'avenir des diplômes en arts libéraux, souvent dévalorisés dans la culture américaine. L'IA transforme déjà des industries comme la comptabilité et le droit, et automatise des emplois dans ces domaines. Les modèles linguistiques peuvent même écrire de la poésie et composer des chansons. Cependant, certains affirment que les diplômés en arts libéraux et en sciences humaines auront un avantage sur le marché du travail, car ils peuvent apporter la touche humaine aux processus modernes et utiliser l'IA de manière responsable. Les universités américaines, avec leur expérience dans la gestion de l'information et la résolution de problèmes complexes, sont bien placées pour former les étudiants à naviguer dans cet avenir incertain. L'évolution rapide de l'IA signifie que les étudiants doivent comprendre le monde en constante évolution dans lequel ils vivent et y contribuer. L'IA pourra être intégrée à toutes les disciplines universitaires, transformant ainsi l'éducation.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e5ed2fccdfc377e1e2dd6a/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 28 Mar 2025 00:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'emploi à l'ère de l'IA selon Bill Gates",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2560923_pour-bill-gates-ces-trois-metiers-seront-epargnes-par-la-revolution-de-lia",
+        "body": "Bill Gates prédit que d'ici 2025, l'IA aura un impact significatif sur le monde du travail, remplaçant de nombreux médecins et enseignants. Il souligne toutefois que les développeurs, les biologistes et les experts en énergie resteront indispensables pour superviser les systèmes d'IA et faire face à des défis tels que les maladies mortelles et le changement climatique. Gates envisage un avenir où l'IA devient \"gratuite et courante\", révolutionnant la médecine et l'éducation. Il reconnaît cependant que la rapidité de l'évolution de l'IA est vertigineuse et qu'il n'y a pas de limite à son potentiel. Il considère l'IA comme une opportunité fantastique pour résoudre les problèmes mondiaux et améliorer la vie des gens.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/bill-gates-joked-with-steve-jobs-about-taking-the-wrong-lsd-talks-ai-and-optimism-for-the-future-0-49-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=77969775",
+        "date": "Thu, 27 Mar 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google, votre futur agent de voyage",
+        "link": "https://www.frandroid.com/marques/google/2560789_etes-vous-pret-a-confier-votre-itineraire-de-vacances-a-lia-google-lespere",
+        "body": "Google étend les capacités de son moteur de recherche et de Google Maps grâce à l'IA. Les utilisateurs américains peuvent désormais demander à Google de leur créer un itinéraire de vacances complet, avec des suggestions de lieux et des photos. Ces itinéraires peuvent être exportés vers un Google Doc pour être partagés et édités. Google annonce également que son IA Gemini, disponible en France, peut aider à planifier les vacances, bien qu'elle puisse parfois fournir des informations erronées sur les distances et les établissements. De plus, une fonctionnalité de suivi des prix des hôtels sera ajoutée au service \"Voyager\" de Google.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/Travel_Tips_v1.width-1200.format-webp-768x320.webp?resize=300,300&key=cdd1e291",
+        "date": "Thu, 27 Mar 2025 23:00:00 GMT"
     },
     {
         "title": "Les géants de la tech démocratisent l'IA conversationnelle",
