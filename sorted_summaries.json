@@ -152,26 +152,5 @@
         "body": "Google étend les capacités de son moteur de recherche et de Google Maps grâce à l'IA. Les utilisateurs américains peuvent désormais demander à Google de leur créer un itinéraire de vacances complet, avec des suggestions de lieux et des photos. Ces itinéraires peuvent être exportés vers un Google Doc pour être partagés et édités. Google annonce également que son IA Gemini, disponible en France, peut aider à planifier les vacances, bien qu'elle puisse parfois fournir des informations erronées sur les distances et les établissements. De plus, une fonctionnalité de suivi des prix des hôtels sera ajoutée au service \"Voyager\" de Google.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/Travel_Tips_v1.width-1200.format-webp-768x320.webp?resize=300,300&key=cdd1e291",
         "date": "Thu, 27 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI rate limite la génération d'images",
-        "link": "https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests#comments",
-        "body": "Face à l'engouement pour la génération d'images de ChatGPT, OpenAI a mis en place une limite de taux sur les requêtes de génération d'images, selon son PDG Sam Altman. Cette limite est due à la demande importante qui fait fondre les GPU de l'entreprise. La limite de taux est une mesure temporaire pour gérer l'avalanche de requêtes, et l'entreprise travaille à augmenter son efficacité. La génération d'images s'appuie sur le modèle GPT-4o, produisant des résultats réalistes et surmontant des obstacles précédents comme le rendu de texte. La limite de taux est un rappel de la puissance informatique et énergétique nécessaire pour générer des images.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390407/STK149_AI_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 27 Mar 2025 17:28:39 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent l'IA conversationnelle",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grandes entreprises technologiques, telles que Microsoft (Copilot), Google (Gemini) et OpenAI (GPT-4), rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces modèles linguistiques complexes fonctionnent grâce à des programmes d'auto-complétion qui analysent les propriétés statistiques du langage, permettant ainsi de faire des prédictions basées sur les mots tapés précédemment. Cependant, ces outils peuvent présenter des informations fausses comme vraies, car ils ne disposent pas de base de données de « faits » codés en dur. La demande pour ces technologies a conduit OpenAI à limiter temporairement les demandes de génération d'images sur ChatGPT. De plus, Google, Microsoft et d'autres entreprises investissent massivement dans le développement et l'amélioration de leurs modèles d'IA, avec des fonctionnalités telles que la recherche complexe, la génération de code et l'interprétation de divers médias. L'IA est également intégrée dans des domaines tels que les soins de santé, les centres d'appels et les médias, soulignant son impact croissant sur divers secteurs.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 27 Mar 2025 17:28:39 GMT"
-    },
-    {
-        "title": "Microsoft's AI Ambitions",
-        "link": "https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad#comments",
-        "body": "Lors d'une réunion interne, la direction de Microsoft a discuté de l'investissement massif de l'entreprise dans l'IA, notamment de l'intégration de DeepSeek et de son propre modèle Muse. Satya Nadella, PDG de Microsoft, a été impressionné par l'efficacité de DeepSeek, qui a optimisé son IA en travaillant sous la couche Nvidia CUDA. Microsoft a dévoilé son modèle Muse, formé sur le jeu Xbox Bleeding Edge, pour générer du gameplay. L'entreprise espère que Muse améliorera son application Copilot, qui n'a pas encore connu le même succès que ChatGPT. Jay Parikh, récemment embauché pour diriger le groupe CoreAI, a souligné la nécessité d'une collaboration inter-organisationnelle efficace, citant l'exemple de DeepSeek. Microsoft investit également 80 milliards de dollars dans des centres de données pour les charges de travail d'IA, tout en s'engageant à atteindre ses objectifs en matière d'énergie verte. Brad Smith, vice-président de Microsoft, a déclaré que l'entreprise doublait ses efforts pour atteindre son objectif de neutralité carbone d'ici 2030, malgré les défis posés par son virage dans l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 27 Mar 2025 17:00:00 GMT"
     }
 ]
