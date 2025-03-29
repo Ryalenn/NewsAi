@@ -42,6 +42,13 @@
         "date": "Fri, 28 Mar 2025 13:00:00 GMT"
     },
     {
+        "title": "Comment obtenir la première place dans ChatGPT",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/03/28/how-to-rank-first-in-chatgpt-even-if-youre-new-to-ai/?ss=ai",
+        "body": "Comment obtenir la première place dans les recommandations de ChatGPT, même si vous êtes nouveau dans le domaine de l'IA ? Cet article fournit des conseils pratiques pour améliorer la visibilité de votre marque et de votre entreprise dans l'écosystème de l'IA. \n\nRésumé : \n\n- ChatGPT valorise l'autorité, la crédibilité et la pertinence, en se basant sur vos plateformes en ligne, votre empreinte numérique et votre réputation.\n- Créez du contenu utile et approfondi qui démontre votre expertise et réponde aux questions de votre public. Publiez régulièrement.\n- Jouez le jeu des nombres : créez un flux constant de contenu de haute qualité pour devenir l'expert incontournable de votre domaine.\n- Obtenez des mentions positives et cohérentes de sources réputées pour renforcer l'autorité de votre marque.\n- Mettez l'accent sur la spécificité : identifiez vos domaines d'expertise clés et communiquez-les clairement sur toutes les plateformes.\n- Assurez une cohérence dans les informations de votre entreprise en ligne pour établir la confiance des systèmes d'IA.\n- Utilisez le balisage Schema pour fournir des données structurées et aider les systèmes d'IA à comprendre ce que fait votre entreprise.\n- Établissez une présence positive sur Reddit et Wikipedia pour renforcer la visibilité de votre marque dans les systèmes d'IA.\n- Construisez une véritable expertise, documentez-la et partagez-la généreusement pour établir une crédibilité durable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e523a75aabe0f6de88163f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 28 Mar 2025 12:00:00 GMT"
+    },
+    {
         "title": "L'IA au service de la performance des entreprises",
         "link": "https://www.forbes.com/sites/adrianbridgwater/2025/03/28/appian-ceo-defining-value-from-ai-in-business-processes/?ss=ai",
         "body": "L'article souligne que l'intelligence artificielle (IA) n'a de valeur que lorsqu'elle est appliquée à des problèmes concrets et intégrée aux processus métier. Bien que l'IA ait fait l'objet de nombreux investissements, elle ne génère pas encore suffisamment de revenus car elle n'apporte pas assez de valeur aux entreprises. Matt Calkins, PDG d'Appian, suggère que l'IA peut créer plus de valeur fonctionnelle lorsqu'elle est intégrée aux processus opérationnels existants au sein des organisations, peu importe leur secteur d'activité. L'IA ne doit pas être considérée comme un projet isolé et disjoint, ce qui peut être coûteux et complexe. Au lieu de cela, en l'intégrant aux processus, les entreprises peuvent accéder à des capacités d'IA précieuses, lorsque c'est nécessaire. L'IA gagne en objectif, en gouvernance et en responsabilité lorsqu'elle est encadrée par des processus, ce qui est essentiel pour générer de la valeur commerciale à partir de l'IA. Calkins souligne également que les processus fournissent à l'IA des données, qui sont essentielles à son efficacité, et que les entreprises doivent s'assurer que leurs déploiements d'IA disposent de jeux de données complets tout en maintenant la confidentialité et les privilèges d'accès. L'approche centrée sur les processus rend également l'IA plus sûre, plus mesurable et plus évolutive, avec des mécanismes de sécurité cruciaux et une infrastructure pour étendre son utilisation. La dernière plateforme d'Appian, Appian 25.1, intègre des capacités de traitement de documents améliorées, des tableaux de bord centralisés et une synchronisation améliorée des données, démontrant ainsi l'engagement de l'entreprise à tirer parti de l'IA dans les processus métier.",
@@ -173,47 +180,5 @@
         "body": "Google DeepMind dévoile Gemini 2.5 Pro, un modèle d'IA multimodale de grande envergure capable de « réflexion » pour gérer des tâches complexes. Ce modèle se distingue des générations précédentes par sa capacité à analyser en profondeur les informations, à tirer des conclusions logiques et à prendre en compte les nuances contextuelles avant de répondre. Cette évolution positionne Gemini 2.5 Pro comme un modèle généraliste hautement avancé, adapté aux applications d'entreprise exigeant à la fois précision et adaptabilité. Son architecture innovante, appelée « modèle de réflexion », marque une rupture avec les modèles d'IA traditionnels en mettant l'accent sur la délibération interne et le raisonnement. Gemini 2.5 Pro excelle dans la génération et la raffinerie de code, et peut même gérer des tâches de codage de niveau projet. De plus, l'écosystème Gemini 2.5 Pro comprend TxGemma, une suite de modèles ouverts ciblant des défis industriels spécialisés, notamment dans le développement de médicaments et de biotechnologies. Les performances de Gemini 2.5 Pro dans les benchmarks de codage et de raisonnement en font un outil prometteur pour l'automatisation de l'ingénierie logicielle et la gestion de bases de connaissances d'entreprise complexes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e4d6d768621d6eb79ab003/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 27 Mar 2025 04:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT et les litiges en matière de droits d'auteur",
-        "link": "https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai",
-        "body": "Des poursuites judiciaires ont été engagées contre OpenAI et Meta, accusant ces entreprises d'avoir entraîné leurs modèles d'IA sur des livres sans autorisation. Les plaignants, dont l'humoriste et auteur Sarah Silverman, ainsi que les écrivains Christopher Golden et Richard Kadrey, allèguent des violations de droits d'auteur. Les modèles ChatGPT d'OpenAI et LLaMA de Meta auraient été entraînés à l'aide de datasets acquis illégalement, y compris des livres des plaignants, obtenus à partir de « bibliothèques de l'ombre » en ligne. Les plaignants fournissent des preuves montrant que ChatGPT peut résumer leurs livres sans mentionner les informations de gestion des droits d'auteur. Les poursuites soulignent également que les auteurs n'ont pas donné leur consentement à l'utilisation de leurs œuvres protégées par droits d'auteur pour l'entraînement des modèles d'IA. Ces litiges remettent en question les limites du droit d'auteur et constituent un défi pour les entreprises d'IA.",
-        "image": "",
-        "date": "Thu, 27 Mar 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Les capacités impressionnantes de GPT-4o dans la génération d'images",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559387_oubliez-le-style-ghibli-voici-5-usages-renversants-et-nouveau-de-la-generation-dimage-gpt-4o",
-        "body": "OpenAI a récemment dévoilé que son modèle GPT-4o peut désormais créer des images avec un rendu saisissant, y compris dans le style du studio Ghibli. Cet outil peut également générer des interfaces UI, détourer des éléments sur une image, et croiser la génération de texte et la création d'images. Bien qu'il ait certaines limites, comme la difficulté à générer des images dans le style de Pokémon, les utilisateurs peuvent contourner ces restrictions en étant moins explicites dans leurs demandes. Les artistes s'inquiètent de l'impact de ces outils sur leurs droits, tandis que la véracité des informations générées par ces IA reste un sujet de préoccupation.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/03/gncom1fweaahxew.jpg?resize=200,200&key=72c32b9a",
-        "date": "Wed, 26 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Transformer vos photos en œuvres d'art avec l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559577_comment-transformer-vos-photos-en-style-ghibli-pixar-ou-cyberpunk-avec-chatgpt",
-        "body": "L'article présente les capacités de ChatGPT, et plus particulièrement de GPT-4o, à transformer des photos en œuvres d'art dans différents styles, comme celui de Studio Ghibli, Pixar, ou encore les Simpson. Il fournit un tutoriel étape par étape pour utiliser l'option de génération d'images de ChatGPT et créer des images impressionnantes. Le \"moteur de rendu\" de ChatGPT a été entraîné sur une grande variété de contenus visuels, lui permettant d'imiter de nombreux styles artistiques. L'article donne également des exemples de prompts pour guider l'IA vers le style désiré, et mentionne que d'autres chatbots, comme Grok et Gemini, offrent des fonctionnalités similaires, bien que moins avancées.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/collage-1200x800-1-768x512.jpg?resize=200,200&key=e78b0ce3",
-        "date": "Wed, 26 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le débat juridique autour de l'IA et du droit d'auteur",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2559177_lia-dopenai-transforme-vos-photos-en-chef-doeuvre-ghibli-mais-est-ce-vraiment-legal",
-        "body": "OpenAI a récemment mis à jour son modèle GPT-4o avec un moteur de rendu d'images capable de transformer des photos en œuvres inspirées du Studio Ghibli. Cette innovation a déclenché une vague de créativité en ligne, mais a également soulevé des questions juridiques complexes. Bien que le style \"Ghibli\" en soi ne soit pas protégé par le droit d'auteur, l'utilisation par OpenAI de millions d'images des films de Miyazaki sans autorisation pourrait être problématique. Des poursuites similaires ont déjà été intentées contre OpenAI et d'autres entreprises d'IA. La situation est particulièrement floue en France et en Europe, où la loi ne précise pas clairement si l'entraînement d'une IA sur des œuvres protégées est illégal. En attendant que les tribunaux tranchent, les utilisateurs continuent d'explorer les possibilités offertes par cette nouvelle technologie.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/ghinli-collage-1200x672-1-768x430.jpg?resize=168,168&key=08bc8d5d",
-        "date": "Wed, 26 Mar 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI's Revenue Surge",
-        "link": "https://www.bloomberg.com/news/articles/2025-03-26/openai-expects-revenue-will-triple-to-12-7-billion-this-year",
-        "body": "OpenAI, une entreprise de San Francisco, prévoit de plus que tripler ses revenus cette année pour atteindre 12,7 milliards de dollars, grâce à son logiciel d'intelligence artificielle payant. L'année dernière, l'entreprise a généré 3,7 milliards de dollars de revenus annuels et prévoit une croissance continue, avec un doublement des revenus prévu pour l'année prochaine, atteignant 29,4 milliards de dollars.",
-        "image": "",
-        "date": "Wed, 26 Mar 2025 22:03:07 GMT"
-    },
-    {
-        "title": "ChatGPT Image Generator Delayed for Free Users",
-        "link": "https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o",
-        "body": "Résumé : OpenAI retarde le déploiement de la fonctionnalité de génération d'images intégrée de ChatGPT pour les utilisateurs gratuits, citant une demande plus élevée que prévu. La fonctionnalité, ajoutée mardi, permet aux utilisateurs de créer des images directement dans l'application en utilisant le modèle GPT-4o de l'entreprise. Les utilisateurs ont inondé les médias sociaux avec des photos transformées dans un style similaire à celui de Studio Ghibli. La génération d'images de GPT-4o utilise une approche autorégressive, générant l'image de gauche à droite et de haut en bas. La fonctionnalité est actuellement disponible pour les abonnés ChatGPT Plus, Pro et Team, mais la date de disponibilité pour les utilisateurs gratuits est incertaine.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 26 Mar 2025 21:46:47 GMT"
     }
 ]
