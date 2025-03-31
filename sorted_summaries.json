@@ -1,5 +1,19 @@
 [
     {
+        "title": "Gemini 2.5 Pro Experimental",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/31/googles-best-gemini-ai-chatbot-is-now-free-to-use---but-theres-a-catch/?ss=ai",
+        "body": "Google rend sa nouvelle IA accessible à tous, mais avec des fonctionnalités limitées pour les utilisateurs gratuits. La version gratuite de Gemini 2.5 Pro Experimental offre un accès restreint au modèle, avec des limites de taux et une fenêtre de contexte plus petite que la version payante. Les utilisateurs gratuits peuvent faire jusqu'à cinq requêtes par minute et 25 par jour, tandis que les comptes payants ont droit à 20 requêtes par minute et 100 par jour. Gemini 2.5 Pro surpasse ses concurrents grâce à ses capacités de raisonnement et de codage. Il dispose d'une grande fenêtre de contexte de 1 million de jetons, qui sera bientôt étendue à 2 millions. Les utilisateurs de Gemini Advanced peuvent utiliser l'IA avec Canvas, un espace numérique partagé pour la création et l'édition de documents et de code.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ead9ef9134014d7f0cb1b1/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 31 Mar 2025 18:13:00 GMT"
+    },
+    {
+        "title": "La course à l'IA s'intensifie",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grands acteurs de l'industrie technologique, tels que Microsoft, Google et OpenAI, rendent les technologies de chatbot basées sur l'IA plus accessibles au grand public. Ces systèmes, connus sous le nom de grands modèles linguistiques, fonctionnent en utilisant une série de programmes d'autocompletion pour apprendre le langage et faire des prédictions basées sur les mots tapés par l'utilisateur. Bien qu'ils n'aient pas de base de données de faits codés en dur, ces outils peuvent présenter des informations fausses comme vraies. L'article aborde également la manière dont les entreprises d'IA gèrent la demande croissante pour leurs services, les problèmes de droits d'auteur, l'impact de l'IA sur les opportunités d'emploi et les nouvelles fonctionnalités annoncées par les principaux acteurs de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 31 Mar 2025 15:04:00 GMT"
+    },
+    {
         "title": "Gemini 2.5 : des modèles d'IA améliorés qui prennent le temps de « réfléchir »",
         "link": "https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model",
         "body": "Google a annoncé une mise à jour de ses modèles d'IA avec Gemini 2.5, qui, selon l'entreprise, offre des capacités améliorées grâce à des modèles de raisonnement améliorés qui prennent le temps de « réfléchir » avant de répondre. Gemini 2.5 combine une base améliorée avec un post-traitement amélioré, ce qui se traduit par de meilleures performances globales. La première version, Gemini 2.5 Pro Experimental, surpasse la concurrence sur des benchmarks communs d'IA, mesurant la compréhension, les mathématiques, la programmation et d'autres capacités. Le nouveau modèle est accessible via Google AI Studio ou pour les abonnés Gemini Advanced. Gemini se distingue également par sa multimodalité native, capable d'interpréter non seulement du texte, mais aussi de l'audio, des images, des vidéos et du code. Google prévoit également d'introduire une fenêtre de contexte de 2 millions de jetons pour traiter davantage de données. Le PDG de Google DeepMind, Demis Hassabis, a salué les capacités améliorées de raisonnement multimodal, de programmation et de STEM de Gemini 2.5 Pro. Les modèles Gemini sont désormais des modèles de « raisonnement » qui traitent les tâches étape par étape, prenant des décisions plus éclairées et fournissant de meilleures réponses à des demandes complexes.",
@@ -42,6 +56,13 @@
         "date": "Mon, 31 Mar 2025 05:00:00 GMT"
     },
     {
+        "title": "Apple Intelligence débarque en France",
+        "link": "https://www.frandroid.com/os/ios/2564889_apple-intelligence-disponible-en-francais-ce-que-ios-18-4-change-pour-vous",
+        "body": "Apple a lancé la mise à jour iOS 18.4, introduisant Apple Intelligence en France et en Europe. Cette IA propose des notifications prioritaires et une fonctionnalité de dessin. Apple Intelligence prend désormais en charge plusieurs langues, dont le français, et nécessite un iPhone 15 Pro ou un modèle plus récent. La mise à jour améliore également l'application Photos, permettant un tri avancé des clichés, et l'application Mail, avec l'ajout de catégories pour organiser les courriels. De plus, Orange a activé le RCS, améliorant ainsi l'expérience des SMS. La mise à jour iOS 18.4 enrichit également les raccourcis et les réglages des applications Apple, offrant plus de personnalisation et d'automatisation.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/apple-intelligence-frandroid-p1066773-1200x800-2-768x512.jpg?resize=200,200&key=fb315415",
+        "date": "Sun, 30 Mar 2025 23:00:00 GMT"
+    },
+    {
         "title": "Google démocratise son IA Gemini",
         "link": "https://www.frandroid.com/marques/google/2563395_google-rend-son-meilleur-modele-dia-accessible-a-tous-et-toutes-comment-lessayer",
         "body": "Google rend son modèle d'IA Gemini 2.5 Pro accessible gratuitement à tous, sans abonnement. Disponible initialement dans le programme Gemini Advanced payant, Google a décidé de le mettre à disposition du grand public via son site web. Les utilisateurs peuvent désormais poser des questions à la machine sans frais, bien qu'il y ait une limite de 5 requêtes par minute et de 25 requêtes par jour pour les comptes gratuits. L'IA est actuellement accessible uniquement via le web, mais Google travaille à la rendre disponible sur l'application mobile. Les utilisateurs payants conservent certains avantages, notamment un nombre illimité de requêtes.",
@@ -82,12 +103,5 @@
         "body": "Le texte met en garde contre les dangers d'une intégration progressive et non réfléchie de l'IA dans nos vies professionnelles et personnelles. L'auteur décrit un scénario où l'IA passe d'un outil utile à une composante critique de nos opérations, entraînant une érosion de notre capacité et de notre volonté de prendre des décisions de manière autonome. Ce phénomène est appelé \"déclin de l'autonomie\". L'auteur suggère que la gestion proactive de l'intégration de l'IA est essentielle pour éviter une dépendance malsaine, en comprenant les dynamiques de l'autonomie à l'ère de l'IA et en cultivant activement notre propre autonomie. L'IA devrait être considérée comme un moyen d'améliorer notre bonheur et notre relation avec la nature, plutôt que comme une fin en soi. Pour y parvenir, nous devons développer une intelligence hybride, combinant les forces de l'IA et de l'intelligence humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e871ca0440830dde815b12/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 29 Mar 2025 22:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA",
-        "link": "https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition",
-        "body": "Elon Musk annonce que son entreprise d'IA, xAI, a acquis la plateforme de médias sociaux X (anciennement Twitter) pour 44 milliards de dollars. Musk décrit la transaction comme un échange d'actions, valorisant xAI à 80 milliards de dollars et X à 33 milliards de dollars. Il affirme que cette acquisition combinera les capacités avancées d'IA de xAI avec la portée massive de X, déverrouillant ainsi un potentiel immense. Malgré les pertes depuis la vente en 2022, la PDG de X, Linda Yaccarino, se montre optimiste quant à l'avenir. Musk a étroitement lié les deux entreprises, affirmant que les données de Twitter/X donneraient à xAI un avantage considérable. Grok, un outil de xAI, a été intégré à X et maintenant à Telegram. L'acquisition rappelle également une transaction précédente de Musk, où Tesla a acquis SolarCity. La valeur de xAI a augmenté, tout comme celle d'autres entreprises du secteur de l'IA. Musk prévoit que la fusion des données, des modèles, des capacités de calcul et du talent de xAI et de X créera des expériences plus intelligentes et significatives pour des milliards de personnes, tout en accélérant le progrès humain.",
-        "image": "",
-        "date": "Sat, 29 Mar 2025 18:12:54 GMT"
     }
 ]
