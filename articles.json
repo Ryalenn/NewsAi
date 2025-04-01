@@ -166,5 +166,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eae1a068fff07ed17b476f/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 31 Mar 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/coca-cola-ai-machine.gif?quality=90&strip=all&crop=0,0,100,100",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/coca-cola-ai-machine.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 31 Mar 2025 21:54:49 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK103__01_7550e0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 31 Mar 2025 16:01:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2025/03/31/ibms-enterprise-ai-strategy-trust-scale-and-results/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 01:29:00 GMT",
+        "check": "no"
     }
 ]
