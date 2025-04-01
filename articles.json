@@ -189,7 +189,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 : plus de personnes vont pouvoir profiter des dernières fonctions Copilot+",
+        "title": "Windows 11 : plus de personnes vont pouvoir profiter des derni\u00e8res fonctions Copilot+",
         "link": "https://www.frandroid.com/marques/microsoft/2565151_windows-11-plus-de-personnes-vont-pouvoir-profiter-des-dernieres-fonctions-copilot",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/copilot-1200x800-1-768x512.jpeg?resize=200,200&key=49b74cfd",
         "date": "Mon, 31 Mar 2025 23:00:00 GMT",
@@ -285,5 +285,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e590d2433517828c172d99/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 31 Mar 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/04/01/exploring-the-mind-inside-the-machine/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec15b1db203fe9fdafb72e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/01/picture-this-big-changes-with-chatgpts-image-release/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec0b3c5e0d50ac1d536710/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/01/72-of-gen-z-distrust-ai-security-more-than-any-other-surveyed-group/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec03fbcaa7410bdc25a3c3/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
