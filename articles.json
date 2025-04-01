@@ -196,7 +196,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 : plus de personnes vont pouvoir profiter des dernières fonctions Copilot+",
+        "title": "Windows 11 : plus de personnes vont pouvoir profiter des derni\u00e8res fonctions Copilot+",
         "link": "https://www.frandroid.com/marques/microsoft/2565151_windows-11-plus-de-personnes-vont-pouvoir-profiter-des-dernieres-fonctions-copilot",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/copilot-1200x800-1-768x512.jpeg?resize=200,200&key=49b74cfd",
         "date": "Mon, 31 Mar 2025 23:00:00 GMT",
@@ -271,5 +271,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eb127dc3b1c04fd3ca8e59/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Apr 2025 12:14:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/01/gpt-4o-and-trust-why-seeing-should-no-longer-result-in-believing/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ebf8db5b29cfdf66fae8cf/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 14:41:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/prakharkhanna/2025/04/01/apple-intelligence-now-available-in-india-brazil-and-more-regions/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ccd4319353b4c869fb677c/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/03/31/5-chatgpt-prompts-to-read-customer-signals-and-build-offers-they-buy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e590d2433517828c172d99/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 31 Mar 2025 00:00:00 GMT",
+        "check": "no"
     }
 ]
