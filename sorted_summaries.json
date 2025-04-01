@@ -1,5 +1,19 @@
 [
     {
+        "title": "La menace de la désinformation",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/01/gpt-4o-and-trust-why-seeing-should-no-longer-result-in-believing/?ss=ai",
+        "body": "Le texte met en garde contre les dangers de la désinformation dans l'ère de l'IA, en particulier avec l'avènement de modèles multimodaux comme GPT-4. L'IA peut désormais créer du contenu visuel, auditif et textuel de manière si réaliste qu'il devient difficile de distinguer le vrai du faux. L'auteur souligne que notre tendance naturelle à faire confiance aux indices visuels et auditifs nous rend vulnérables à la désinformation. Des cas récents, comme l'utilisation de deepfakes pour imiter des personnalités publiques, illustrent les risques. L'IA peut également générer du texte trompeur, exploitant nos biais cognitifs. Une approche proactive et multidimensionnelle est nécessaire pour naviguer dans cet environnement en évolution rapide et protéger l'intégrité de notre réalité partagée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ebf8db5b29cfdf66fae8cf/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 14:41:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence élargit ses horizons",
+        "link": "https://www.forbes.com/sites/prakharkhanna/2025/04/01/apple-intelligence-now-available-in-india-brazil-and-more-regions/?ss=ai",
+        "body": "Apple Intelligence, le système de \"intelligence personnelle\" d'Apple, est désormais disponible en anglais localisé pour l'Inde et Singapour, ainsi que dans huit nouvelles langues : français, allemand, italien, portugais brésilien, espagnol, japonais, coréen et chinois simplifié. Cet ensemble de fonctionnalités d'IA pour les produits Apple, similaire au Galaxy AI de Samsung, offre une assistance à l'écriture, des résumés de notifications et plus encore. La mise à jour comprend également une nouvelle fonctionnalité \"Movie Memory\" et est désormais disponible sur iOS, iPadOS, macOS et visionOS.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66ccd4319353b4c869fb677c/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Apr 2025 13:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA à Hollywood",
         "link": "https://www.forbes.com/sites/michaelashley/2025/04/01/ai-vs-creativity-the-hollywood-battle-you-havent-heard-about/?ss=ai",
         "body": "L'industrie du divertissement, et particulièrement Hollywood, est confrontée à un dilemme éthique avec l'émergence de l'IA. Les scénaristes et créateurs s'inquiètent de l'utilisation de leur travail pour entraîner des modèles d'IA sans leur consentement ou compensation. L'article présente Moonvalley, une startup qui se distingue en s'engageant à utiliser uniquement des données autorisées pour entraîner ses modèles d'IA, protégeant ainsi ses clients de problèmes juridiques potentiels. En se concentrant sur l'éthique et la responsabilité, Moonvalley se positionne comme une alternative aux plateformes d'IA générative qui ignorent les implications morales de l'utilisation de données volées. L'article explore également l'efficacité des modèles entraînés sur des données \"propres\", suggérant que la diversité des sources et le respect des droits intellectuels peuvent conduire à des résultats créatifs supérieurs.",
@@ -229,6 +243,13 @@
         "body": "Les agents IA, basés sur la technologie des grands modèles de langage, représentent la prochaine vague de disruption dans le domaine de l'IA. Capables d'effectuer des tâches complexes et multi-étapes avec peu d'intervention humaine, ils se distinguent des chatbots par leur capacité à interagir avec d'autres systèmes et même à écrire leur propre code. Cette évolution a des implications importantes sur le monde du travail, avec des craintes de perte d'emplois mais aussi des espoirs d'une plus grande liberté et d'une résolution de problèmes importants. Les agents IA peuvent gérer des tâches telles que le traitement des retours, la révision des factures et la mise à jour des travailleurs sur le terrain. Microsoft, OpenAI, Amazon et Google développent tous des plateformes pour intégrer les agents IA dans la vie professionnelle. Ces agents peuvent automatiser la prise de décision, enlevant des tâches répétitives et en laissant plus de place à la créativité et à l'inspiration humaine. Les implications éthiques sont importantes, avec des craintes de vol de propriété intellectuelle et d'impact sur l'emploi. Les professionnels doivent se préparer à l'arrivée des agents IA s'ils veulent rester compétitifs, en comprenant leur impact sur leur travail et leur industrie, et en explorant les opportunités offertes par les outils et plateformes développés.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ea2851a12a720bd7607635/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 31 Mar 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Comprendre les besoins des clients grâce à l'IA",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/03/31/5-chatgpt-prompts-to-read-customer-signals-and-build-offers-they-buy/?ss=ai",
+        "body": "Résumé : \n\nLes entreprises manquent souvent d'écouter les signaux que leurs clients envoient à travers leurs interactions, emails et tickets de support. L'IA, comme ChatGPT, peut aider à extraire des informations précieuses de ces données et à identifier les tendances et les problèmes profonds des clients. L'article propose cinq invites de ChatGPT pour aider les entreprises à comprendre les besoins non satisfaits de leurs clients, à interpréter les signaux non verbaux, à analyser les communications écrites et à collecter des informations auprès des équipes de première ligne. En utilisant ces informations, les entreprises peuvent créer des offres ciblées, résoudre les problèmes réels des clients et améliorer leurs ventes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e590d2433517828c172d99/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 31 Mar 2025 00:00:00 GMT"
     },
     {
         "title": "Apple Intelligence débarque en France",
