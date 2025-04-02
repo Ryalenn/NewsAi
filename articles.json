@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 : plus de personnes vont pouvoir profiter des dernières fonctions Copilot+",
+        "title": "Windows 11 : plus de personnes vont pouvoir profiter des derni\u00e8res fonctions Copilot+",
         "link": "https://www.frandroid.com/marques/microsoft/2565151_windows-11-plus-de-personnes-vont-pouvoir-profiter-des-dernieres-fonctions-copilot",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/copilot-1200x800-1-768x512.jpeg?resize=200,200&key=49b74cfd",
         "date": "Mon, 31 Mar 2025 23:00:00 GMT",
@@ -301,7 +301,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT connaît sa plus grande croissance grâce à Ghibli",
+        "title": "ChatGPT conna\u00eet sa plus grande croissance gr\u00e2ce \u00e0 Ghibli",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2566719_chatgpt-connait-sa-plus-grande-croissance-grace-a-ghibli",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-5-1200x800-1-768x512.jpg?resize=200,200&key=e31d487f",
         "date": "Tue, 01 Apr 2025 23:00:00 GMT",
@@ -313,5 +313,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ed17593c7db9b4db11bcb3/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Apr 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/runway-gen-4-ai.webp?quality=90&strip=all&crop=7.8313253012048%2C0%2C84.33734939759%2C100&w=2400",
+        "date": "Tue, 01 Apr 2025 18:31:20 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/04/02/kong-beats-chest-to-ward-off-bad-ai-connections/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e7f89644c62eaa21634a6b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 15:05:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/02/5-chatgpt-tax-hacks-to-help-you-win-this-tax-filing-season/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec3ef2ed8617590ac6cc9e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 14:40:00 GMT",
+        "check": "no"
     }
 ]
