@@ -1,5 +1,26 @@
 [
     {
+        "title": "Une nouvelle loi pour l'ère de l'intelligence hybride",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/02/why-we-should-expand-asimovs-three-laws-of-robotics-with-a-4th-law/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e99521d6943e190bfbb511/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 21:12:00 GMT"
+    },
+    {
+        "title": "Google Cloud Next",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/02/anticipating-google-cloud-next-2025-cloud-data-and-ai-advancements/?ss=ai",
+        "body": "Google dévoilera ses derniers progrès en matière de gestion des données, d'intelligence artificielle et de technologie cloud lors de l'événement Google Cloud Next 2025 à Las Vegas. L'auteur s'attend à ce que l'événement mette en lumière la stratégie de Google pour la prochaine phase de ses efforts en matière d'informatique en nuage, avec un accent particulier sur les modèles Gemini pour la gestion des bases de données et les outils pour développeurs, ainsi que sur l'infrastructure durable pour l'IA. L'intégration de Gemini dans les services Google, tels que BigQuery et Cloud SQL, devrait simplifier les flux de travail des développeurs et réduire les efforts manuels. Google investit également dans des infrastructures durables et adaptées à l'IA, en mettant l'accent sur l'efficacité énergétique et la réduction de l'empreinte carbone. L'accessibilité et l'utilisation sont des aspects importants, avec des technologies telles que Vertex AI et AI Hypercomputer, qui abaissent les barrières à l'entrée pour les organisations. Google s'engage également à soutenir les startups et les développeurs en leur fournissant des ressources et des formations. L'unification des données dans des environnements hybrides et multi-cloud est une autre priorité, avec la plateforme Data Cloud de Google, qui contribue à réduire les risques de conformité et à accélérer le déploiement des modèles IA. Enfin, l'IA collaborative, comme l'agent Data Science de Google Colab, est un développement intriguant qui sera présenté lors de l'événement, mettant en évidence le rôle de l'IA en tant que collaborateur plutôt qu'outil simple.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eda0d8dc2ddb4a47955db8/0x0.jpg?format=jpg&crop=2600,1218,x0,y255,safe&width=440",
+        "date": "Wed, 02 Apr 2025 20:47:00 GMT"
+    },
+    {
+        "title": "La boîte noire de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/02/does-claude-speak-its-own-language-three-aspects-of-ai-psychology/?ss=ai",
+        "body": "Bien que les humains aient naturellement tendance à vouloir comprendre pleinement le fonctionnement interne des machines, il est devenu de plus en plus difficile d'observer entièrement les systèmes complexes tels que l'IA. L'article explore le problème de la \"boîte noire\" dans les grands modèles linguistiques (LLM) et se concentre sur Claude 3.5 Haiku, un LLM capable de parler des dizaines de langues. Les chercheurs ont découvert que Claude possède son propre \"langage de pensée\" universel, combinant plusieurs langues du monde. Ils soulignent également les limites de leur approche, ne pouvant observer qu'une fraction des calculs effectués par Claude. L'article suggère que la compréhension de la \"préférence\" du modèle pour éviter certains sujets ou décliner certaines questions aiderait à faire progresser l'étude de la neurologie artificielle. De plus, il est souligné que la compréhension de la cognition de l'IA est tout aussi complexe que la compréhension de la cognition humaine, ce qui crée une certaine parité dans l'étude de la pensée humaine et de la pensée de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed8529f22a64087e546f25/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 18:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'humanité à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/02/ai-in-2035-how-technology-will-reshape-human-identity/?ss=ai",
         "body": "Titre",
@@ -278,47 +299,5 @@
         "body": "L'article explore les complexités éthiques entourant le développement et le déploiement de l'IA, en mettant l'accent sur ses implications pour l'avenir de l'humanité. Il souligne l'importance de considérer l'IA comme un partenaire plutôt qu'un simple outil, et examine les défis posés par l'intégration éthique de l'IA dans divers secteurs. L'article suggère que l'IA a le potentiel d'améliorer considérablement la vie des gens, mais que des mesures de sécurité et des considérations éthiques rigoureuses sont nécessaires pour éviter des conséquences imprévues. Il met en évidence la nécessité d'une collaboration interdisciplinaire pour aborder les questions d'éthique de l'IA, y compris la confidentialité, l'équité, la responsabilité et la transparence. Enfin, il plaide pour une réglementation et une surveillance attentives du développement de l'IA pour garantir qu'il profite à la société dans son ensemble et ne nuise pas aux individus ou aux communautés vulnérables.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/coca-cola-ai-machine.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 31 Mar 2025 21:54:49 GMT"
-    },
-    {
-        "title": "L'avenir de la création visuelle avec l'IA",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/03/31/ai-masters-anime-how-openai-4o-image-generator-reshapes-creativity/?ss=ai",
-        "body": "Le lancement du générateur d'images 4o d'OpenAI a déclenché une frénésie autour de l'anime infusé d'IA, soulevant des discussions sur les capacités, les limites et les questions de droits d'auteur de la création visuelle assistée par l'IA. 4o se concentre sur l'atténuation des points de douleur professionnels, en particulier dans le rendu du texte et la cohérence multi-images. Le marché de la génération d'images par IA est devenu un écosystème spécialisé, avec des outils comme Midjourney, Gemini 2.5 de Google, Meta AI, Grok AI et Firefly d'Adobe, chacun avec ses spécialisations. Les générateurs d'images par IA transforment la façon dont les entreprises créent et livrent du contenu visuel à grande échelle, accélérant les flux de travail créatifs et améliorant la personnalisation et l'innovation visuelle. Cependant, des limitations persistent, comme le manque d'authenticité et la dévalorisation de certaines formes d'art technique. La montée de l'IA dans la génération d'images remodèle le paysage professionnel, avec une demande croissante de compétences améliorées par l'IA. Alors que la technologie mûrit, les organisations doivent l'intégrer de manière réfléchie dans leurs processus créatifs et opérationnels, en utilisant l'IA comme collaboratrice plutôt que comme remplaçante de la créativité humaine. La véritable épreuve pour les générateurs d'images par IA est de devenir plus authentiques et en phase avec les expériences humaines.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ead869de99a6c084c7d11e/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 31 Mar 2025 20:34:00 GMT"
-    },
-    {
-        "title": "L'IA dans l'éducation : transformer l'apprentissage et l'enseignement",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/03/31/ai-in-educationup-level-your-teaching-with-ai-by-cloning-yourself/?ss=ai",
-        "body": "L'IA va transformer toutes les industries, y compris l'éducation. L'auteur a créé un clone numérique de lui-même, le « Lutz-Clone », pour enseigner un cours en ligne sur l'IA. Ce clone peut aider les étudiants en codage, discuter des applications de l'IA et soulever des questions éthiques, tout en reflétant le style d'enseignement de l'auteur. Les modèles linguistiques larges sont devenus essentiels pour les étudiants et les éducateurs, et tenter de restreindre leur utilisation est futile. L'éducation doit évoluer, en mettant l'accent sur la pensée critique et le dialogue plutôt que sur les quiz traditionnels. Les enseignants peuvent utiliser des assistants basés sur l'IA pour guider les discussions et mettre en évidence les idées principales. L'accès aux outils d'IA payants est un défi, mais des plateformes comme eCornell intègrent des clones et ChatGPT pour que les assistants enseignants puissent suivre les discussions des étudiants. Les checklists dynamiques, guidées par l'IA, aident les étudiants à se concentrer sur les tâches importantes et à adapter leur apprentissage. Les assistants d'enseignement basés sur l'IA fournissent des commentaires personnalisés sur les projets des étudiants, rendant l'apprentissage plus accessible et efficace. Les éducateurs doivent concevoir des parcours d'apprentissage et utiliser l'IA pour amplifier leur impact, tout en reconnaissant les limitations de l'IA dans les tâches complexes et les cas particuliers. Les étudiants doivent apprendre à utiliser l'IA de manière critique. Les outils d'IA révolutionnent l'interaction avec l'information et la technologie, et les étudiants doivent être formés pour les utiliser efficacement. Les institutions éducatives doivent équiper les étudiants et les enseignants avec les compétences et les outils nécessaires pour tirer parti de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eaf78d33b4fdd505d280da/0x0.jpg?format=jpg&crop=2450,1148,x0,y240,safe&width=440",
-        "date": "Mon, 31 Mar 2025 20:33:00 GMT"
-    },
-    {
-        "title": "OpenAI annonce un nouveau modèle linguistique de pointe",
-        "link": "https://www.theverge.com/openai/640073/openai-teases-a-new-open-source-ai-model#comments",
-        "body": "Le PDG de OpenAI, Sam Altman, a annoncé que l'entreprise prévoit de publier un nouveau modèle linguistique de pointe à poids ouvert avec des capacités de raisonnement dans les prochains mois. Cette annonce fait suite à des indices suggérant une telle sortie, notamment les commentaires d'Altman lors d'une AMA sur Reddit il y a deux mois, où il a déclaré que l'entreprise discutait d'un modèle à poids ouvert et qu'elle avait \"été du mauvais côté de l'histoire\" sur ce sujet.",
-        "image": "",
-        "date": "Mon, 31 Mar 2025 20:04:41 GMT"
-    },
-    {
-        "title": "La montée des modèles linguistiques de grande taille et leurs implications pour la société",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/03/31/trumps-third-termhow-ai-can-help-to-overthrow-the-us-government/?ss=ai",
-        "body": "L'article explore l'évolution d'Internet, des moteurs de recherche à l'avènement des modèles linguistiques de grande taille (LLM), et ses implications pour la société et la politique. Il souligne comment les LLM, comme ChatGPT, peuvent compiler, résumer et rationaliser des idées, les transformant en théories cohérentes. L'auteur utilise l'exemple hypothétique d'un troisième mandat de Donald Trump, suggéré par Trump lui-même, pour illustrer le pouvoir des LLM. Les modèles ont fourni un plan détaillé, compilant des idées déjà existantes, sur la manière de réaliser un tel scénario, y compris la modification du 22e amendement, la manipulation de l'opinion publique par de fausses nouvelles, etc. L'article soulève des questions éthiques sur la restriction de l'accès aux informations générées par les LLM, comme l'a tenté Google avec son modèle Gemini, et souligne que la connaissance ne peut être contenue. Il conclut que la synthèse des théories en plans d'action clairs par les LLM peut être à la fois éclairante et dérangeante, et que c'est à la société humaine d'évaluer et d'agir sur ces informations.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eaf1af758ff42c2164d8b0/0x0.jpg?format=jpg&crop=2023,949,x1232,y394,safe&width=440",
-        "date": "Mon, 31 Mar 2025 20:00:00 GMT"
-    },
-    {
-        "title": "Microsoft élargit ses fonctionnalités d'IA sur les PC Copilot Plus",
-        "link": "https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout#comments",
-        "body": "Microsoft étend la disponibilité de ses fonctionnalités d'IA sur les PC Copilot Plus équipés de puces Intel et AMD. La fonction Live Captions, qui transcrit l'audio en sous-titres anglais en temps réel à partir de dizaines de langues, est l'une des fonctionnalités les plus remarquables. L'entreprise a également introduit Cocreator, un outil d'IA dans Paint qui crée des images à partir de descriptions textuelles et de dessins. De plus, l'accès à l'éditeur et au générateur d'images IA dans l'application Photos a été élargi. Microsoft teste également Recall, une fonctionnalité d'IA qui capture des captures d'écran des activités de l'utilisateur et permet une recherche facile. Enfin, Voice Access, une fonctionnalité d'accessibilité pour contrôler l'ordinateur par la voix, est mise à jour pour une interaction plus flexible et descriptive.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C0.34506556245687%2C100%2C99.309868875086&w=2400",
-        "date": "Mon, 31 Mar 2025 19:45:49 GMT"
-    },
-    {
-        "title": "Le Voyage de Chihiro",
-        "link": "https://www.theverge.com/openai/636529/images-chatgpt-openai-studio-ghibli-copyright",
-        "body": "Résumé : Les utilisateurs ont créé des images anime des attentats du 11 septembre avec l'outil \"Images for ChatGPT\" d'OpenAI, démontrant la capacité du modèle à reproduire des styles artistiques distinctifs, comme celui de Hayao Miyazaki et du studio Ghibli. Bien que les directives d'utilisation de ChatGPT interdisent la génération d'images dans le style d'artistes vivants, les utilisateurs ont contourné cette restriction en transformant des images téléchargées ou en utilisant des invites spécifiques. Cette tendance soulève des questions éthiques et juridiques, notamment en ce qui concerne les droits d'auteur et l'utilisation de l'image de personnalités publiques. OpenAI affirme qu'il appartient aux utilisateurs de respecter les droits d'auteur et les directives d'utilisation, mais la flexibilité de ces directives a permis la création d'images controversées. La controverse entourant l'utilisation de l'IA pour générer des images anime de sujets sensibles met en évidence les défis auxquels sont confrontés les développeurs d'IA en matière d'éthique et de responsabilité.",
-        "image": "",
-        "date": "Mon, 31 Mar 2025 18:34:01 GMT"
     }
 ]
