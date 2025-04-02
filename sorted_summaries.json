@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'avenir de l'humanité à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/02/ai-in-2035-how-technology-will-reshape-human-identity/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed59e78b87e4301427cbcc/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 16:00:00 GMT"
+    },
+    {
         "title": "Kong AI Gateway",
         "link": "https://www.forbes.com/sites/adrianbridgwater/2025/04/02/kong-beats-chest-to-ward-off-bad-ai-connections/?ss=ai",
         "body": "Kong Inc., une entreprise d'API cloud, a étendu sa technologie pour gérer les connexions entre les modèles d'IA et les ressources de données. Kong AI Gateway agit en tant que gestionnaire de passerelle, contrôlant les connexions entre les différents composants et fournissant des garde-fous en matière de sécurité et de gouvernance de l'IA. Les mises à jour incluent des pipelines de génération améliorés pour prévenir les hallucinations des grands modèles linguistiques et une gestion des informations d'identification personnelles (PII) pour la protection des données dans 18 langues. Kong AI Gateway résout les défis clés des LLM, améliorant leur précision et réduisant les hallucinations. La technologie offload du pipeline RAG améliore la productivité des développeurs et la fonctionnalité PII garantit la protection des données sensibles. Les ingénieurs réseau bénéficient d'une solution complète pour gérer les connexions système, la provenance des API et les défis liés à l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e7f89644c62eaa21634a6b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Apr 2025 15:05:00 GMT"
+    },
+    {
+        "title": "L'aube de l'IA physique",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/02/the-dawn-of-physical-ai-industry-leaders-at-sxsw-predict-its-impact/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed5b0656fe7e1d8ed171ed/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 15:00:00 GMT"
     },
     {
         "title": "Optimisez vos impôts avec l'IA",
@@ -138,6 +152,13 @@
         "body": "L'industrie du divertissement, et particulièrement Hollywood, est confrontée à un dilemme éthique avec l'émergence de l'IA. Les scénaristes et créateurs s'inquiètent de l'utilisation de leur travail pour entraîner des modèles d'IA sans leur consentement ou compensation. L'article présente Moonvalley, une startup qui se distingue en s'engageant à utiliser uniquement des données autorisées pour entraîner ses modèles d'IA, protégeant ainsi ses clients de problèmes juridiques potentiels. En se concentrant sur l'éthique et la responsabilité, Moonvalley se positionne comme une alternative aux plateformes d'IA générative qui ignorent les implications morales de l'utilisation de données volées. L'article explore également l'efficacité des modèles entraînés sur des données \"propres\", suggérant que la diversité des sources et le respect des droits intellectuels peuvent conduire à des résultats créatifs supérieurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eb127dc3b1c04fd3ca8e59/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Apr 2025 12:14:00 GMT"
+    },
+    {
+        "title": "Les géants de la tech démocratisent l'IA",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "body": "Les grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent les technologies de chatbot IA plus accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à des modèles linguistiques à grande échelle (LLM) qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les entrées de l'utilisateur. Cependant, ces outils peuvent présenter des informations fausses comme vraies, car ils n'ont pas de base de données de faits codée en dur. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les générateurs d'images, les assistants IA, les applications de modération de contenu, l'éthique de l'IA et les problèmes de propriété intellectuelle.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 01 Apr 2025 08:20:06 GMT"
     },
     {
         "title": "ChatGPT ouvre l'outil de génération d'images de style Ghibli à tous les utilisateurs",
@@ -299,40 +320,5 @@
         "body": "Résumé : Les utilisateurs ont créé des images anime des attentats du 11 septembre avec l'outil \"Images for ChatGPT\" d'OpenAI, démontrant la capacité du modèle à reproduire des styles artistiques distinctifs, comme celui de Hayao Miyazaki et du studio Ghibli. Bien que les directives d'utilisation de ChatGPT interdisent la génération d'images dans le style d'artistes vivants, les utilisateurs ont contourné cette restriction en transformant des images téléchargées ou en utilisant des invites spécifiques. Cette tendance soulève des questions éthiques et juridiques, notamment en ce qui concerne les droits d'auteur et l'utilisation de l'image de personnalités publiques. OpenAI affirme qu'il appartient aux utilisateurs de respecter les droits d'auteur et les directives d'utilisation, mais la flexibilité de ces directives a permis la création d'images controversées. La controverse entourant l'utilisation de l'IA pour générer des images anime de sujets sensibles met en évidence les défis auxquels sont confrontés les développeurs d'IA en matière d'éthique et de responsabilité.",
         "image": "",
         "date": "Mon, 31 Mar 2025 18:34:01 GMT"
-    },
-    {
-        "title": "Gemini 2.5 Pro Experimental",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/03/31/googles-best-gemini-ai-chatbot-is-now-free-to-use---but-theres-a-catch/?ss=ai",
-        "body": "Google rend sa nouvelle IA accessible à tous, mais avec des fonctionnalités limitées pour les utilisateurs gratuits. La version gratuite de Gemini 2.5 Pro Experimental offre un accès restreint au modèle, avec des limites de taux et une fenêtre de contexte plus petite que la version payante. Les utilisateurs gratuits peuvent faire jusqu'à cinq requêtes par minute et 25 par jour, tandis que les comptes payants ont droit à 20 requêtes par minute et 100 par jour. Gemini 2.5 Pro surpasse ses concurrents grâce à ses capacités de raisonnement et de codage. Il dispose d'une grande fenêtre de contexte de 1 million de jetons, qui sera bientôt étendue à 2 millions. Les utilisateurs de Gemini Advanced peuvent utiliser l'IA avec Canvas, un espace numérique partagé pour la création et l'édition de documents et de code.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ead9ef9134014d7f0cb1b1/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 31 Mar 2025 18:13:00 GMT"
-    },
-    {
-        "title": "Code is Not Dead",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/03/31/5-reasons-you-should-still-learn-to-code/?ss=ai",
-        "body": "Résumé : \n\nBien que l'IA joue un rôle de plus en plus important dans le développement de logiciels et la programmation, les compétences humaines en matière de programmation restent essentielles. Nathaniel Whittemore, dans le podcast AI Daily Brief, et d'autres experts de l'industrie soulignent l'importance de la programmation pour développer des compétences de réflexion critiques. Steve Jobs avait également soutenu que tout le monde devrait apprendre à programmer pour apprendre à penser. La programmation enseigne une façon de penser unique, qui reste précieuse même dans un monde où l'IA joue un rôle de plus en plus important. \n\nBien que l'IA puisse exceller dans la syntaxe, la logique et le raisonnement du code, elle a des limites en matière de créativité. Les humains sont encore nécessaires pour fournir le contexte commercial, déboguer et résoudre les problèmes complexes que l'IA ne peut pas gérer seule. Les développeurs seniors peuvent utiliser l'IA à la place des développeurs juniors, mais cela ne signifie pas que les gens devraient arrêter d'apprendre à coder. Au lieu de cela, les gens devraient adopter une nouvelle approche, combinant la connaissance de la programmation avec une compréhension du monde moderne et de son potentiel créatif. \n\nEn conclusion, bien que l'IA joue un rôle de plus en plus important, il existe plusieurs raisons pour lesquelles les humains devraient rester impliqués dans le processus de programmation et continuer à apprendre les langages de programmation modernes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eae1a068fff07ed17b476f/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 31 Mar 2025 18:00:00 GMT"
-    },
-    {
-        "title": "OpenAI en Turbulence",
-        "link": "https://www.theverge.com/openai/639876/sam-altman-openai-ben-thompson-stratechery-podcast#comments",
-        "body": "Le PDG d'OpenAI, Sam Altman, a récemment donné une interview éclairante, suggérant une désacralisation de l'AGI, et affirmant que les modèles SOTA sont moins importants que l'objectif ultime de créer un site avec \"1 milliard d'utilisateurs actifs quotidiens\". Il y a une suggestion de recentrer l'attention sur les applications pratiques de l'IA plutôt que sur la poursuite de l'AGI. L'interview donne un aperçu des pensées d'Altman sur l'avenir d'OpenAI et de ChatGPT, suggérant une évolution de leur stratégie.",
-        "image": "",
-        "date": "Mon, 31 Mar 2025 17:46:24 GMT"
-    },
-    {
-        "title": "Nova, le nouveau modèle d'IA d'Amazon",
-        "link": "https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser#comments",
-        "body": "Amazon a lancé un nouveau modèle d'IA, Nova Act, qui permet d'effectuer des tâches en ligne directement depuis un navigateur. Actuellement en version \"recherche preview\", Amazon étend également l'accès à ses autres modèles Nova via un portail web. Act, le premier produit des Amazon's Artificial General Intelligence (AGI) Labs, peut effectuer des recherches web, des achats en ligne et répondre à des questions contextuelles. Il comprend des instructions détaillées et peut effectuer des tâches planifiées. Act est déjà intégré à l'assistant Alexa Plus. Amazon met en avant la rapidité et le coût compétitif de Nova par rapport à ses concurrents. L'entreprise lance un site web permettant aux développeurs d'accéder directement aux modèles Nova pour tester et mettre en œuvre leurs idées à grande échelle.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK103__01_7550e0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 31 Mar 2025 16:01:47 GMT"
-    },
-    {
-        "title": "Alexa Plus",
-        "link": "https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features#comments",
-        "body": "Amazon a lancé officiellement Alexa Plus, une mise à niveau de son assistant vocal alimenté par l'IA. Alexa Plus est actuellement disponible pour un petit nombre de clients et uniquement sur certains appareils Echo (Echo Show 8, 10, 15 et 21). La version actuelle ne propose pas toutes les fonctionnalités annoncées, telles que la suggestion d'idées de cadeaux, la commande de courses à l'aide de la voix ou l'accès via un navigateur. De plus, certaines fonctionnalités, comme la commande de plats à emporter en contexte ou l'identification des membres de la famille, ne sont pas encore disponibles. Alexa Plus peut cependant identifier des objets, commander un Uber, rédiger des e-mails, résumer des documents et rechercher des produits. Le service est proposé à 19,99 $ par mois ou gratuitement avec Prime.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/amazon-echo-show-8-pic.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 31 Mar 2025 15:58:23 GMT"
     }
 ]
