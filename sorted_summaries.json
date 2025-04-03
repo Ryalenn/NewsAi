@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir du cloud computing et de l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/03/the-5-cloud-computing-mistakes-you-must-avoid-this-year/?ss=ai",
+        "body": "Le cloud computing est passé d'une infrastructure de base à une capacité commerciale stratégique, transformant la manière dont les entreprises opèrent à l'échelle mondiale. Bien que le cloud ait révolutionné le monde des affaires, de nombreuses organisations commettent encore des erreurs coûteuses. Cet article identifie les pièges les plus courants en matière de stratégie cloud, offrant des conseils pour les éviter. Il souligne l'importance d'intégrer le cloud à la stratégie globale de l'entreprise, de ne pas se reposer uniquement sur le fournisseur de cloud pour la sécurité, de combiner le cloud et l'IA pour créer de la valeur, de gérer les coûts associés, d'éviter la dépendance envers un seul fournisseur et d'adopter des technologies ouvertes pour rester agile.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ee1e691d65a379085f3ef8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 05:37:00 GMT"
+    },
+    {
         "title": "Une nouvelle loi pour l'ère de l'intelligence hybride",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/04/02/why-we-should-expand-asimovs-three-laws-of-robotics-with-a-4th-law/?ss=ai",
         "body": "Titre",
@@ -215,19 +222,5 @@
         "body": "Titre : La responsabilité des PDG dans le déploiement éthique et efficace de l'IA",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eab7654d179bb9884678db/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Apr 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'art de l'ingénierie des prompts",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/01/5-ai-prompts-that-will-transform-your-self-improvement-overnight/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eb81f364e8ec817d1d73f9/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 06:05:00 GMT"
-    },
-    {
-        "title": "L'impact énergétique de l'IA",
-        "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/01/data-centers-environmental-impact-set-to-triple-by-2030-can-new-computing-architectures-save-the-day/?ss=ai",
-        "body": "L'article explore l'impact environnemental croissant des centres de données, en particulier la demande énergétique de l'informatique liée à l'IA, qui double tous les trois à quatre mois. Les grandes entreprises technologiques investissent dans les énergies renouvelables, mais cela ne suffit pas à résoudre le problème. Le rapport de l'Agence internationale de l'énergie estime que les centres de données sont responsables de 1 % de la consommation mondiale d'électricité et de 0,6 % des émissions de gaz à effet de serre, des chiffres qui devraient augmenter d'ici 2030. Le rapport met en lumière les innovations dans les nouveaux matériaux et les paradigmes informatiques de prochaine génération, tels que l'informatique quantique et les systèmes neuromorphiques, qui pourraient aider à atténuer l'impact environnemental. Bien qu'il n'y ait pas de solution miracle, des avancées dans les semi-conducteurs à base de matériaux larges comme le nitrure de gallium et le carbure de silicium, ainsi que dans l'informatique quantique, pourraient réduire considérablement les émissions de CO2. Cependant, la mise à l'échelle de ces technologies est confrontée à des limitations en termes de coûts, de chaîne d'approvisionnement et de fabrication. En attendant, les entreprises technologiques pourraient recourir aux énergies fossiles et nucléaires pour suivre le rythme des avancées en matière d'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e95d2a6fae87ccbaeb0b76/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 06:00:00 GMT"
     }
 ]
