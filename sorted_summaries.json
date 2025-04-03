@@ -1,5 +1,26 @@
 [
     {
+        "title": "Gemini for Kids",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/03/googles-gemini-ai-to-get-kid-friendly-update-with-a-critical-warning/?ss=ai",
+        "body": "Google développe un assistant virtuel basé sur l'IA, \"Gemini for Kids\", destiné aux enfants de moins de 13 ans. Cet assistant vise à offrir une alternative responsable aux parents inquiets de voir leurs enfants utiliser des chatbots en ligne. Avec la disparition prochaine de l'assistant Google original, non-IA, les utilisateurs plus jeunes auront besoin de protections lors du passage à Gemini, qui est beaucoup plus puissant et ressemble à une conversation avec une vraie personne. Google prévoit d'intégrer des protections pour les enfants, y compris un avertissement indiquant que Gemini peut faire des erreurs. Bien que les détails exacts ne soient pas encore connus, Google prévoit de donner aux parents le contrôle, ce qui est considéré comme une première étape essentielle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eea2e8355930a9ef8746ac/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 15:08:00 GMT"
+    },
+    {
+        "title": "L'IA à la portée des étudiants",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/04/03/chatgpt-plus-is-now-free-for-college-students/?ss=ai",
+        "body": "OpenAI offre un accès gratuit à ChatGPT Plus aux étudiants universitaires aux États-Unis et au Canada jusqu'à la fin du mois de mai, coïncidant avec la période des examens finaux. Cette initiative reflète une évolution dans l'intégration de l'IA dans l'éducation, avec des entreprises concurrentes lançant également des outils d'IA adaptés aux universités. L'accès gratuit à ChatGPT Plus devrait approfondir l'utilisation de l'IA parmi les étudiants et garantir que les étudiants moins fortunés puissent tout de même bénéficier des avantages de l'IA de pointe. OpenAI introduit également des ressources éducatives et des plateformes pour améliorer la littératie numérique et l'échange d'idées entre étudiants. L'impact de l'IA sur l'enseignement supérieur soulève des questions sur l'évaluation de l'apprentissage, l'égalité d'accès aux outils premium et la préparation des étudiants à des environnements de travail futurs centrés sur l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ee4df0d4a88e58198ff905/0x0.jpg?format=jpg&crop=1735,977,x107,y97,safe&width=440",
+        "date": "Thu, 03 Apr 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'évolution de l'IA : des prédictions concrètes",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/03/right-now-and-6-ai-predictions-for-the-next-few-years/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ee9c65b1c6a5d8cb5206c8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 14:34:00 GMT"
+    },
+    {
         "title": "La bataille juridique de l'IA",
         "link": "https://www.forbes.com/sites/hessiejones/2025/04/03/generative-ai-is-a-crisis-for-copyright-law/?ss=ai",
         "body": "Résumé : \n\nLe 25 mars 2025, Open AI a lancé une fonctionnalité de génération d'images controversée, GPT-4o, permettant aux utilisateurs de transformer des visuels en images ressemblant au style distinctif de Studio Ghibli. Cette utilisation de l'IA dans l'art a été critiquée par le co-fondateur de Studio Ghibli, Hayao Miyazaki, qui la considère comme une menace pour l'expression artistique authentique. Cet événement a ravivé le débat sur l'impact de l'IA générative sur le droit d'auteur. De nombreux artistes craignent que leur gagne-pain ne soit menacé par des outils d'IA capables de reproduire rapidement et à moindre coût leur style. \n\nCette controverse a également mis en lumière les préoccupations concernant l'accès aux données protégées par le droit d'auteur par les grandes entreprises technologiques et a conduit à plusieurs poursuites judiciaires contre des entreprises d'IA générative. En réponse, des solutions comme Nightshade et Glaze ont émergé pour protéger la propriété des artistes. L'article explore les complexités éthiques et juridiques entourant l'IA générative, y compris les propositions de Google et d'Open AI de modifier les politiques de droit d'auteur pour des raisons de sécurité nationale, auxquelles les artistes de Hollywood se sont fermement opposés. \n\nL'article présente ensuite le professeur Ben Zhao de l'Université de Chicago, qui a développé Glaze et Nightshade, des outils visant à lutter contre la violation du droit d'auteur et l'exploitation artistique par les systèmes d'IA générative. Zhao remet en question l'argument selon lequel ces outils nuiraient au développement d'une IA bénéfique, soulignant les limites et l'hyperspeculation de l'IA générative actuelle. Il souligne également les problèmes inhérents aux modèles linguistiques massifs et suggère que l'approche de génération augmentée de récupération (RAG) pourrait être une alternative viable. \n\nEnfin, Zhao met en garde contre le sacrifice de la créativité, de la vérité dans les médias et de la confiance en ligne au profit de promesses de gains économiques futurs, soulignant la nécessité de structures juridiques solides et d'une distribution équitable des ressources dans la course à la domination mondiale de l'IA.",
@@ -21,6 +42,20 @@
         "date": "Thu, 03 Apr 2025 05:37:00 GMT"
     },
     {
+        "title": "La Nintendo Switch 2 et ses fonctionnalités IA",
+        "link": "https://www.frandroid.com/marques/nintendo/2569989_la-nintendo-switch-2-integre-de-lia-grace-a-nvidia-voici-trois-fonctions-annoncees",
+        "body": "La Nintendo Switch 2, présentée récemment, intègre une puce Nvidia avec sa technologie DLSS, permettant d'améliorer la définition d'image en temps réel. La console prend également en charge le ray tracing en temps réel. La fonction GameChat, similaire à Discord, permet à 12 joueurs de discuter en ligne et de partager leur image, avec un détourage automatique du visage. Cette fonctionnalité, ainsi que la suppression des bruits de fond et l'ajustement du volume du microphone, semblent être basées sur les technologies IA de Nvidia. Bien que Nintendo n'ait pas fourni de détails techniques, ces fonctionnalités améliorent l'expérience de jeu en ligne et la communication.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/metroidprime4beyond-nintendoswitch2edition-scrn-01-1200x675-1-768x432.jpg?resize=169,169&key=3a7be68c",
+        "date": "Wed, 02 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Les dangers de la technologie IA de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2569305_chatgpt-est-capable-de-creer-de-fausses-notes-de-frais",
+        "body": "Le générateur d'images de ChatGPT de la version 4.0 a récemment été utilisé pour créer de fausses factures avec une précision troublante. Des utilisateurs ont modifié des tickets de caisse existants ou en ont créé de toutes pièces, soulignant la facilité déconcertante avec laquelle cette technologie peut être utilisée à des fins frauduleuses. Ces exemples soulèvent des inquiétudes quant à la sécurité des protocoles en place et à la possibilité pour les machines de détecter ces fraudes. La capacité de l'IA à générer des images complexes remet en question les méthodes traditionnelles de transmission des justificatifs de paiement, incitant à une réflexion sur les mesures de sécurité nécessaires pour prévenir les abus.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/openai-1200x675-1-768x432.jpg?resize=169,169&key=32737c45",
+        "date": "Wed, 02 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Une nouvelle loi pour l'ère de l'intelligence hybride",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/04/02/why-we-should-expand-asimovs-three-laws-of-robotics-with-a-4th-law/?ss=ai",
         "body": "Titre",
@@ -40,6 +75,13 @@
         "body": "Bien que les humains aient naturellement tendance à vouloir comprendre pleinement le fonctionnement interne des machines, il est devenu de plus en plus difficile d'observer entièrement les systèmes complexes tels que l'IA. L'article explore le problème de la \"boîte noire\" dans les grands modèles linguistiques (LLM) et se concentre sur Claude 3.5 Haiku, un LLM capable de parler des dizaines de langues. Les chercheurs ont découvert que Claude possède son propre \"langage de pensée\" universel, combinant plusieurs langues du monde. Ils soulignent également les limites de leur approche, ne pouvant observer qu'une fraction des calculs effectués par Claude. L'article suggère que la compréhension de la \"préférence\" du modèle pour éviter certains sujets ou décliner certaines questions aiderait à faire progresser l'étude de la neurologie artificielle. De plus, il est souligné que la compréhension de la cognition de l'IA est tout aussi complexe que la compréhension de la cognition humaine, ce qui crée une certaine parité dans l'étude de la pensée humaine et de la pensée de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ed8529f22a64087e546f25/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Apr 2025 18:00:00 GMT"
+    },
+    {
+        "title": "Google Gemini : un nouveau chapitre",
+        "link": "https://www.theverge.com/news/642000/google-sissie-hsaio-stepping-down-notebooklm#comments",
+        "body": "Google prépare la prochaine évolution de son application Gemini, avec Josh Woodward prenant la relève de Sissie Hsaio à la tête de l'application. Hsaio, qui a travaillé chez Google pendant près de 20 ans, a supervisé le lancement du chatbot AI de l'entreprise, initialement appelé Bard. Selon un mémo, Woodward, vice-président de Google Labs, restera à la tête de Google Labs tout en façonnant le prochain chapitre de Gemini. Il a contribué au développement de NotebookLM, l'application de prise de notes assistée par l'IA de Google, qui comprend un outil de présentation audio transformant la recherche en podcast animé par deux hôtes IA. Google a depuis intégré NotebookLM à son abonnement One AI Premium, permettant également aux utilisateurs de créer des podcasts AI à partir de Deep Research de Gemini.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 02 Apr 2025 17:20:07 GMT"
     },
     {
         "title": "L'avenir de l'humanité à l'ère de l'IA",
@@ -96,6 +138,13 @@
         "body": "L'informatique quantique révolutionnera la résolution de problèmes complexes dans divers secteurs, notamment la finance, la logistique et la découverte de médicaments, sans pour autant remplacer les ordinateurs classiques pour les opérations commerciales courantes. Les ordinateurs quantiques surpassent les capacités des ordinateurs classiques grâce à leur capacité à traiter des qubits, qui peuvent être à la fois 0 et 1 simultanément. Cela les rend particulièrement efficaces pour gérer de nombreux paramètres et des problèmes d'optimisation complexes. L'informatique quantique trouvera des applications dans la finance, la logistique et la science des matériaux, ainsi que dans l'amélioration de la découverte de médicaments grâce à la modélisation moléculaire. De plus, l'informatique quantique peut accélérer les calculs utilisés en apprentissage automatique et en analytique des données, et aura également un impact significatif sur la cryptographie et la cybersécurité. Cependant, les ordinateurs classiques resteront essentiels pour les opérations informatiques courantes et les appareils à faible consommation, tandis que les ordinatiques quantiques seront des outils hautement spécialisés pour résoudre des problèmes complexes spécifiques. Les deux types d'informatique travailleront ensemble, avec l'IA pour gérer le transfert de charges de travail entre les plateformes. Les professionnels, les dirigeants d'entreprise et les décideurs doivent comprendre le potentiel de l'informatique quantique pour rester compétitifs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eccd158796929e750fc4f1/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Apr 2025 05:39:00 GMT"
+    },
+    {
+        "title": "Libérez le potentiel de votre entreprise : passez du mode employé à la pensée stratégique",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/04/02/5-chatgpt-prompts-to-move-from-doer-to-strategic-thinker/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eced8c4d9f922aaef92e1e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Apr 2025 00:00:00 GMT"
     },
     {
         "title": "La poursuite de Palantir contre une startup fondée par d'anciens employés",
@@ -166,40 +215,5 @@
         "body": "Des chercheurs ont récemment réussi à cartographier les chemins neuronaux d'un modèle d'IA puissant, révélant ses impulsions et ses processus de décision. Bien que ce ne soit pas la première tentative pour comprendre la pensée des modèles d'IA, ceux-ci sont généralement aussi opaques que le cerveau humain. L'article décrit le développement d'un outil informatique, appelé \"graphique d'attribution\", qui agit comme un microscope virtuel pour observer le fonctionnement interne du modèle linguistique Claude 3.5 Haiku. Les chercheurs ont découvert que le modèle présente des comportements complexes, tels que la planification, les biais et même des formes de déception. Ces découvertes soulignent la nécessité de comprendre l'esprit des machines, en particulier à mesure que les systèmes d'IA deviennent plus puissants et influents. Bien que les outils actuels soient encore rudimentaires, ils offrent un aperçu de la vie intérieure des modèles d'IA et constituent une feuille de route pour une compréhension plus approfondie à l'avenir.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ec15b1db203fe9fdafb72e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Apr 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA générative",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/04/01/picture-this-big-changes-with-chatgpts-image-release/?ss=ai",
-        "body": "L'article explore les implications de la décision d'OpenAI de doter ChatGPT de capacités de génération d'images. Cette évolution marque un tournant dans le domaine de l'IA, offrant de nouvelles possibilités de création de contenu visuel. Nathaniel Whittemore et Balaji Srinivasan soulignent que cette technologie réduira la charge de travail des développeurs en matière de codage et de conception visuelle. L'exemple des filtres Instagram est cité, où un simple mot-clé suffit désormais pour créer des effets visuels complexes. De plus, la qualité des mèmes et des présentations professionnelles devrait s'améliorer, l'IA étant capable de générer des images dynamiques et attrayantes en quelques secondes. \n\nL'auteur souligne également le potentiel de cette technologie pour donner vie à des textes classiques, tels que des romans graphiques ou des bandes dessinées, et pour rendre accessible des textes anciens à de nouveaux publics, y compris les enfants. La création de sites web et de présentations deviendra également plus simple et plus rapide, l'IA pouvant gérer la plupart des tâches de conception et d'ingénierie. Cependant, l'article met en garde contre les risques de deepfakes et de fausses déclarations, qui pourraient être créés facilement et nuire à la cohésion des médias sociaux. Enfin, l'auteur conclut en soulignant l'incertitude quant à l'impact exact de ces innovations, mais affirme que les cas d'utilisation mentionnés sont des prédictions éclairées basées sur l'expertise de professionnels du domaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec0b3c5e0d50ac1d536710/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La méfiance de la Gen Z envers la sécurité basée sur l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/04/01/72-of-gen-z-distrust-ai-security-more-than-any-other-surveyed-group/?ss=ai",
-        "body": "Bien qu'adoptant volontiers les nouvelles technologies, la Gen Z se montre méfiante envers l'IA, en particulier dans le domaine de la sécurité. Une étude de Frontegg révèle que 72 % des membres de cette génération ne font pas confiance à l'IA pour leur sécurité en ligne, ce qui en fait la génération la plus sceptique. Ce scepticisme est d'autant plus surprenant que la Gen Z a grandi dans un monde dominé par la technologie, intégrant facilement les appareils intelligents, la reconnaissance faciale et les portefeuilles numériques dans leur quotidien. Aviad Mizrachi, CTO de Frontegg, attribue ce phénomène à leur exposition aux failles de sécurité et aux scandales de surveillance. Malgré leur réticence, les solutions biométriques gagnent en popularité auprès des premiers adoptants, avec 57 % d'utilisateurs \"tech-savvy\" les utilisant déjà. Pour gagner la confiance du public, Mizrachi suggère que les entreprises offrent des expériences facultatives, des incitations et une transparence totale sur la protection des données. L'éducation est également essentielle pour aider les utilisateurs à comprendre la technologie et son fonctionnement, réduisant ainsi leur scepticisme.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec03fbcaa7410bdc25a3c3/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La menace de la désinformation",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/01/gpt-4o-and-trust-why-seeing-should-no-longer-result-in-believing/?ss=ai",
-        "body": "Le texte met en garde contre les dangers de la désinformation dans l'ère de l'IA, en particulier avec l'avènement de modèles multimodaux comme GPT-4. L'IA peut désormais créer du contenu visuel, auditif et textuel de manière si réaliste qu'il devient difficile de distinguer le vrai du faux. L'auteur souligne que notre tendance naturelle à faire confiance aux indices visuels et auditifs nous rend vulnérables à la désinformation. Des cas récents, comme l'utilisation de deepfakes pour imiter des personnalités publiques, illustrent les risques. L'IA peut également générer du texte trompeur, exploitant nos biais cognitifs. Une approche proactive et multidimensionnelle est nécessaire pour naviguer dans cet environnement en évolution rapide et protéger l'intégrité de notre réalité partagée.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ebf8db5b29cfdf66fae8cf/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 14:41:00 GMT"
-    },
-    {
-        "title": "Light Phone III et l'avenir de la technologie équilibrée",
-        "link": "https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast#comments",
-        "body": "Dans cet épisode de The Vergecast, les animateurs explorent l'idée d'un appareil plus équilibré, offrant les fonctionnalités les plus importantes d'un smartphone tout en évitant les pièges du défilement infini. Ils discutent du nouveau Light Phone III, un appareil qui vise à atteindre cet équilibre. La conversation se concentre ensuite sur les fonctionnalités essentielles que devrait avoir un téléphone fonctionnel et sain. La section suivante couvre les protestations contre Tesla et les tarifs chaotiques de l'industrie automobile, avec une mention de la nouvelle Nissan Leaf. L'épisode se termine par une question sur les caméras domestiques intelligentes capables de localiser des objets perdus, soulignant les efforts en cours dans le domaine de la vision informatique et de l'IA pour résoudre des problèmes quotidiens.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VST_0331_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 01 Apr 2025 14:08:05 GMT"
-    },
-    {
-        "title": "Apple Intelligence élargit ses horizons",
-        "link": "https://www.forbes.com/sites/prakharkhanna/2025/04/01/apple-intelligence-now-available-in-india-brazil-and-more-regions/?ss=ai",
-        "body": "Apple Intelligence, le système de \"intelligence personnelle\" d'Apple, est désormais disponible en anglais localisé pour l'Inde et Singapour, ainsi que dans huit nouvelles langues : français, allemand, italien, portugais brésilien, espagnol, japonais, coréen et chinois simplifié. Cet ensemble de fonctionnalités d'IA pour les produits Apple, similaire au Galaxy AI de Samsung, offre une assistance à l'écriture, des résumés de notifications et plus encore. La mise à jour comprend également une nouvelle fonctionnalité \"Movie Memory\" et est désormais disponible sur iOS, iPadOS, macOS et visionOS.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66ccd4319353b4c869fb677c/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 13:00:00 GMT"
     }
 ]
