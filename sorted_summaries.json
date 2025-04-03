@@ -1,5 +1,12 @@
 [
     {
+        "title": "Devenez la personne la plus intelligente de la pièce",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/03/being-the-smartest-person-in-the-room-via-generative-ai/?ss=ai",
+        "body": "Devenir la personne la plus intelligente de la pièce grâce à l'IA générative est le sujet de cette chronique. L'auteur explore comment l'IA et les grands modèles linguistiques peuvent aider à acquérir rapidement des connaissances sur divers sujets. Il souligne l'importance de ne pas se contenter d'être la marionnette de l'IA, mais d'utiliser ses informations avec discernement. L'IA peut aider à approfondir un sujet, mais elle a aussi ses limites et peut induire en erreur. L'auteur suggère de dialoguer avec l'IA, de la mettre au défi et de vérifier ses informations. Il présente également des stratégies pour utiliser l'IA afin de se préparer à interagir avec d'autres personnes intelligentes et de gérer les complexités de l'IA, comme les hallucinations. Enfin, il cite Jack Welch, suggérant que le désir d'être la personne la plus intelligente de la pièce peut être un piège pour les leaders.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b2e54ea35171207b307af6/0x0.jpg?format=jpg&crop=1589,1191,x5,y67,safe&width=440",
+        "date": "Thu, 03 Apr 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'avenir du cloud computing et de l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/04/03/the-5-cloud-computing-mistakes-you-must-avoid-this-year/?ss=ai",
         "body": "Le cloud computing est passé d'une infrastructure de base à une capacité commerciale stratégique, transformant la manière dont les entreprises opèrent à l'échelle mondiale. Bien que le cloud ait révolutionné le monde des affaires, de nombreuses organisations commettent encore des erreurs coûteuses. Cet article identifie les pièges les plus courants en matière de stratégie cloud, offrant des conseils pour les éviter. Il souligne l'importance d'intégrer le cloud à la stratégie globale de l'entreprise, de ne pas se reposer uniquement sur le fournisseur de cloud pour la sécurité, de combiner le cloud et l'IA pour créer de la valeur, de gérer les coûts associés, d'éviter la dépendance envers un seul fournisseur et d'adopter des technologies ouvertes pour rester agile.",
@@ -187,40 +194,5 @@
         "body": "L'industrie du divertissement, et particulièrement Hollywood, est confrontée à un dilemme éthique avec l'émergence de l'IA. Les scénaristes et créateurs s'inquiètent de l'utilisation de leur travail pour entraîner des modèles d'IA sans leur consentement ou compensation. L'article présente Moonvalley, une startup qui se distingue en s'engageant à utiliser uniquement des données autorisées pour entraîner ses modèles d'IA, protégeant ainsi ses clients de problèmes juridiques potentiels. En se concentrant sur l'éthique et la responsabilité, Moonvalley se positionne comme une alternative aux plateformes d'IA générative qui ignorent les implications morales de l'utilisation de données volées. L'article explore également l'efficacité des modèles entraînés sur des données \"propres\", suggérant que la diversité des sources et le respect des droits intellectuels peuvent conduire à des résultats créatifs supérieurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eb127dc3b1c04fd3ca8e59/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Apr 2025 12:14:00 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent l'IA",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent les technologies de chatbot IA plus accessibles au grand public. Ces systèmes d'IA fonctionnent grâce à des modèles linguistiques à grande échelle (LLM) qui analysent les propriétés statistiques du langage pour faire des prédictions basées sur les entrées de l'utilisateur. Cependant, ces outils peuvent présenter des informations fausses comme vraies, car ils n'ont pas de base de données de faits codée en dur. L'article aborde également d'autres développements dans le domaine de l'IA, notamment les générateurs d'images, les assistants IA, les applications de modération de contenu, l'éthique de l'IA et les problèmes de propriété intellectuelle.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 01 Apr 2025 08:20:06 GMT"
-    },
-    {
-        "title": "ChatGPT ouvre l'outil de génération d'images de style Ghibli à tous les utilisateurs",
-        "link": "https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users",
-        "body": "Résumé : L'outil de génération d'images de ChatGPT, qui a attiré l'attention pour sa capacité à recréer des œuvres d'art de Studio Ghibli, est désormais accessible à tous les utilisateurs, y compris ceux du niveau gratuit. L'outil, basé sur le modèle GPT-4o de l'entreprise, a été lancé le 25 mars et a connu une forte demande, ce qui a entraîné un retard d'un jour dans le déploiement du niveau gratuit. Le PDG de OpenAI, Sam Altman, a annoncé que la mise à jour de la génération d'images est désormais disponible pour tous les utilisateurs, avec des limites d'utilisation pour les utilisateurs gratuits. La société a récemment levé 40 milliards de dollars, la plus importante levée de fonds pour une entreprise technologique privée dans l'histoire, valorisant OpenAI à 300 milliards de dollars.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 01 Apr 2025 08:20:06 GMT"
-    },
-    {
-        "title": "Le futur de l'intelligence artificielle : AGI ou ASI ?",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/01/attaining-ai-superintelligence-straight-on-rather-via-intermediary-stepping-stones/?ss=ai",
-        "body": "L'article explore le débat en cours dans la communauté de l'IA sur la question de savoir s'il est nécessaire d'atteindre l'intelligence artificielle générale (AGI) avant de pouvoir atteindre l'intelligence artificielle superintelligente (ASI), ou si l'on peut se diriger directement vers l'ASI. L'AGI est considérée comme une IA au niveau de l'intelligence humaine, tandis que l'ASI la dépasse. Les « doomistes de l'IA » prédisent que l'AGI ou l'ASI pourraient menacer l'existence de l'humanité, tandis que les « accélérationnistes de l'IA » croient que l'IA avancée résoudra les problèmes de l'humanité. Bien qu'il n'y ait pas de consensus clair sur le chemin à prendre, l'article souligne l'importance de considérer les deux possibilités. L'argument traditionnel en faveur d'une approche en deux étapes (IA-AGI-ASI) est qu'elle permettrait de mieux comprendre et gérer l'IA à chaque étape, réduisant ainsi les risques potentiels. Cependant, certains suggèrent qu'une approche directe vers l'ASI pourrait être plus efficace, car l'AGI pourrait être une distraction inutile et retarder les avantages potentiels de l'ASI. L'article conclut en soulignant la complexité du débat, y compris les implications éthiques, sociales et économiques de chaque approche.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/64d6c459f6240dd2d70f2e70/0x0.jpg?format=jpg&crop=2022,1516,x25,y0,safe&width=440",
-        "date": "Tue, 01 Apr 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Higgsfield AI : révolutionnant la cinématographie générative",
-        "link": "https://www.forbes.com/sites/charliefink/2025/04/01/former-snap-exec-launches-higgsfield-to-bring-cinematic-camera-language-to-ai-generated-video/?ss=ai",
-        "body": "L'ancien cadre de Snap, Alex Mashrabov, lance Higgsfield AI, une plateforme de vidéo générative qui se concentre sur les mouvements de caméra cinématographiques. Higgsfield est né des leçons tirées de Diffuse, une application virale de création de clips AI personnalisés. Bien que populaire, l'application a mis en évidence les contraintes créatives et techniques du contenu court et humoristique. \n\nL'équipe de Mashrabov s'est donc concentrée sur la narration générée par l'IA, en particulier les séries de courts métrages dramatiques pour des plateformes telles que TikTok et YouTube Shorts. La plateforme propose un nouveau moteur de contrôle qui permet aux utilisateurs de diriger des mouvements de caméra sophistiqués à partir d'une seule image et d'un simple texte. Ces préréglages imitent les techniques cinématographiques nécessitant généralement un équipement spécialisé et des équipes expérimentées. \n\nHiggsfield aborde également les défis persistants de la vidéo générative, notamment la cohérence des personnages et des scènes sur des séquences plus longues. Le directeur de la recherche de Higgsfield, Yerzat Dulat, souligne qu'ils résolvent non seulement les problèmes de style, mais aussi de structure. \n\nLa plateforme a été saluée par le cinéaste et technologue créatif Jason Zada, ainsi que par l'artiste des effets visuels primé aux Academy Awards, John Gaeta. Ils soulignent tous deux l'accessibilité de techniques cinématographiques complexes et la liberté créative que Higgsfield apporte à la narration visuelle. \n\nAlors que des entreprises comme Runway, Pika Labs et OpenAI se concentrent sur la fidélité visuelle, Higgsfield se distingue en se concentrant sur la grammaire du film, c'est-à-dire la manière dont une histoire est racontée à travers le mouvement et la perspective, et non simplement les pixels.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eb666a73f45afddd459475/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La responsabilité des PDG dans le déploiement éthique et efficace de l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/04/01/what-ceos-need-to-know-before-using-ai/?ss=ai",
-        "body": "Titre : La responsabilité des PDG dans le déploiement éthique et efficace de l'IA",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eab7654d179bb9884678db/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Apr 2025 07:00:00 GMT"
     }
 ]
