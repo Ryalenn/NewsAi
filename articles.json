@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT connaît sa plus grande croissance grâce à Ghibli",
+        "title": "ChatGPT conna\u00eet sa plus grande croissance gr\u00e2ce \u00e0 Ghibli",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2566719_chatgpt-connait-sa-plus-grande-croissance-grace-a-ghibli",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-5-1200x800-1-768x512.jpg?resize=200,200&key=e31d487f",
         "date": "Tue, 01 Apr 2025 23:00:00 GMT",
@@ -215,5 +215,12 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 01 Apr 2025 19:49:20 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/03/the-5-cloud-computing-mistakes-you-must-avoid-this-year/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ee1e691d65a379085f3ef8/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 05:37:00 GMT",
+        "check": "no"
     }
 ]
