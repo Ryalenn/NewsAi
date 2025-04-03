@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT connaît sa plus grande croissance grâce à Ghibli",
+        "title": "ChatGPT conna\u00eet sa plus grande croissance gr\u00e2ce \u00e0 Ghibli",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2566719_chatgpt-connait-sa-plus-grande-croissance-grace-a-ghibli",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-5-1200x800-1-768x512.jpg?resize=200,200&key=e31d487f",
         "date": "Tue, 01 Apr 2025 23:00:00 GMT",
@@ -194,5 +194,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eea4f5a213451d6a3eeec3/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 03 Apr 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-03-at-11.23.03%E2%80%AFAM.png?quality=90&strip=all&crop=19.114583333333%2C0%2C61.770833333333%2C100&w=2400",
+        "date": "Thu, 03 Apr 2025 16:19:21 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/640086/openai-chat-gpt-news-updates#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 03 Apr 2025 16:42:26 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/04/03/openai-raises-40-billion-runway-ai-video-380-million-amazon-oracle-tiktok-suitors-await-decision/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eeeea8e7563505d6616c7d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 20:32:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hamiltonmann/2025/04/03/the-flawed-assumption-behind-ai-agents-decision-making/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed99c1cc2da342395a718b/0x0.png?format=png&width=440",
+        "date": "Thu, 03 Apr 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/04/03/why-this-ceo-believes-ai-failures-will-dominate-the-headlines-in-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eed754b0fa8ca0d2bf14b2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/quickerbettertech/2025/04/03/ai-in-accounting-is-here-7-game-changing-innovations-you-should-know/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eea938c326ebe97803c88e/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
