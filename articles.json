@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT connaît sa plus grande croissance grâce à Ghibli",
+        "title": "ChatGPT conna\u00eet sa plus grande croissance gr\u00e2ce \u00e0 Ghibli",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2566719_chatgpt-connait-sa-plus-grande-croissance-grace-a-ghibli",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-5-1200x800-1-768x512.jpg?resize=200,200&key=e31d487f",
         "date": "Tue, 01 Apr 2025 23:00:00 GMT",
@@ -208,5 +208,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eced8c4d9f922aaef92e1e/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Apr 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/642407/studio-ghibli-ai-art-debate-ethics-openai-chatgpt#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DCD_0403_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 03 Apr 2025 15:36:06 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_2_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 03 Apr 2025 15:06:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 03 Apr 2025 10:48:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/digital-assets/2025/04/03/openais-40b-and-circle-ipo-ai-and-blockchains-economic-revolution/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eea4f5a213451d6a3eeec3/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Apr 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
