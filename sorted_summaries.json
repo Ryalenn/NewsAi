@@ -1,10 +1,31 @@
 [
     {
+        "title": "Microsoft annonce de nouvelles fonctionnalités pour Copilot",
+        "link": "https://www.theverge.com/news/643769/heres-our-supercut-of-microsofts-copilot-event#comments",
+        "body": "Microsoft a célébré son 50e anniversaire en présentant de nouvelles fonctionnalités pour son outil d'IA, Copilot. Copilot, développé en partenariat avec OpenAI, est conçu pour assister les utilisateurs dans diverses tâches, notamment la programmation, la rédaction et la conception. Les nouvelles fonctionnalités annoncées comprennent une intégration plus étroite avec les produits Microsoft existants, tels que Word et Excel, ainsi que de nouvelles capacités d'apprentissage pour Copilot, lui permettant de s'adapter aux préférences individuelles des utilisateurs. L'événement a également présenté une apparition surprise de Clippy, l'ancienne mascotte de Microsoft Office, suggérant une approche plus amusante et accessible de l'IA.",
+        "image": "",
+        "date": "Fri, 04 Apr 2025 18:28:39 GMT"
+    },
+    {
+        "title": "Microsoft Protest",
+        "link": "https://www.theverge.com/news/643670/microsoft-employee-protest-50th-annivesary-ai",
+        "body": "Une employée de Microsoft, Ibtihal Aboussad, a interrompu l'événement du 50e anniversaire de l'entreprise pour protester contre l'utilisation de l'IA dans le génocide en Palestine. Aboussad, ingénieure en logiciel chez Microsoft depuis 3,5 ans, a accusé l'entreprise et son PDG, Mustafa Suleyman, de complicité dans les violations des droits humains en Israël. Elle a envoyé un e-mail à de nombreuses listes de distribution de Microsoft, détaillant comment la technologie de l'entreprise est utilisée pour la surveillance et le ciblage des Palestiniens. Aboussad a exhorté ses collègues à signer une pétition demandant à Microsoft de mettre fin à ses contrats avec Israël et a souligné que leur travail profite à une entreprise qui arme l'occupation israélienne, les rendant complices de crimes contre l'humanité.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-04-at-1.12.31%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C4.6232876712329%2C100%2C90.753424657534&w=2400",
+        "date": "Fri, 04 Apr 2025 17:22:46 GMT"
+    },
+    {
         "title": "Intel's Vision 2025",
         "link": "https://www.forbes.com/sites/davealtavilla/2025/04/04/intel-vision-2025-ceo-lip-bu-tan-charts-a-new-course-for-execution/?ss=ai",
         "body": "Lors de la conférence Vision 2025 d'Intel, le nouveau PDG Lip-Bu Tan a présenté sa stratégie pour l'avenir de l'entreprise, axée sur l'excellence en ingénierie, l'innovation centrée sur le client et une structure organisationnelle rationalisée. Tan a souligné la nécessité de favoriser une culture qui donne la priorité à l'excellence en ingénierie et à l'innovation, reconnaissant les récents revers d'Intel et insistant sur la nécessité d'adopter une « mentalité de startup ». Intel prévoit de recalibrer sa feuille de route produit pour offrir des performances IA sur toute la pile, de l'utilisateur final au cloud. Panther Lake, la prochaine plateforme client PC d'Intel, sera lancée début 2026, avec un échantillonnage pour les partenaires OEM plus tard cette année. Elle intègre des moteurs d'inférence comme les NPUs et vise à améliorer les performances par watt avec de nouvelles architectures de cœurs CPU et GPU. Intel se concentre également sur le renforcement de sa position dans le calcul cloud-native et piloté par l'IA avec ses dernières plateformes Xeon, ainsi que sur l'accélérateur IA Gaudi 3, qui gagne en popularité en tant que solution d'inférence IA à faible coût. La société prévoit également de renforcer ses services de fonderie pour offrir des chaînes d'approvisionnement flexibles et sécurisées, avec un accent particulier sur les améliorations de la technologie des processus. La transformation culturelle est également une priorité pour Tan, qui encourage une approche axée sur l'équipe qui stimule l'innovation et attire les meilleurs talents en ingénierie.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f0021a40eabab0a5e40c07/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 04 Apr 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Copilot Actions",
+        "link": "https://www.theverge.com/news/643276/microsoft-copilot-ai-actions-feature-availability#comments",
+        "body": "Microsoft ajoute une nouvelle fonctionnalité à son assistant IA Copilot, appelée \"Actions\", qui permet à l'assistant de réserver des locations de voiture, des billets de concert et des tables dans des restaurants, entre autres tâches en ligne. Les utilisateurs peuvent donner des instructions simples via un chat, et Copilot peut effectuer ces tâches en arrière-plan pendant qu'ils font autre chose. La fonctionnalité est conçue pour fonctionner avec la plupart des sites Web et comprend des partenaires de lancement axés sur les voyages et les vacances, ainsi que des services de restauration et de livraison de fleurs. Microsoft lance également d'autres fonctionnalités de personnalisation, notamment un outil de conversion de contenu en podcast et une fonction de recherche de produits. Copilot Actions est l'une des premières fonctionnalités d'IA de ce type disponible pour le grand public, ce qui pourrait donner un aperçu de l'utilité et de la fiabilité de ces outils d'IA partenaires.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 04 Apr 2025 16:30:00 GMT"
     },
     {
         "title": "Copilot Vision élargit ses capacités",
@@ -257,19 +278,5 @@
         "body": "Le générateur d'images de ChatGPT de la version 4.0 a récemment été utilisé pour créer de fausses factures avec une précision troublante. Des utilisateurs ont modifié des tickets de caisse existants ou en ont créé de toutes pièces, soulignant la facilité déconcertante avec laquelle cette technologie peut être utilisée à des fins frauduleuses. Ces exemples soulèvent des inquiétudes quant à la sécurité des protocoles en place et à la possibilité pour les machines de détecter ces fraudes. La capacité de l'IA à générer des images complexes remet en question les méthodes traditionnelles de transmission des justificatifs de paiement, incitant à une réflexion sur les mesures de sécurité nécessaires pour prévenir les abus.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/openai-1200x675-1-768x432.jpg?resize=169,169&key=32737c45",
         "date": "Wed, 02 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Une nouvelle loi pour l'ère de l'intelligence hybride",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/02/why-we-should-expand-asimovs-three-laws-of-robotics-with-a-4th-law/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67e99521d6943e190bfbb511/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 02 Apr 2025 21:12:00 GMT"
-    },
-    {
-        "title": "Google Cloud Next",
-        "link": "https://www.forbes.com/sites/moorinsights/2025/04/02/anticipating-google-cloud-next-2025-cloud-data-and-ai-advancements/?ss=ai",
-        "body": "Google dévoilera ses derniers progrès en matière de gestion des données, d'intelligence artificielle et de technologie cloud lors de l'événement Google Cloud Next 2025 à Las Vegas. L'auteur s'attend à ce que l'événement mette en lumière la stratégie de Google pour la prochaine phase de ses efforts en matière d'informatique en nuage, avec un accent particulier sur les modèles Gemini pour la gestion des bases de données et les outils pour développeurs, ainsi que sur l'infrastructure durable pour l'IA. L'intégration de Gemini dans les services Google, tels que BigQuery et Cloud SQL, devrait simplifier les flux de travail des développeurs et réduire les efforts manuels. Google investit également dans des infrastructures durables et adaptées à l'IA, en mettant l'accent sur l'efficacité énergétique et la réduction de l'empreinte carbone. L'accessibilité et l'utilisation sont des aspects importants, avec des technologies telles que Vertex AI et AI Hypercomputer, qui abaissent les barrières à l'entrée pour les organisations. Google s'engage également à soutenir les startups et les développeurs en leur fournissant des ressources et des formations. L'unification des données dans des environnements hybrides et multi-cloud est une autre priorité, avec la plateforme Data Cloud de Google, qui contribue à réduire les risques de conformité et à accélérer le déploiement des modèles IA. Enfin, l'IA collaborative, comme l'agent Data Science de Google Colab, est un développement intriguant qui sera présenté lors de l'événement, mettant en évidence le rôle de l'IA en tant que collaborateur plutôt qu'outil simple.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eda0d8dc2ddb4a47955db8/0x0.jpg?format=jpg&crop=2600,1218,x0,y255,safe&width=440",
-        "date": "Wed, 02 Apr 2025 20:47:00 GMT"
     }
 ]
