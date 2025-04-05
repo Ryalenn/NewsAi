@@ -42,6 +42,13 @@
         "date": "Fri, 04 Apr 2025 23:00:00 GMT"
     },
     {
+        "title": "L'incertitude des tarifs douaniers",
+        "link": "https://www.theverge.com/tech/643753/gpu-tariffs-nvidia-tsmc-chips-openai#comments",
+        "body": "L'industrie technologique a déjà perdu plus de 1 000 milliards de dollars en capitalisation boursière en raison de l'incertitude entourant les tarifs douaniers imposés par l'administration Trump. Les entreprises d'IA sont dans le flou quant à savoir si leurs produits seront exonérés de ces tarifs, ce qui crée une spirale de confusion dans tout le secteur technologique. Les marchés sont touchés, avec des baisses pour Nvidia et TSMC. Les chercheurs en IA s'attendent à une exemption de tarifs, mais à Washington, personne ne semble sûr de la situation actuelle. L'administration Trump a accordé une exception pour les puces semi-conductrices au cœur des GPU, mais les produits électroniques complets contenant des puces seront apparemment soumis aux tarifs. Les entreprises d'IA, les fournisseurs de cloud hyperscale et les constructeurs PC risquent de payer beaucoup plus pour les GPU, ce qui pourrait entraîner une augmentation significative des prix de l'électronique. La fidélité à Trump pourrait être cruciale pour les entreprises, mais les exemptions de tarifs sont fragiles. Les dirigeants technologiques semblent se mobiliser pour trouver une solution à cette incertitude.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS488_TARIFFS_4_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 04 Apr 2025 18:55:33 GMT"
+    },
+    {
         "title": "Microsoft annonce de nouvelles fonctionnalités pour Copilot",
         "link": "https://www.theverge.com/news/643769/heres-our-supercut-of-microsofts-copilot-event#comments",
         "body": "Microsoft a célébré son 50e anniversaire en présentant de nouvelles fonctionnalités pour son outil d'IA, Copilot. Copilot, développé en partenariat avec OpenAI, est conçu pour assister les utilisateurs dans diverses tâches, notamment la programmation, la rédaction et la conception. Les nouvelles fonctionnalités annoncées comprennent une intégration plus étroite avec les produits Microsoft existants, tels que Word et Excel, ainsi que de nouvelles capacités d'apprentissage pour Copilot, lui permettant de s'adapter aux préférences individuelles des utilisateurs. L'événement a également présenté une apparition surprise de Clippy, l'ancienne mascotte de Microsoft Office, suggérant une approche plus amusante et accessible de l'IA.",
@@ -208,47 +215,5 @@
         "body": "Bien que l'IA apporte une valeur indéniable aux entreprises et aux particuliers dans le monde entier, certains experts remettent en question ses véritables capacités. Malgré les milliards investis dans ce domaine, de nombreux chercheurs en IA affirment que l'industrie s'engage dans une voie sans issue. Les dirigeants de l'industrie, comme Yann LeCun de Meta, sont sceptiques quant à l'idée que la simple mise à l'échelle des grands modèles linguistiques nous mènera à l'intelligence artificielle générale. Gary Marcus, psychologue américain et scientifique cognitif, partage cet avis et affirme que la plupart des modèles d'IA, y compris ChatGPT, Grok et Claude, n'ont pas de réelle barrière. Malgré ces débats, l'IA offre indéniablement des avantages concrets. Cependant, Jerry Haywood, PDG de Boost.ai, prédit que l'histoire de l'IA en 2025 sera marquée par des échecs plutôt que par des percées. Il met en garde contre les entreprises qui se précipitent vers l'IA avec des fournisseurs qui font des promesses exagérées et ne parviennent pas à les tenir. Haywood suggère que les entreprises devraient se concentrer sur les domaines où l'IA peut avoir le plus d'impact, tels que la mise à l'échelle du support, la personnalisation des interactions et la rationalisation des opérations. Il souligne également l'importance de choisir le bon fournisseur pour éviter des conséquences néfastes. Alors que l'enthousiasme entourant les possibilités de l'IA est palpable, les dirigeants d'entreprise doivent rester réalistes et se concentrer sur la manière dont l'IA peut transformer leurs activités plutôt que de poursuivre de manière futile le dernier gadget à la mode.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eed754b0fa8ca0d2bf14b2/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 03 Apr 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la comptabilité avec l'IA",
-        "link": "https://www.forbes.com/sites/quickerbettertech/2025/04/03/ai-in-accounting-is-here-7-game-changing-innovations-you-should-know/?ss=ai",
-        "body": "L'IA transforme le domaine de la comptabilité, avec des applications allant de la saisie des dépenses à l'automatisation de la tenue des livres. Tesorio utilise l'IA pour automatiser la saisie des commandes et réduire les erreurs, tandis que Thomson Reuters et Anthropic développent un système de langage naturel pour interpréter le code fiscal américain. Des entreprises comme Fyle et SparkReceipt automatisent la numérisation et la catégorisation des reçus, et Briefcase utilise l'IA pour apprendre les détails de chaque transaction et les publier dans le grand livre d'une entreprise. LiveFlow connecte les tableurs aux logiciels de comptabilité, libérant les données pour une analyse en temps réel. Enfin, Microsoft, Intuit et d'autres développent des agents IA pour gérer diverses tâches financières, de la collaboration avec les fournisseurs à la gestion des données financières. Bien que la technologie soit encore immature, son adoption augmentera d'ici 2026-2027, transformant le travail des professionnels de la comptabilité et de la finance.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67eea938c326ebe97803c88e/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 03 Apr 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La course à l'IA dans l'enseignement supérieur",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/641193/openai-anthropic-education-tool-college#comments",
-        "body": "Deux importants laboratoires d'IA, OpenAI et Anthropic, ont annoncé des initiatives majeures dans l'enseignement supérieur, révélant ainsi l'importance stratégique des étudiants universitaires pour les entreprises d'IA. Anthropic a lancé « Claude for Education », une version de son chatbot destinée aux universités, avec des partenariats avec des établissements universitaires. OpenAI, quant à lui, a lancé « ChatGPT Edu » l'année dernière et a depuis multiplié les collaborations avec des universités, dont une initiative pour offrir gratuitement ChatGPT Plus aux étudiants universitaires américains et canadiens jusqu'en mai. Ces deux entreprises se livrent une concurrence féroce pour devenir l'outil d'IA par défaut de la prochaine génération, en essayant de façonner la manière dont les étudiants intéragissent avec l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 03 Apr 2025 16:42:26 GMT"
-    },
-    {
-        "title": "ChatGPT Pro",
-        "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
-        "body": "OpenAI dévoile une nouvelle version de son modèle o1, désormais disponible pour les utilisateurs ChatGPT Plus et Team, et annonce une nouvelle couche d'abonnement mensuelle de 200 $, ChatGPT Pro, offrant un accès illimité à o1, GPT-4o et Advanced Voice mode. o1 pro mode, exclusif aux utilisateurs Pro, fournit des réponses plus précises aux questions complexes en utilisant plus de puissance de calcul. L'entreprise continuera également d'offrir un niveau Plus à 20 $ par mois. OpenAI promet un modèle plus rapide, plus puissant et plus précis, avec de meilleures capacités en codage et en mathématiques, ainsi que la possibilité de fournir des réponses basées sur des images. De plus, OpenAI annonce le ChatGPT Pro Grant Program, offrant 10 abonnements ChatGPT Pro à des chercheurs médicaux.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 03 Apr 2025 16:42:26 GMT"
-    },
-    {
-        "title": "La transformation d'OpenAI",
-        "link": "https://www.theverge.com/news/640086/openai-chat-gpt-news-updates#comments",
-        "body": "OpenAI, fondée en 2015 pour développer une intelligence artificielle générale (AGI), a connu une transformation spectaculaire depuis le lancement de ChatGPT. L'entreprise a attiré des milliards d'investissements et des partenariats avec des géants technologiques, mais fait également face à des poursuites en justice et à des critiques concernant sa consommation de liquidités. OpenAI évolue d'une organisation à but non lucratif vers une entreprise à but lucratif pour stabiliser ses opérations et rassurer les investisseurs. L'entreprise a introduit des fonctionnalités telles que la génération d'images, la recherche approfondie et la planification de tâches, et prévoit de lancer de nouveaux modèles AGI. La course aux armements dans le domaine de l'IA avec des concurrents comme Anthropic se poursuit, et OpenAI cherche à sécuriser des ressources informatiques massives pour entraîner ses modèles.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 03 Apr 2025 16:42:26 GMT"
-    },
-    {
-        "title": "M3gan 2.0",
-        "link": "https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date",
-        "body": "La suite de M3gan, inspirée de Terminator, par Blumhouse, sortira au cinéma le 27 juin. Le film suit de nouveau la roboticien Gemma et sa nièce Cady, survivantes de la première vague de meurtres de M3gan. Malgré son plaidoyer pour des réglementations plus strictes sur l'IA, Gemma doit ressusciter M3gan pour arrêter Amelia, un robot tueur plus avancé créé à partir de son code. Le trailer suggère une approche plus comique et exagérée que le premier film, embrassant pleinement le côté \"camp\" de la franchise.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-03-at-11.23.03%E2%80%AFAM.png?quality=90&strip=all&crop=19.114583333333%2C0%2C61.770833333333%2C100&w=2400",
-        "date": "Thu, 03 Apr 2025 16:19:21 GMT"
-    },
-    {
-        "title": "The AI Art Debate",
-        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/642407/studio-ghibli-ai-art-debate-ethics-openai-chatgpt#comments",
-        "body": "L'épisode de Decoder avec Nilay Patel et Brian Merchant explore le débat autour de l'IA et de l'art, déclenché par les mèmes Studio Ghibli créés avec l'outil d'OpenAI. Ils discutent de la joie que l'IA peut apporter aux gens, mais aussi des inquiétudes concernant les menaces potentielles pour les artistes humains et les moyens de subsistance. Le débat aborde également les questions de droit d'auteur et les implications éthiques de l'IA dans une économie créative numérique illimitée. Malgré l'absence de conclusions définitives, la discussion offre une réflexion nuancée sur l'IA et l'art, soulignant la complexité du sujet.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DCD_0403_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 03 Apr 2025 15:36:06 GMT"
     }
 ]
