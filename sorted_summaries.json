@@ -7,6 +7,13 @@
         "date": "Fri, 04 Apr 2025 18:28:39 GMT"
     },
     {
+        "title": "L'avenir du travail et de l'IA",
+        "link": "https://www.forbes.com/sites/rebekahbastian/2025/04/04/addressing-the-tension-between-corporate-efficiency-and-creative-integrity-in-ai/?ss=ai",
+        "body": "Le marché de l'IA générative a explosé, passant de 191 millions de dollars en 2022 à 25,6 milliards de dollars en 2024, et devrait atteindre 1 810 milliards de dollars d'ici 2030. Cet essor a des répercussions importantes sur le monde du travail, créant des gagnants et des perdants. Les dirigeants d'entreprises technologiques et les cadres supérieurs se réjouissent du potentiel de l'IA, tandis que les professionnels de la création et les employés débutants font face à des réalités plus sombres, avec des suppressions d'emplois massives au nom de l'efficacité de l'IA. Cette situation met en lumière un clivage grandissant entre les élites technologiques et économiques, qui gagnent toujours plus d'argent et de pouvoir, et la classe ouvrière, qui lutte déjà contre la pauvreté et l'insécurité financière. L'article explore les perspectives de chacun, reconnaissant le potentiel de l'IA à la fois pour le progrès et l'aggravation des inégalités. Il propose des mesures pour atténuer les effets négatifs, notamment la formation et le recyclage des employés, l'embauche de personnes diverses connaissant bien l'éthique de l'IA, la compréhension du paysage de l'IA et l'apprentissage de son utilisation. Enfin, il encourage tout le monde à s'exprimer sur l'IA et son impact sur notre monde en constante évolution.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f027676eddac50424328ed/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 04 Apr 2025 18:00:00 GMT"
+    },
+    {
         "title": "Microsoft Protest",
         "link": "https://www.theverge.com/news/643670/microsoft-employee-protest-50th-annivesary-ai",
         "body": "Une employée de Microsoft, Ibtihal Aboussad, a interrompu l'événement du 50e anniversaire de l'entreprise pour protester contre l'utilisation de l'IA dans le génocide en Palestine. Aboussad, ingénieure en logiciel chez Microsoft depuis 3,5 ans, a accusé l'entreprise et son PDG, Mustafa Suleyman, de complicité dans les violations des droits humains en Israël. Elle a envoyé un e-mail à de nombreuses listes de distribution de Microsoft, détaillant comment la technologie de l'entreprise est utilisée pour la surveillance et le ciblage des Palestiniens. Aboussad a exhorté ses collègues à signer une pétition demandant à Microsoft de mettre fin à ses contrats avec Israël et a souligné que leur travail profite à une entreprise qui arme l'occupation israélienne, les rendant complices de crimes contre l'humanité.",
@@ -264,19 +271,5 @@
         "body": "Le cloud computing est passé d'une infrastructure de base à une capacité commerciale stratégique, transformant la manière dont les entreprises opèrent à l'échelle mondiale. Bien que le cloud ait révolutionné le monde des affaires, de nombreuses organisations commettent encore des erreurs coûteuses. Cet article identifie les pièges les plus courants en matière de stratégie cloud, offrant des conseils pour les éviter. Il souligne l'importance d'intégrer le cloud à la stratégie globale de l'entreprise, de ne pas se reposer uniquement sur le fournisseur de cloud pour la sécurité, de combiner le cloud et l'IA pour créer de la valeur, de gérer les coûts associés, d'éviter la dépendance envers un seul fournisseur et d'adopter des technologies ouvertes pour rester agile.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ee1e691d65a379085f3ef8/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 03 Apr 2025 05:37:00 GMT"
-    },
-    {
-        "title": "La Nintendo Switch 2 et ses fonctionnalités IA",
-        "link": "https://www.frandroid.com/marques/nintendo/2569989_la-nintendo-switch-2-integre-de-lia-grace-a-nvidia-voici-trois-fonctions-annoncees",
-        "body": "La Nintendo Switch 2, présentée récemment, intègre une puce Nvidia avec sa technologie DLSS, permettant d'améliorer la définition d'image en temps réel. La console prend également en charge le ray tracing en temps réel. La fonction GameChat, similaire à Discord, permet à 12 joueurs de discuter en ligne et de partager leur image, avec un détourage automatique du visage. Cette fonctionnalité, ainsi que la suppression des bruits de fond et l'ajustement du volume du microphone, semblent être basées sur les technologies IA de Nvidia. Bien que Nintendo n'ait pas fourni de détails techniques, ces fonctionnalités améliorent l'expérience de jeu en ligne et la communication.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/metroidprime4beyond-nintendoswitch2edition-scrn-01-1200x675-1-768x432.jpg?resize=169,169&key=3a7be68c",
-        "date": "Wed, 02 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Les dangers de la technologie IA de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2569305_chatgpt-est-capable-de-creer-de-fausses-notes-de-frais",
-        "body": "Le générateur d'images de ChatGPT de la version 4.0 a récemment été utilisé pour créer de fausses factures avec une précision troublante. Des utilisateurs ont modifié des tickets de caisse existants ou en ont créé de toutes pièces, soulignant la facilité déconcertante avec laquelle cette technologie peut être utilisée à des fins frauduleuses. Ces exemples soulèvent des inquiétudes quant à la sécurité des protocoles en place et à la possibilité pour les machines de détecter ces fraudes. La capacité de l'IA à générer des images complexes remet en question les méthodes traditionnelles de transmission des justificatifs de paiement, incitant à une réflexion sur les mesures de sécurité nécessaires pour prévenir les abus.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/openai-1200x675-1-768x432.jpg?resize=169,169&key=32737c45",
-        "date": "Wed, 02 Apr 2025 23:00:00 GMT"
     }
 ]
