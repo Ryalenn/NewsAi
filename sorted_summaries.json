@@ -1,5 +1,26 @@
 [
     {
+        "title": "Trouver le cadeau parfait avec l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/05/gift-giving-advice-via-generative-ai/?ss=ai",
+        "body": "L'IA générative et les grands modèles linguistiques peuvent aider à trouver des idées de cadeaux adaptés à différentes personnes, comme des collègues, des amis ou des membres de la famille. L'IA peut servir de tableau d'affichage et fournir des recommandations personnalisées en posant des questions sur le donateur et le destinataire. L'IA n'a pas d'ego et permet aux utilisateurs d'explorer différentes options sans obligation d'achat. Elle peut également inspirer des idées de cadeaux et éviter l'embarras potentiel associé à des cadeaux mal choisis. Les principales applications d'IA générative sont disponibles 24h/24 et 7j/7, et ChatGPT compte 400 millions d'utilisateurs actifs hebdomadaires. L'IA peut effectuer des tâches, comme acheter des cadeaux, et nécessite une surveillance pour éviter les hallucinations et les fausses informations. L'IA peut également être utilisée pour se préparer à aider les autres dans le choix de cadeaux.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d2158e07b1e895f52abd63/0x0.jpg?format=jpg&crop=1704,1277,x162,y0,safe&width=440",
+        "date": "Sat, 05 Apr 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Protéger ses données avec ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2572625_si-vous-utilisez-chatgpt-voici-ce-que-vous-devez-faire-pour-proteger-vos-donnees",
+        "body": "L'article met en lumière les enjeux de confidentialité liés à l'utilisation de ChatGPT. Il est souligné que toutes les informations partagées avec ChatGPT, y compris les messages, les photos et les fichiers, peuvent être stockées et utilisées par OpenAI pour entraîner et améliorer ses modèles d'IA. Bien qu'OpenAI affirme que ces données sont anonymisées, l'article suggère que les utilisateurs qui souhaitent protéger leur vie privée peuvent choisir de se désinscrire (opt-out) du partage de leurs données. La procédure pour ce faire est décrite, incluant un lien vers les paramètres de confidentialité d'OpenAI. De plus, l'article mentionne l'option d'installer un LLM en local, permettant une utilisation hors ligne et une meilleure protection des données personnelles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/capture-decran-2025-04-05-a-090101-1200x883-1-768x565.jpg?resize=221,221&key=8326be14",
+        "date": "Fri, 04 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Quasar Alpha : le nouveau modèle d'IA aux performances impressionnantes",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2572601_le-mysterieux-modele-dia-aux-performances-record-ce-que-lon-sait-sur-quasar-alpha",
+        "body": "Quasar Alpha, un nouveau modèle d'IA, a été lancé via OpenRouter, se distinguant par une fenêtre de contexte d'un million de tokens et des performances exceptionnelles. Ses capacités surpassent celles de modèles leaders comme Claude 3.7 Sonnet et rivalisent avec les poids lourds de l'IA générative. Quasar Alpha excelle dans le traitement de grands volumes de données, l'analyse de code et la compréhension du langage naturel. Les tests initiaux révèlent une vitesse d'exécution quatre fois supérieure à celle de Claude 3.7 Sonnet, avec des résultats de qualité équivalente ou supérieure. Bien que son identité reste inconnue, Quasar Alpha représente une nouvelle génération de modèles d'IA, suscitant des interrogations sur les innovations techniques qui se cachent derrière.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/jr-korpa-9mvo-tkoxnu-unsplash-1200x715-1-768x458.jpg?resize=179,179&key=3c2b8450",
+        "date": "Fri, 04 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Microsoft annonce de nouvelles fonctionnalités pour Copilot",
         "link": "https://www.theverge.com/news/643769/heres-our-supercut-of-microsofts-copilot-event#comments",
         "body": "Microsoft a célébré son 50e anniversaire en présentant de nouvelles fonctionnalités pour son outil d'IA, Copilot. Copilot, développé en partenariat avec OpenAI, est conçu pour assister les utilisateurs dans diverses tâches, notamment la programmation, la rédaction et la conception. Les nouvelles fonctionnalités annoncées comprennent une intégration plus étroite avec les produits Microsoft existants, tels que Word et Excel, ainsi que de nouvelles capacités d'apprentissage pour Copilot, lui permettant de s'adapter aux préférences individuelles des utilisateurs. L'événement a également présenté une apparition surprise de Clippy, l'ancienne mascotte de Microsoft Office, suggérant une approche plus amusante et accessible de l'IA.",
@@ -257,12 +278,5 @@
         "body": "Google a ajouté une nouvelle fonctionnalité à son outil d'IA pour la prise de notes, NotebookLM, qui permet à l'outil de trouver et de résumer ses propres sources web. La fonctionnalité « Discover » permet aux utilisateurs de décrire un sujet, et NotebookLM recherche et présente une liste de sources web pertinentes avec un résumé. Les sources sont sélectionnées parmi des centaines d'options en quelques secondes, et les utilisateurs peuvent les importer pour créer des FAQ, des documents de synthèse et des podcasts. Les sources sont également enregistrées dans NotebookLM pour une référence future, permettant une prise de notes et des réponses aux questions efficaces. « I'm Feeling Curious » est une autre fonctionnalité dérivée, qui génère des sources sur des sujets aléatoires, offrant un aperçu des capacités de l'IA et une façon amusante d'explorer de nouveaux sujets.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 03 Apr 2025 10:48:46 GMT"
-    },
-    {
-        "title": "Devenez la personne la plus intelligente de la pièce",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/03/being-the-smartest-person-in-the-room-via-generative-ai/?ss=ai",
-        "body": "Devenir la personne la plus intelligente de la pièce grâce à l'IA générative est le sujet de cette chronique. L'auteur explore comment l'IA et les grands modèles linguistiques peuvent aider à acquérir rapidement des connaissances sur divers sujets. Il souligne l'importance de ne pas se contenter d'être la marionnette de l'IA, mais d'utiliser ses informations avec discernement. L'IA peut aider à approfondir un sujet, mais elle a aussi ses limites et peut induire en erreur. L'auteur suggère de dialoguer avec l'IA, de la mettre au défi et de vérifier ses informations. Il présente également des stratégies pour utiliser l'IA afin de se préparer à interagir avec d'autres personnes intelligentes et de gérer les complexités de l'IA, comme les hallucinations. Enfin, il cite Jack Welch, suggérant que le désir d'être la personne la plus intelligente de la pièce peut être un piège pour les leaders.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67b2e54ea35171207b307af6/0x0.jpg?format=jpg&crop=1589,1191,x5,y67,safe&width=440",
-        "date": "Thu, 03 Apr 2025 07:00:00 GMT"
     }
 ]
