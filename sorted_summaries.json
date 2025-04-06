@@ -1,5 +1,12 @@
 [
     {
+        "title": "La valeur de la connaissance",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/06/aravind-srinivas-on-academia-lossless-compression-and-more/?ss=ai",
+        "body": "L'article explore la tension entre les objectifs académiques et les objectifs d'innovation, en se demandant s'il est préférable de poursuivre des diplômes supérieurs ou de se lancer dans le monde de l'entrepreneuriat et du développement de startups. Il présente l'interview d'Aravind Srinivas, co-fondateur d'un service de modélisation réputé, qui a réussi à concilier les deux. Il souligne l'importance de la connaissance et de la pratique, et comment les deux peuvent se compléter. L'article aborde également la nature de l'IA, avec des réflexions sur l'accès ouvert et la démocratisation de l'IA, ainsi que l'impact de la culture populaire sur la perception de l'innovation. Enfin, il met en évidence l'importance de l'itération et de la mise en pratique des idées, plutôt que de rester coincé dans une \"impasse des idées\".",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67eaae74eee673448c570967/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 06 Apr 2025 19:00:00 GMT"
+    },
+    {
         "title": "L'IA : une bénédiction à double tranchant pour la génération Z au travail",
         "link": "https://www.forbes.com/sites/edwardsegal/2025/04/06/how-ai-is-impacting-skills-of-gen-zers-in-the-workplace/?ss=ai",
         "body": "L'intelligence artificielle (IA) est une bénédiction à double tranchant pour les employés de la génération Z et leurs entreprises. Si elle peut combler les lacunes en matière de compétences et accélérer leur travail, elle présente également des inconvénients qui préoccupent les dirigeants d'entreprise. L'un des principaux inconvénients est l'affaiblissement de l'attention et de la capacité de concentration profonde des travailleurs de la génération Z, ainsi que de leurs compétences en matière d'évaluation de leur propre travail. L'IA pourrait également entraver le développement de leurs capacités de réflexion critique et conduire à un manque de diversité dans les résultats des tâches. Cependant, l'IA peut également aider les employés de la génération Z à combler leurs lacunes en matière de résolution de conflits, de demande d'aide et de communication efficace. Les entreprises qui parviennent à trouver un juste équilibre entre l'utilisation de l'IA et le développement des compétences fondamentales de leur main-d'œuvre de la génération Z bénéficieront à la fois d'une productivité élevée et d'un personnel hautement qualifié.",
@@ -82,33 +89,5 @@
         "body": "Quasar Alpha, un nouveau modèle d'IA, a été lancé via OpenRouter, se distinguant par une fenêtre de contexte d'un million de tokens et des performances exceptionnelles. Ses capacités surpassent celles de modèles leaders comme Claude 3.7 Sonnet et rivalisent avec les poids lourds de l'IA générative. Quasar Alpha excelle dans le traitement de grands volumes de données, l'analyse de code et la compréhension du langage naturel. Les tests initiaux révèlent une vitesse d'exécution quatre fois supérieure à celle de Claude 3.7 Sonnet, avec des résultats de qualité équivalente ou supérieure. Bien que son identité reste inconnue, Quasar Alpha représente une nouvelle génération de modèles d'IA, suscitant des interrogations sur les innovations techniques qui se cachent derrière.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/jr-korpa-9mvo-tkoxnu-unsplash-1200x715-1-768x458.jpg?resize=179,179&key=3c2b8450",
         "date": "Fri, 04 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Copilot Vision élargit ses capacités",
-        "link": "https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile#comments",
-        "body": "Microsoft étend les capacités de sa fonctionnalité Copilot Vision, qui sera désormais disponible sur Windows et mobile, en plus du web. Copilot Vision pourra analyser en temps réel la vidéo d'une caméra mobile, offrant ainsi des conseils pour l'entretien des plantes ou la décoration intérieure. La fonctionnalité sera intégrée à l'application Copilot sur iOS et Android, et une fonctionnalité similaire sera bientôt disponible sur Windows. L'application Copilot sur Windows sera mise à jour pour prendre en charge Copilot Vision sur l'ensemble du PC, permettant à l'assistant IA d'assister les utilisateurs dans des tâches comme l'utilisation d'Adobe Photoshop ou l'analyse de photos et de pages web.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25297823/STK259_MICROSOFT_COPILOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 04 Apr 2025 19:55:15 GMT"
-    },
-    {
-        "title": "Copilot's Big Update",
-        "link": "https://www.theverge.com/news/643564/microsoft-50th-anniversary-livestream-copilot-ai-how-to-watch",
-        "body": "Microsoft a célébré son 50e anniversaire en annonçant des mises à jour importantes pour son assistant IA Copilot. L'événement, diffusé en direct, a mis en vedette le PDG de Microsoft, Satya Nadella, ainsi que des dirigeants passés et présents. Copilot Vision, qui était auparavant limité aux pages web Edge, sera désormais disponible sur les appareils mobiles et Windows, permettant à l'assistant IA d'analyser les vidéos en temps réel et d'offrir des conseils. Copilot peut également effectuer des tâches en ligne, telles que des réservations de restaurant et des achats, grâce à de simples invites de chat. Microsoft a également introduit la fonction \"Memory\", qui permet à Copilot de se souvenir des préférences et intérêts de l'utilisateur, ainsi que des fonctionnalités de personnalisation et de création de podcasts. L'entreprise a également discuté du succès de DeepSeek's AI et de son investissement de 80 milliards de dollars dans l'IA, établissant ainsi une nouvelle norme pour ses propres efforts en matière d'IA. L'événement a également vu la participation des cofondateurs de Microsoft, Bill Gates et Paul Allen, ainsi que de l'ancien PDG Steve Ballmer, qui ont été interviewés par Copilot. Enfin, Microsoft a annoncé la disponibilité de ses fonctionnalités IA sur les PC Copilot Plus équipés de puces Intel et AMD, y compris les légendes en direct et l'outil de cocréation dans Paint.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 04 Apr 2025 19:55:15 GMT"
-    },
-    {
-        "title": "L'incertitude des tarifs douaniers",
-        "link": "https://www.theverge.com/tech/643753/gpu-tariffs-nvidia-tsmc-chips-openai#comments",
-        "body": "L'industrie technologique a déjà perdu plus de 1 000 milliards de dollars en capitalisation boursière en raison de l'incertitude entourant les tarifs douaniers imposés par l'administration Trump. Les entreprises d'IA sont dans le flou quant à savoir si leurs produits seront exonérés de ces tarifs, ce qui crée une spirale de confusion dans tout le secteur technologique. Les marchés sont touchés, avec des baisses pour Nvidia et TSMC. Les chercheurs en IA s'attendent à une exemption de tarifs, mais à Washington, personne ne semble sûr de la situation actuelle. L'administration Trump a accordé une exception pour les puces semi-conductrices au cœur des GPU, mais les produits électroniques complets contenant des puces seront apparemment soumis aux tarifs. Les entreprises d'IA, les fournisseurs de cloud hyperscale et les constructeurs PC risquent de payer beaucoup plus pour les GPU, ce qui pourrait entraîner une augmentation significative des prix de l'électronique. La fidélité à Trump pourrait être cruciale pour les entreprises, mais les exemptions de tarifs sont fragiles. Les dirigeants technologiques semblent se mobiliser pour trouver une solution à cette incertitude.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS488_TARIFFS_4_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 04 Apr 2025 18:55:33 GMT"
-    },
-    {
-        "title": "Microsoft annonce de nouvelles fonctionnalités pour Copilot",
-        "link": "https://www.theverge.com/news/643769/heres-our-supercut-of-microsofts-copilot-event#comments",
-        "body": "Microsoft a célébré son 50e anniversaire en présentant de nouvelles fonctionnalités pour son outil d'IA, Copilot. Copilot, développé en partenariat avec OpenAI, est conçu pour assister les utilisateurs dans diverses tâches, notamment la programmation, la rédaction et la conception. Les nouvelles fonctionnalités annoncées comprennent une intégration plus étroite avec les produits Microsoft existants, tels que Word et Excel, ainsi que de nouvelles capacités d'apprentissage pour Copilot, lui permettant de s'adapter aux préférences individuelles des utilisateurs. L'événement a également présenté une apparition surprise de Clippy, l'ancienne mascotte de Microsoft Office, suggérant une approche plus amusante et accessible de l'IA.",
-        "image": "",
-        "date": "Fri, 04 Apr 2025 18:28:39 GMT"
     }
 ]
