@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "Xbox a généré un jeu IA et le résultat est catastrophique",
+        "title": "Xbox a g\u00e9n\u00e9r\u00e9 un jeu IA et le r\u00e9sultat est catastrophique",
         "link": "https://www.frandroid.com/marques/microsoft/2572883_xbox-a-genere-un-jeu-ia-et-le-resultat-est-catastrophique",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/microsoft-quake-ia-1200x672-1-768x430.jpg?resize=168,168&key=e271235a",
         "date": "Sun, 06 Apr 2025 23:00:00 GMT",
@@ -89,5 +89,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6630e746e72f787009b814f5/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 07 Apr 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Si vous avez un Galaxy S25 ou un Pixel 9, cette nouveaut\u00e9 exclusive peut bouleverser votre smartphone",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2573371_si-vous-avez-un-galaxy-s25-ou-un-pixel-9-cette-nouveaute-exclusive-peut-bouleverser-votre-smartphone",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/samsung-galaxy-s25-ultra-frandroid-p1055201-1200x800-1-768x512.jpg?resize=200,200&key=bccb895b",
+        "date": "Sun, 06 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/04/07/how-a-simple-protocol-is-changing-everything-about-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ec5f5e963c36f04a7d0b0a/0x0.jpg?format=jpg&crop=5145,2410,x0,y768,safe&width=440",
+        "date": "Mon, 07 Apr 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/04/07/inside-openais-ambitious-ai-education-academy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f2b0b2b86e6b2709aec846/0x0.jpg?format=jpg&crop=3698,2082,x0,y203,safe&width=440",
+        "date": "Mon, 07 Apr 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
