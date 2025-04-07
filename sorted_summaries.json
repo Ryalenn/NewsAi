@@ -1,10 +1,24 @@
 [
     {
+        "title": "Diagnostic et pronostic de la schizophrénie avec l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/07/generative-ai-goes-head-to-head-with-mental-health-therapists/?ss=ai",
+        "body": "L'article explore l'utilisation de l'IA générative pour le diagnostic et le pronostic de la schizophrénie, en la comparant aux évaluations des professionnels de la santé mentale et du grand public. Une étude de cas utilise ChatGPT et GPT-4 pour évaluer un scénario de schizophrénie, avec des résultats prometteurs. L'IA générative peut fournir des diagnostics et des conseils en santé mentale, mais des préoccupations persistent quant à la précision et à la confiance excessive dans les réponses de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6630e746e72f787009b814f5/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Apr 2025 07:00:00 GMT"
+    },
+    {
         "title": "ChatGPT : Attention aux risques de confidentialité",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/04/07/chat-gpt-danger-5-things-you-should-never-tell-the-ai-bot/?ss=ai",
         "body": "ChatGPT, le célèbre chatbot LLM, est utilisé par plus de 100 millions de personnes chaque jour pour traiter plus d'un milliard de requêtes. Cependant, des experts mettent en garde contre le fait qu'il s'agit d'un \"trou noir de la confidentialité\", avec des préoccupations concernant le traitement des données des utilisateurs. OpenAI, son créateur, admet que les données entrées peuvent ne pas être sécurisées et pourraient être utilisées pour entraîner d'autres modèles ou exposées à d'autres personnes. De plus, les données peuvent être consultées par des humains pour vérifier la conformité aux règles d'utilisation. Les mots de passe, les informations financières et confidentielles, ainsi que les demandes illégales ou non éthiques, ne devraient jamais être partagés avec ChatGPT ou tout autre chatbot basé sur le cloud public. Les utilisateurs doivent être conscients que toute information entrée dans ces systèmes est considérée comme publique et qu'il n'y a aucune garantie de confidentialité. Bien qu'éducatif, ChatGPT soulève des inquiétudes en matière de confidentialité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f2b7ffaee102cfe1265297/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 07 Apr 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Le jeu vidéo généré par IA de Microsoft : un échec ?",
+        "link": "https://www.frandroid.com/marques/microsoft/2572883_xbox-a-genere-un-jeu-ia-et-le-resultat-est-catastrophique",
+        "body": "Microsoft a récemment dévoilé sa \"Copilot Gaming Experience\", une démonstration où chaque image d'un jeu est créée en temps réel par un modèle IA. La firme a recréé le jeu Quake avec son IA générative. Cependant, le résultat est décevant : le jeu est lent, la démo limitée, et l'IA ne parvient pas à gérer correctement les combats ou à se souvenir du niveau de vie du joueur. Microsoft a choisi de générer entièrement le jeu avec l'IA plutôt que de l'intégrer à des éléments de jeu existants, ce qui semble avoir été un choix préjudiciable. L'IA générative commence à être utilisée dans les jeux vidéo, comme avec Ace de Nvidia, qui permet de créer des PNJ animés. L'approche de Microsoft semble prématurée, mais soulève la question des possibilités futures de l'IA dans la génération de jeux vidéo.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/microsoft-quake-ia-1200x672-1-768x430.jpg?resize=168,168&key=e271235a",
+        "date": "Sun, 06 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "La valeur de la connaissance",
@@ -33,6 +47,13 @@
         "body": "Les grandes entreprises technologiques, telles que Microsoft (avec Copilot), Google (Gemini) et OpenAI (GPT-4), rendent les technologies de chatbots basées sur des modèles linguistiques de grande taille (LLM) plus accessibles au grand public. Meta rejoint la course avec Llama 4, une nouvelle gamme de modèles d'IA, tandis que ChatGPT d'OpenAI et Gemini de Google continuent d'évoluer, améliorant leurs capacités de génération d'images et de traitement du langage naturel. La demande pour ces outils a été telle qu'OpenAI a dû limiter temporairement le nombre de requêtes d'images. De plus, Google a introduit Gemini 2.5, qui combine un modèle de base amélioré avec un post-entraînement avancé, et a également commencé à déployer de nouvelles fonctionnalités d'IA pour Gemini Live, permettant à l'IA de \"voir\" et d'interagir avec l'écran de l'utilisateur en temps réel. Dans le même temps, Anthropic, une entreprise concurrente, a lancé Claude 3.7 Sonnet, son premier modèle de raisonnement hybride, et Elon Musk a présenté Grok-3, qui a rapidement atteint le sommet du classement Chatbot Arena. Enfin, Microsoft a annoncé Dragon Copilot, un système d'IA pour le secteur de la santé, et Meta a dévoilé Project Waterworth, un plan de plusieurs milliards de dollars pour construire un câble sous-marin de 50 000 km pour soutenir les infrastructures d'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Sat, 05 Apr 2025 23:05:05 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA selon Meta",
+        "link": "https://www.frandroid.com/marques/meta/2572747_llama-4-de-meta-est-la-tout-ce-quil-faut-savoir-sur-cette-ia-qui-equipe-whatsapp-instagram-et-facebook",
+        "body": "Meta dévoile Llama 4, une nouvelle série de modèles d'IA, comprenant Scout, Maverick et Behemoth, avec un quatrième en développement. Ces modèles ont été entraînés sur une grande variété de données, y compris du texte, des images et des vidéos, pour leur offrir une compréhension globale. Maverick et Scout sont déjà disponibles gratuitement, tandis que Behemoth, le modèle le plus puissant, est encore en développement. Llama 4 surpasse les modèles concurrents dans certains domaines, notamment le codage, le multilinguisme et le traitement d'images. L'architecture « Mixture of Experts » de Llama 4 permet une plus grande efficacité et rapidité dans le traitement de l'information. Meta positionne Llama 4 comme une alternative aux modèles d'IA d'OpenAI et de Google, soulignant que ce n'est que le début de cette nouvelle série de modèles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-36-1200x675-1-768x432.jpg?resize=169,169&key=607e3d7e",
+        "date": "Sat, 05 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "Llama 4, la nouvelle génération de LLM de Meta",
@@ -75,12 +96,5 @@
         "body": "Google développe une nouvelle version de son assistant IA Gemini destinée aux enfants de moins de 13 ans, appelée \"Gemini for Kids\". Cette initiative intervient alors que la commissaire à l'enfance en Angleterre, Dame Rachel de Souza, met en garde contre le fait que les enfants se tournent vers les chatbots en ligne pour obtenir des réponses au lieu de s'adresser à leurs parents. La version Gemini de Google, qui remplace déjà l'assistant Google d'origine, est beaucoup plus puissante et fonctionne comme une conversation avec une vraie personne, ce qui augmente les risques de désinformation et de contenu inapproprié. Google prévoit d'intégrer des protections parentales à Gemini for Kids, mais la question cruciale est de savoir si les enfants ont les compétences de pensée critique nécessaires pour vérifier les réponses de l'IA. Les changements proposés dans l'application Google sur Android incluent un avertissement explicite à cet effet. Bien que la date de sortie de \"Gemini for Kids\" soit inconnue, Google semble prendre des mesures positives pour protéger les enfants de l'exposition à des informations potentiellement nocives générées par l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eea2e8355930a9ef8746ac/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 05 Apr 2025 11:46:00 GMT"
-    },
-    {
-        "title": "Trouver le cadeau parfait avec l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/05/gift-giving-advice-via-generative-ai/?ss=ai",
-        "body": "L'IA générative et les grands modèles linguistiques peuvent aider à trouver des idées de cadeaux adaptés à différentes personnes, comme des collègues, des amis ou des membres de la famille. L'IA peut servir de tableau d'affichage et fournir des recommandations personnalisées en posant des questions sur le donateur et le destinataire. L'IA n'a pas d'ego et permet aux utilisateurs d'explorer différentes options sans obligation d'achat. Elle peut également inspirer des idées de cadeaux et éviter l'embarras potentiel associé à des cadeaux mal choisis. Les principales applications d'IA générative sont disponibles 24h/24 et 7j/7, et ChatGPT compte 400 millions d'utilisateurs actifs hebdomadaires. L'IA peut effectuer des tâches, comme acheter des cadeaux, et nécessite une surveillance pour éviter les hallucinations et les fausses informations. L'IA peut également être utilisée pour se préparer à aider les autres dans le choix de cadeaux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d2158e07b1e895f52abd63/0x0.jpg?format=jpg&crop=1704,1277,x162,y0,safe&width=440",
-        "date": "Sat, 05 Apr 2025 07:00:00 GMT"
     }
 ]
