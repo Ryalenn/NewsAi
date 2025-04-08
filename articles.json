@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Xbox a généré un jeu IA et le résultat est catastrophique",
+        "title": "Xbox a g\u00e9n\u00e9r\u00e9 un jeu IA et le r\u00e9sultat est catastrophique",
         "link": "https://www.frandroid.com/marques/microsoft/2572883_xbox-a-genere-un-jeu-ia-et-le-resultat-est-catastrophique",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/microsoft-quake-ia-1200x672-1-768x430.jpg?resize=168,168&key=e271235a",
         "date": "Sun, 06 Apr 2025 23:00:00 GMT",
@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Si vous avez un Galaxy S25 ou un Pixel 9, cette nouveauté exclusive peut bouleverser votre smartphone",
+        "title": "Si vous avez un Galaxy S25 ou un Pixel 9, cette nouveaut\u00e9 exclusive peut bouleverser votre smartphone",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2573371_si-vous-avez-un-galaxy-s25-ou-un-pixel-9-cette-nouveaute-exclusive-peut-bouleverser-votre-smartphone",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/samsung-galaxy-s25-ultra-frandroid-p1055201-1200x800-1-768x512.jpg?resize=200,200&key=bccb895b",
         "date": "Sun, 06 Apr 2025 23:00:00 GMT",
@@ -117,5 +117,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f41c5b885143752829eb1a/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 07 Apr 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/google/644982/notebooklm-is-finally-releasing-a-mobile-app#comments",
+        "image": "",
+        "date": "Mon, 07 Apr 2025 22:45:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/644943/shopify-ceo-memo-ai-hires-job#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-1843202244.jpg?quality=90&strip=all&crop=0%2C0.014281633818911%2C100%2C99.971436732362&w=2400",
+        "date": "Mon, 07 Apr 2025 22:06:26 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/644612/major-publishers-stop-ai-theft-ad-campaign#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 07 Apr 2025 17:22:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 08 Apr 2025 01:32:31 GMT",
+        "check": "no"
     }
 ]
