@@ -1,10 +1,24 @@
 [
     {
+        "title": "Générative AI pour les médias sociaux",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/08/15-game-changing-ai-tools-for-social-media-and-content-creation/?ss=ai",
+        "body": "Titre: L'avenir de la gestion des médias sociaux avec l'IA Générative",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f3e1ffe9565bd25996f67a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 08 Apr 2025 05:00:00 GMT"
+    },
+    {
         "title": "Les géants de la tech démocratisent les chatbots basés sur des modèles linguistiques de grande taille",
         "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
         "body": "Les grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur des modèles linguistiques de grande taille (LLM) plus accessibles au grand public. Meta, avec Llama 4, et OpenAI, avec ChatGPT, sont également des acteurs importants dans ce domaine. Ces modèles LLM utilisent des programmes d'autocompletion pour apprendre le langage et analyser les propriétés statistiques du langage pour faire des prédictions. Cependant, ils peuvent également présenter des informations fausses comme étant vraies. Google a également introduit Gemini 2.5, qui combine un modèle de base amélioré avec un post-entraînement amélioré. De plus, Google a commencé à intégrer de nouvelles fonctionnalités AI à Gemini Live, lui permettant de \"voir\" et d'interpréter ce qui est sur votre écran ou ce que voit votre smartphone. Microsoft a annoncé Dragon Copilot, un système AI pour le secteur de la santé, et a également introduit deux agents de \"raisonnement profond\" pour Microsoft 365 Copilot. Enfin, des entreprises comme Anthropic et Elon Musk's Grok-3 continuent de faire des progrès dans le domaine de l'IA, avec des modèles hybrides de raisonnement et des plans pour des studios de jeux AI.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 08 Apr 2025 01:32:31 GMT"
+    },
+    {
+        "title": "Microsoft Copilot s'améliore",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/microsoft-copilot/2574123_copilot-fait-peau-neuve-voici-les-nouveautes-de-cette-mise-a-jour",
+        "body": "Microsoft a célébré son 50e anniversaire en déployant une mise à jour majeure pour son IA Copilot, la plaçant ainsi au niveau de ses concurrents ChatGPT, Claude et Gemini. La mise à jour introduit une fonctionnalité de mémoire, permettant à Copilot de se souvenir des préférences et des détails partagés par l'utilisateur. La fonctionnalité \"Actions\" transforme Copilot en assistant personnel capable d'effectuer des tâches comme des réservations ou des achats. Le mode \"Recherche approfondie\" offre des résumés détaillés sur des sujets complexes, tandis que la fonction de création de podcasts génère des épisodes personnalisés. Copilot Vision, désormais disponible sur Windows, iOS et Android, permet à l'IA d'analyser l'écran ou l'environnement via la caméra, offrant une expérience similaire à Google Lens. Ces améliorations font de Copilot un outil puissant pour les étudiants, les professionnels et les utilisateurs quotidiens.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-38-1-1200x675-1-768x432.jpg?resize=169,169&key=224991f2",
+        "date": "Mon, 07 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "AI Note-Taking, Now on Mobile",
