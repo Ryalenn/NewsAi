@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Google paie des employés à ne rien faire, voici pourquoi",
+        "title": "Google paie des employ\u00e9s \u00e0 ne rien faire, voici pourquoi",
         "link": "https://www.frandroid.com/culture-tech/2574341_google-paie-des-employes-a-ne-rien-faire-voici-pourquoi",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
         "date": "Mon, 07 Apr 2025 23:00:00 GMT",
@@ -161,7 +161,7 @@
         "check": "yes"
     },
     {
-        "title": "Un smartphone sans écran et 100% ChatGPT : le drôle de projet d’OpenAI et d’une ancienne gloire d’Apple",
+        "title": "Un smartphone sans \u00e9cran et 100% ChatGPT : le dr\u00f4le de projet d\u2019OpenAI et d\u2019une ancienne gloire d\u2019Apple",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2574981_un-smartphone-sans-ecran-et-100-chatgpt-le-drole-de-projet-dopenai-et-dune-ancienne-gloire-dapple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/openai-chatgpt-1200x800-1-768x512.jpg?resize=200,200&key=a98e3a5e",
         "date": "Mon, 07 Apr 2025 23:00:00 GMT",
@@ -285,5 +285,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f529b438e448d0a4023ec8/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 08 Apr 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2025/04/08/ai-meets-the-mainframe-inside-ibms-bold-z17-bet/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f5ad8017ebca87124201ba/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 08 Apr 2025 23:00:00 GMT",
+        "check": "no"
     }
 ]
