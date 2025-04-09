@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Google paie des employés à ne rien faire, voici pourquoi",
+        "title": "Google paie des employ\u00e9s \u00e0 ne rien faire, voici pourquoi",
         "link": "https://www.frandroid.com/culture-tech/2574341_google-paie-des-employes-a-ne-rien-faire-voici-pourquoi",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/google-logo-fond-300x300.jpg?key=748fc29f",
         "date": "Mon, 07 Apr 2025 23:00:00 GMT",
@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Un smartphone sans écran et 100% ChatGPT : le drôle de projet d’OpenAI et d’une ancienne gloire d’Apple",
+        "title": "Un smartphone sans \u00e9cran et 100% ChatGPT : le dr\u00f4le de projet d\u2019OpenAI et d\u2019une ancienne gloire d\u2019Apple",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2574981_un-smartphone-sans-ecran-et-100-chatgpt-le-drole-de-projet-dopenai-et-dune-ancienne-gloire-dapple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/openai-chatgpt-1200x800-1-768x512.jpg?resize=200,200&key=a98e3a5e",
         "date": "Mon, 07 Apr 2025 23:00:00 GMT",
@@ -292,5 +292,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f58da09517cb368ce86e1d/0x0.jpg?format=jpg&crop=3449,1939,x0,y0,safe&width=440",
         "date": "Wed, 09 Apr 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/amazon/2575913_amazon-lance-nova-sonic-un-outil-qui-comprend-les-intonations-humaines",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/nova-sonic-amazon-1200x675-1-768x432.jpg?resize=169,169&key=f087b715",
+        "date": "Tue, 08 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/645357/amazon-nova-sonic-ai-conversational-voice-model-reel#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 08 Apr 2025 18:28:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/09/new-ai-model-lets-people-speak-using-only-their-thoughts/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f2fa23ce79ea36d3d11f69/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/09/openai-to-go--open-source-and-news-on-project-stargate-etc/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6740b62a018da0c5c84c62d2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 14:37:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/09/ai-is-dangerously-similar-to-your-mind/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f56cef458ad7522aa1c537/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 14:32:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/09/is-microsofts-straightforward-agent-story-enough-to-create-more-fans/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f68076cdf70c11e5a9837d/0x0.jpg?format=jpg&crop=2349,1321,x0,y0,safe&width=440",
+        "date": "Wed, 09 Apr 2025 14:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/04/09/5-chatgpt-prompts-to-stop-depending-on-others-and-trust-yourself-fully/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f629e5dadeb90d369176f4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
