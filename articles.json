@@ -299,5 +299,54 @@
         "image": "",
         "date": "Thu, 10 Apr 2025 08:43:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/26ud9N4TvdWwra8lXJd7KK2O2NlgIQHmShp5zbBz8Ao.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 09 Apr 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/10/why-300-companies-use-this-startups-ai-to-slash-costs/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f606f394d33080165c7989/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
+        "date": "Thu, 10 Apr 2025 09:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/konstantinebuhler/2025/04/10/ai-50-2025-ai-agents-move-beyond-chat/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f5ab69532f56efe98796ab/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 09:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/video/af63bbc6-c298-46af-8e92-b7f95c6fb60f/?ss=ai",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/af63bbc6-c298-46af-8e92-b7f95c6fb60f_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 01:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/video/2e684d50-5317-44c4-8994-b86658eb32cb/?ss=ai",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/2e684d50-5317-44c4-8994-b86658eb32cb_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/video/e970678e-4a80-4ced-af1e-6af6463e2327/?ss=ai",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/e970678e-4a80-4ced-af1e-6af6463e2327_thumb.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/video/972151c1-0813-4422-8d29-3da7a0eeb172/?ss=ai",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/972151c1-0813-4422-8d29-3da7a0eeb172_thumb.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
