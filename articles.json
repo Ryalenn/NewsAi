@@ -278,5 +278,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f69501ffe0b2e516e5c200/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Apr 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/646287/theyre-putting-a1-in-the-classrooms#comments",
+        "image": "",
+        "date": "Wed, 09 Apr 2025 22:34:58 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10601689/929774220.jpg.jpg?quality=90&strip=all&crop=0%2C2.3355576739752%2C100%2C95.32888465205&w=2400",
+        "date": "Wed, 09 Apr 2025 19:25:16 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 09 Apr 2025 18:59:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/645815/google-used-ai-to-enhance-the-wizard-of-oz-for-the-las-vegas-spheres-giant-screen#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/sphere_wizardofoz.jpg?quality=90&strip=all&crop=0%2C0.029815146094215%2C100%2C99.940369707812&w=2400",
+        "date": "Wed, 09 Apr 2025 14:46:17 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/traceyfollows/2025/04/09/evolving-leadership-in-the-age-of-ai-5-takeaways-for-2035/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f6e756be470caad2afbd20/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
