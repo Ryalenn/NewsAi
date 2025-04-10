@@ -1,5 +1,19 @@
 [
     {
+        "title": "La révolution de l'IA dans l'entreprise",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/10/why-300-companies-use-this-startups-ai-to-slash-costs/?ss=ai",
+        "body": "L'article présente l'histoire de May Habib, une entrepreneure libano-canadienne et de sa startup Writer, qui propose des outils d'IA pour automatiser les tâches fastidieuses en entreprise. Writer a évolué depuis ses débuts, proposant désormais une suite d'outils d'IA polyvalents appelée AI Studio, qui aide les entreprises à automatiser diverses tâches, telles que la rédaction de descriptions de produits, de réponses aux FAQ et de campagnes marketing. La startup a attiré 300 clients, dont de grandes entreprises, et a levé 320 millions de dollars, valorisant l'entreprise à 1,9 milliard de dollars. La clé de son succès réside dans sa capacité à offrir des solutions d'IA plug-and-play, faciles à utiliser et qui n'exigent pas de compétences en codage. Writer se distingue également par sa sécurité et sa fiabilité, en traitant les données des clients de manière sécurisée et en réduisant les hallucinations de l'IA. La startup se positionne ainsi comme un acteur clé du marché de l'IA en entreprise, estimé à 58 milliards de dollars, en concurrence avec des géants comme OpenAI et Anthropic. La vision de Habib et son équipe, ainsi que leur capacité à innover et à s'adapter, font de Writer une entreprise à surveiller dans le domaine de l'IA en entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f606f394d33080165c7989/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=440",
+        "date": "Thu, 10 Apr 2025 09:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des assistants aux moteurs d'action",
+        "link": "https://www.forbes.com/sites/konstantinebuhler/2025/04/10/ai-50-2025-ai-agents-move-beyond-chat/?ss=ai",
+        "body": "L'intelligence artificielle évolue, passant d'outils répondant à des questions ou générant du contenu à des technologies qui accomplissent réellement des tâches. La liste Forbes AI 50 de 2025 met en lumière ce changement crucial, avec des startups proposant des solutions d'IA capables de résoudre des problèmes et de gérer des flux de travail complets. Des entreprises comme Harvey, dans le domaine juridique, ou Sierra et Cursor, dans le service client et le développement logiciel, illustrent cette nouvelle génération d'IA. Bien que les robots ne soient pas encore largement déployés, des progrès significatifs ont été réalisés dans l'intégration de modèles d'IA avec du matériel informatique. Des entreprises comme Figure AI et Skild AI se démarquent dans ce domaine. Les consommateurs ont déjà accès à des chatbots avancés, mais on attend toujours une application grand public où l'IA accomplirait des tâches quotidiennes. Cela devrait changer en 2026, avec une vague attendue d'applications grand public basées sur l'IA. Les avancées technologiques et la prise de conscience de l'utilité de l'IA au travail devraient accélérer son adoption dans la vie quotidienne.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f5ab69532f56efe98796ab/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 09:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA dans la finance : des risques et des opportunités",
         "link": "https://www.theguardian.com/business/2025/apr/09/bank-of-england-says-ai-software-could-create-market-crisis-profit",
         "body": "Le rapport du Comité de politique financière de la Banque d'Angleterre met en garde contre les risques potentiels associés à l'utilisation croissante de l'intelligence artificielle (IA) dans le secteur financier, en particulier dans les domaines du trading à haute fréquence et de la prise de décision automatisée. Le rapport souligne que les modèles d'IA de plus en plus autonomes pourraient apprendre à exploiter les périodes de volatilité extrême pour augmenter les profits, ce qui pourrait conduire à une manipulation des marchés et à une collusion non intentionnelle. De plus, le rapport met en évidence le risque de \"poisoning data\", où les acteurs malveillants manipulent les modèles d'entraînement de l'IA, ainsi que la possibilité que les criminels utilisent l'IA pour contourner les contrôles des banques et financer le terrorisme et le blanchiment d'argent. Avec un nombre croissant d'entreprises financières s'appuyant sur les mêmes fournisseurs d'IA, une erreur unique dans ces modèles pourrait entraîner des risques importants et des pertes généralisées dans l'ensemble du secteur. Le rapport conclut que l'IA présente à la fois des opportunités et des défis pour le secteur financier, et que des mesures de régulation et de surveillance prudentes sont nécessaires pour gérer les risques associés à cette technologie en constante évolution.",
@@ -14,11 +28,39 @@
         "date": "Thu, 10 Apr 2025 05:00:00 GMT"
     },
     {
+        "title": "AI Labor Savings",
+        "link": "https://www.forbes.com/video/af63bbc6-c298-46af-8e92-b7f95c6fb60f/?ss=ai",
+        "body": "Les entreprises ont investi massivement dans l'IA dans l'espoir de futurs bénéfices importants. La startup Writer, âgée de cinq ans, leur permet d'économiser des millions de dollars en coûts de main-d'œuvre. La cofondatrice et PDG, May Habib, explique comment Writer a géré sa croissance rapide pour devenir l'une des entreprises d'IA les plus influentes au monde.",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/af63bbc6-c298-46af-8e92-b7f95c6fb60f_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 01:00:00 GMT"
+    },
+    {
+        "title": "La plus grande plateforme d'IA au monde",
+        "link": "https://www.forbes.com/video/2e684d50-5317-44c4-8994-b86658eb32cb/?ss=ai",
+        "body": "Crusoe Energy, co-fondée par Chase Lochmiller et Cully Cavness, a commencé par exploiter le gaz de torchère des champs pétrolifères pour miner des bitcoins. L'entreprise a récemment attiré l'attention en construisant la première phase du plus grand centre de données d'IA au monde, le Projet Stargate de 500 milliards de dollars, pour OpenAI et Oracle. L'entreprise utilise le gaz naturel qui serait autrement gaspillé pour alimenter ses opérations informatiques, offrant ainsi une solution durable pour l'industrie de l'IA à forte consommation d'énergie.",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/2e684d50-5317-44c4-8994-b86658eb32cb_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Apr 2025 00:00:00 GMT"
+    },
+    {
         "title": "Oups, la ministre !",
         "link": "https://www.theverge.com/news/646287/theyre-putting-a1-in-the-classrooms#comments",
         "body": "Lors d'une discussion sur l'intelligence artificielle dans le monde du travail, la secrétaire à l'Éducation, Linda McMahon, a prononcé \"AI\" (\"I.A.\" en français) comme \"A1\" (comme dans la sauce pour steak).",
         "image": "",
         "date": "Wed, 09 Apr 2025 22:34:58 GMT"
+    },
+    {
+        "title": "Mercor : l'IA au service du recrutement",
+        "link": "https://www.forbes.com/video/e970678e-4a80-4ced-af1e-6af6463e2327/?ss=ai",
+        "body": "Mercor est une jeune entreprise spécialisée dans l'IA qui révolutionne le processus de recrutement avec un nouveau modèle d'IA qu'elle affirme plus performant que les recruteurs humains pour mettre en relation les candidats avec les emplois adaptés. Brendan Foody, cofondateur et PDG, discute avec la journaliste de Forbes, Brittany Lewis, de son parcours entrepreneurial précoce et de ses ambitions avec ses cofondateurs. Il aborde également les défis et les opportunités de fonder une entreprise à un jeune âge.",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/e970678e-4a80-4ced-af1e-6af6463e2327_thumb.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 22:00:00 GMT"
+    },
+    {
+        "title": "L'éthique de l'IA et ses implications pour l'avenir",
+        "link": "https://www.forbes.com/video/972151c1-0813-4422-8d29-3da7a0eeb172/?ss=ai",
+        "body": "L'article aborde les questions éthiques complexes qui entourent le développement et le déploiement de l'IA. Il souligne l'importance de considérer l'IA comme un outil puissant qui doit être utilisé de manière responsable et éthique. Les discussions éthiques sont essentielles pour garantir que l'IA ne cause pas de préjudice et ne viole pas les droits humains. L'article met en évidence les risques potentiels de l'IA, tels que la violation de la vie privée, la discrimination et la perte d'emplois. Il souligne également la nécessité d'une réglementation et d'une surveillance efficaces pour garantir que l'IA soit développée et utilisée de manière responsable. L'article suggère que les professionnels de l'IA ont la responsabilité de s'assurer que leurs technologies respectent les normes éthiques et protègent les individus et la société dans son ensemble. Enfin, il encourage la collaboration entre les experts en IA, les décideurs politiques et le public pour façonner un avenir où l'IA est alignée sur les valeurs éthiques et bénéficie à la société.",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/09/972151c1-0813-4422-8d29-3da7a0eeb172_thumb.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Apr 2025 22:00:00 GMT"
     },
     {
         "title": "L'avenir de l'intelligence artificielle : une réflexion sur l'impact de l'IA sur l'humanité",
@@ -173,6 +215,13 @@
         "body": "Bien que l'IA n'ait pas d'opinions politiques, son utilisation dans la diffusion d'idées extrémistes et la radicalisation est un sujet de préoccupation croissant. L'article explore les allégations selon lesquelles l'IA promeut les croyances extrémistes et les agendas progressistes. Bien que la recherche suggère que l'IA peut refuser les demandes de génération d'images de droite et produire des images positives pour les points de discussion progressistes, d'autres études ont révélé un biais de droite dans les IA basée sur le LLM. L'IA peut amplifier les croyances extrêmes à travers l'effet de chambre d'écho algorithmique, mais elle ne peut pas influencer directement les croyances des individus. Les groupes terroristes utilisent l'IA pour créer et diffuser de la propagande, mais l'IA peut également aider à lutter contre ces menaces en détectant et en supprimant les contenus extrémistes. La compréhension de la désinformation et de ses sources est essentielle pour naviguer dans l'ère de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f581ac2f68626201618373/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Apr 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Adobe AI Agents",
+        "link": "https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions#comments",
+        "body": "Adobe développe des agents IA pour Photoshop et Premiere Pro, capables de suggérer et d'effectuer des modifications sur les photos et vidéos. L'IA de Photoshop, appelée « agent créatif », proposera des modifications contextuelles via un nouveau panneau Actions flottant. Les utilisateurs pourront, par exemple, supprimer les personnes en arrière-plan ou flouter l'arrière-plan pour accentuer la profondeur de champ. L'IA de Premiere Pro, quant à elle, s'appuiera sur la fonctionnalité Media Intelligence pour analyser les vidéos et aider à la réalisation de montages. Les utilisateurs pourront demander à l'agent IA de réaliser une ébauche de montage. Adobe prévoit également d'introduire une fonctionnalité de texte génératif pour aider à la réalisation de transitions. La technologie derrière ces agents IA sera présentée lors de l'événement Max à Londres le 24 avril.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/26ud9N4TvdWwra8lXJd7KK2O2NlgIQHmShp5zbBz8Ao.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 09 Apr 2025 00:00:00 GMT"
     },
     {
         "title": "Amazon lance Nova Sonic",
