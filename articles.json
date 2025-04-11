@@ -301,7 +301,7 @@
         "check": "yes"
     },
     {
-        "title": "Démo pipeauté, conflit interne et manque d’ambitions : le fiasco Siri raconté de l’intérieur",
+        "title": "D\u00e9mo pipeaut\u00e9, conflit interne et manque d\u2019ambitions : le fiasco Siri racont\u00e9 de l\u2019int\u00e9rieur",
         "link": "https://www.frandroid.com/marques/apple/2578559_demo-pipeaute-conflit-interne-et-manque-dambitions-le-fiasco-siri-raconte-de-linterieur",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/apple-intelligence-frandroid-p1066773-1200x800-1-768x512.jpg?resize=200,200&key=8da463bf",
         "date": "Thu, 10 Apr 2025 23:00:00 GMT",
@@ -320,5 +320,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f7fa46b63cfe077d3e1bb8/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 11 Apr 2025 05:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 09 Apr 2025 18:59:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/11/generative-ai-meets-psychobabble/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66d25c104c2df8217910b07e/0x0.jpg?format=jpg&crop=1288,965,x38,y0,safe&width=440",
+        "date": "Fri, 11 Apr 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/04/11/cooking-up-innovation-how-artificial-intelligence-is-transforming-food-service/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6782b9f97d91fdb44aa12913/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Apr 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
