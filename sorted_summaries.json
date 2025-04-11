@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir de l'IA dans les sciences de la vie : le cas d'Amgen",
+        "link": "https://www.forbes.com/sites/amyfeldman/2025/04/11/why-amgen-hired-an-ai-head-from-nike/?ss=ai",
+        "body": "Amgen, une entreprise de biotechnologie californienne, mise sur l'IA pour accélérer la découverte de médicaments et améliorer l'efficacité de ses opérations. L'entreprise a recruté Sean Bruich, ancien de Google, Facebook et Nike, pour diriger ses efforts en matière d'IA et de données. Bien que n'ayant pas de formation en biologie, Bruich apporte une expertise en matière de science des données et de technologies sous-jacentes, qui sont applicables à l'industrie biopharmaceutique. Le Dr David Reese, premier directeur technique d'Amgen, estime que l'IA a le potentiel de révolutionner l'industrie, en augmentant le taux de réussite de la découverte de médicaments et en réduisant les délais de commercialisation. Amgen utilise déjà l'IA pour explorer de nouveaux traitements à partir d'informations génétiques massives et prévoit de l'utiliser pour automatiser ses usines. L'article souligne que les entreprises de sciences de la vie sont généralement en retard dans l'adoption de l'IA par rapport aux entreprises technologiques ou de services financiers, mais qu'elles commencent à reconnaître son importance et à recruter des talents externes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ef4484cbad24fe9eec7a39/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Apr 2025 17:00:00 GMT"
+    },
+    {
+        "title": "La révolution des matériaux",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/04/11/the-prototype-scientists-turn-paper-into-plastic/?ss=ai",
+        "body": "Bien que seulement 9,5 % des plastiques fabriqués en 2022 soient issus de matériaux recyclés, une équipe de scientifiques japonais a développé un substitut au plastique à base de papier, clair et malléable, pouvant être utilisé pour les gobelets, les pailles et les emballages. Ce matériau est également biodégradable, se décomposant en environ un an même dans les profondeurs océaniques. Cette innovation pourrait remplacer idéalement les plastiques à usage unique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f919115f14518e806fd32a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Apr 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'IA, un enjeu de sécurité nationale",
+        "link": "https://www.forbes.com/sites/uttarasivaram/2025/04/11/us-ai-policy-pivots-sharply-from-safety-to-security/?ss=ai",
+        "body": "L'administration Trump a réorienté ses politiques en matière d'IA, passant des garde-fous de sécurité à une approche de défense nationale dans un contexte de concurrence mondiale croissante. L'accent mis sur l'éthique, la transparence et la prévisibilité de l'IA a cédé la place à une doctrine réaliste de sécurité de l'IA, qui considère que les adversaires de l'Amérique utiliseront inévitablement l'IA de manière malveillante. Si la sécurité de l'IA vise à protéger les actifs américains contre ces menaces, la sécurité de l'IA se concentre sur le développement d'une IA éthique et fiable, en particulier dans des contextes à hauts enjeux. Les propositions politiques récentes se concentrent sur les risques et les opportunités géopolitiques de l'IA, avec des suggestions de législation uniquement pour prévenir les catastrophes à grande échelle. La sécurité de l'IA et la sécurité de l'IA sont interdépendantes, et les interventions en matière de sécurité de l'IA ne fonctionneront pas si les systèmes peuvent être piratés, et la sécurisation des systèmes d'IA contre les menaces externes est inutile si ces systèmes sont intrinsèquement dangereux.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f294ec484750515b5d62d1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Apr 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'IA dans la mode, le commerce de détail et le gouvernement",
         "link": "https://www.forbes.com/sites/michaelashley/2025/04/11/this-week-in-ai-walmart-sets-fashion-trends-before-they-ever-happen/?ss=ai",
         "body": "Résumé : \n\nL'IA transforme les industries de la mode et du commerce de détail, en permettant de prédire les tendances de la mode et en améliorant l'efficacité de la chaîne d'approvisionnement. L'outil Trend-to-Product de Walmart utilise l'IA pour analyser les médias sociaux, les tendances de recherche et les données d'achat, prédisant ainsi les tendances de la mode et accélérant le processus de conception et de développement. De plus, le nouveau protocole Agent2Agent (A2A) de Google permet aux agents IA de différentes entreprises de communiquer et de collaborer, améliorant ainsi leur capacité à automatiser les tâches et à résoudre des problèmes complexes. Enfin, le gouvernement américain nomme des Chief AI Officers dans diverses agences pour moderniser les opérations et améliorer l'efficacité, soulignant ainsi l'importance croissante de l'IA dans la résolution des problèmes sociétaux et gouvernementaux.",
@@ -292,47 +313,5 @@
         "body": "L'article aborde les questions éthiques complexes entourant le développement et le déploiement de l'IA. Il souligne l'importance de la responsabilité et de la transparence dans la création d'algorithmes, en particulier dans des domaines sensibles tels que la justice pénale et la santé. L'auteur met en évidence les risques potentiels de préjugés et de discrimination si l'IA est mal utilisée ou mal contrôlée. Il est crucial que les professionnels de l'IA travaillent de manière responsable et éthique pour garantir que les technologies qu'ils développent améliorent la société sans causer de dommages. L'article plaide pour une réglementation et une surveillance attentives, ainsi que pour une collaboration entre les experts en éthique, les chercheurs en IA et les décideurs politiques pour façonner l'avenir de l'IA de manière responsable.",
         "image": "",
         "date": "Wed, 09 Apr 2025 18:49:25 GMT"
-    },
-    {
-        "title": "Veo 2 et les avancées de Google en matière d'IA audiovisuelle",
-        "link": "https://www.theverge.com/news/645906/you-can-now-give-googles-ai-video-model-camera-directions#comments",
-        "body": "Google améliore son modèle d'IA vidéo Veo 2 pour faciliter la création de vidéos cinématographiques et l'édition de vidéos réelles. Les nouvelles fonctionnalités incluent l'inpainting pour supprimer automatiquement les objets indésirables, l'outpainting pour étendre le cadre de la vidéo, et l'application de presets de styles cinématographiques. Veo 2 peut également interpoler des transitions vidéo entre deux images fixes. Ces fonctionnalités sont similaires à celles du modèle vidéo Firefly d'Adobe. Google ajoute également des filigranes numériques SynthID à ses sorties générées par l'IA. Le modèle text-to-image Imagen 3 a été mis à jour pour améliorer la suppression automatique des objets. Veo 2 et Imagen 3 sont déjà utilisés par des entreprises pour la production de contenu marketing, réduisant considérablement les délais. Sur le front audio, Google a présenté Lyria, un modèle text-to-music, et a amélioré Chirp 3, son modèle de synthèse vocale, pour la création de voix personnalisées à partir de seulement 10 secondes d'audio.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Veo-2-panning-shot-ai-label.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 09 Apr 2025 17:15:25 GMT"
-    },
-    {
-        "title": "Droit à l'image et à l'utilisation de l'IA",
-        "link": "https://www.theverge.com/news/645942/youtube-is-supporting-the-no-fakes-act-targeting-unauthorized-ai-replicas#comments",
-        "body": "Les sénateurs américains Chris Coons et Marsha Blackburn présentent à nouveau le projet de loi NO FAKES, qui vise à établir des règles sur l'utilisation de l'IA pour créer des copies de l'apparence, du nom ou de la voix d'une personne sans son consentement. Ce projet de loi, soutenu par YouTube, vise à donner le pouvoir aux individus de signaler les utilisations non autorisées de leur image par l'IA et à protéger l'innovation. YouTube étend également un programme pilote de « gestion de l'apparence » pour aider les célébrités et les créateurs à détecter et à supprimer les contenus générés par l'IA qui les représentent sans leur consentement. Le projet de loi NO FAKES aborde les préoccupations en matière de liberté d'expression et de limites de responsabilité, et est soutenu par des groupes tels que SAG-AFTRA et la Recording Industry Association. Cependant, il fait face à l'opposition de groupes de défense des libertés civiles, tels que l'Electronic Frontier Foundation, qui le considèrent comme trop large.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK092_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 09 Apr 2025 17:09:57 GMT"
-    },
-    {
-        "title": "Claude, votre collaborateur virtuel indispensable",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/645842/anthropic-launches-a-200-per-month-tier-for-power-users",
-        "body": "Anthropic lance un nouveau forfait premium, le \"Max Plan\", offrant un accès anticipé à de nouvelles fonctionnalités et des limites d'utilisation plus élevées. Le plan Max comprend deux options : un forfait à 100 $ par mois avec 5 fois plus d'utilisation que le forfait Pro, et un forfait à 200 $ par mois avec 20 fois plus d'utilisation. Ce nouveau forfait vise les professionnels qui intègrent profondément Claude à leurs flux de travail et qui atteignent les limites d'utilisation. Anthropic positionne le plan Max entre ses forfaits individuels et ses offres pour les entreprises, ciblant les professionnels qui utilisent Claude pour leurs besoins professionnels spécifiques. Le plan offre une plus grande flexibilité et permet une utilisation intensive tout au long de la journée. Cette annonce fait suite à la récente sortie de Claude 3.7 Sonnet, le modèle le plus avancé d'Anthropic à ce jour, qui, associé à de nouvelles fonctionnalités, devrait augmenter l'adoption et la demande d'utilisation. Le plan Max d'Anthropic est en concurrence directe avec l'offre à 200 $ par mois d'OpenAI. Les abonnés Max bénéficieront également d'un accès prioritaire aux nouvelles fonctionnalités.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 09 Apr 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Le futur de l'IA est maintenant",
-        "link": "https://www.forbes.com/sites/douglaslaney/2025/04/09/selling-ai-strategy-to-employees-shopify-ceos-manifesto/?ss=ai",
-        "body": "Un mémo interne de Shopify, qui a fuité, met en lumière la vision de son PDG, Tobias Lütke, sur le rôle essentiel de l'IA dans l'entreprise moderne. Lütke affirme que l'utilisation efficace de l'IA n'est plus une option, mais une attente fondamentale pour chaque employé, influençant ainsi la culture, les évaluations de performance et le développement de produits. Cette approche directe reflète la réalité que l'IA n'est plus une expérience, mais une nécessité pour rester compétitif. Les PDG doivent adapter leur style de leadership et traiter l'IA non pas comme une initiative isolée, mais comme un élément central de leur stratégie. Les entreprises qui réussiront dans cette nouvelle ère seront celles qui intègrent l'IA dans leur modèle opérationnel de base, créant ainsi une culture où l'IA fait partie intégrante de chaque projet et décision.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f69501ffe0b2e516e5c200/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Apr 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Course à l'IA",
-        "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/09/europes-ai-continent-action-plan-gigafactories-data-labs-and-green-ai/?ss=ai",
-        "body": "L'Union européenne lance une initiative ambitieuse pour s'affirmer dans la course mondiale à l'IA. La Commission européenne dévoile son plan d'action « AI Continent Action Plan», visant à réduire l'écart technologique avec les États-Unis et la Chine. L'UE prévoit de développer un réseau de « gigafactories » d'IA, équipées de 100 000 puces IA avancées chacune. Un financement de 200 milliards d'euros est engagé, dont un fonds dédié de 20 milliards pour les gigafactories. Cependant, ces efforts semblent limités en comparaison des projets des concurrents mondiaux, comme l'initiative Stargate de Microsoft, OpenAI et Nvidia. L'UE fait face à des défis en termes d'accès aux données et de complexité réglementaire, mais prévoit des partenariats public-privé et une législation pour stimuler le développement de l'IA. Le plan d'action souligne également l'importance de la durabilité environnementale des centres de données, avec un objectif de neutralité carbone d'ici 2030. Malgré les obstacles, l'UE affirme que la course à l'IA est loin d'être terminée et entend faire de l'Europe un leader dans ce domaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f69d3e59365c71162c43b9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Apr 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la créativité est là",
-        "link": "https://www.forbes.com/sites/marksparrow/2025/04/09/adobe-reveals-new-agentic-ai-system-of-helpers-and-aids-for-its-software/?ss=ai",
-        "body": "Adobe dévoile sa vision de l'IA agentique, une technologie capable de converser, d'agir et de résoudre des problèmes complexes au sein de ses logiciels. L'entreprise met en avant le fait que l'IA est la plus utile lorsqu'elle donne plus de contrôle aux utilisateurs et leur permet de se concentrer sur la création, l'analyse ou la collaboration. L'IA agentique d'Adobe, développée sur sa plateforme IA Firefly, assistera les utilisateurs dans diverses tâches, de l'analyse d'images à la création de contenu visuel en passant par l'analyse de documents complexes. L'entreprise prévoit également d'intégrer l'IA agentique à son logiciel phare Creative Cloud, permettant ainsi aux utilisateurs de déléguer des tâches fastidieuses et de se concentrer sur des travaux créatifs plus productifs. L'IA agentique d'Adobe a pour but d'amplifier la créativité humaine et de la rendre plus accessible, tout en laissant le contrôle final à l'utilisateur.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f68ab3baf7ff3e38d7423c/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Apr 2025 16:00:00 GMT"
     }
 ]
