@@ -82,33 +82,5 @@
         "body": "Résumé : \n\nDans cet épisode du Vergecast, l'équipe explore le chaos provoqué par les politiques tarifaires changeantes de l'administration Trump, qui affectent les grandes et petites entreprises technologiques. Ils discutent également des dernières nouvelles dans le domaine de l'IA, y compris la tricherie de Meta avec les benchmarks de l'IA, les problèmes de Siri, le projet hardware Altman-Ive et la nouvelle politique axée sur l'IA du PDG de Shopify. Dans la partie éclair, ils abordent la possible interdiction de TikTok, l'application iPad d'Instagram et le Google Pixel 9A.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VST_0411_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Fri, 11 Apr 2025 12:52:57 GMT"
-    },
-    {
-        "title": "L'IA dans la mode, le commerce de détail et le gouvernement",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/04/11/this-week-in-ai-walmart-sets-fashion-trends-before-they-ever-happen/?ss=ai",
-        "body": "Résumé : \n\nL'IA transforme les industries de la mode et du commerce de détail, en permettant de prédire les tendances de la mode et en améliorant l'efficacité de la chaîne d'approvisionnement. L'outil Trend-to-Product de Walmart utilise l'IA pour analyser les médias sociaux, les tendances de recherche et les données d'achat, prédisant ainsi les tendances de la mode et accélérant le processus de conception et de développement. De plus, le nouveau protocole Agent2Agent (A2A) de Google permet aux agents IA de différentes entreprises de communiquer et de collaborer, améliorant ainsi leur capacité à automatiser les tâches et à résoudre des problèmes complexes. Enfin, le gouvernement américain nomme des Chief AI Officers dans diverses agences pour moderniser les opérations et améliorer l'efficacité, soulignant ainsi l'importance croissante de l'IA dans la résolution des problèmes sociétaux et gouvernementaux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f80dec8bd5c1500b30046e/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 11 Apr 2025 12:15:00 GMT"
-    },
-    {
-        "title": "La Magie de l'IA",
-        "link": "https://www.theverge.com/2022/6/6/23156318/artificial-intelligence-nate-app-ecommerce-go-read-this",
-        "body": "La startup Nate, qui se présente comme une entreprise de technologie de l'IA, propose une application qui automatise les achats en ligne en remplissant automatiquement les informations de paiement et d'adresse des utilisateurs. Cependant, selon une enquête de The Information, une grande partie des transactions de Nate étaient en réalité traitées manuellement par des travailleurs aux Philippines, remettant en question la nature « hautement technologique » de son service. Bien que Nate ait levé 50 millions de dollars auprès de capital-risqueurs, son modèle économique et sa technologie ont été remis en question, notamment en raison de problèmes avec les bloqueurs de bots sur les sites de vente au détail, ce qui a entraîné des retards dans le traitement des commandes. La startup a également fait face à des problèmes de fraude lorsque les utilisateurs ont exploité son système de promotions. Cet article soulève des questions sur l'éthique de la présentation de l'IA et sur les défis auxquels sont confrontées les startups de commerce électronique dans le contexte de l'évolution du marché et des attentes des investisseurs.",
-        "image": "",
-        "date": "Fri, 11 Apr 2025 12:14:12 GMT"
-    },
-    {
-        "title": "Gemini Live et les mises à jour de Google et Samsung",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/11/googles-surprise-pixel-upgrade-free-ai-features-but-theres-a-catch/?ss=ai",
-        "body": "Google a annoncé une mise à niveau AI significative et gratuite pour les propriétaires de Pixel 9, avec de nouvelles fonctionnalités de partage d'écran et de voix pour l'application Gemini Live. Cette mise à jour, appelée \"Pixel Drop\", est une surprise, mais elle ne concerne que la série Pixel 9. Les fonctionnalités étaient auparavant disponibles uniquement pour les abonnés payants de Gemini Advanced. Cette mise à jour est probablement liée au lancement imminent du Pixel 9a, une version moins chère du Pixel 9, qui pourra ainsi bénéficier des meilleures fonctionnalités d'IA de Google sans abonnement supplémentaire. Samsung a également annoncé un déploiement similaire de Gemini Live pour les appareils Galaxy S25, avec une éventuelle expansion vers d'autres appareils. Ces mises à jour améliorent les capacités de conversation en temps réel des smartphones et leur capacité à fournir des informations sur le monde qui les entoure.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f54691f5ae3b1c0679fcb2/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 11 Apr 2025 10:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT se souvient",
-        "link": "https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade#comments",
-        "body": "OpenAI offre une mise à niveau de la mémoire à long terme pour ChatGPT, lui permettant de se rappeler des conversations passées sans demande explicite de l'utilisateur. La fonctionnalité \"Mémoire\" introduite l'année dernière était limitée à la conservation de requêtes, de prompts et de personnalisations. Désormais, ChatGPT peut également se référer à l'historique des discussions pour améliorer ses réponses futures. La mise à jour sera disponible pour les abonnés payants et pour les utilisateurs Team, Enterprise et Edu, mais pas pour les utilisateurs gratuits. La mémoire est facultative et peut être désactivée dans les paramètres de personnalisation. Cette mise à niveau suit une initiative similaire de Google pour son AI Gemini.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 11 Apr 2025 09:43:09 GMT"
     }
 ]
