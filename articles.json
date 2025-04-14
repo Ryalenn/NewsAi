@@ -54,5 +54,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67fc758189a377a9ef2f65b5/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Apr 2025 02:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/14/amazon-unleashes-new-ai-agents-ready-to-take-over-your-daily-tasks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc9c28efc8917781719f43/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 05:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/04/14/google-unveils-the-most-comprehensive-agent-strategy-at-cloud-next-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc8fa22f3be220e13cca55/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 04:00:00 GMT",
+        "check": "no"
     }
 ]
