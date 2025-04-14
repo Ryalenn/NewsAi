@@ -33,5 +33,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67fbc57c647c17cbe5548fbf/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 13 Apr 2025 14:30:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/13/beyond-the-llama-drama-4-new-benchmarks-for-large-language-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc4dfcdd9411f51503004c/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 13 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2025/04/13/joseph-stiglitz-warns-of-the-looming-inequality-amid-ai-monopoly-power/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc2c3aadc3a3f52f54e542/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 13 Apr 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
