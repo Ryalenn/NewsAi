@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "« Beaucoup de bonnes choses » arrivent sur ChatGPT cette semaine : voici à quoi s’attendre",
+        "title": "\u00ab Beaucoup de bonnes choses \u00bb arrivent sur ChatGPT cette semaine : voici \u00e0 quoi s\u2019attendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580397_beaucoup-de-bonnes-choses-arrivent-sur-chatgpt-cette-semaine-voici-a-quoi-sattendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=47ae0298",
         "date": "Sun, 13 Apr 2025 23:00:00 GMT",
@@ -96,5 +96,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f732d578f430593118add0/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Apr 2025 12:15:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/andrewfilev/2025/04/14/the-ai-economy-paradox-when-20-no-longer-buys-200-worth-of-intelligence/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc196efb49c038257d8356/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 14:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/04/14/3-ways-generative-ai-amplifies-entrepreneurs-beware-of-averages/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f94fe37191253f5cbc024d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 14:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/14/the-60-problem---how-ai-search-is-draining-your-traffic/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fd191422a8cec0a894a172/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 14:46:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/04/14/rethinking-threat-detection-in-a-decentralized-world/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fd19c38e06a119485251c2/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 14:25:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/14/three-aspects-of-intellectual-property-with-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fd16d3840e88a5681239c2/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Apr 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
