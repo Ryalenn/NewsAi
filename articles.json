@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "« Beaucoup de bonnes choses » arrivent sur ChatGPT cette semaine : voici à quoi s’attendre",
+        "title": "\u00ab Beaucoup de bonnes choses \u00bb arrivent sur ChatGPT cette semaine : voici \u00e0 quoi s\u2019attendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580397_beaucoup-de-bonnes-choses-arrivent-sur-chatgpt-cette-semaine-voici-a-quoi-sattendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=47ae0298",
         "date": "Sun, 13 Apr 2025 23:00:00 GMT",
@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "Maintenant, ChatGPT se souvient de « toutes vos conversations passées » : ce que ça change",
+        "title": "Maintenant, ChatGPT se souvient de \u00ab toutes vos conversations pass\u00e9es \u00bb : ce que \u00e7a change",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580517_maintenant-chatgpt-se-souvient-de-toutes-vos-conversations-passees-ce-que-ca-change",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=17654235",
         "date": "Sun, 13 Apr 2025 23:00:00 GMT",
@@ -231,7 +231,7 @@
         "check": "yes"
     },
     {
-        "title": "Gemini arrivera aussi sur votre montre connectée grâce à ce simple tour de passe-passe",
+        "title": "Gemini arrivera aussi sur votre montre connect\u00e9e gr\u00e2ce \u00e0 ce simple tour de passe-passe",
         "link": "https://www.frandroid.com/marques/google/2581893_gemini-arrivera-aussi-sur-votre-montre-connectee-grace-a-ce-simple-tour-de-passe-passe",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/google-pixel-watch-2-test-frandroid-21-1200x800-1-768x512.jpg?resize=200,200&key=0f9571f2",
         "date": "Mon, 14 Apr 2025 23:00:00 GMT",
@@ -243,5 +243,47 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/z-8-1200x675-1-768x432.jpg?resize=169,169&key=589a932d",
         "date": "Mon, 14 Apr 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/nvidia/2582287_nvidia-depense-500-milliards-de-dollars-pour-des-usines-dediees-a-lia-aux-etats-unis",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/nvidia-ceo-jensen-huang-keynote-at-ces-2025-55-44-screenshot-1-1200x675-1-768x432.jpg?resize=169,169&key=5b4b28dc",
+        "date": "Mon, 14 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/google/2581791_google-photos-gemini-arrive-pour-simplifier-la-gestion-de-vos-photos",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/design-sans-titre-59-1200x675-1-768x432.jpg?resize=169,169&key=23a2c212",
+        "date": "Mon, 14 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/survoltes/energie/2582035_malgre-son-effrayante-consommation-delectricite-comment-lia-pourrait-diminuer-le-rechauffement-climatique",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/ovh-datacenter-roubaix-2-1200x798-1-768x511.jpg?resize=200,200&key=a03245f7",
+        "date": "Mon, 14 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.prnewswire.com/news-releases/nvidia-ceo-jensen-huang-will-deliver-first-keynote-at-computex-2025-sharing-latest-ai-advancements-and-breakthroughs-302398053.html",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Nvidia-computex-2025.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 08:44:33 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://9to5google.com/2025/04/14/gemini-app-google-photos-android/",
+        "image": "",
+        "date": "Tue, 15 Apr 2025 08:19:06 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/04/15/graduate-smart-career-advice-for-the-ai-era/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f97d5d73b5aa6f3bbc4964/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Apr 2025 12:14:00 GMT",
+        "check": "no"
     }
 ]
