@@ -42,6 +42,13 @@
         "date": "Tue, 15 Apr 2025 05:40:00 GMT"
     },
     {
+        "title": "La bataille de la génération de vidéos par IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2582213_on-a-genere-5-videos-avec-lia-de-google-est-ce-que-gemini-rattrape-chatgpt",
+        "body": "Google annonce une nouvelle fonctionnalité sur Gemini : la génération de vidéos par IA. Le modèle de langage Veo 2, désormais accessible via l'abonnement Gemini Advanced, permet de créer des clips vidéo en HD de 8 secondes à partir d'un prompt écrit. Bien que l'IA ne respecte pas toujours la requête à la lettre, le réalisme des vidéos est impressionnant, même si des améliorations sont encore nécessaires. L'IA se heurte à des difficultés lorsque la requête est complexe ou implique des interactions humaines complexes, comme les mouvements des mains. La fonctionnalité est limitée à un certain nombre de vidéos par mois et nécessite un abonnement Google One AI Premium à 21,99 euros/mois.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
+        "date": "Mon, 14 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Crunchyroll et l'IA : un pas en avant, deux pas en arrière",
         "link": "https://www.frandroid.com/services/2582183_crunchyroll-fait-marche-arriere-sur-lutilisation-de-lia",
         "body": "Le PDG de Crunchyroll, Rahul Purini, a récemment nuancé sa position sur l'utilisation de l'IA dans l'entreprise. S'il envisageait auparavant d'utiliser l'IA pour améliorer des processus créatifs comme le sous-titrage, il a désormais déclaré ne pas vouloir l'employer dans le secteur créatif, y compris pour le doublage. Purini soutient les professionnels de la création et considère les doubleurs comme des créateurs à part entière. Il prévoit néanmoins d'utiliser l'IA pour améliorer la découverte de contenu, les recommandations et la personnalisation sur l'interface de Crunchyroll.",
@@ -112,6 +119,13 @@
         "date": "Mon, 14 Apr 2025 21:00:00 GMT"
     },
     {
+        "title": "Apple's New AI Training Method",
+        "link": "https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy#comments",
+        "body": "Apple a présenté une nouvelle méthode d'entraînement de l'IA qui compare des données synthétiques à des échantillons du monde réel, tout en préservant la confidentialité des données des utilisateurs. Les appareils Apple compareront un ensemble de données synthétiques à des échantillons de courriels ou de messages récents d'utilisateurs ayant adhéré au programme Device Analytics. Les appareils détermineront les entrées synthétiques les plus proches de la réalité et enverront un signal à Apple, sans transmettre les données réelles. Apple utilisera ces informations pour améliorer ses sorties de texte IA, telles que les résumés de courriels. Cette approche préserve la vie privée des utilisateurs tout en améliorant l'utilité des réponses de l'IA. Apple introduit ce système dans des versions bêta d'iOS, iPadOS et macOS, cherchant à améliorer ses fonctionnalités d'intelligence artificielle. La société utilise également la confidentialité différentielle pour préserver l'anonymat des données.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Apr 2025 20:37:35 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : repenser l'impact sur l'humain",
         "link": "https://www.forbes.com/sites/traceyfollows/2025/04/14/mit-media-lab-to-put-human-flourishing-at-the-heart-of-ai-rd/?ss=ai",
         "body": "Alors que l'intelligence artificielle (IA) progresse rapidement, l'industrie se précipite vers l'intelligence artificielle générale (AGI), mais qu'en est-il de l'impact sur les humains ? Un récent rapport de l'Elon University a révélé que les experts sont préoccupés par le fait que l'adoption croissante de l'IA pourrait affecter négativement la façon dont les humains pensent, ressentent et interagissent. Le MIT Media Lab répond à cette préoccupation avec son programme Advancing Humans with AI (AHA), qui vise à soutenir l'épanouissement humain grâce à l'IA. Le symposium de lancement, avec des intervenants tels qu'Arianna Huffington et Tristan Harris, a souligné la nécessité de concevoir l'IA pour cultiver la sagesse, la résilience et la réflexion, plutôt que de se concentrer uniquement sur l'efficacité. L'initiative AHA du MIT se concentre sur les résultats humains à long terme, avec des domaines de recherche tels que la vie intérieure, sociale, vocationnelle, cérébrale et créative. L'objectif est de comprendre systématiquement comment l'IA remodèle la vie humaine et de concevoir l'IA pour atténuer les impacts négatifs. Le message clé est que nous devons mesurer le bien-être humain, pas juste la performance des machines. Alors que l'IA s'immisce dans tous les aspects de notre vie, des choix éclairés doivent être faits pour garantir un impact positif sur l'expérience humaine.",
@@ -138,6 +152,13 @@
         "body": "Résumé : \n\nL'intégration croissante de l'IA dans les opérations des organisations soulève un défi critique : comment sécuriser quelque chose d'aussi dynamique, autonome et complexe que l'IA ? Tout comme l'informatique en nuage a nécessité une évolution vers des outils de sécurité natifs du cloud, l'IA exige désormais une nouvelle génération de solutions de sécurité conçues spécifiquement pour répondre à ses besoins uniques. Les outils de sécurité traditionnels, conçus pour des environnements statiques, ne peuvent pas suivre le rythme des changements rapides des systèmes IA. Les outils de sécurité natifs de l'IA doivent être en mesure de surveiller les activités spécifiques à l'IA, offrant ainsi une visibilité sur les flux de données et les sorties de l'IA tout en fournissant un contrôle granulaire. Ces outils doivent tenir compte du comportement de l'IA, en comprenant son fonctionnement, les données qu'elle traite et l'utilisation de ses sorties. L'évolution vers des solutions de sécurité natives de l'IA est déjà en cours, avec des entreprises comme Aurascape qui proposent des plateformes de contrôle des activités IA pour aider les organisations à relever ces défis. L'adoption de solutions de sécurité natives de l'IA est essentielle pour permettre aux entreprises d'exploiter pleinement le potentiel de l'IA tout en protégeant leurs actifs intellectuels et leurs données sensibles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66707495913b45d0141a61fb/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Apr 2025 17:43:00 GMT"
+    },
+    {
+        "title": "ChatGPT lance un nouveau modèle d'IA multimodale, tandis qu'OpenAI repousse le lancement de GPT-5",
+        "link": "https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability",
+        "body": "OpenAI présente GPT-4.1, successeur de GPT-4o, avec une fenêtre de contexte plus large et de meilleures capacités de codage et de suivi des instructions. Trois modèles sont disponibles : GPT-4.1, GPT-4.1 Mini et GPT-4.1 Nano, ce dernier étant le modèle le plus léger, rapide et économique d'OpenAI à ce jour. Tous peuvent traiter jusqu'à un million de jetons de contexte, une amélioration significative par rapport à la limite de 128 000 jetons de GPT-4o. GPT-4.1 est également 26 % moins cher que son prédécesseur. Ce lancement survient alors qu'OpenAI prévoit de mettre fin à son modèle GPT-4 et à la prévisualisation de GPT-4.5, les remplaçant par GPT-4.1 et GPT-4o, ce dernier ayant été mis à jour avec de nouvelles capacités de génération d'images. Le PDG d'OpenAI, Sam Altman, a annoncé un retard dans le lancement de GPT-5, citant des difficultés d'intégration. L'entreprise s'apprête également à lancer la version complète de son modèle de raisonnement o3 et un modèle o4 mini.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Apr 2025 17:42:38 GMT"
     },
     {
         "title": "ChatGPT Pro",
