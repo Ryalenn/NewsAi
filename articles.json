@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "« Beaucoup de bonnes choses » arrivent sur ChatGPT cette semaine : voici à quoi s’attendre",
+        "title": "\u00ab Beaucoup de bonnes choses \u00bb arrivent sur ChatGPT cette semaine : voici \u00e0 quoi s\u2019attendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580397_beaucoup-de-bonnes-choses-arrivent-sur-chatgpt-cette-semaine-voici-a-quoi-sattendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=47ae0298",
         "date": "Sun, 13 Apr 2025 23:00:00 GMT",
@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Maintenant, ChatGPT se souvient de « toutes vos conversations passées » : ce que ça change",
+        "title": "Maintenant, ChatGPT se souvient de \u00ab toutes vos conversations pass\u00e9es \u00bb : ce que \u00e7a change",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580517_maintenant-chatgpt-se-souvient-de-toutes-vos-conversations-passees-ce-que-ca-change",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=17654235",
         "date": "Sun, 13 Apr 2025 23:00:00 GMT",
@@ -187,5 +187,61 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67eed754b0fa8ca0d2bf14b2/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Apr 2025 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://x.com/sama/status/1911906570835022319",
+        "image": "",
+        "date": "Mon, 14 Apr 2025 22:47:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/648117/google-made-an-ai-model-to-help-decipher-dolphinspeak#comments",
+        "image": "",
+        "date": "Mon, 14 Apr 2025 18:03:25 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/648128/meta-training-ai-eu-user-data#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Apr 2025 16:30:15 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-14-at-11.05.04%E2%80%AFAM.png?quality=90&strip=all&crop=0,0,100,100",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-14-at-11.05.04%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Apr 2025 15:36:08 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/646458/openai-gpt-4-1-ai-model",
+        "image": "",
+        "date": "Mon, 14 Apr 2025 15:28:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://cloud.google.com/blog/products/ai-machine-learning/expanding-generative-media-for-enterprise-on-vertex-ai",
+        "image": "",
+        "date": "Mon, 14 Apr 2025 13:21:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/15/5-powerful-ai-prompts-that-can-boost-any-business-idea/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fdf1ea9287fd60b23f7fca/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Apr 2025 05:44:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/04/15/openai-shifts-focus-with-gpt-41-prioritizes-coding-and-cost-efficiency/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67fdf07e81c35e14c94625e9/0x0.png?format=png&width=440",
+        "date": "Tue, 15 Apr 2025 05:40:00 GMT",
+        "check": "no"
     }
 ]
