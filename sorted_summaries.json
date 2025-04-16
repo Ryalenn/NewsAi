@@ -35,6 +35,13 @@
         "date": "Tue, 15 Apr 2025 22:28:27 GMT"
     },
     {
+        "title": "ChatGPT Image Library",
+        "link": "https://www.theverge.com/news/649247/chatgpt-image-library",
+        "body": "OpenAI introduit une bibliothèque d'images pour ChatGPT, facilitant ainsi l'accès aux images générées par l'IA pour tous les utilisateurs gratuits, Plus et Pro sur mobile et web. La bibliothèque, accessible via une nouvelle section \"Library\" dans le volet ChatGPT, permet d'afficher une grille des images créées. La fonctionnalité est déjà disponible dans l'application iOS de ChatGPT et devrait l'être bientôt sur le web. Cette mise à jour semble particulièrement utile pour ceux qui utilisent fréquemment ChatGPT pour créer des images ou pour ceux qui souhaitent revisiter leurs créations inspirées par Studio Ghibli ou d'autres styles artistiques.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 21:42:29 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : deux philosophies en concurrence",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/04/15/effective-accelerationism-or-prosocial-ai-what-is-the-future-of-ai/?ss=ai",
         "body": "Résumé : \n\nDeux philosophies concurrentes, l'Effective Accelerationism (e/acc) et l'IA prosociale, façonnent l'avenir de l'IA. L'e/acc, émergeant en 2022, prône un progrès technologique rapide et sans entrave, considérant la technologie comme une force inévitable et libératrice. Les partisans de l'e/acc croient en la puissance du libre marché, en l'innovation pour créer de l'abondance et en l'opportunité que représente l'IA avancée. De l'autre côté, l'IA prosociale place le bien-être humain et planétaire au cœur de son développement, cherchant à aligner les systèmes d'IA avec nos valeurs les plus élevées. Elle souligne l'importance de l'agence humaine, de la responsabilité éthique et de la sécurité avant la rapidité. Ces cadres concurrents mènent à des approches fondamentalement différentes du développement de l'IA, avec des implications pour les priorités des entreprises, les choix de talents, les politiques et l'éducation. La voie la plus prometteuse intègre probablement les deux perspectives, conciliant le dynamisme technologique avec le bien-être humain et planétaire. La clé réside dans l'alignement de nos propres comportements avec les valeurs que nous voulons voir reflétées dans l'IA.",
@@ -348,12 +355,5 @@
         "body": "Google ajoute Lyria, un modèle texte-vers-musique, à Vertex AI, faisant de la plateforme la seule à proposer des modèles de médias génératifs pour la vidéo, l'image, la parole et la musique. Lyria permet de créer rapidement des bandes sonores sur mesure, améliorant ainsi l'expérience de la marque et rationalisant la création de contenu. De plus, Veo 2, le modèle de génération vidéo de Google, propose de nouvelles fonctionnalités de contrôle de la caméra et de l'édition, tandis que Chirp 3 introduit la création instantanée de voix personnalisées et la transcription avec séparation des locuteurs. Imagen 3, le modèle texte-image de Google, a également été amélioré pour une meilleure génération et retouche d'images. Ces modèles sont conçus avec des fonctionnalités de sécurité et de responsabilité intégrées, y compris la filigrane numérique, les filtres de sécurité et la gouvernance des données.",
         "image": "",
         "date": "Mon, 14 Apr 2025 13:21:28 GMT"
-    },
-    {
-        "title": "Robotaxis en Chine",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/04/14/chinese-robotaxis-have-government-black-boxes-approach-us-quality/?ss=ai",
-        "body": "Le développement des robotaxis est en plein essor en Chine, avec quatre acteurs principaux, dont Baidu, qui domine le marché. Les réglementations chinoises sont strictes et exigent l'approbation des autorités à tous les niveaux d'opération, avec une surveillance à distance à temps plein ou partielle. Les véhicules doivent également enregistrer les interventions des opérateurs de sécurité dans un système de \"boîte noire\". Les impressions des utilisateurs suggèrent que la qualité du service varie, avec Waymo en tête, suivi de Baidu (6e génération), WeRide, Pony.AI et Cruise. Les \"fonctionnalités de confort\" comme les sièges massants et les échanges de batteries pourraient devenir des facteurs de différenciation importants sur le marché compétitif des robotaxis.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f732d578f430593118add0/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 14 Apr 2025 12:15:00 GMT"
     }
 ]
