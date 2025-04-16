@@ -1,5 +1,19 @@
 [
     {
+        "title": "La montée de l'IA dans la programmation",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/15/three-of-the-best-vibe-coders-break-down-this-ai-revolution-in-code/?ss=ai",
+        "body": "L'article met en lumière l'évolution rapide du rôle de l'IA dans la programmation, avec des entreprises signalant une augmentation rapide de la proportion de leur code écrit par l'IA. Il présente trois innovateurs qui ont une influence significative dans ce domaine : un ancien membre d'OpenAI, Riley Brown, et Tom Preston-Werner. Leur travail et leurs citations mettent en évidence l'importance croissante de l'IA dans la programmation, avec des termes comme \"vibe coding\" et \"prompters\" décrivant le processus de fourniture de suggestions à l'IA pour créer du code. La citation de Karpathy, \"L'anglais est le nouveau langage de programmation le plus populaire\", résume bien cette idée. L'article comprend également des réflexions profondes de Karpathy sur la nature unique des LLM et leur impact sur la société, soulignant comment ils renversent la tendance habituelle des technologies \"top-down\".",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ff0bc7df19bafa6dc29047/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Apr 2025 01:47:00 GMT"
+    },
+    {
+        "title": "L'avenir du cinéma avec l'IA",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/04/15/runway-ais-gen-4-how-can-ai-montage-go-beyond-absurdity/?ss=ai",
+        "body": "L'IA fait des progrès significatifs dans l'industrie cinématographique, avec la sortie de Runway AI's Gen-4 et l'adoption croissante de l'IA par les grandes sociétés de production. Bien que l'IA excelle dans la création de moments visuels impressionnants, le défi consiste à raconter des histoires cohérentes et significatives. Les applications actuelles de l'IA dans le cinéma incluent la pré-visualisation de scènes et la création de publicités. Fabula, Lionsgate et des réalisateurs comme Harmony Korine expérimentent déjà l'IA dans leurs productions. Les progrès technologiques de l'IA, tels que la cohérence des personnages et la fidélité visuelle, sont impressionnants, mais la narration cohérente reste un défi. Les films IA risquent de se concentrer sur les effets visuels plutôt que sur les messages profonds. Les générateurs de vidéos IA, tels que Sora, Kling, Runway et Pika, présentent des erreurs de continuité, des défis physiques et une narration décousue. Le film AI de Jia Zhangke critique l'avenir de la société dépendante de la technologie et de l'automatisation. Les cinéastes devraient se concentrer sur les nuances des émotions humaines et la complexité de la nature humaine, que les machines ne peuvent pas reproduire. L'IA changera inévitablement le cinéma, mais les cinéastes doivent l'exploiter pour raconter des histoires significatives.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67feee216aba0e9cb4b39681/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : deux philosophies en concurrence",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/04/15/effective-accelerationism-or-prosocial-ai-what-is-the-future-of-ai/?ss=ai",
         "body": "Résumé : \n\nDeux philosophies concurrentes, l'Effective Accelerationism (e/acc) et l'IA prosociale, façonnent l'avenir de l'IA. L'e/acc, émergeant en 2022, prône un progrès technologique rapide et sans entrave, considérant la technologie comme une force inévitable et libératrice. Les partisans de l'e/acc croient en la puissance du libre marché, en l'innovation pour créer de l'abondance et en l'opportunité que représente l'IA avancée. De l'autre côté, l'IA prosociale place le bien-être humain et planétaire au cœur de son développement, cherchant à aligner les systèmes d'IA avec nos valeurs les plus élevées. Elle souligne l'importance de l'agence humaine, de la responsabilité éthique et de la sécurité avant la rapidité. Ces cadres concurrents mènent à des approches fondamentalement différentes du développement de l'IA, avec des implications pour les priorités des entreprises, les choix de talents, les politiques et l'éducation. La voie la plus prometteuse intègre probablement les deux perspectives, conciliant le dynamisme technologique avec le bien-être humain et planétaire. La clé réside dans l'alignement de nos propres comportements avec les valeurs que nous voulons voir reflétées dans l'IA.",
@@ -28,11 +42,32 @@
         "date": "Tue, 15 Apr 2025 19:00:00 GMT"
     },
     {
+        "title": "Anthropic's Voice Mode",
+        "link": "https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report#comments",
+        "body": "Anthropic, un concurrent majeur d'OpenAI, prévoit de lancer un nouveau mode vocal pour son chatbot AI Claude, offrant trois options de voix en anglais : Airy, Mellow et Buttery. Cette fonctionnalité, qui devrait être déployée dès ce mois-ci, a été révélée par Bloomberg et confirmée par des références trouvées dans le code de l'application iOS d'Anthropic. Fondée par d'anciens employés d'OpenAI, Anthropic a récemment introduit un abonnement de 200 $ par mois pour les utilisateurs avancés et annoncé un nouvel outil d'IA axé sur la recherche.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK269_ANTHROPIC_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 18:46:35 GMT"
+    },
+    {
+        "title": "Veo 2 et Whisk Animate",
+        "link": "https://www.theverge.com/news/648816/google-veo-2-ai-video-generation-gemini-advanced",
+        "body": "Google offre aux abonnés de Gemini Advanced un accès anticipé à Veo 2, son modèle IA de texte à vidéo, capable de créer des clips haute résolution avec un réalisme cinématographique. Veo 2 est désormais disponible sur le web et les appareils mobiles pour les abonnés, qui peuvent générer des vidéos de 8 secondes en 720p. De plus, Google lance Whisk Animate, un outil permettant de transformer des images en vidéos de 8 secondes à l'aide de Veo 2, pour les abonnés Google One AI Premium. Whisk Animate s'appuie sur l'outil Whisk existant, qui crée des mashups d'images générées par IA. Veo 2, qui coûte initialement 50 cents par seconde de vidéo sur la plateforme Vertex AI de Google, est désormais intégré à la fonctionnalité Dream Screen de YouTube Shorts.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/veo-2-french-bulldog.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 17:00:00 GMT"
+    },
+    {
         "title": "Claude, votre assistant IA sur le lieu de travail",
         "link": "https://www.theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace#comments",
         "body": "Anthropic lance deux nouvelles fonctionnalités majeures pour son assistant IA Claude : l'intégration de Google Workspace et une fonction de recherche améliorée. Claude peut désormais se connecter directement à Gmail, Google Calendar et Documents, devenant ainsi un assistant de travail de première ligne. Il peut extraire des informations de courriels, d'invitations de calendrier et de documents, effectuant ainsi des tâches fastidieuses pour l'utilisateur. La fonction de recherche de Claude, disponible en version bêta, effectue plusieurs recherches qui s'appuient les unes sur les autres, fournissant des résultats avec des citations pour une vérification facile. Anthropic aborde également les problèmes de confidentialité et de hallucinations, en encourageant les utilisateurs à vérifier les citations et en maintenant une authentification au niveau de l'utilisateur pour contrôler l'accès aux documents.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 15 Apr 2025 17:00:00 GMT"
+    },
+    {
+        "title": "OpenAI se prépare à affronter X et Meta",
+        "link": "https://www.theverge.com/openai/648130/openai-social-network-x-competitor#comments",
+        "body": "OpenAI travaille sur son propre réseau social, similaire à X, avec un prototype interne mettant l'accent sur la génération d'images de ChatGPT. Le PDG, Sam Altman, a sollicité des commentaires externes sur le projet, mais il n'est pas clair s'il sera intégré à ChatGPT ou lancé en tant qu'application distincte. Cette initiative intensifierait la rivalité entre Altman et Elon Musk, qui a fait une offre non sollicitée pour racheter OpenAI, et avec Meta, qui prévoit d'ajouter un fil social à son application autonome d'assistant IA. Un réseau social fournirait à OpenAI des données en temps réel pour entraîner ses modèles IA, et l'idée est d'utiliser l'IA pour aider les utilisateurs à partager un meilleur contenu. Bien que OpenAI ait de nombreux projets en cours, l'existence de ce prototype montre que l'entreprise envisage son expansion alors que les attentes de croissance sont élevées.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 15:43:31 GMT"
     },
     {
         "title": "Comment obtenir des invitations à des podcasts grâce à ChatGPT",
@@ -320,26 +355,5 @@
         "body": "Le rapport des Nations Unies sur le commerce et le développement aborde les implications socio-économiques de l'IA et plaide pour des politiques inclusives et une collaboration internationale pour une répartition équitable des avantages de l'IA. Il estime que l'IA affectera jusqu'à 40 % des emplois dans le monde et met en évidence la concentration des investissements et du développement de l'IA dans un petit groupe de pays, laissant de côté environ 118 autres pays. Le rapport souligne la nécessité d'investir dans les infrastructures, les données et les compétences, et propose la création d'une installation de ressources partagées et d'un cadre de divulgation publique pour l'IA. Il met également en avant le potentiel de transformation de l'IA, avec des pays comme le Brésil, la Chine, l'Inde et les Philippines se démarquant dans le développement de l'IA. Enfin, il fournit des conseils pour l'élaboration de politiques relatives à l'IA et évalue les initiatives des pays du G7, tout en soulignant l'importance de la collaboration mondiale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67fc758189a377a9ef2f65b5/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Apr 2025 02:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT se souvient désormais de « toutes vos conversations passées »",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580517_maintenant-chatgpt-se-souvient-de-toutes-vos-conversations-passees-ce-que-ca-change",
-        "body": "OpenAI déploie une mise à jour permettant à ChatGPT de se doter d'une mémoire à long terme. Cette fonctionnalité, annoncée sur Twitter, permettra à l'assistant de se rappeler les conversations passées pour offrir des réponses plus personnalisées. Bien que l'IA puisse déjà faire référence à des éléments mémorisés, cette nouvelle mise à jour lui permet d'accéder à l'ensemble des échanges passés avec les utilisateurs, offrant ainsi un service ultra-personnalisé capable de comprendre le contexte des demandes. OpenAI précise que cette fonctionnalité est optionnelle et peut être désactivée dans les paramètres. La fonctionnalité sera réservée aux abonnés payants Plus et Pro de ChatGPT, et sera étendue aux autres utilisateurs payants dans les semaines à venir. La disponibilité pour les utilisateurs gratuits n'a pas encore été annoncée. La mise à jour soulève des inquiétudes concernant le traitement des données, en particulier en Europe, où les réglementations strictes en matière d'IA pourraient retarder son déploiement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=17654235",
-        "date": "Sun, 13 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "De nouvelles fonctionnalités pour ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2580397_beaucoup-de-bonnes-choses-arrivent-sur-chatgpt-cette-semaine-voici-a-quoi-sattendre",
-        "body": "Sam Altman, PDG d'OpenAI, a annoncé sur Twitter que des nouveautés sont à prévoir pour ChatGPT dans les prochains jours. Bien que la nature exacte de ces mises à jour reste inconnue, il est possible qu'il s'agisse du lancement d'un nouveau modèle, GPT-4.1, une version allégée de GPT-4. De plus, OpenAI pourrait introduire des filigranes sur les images générées pour lutter contre la désinformation. Enfin, l'entreprise envisage de revoir sa stratégie open source, ce qui serait une première depuis GPT-2.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/ilgmyzin-agfmimwypso-unsplash-1200x675-1-768x432.jpg?resize=169,169&key=47ae0298",
-        "date": "Sun, 13 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'évaluation des modèles linguistiques à grande échelle",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/13/beyond-the-llama-drama-4-new-benchmarks-for-large-language-models/?ss=ai",
-        "body": "L'article met en lumière les progrès rapides de l'intelligence artificielle, en particulier dans le domaine des grands modèles linguistiques. Il soulève des préoccupations concernant les méthodes d'évaluation traditionnelles, qui ne parviennent pas à capturer adéquatement les capacités, les limites et l'alignement des valeurs humaines de ces modèles. L'incident impliquant le modèle Llama 4 de Meta a mis en évidence les limites des benchmarks standard, soulignant la nécessité d'une évaluation plus humaine des technologies transformatrices. L'article propose d'aller au-delà des scores de performance et d'explorer de nouvelles dimensions pour l'évaluation de l'IA, y compris l'alignement des valeurs humaines, l'empathie, la pensée abstraite et l'expérience utilisateur. Il suggère que l'évaluation de l'IA devrait être dynamique et évoluer avec les modèles, en adoptant des scénarios de test plus réalistes et interactifs. L'objectif est de développer des partenaires artificiels plus sages, responsables et collaboratifs qui améliorent véritablement les capacités humaines et servent les intérêts de l'humanité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67fc4dfcdd9411f51503004c/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 13 Apr 2025 23:00:00 GMT"
     }
 ]
