@@ -1,5 +1,12 @@
 [
     {
+        "title": "Surveillance de masse et IA",
+        "link": "https://www.404media.co/this-college-protester-isnt-real-its-an-ai-powered-undercover-bot-for-cops/",
+        "body": "Les services de police américains près de la frontière mexicaine investissent des centaines de milliers de dollars dans une technologie secrète et non éprouvée utilisant des personnages en ligne générés par l'IA pour interagir et collecter des informations sur les manifestants, les activistes politiques \"radicalisés\" et les trafiquants de drogue et d'êtres humains présumés. La société Massive Blue, basée à New York, commercialise son produit Overwatch comme un \"multiplicateur de force alimenté par l'IA pour la sécurité publique\", déployant des agents virtuels \"lifelike\" pour infiltrer et engager des réseaux criminels. Les personnages d'IA, ou \"personas\", sont conçus pour être déployés sur les réseaux sociaux et les applications de messagerie, interagissant avec les suspects et collectant des informations. Bien qu'il n'y ait eu aucune arrestation connue grâce à cette technologie, elle soulève des préoccupations en matière de droits civils, notamment en ce qui concerne la surveillance des manifestants et des activistes. Les détails sur le fonctionnement de Massive Blue sont rares, la société et les services de police concernés refusant de divulguer des informations. Les critiques soulignent le manque de transparence et les implications éthiques de l'utilisation de l'IA dans la surveillance et la collecte de preuves.",
+        "image": "",
+        "date": "Thu, 17 Apr 2025 12:34:00 GMT"
+    },
+    {
         "title": "Grok lance une nouvelle fonctionnalité de chatbot avec mémoire",
         "link": "https://www.theverge.com/news/650437/xai-improved-groks-memory#comments",
         "body": "Grok, un chatbot développé par xAI, lance une nouvelle fonctionnalité de mémoire, déjà présente chez ses concurrents ChatGPT et Gemini. Cette fonctionnalité permet aux utilisateurs de sauvegarder d'anciennes conversations pour y faire référence lors de futures interactions. La fonctionnalité est disponible sur le site web de Grok et sur les applications iOS et Android en version bêta, à l'exception de l'UE et du Royaume-Uni. xAI prévoit également de l'intégrer à la version intégrée de Grok dans X dans un futur proche.",
@@ -14,11 +21,25 @@
         "date": "Thu, 17 Apr 2025 00:00:00 GMT"
     },
     {
+        "title": "Guerre de l'IA",
+        "link": "https://www.frandroid.com/marques/meta/2585209_meta-bloque-apple-intelligence-sur-facebook-whatsapp-et-instagram",
+        "body": "Dans un contexte de concurrence intense dans le domaine de l'IA, Meta a bloqué l'accès aux fonctionnalités d'Apple Intelligence sur ses applications iOS, y compris Facebook, Instagram, WhatsApp et Threads. Apple Intelligence, introduit avec iOS 18, offre des outils d'IA pour l'écriture et la création d'emojis personnalisés. Meta, promouvant sa propre solution Meta AI, limite ainsi l'accès à un concurrent direct. Cette décision s'inscrit dans les tensions historiques entre les deux géants, avec des désaccords sur les règles de l'App Store et un accord avorté pour intégrer le modèle Llama de Meta dans Apple Intelligence. La perte de fonctionnalités sur les plateformes Meta affecte la visibilité de l'IA d'Apple, qui fait désormais pâle figure face à Android.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/img-20250417-115025-1200x900-1-768x576.jpg?resize=225,225&key=98a7a8f5",
+        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "OpenAI étend sa gamme de modèles IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2584957_openai-sort-encore-deux-nouveaux-modeles-dia-avec-des-noms-toujours-plus-abstraits",
         "body": "OpenAI a récemment introduit deux nouveaux modèles d'IA, o3 et o4-mini, qui sont les plus intelligents et les plus performants à ce jour. Ces modèles peuvent incorporer des images et des recherches web dans leur processus de raisonnement, offrant ainsi des réponses plus complètes. Les utilisateurs payants de ChatGPT peuvent désormais accéder à ces nouveaux modèles, qui complètent les offres o1 et o3-mini précédentes. Malgré les capacités impressionnantes de ces modèles, la gamme d'IA d'OpenAI devient de plus en plus complexe, avec des noms de produits abstraits et des fonctionnalités qui se chevauchent. Cependant, l'entreprise a promis de simplifier sa nomenclature avec l'arrivée de GPT-5, en offrant des options plus claires et plus faciles à utiliser.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/screenshot-2025-04-17-at-07-35-52-thinking-with-images-openai-768x432.png?resize=169,169&key=5571b57f",
         "date": "Wed, 16 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Copilot Vision",
+        "link": "https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge#comments",
+        "body": "Microsoft a annoncé que Copilot Vision, son assistant IA capable d'interpréter le contenu de l'écran, est désormais disponible gratuitement dans le navigateur Edge. Vision est une expérience basée sur la parole, permettant aux utilisateurs de demander de l'aide à Copilot pour naviguer sur le web, trouver des informations ou même guider à travers une recette. Bien que les fonctionnalités système plus larges soient réservées aux abonnés Copilot Pro, la version gratuite offre un aperçu de la puissance de l'IA de Microsoft. L'activation de Copilot Vision implique d'autoriser la fonctionnalité, puis d'ouvrir le volet Copilot et de cliquer sur l'icône du microphone pour commencer. Microsoft affirme qu'il enregistre les réponses de Copilot, mais ne collecte pas les entrées, les images ou le contenu de la page de l'utilisateur pendant les sessions Vision.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 16 Apr 2025 21:54:00 GMT"
     },
     {
         "title": "L'IA au service du bien commun",
@@ -96,6 +117,13 @@
         "body": "L'IA fait des progrès significatifs dans l'industrie cinématographique, avec la sortie de Runway AI's Gen-4 et l'adoption croissante de l'IA par les grandes sociétés de production. Bien que l'IA excelle dans la création de moments visuels impressionnants, le défi consiste à raconter des histoires cohérentes et significatives. Les applications actuelles de l'IA dans le cinéma incluent la pré-visualisation de scènes et la création de publicités. Fabula, Lionsgate et des réalisateurs comme Harmony Korine expérimentent déjà l'IA dans leurs productions. Les progrès technologiques de l'IA, tels que la cohérence des personnages et la fidélité visuelle, sont impressionnants, mais la narration cohérente reste un défi. Les films IA risquent de se concentrer sur les effets visuels plutôt que sur les messages profonds. Les générateurs de vidéos IA, tels que Sora, Kling, Runway et Pika, présentent des erreurs de continuité, des défis physiques et une narration décousue. Le film AI de Jia Zhangke critique l'avenir de la société dépendante de la technologie et de l'automatisation. Les cinéastes devraient se concentrer sur les nuances des émotions humaines et la complexité de la nature humaine, que les machines ne peuvent pas reproduire. L'IA changera inévitablement le cinéma, mais les cinéastes doivent l'exploiter pour raconter des histoires significatives.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67feee216aba0e9cb4b39681/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "ChatGPT Pro",
+        "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
+        "body": "OpenAI lance un nouveau niveau tarifaire plus élevé pour son chatbot phare ChatGPT et sort sa série de modèles \"raisonnement\" de la prévisualisation avec une mise à jour. La société propose la version complète de son modèle o1 (remplaçant o1-preview), initialement publié en prévisualisation limitée en septembre (nom de code \"Strawberry\"). Le nouveau modèle sera disponible pour les utilisateurs ChatGPT Plus et Team dès aujourd'hui, tandis que les utilisateurs Enterprise et Edu y auront accès la semaine prochaine. OpenAI introduit également ChatGPT Pro, un abonnement mensuel de 200 $ offrant un accès illimité à OpenAI o1, GPT-4o et Advanced Voice mode. Il comprend également une version exclusive de o1 pour les utilisateurs Pro, qui utilise plus de puissance de calcul pour fournir les meilleures réponses aux problèmes les plus complexes. L'abonnement Plus à 20 $ par mois, offrant un accès anticipé aux nouvelles fonctionnalités et à tous les modèles de l'entreprise (sauf la version o1 plus puissante), reste disponible. OpenAI prévoit également d'ajouter la prise en charge de la navigation web, du téléchargement de fichiers et d'autres fonctionnalités à ChatGPT, sans toutefois fournir de calendrier précis pour ces changements. Enfin, l'entreprise annonce le ChatGPT Pro Grant Program, qui offrira 10 abonnements ChatGPT Pro à des chercheurs médicaux dans des institutions de premier plan, avec l'intention d'étendre le programme à d'autres disciplines.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 15 Apr 2025 22:28:27 GMT"
     },
     {
         "title": "OpenAI's Nonprofit Pivot",
@@ -180,12 +208,5 @@
         "body": "Pour quiconque souhaite utiliser les podcasts pour promouvoir sa marque personnelle ou son entreprise, cet article propose une série de prompts ChatGPT pour optimiser vos chances d'obtenir des invitations. L'accent est mis sur la définition d'une marque personnelle claire et engageante, la création de points de discussion convaincants, l'élaboration d'une biographie de conférencier engageante et la recherche stratégique de podcasts adaptés à votre expertise. L'article fournit également des conseils pour rédiger des messages de présentation personnalisés et créer un plan de contenu pour renforcer votre marque personnelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67fce9e5f3c19414a8dae181/0x0.jpg?format=jpg&crop=1396,785,x0,y43,safe&width=440",
         "date": "Tue, 15 Apr 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail : l'humain et l'IA, partenaires pour le succès",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/04/15/graduate-smart-career-advice-for-the-ai-era/?ss=ai",
-        "body": "L'article explore l'impact de l'IA sur l'avenir du travail et de l'éducation, en particulier pour les jeunes qui s'apprêtent à entrer sur le marché du travail. Une enquête récente menée par la charity nationale Onside révèle que la plupart des jeunes se sentent confus face à l'IA, et incertains quant à son impact sur leur capacité à trouver un emploi. L'auteur discute de l'appréhension des étudiants quant à leur choix de carrière et de l'impact de l'IA sur le marché du travail. Il propose une perspective optimiste, suggérant que les jeunes devraient embrasser l'IA comme un partenaire plutôt que la craindre. Il cite l'avis de Glenn Gow, un coach de succès en entreprise et stratège en IA, qui suggère que l'IA peut être un outil puissant pour les entrepreneurs, offrant une puissance de calcul et une intelligence surpassant de loin les capacités humaines. Gow encourage les jeunes à tirer parti de l'IA pour créer des entreprises et à embrasser le changement inévitable apporté par l'IA. L'article souligne également les avantages potentiels de l'IA en tant que mentor professionnel, offrant des conseils personnalisés et une confiance accrue. Enfin, il met en évidence la nécessité pour les jeunes de faire preuve d'humilité et d'accepter que l'IA puisse les surpasser en intelligence, tout en jouant sur leurs forces humaines uniques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67f97d5d73b5aa6f3bbc4964/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 15 Apr 2025 12:14:00 GMT"
     }
 ]
