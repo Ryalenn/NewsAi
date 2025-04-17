@@ -1,5 +1,12 @@
 [
     {
+        "title": "Grok lance une nouvelle fonctionnalité de chatbot avec mémoire",
+        "link": "https://www.theverge.com/news/650437/xai-improved-groks-memory#comments",
+        "body": "Grok, un chatbot développé par xAI, lance une nouvelle fonctionnalité de mémoire, déjà présente chez ses concurrents ChatGPT et Gemini. Cette fonctionnalité permet aux utilisateurs de sauvegarder d'anciennes conversations pour y faire référence lors de futures interactions. La fonctionnalité est disponible sur le site web de Grok et sur les applications iOS et Android en version bêta, à l'exception de l'UE et du Royaume-Uni. xAI prévoit également de l'intégrer à la version intégrée de Grok dans X dans un futur proche.",
+        "image": "",
+        "date": "Thu, 17 Apr 2025 07:59:16 GMT"
+    },
+    {
         "title": "L'art de l'ingénierie des prompts",
         "link": "https://www.forbes.com/sites/carolinecastrillon/2025/04/16/how-to-fine-tune-your-ai-prompts-for-a-competitive-edge-at-work/?ss=ai",
         "body": "Titre",
@@ -180,19 +187,5 @@
         "body": "L'article explore l'impact de l'IA sur l'avenir du travail et de l'éducation, en particulier pour les jeunes qui s'apprêtent à entrer sur le marché du travail. Une enquête récente menée par la charity nationale Onside révèle que la plupart des jeunes se sentent confus face à l'IA, et incertains quant à son impact sur leur capacité à trouver un emploi. L'auteur discute de l'appréhension des étudiants quant à leur choix de carrière et de l'impact de l'IA sur le marché du travail. Il propose une perspective optimiste, suggérant que les jeunes devraient embrasser l'IA comme un partenaire plutôt que la craindre. Il cite l'avis de Glenn Gow, un coach de succès en entreprise et stratège en IA, qui suggère que l'IA peut être un outil puissant pour les entrepreneurs, offrant une puissance de calcul et une intelligence surpassant de loin les capacités humaines. Gow encourage les jeunes à tirer parti de l'IA pour créer des entreprises et à embrasser le changement inévitable apporté par l'IA. L'article souligne également les avantages potentiels de l'IA en tant que mentor professionnel, offrant des conseils personnalisés et une confiance accrue. Enfin, il met en évidence la nécessité pour les jeunes de faire preuve d'humilité et d'accepter que l'IA puisse les surpasser en intelligence, tout en jouant sur leurs forces humaines uniques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67f97d5d73b5aa6f3bbc4964/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Apr 2025 12:14:00 GMT"
-    },
-    {
-        "title": "Computex 2025 : L'avenir de l'IA et de l'informatique accélérée",
-        "link": "https://www.prnewswire.com/news-releases/nvidia-ceo-jensen-huang-will-deliver-first-keynote-at-computex-2025-sharing-latest-ai-advancements-and-breakthroughs-302398053.html",
-        "body": "Le fondateur et PDG de NVIDIA, Jensen Huang, prononcera le discours d'ouverture de Computex 2025, présentant les derniers progrès et avancées en matière d'IA et d'informatique accélérée. L'événement mettra en avant les produits de grandes entreprises technologiques, alimentés par la technologie NVIDIA, et explorera trois thèmes majeurs : l'IA et la robotique, les technologies de prochaine génération et la mobilité future. Computex, organisé conjointement par TAITRA et Taipei Computer Association, est une plateforme clé pour les systèmes de pointe essentiels à la mise à l'échelle de l'IA à l'échelle mondiale.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Nvidia-computex-2025.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Apr 2025 08:44:33 GMT"
-    },
-    {
-        "title": "Google Photos s'intègre à l'application Gemini sur Android",
-        "link": "https://9to5google.com/2025/04/14/gemini-app-google-photos-android/",
-        "body": "Résumé : L'intégration de Google Photos à l'application Gemini est désormais disponible pour un groupe sélectionné d'utilisateurs Android. Cette intégration se compose de deux parties : la première permet de rechercher des images et des vidéos sauvegardées en utilisant des invites basées sur des exemples, en mentionnant \"@Google Photos\" ou \"mes photos\". La deuxième partie permet d'obtenir des détails importants à partir de vos photos, similaire à la fonctionnalité autonome Ask Photos de Google Photos. En cliquant sur une image ou un album, l'application Google Photos s'ouvre, et vous pouvez également afficher d'autres résultats en cliquant sur \"Afficher plus\". L'intégration peut être activée via le menu du profil dans l'application Gemini, en accédant à la section \"Apps\" et en faisant défiler jusqu'à \"Media\". L'intégration de Google Photos est déployée progressivement et n'est actuellement disponible qu'aux États-Unis sur Android.",
-        "image": "",
-        "date": "Tue, 15 Apr 2025 08:19:06 GMT"
     }
 ]
