@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'expérience client avec l'IA",
+        "link": "https://www.forbes.com/sites/adrianswinscoe/2025/04/18/agentic-ai-and-building-connections-with-customers-in-the-moments-that-matter/?ss=ai",
+        "body": "L'article met en lumière l'importance des connexions humaines pour les marques et la façon dont l'IA peut les aider à créer des liens plus forts avec leurs clients. Qualtrics, une entreprise de logiciels d'expérience, a introduit Experience Agents™, une série d'agents IA hautement spécialisés qui utilisent l'agentic AI pour aider les marques à offrir des expériences client exceptionnelles. Ces agents IA peuvent s'adapter en temps réel aux réponses des clients lors des enquêtes, offrant ainsi une résolution instantanée des problèmes et améliorant l'expérience client globale. Brad Anderson, président des produits, de l'expérience utilisateur et de l'ingénierie chez Qualtrics, a déclaré que leur approche adaptative a permis à leurs clients d'augmenter leur taux de réponse aux enquêtes et d'améliorer considérablement la qualité des données collectées. L'article souligne également la tendance à la baisse du feedback direct des clients, ce qui rend d'autant plus important le fait de capitaliser sur les occasions où les clients sont disposés à partager leurs opinions. La capacité à agir de manière empathique et en temps réel sur ces commentaires est essentielle pour établir des connexions plus solides avec les clients, et c'est là que l'IA peut jouer un rôle transformateur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680274a3d0738585061477ab/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Apr 2025 16:00:00 GMT"
+    },
+    {
         "title": "La montée de l'IA dans la programmation",
         "link": "https://www.forbes.com/sites/johnwerner/2025/04/18/everyones-getting-better-at-using-ai-thoughts-on-vibe-coding/?ss=ai",
         "body": "L'article explore l'évolution du paysage de la programmation et de l'intelligence artificielle (IA) au deuxième trimestre de 2025. Il souligne la réduction du fossé entre les programmeurs et les gestionnaires abstraits, grâce à l'automatisation de la programmation. Nathaniel Whittemore et Shawn Wang (\"Swyx\") discutent du rôle de l'ingénierie et de la vague notion de \"construction\" dans le contexte de l'IA. Swyx souligne l'importance des événements communautaires pour les ingénieurs et présente l'outil Model Context Protocol (MCP), qui connecte les LLM au contexte nécessaire. Il définit également les agents IA comme \"LLM + mémoire + planification + utilisation d'outils\" et propose l'acronyme IMPACT pour décrire les aspects clés de l'ingénierie des agents. La discussion aborde également les interprétations différentes de \"vibe coding\", avec un accent sur l'expertise nécessaire dans le nouveau monde de la programmation. Enfin, l'article souligne la nécessité de recycler les compétences humaines et de s'adapter aux nouvelles technologies.",
@@ -26,6 +33,13 @@
         "body": "Google et Samsung dévoilent leurs dernières innovations en matière de réalité mixte, avec Android XR, une plateforme destinée aux lunettes intelligentes et aux casques de réalité mixte. La journaliste Victoria Song a pu tester ces nouveaux appareils et a été impressionnée par leur potentiel, notamment grâce à l'intégration de l'IA Gemini, qui offre une expérience utilisateur fluide et intuitive. L'article souligne l'enthousiasme des entreprises pour le potentiel de la réalité mixte, ainsi que les défis à relever pour convaincre les consommateurs.",
         "image": "",
         "date": "Thu, 17 Apr 2025 23:17:37 GMT"
+    },
+    {
+        "title": "Perplexity s'impose sur mobile",
+        "link": "https://www.frandroid.com/marques/samsung/2586169_samsung-pourrait-faire-de-linfidelite-a-gemini-sur-ses-smartphones-galaxy",
+        "body": "Perplexity, une IA concurrente de Gemini et ChatGPT, est en pleine ascension. Ses créateurs sont en pourparlers avec des fabricants de smartphones Android pour intégrer Perplexity comme assistant IA par défaut ou préinstallé. Un partenariat avec Motorola a déjà été conclu, et des discussions sont en cours avec Samsung pour proposer Perplexity comme alternative à Google Gemini. La startup californienne bénéficie du soutien de Samsung via sa filiale d'investissement NEXT depuis près d'un an, ce qui laisse présager des chances de conclure un accord avec le géant coréen. Cette intégration dans l'écosystème du plus grand fabricant de smartphones au monde offrirait à Perplexity une visibilité majeure, rivalisant ainsi avec les solutions de Google et d'OpenAI.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/samsung-galaxy-s25-10-1-1200x801-1-768x513.jpg?resize=200,200&key=321906dc",
+        "date": "Thu, 17 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de la surveillance : l'IA au service de la sécurité publique",
@@ -77,6 +91,13 @@
         "date": "Thu, 17 Apr 2025 18:00:00 GMT"
     },
     {
+        "title": "Google offre un accès gratuit aux outils Gemini aux étudiants américains",
+        "link": "https://www.theverge.com/news/650921/google-one-ai-premium-gemini-free-college-education#comments",
+        "body": "Google offre un accès gratuit à son plan One AI Premium aux étudiants américains jusqu'en juin 2026, incluant 2 To de stockage cloud et des outils d'IA tels que Gemini Advanced (concurrent de ChatGPT Plus) et Gemini Deep Research pour résumer des sujets complexes et convertir des rapports en format audio. De plus, Google propose de nouveaux outils d'IA comme Veo 2 (texte-vidéo) et Whisk (fusion texte-image). OpenAI et Anthropic ont des initiatives similaires pour les étudiants.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 17 Apr 2025 17:00:00 GMT"
+    },
+    {
         "title": "Recrutement assisté par l'IA",
         "link": "https://www.forbes.com/sites/aytekintank/2025/04/17/how-ai-agents-are-revolutionizing-recruitment/?ss=ai",
         "body": "L'IA révolutionne le recrutement en le rendant plus rapide, plus efficace et en améliorant la qualité des candidats. L'article explique comment l'IA peut aider à identifier les meilleurs candidats, à attirer de meilleurs candidats et même à prédire les besoins futurs en recrutement. L'IA peut analyser les compétences, l'expérience et les traits de personnalité, réduire les biais inconscients et fournir des informations précieuses. Cependant, la supervision humaine reste essentielle pour contrer les biais potentiels de l'IA et pour évaluer l'adéquation culturelle. En associant l'efficacité de l'IA à la discernement humain, les organisations peuvent transformer leurs processus de recrutement et trouver les bonnes personnes plus rapidement.",
@@ -110,6 +131,13 @@
         "body": "Bien qu'il y ait un grand enthousiasme autour des progrès rapides réalisés dans l'utilisation des LLM, il ne faut pas oublier les obstacles et les défis qui subsistent. L'adoption de l'IA dans les entreprises nécessite une approche réfléchie, avec un plan stratégique détaillé, afin d'éviter les problèmes de confusion, de chevauchement et de résistance des utilisateurs. Les entreprises doivent également obtenir l'adhésion des parties prenantes et gérer les attentes, car il existe un écart entre la théorie de l'IA comme outil d'assistance et la réalité de son potentiel de remplacement des humains. De plus, l'éthique, la confidentialité et la sécurité sont des aspects essentiels à prendre en compte pour éviter les écueils de l' \"IA washing\". Enfin, une feuille de route claire est indispensable pour garantir le succès de l'intégration de l'IA dans les processus métier.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6801110b1bbc518329a956e3/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 17 Apr 2025 14:32:00 GMT"
+    },
+    {
+        "title": "Perplexity Assistant sur Samsung",
+        "link": "https://www.theverge.com/news/650585/perplexity-ai-samsung-motorola-razr-assistant#comments",
+        "body": "L'assistant vocal AI de Perplexity devrait jouer un rôle important dans le prochain Motorola Razr, qui sera annoncé le 24 avril. Motorola a teasé la présence de l'IA dans son prochain smartphone pliable. Perplexity travaille également sur un nouveau \"AI Phone\" avec la société mère de T-Mobile, qui pourrait gérer des tâches complexes sans l'intervention de l'utilisateur. Selon des sources, Perplexity a conclu un accord avec Motorola pour proposer son assistant IA en option, aux côtés de l'assistant Gemini de Google. De plus, l'assistant de Perplexity devrait également être disponible sur les appareils Samsung, bien que les discussions soient encore à un stade précoce.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 17 Apr 2025 13:38:00 GMT"
     },
     {
         "title": "Overwatch : l'outil d'infiltration AI des forces de l'ordre américaines",
@@ -229,19 +257,5 @@
         "body": "L'IA est souvent présentée comme un outil d'amélioration de l'efficacité et de la productivité, mais son potentiel va bien au-delà. L'article plaide pour une vision élargie de l'IA, la considérant comme un catalyseur pour le bien social et le bien-être humain. En intégrant l'IA et l'intelligence humaine dans un concept appelé « intelligence hybride », nous pouvons exploiter les forces uniques de chaque partie pour créer un impact positif durable.\n\nRésumé : \n\n- L'IA peut contribuer à un avenir plus durable et équitable en considérant les gens, la planète, le profit et le but.\n- Dans l'éducation et la santé, l'IA personnalise l'apprentissage et accélère la découverte de médicaments.\n- L'IA améliore la surveillance environnementale, optimise la consommation d'énergie et accélère le développement de pratiques durables.\n- Une vision à long terme lie la rentabilité à long terme au bien-être des personnes et de la planète.\n- L'IA peut aider les organisations à s'aligner sur des valeurs fondamentales et à avoir un impact social positif.\n- L'IA peut améliorer le bien-être du personnel en libérant les employés des tâches répétitives et en améliorant la formation et le soutien.\n- L'intelligence hybride reconnaît la complémentarité de l'IA et de l'intelligence humaine, conduisant à des résultats plus puissants dans des domaines tels que l'éducation, les soins de santé et la réponse aux catastrophes.\n- Des défis éthiques tels que les biais dans les algorithmes et la vie privée des données doivent être abordés avec soin.\n- L'IA peut avoir un impact social positif si elle est conçue et déployée avec des principes éthiques clairs et un accent sur le bien commun.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/680013c51c58dca1a4f99c54/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 16 Apr 2025 20:40:00 GMT"
-    },
-    {
-        "title": "L'IA inonde l'industrie musicale",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/04/16/20000-ai-generated-songs-uploaded-to-deezer-every-single-day/?ss=ai",
-        "body": "Résumé : \n\nDeezer est inondé de musique générée par l'IA, avec près d'un cinquième de toute la nouvelle musique téléchargée sur la plateforme de streaming qui est créée par l'IA. La société reçoit plus de 20 000 nouvelles chansons générées par l'IA chaque jour, et ce nombre ne cesse d'augmenter. Bien que Deezer dispose d'outils de détection automatique pour identifier la musique générée par l'IA, le défi réside dans le fait que certaines musiques sont partiellement créées par l'IA et partiellement par des humains, et qu'il existe de nombreux outils différents pour la création de musique générée par l'IA. Un problème courant avec la musique générée par l'IA est l'utilisation potentielle de matériel protégé par le droit d'auteur pour l'entraînement. Deezer s'engage à protéger les revenus des créateurs de musique, qui s'élèvent à environ 16 milliards de dollars par an, et estime qu'un quart de ces revenus est menacé par l'IA d'ici 2028. Le marché mondial de l'IA dans la musique devrait atteindre 39 milliards de dollars d'ici 2033, avec un taux de croissance annuel composé de 26 %. Selon un rapport, 60 % des musiciens adoptent l'IA pour la création et la production musicale. Deezer s'efforce de tracer une ligne entre l'utilisation de l'IA comme outil d'aide et son utilisation comme remplacement complet des humains dans le processus de création musicale, afin de protéger les droits et les revenus des artistes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ffef7defca982dcbc8878c/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 16 Apr 2025 18:22:00 GMT"
-    },
-    {
-        "title": "OpenAI dévoile de nouveaux modèles de raisonnement d'IA",
-        "link": "https://www.theverge.com/news/649941/openai-o3-o4-mini-model-images-reasoning",
-        "body": "OpenAI a présenté deux nouveaux modèles de raisonnement d'IA : o3, décrit comme son modèle de raisonnement le plus puissant, et o4-mini, un modèle plus petit et plus rapide offrant des performances exceptionnelles pour sa taille et son coût. Ces modèles se distinguent par leur capacité à « penser » avec des images, les intégrant directement dans leur chaîne de pensée. Ils peuvent également manipuler les images en zoomant ou en les tournant dans le cadre de leur processus de raisonnement. De plus, tous les modèles de raisonnement d'OpenAI pourront désormais utiliser tous les outils de ChatGPT, y compris la navigation web et la génération d'images. Ces outils sont désormais disponibles pour les utilisateurs ChatGPT Plus, Pro et Team.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 16 Apr 2025 17:00:00 GMT"
     }
 ]
