@@ -1,5 +1,33 @@
 [
     {
+        "title": "Big Tech Antitrust Trials",
+        "link": "https://www.forbes.com/sites/charliefink/2025/04/17/google-guilty-again-meta-on-trial-openai-social-ir-rolls-up-touchcast-ai/?ss=ai",
+        "body": "Un juge fédéral déclare Google coupable de monopole dans la publicité numérique, tandis que Meta fait face à un procès antitrust concernant ses acquisitions d'Instagram et de WhatsApp. Mark Zuckerberg témoigne en défense, arguant que ces acquisitions étaient des investissements stratégiques. De plus, OpenAI développe un réseau social et Infinite Reality acquiert Touchcast pour renforcer sa plateforme de métaverse.\n\n---\n\nUn article de Charlie Fink résume les développements récents dans le domaine de la technologie, avec un accent particulier sur les géants de la tech et leurs démêlés avec la justice américaine. Google est reconnu coupable de monopole dans la publicité numérique, tandis que Meta (Facebook) est au cœur d'un procès antitrust concernant ses acquisitions d'Instagram et de WhatsApp. Mark Zuckerberg témoigne lors du procès, défendant ces acquisitions comme des investissements stratégiques plutôt que des tentatives d'étouffer la concurrence. L'article mentionne également les développements dans le domaine de l'IA, avec OpenAI qui travaille sur un réseau social et Infinite Reality qui acquiert Touchcast, une entreprise d'avatars AI, pour renforcer sa plateforme de métaverse.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6801a214744ab4517c111531/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Apr 2025 00:57:00 GMT"
+    },
+    {
+        "title": "AI Support Systems Gone Awry",
+        "link": "https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/",
+        "body": "Un développeur de logiciels frustré a cru, à tort, qu'un message généré par une intelligence artificielle provenait d'un représentant du support client humain. Cet incident met en lumière les risques liés au déploiement de modèles d'IA dans des rôles de support client sans supervision humaine adéquate et transparence. L'IA, nommée \"Sam\", a inventé une politique de sécurité inexistante, conduisant à des annulations de souscriptions par les utilisateurs mécontents. Cet événement n'est pas isolé, rappelant un cas similaire impliquant Air Canada en 2024. Les entreprises doivent être conscientes des conséquences potentielles de la génération d'informations erronées par l'IA, qui peuvent entraîner une perte de confiance des clients et un impact financier négatif.",
+        "image": "",
+        "date": "Thu, 17 Apr 2025 23:27:48 GMT"
+    },
+    {
+        "title": "La révolution de la réalité mixte",
+        "link": "https://www.theverge.com/2024/12/12/24319528/google-android-xr-samsung-project-moohan-smart-glasses",
+        "body": "Google et Samsung dévoilent leurs dernières innovations en matière de réalité mixte, avec Android XR, une plateforme destinée aux lunettes intelligentes et aux casques de réalité mixte. La journaliste Victoria Song a pu tester ces nouveaux appareils et a été impressionnée par leur potentiel, notamment grâce à l'intégration de l'IA Gemini, qui offre une expérience utilisateur fluide et intuitive. L'article souligne l'enthousiasme des entreprises pour le potentiel de la réalité mixte, ainsi que les défis à relever pour convaincre les consommateurs.",
+        "image": "",
+        "date": "Thu, 17 Apr 2025 23:17:37 GMT"
+    },
+    {
+        "title": "L'avenir de la cybersécurité : l'IA agentique",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/04/17/what-agentic-ai-could-mean-for-security-operations/?ss=ai",
+        "body": "L'article explore le potentiel de l'IA agentique pour révolutionner les opérations de sécurité en entreprise. L'IA agentique va au-delà de l'automatisation et de l'apprentissage automatique traditionnels, offrant une autonomie, une prise de décision et un apprentissage contextuel qui peuvent alléger la charge de travail des analystes de sécurité. Bien que l'on craigne que l'IA ne remplace les emplois humains, l'article soutient qu'elle peut plutôt améliorer les compétences, combler les lacunes opérationnelles et donner aux équipes de sécurité l'espace nécessaire pour développer des capacités de leadership et une compréhension stratégique. L'investissement dans l'IA agentique est en hausse, et les CISOs accordent la priorité aux plateformes alimentées par l'IA qui améliorent l'efficacité des analystes et réduisent le temps de réaction face aux menaces. L'IA agentique pourrait être un pas en avant vers une cybersécurité plus intelligente et durable, offrant une visibilité et une rapidité accrues sans sacrifier le contrôle humain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6801878aeabb8cc1b3dee604/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Apr 2025 22:00:00 GMT"
+    },
+    {
         "title": "L'IA, un atout pour décrocher le poste idéal",
         "link": "https://www.forbes.com/sites/carolinecastrillon/2025/04/17/5-ways-to-leverage-ai-and-crush-your-next-job-interview/?ss=ai",
         "body": "L'IA peut être un outil puissant pour se préparer à un entretien d'embauche et améliorer ses chances de réussite. Alors que 51 % des entreprises utilisent déjà l'IA dans leurs processus de recrutement, les candidats peuvent également tirer parti de cette technologie pour se démarquer. En utilisant des outils tels que ChatGPT, les candidats peuvent rapidement en apprendre davantage sur la culture et les valeurs de l'entreprise, identifier les compétences et les attributs les plus importants pour un poste donné, et même s'entraîner pour l'entretien grâce à des simulations et des analyses de réponses. L'IA peut fournir un retour objectif sur les réponses, aider à affiner son discours et même à rédiger des e-mails de suivi personnalisés. L'utilisation de l'IA dans la recherche d'emploi permet de mettre en valeur ses compétences et son expérience tout en préservant son authenticité et sa voix humaine.",
@@ -222,47 +250,5 @@
         "body": "L'article met en lumière l'évolution rapide du rôle de l'IA dans la programmation, avec des entreprises signalant une augmentation rapide de la proportion de leur code écrit par l'IA. Il présente trois innovateurs qui ont une influence significative dans ce domaine : un ancien membre d'OpenAI, Riley Brown, et Tom Preston-Werner. Leur travail et leurs citations mettent en évidence l'importance croissante de l'IA dans la programmation, avec des termes comme \"vibe coding\" et \"prompters\" décrivant le processus de fourniture de suggestions à l'IA pour créer du code. La citation de Karpathy, \"L'anglais est le nouveau langage de programmation le plus populaire\", résume bien cette idée. L'article comprend également des réflexions profondes de Karpathy sur la nature unique des LLM et leur impact sur la société, soulignant comment ils renversent la tendance habituelle des technologies \"top-down\".",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ff0bc7df19bafa6dc29047/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 16 Apr 2025 01:47:00 GMT"
-    },
-    {
-        "title": "ChatGPT, le réseau social ?",
-        "link": "https://www.frandroid.com/culture-tech/web/2583517_chatgpt-voudrait-devenir-un-rival-de-facebook-et-twitter",
-        "body": "OpenAI, la société derrière ChatGPT, envisagerait de développer un réseau social concurrent de Twitter (X). Cette initiative pourrait offrir une nouvelle plateforme de démonstration pour ChatGPT, similaire à l'utilisation de X par Elon Musk pour Grok, l'IA de xAI. Le réseau social d'OpenAI pourrait également fournir une nouvelle source de données pour entraîner ses modèles d'IA, en concurrence avec les données des utilisateurs de Twitter et Meta. Le projet souligne l'ambition d'OpenAI d'étendre son influence dans le domaine de l'IA, au-delà du simple ChatGPT.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/altman-dev-day-8-1200x801-1-768x513.jpg?resize=200,200&key=246aa96b",
-        "date": "Tue, 15 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du cinéma avec l'IA",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/04/15/runway-ais-gen-4-how-can-ai-montage-go-beyond-absurdity/?ss=ai",
-        "body": "L'IA fait des progrès significatifs dans l'industrie cinématographique, avec la sortie de Runway AI's Gen-4 et l'adoption croissante de l'IA par les grandes sociétés de production. Bien que l'IA excelle dans la création de moments visuels impressionnants, le défi consiste à raconter des histoires cohérentes et significatives. Les applications actuelles de l'IA dans le cinéma incluent la pré-visualisation de scènes et la création de publicités. Fabula, Lionsgate et des réalisateurs comme Harmony Korine expérimentent déjà l'IA dans leurs productions. Les progrès technologiques de l'IA, tels que la cohérence des personnages et la fidélité visuelle, sont impressionnants, mais la narration cohérente reste un défi. Les films IA risquent de se concentrer sur les effets visuels plutôt que sur les messages profonds. Les générateurs de vidéos IA, tels que Sora, Kling, Runway et Pika, présentent des erreurs de continuité, des défis physiques et une narration décousue. Le film AI de Jia Zhangke critique l'avenir de la société dépendante de la technologie et de l'automatisation. Les cinéastes devraient se concentrer sur les nuances des émotions humaines et la complexité de la nature humaine, que les machines ne peuvent pas reproduire. L'IA changera inévitablement le cinéma, mais les cinéastes doivent l'exploiter pour raconter des histoires significatives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67feee216aba0e9cb4b39681/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 15 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT Pro",
-        "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
-        "body": "OpenAI lance un nouveau niveau tarifaire plus élevé pour son chatbot phare ChatGPT et sort sa série de modèles \"raisonnement\" de la prévisualisation avec une mise à jour. La société propose la version complète de son modèle o1 (remplaçant o1-preview), initialement publié en prévisualisation limitée en septembre (nom de code \"Strawberry\"). Le nouveau modèle sera disponible pour les utilisateurs ChatGPT Plus et Team dès aujourd'hui, tandis que les utilisateurs Enterprise et Edu y auront accès la semaine prochaine. OpenAI introduit également ChatGPT Pro, un abonnement mensuel de 200 $ offrant un accès illimité à OpenAI o1, GPT-4o et Advanced Voice mode. Il comprend également une version exclusive de o1 pour les utilisateurs Pro, qui utilise plus de puissance de calcul pour fournir les meilleures réponses aux problèmes les plus complexes. L'abonnement Plus à 20 $ par mois, offrant un accès anticipé aux nouvelles fonctionnalités et à tous les modèles de l'entreprise (sauf la version o1 plus puissante), reste disponible. OpenAI prévoit également d'ajouter la prise en charge de la navigation web, du téléchargement de fichiers et d'autres fonctionnalités à ChatGPT, sans toutefois fournir de calendrier précis pour ces changements. Enfin, l'entreprise annonce le ChatGPT Pro Grant Program, qui offrira 10 abonnements ChatGPT Pro à des chercheurs médicaux dans des institutions de premier plan, avec l'intention d'étendre le programme à d'autres disciplines.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Apr 2025 22:28:27 GMT"
-    },
-    {
-        "title": "OpenAI's Nonprofit Pivot",
-        "link": "https://www.theverge.com/news/649430/openai-nonprofit-commission-advisors#comments",
-        "body": "OpenAI annonce que sa branche à but non lucratif reste une composante clé de son organisation, malgré sa transformation récente en entreprise à but lucratif. L'entreprise présente les quatre conseillers de sa nouvelle commission à but non lucratif : Dolores Huerta, Monica Lozano, le Dr Robert K. Ross et Jack Oliver. Ces conseillers aideront à orienter les efforts philanthropiques d'OpenAI. Cette annonce fait suite aux critiques et aux controverses entourant la décision d'OpenAI de devenir une entreprise à but lucratif, certains employés et leaders du secteur exprimant leur inquiétude quant à un possible abandon de la mission originale d'OpenAI, qui est d'aider l'humanité. La commission à but non lucratif a pour objectif d'étendre la portée et l'impact des efforts philanthropiques d'OpenAI, en soutenant les organisations qui travaillent sur des défis mondiaux urgents dans des domaines tels que la santé, l'éducation, les services publics et la découverte scientifique.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Apr 2025 22:28:27 GMT"
-    },
-    {
-        "title": "La transformation d'OpenAI",
-        "link": "https://www.theverge.com/news/640086/openai-chat-gpt-news-updates#comments",
-        "body": "OpenAI, autrefois simple laboratoire de recherche, est devenu l'une des plus grandes entreprises technologiques grand public. Fondée en 2015 pour développer une intelligence artificielle générale (AGI), l'entreprise a connu une transformation spectaculaire depuis le lancement de ChatGPT. L'article passe en revue les derniers développements d'OpenAI, notamment les changements au sein de son équipe de direction, les nouveaux modèles et fonctionnalités AI, les investissements et partenariats importants, les controverses et les critiques, ainsi que ses ambitions futures. Il met en évidence la transition d'OpenAI vers une entreprise à but lucratif, sa valeur croissante, et son influence sur l'avenir de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Apr 2025 22:28:27 GMT"
-    },
-    {
-        "title": "ChatGPT Image Library",
-        "link": "https://www.theverge.com/news/649247/chatgpt-image-library",
-        "body": "OpenAI introduit une bibliothèque d'images pour ChatGPT, facilitant ainsi l'accès aux images générées par l'IA pour tous les utilisateurs gratuits, Plus et Pro sur mobile et web. La bibliothèque, accessible via une nouvelle section \"Library\" dans le volet ChatGPT, permet d'afficher une grille des images créées. La fonctionnalité est déjà disponible dans l'application iOS de ChatGPT et devrait l'être bientôt sur le web. Cette mise à jour semble particulièrement utile pour ceux qui utilisent fréquemment ChatGPT pour créer des images ou pour ceux qui souhaitent revisiter leurs créations inspirées par Studio Ghibli ou d'autres styles artistiques.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Apr 2025 21:42:29 GMT"
     }
 ]
