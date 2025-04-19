@@ -1,5 +1,19 @@
 [
     {
+        "title": "La transformation numérique de McCormick",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/04/18/guy-peri-helps-flavor-mccormicks-future-through-data-transformation/?ss=ai",
+        "body": "McCormick & Company, leader mondial des arômes, transforme ses capacités numériques sous la direction de son Chief Information and Digital Officer (CIDO), Guy Peri. La stratégie numérique de l'entreprise est axée sur une meilleure compréhension de ses consommateurs grâce à l'analyse des médias sociaux, des données de recherche et des informations de première partie. Cette approche guide le développement de produits et l'engagement ciblé, y compris le Flavor Forecast annuel de McCormick, qui prédit les tendances des arômes.\n\nLa stratégie de McCormick est ancrée dans l'excellence des données, l'optimisation opérationnelle et l'innovation alimentée par l'IA. Peri met l'accent sur l'importance de la qualité et de la gouvernance des données, utilisant l'analyse prédictive dans les domaines des achats, des prévisions et du développement de produits. L'entreprise démocratise la technologie, donnant à tous les employés les outils et les connaissances nécessaires pour utiliser l'IA. Cette transformation numérique permet à McCormick de façonner l'avenir de la technologie alimentaire, créant des expériences gustatives personnalisées et connectées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6801b2dd63774db08d1af82d/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Apr 2025 20:00:00 GMT"
+    },
+    {
+        "title": "Sécurité et éthique dans l'IA : des défis pour les startups",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/18/perplexitys-android-app-is-infested-with-security-flaws-report-finds/?ss=ai",
+        "body": "L'article met en lumière les problèmes de sécurité et de plagiat liés à l'application de recherche basée sur l'IA de Perplexity. La startup a attiré l'attention avec une campagne de promotion avant le Super Bowl, offrant 1 million de dollars à un utilisateur chanceux. Cependant, son application Android, qui fonctionne à la fois comme moteur de recherche et assistant IA, présente de sérieuses failles de sécurité, selon un rapport de la société de sécurité mobile Appknox. Ces failles exposent les utilisateurs au vol de données, aux usurpations d'identité et aux attaques de pirates malveillants. De plus, l'application est vulnérable aux attaques de \"task hijacking\", où une application malveillante peut prendre le contrôle des actions du téléphone à l'insu de l'utilisateur. Fondée en 2022, Perplexity a développé un moteur de recherche conversationnel IA qui utilise des modèles de langage de pointe pour fournir des réponses et des résumés générés par l'IA. Malgré son succès initial, avec plus de 10 millions de téléchargements et une valorisation de 9 milliards de dollars, Perplexity fait face à des critiques concernant la sécurité et l'éthique de ses pratiques. L'entreprise a été accusée de plagier le contenu de médias tels que Forbes et de le redistribuer via sa fonctionnalité \"Perplexity Pages\". Ce rapport souligne l'importance de la sécurité et de l'éthique dans le développement de l'IA, en mettant l'accent non seulement sur les modèles eux-mêmes, mais également sur les applications qui permettent aux utilisateurs d'interagir avec ces modèles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680292f8b94f13a0f1a4165f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Apr 2025 18:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'expérience client avec l'IA",
         "link": "https://www.forbes.com/sites/adrianswinscoe/2025/04/18/agentic-ai-and-building-connections-with-customers-in-the-moments-that-matter/?ss=ai",
         "body": "L'article met en lumière l'importance des connexions humaines pour les marques et la façon dont l'IA peut les aider à créer des liens plus forts avec leurs clients. Qualtrics, une entreprise de logiciels d'expérience, a introduit Experience Agents™, une série d'agents IA hautement spécialisés qui utilisent l'agentic AI pour aider les marques à offrir des expériences client exceptionnelles. Ces agents IA peuvent s'adapter en temps réel aux réponses des clients lors des enquêtes, offrant ainsi une résolution instantanée des problèmes et améliorant l'expérience client globale. Brad Anderson, président des produits, de l'expérience utilisateur et de l'ingénierie chez Qualtrics, a déclaré que leur approche adaptative a permis à leurs clients d'augmenter leur taux de réponse aux enquêtes et d'améliorer considérablement la qualité des données collectées. L'article souligne également la tendance à la baisse du feedback direct des clients, ce qui rend d'autant plus important le fait de capitaliser sur les occasions où les clients sont disposés à partager leurs opinions. La capacité à agir de manière empathique et en temps réel sur ces commentaires est essentielle pour établir des connexions plus solides avec les clients, et c'est là que l'IA peut jouer un rôle transformateur.",
@@ -180,82 +194,5 @@
         "body": "Grok, un chatbot développé par xAI, lance une nouvelle fonctionnalité de mémoire, déjà présente chez ses concurrents ChatGPT et Gemini. Cette fonctionnalité permet aux utilisateurs de sauvegarder d'anciennes conversations pour y faire référence lors de futures interactions. La fonctionnalité est disponible sur le site web de Grok et sur les applications iOS et Android en version bêta, à l'exception de l'UE et du Royaume-Uni. xAI prévoit également de l'intégrer à la version intégrée de Grok dans X dans un futur proche.",
         "image": "",
         "date": "Thu, 17 Apr 2025 07:59:16 GMT"
-    },
-    {
-        "title": "Entrepreneur mindset",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/04/17/5-chatgpt-prompts-to-unlock-your-elite-entrepreneur-mindset/?ss=ai",
-        "body": "Cet article fournit une série de prompts pour entraîner un modèle d'IA, comme ChatGPT, afin d'aider les entrepreneurs à développer un état d'esprit gagnant. Il s'agit d'utiliser l'IA pour guider les entrepreneurs à travers des exercices de réflexion et de questionnement qui leur permettront de prendre du recul, de rester motivés et de transformer les obstacles en opportunités. \n\nLes prompts sont conçus pour aider les entrepreneurs à : \n\n- Repenser les situations négatives sous trois perspectives différentes, mettant en évidence les avantages potentiels. \n- Se préparer mentalement à des scénarios de crise et à identifier les opportunités qui s'y cachent. \n- Garder le bon état d'esprit face aux défis, en se concentrant sur le long terme et en se demandant ce qui compte vraiment. \n- Poser de meilleures questions pour améliorer leur vie et leurs résultats en affaires. \n- Analyser leurs plus grandes réussites pour identifier leur formule personnelle du succès, basée sur leurs forces uniques. \n\nL'article souligne que l'état d'esprit est un facteur clé du succès entrepreneurial, et que l'entraînement mental, avec l'aide de l'IA, peut donner aux entrepreneurs un avantage concurrentiel significatif.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67fe1f4765b0215bb7b1a205/0x0.jpg?format=jpg&crop=2469,1388,x0,y65,safe&width=440",
-        "date": "Thu, 17 Apr 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'art de l'ingénierie des prompts",
-        "link": "https://www.forbes.com/sites/carolinecastrillon/2025/04/16/how-to-fine-tune-your-ai-prompts-for-a-competitive-edge-at-work/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680045a465aa6956d3a24ff6/0x0.jpg?format=jpg&crop=4919,2765,x0,y299,safe&width=440",
-        "date": "Thu, 17 Apr 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : la nouvelle IA pour les voitures",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2586071_google-assistant-devrait-tirer-sa-reverence-dans-les-voitures-place-a-gemini",
-        "body": "Google remplace progressivement Google Assistant par Gemini, une IA plus avancée, dans les voitures équipées d'Android Automotive. Gemini promet une expérience plus fluide et intuitive, avec une compréhension et des réponses plus pertinentes aux demandes des utilisateurs. Le code de l'application Google Assistant révèle que Gemini devrait \"parler plus naturellement\" et être \"plus productif\". Le déploiement progressif de cette nouvelle IA dépendra également des constructeurs automobiles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/renault-espace-android-automotive-google-1200x800-1-768x512.jpg?resize=200,200&key=7ad38787",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nouvel acteur de l'IA sur Android",
-        "link": "https://www.frandroid.com/android/2586039_adieu-gemini-cet-assistant-ia-arriverait-sur-les-smartphones-samsung-et-motorola",
-        "body": "Un nouvel assistant IA, Perplexity AI, pourrait bientôt être intégré aux smartphones Samsung et Motorola, selon un article de Bloomberg. Perplexity se distingue en tant qu'outil de recherche en temps réel ultra-efficace, capable de fournir des réponses claires et précises, souvent avec des sources. Il combine plusieurs modèles d'IA, y compris ceux d'OpenAI, XAi et Anthropic, pour offrir une variété de réponses. L'assistant est déjà en discussion avancée avec Motorola, et un accord a été signé pour l'intégrer aux futurs téléphones pliables Razr. De son côté, Samsung, qui a une relation étroite avec Google et son assistant Gemini, se montre plus prudent dans les négociations. L'article souligne également l'intérêt de Samsung NEXT, la branche investissement de Samsung, qui a déjà investi dans Perplexity en 2024.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-55-2-768x576.jpg?resize=225,225&key=5ea631a0",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA, un artiste prolifique et controversé",
-        "link": "https://www.frandroid.com/services/streaming-musical/2585521_lia-cet-artiste-prolifique-qui-inonde-cette-plateforme-de-streaming-musical",
-        "body": "Deezer, la plateforme de streaming musicale, est confrontée à une prolifération de titres générés par l'IA, représentant 18 % des uploads quotidiens. Malgré les efforts de la plateforme pour les exclure des recommandations, leur nombre a doublé en trois mois. L'industrie musicale s'inquiète de l'impact de l'IA sur la créativité et les revenus des artistes. Des géants comme Universal et Warner s'allient à Deezer pour contrer ce phénomène, tandis que Spotify adopte une approche plus laxiste. La détection et la gestion de la musique générée par l'IA posent des défis technologiques et éthiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/intelligence-artificielle-768x578.jpg?resize=226,226&key=4a2b12e4",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google démocratise son IA Gemini",
-        "link": "https://www.frandroid.com/marques/google/2585287_google-rend-gratuite-une-fonction-majeure-de-gemini-pour-concurrencer-chatgpt",
-        "body": "Google poursuit sa stratégie d'accessibilité en rendant gratuite une fonctionnalité avancée de son modèle d'IA Gemini. Gemini Live, qui permet des conversations orales et en langage naturel avec l'IA, était auparavant réservée aux abonnés payants. Cette décision s'inscrit dans la volonté de Google de démocratiser son IA et de la rendre plus compétitive face à ChatGPT, qui ne cesse d'évoluer. La fonctionnalité sera déployée gratuitement pour tous les utilisateurs dans les prochaines semaines.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/gemini-videos-generees-veo-2-1200x675-2-768x432.jpg?resize=169,169&key=3726f41c",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Grok, le chatbot d'Elon Musk, se met à jour",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2585207_grok-se-dote-dune-memoire-lia-de-musk-rattrape-deja-chatgpt",
-        "body": "Grok, le chatbot d'Elon Musk, se dote d'une fonction \"mémoire\" pour retenir les échanges passés avec l'utilisateur et ainsi personnaliser ses réponses. Cette mise à jour lui permet de rivaliser avec ChatGPT et Gemini, qui exploitent déjà l'historique des discussions pour affiner leurs suggestions. La fonctionnalité est en beta test sur le site et les applications iOS et Android, mais n'est pas encore disponible pour les résidents de l'UE et du Royaume-Uni. Les utilisateurs pourront consulter et gérer les données mémorisées par Grok, qui ne retient pour l'instant que des bribes contextualisées. xAI, la société derrière Grok, espère ainsi fidéliser les fans de Musk et attirer de nouveaux utilisateurs. La prochaine étape sera d'intégrer Grok à X (ex-Twitter) et aux voitures Tesla.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/grok-768x480.jpg?resize=188,188&key=9a1e1164",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Guerre de l'IA",
-        "link": "https://www.frandroid.com/marques/meta/2585209_meta-bloque-apple-intelligence-sur-facebook-whatsapp-et-instagram",
-        "body": "Dans un contexte de concurrence intense dans le domaine de l'IA, Meta a bloqué l'accès aux fonctionnalités d'Apple Intelligence sur ses applications iOS, y compris Facebook, Instagram, WhatsApp et Threads. Apple Intelligence, introduit avec iOS 18, offre des outils d'IA pour l'écriture et la création d'emojis personnalisés. Meta, promouvant sa propre solution Meta AI, limite ainsi l'accès à un concurrent direct. Cette décision s'inscrit dans les tensions historiques entre les deux géants, avec des désaccords sur les règles de l'App Store et un accord avorté pour intégrer le modèle Llama de Meta dans Apple Intelligence. La perte de fonctionnalités sur les plateformes Meta affecte la visibilité de l'IA d'Apple, qui fait désormais pâle figure face à Android.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/img-20250417-115025-1200x900-1-768x576.jpg?resize=225,225&key=98a7a8f5",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI étend sa gamme de modèles IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2584957_openai-sort-encore-deux-nouveaux-modeles-dia-avec-des-noms-toujours-plus-abstraits",
-        "body": "OpenAI a récemment introduit deux nouveaux modèles d'IA, o3 et o4-mini, qui sont les plus intelligents et les plus performants à ce jour. Ces modèles peuvent incorporer des images et des recherches web dans leur processus de raisonnement, offrant ainsi des réponses plus complètes. Les utilisateurs payants de ChatGPT peuvent désormais accéder à ces nouveaux modèles, qui complètent les offres o1 et o3-mini précédentes. Malgré les capacités impressionnantes de ces modèles, la gamme d'IA d'OpenAI devient de plus en plus complexe, avec des noms de produits abstraits et des fonctionnalités qui se chevauchent. Cependant, l'entreprise a promis de simplifier sa nomenclature avec l'arrivée de GPT-5, en offrant des options plus claires et plus faciles à utiliser.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/screenshot-2025-04-17-at-07-35-52-thinking-with-images-openai-768x432.png?resize=169,169&key=5571b57f",
-        "date": "Wed, 16 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA conversationnelle",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grands acteurs de l'industrie, tels que Microsoft, OpenAI et Google, rendent les technologies de chatbot basées sur des modèles linguistiques de grande taille plus accessibles au grand public. Copilot Vision de Microsoft, disponible gratuitement dans le navigateur Edge, est une fonctionnalité d'assistance basée sur l'IA qui peut interpréter le contenu de l'écran et aider les utilisateurs à interagir avec les applications. OpenAI ajoute une bibliothèque d'images à ChatGPT, et Anthropic lance l'intégration de Google Workspace et une fonctionnalité de recherche pour son assistant IA, Claude. Meta annonce également de nouveaux modèles Llama 4 et Google met à jour ses modèles Gemini. Ces développements soulignent l'importance croissante des applications d'IA dans divers domaines, notamment l'assistance, la recherche visuelle et l'intégration aux plateformes populaires.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 16 Apr 2025 21:54:00 GMT"
-    },
-    {
-        "title": "Copilot Vision",
-        "link": "https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge#comments",
-        "body": "Microsoft a annoncé que Copilot Vision, son assistant IA capable d'interpréter le contenu de l'écran, est désormais disponible gratuitement dans le navigateur Edge. Vision est une expérience basée sur la parole, permettant aux utilisateurs de demander de l'aide à Copilot pour naviguer sur le web, trouver des informations ou même guider à travers une recette. Bien que les fonctionnalités système plus larges soient réservées aux abonnés Copilot Pro, la version gratuite offre un aperçu de la puissance de l'IA de Microsoft. L'activation de Copilot Vision implique d'autoriser la fonctionnalité, puis d'ouvrir le volet Copilot et de cliquer sur l'icône du microphone pour commencer. Microsoft affirme qu'il enregistre les réponses de Copilot, mais ne collecte pas les entrées, les images ou le contenu de la page de l'utilisateur pendant les sessions Vision.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 16 Apr 2025 21:54:00 GMT"
     }
 ]
