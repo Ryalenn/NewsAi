@@ -14,6 +14,13 @@
         "date": "Sat, 19 Apr 2025 00:11:21 GMT"
     },
     {
+        "title": "Kagi, un moteur de recherche payant et éthique",
+        "link": "https://www.frandroid.com/culture-tech/web/2579493_jai-abandonne-google-pour-de-bon-pourquoi-je-paye-10-euros-par-mois-pour-mes-recherches-web",
+        "body": "L'article présente Kagi, un moteur de recherche payant qui se concentre sur la protection des données personnelles et la confidentialité en ligne. Kagi se distingue de Google en n'affichant aucune publicité et en ne collectant pas les données des utilisateurs. Il permet aux utilisateurs de modifier son algorithme en fonction de leurs préférences et de bloquer les sites indésirables. Kagi utilise également l'IA générative pour répondre à certaines questions et exclut les images générées par IA des résultats de recherche d'images. Le moteur de recherche construit son propre index du web et fait appel à d'autres fournisseurs de données, tout en mettant en avant les petits sites spécialisés. L'auteur de l'article a été convaincu par Kagi et l'a adopté comme moteur de recherche par défaut, malgré quelques lacunes.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/kagivsgoogle-1200x675-1-768x432.jpg?resize=169,169&key=c7d89867",
+        "date": "Fri, 18 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Les modèles d'IA d'OpenAI, o3 et o4-mini, présentent des hallucinations accrues",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2587843_les-derniers-modeles-dia-hallucinent-plus-open-ai-ne-comprend-pas-pourquoi",
         "body": "OpenAI a récemment lancé ses modèles d'IA o3 et o4-mini, qui se distinguent par leur intelligence et leur polyvalence. Ces modèles sont capables de \"penser\" plus longuement avant de répondre, ce qui leur permet de résoudre des problèmes complexes et multi-étapes. Ils excellent dans divers domaines, notamment la programmation, les mathématiques et la perception visuelle. Une nouveauté notable est leur capacité à intégrer et à manipuler des éléments visuels dans leur raisonnement. Cependant, malgré ces avancées, les modèles présentent une propension accrue à l'hallucination, fournissant des informations inexactes ou inventées. OpenAI reconnaît ce problème et souligne la nécessité de poursuivre les recherches pour y remédier. Cette tendance est également confirmée par des évaluations externes. Bien que les modèles o3 et o4-mini offrent de nouvelles possibilités, notamment dans l'éducation et la recherche, leur utilisation est limitée dans les secteurs où la précision est essentielle en raison de leur taux d'hallucination élevé.",
@@ -180,26 +187,5 @@
         "body": "L'assistant vocal AI de Perplexity devrait jouer un rôle important dans le prochain Motorola Razr, qui sera annoncé le 24 avril. Motorola a teasé la présence de l'IA dans son prochain smartphone pliable. Perplexity travaille également sur un nouveau \"AI Phone\" avec la société mère de T-Mobile, qui pourrait gérer des tâches complexes sans l'intervention de l'utilisateur. Selon des sources, Perplexity a conclu un accord avec Motorola pour proposer son assistant IA en option, aux côtés de l'assistant Gemini de Google. De plus, l'assistant de Perplexity devrait également être disponible sur les appareils Samsung, bien que les discussions soient encore à un stade précoce.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 17 Apr 2025 13:38:00 GMT"
-    },
-    {
-        "title": "Overwatch : l'outil d'infiltration AI des forces de l'ordre américaines",
-        "link": "https://www.theverge.com/news/650501/ai-bots-may-be-undercover-police#comments",
-        "body": "Les services de police américains utilisent désormais un outil d'IA appelé Overwatch pour infiltrer et recueillir des preuves contre des suspects dans diverses affaires criminelles, de la drogue et la traite des êtres humains aux activistes politiques et aux manifestants étudiants. Overwatch utilise des agents virtuels réalistes pour s'infiltrer dans les réseaux criminels et interagir avec les suspects. L'article mentionne un exemple d'un personnage AI \"radicalisé\", une femme divorcée de 36 ans, sans enfant, décrite comme extravertie, solitaire et positive envers son corps, dont les hobbies incluent la pâtisserie et l'\"activisme\".",
-        "image": "",
-        "date": "Thu, 17 Apr 2025 12:34:36 GMT"
-    },
-    {
-        "title": "Surveillance de masse et IA",
-        "link": "https://www.404media.co/this-college-protester-isnt-real-its-an-ai-powered-undercover-bot-for-cops/",
-        "body": "Les services de police américains près de la frontière mexicaine investissent des centaines de milliers de dollars dans une technologie secrète et non éprouvée utilisant des personnages en ligne générés par l'IA pour interagir et collecter des informations sur les manifestants, les activistes politiques \"radicalisés\" et les trafiquants de drogue et d'êtres humains présumés. La société Massive Blue, basée à New York, commercialise son produit Overwatch comme un \"multiplicateur de force alimenté par l'IA pour la sécurité publique\", déployant des agents virtuels \"lifelike\" pour infiltrer et engager des réseaux criminels. Les personnages d'IA, ou \"personas\", sont conçus pour être déployés sur les réseaux sociaux et les applications de messagerie, interagissant avec les suspects et collectant des informations. Bien qu'il n'y ait eu aucune arrestation connue grâce à cette technologie, elle soulève des préoccupations en matière de droits civils, notamment en ce qui concerne la surveillance des manifestants et des activistes. Les détails sur le fonctionnement de Massive Blue sont rares, la société et les services de police concernés refusant de divulguer des informations. Les critiques soulignent le manque de transparence et les implications éthiques de l'utilisation de l'IA dans la surveillance et la collecte de preuves.",
-        "image": "",
-        "date": "Thu, 17 Apr 2025 12:34:00 GMT"
-    },
-    {
-        "title": "Wikipedia for AI",
-        "link": "https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning#comments",
-        "body": "La plateforme scientifique Kaggle héberge un ensemble de données Wikipedia optimisé pour les applications d'apprentissage automatique. Wikipedia tente de dissuader les développeurs d'IA de récupérer les données de la plateforme en proposant un ensemble de données spécialement conçu pour l'entraînement des modèles d'IA. L'ensemble de données, disponible en anglais et en français, comprend des résumés de recherche, de brèves descriptions, des liens d'images, des données d'infobox et des sections d'articles. Wikimedia espère que cet ensemble de données bien structuré découragera la récupération de données qui surcharge actuellement ses serveurs. Le partenariat avec Kaggle rend également ces données plus accessibles aux petites entreprises et aux scientifiques indépendants.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 17 Apr 2025 10:07:03 GMT"
     }
 ]
