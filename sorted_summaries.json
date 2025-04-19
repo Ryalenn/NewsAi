@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gemini AI désormais disponible sur tous les appareils Android compatibles",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/19/googles-free-ai-update-leaves-iphone-users-behind/?ss=ai",
+        "body": "Google a récemment mis à niveau les appareils Android en proposant gratuitement des fonctionnalités de caméra et de partage d'écran basées sur l'IA via sa fonctionnalité de chatbot Gemini Live. Auparavant, cette fonctionnalité était exclusivement réservée aux séries Pixel 9 et Galaxy S25. Désormais, tous les appareils Android compatibles peuvent accéder à Gemini Live, qui permet à l'IA de Google de discuter de ce que voit la caméra de l'appareil ou de ce qui est affiché à l'écran. Ces fonctionnalités étaient auparavant limitées aux utilisateurs de Pixel 9 via les Pixel Drops, des mises à jour de fonctionnalités régulières offertes aux propriétaires de Pixel. La décision de Google d'étendre ces fonctionnalités à tous les appareils Android donne accès à des milliards d'utilisateurs à l'une de ses fonctionnalités IA les plus puissantes et les plus intéressantes, renforçant ainsi la perception des appareils Android par rapport à l'iPhone.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f54691f5ae3b1c0679fcb2/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 19 Apr 2025 14:59:00 GMT"
+    },
+    {
         "title": "La révolution silencieuse : comment l'apprentissage par renforcement redéfinit l'IA",
         "link": "https://www.forbes.com/sites/paulxmccarthy/2025/04/19/the-rise-and-rise-of-reinforcement-learning-ais-quiet-revolution/?ss=ai",
         "body": "L'apprentissage par renforcement, une technique développée dans les milieux universitaires depuis deux décennies, est en train de révolutionner discrètement le domaine de l'intelligence artificielle, éclipsant les chatbots et les générateurs d'images. Cette approche, qui s'apparente à un enfant apprenant à faire du vélo par l'essai et l'erreur, permet aux machines d'explorer, d'ajuster et d'apprendre à partir de retours, comme dans une chasse aux œufs de Pâques guidée par des indices \"plus chaud\" ou \"plus froid\". L'apprentissage par renforcement se distingue des méthodes traditionnelles d'apprentissage supervisé et non supervisé en ce qu'il ne nécessite pas de grandes quantités de données étiquetées, mais seulement un objectif et une mesure du succès. Cette approche a été mise en lumière par des recherches de Google publiées dans Nature en 2015 et 2016, qui ont démontré sa capacité à entraîner une IA à jouer à des jeux Atari et à battre le champion du monde de Go. L'apprentissage par renforcement est particulièrement efficace dans les situations où il n'existe pas d'instructions explicites et il est en train de révolutionner des domaines tels que l'énergie, l'éducation et la robotique. Cependant, son autonomie soulève également des questions éthiques et de transparence, car il est important de réfléchir attentivement aux incitations utilisées pour entraîner les modèles.",
@@ -166,26 +173,5 @@
         "body": "OpenAI a récemment dévoilé une nouvelle série de modèles plus puissants, suite à l'annonce de GPT-4.1. L'auteur, qui utilise l'IA quotidiennement pour diverses tâches, a testé les nouveaux modèles et partagé ses impressions initiales et comparaisons pratiques. Il souligne l'importance de tester soi-même les modèles en fonction de ses propres cas d'utilisation, car les performances de l'IA peuvent varier en fonction des cas d'utilisation spécifiques. L'article aborde également l'évolution des propositions de valeur et des prix de l'IA, ainsi que les différences de performances pratiques entre les derniers modèles. Enfin, l'auteur partage ses expériences avec différents modèles et encourage les lecteurs à partager leurs propres comparaisons.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6801294f5fc79e5db9dbcecd/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 17 Apr 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Stanford lance une initiative sur l'IA pour la santé mentale",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/04/17/ai-for-mental-health-gets-attentively-analyzed-via-exciting-new-initiative-at-stanford-university/?ss=ai",
-        "body": "L'Université Stanford lance une nouvelle initiative importante, AI4MH, dirigée par la prestigieuse École de médecine, Département de psychiatrie et de sciences du comportement. L'initiative met en lumière le rôle croissant de l'IA dans la santé mentale, avec le Dr Tom Insel, éminent psychiatre et neuroscientifique, en tant que conférencier invité. L'article explore les complexités de l'IA dans la santé mentale, y compris les recherches notables, les applications pratiques et l'impact sur la société. Il aborde également les défis actuels du système de santé mentale, tels que le diagnostic imprécis, le manque d'accès et la qualité inégale des soins. L'IA peut offrir un énorme avantage en améliorant l'accessibilité, la réactivité et l'anonymat, mais des préoccupations subsistent quant aux hallucinations de l'IA et au manque de confidentialité des données. L'auteur plaide pour une utilisation réfléchie de l'IA, suggérant un modèle triadique client-IA-thérapeute et soulignant son potentiel pour améliorer notre compréhension des problèmes de santé mentale.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Adopter l'IA avec succès",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/04/17/8-major-problems-with-ai-initiatives-in-enterprise/?ss=ai",
-        "body": "Bien qu'il y ait un grand enthousiasme autour des progrès rapides réalisés dans l'utilisation des LLM, il ne faut pas oublier les obstacles et les défis qui subsistent. L'adoption de l'IA dans les entreprises nécessite une approche réfléchie, avec un plan stratégique détaillé, afin d'éviter les problèmes de confusion, de chevauchement et de résistance des utilisateurs. Les entreprises doivent également obtenir l'adhésion des parties prenantes et gérer les attentes, car il existe un écart entre la théorie de l'IA comme outil d'assistance et la réalité de son potentiel de remplacement des humains. De plus, l'éthique, la confidentialité et la sécurité sont des aspects essentiels à prendre en compte pour éviter les écueils de l' \"IA washing\". Enfin, une feuille de route claire est indispensable pour garantir le succès de l'intégration de l'IA dans les processus métier.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6801110b1bbc518329a956e3/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 14:32:00 GMT"
-    },
-    {
-        "title": "Perplexity Assistant sur Samsung",
-        "link": "https://www.theverge.com/news/650585/perplexity-ai-samsung-motorola-razr-assistant#comments",
-        "body": "L'assistant vocal AI de Perplexity devrait jouer un rôle important dans le prochain Motorola Razr, qui sera annoncé le 24 avril. Motorola a teasé la présence de l'IA dans son prochain smartphone pliable. Perplexity travaille également sur un nouveau \"AI Phone\" avec la société mère de T-Mobile, qui pourrait gérer des tâches complexes sans l'intervention de l'utilisateur. Selon des sources, Perplexity a conclu un accord avec Motorola pour proposer son assistant IA en option, aux côtés de l'assistant Gemini de Google. De plus, l'assistant de Perplexity devrait également être disponible sur les appareils Samsung, bien que les discussions soient encore à un stade précoce.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 17 Apr 2025 13:38:00 GMT"
     }
 ]
