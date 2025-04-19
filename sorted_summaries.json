@@ -1,10 +1,24 @@
 [
     {
+        "title": "La révolution silencieuse : comment l'apprentissage par renforcement redéfinit l'IA",
+        "link": "https://www.forbes.com/sites/paulxmccarthy/2025/04/19/the-rise-and-rise-of-reinforcement-learning-ais-quiet-revolution/?ss=ai",
+        "body": "L'apprentissage par renforcement, une technique développée dans les milieux universitaires depuis deux décennies, est en train de révolutionner discrètement le domaine de l'intelligence artificielle, éclipsant les chatbots et les générateurs d'images. Cette approche, qui s'apparente à un enfant apprenant à faire du vélo par l'essai et l'erreur, permet aux machines d'explorer, d'ajuster et d'apprendre à partir de retours, comme dans une chasse aux œufs de Pâques guidée par des indices \"plus chaud\" ou \"plus froid\". L'apprentissage par renforcement se distingue des méthodes traditionnelles d'apprentissage supervisé et non supervisé en ce qu'il ne nécessite pas de grandes quantités de données étiquetées, mais seulement un objectif et une mesure du succès. Cette approche a été mise en lumière par des recherches de Google publiées dans Nature en 2015 et 2016, qui ont démontré sa capacité à entraîner une IA à jouer à des jeux Atari et à battre le champion du monde de Go. L'apprentissage par renforcement est particulièrement efficace dans les situations où il n'existe pas d'instructions explicites et il est en train de révolutionner des domaines tels que l'énergie, l'éducation et la robotique. Cependant, son autonomie soulève également des questions éthiques et de transparence, car il est important de réfléchir attentivement aux incitations utilisées pour entraîner les modèles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68034a731140ff305043f268/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 19 Apr 2025 07:00:00 GMT"
+    },
+    {
         "title": "ChatGPT, hallucinations et défis de l'IA",
         "link": "https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/",
         "body": "Les derniers modèles d'IA d'OpenAI, o3 et o4-mini, présentent un taux de hallucinations plus élevé que les modèles précédents, y compris les modèles de raisonnement et les modèles traditionnels. Bien que ces nouveaux modèles excellent dans certaines tâches, comme la programmation et les mathématiques, ils ont tendance à fournir des réponses inventées, ce qui soulève des inquiétudes quant à leur fiabilité. OpenAI reconnaît le problème et recherche activement des solutions, mais admet que la raison de cette augmentation des hallucinations reste inconnue. Les tests internes et externes ont révélé que les modèles o3 et o4-mini hallucinaient souvent, fournissant des réponses inventées ou des liens brisés. Bien que les hallucinations puissent stimuler la créativité, elles posent un problème majeur pour les entreprises qui nécessitent une précision absolue, comme les cabinets juridiques. Une approche prometteuse pour améliorer l'exactitude consiste à doter les modèles de capacités de recherche sur le Web, ce qui améliore considérablement leur précision. La recherche d'une solution aux hallucinations est urgente, car l'industrie de l'IA se concentre de plus en plus sur les modèles de raisonnement, qui semblent exacerber ce problème.",
         "image": "",
         "date": "Sat, 19 Apr 2025 00:11:21 GMT"
+    },
+    {
+        "title": "Les modèles d'IA d'OpenAI, o3 et o4-mini, présentent des hallucinations accrues",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2587843_les-derniers-modeles-dia-hallucinent-plus-open-ai-ne-comprend-pas-pourquoi",
+        "body": "OpenAI a récemment lancé ses modèles d'IA o3 et o4-mini, qui se distinguent par leur intelligence et leur polyvalence. Ces modèles sont capables de \"penser\" plus longuement avant de répondre, ce qui leur permet de résoudre des problèmes complexes et multi-étapes. Ils excellent dans divers domaines, notamment la programmation, les mathématiques et la perception visuelle. Une nouveauté notable est leur capacité à intégrer et à manipuler des éléments visuels dans leur raisonnement. Cependant, malgré ces avancées, les modèles présentent une propension accrue à l'hallucination, fournissant des informations inexactes ou inventées. OpenAI reconnaît ce problème et souligne la nécessité de poursuivre les recherches pour y remédier. Cette tendance est également confirmée par des évaluations externes. Bien que les modèles o3 et o4-mini offrent de nouvelles possibilités, notamment dans l'éducation et la recherche, leur utilisation est limitée dans les secteurs où la précision est essentielle en raison de leur taux d'hallucination élevé.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
+        "date": "Fri, 18 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "La transformation numérique de McCormick",
@@ -187,19 +201,5 @@
         "body": "La plateforme scientifique Kaggle héberge un ensemble de données Wikipedia optimisé pour les applications d'apprentissage automatique. Wikipedia tente de dissuader les développeurs d'IA de récupérer les données de la plateforme en proposant un ensemble de données spécialement conçu pour l'entraînement des modèles d'IA. L'ensemble de données, disponible en anglais et en français, comprend des résumés de recherche, de brèves descriptions, des liens d'images, des données d'infobox et des sections d'articles. Wikimedia espère que cet ensemble de données bien structuré découragera la récupération de données qui surcharge actuellement ses serveurs. Le partenariat avec Kaggle rend également ces données plus accessibles aux petites entreprises et aux scientifiques indépendants.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 17 Apr 2025 10:07:03 GMT"
-    },
-    {
-        "title": "Gemini Live désormais gratuit",
-        "link": "https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free#comments",
-        "body": "Google a annoncé que Gemini Live, une fonctionnalité alimentée par l'IA, serait désormais gratuite pour tous les utilisateurs Android via l'application Gemini. À l'origine, Google prévoyait de réserver cette fonctionnalité aux abonnés de Gemini Advanced. Gemini Live permet à l'IA de voir et d'interagir avec ce qui se trouve sur l'écran et la caméra du téléphone. La fonctionnalité a été lancée au début du mois pour les utilisateurs de Pixel 9 et de Samsung Galaxy S25, et Google avait alors déclaré qu'elle serait bientôt disponible pour tous les utilisateurs Android, mais uniquement avec un abonnement Gemini Advanced. Cependant, la société a changé d'avis et la propose maintenant gratuitement. Le déploiement a commencé aujourd'hui et se poursuivra au cours des prochaines semaines.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 17 Apr 2025 07:59:16 GMT"
-    },
-    {
-        "title": "Grok lance une nouvelle fonctionnalité de chatbot avec mémoire",
-        "link": "https://www.theverge.com/news/650437/xai-improved-groks-memory#comments",
-        "body": "Grok, un chatbot développé par xAI, lance une nouvelle fonctionnalité de mémoire, déjà présente chez ses concurrents ChatGPT et Gemini. Cette fonctionnalité permet aux utilisateurs de sauvegarder d'anciennes conversations pour y faire référence lors de futures interactions. La fonctionnalité est disponible sur le site web de Grok et sur les applications iOS et Android en version bêta, à l'exception de l'UE et du Royaume-Uni. xAI prévoit également de l'intégrer à la version intégrée de Grok dans X dans un futur proche.",
-        "image": "",
-        "date": "Thu, 17 Apr 2025 07:59:16 GMT"
     }
 ]
