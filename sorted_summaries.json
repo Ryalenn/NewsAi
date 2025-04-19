@@ -1,5 +1,19 @@
 [
     {
+        "title": "Micron Technology et l'avenir de la mémoire vive",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/19/ai-gets-memory-with-chips-from-micron-and-others/?ss=ai",
+        "body": "Micron Technology annonce une nouvelle orientation stratégique vers une \"unité commerciale de mémoire cloud\", avec la production de puces HBM (High Bandwidth Memory). Ces puces 3D empilées sont des microprocesseurs SDRAM offrant une large bande passante et une faible consommation d'énergie. Les acteurs clés de ce marché sont Micron, Samsung et SK Hynix. Samsung collabore avec TSMC pour le développement des puces, soulignant la position dominante de TSMC dans la fonderie. Nvidia prévoyait d'acheter les puces à Samsung, mais a été déçu par leur performance. Les spécifications des puces HBM incluent une bande passante de 819 Go/s par empilement, une vitesse de 6,4 Go/broche et une capacité de 64 Go/empilement. Ces puces sont destinées aux applications d'IA, de calcul haute performance et de GPU. Le marché des puces HBM est en pleine évolution, avec des implications sur les actions des entreprises concernées, notamment Nvidia, Micron et Samsung. Enfin, l'auteur souligne l'importance de la mémoire persistante dans l'évolution des LLM, citant l'exemple de \"Maya\" de Sesame, capable de se souvenir du nom de l'utilisateur.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6716a9f878c2c58b406440a4/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 19 Apr 2025 18:04:00 GMT"
+    },
+    {
+        "title": "Quantum Leap",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/04/19/can-quantum-inspired-ai-compete-with-todays-large-language-models/?ss=ai",
+        "body": "L'article explore l'évolution émergente de l'informatique quantique et son impact potentiel sur l'intelligence artificielle, en particulier sur les modèles de langage de grande taille. Dynex, une entreprise du Liechtenstein, a développé un modèle de langage de diffusion quantique (qdLLM) qui, selon elle, surpasse les systèmes traditionnels en matière de vitesse et d'efficacité. L'informatique quantique, grâce à l'utilisation de qubits, permet une évaluation parallèle de nombreuses solutions potentielles, améliorant ainsi l'optimisation, la simulation et la reconnaissance de modèles. Dynex utilise des algorithmes inspirés de l'informatique quantique et une architecture décentralisée pour exécuter des modèles de langage de grande taille plus efficacement. Leur approche se distingue par l'utilisation de la diffusion parallèle de jetons et de l'optimisation quantique pour améliorer la cohérence et réduire la charge de calcul. L'entreprise prévoit également de lancer sa propre puce quantique neuromorphique, Apollo, fonctionnant à température ambiante. Dynex affirme que son modèle qdLLM réduit considérablement la taille des modèles, accélère le traitement et réduit la consommation de ressources GPU. Bien que les affirmations de l'entreprise doivent encore être vérifiées de manière indépendante, elles soulignent l'importance croissante de l'efficacité énergétique dans le domaine de l'IA. L'article conclut en soulignant que l'informatique quantique pourrait jouer un rôle central dans l'avenir de l'IA, avec des applications potentielles dans des domaines tels que la découverte de médicaments, la modélisation des risques financiers et la cybersécurité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6803c8dd5f647a42b754048e/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 19 Apr 2025 16:00:00 GMT"
+    },
+    {
         "title": "Gemini AI désormais disponible sur tous les appareils Android compatibles",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/04/19/googles-free-ai-update-leaves-iphone-users-behind/?ss=ai",
         "body": "Google a récemment mis à niveau les appareils Android en proposant gratuitement des fonctionnalités de caméra et de partage d'écran basées sur l'IA via sa fonctionnalité de chatbot Gemini Live. Auparavant, cette fonctionnalité était exclusivement réservée aux séries Pixel 9 et Galaxy S25. Désormais, tous les appareils Android compatibles peuvent accéder à Gemini Live, qui permet à l'IA de Google de discuter de ce que voit la caméra de l'appareil ou de ce qui est affiché à l'écran. Ces fonctionnalités étaient auparavant limitées aux utilisateurs de Pixel 9 via les Pixel Drops, des mises à jour de fonctionnalités régulières offertes aux propriétaires de Pixel. La décision de Google d'étendre ces fonctionnalités à tous les appareils Android donne accès à des milliards d'utilisateurs à l'une de ses fonctionnalités IA les plus puissantes et les plus intéressantes, renforçant ainsi la perception des appareils Android par rapport à l'iPhone.",
@@ -138,40 +152,5 @@
         "body": "Google a publié un rapport technique sur son modèle d'IA Gemini 2.5 Pro, mais les experts le trouvent peu détaillé et difficile à évaluer en termes de risques potentiels. Google adopte une approche différente pour la communication de la sécurité par rapport à ses concurrents, ne publiant des rapports techniques que lorsque les modèles sont sortis de la phase expérimentale. Le rapport sur Gemini 2.5 Pro n'inclut pas le cadre de sécurité Frontier Safety Framework de Google et a déçu les experts. Google est accusé de manquer de transparence, tout comme Meta et OpenAI pour leurs modèles récents. Cela soulève des inquiétudes quant aux promesses faites aux régulateurs concernant les tests et les rapports de sécurité.",
         "image": "",
         "date": "Thu, 17 Apr 2025 19:24:46 GMT"
-    },
-    {
-        "title": "WNBA contre la haine en ligne",
-        "link": "https://www.forbes.com/sites/lindseyedarvin/2025/04/17/the-2025-wnba-draft-class-enters-a-league-preparing-to-battle-online-harassment/?ss=ai",
-        "body": "Lors de la draft WNBA 2025, la commissaire Cathy Engelbert a annoncé la création d'un groupe de travail dédié à la lutte contre le harcèlement en ligne dont sont victimes les sportives. Une étude récente a révélé que les joueuses de basket-ball féminin reçoivent trois fois plus de harcèlement en ligne que leurs homologues masculins, avec un contenu à caractère sexuel, sexiste ou raciste. La ligue répond à l'urgence de la situation, qui cause des dommages psychologiques réels, en mettant en place une application de filtrage des commentaires haineux. La ligue adopte une approche globale pour lutter contre la haine en ligne, qui comprend également la sensibilisation des jeunes fans et la restriction de certains types de paris sportifs qui encouragent le harcèlement direct des athlètes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67fff19bb7de90753921f772/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Google offre un accès gratuit aux outils Gemini aux étudiants américains",
-        "link": "https://www.theverge.com/news/650921/google-one-ai-premium-gemini-free-college-education#comments",
-        "body": "Google offre un accès gratuit à son plan One AI Premium aux étudiants américains jusqu'en juin 2026, incluant 2 To de stockage cloud et des outils d'IA tels que Gemini Advanced (concurrent de ChatGPT Plus) et Gemini Deep Research pour résumer des sujets complexes et convertir des rapports en format audio. De plus, Google propose de nouveaux outils d'IA comme Veo 2 (texte-vidéo) et Whisk (fusion texte-image). OpenAI et Anthropic ont des initiatives similaires pour les étudiants.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 17 Apr 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Recrutement assisté par l'IA",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/04/17/how-ai-agents-are-revolutionizing-recruitment/?ss=ai",
-        "body": "L'IA révolutionne le recrutement en le rendant plus rapide, plus efficace et en améliorant la qualité des candidats. L'article explique comment l'IA peut aider à identifier les meilleurs candidats, à attirer de meilleurs candidats et même à prédire les besoins futurs en recrutement. L'IA peut analyser les compétences, l'expérience et les traits de personnalité, réduire les biais inconscients et fournir des informations précieuses. Cependant, la supervision humaine reste essentielle pour contrer les biais potentiels de l'IA et pour évaluer l'adéquation culturelle. En associant l'efficacité de l'IA à la discernement humain, les organisations peuvent transformer leurs processus de recrutement et trouver les bonnes personnes plus rapidement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68012d94fbf040dc7b113450/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 17:00:00 GMT"
-    },
-    {
-        "title": "La bataille de l'IA pour les étudiants",
-        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/04/17/google-versus-openai-the-ai-fight-for-students/?ss=ai",
-        "body": "Google et OpenAI offrent gratuitement des outils d'IA aux étudiants pour les aider dans leurs études et leurs recherches. OpenAI propose un accès gratuit à ChatGPT Plus, incluant GPT-4o et DALL·E 3, jusqu'à fin mai 2025. Google offre son package Google One AI Premium gratuitement aux étudiants jusqu'au printemps 2026, incluant Gemini 2.5 Pro, des outils de recherche avancée et de l'IA intégrée dans ses applications populaires. Ces outils offrent un soutien puissant pour la gestion des tâches académiques et la créativité. OpenAI se concentre sur la satisfaction des besoins immédiats des étudiants, tandis que Google adopte une approche plus stratégique, intégrant profondément l'IA dans le processus académique. Les universités doivent s'adapter à ces avancées de l'IA, en révisant leurs programmes et méthodes d'évaluation pour maintenir l'intégrité académique. Les inégalités d'accès et de littératie numérique persistent, et la collaboration entre institutions et entreprises technologiques est essentielle pour garantir une transition numérique équitable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68010abf905840bc306ddb61/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La dernière nouveauté d'OpenAI",
-        "link": "https://www.forbes.com/sites/andrewfilev/2025/04/17/o3-o4-oh-my-first-impressions-from-openais-new-models-compared-to-alternatives/?ss=ai",
-        "body": "OpenAI a récemment dévoilé une nouvelle série de modèles plus puissants, suite à l'annonce de GPT-4.1. L'auteur, qui utilise l'IA quotidiennement pour diverses tâches, a testé les nouveaux modèles et partagé ses impressions initiales et comparaisons pratiques. Il souligne l'importance de tester soi-même les modèles en fonction de ses propres cas d'utilisation, car les performances de l'IA peuvent varier en fonction des cas d'utilisation spécifiques. L'article aborde également l'évolution des propositions de valeur et des prix de l'IA, ainsi que les différences de performances pratiques entre les derniers modèles. Enfin, l'auteur partage ses expériences avec différents modèles et encourage les lecteurs à partager leurs propres comparaisons.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6801294f5fc79e5db9dbcecd/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 17 Apr 2025 16:00:00 GMT"
     }
 ]
