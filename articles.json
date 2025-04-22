@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Je continuerai d’être poli avec ChatGPT et j’ai maintenant une excellente raison",
+        "title": "Je continuerai d\u2019\u00eatre poli avec ChatGPT et j\u2019ai maintenant une excellente raison",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2589583_je-continuerai-detre-poli-avec-chatgpt-et-jai-maintenant-une-excellente-raison",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-scaled-1-1200x800-1-768x512.jpg?resize=200,200&key=8bd85e46",
         "date": "Mon, 21 Apr 2025 23:00:00 GMT",
@@ -152,5 +152,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6804532585dfb95e43028386/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Apr 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.wsj.com/tech/ai/openai-ceo-sam-altman-to-resign-as-oklo-chairman-10a53edc?mod=rss_Technology",
+        "image": "",
+        "date": "Tue, 22 Apr 2025 20:58:26 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.bloomberg.com/news/articles/2025-04-22/apple-s-new-siri-chief-mike-rockwell-overhauls-management-to-start-turnaround",
+        "image": "",
+        "date": "Tue, 22 Apr 2025 16:34:37 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK114_CHROME.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 16:23:53 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/653500/the-washington-post-openai-chatgpt-partnership#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 15:45:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 14:51:53 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/653322/ai-wildlife-conservation#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257707_Ai_wildlife_conservation_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 14:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/22/the-prompt-cursors-customer-support-bot-made-up-a-policy/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/63b8a4b067d7de5681f26064/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
