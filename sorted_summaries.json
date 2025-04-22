@@ -1,10 +1,38 @@
 [
     {
+        "title": "L'importance de la pensée critique à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/04/22/brains-over-bots-a-billionaires-guide-to-thriving-through-change/?ss=ai",
+        "body": "Dans un monde où l'intelligence artificielle (IA) et l'automatisation dominent de plus en plus, l'auteur s'entretient avec John P. Calamos, Sr., fondateur de Calamos Investments, pour explorer les moyens de rester en avance sur la concurrence à long terme. Calamos suggère d'étudier la philosophie pour développer une pensée critique et remettre en question les idées reçues, ce qui est particulièrement pertinent à l'ère de l'IA. Il souligne l'importance de l'agilité intellectuelle et de la curiosité, encourageant les individus à cultiver des habitudes d'apprentissage continu. La passion et la détermination sont également essentielles, selon Calamos, qui recommande aux jeunes de découvrir ce qui les motive et les inspire. Enfin, il insiste sur l'altruisme et le service aux autres comme éléments clés du succès dans un paysage volatile. Son conseil pour les jeunes : ne poursuivez pas l'argent, poursuivez l'excellence, et l'argent suivra.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680696fc1bf9418ab085e89f/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 12:30:00 GMT"
+    },
+    {
+        "title": "L'orchestration de l'IA agentique",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/04/22/camunda-writes-new-score-for-agentic-ai-orchestration/?ss=ai",
+        "body": "L'article met en lumière l'émergence de l'IA agentique, une branche de l'intelligence artificielle qui vise à doter les machines d'une intelligence, d'une déduction et d'un raisonnement humains. Camunda, une entreprise d'orchestration des processus basée à Berlin, propose des capacités d'orchestration agentique pour aider les organisations à modéliser, déployer et gérer des agents IA. L'objectif est de permettre aux utilisateurs, tels que les scientifiques des données et les ingénieurs IA, de créer une combinaison harmonisée d'orchestration déterministe et non déterministe, permettant ainsi aux équipes techniques et commerciales d'intégrer la quantité souhaitée d'IA tout en respectant les limites définies. Camunda définit l'approche déterministe et non déterministe de l'exécution des processus, permettant de contrôler l'IA tout en offrant un niveau résilient de personnalisation et d'adaptabilité. En plus de ces capacités d'orchestration, Camunda introduit des fonctionnalités d'automatisation des tâches et de prise de décision intelligente et dynamique. L'entreprise vise à aider les organisations à exploiter pleinement le potentiel de l'IA en l'intégrant de manière holistique à leur architecture d'entreprise. Selon le rapport de Camunda pour 2025, 84 % des leaders informatiques et commerciaux prévoient d'ajouter davantage de capacités d'IA au cours des trois prochaines années, soulignant ainsi l'importance croissante de l'IA dans les processus métier.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680786a378ceb191b1794aff/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 12:14:00 GMT"
+    },
+    {
         "title": "The Future of AI: Friend, Therapist, and Collaborator",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/04/22/ais-shocking-pivot-from-work-tool-to-digital-therapist-and-life-coach/?ss=ai",
         "body": "La recherche récente du Harvard Business Review révèle que l'IA générative est principalement utilisée pour la thérapie, la compagnie et l'organisation de la vie, plutôt que pour des tâches techniques. Bien que l'IA soit capable d'effectuer des tâches créatives et techniques, les utilisateurs la privilégient pour le soutien, l'organisation et même l'amitié. La thérapie et la compagnie sont les cas d'utilisation les plus courants, suggérant que la disponibilité permanente et la capacité de fournir des conseils et des commentaires anonymes et honnêtes sont très appréciées. Les tâches marketing, quant à elles, sont moins populaires. La préférence des utilisateurs pour l'interaction humaine et la qualité du contenu généré par l'IA peuvent expliquer cela. L'IA est également utilisée pour générer des idées et brainstormer, plutôt que simplement effectuer des tâches. Les insights suggèrent que l'IA générative est adoptée dans divers aspects de la vie quotidienne, offrant un soutien collaboratif plutôt que de remplacer les humains. Cette tendance a des implications importantes pour les entreprises, soulignant les avantages d'utiliser l'IA pour soutenir les employés, améliorer leur bien-être et augmenter leur productivité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68072dff94b9bf207dfcc125/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Apr 2025 05:51:00 GMT"
+    },
+    {
+        "title": "Instagram déploie l'IA pour évaluer l'âge des utilisateurs",
+        "link": "https://www.frandroid.com/marques/meta/2588819_la-nouvelle-methode-dinstagram-pour-verifier-lage-des-ados-ne-va-pas-vous-surprendre",
+        "body": "Instagram va utiliser l'IA pour évaluer l'âge de ses utilisateurs et protéger les plus jeunes des dangers du web. L'IA analysera différents signaux, comme les messages d'anniversaire ou l'interaction avec certains contenus, pour déterminer l'âge des personnes. Les utilisateurs mineurs seront redirigés vers des comptes \"ados\" plus sécurisés, privés par défaut, avec des restrictions sur les messages et la possibilité d'une \"tutelle numérique\" parentale. Cette initiative vise à renforcer la sécurité des adolescents sur la plateforme et à répondre aux critiques concernant l'impact négatif d'Instagram sur la santé mentale des jeunes. Le déploiement débutera aux États-Unis, avec une possible expansion en Europe si l'expérience s'avère concluante.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/application-instagram-scaled-1-768x576.jpg?resize=225,225&key=b9df90d0",
+        "date": "Mon, 21 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Copilot améliore PowerPoint",
+        "link": "https://www.frandroid.com/marques/2588949_copilot-va-faciliter-la-creation-de-presentations-sur-powerpoint",
+        "body": "Microsoft étend les capacités de son assistant IA, Copilot, en l'intégrant à PowerPoint. Désormais, les utilisateurs peuvent créer des diapositives à partir d'un fichier ou d'une commande textuelle. Copilot peut générer des diapositives en se basant sur un document existant, en ciblant une partie spécifique pour un résultat plus précis. La fonctionnalité est actuellement disponible en anglais pour les utilisateurs avec une licence Copilot et la dernière version de l'application.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/microsoft-copilot-dans-powerpoint-1200x669-1-768x428.jpg?resize=167,167&key=788aa84d",
+        "date": "Mon, 21 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "La montée en puissance de ChatGPT Search en Europe",
