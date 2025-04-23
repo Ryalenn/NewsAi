@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Je continuerai d’être poli avec ChatGPT et j’ai maintenant une excellente raison",
+        "title": "Je continuerai d\u2019\u00eatre poli avec ChatGPT et j\u2019ai maintenant une excellente raison",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2589583_je-continuerai-detre-poli-avec-chatgpt-et-jai-maintenant-une-excellente-raison",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-scaled-1-1200x800-1-768x512.jpg?resize=200,200&key=8bd85e46",
         "date": "Mon, 21 Apr 2025 23:00:00 GMT",
@@ -187,5 +187,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/63b8a4b067d7de5681f26064/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Apr 2025 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/04/22/musk-robotaxis-in-austin-need-intervention-every-10000-miles/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68082a9bd42b0b8c858198de/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/22/companies-race-toward-ai-agent-adoption/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680822839815527ff30620d3/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/22/is-there-value-in-a-curated-enterprise-ai-experience/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680816269b7dddca91207835/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Apr 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
