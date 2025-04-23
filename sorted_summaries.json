@@ -1,5 +1,54 @@
 [
     {
+        "title": "La révolution de l'IA dans le paysage du travail moderne",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/23/google-cloud-next-2025-and-the-connected-future-of-modern-work/?ss=ai",
+        "body": "Google Cloud Next 2025 a mis en lumière la stratégie de Google visant à intégrer l'IA dans les flux de travail quotidiens, améliorant ainsi l'accessibilité des outils pour les employés et soutenant l'adaptation organisationnelle lors de la transformation numérique. L'IA évolue d'une fonctionnalité expérimentale vers une couche fondamentale de la technologie d'entreprise, avec des capacités d'IA intégrées dans des applications telles que Gmail, Docs et Sheets. Gemini de Google, un agent IA personnalisé, automatise les tâches spécialisées et multietapes. La plateforme Agentspace de Google facilite la création et le déploiement d'agents IA multimodaux capables de raisonner, de planifier et d'interagir avec diverses applications et sources de données. L'accent est mis sur l'interopérabilité de l'IA, permettant aux organisations d'intégrer l'IA à leurs environnements informatiques existants et de se connecter à différents fournisseurs de logiciels. Google aborde également les considérations de sécurité et de confidentialité avec de nouveaux outils et intégrations pour aider les organisations à gérer les risques. L'intégration de l'IA sur le lieu de travail présente des considérations techniques et culturelles, et Google, ainsi que d'autres fournisseurs d'IA, signalent une productivité accrue et de nouvelles opportunités de développement des compétences. Les entreprises devront peut-être reconsidérer leurs structures d'équipe, leurs flux de travail et les compétences requises pour s'adapter à ces changements.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68081e0106940c30e6726951/0x0.png?format=png&width=440",
+        "date": "Wed, 23 Apr 2025 15:24:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des agents intelligents à l'éthique de la conception",
+        "link": "https://www.forbes.com/sites/viviantoh/2025/04/23/chinas-smart-ai-assistants-echoes-microsoft-recalls-privacy-flaws/?ss=ai",
+        "body": "Les assistants IA capables de lire les écrans, tels que Doubao AI de ByteDance, représentent une nouvelle étape importante dans le développement de l'IA. Ces outils, qui vont au-delà des simples chatbots, sont conçus pour planifier, exécuter et assister les utilisateurs dans divers domaines. Si les développeurs occidentaux se concentrent sur les performances techniques et l'intégration d'API, les géants technologiques chinois adoptent une approche différente, en développant des agents \"screen-aware\" qui peuvent voir, interpréter et agir en fonction des informations affichées à l'écran. Cette approche soulève des questions urgentes en matière de vie privée, de consentement et de transparence. L'article explore les implications de cette technologie, y compris les problèmes de consentement et de contrôle des données, et souligne la nécessité d'une auto-réglementation de l'industrie et de normes claires pour garantir une utilisation responsable. Bien que cette technologie puisse améliorer la productivité et l'accessibilité, il est essentiel de traiter les agents \"screen-aware\" comme un changement fondamental dans notre interaction avec les machines, en mettant l'accent sur la clarté, le respect et le choix éclairé des utilisateurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6808664c8a94132552b9cd2f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 14:46:00 GMT"
+    },
+    {
+        "title": "Détecter les Deepfakes Candidats à l'Emploi",
+        "link": "https://www.forbes.com/sites/carolinecastrillon/2025/04/23/5-strategies-to-identify-ai-deepfakes-posing-as-job-candidates/?ss=ai",
+        "body": "Les deepfakes créés par l'IA posent désormais des problèmes dans le recrutement, en se faisant passer pour de vrais candidats. La firme de cybersécurité Palo Alto Networks révèle qu'il ne faut qu'environ 70 minutes pour créer un faux candidat. Gartner prévoit qu'en 2028, un quart des candidats à l'emploi dans le monde seront des faux. Les implications sont inquiétantes : une fois à l'intérieur, ces imposteurs peuvent voler des informations, détourner des fonds, installer des rançongiciels, etc.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680859125975436382a609e6/0x0.jpg?format=jpg&crop=3871,2176,x0,y158,safe&width=440",
+        "date": "Wed, 23 Apr 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Nvidia étend les capacités de son assistant IA G-Assist",
+        "link": "https://www.theverge.com/news/654221/nvidia-g-assist-plugins-spotify-twitch-apps#comments",
+        "body": "Nvidia met à jour son assistant IA G-Assist sur Windows pour aller au-delà de l'optimisation des paramètres de jeu et du système. G-Assist, initialement lancé le mois dernier en tant que chatbot axé principalement sur l'amélioration du jeu sur PC, dispose désormais d'une prise en charge des plugins, permettant aux utilisateurs d'étendre ses fonctionnalités pour contrôler des applications telles que Spotify, vérifier si un streamer est en direct sur Twitch, et obtenir des mises à jour sur les cours de la bourse ou la météo. Le nouveau générateur de plugins G-Assist, basé sur ChatGPT, permet aux développeurs et aux passionnés de créer des fonctionnalités personnalisées pour l'assistant IA de Nvidia. G-Assist pourra se connecter à des outils externes et utiliser des API pour étendre ses capacités. Nvidia a publié des exemples de plugins sur GitHub, qui peuvent être compilés et utilisés par G-Assist. Ces plugins s'exécutent localement à l'aide d'un petit modèle linguistique sur les GPU RTX de Nvidia, et les développeurs pourront également partager leurs propres plugins personnalisés via GitHub. G-Assist nécessite près de 10 Go d'espace pour les fonctions d'assistance et les capacités vocales, et fonctionne sur diverses GPU de bureau RTX 30, 40 et 50 séries, avec une carte dotée d'au moins 12 Go de VRAM. Les personnes intéressées à essayer G-Assist ou à créer un plugin peuvent le faire via l'application principale de Nvidia pour Windows.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Microsoft 365 Copilot : une mise à niveau intelligente",
+        "link": "https://www.theverge.com/news/654113/microsoft-365-copilot-redesign-search-image-notebook-features",
+        "body": "Microsoft lance bientôt une nouvelle version de son application Microsoft 365 Copilot, qui s'aligne sur les fonctionnalités de la version grand public. La nouvelle application, destinée aux entreprises, propose une recherche alimentée par l'IA, une fonction de création d'images basée sur GPT-4o d'OpenAI et des « cahiers » pour des projets IA à petite échelle. La nouvelle interface de chat, similaire à celle de la version grand public, possède désormais une mémoire et une personnalisation, permettant à l'application de comprendre les préférences et le travail de l'utilisateur. La fonctionnalité « Pages », qui permet une collaboration avec des agents IA, est également mise en avant. Microsoft a également ajouté des « cahiers » pour organiser les informations et les projets, et une section « Copilot Create » pour générer du contenu pour les documents Office, utilisant le modèle GPT-4o. Au cœur de l'application se trouve un nouveau « magasin d'agents » pour accéder facilement aux agents IA de Microsoft et de tiers. La séparation entre les applications grand public et commerciale est discutée, avec la nécessité d'équilibrer la convivialité et le professionnalisme. Microsoft lance également son indice annuel des tendances professionnelles, mettant en évidence l'émergence d'organisations axées sur les outils IA et l'importance croissante des « chefs d'agents IA ».",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Ultra HDR de Google Photos",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/23/new-google-photos-update-makes-any-photo-pop-with-ultra-hdr-quality/?ss=ai",
+        "body": "Google Photos teste un nouvel outil Ultra HDR qui améliore considérablement l'apparence des images, qu'elles soient créées par des appareils photo, des outils numériques ou générées par l'IA. Cette fonctionnalité convertit les images standard en format Ultra HDR, tirant pleinement parti des couleurs et de la luminosité supplémentaires offertes par les derniers écrans HDR. Cet outil sera particulièrement utile pour les photographes et les utilisateurs de médias sociaux souhaitant optimiser l'impact visuel de leurs images. La conversion en Ultra HDR donne aux images plus d'impact, avec des surbrillances plus lumineuses et un réalisme accru. L'outil ajoute une carte de gain invisible à l'image, contenant des informations de luminosité supplémentaires pour tirer parti des écrans compatibles HDR. La fonctionnalité est actuellement en test sur un nombre limité de comptes avant un déploiement plus large. La conversion en Ultra HDR pourrait entraîner une perte de qualité, comme le suggère la réduction de taille de fichier observée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6643686ac0a31ef725d64bee/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Grok xAI Chatbot Upgrade",
+        "link": "https://www.theverge.com/news/654090/grok-has-a-vision#comments",
+        "body": "Le chatbot Grok xAI a été mis à niveau avec une nouvelle fonctionnalité permettant de \"voir\" ce qui est sur l'écran de l'utilisateur ou dans sa caméra, mais uniquement sur iOS pour le moment. Grok prend désormais en charge les conversations vocales dans plusieurs langues et offre une fonction de recherche en temps réel par la voix. Ces mises à jour rapprochent Grok de la concurrence, notamment de Gemini Live, l'IA d'Elon Musk.",
+        "image": "",
+        "date": "Wed, 23 Apr 2025 07:22:32 GMT"
+    },
+    {
         "title": "Sécuriser l'authentification des agents IA",
         "link": "https://www.forbes.com/sites/janakirammsv/2025/04/23/descope-builds-authentication-framework-for-ai-agent-integration/?ss=ai",
         "body": "Les entreprises qui déploient des agents IA font face à un manque d'infrastructure critique entre leurs applications et ces systèmes autonomes. La startup Descope lance l'Agentic Identity Hub, une plateforme permettant une authentification et une autorisation sécurisées entre les agents IA et les applications d'entreprise. L'architecture technique résout les problèmes d'authentification émergents, en permettant aux développeurs de rendre leurs applications compatibles avec les agents via une authentification OAuth et en fournissant des modèles pré-construits pour une intégration facile avec des outils tiers. L'Agentic Identity Hub aborde également les problèmes de sécurité liés à la prolifération des identités de machines, qui dépassent déjà les identités humaines dans les environnements d'entreprise. La plateforme fournit un cadre pour la visibilité et la gouvernance de ces identités, y compris les agents IA déployés sans supervision IT. Les considérations d'implémentation incluent l'intégration avec les systèmes d'identité existants, l'expérience des développeurs et l'évolutivité.",
@@ -56,11 +105,25 @@
         "date": "Tue, 22 Apr 2025 22:00:00 GMT"
     },
     {
+        "title": "OpenAI intéressé par l'achat de Chrome",
+        "link": "https://www.theverge.com/news/653882/openai-chrome-google-us-judge#comments",
+        "body": "Résumé : OpenAI, l'entreprise derrière ChatGPT, a manifesté son intérêt pour l'achat de Chrome si Google est contraint de s'en séparer dans le cadre d'un procès pour monopole. L'entreprise a déjà approché Google pour un partenariat potentiel, mais a été refusée. OpenAI a également révélé qu'il travaille sur son propre index de recherche, mais a rencontré des problèmes de qualité avec ses partenaires actuels.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK114_Google_Chrome_03_1ec6b5.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 20:48:19 GMT"
+    },
+    {
         "title": "ChatGPT Pro",
         "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
         "body": "OpenAI dévoile une nouvelle version de son modèle o1, ainsi qu'un nouveau niveau d'abonnement mensuel à 200 $, ChatGPT Pro, qui inclut un accès illimité à o1, GPT-4o et Advanced Voice mode. Le modèle o1, initialement lancé en version limitée, est désormais disponible pour les utilisateurs ChatGPT Plus et Team, avec des fonctionnalités améliorées en matière de codage, de mathématiques et de traitement des images. OpenAI promet également des réponses plus concises et donc plus rapides. De plus, l'entreprise annonce le ChatGPT Pro Grant Program, offrant 10 abonnements ChatGPT Pro à des chercheurs médicaux.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 22 Apr 2025 20:48:19 GMT"
+    },
+    {
+        "title": "L'impact de l'IA sur l'industrie cinématographique",
+        "link": "https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai#comments",
+        "body": "L'Academy of Motion Picture Arts and Sciences a récemment reconnu l'impact de l'IA sur l'industrie cinématographique en mettant à jour ses règles d'éligibilité pour les Oscars. Bien qu'elle n'impose pas de restrictions sur l'utilisation de l'IA, l'Académie souligne que l'utilisation de l'IA en tant que telle n'affectera pas les chances d'un film, mais que la manière dont elle est employée pourrait être prise en compte. L'Académie et ses branches évalueront les réalisations en tenant compte de la présence d'une touche humaine dans la créativité. Cette mise à jour intervient dans un contexte de grèves d'acteurs et d'écrivains à Hollywood, en partie dues à la crainte de l'impact de l'IA sur les emplois créatifs. L'Académie a également introduit une nouvelle règle exigeant des membres qu'ils visionnent tous les films en lice pour une catégorie donnée avant de voter.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 19:40:23 GMT"
     },
     {
         "title": "Les géants de la tech démocratisent les chatbots basés sur des LLM",
@@ -208,26 +271,5 @@
         "body": "Sam's Club, une filiale de Walmart, dévoile sa vision de l'avenir du commerce de détail, avec un accent mis sur l'élimination des caisses traditionnelles et la vérification des reçus. La technologie \"Just Go\", basée sur l'IA, est au cœur de cette vision, permettant aux clients de scanner les articles avec l'application mobile tout en faisant leurs courses. La technologie de vision par ordinateur et de correspondance de reçus numériques vérifie les achats à la sortie, éliminant ainsi la nécessité de vérifier manuellement les reçus. Le nouveau magasin de Grapevine, au Texas, sert de vitrine à cette technologie, avec des portails de sortie intelligents et des robots en arrière-boutique. Sam's Club insiste sur le fait que l'automatisation ne remplacera pas les employés, mais les libérera des tâches manuelles pour se concentrer sur des rôles plus valorisants. L'entreprise adopte une approche hybride, équilibrant l'innovation technologique et le pragmatisme opérationnel, et prévoit d'ouvrir 15 nouveaux clubs et de moderniser des dizaines d'autres chaque année, adoptant ainsi rapidement l'IA à grande échelle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68068f82ffeaab85588455f5/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 21 Apr 2025 18:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la course à pied : l'IA au service de la performance athlétique",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/04/21/ai-for-runners-and-athletes-were-making-excellent-progress/?ss=ai",
-        "body": "Trois experts en IA ont partagé leurs idées sur les avancées révolutionnaires en matière de technologies portables pour la course à pied et leur impact sur les athlètes. Alexander Amini, impliqué dans une entreprise à la pointe de l'IA, souligne l'importance de placer l'IA là où se trouvent les données. Grâce aux nouveaux modèles LLM, l'IA peut désormais être intégrée aux appareils périphériques, rendant l'IA plus accessible et moins coûteuse pour les athlètes, même dans les zones sans connexion Internet. Amini souligne également la richesse des données collectées par les capteurs corporels, qui offrent une perspective plus complète et précise que la simple conversation. \n\nEmily Capodilupo, créatrice de l'outil Whoop, explique que les humains ne sont pas doués pour détecter la déshydratation, tandis que l'IA peut analyser en temps réel les signes vitaux et aider les athlètes à comprendre leur corps et leurs besoins de manière plus granulaire. Jamie, qui a investi dans la création de jumeaux numériques de lui-même, révèle comment ces modèles détaillés peuvent prédire les risques de maladies et prolonger la vie. Les avancées de l'IA dans le domaine du sport offrent des possibilités incroyables pour améliorer les performances et la santé des athlètes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680666d1acd8a969ef53b592/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 21 Apr 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Amélioration des photos avec l'IA",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/21/new-google-photos-update-makes-any-photo-pop-with-ultra-hdr-quality/?ss=ai",
-        "body": "Google Photos teste un nouvel outil qui utilise l'IA pour convertir n'importe quelle image au format Ultra HDR, améliorant ainsi considérablement son apparence. Cet outil sera particulièrement utile pour les photographes et les utilisateurs des médias sociaux souhaitant optimiser l'impact visuel de leurs images. La conversion en Ultra HDR donne aux photos des surbrillances plus vives et un aspect plus réaliste, les rendant plus attrayantes, surtout sur des plateformes comme Instagram ou Facebook. L'outil est actuellement en phase de test sur un nombre limité de comptes avant son déploiement à grande échelle. La fonctionnalité ajoute une couche invisible à l'image, appelée carte de gain, qui contient des informations de luminosité supplémentaires pour tirer parti des écrans HDR. L'utilisation de l'IA pour inférer les détails des surbrillances pourrait être à l'origine de la réduction inattendue de la taille des images converties en Ultra HDR.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6643686ac0a31ef725d64bee/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 21 Apr 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Gemini Live: Visual Sharing",
-        "link": "https://www.forbes.com/sites/prakharkhanna/2025/04/21/how-to-use-gemini-lives-real-time-screen-sharing-and-camera-features/?ss=ai",
-        "body": "Google a récemment mis à disposition de tous les utilisateurs Android Gemini Live, une fonctionnalité de partage d'écran et de caméra en temps réel. Cette fonctionnalité, alimentée par Astra, permet à un chatbot IA conversationnel de fournir des réponses et des suggestions en temps réel en fonction des images capturées par la caméra du téléphone. Les utilisateurs peuvent demander à Gemini de les aider à organiser un espace encombré, en identifiant les articles à jeter ou à donner, ou encore à résoudre des problèmes quotidiens. De plus, la fonction de partage d'écran permet de partager des photos inspirantes et de demander à Gemini des suggestions pour des projets créatifs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6806405c2f2fe9f3cf0553fa/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 21 Apr 2025 13:00:00 GMT"
     }
 ]
