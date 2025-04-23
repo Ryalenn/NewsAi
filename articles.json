@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Je continuerai d’être poli avec ChatGPT et j’ai maintenant une excellente raison",
+        "title": "Je continuerai d\u2019\u00eatre poli avec ChatGPT et j\u2019ai maintenant une excellente raison",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2589583_je-continuerai-detre-poli-avec-chatgpt-et-jai-maintenant-une-excellente-raison",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-scaled-1-1200x800-1-768x512.jpg?resize=200,200&key=8bd85e46",
         "date": "Mon, 21 Apr 2025 23:00:00 GMT",
@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "Google forcé de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
+        "title": "Google forc\u00e9 de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2590193_google-force-de-vendre-chrome-openai-chatgpt-veut-tout-racheter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-image-23-avr-2025-00-38-32-1200x800-1-768x512.jpg?resize=200,200&key=d7f8cc4a",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -228,6 +228,76 @@
         "link": "https://t.co/lcaSyty2n5",
         "image": "",
         "date": "Wed, 23 Apr 2025 07:22:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.amd.com/en/corporate/events/computex.html",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/GpOK5nGaEAAGvBq.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 14:04:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/654221/nvidia-g-assist-plugins-spotify-twitch-apps#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/654113/microsoft-365-copilot-redesign-search-image-notebook-features",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/654090/grok-has-a-vision#comments",
+        "image": "",
+        "date": "Wed, 23 Apr 2025 07:22:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/653882/openai-chrome-google-us-judge#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK114_Google_Chrome_03_1ec6b5.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 20:48:19 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Apr 2025 19:40:23 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/04/23/google-cloud-next-2025-and-the-connected-future-of-modern-work/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68081e0106940c30e6726951/0x0.png?format=png&width=440",
+        "date": "Wed, 23 Apr 2025 15:24:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/viviantoh/2025/04/23/chinas-smart-ai-assistants-echoes-microsoft-recalls-privacy-flaws/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6808664c8a94132552b9cd2f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 14:46:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/carolinecastrillon/2025/04/23/5-strategies-to-identify-ai-deepfakes-posing-as-job-candidates/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680859125975436382a609e6/0x0.jpg?format=jpg&crop=3871,2176,x0,y158,safe&width=440",
+        "date": "Wed, 23 Apr 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/23/new-google-photos-update-makes-any-photo-pop-with-ultra-hdr-quality/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6643686ac0a31ef725d64bee/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 13:00:00 GMT",
         "check": "no"
     }
 ]
