@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Je continuerai d’être poli avec ChatGPT et j’ai maintenant une excellente raison",
+        "title": "Je continuerai d\u2019\u00eatre poli avec ChatGPT et j\u2019ai maintenant une excellente raison",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2589583_je-continuerai-detre-poli-avec-chatgpt-et-jai-maintenant-une-excellente-raison",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-scaled-1-1200x800-1-768x512.jpg?resize=200,200&key=8bd85e46",
         "date": "Mon, 21 Apr 2025 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Google forcé de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
+        "title": "Google forc\u00e9 de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2590193_google-force-de-vendre-chrome-openai-chatgpt-veut-tout-racheter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-image-23-avr-2025-00-38-32-1200x800-1-768x512.jpg?resize=200,200&key=d7f8cc4a",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -292,5 +292,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6643686ac0a31ef725d64bee/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 23 Apr 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theinformation.com/briefings/googles-gemini-user-numbers-revealed-court",
+        "image": "",
+        "date": "Wed, 23 Apr 2025 18:00:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/654223/cheat-on-everything-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257711_AI_cheating_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Apr 2025 13:04:42 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/23/ai-and-the-vc-world-what-do-investors-do/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68090fe54c10973fb2f6334d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/dileeprao/2025/04/23/using-6-ai--street-smart-strategies-to-build-a-billion-dollar-startup/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6808e56e2c7881b4704e68f3/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
