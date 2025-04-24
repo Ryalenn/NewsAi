@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Google forcé de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
+        "title": "Google forc\u00e9 de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2590193_google-force-de-vendre-chrome-openai-chatgpt-veut-tout-racheter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-image-23-avr-2025-00-38-32-1200x800-1-768x512.jpg?resize=200,200&key=d7f8cc4a",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -210,7 +210,7 @@
         "check": "yes"
     },
     {
-        "title": "Meta déploie une des meilleures fonctions des lunettes Ray-Ban connectées en France",
+        "title": "Meta d\u00e9ploie une des meilleures fonctions des lunettes Ray-Ban connect\u00e9es en France",
         "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2591875_meta-deploie-une-des-meilleures-fonctions-des-lunettes-ray-ban-connectees-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/meta-rayban2-1200x792-1-768x507.jpeg?resize=198,198&key=def0eb0b",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -245,7 +245,7 @@
         "check": "yes"
     },
     {
-        "title": "Perplexity prêt à acheter Chrome si Google doit le vendre",
+        "title": "Perplexity pr\u00eat \u00e0 acheter Chrome si Google doit le vendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2591971_perplexity-pret-a-acheter-chrome-si-google-doit-le-vendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/perplexity-chrome-1200x800-1-768x512.jpg?resize=200,200&key=e20185b9",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -266,7 +266,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette application phare d’Adobe s’ouvre à l’intelligence artificielle de Google et OpenAI",
+        "title": "Cette application phare d\u2019Adobe s\u2019ouvre \u00e0 l\u2019intelligence artificielle de Google et OpenAI",
         "link": "https://www.frandroid.com/produits-android/photo/2589825_cette-application-phare-dadobe-souvre-a-lintelligence-artificielle-de-google-et-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/product-1080x1350-1-1200x799-1-768x511.png?resize=200,200&key=a9d878ba",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -320,5 +320,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68099aa49dc4075a18859f25/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 24 Apr 2025 12:10:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/04/24/carving-an-unconventional-new-lane-in-cybersecurity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680a4390740736fda99adf7e/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Apr 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/04/24/one-prompt-can-bypass-every-major-llms-safeguards/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680a38e9713a23ded856e017/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Apr 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/04/24/ai-is-us-and-its-more-than-us/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680866033e7c08111e86c0eb/0x0.jpg?format=jpg&crop=1280,719,x0,y114,safe&width=440",
+        "date": "Thu, 24 Apr 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kirimasters/2025/04/24/how-ai-can-solve-retail-medias-growing-pains/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68082df55510ab7e106f4bda/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Apr 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
