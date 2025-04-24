@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Google forcé de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
+        "title": "Google forc\u00e9 de vendre Chrome : OpenAI (ChatGPT) veut tout racheter",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2590193_google-force-de-vendre-chrome-openai-chatgpt-veut-tout-racheter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/chatgpt-image-23-avr-2025-00-38-32-1200x800-1-768x512.jpg?resize=200,200&key=d7f8cc4a",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -273,7 +273,7 @@
         "check": "yes"
     },
     {
-        "title": "Meta déploie une des meilleures fonctions des lunettes Ray-Ban connectées en France",
+        "title": "Meta d\u00e9ploie une des meilleures fonctions des lunettes Ray-Ban connect\u00e9es en France",
         "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2591875_meta-deploie-une-des-meilleures-fonctions-des-lunettes-ray-ban-connectees-en-france",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/meta-rayban2-1200x792-1-768x507.jpeg?resize=198,198&key=def0eb0b",
         "date": "Tue, 22 Apr 2025 23:00:00 GMT",
@@ -292,5 +292,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6809467985f0ccd44900fbe9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 23 Apr 2025 20:27:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/23/google-leak-reveals-new-gemini-ai-subscription-levels/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66e309ecaa1de6a2a67e3416/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/23/beyond-work-4-arenas-to-chart-the-course-of-life-amid-agentic-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68095f4c18dfa13f06f089ed/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Apr 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
