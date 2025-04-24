@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple remplace le responsable de Siri",
+        "link": "https://www.theverge.com/news/633358/apple-replace-siri-leader-john-giannandrea",
+        "body": "Résumé : Apple remplace le responsable de Siri, John Giannandrea, par Mike Rockwell, suite à des retards dans le déploiement de fonctionnalités IA très attendues. Tim Cook, PDG d'Apple, aurait perdu confiance en la capacité de Giannandrea à diriger le développement de l'IA. Le lancement des mises à niveau de l'IA générative pour Siri a été reporté à l'année prochaine en raison de délais de développement plus longs que prévu. Lors d'une réunion tendue de l'équipe Siri, la situation de l'IA a été qualifiée d'\"ugly\" par un directeur senior d'Apple. Rockwell, qui dirigeait auparavant le développement de Vision Pro, sera désormais chargé de diriger le développement de l'IA et de Siri.",
+        "image": "",
+        "date": "Thu, 24 Apr 2025 21:06:00 GMT"
+    },
+    {
+        "title": "L'éthique de l'IA et les biais dans les données",
+        "link": "https://www.forbes.com/video/2b3aa380-950f-4f54-a437-bd14f83808fe/?ss=ai",
+        "body": "L'article aborde les enjeux éthiques liés à l'IA, en particulier les questions de biais dans les données. Il souligne l'importance de la responsabilité et de la transparence dans le développement de systèmes d'IA. L'auteur met en évidence les conséquences potentielles des biais dans les données, y compris la perpétuation des stéréotypes et des discriminations. Il est souligné que les entreprises doivent s'engager à identifier et à atténuer les biais, à améliorer la diversité et à éduquer les utilisateurs sur les limites des systèmes d'IA. L'article plaide pour une collaboration entre les experts en éthique, les chercheurs en IA et les décideurs politiques pour établir des normes et des réglementations garantissant une utilisation responsable de l'IA.",
+        "image": "https://imageio.forbes.com/i-forbesimg/media/video/2025/04/24/2b3aa380-950f-4f54-a437-bd14f83808fe_thumb.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Apr 2025 20:00:00 GMT"
+    },
+    {
         "title": "Deepfake Nudes Arrests",
         "link": "https://www.theverge.com/2024/3/8/24094633/deepfake-ai-explicit-images-florida-teenagers-arrested",
         "body": "Deux élèves du collège en Floride ont été arrêtés et inculpés pour avoir créé des deepfakes à caractère sexuel de leurs camarades de classe. Cet incident est peut-être le premier cas connu de poursuites pénales liées à des images nues générées par l'IA aux États-Unis. Les mineurs créant des images explicites d'autres enfants à l'aide de l'IA sont un problème croissant dans les districts scolaires du pays. Bien qu'il n'y ait actuellement aucune loi fédérale sur les deepfakes à caractère sexuel non consensuels, des projets de loi sont en cours d'examen au Sénat et à la Chambre des représentants. La plupart des États ont des lois contre la vengeance pornographique, mais seuls quelques-uns ont adopté des lois sur les images à caractère sexuel générées par l'IA.",
@@ -292,40 +306,5 @@
         "body": "Bien que le marché des services cloud soit dominé par trois grands acteurs, la course à l'innovation en IA maintient une dynamique compétitive. Google, occupant la troisième place, gagne des parts de marché grâce à une nouvelle équipe de direction et à des investissements dans la formation et les certifications. La société se concentre sur la création de valeur commerciale et l'amélioration de l'expérience utilisateur avec Agentspace et la Customer Experience Suite. Agentspace, une interface de travail personnalisée et intuitive, et le Agent Developer Kit open source encouragent l'adoption et l'engagement des développeurs. La feuille de route de Google, y compris Vertex, Firebase et Model Garden, offre une simplicité rafraîchissante par rapport à la complexité des autres fournisseurs de cloud. La stratégie de Google, similaire à celle de Red Hat Enterprise Linux, vise à offrir une expérience soigneusement sélectionnée, équilibrant innovation et gestion des risques. La société transmet un sentiment d'encouragement à l'action, ce qui pourrait séduire les entreprises et les utilisateurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/680816269b7dddca91207835/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Apr 2025 22:00:00 GMT"
-    },
-    {
-        "title": "OpenAI intéressé par l'achat de Chrome",
-        "link": "https://www.theverge.com/news/653882/openai-chrome-google-us-judge#comments",
-        "body": "Résumé : OpenAI, l'entreprise derrière ChatGPT, a manifesté son intérêt pour l'achat de Chrome si Google est contraint de s'en séparer dans le cadre d'un procès pour monopole. L'entreprise a déjà approché Google pour un partenariat potentiel, mais a été refusée. OpenAI a également révélé qu'il travaille sur son propre index de recherche, mais a rencontré des problèmes de qualité avec ses partenaires actuels.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK114_Google_Chrome_03_1ec6b5.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 22 Apr 2025 20:48:19 GMT"
-    },
-    {
-        "title": "ChatGPT Pro",
-        "link": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
-        "body": "OpenAI dévoile une nouvelle version de son modèle o1, ainsi qu'un nouveau niveau d'abonnement mensuel à 200 $, ChatGPT Pro, qui inclut un accès illimité à o1, GPT-4o et Advanced Voice mode. Le modèle o1, initialement lancé en version limitée, est désormais disponible pour les utilisateurs ChatGPT Plus et Team, avec des fonctionnalités améliorées en matière de codage, de mathématiques et de traitement des images. OpenAI promet également des réponses plus concises et donc plus rapides. De plus, l'entreprise annonce le ChatGPT Pro Grant Program, offrant 10 abonnements ChatGPT Pro à des chercheurs médicaux.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 22 Apr 2025 20:48:19 GMT"
-    },
-    {
-        "title": "L'impact de l'IA sur l'industrie cinématographique",
-        "link": "https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai#comments",
-        "body": "L'Academy of Motion Picture Arts and Sciences a récemment reconnu l'impact de l'IA sur l'industrie cinématographique en mettant à jour ses règles d'éligibilité pour les Oscars. Bien qu'elle n'impose pas de restrictions sur l'utilisation de l'IA, l'Académie souligne que l'utilisation de l'IA en tant que telle n'affectera pas les chances d'un film, mais que la manière dont elle est employée pourrait être prise en compte. L'Académie et ses branches évalueront les réalisations en tenant compte de la présence d'une touche humaine dans la créativité. Cette mise à jour intervient dans un contexte de grèves d'acteurs et d'écrivains à Hollywood, en partie dues à la crainte de l'impact de l'IA sur les emplois créatifs. L'Académie a également introduit une nouvelle règle exigeant des membres qu'ils visionnent tous les films en lice pour une catégorie donnée avant de voter.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CHATBOT_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 22 Apr 2025 19:40:23 GMT"
-    },
-    {
-        "title": "Les géants de la tech démocratisent les chatbots basés sur des LLM",
-        "link": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai#comments",
-        "body": "Les grandes entreprises technologiques, telles que Microsoft, Google et OpenAI, rendent les technologies de chatbots basées sur l'IA plus accessibles au grand public. Copilot de Microsoft, Gemini de Google et GPT-4 d'OpenAI utilisent des séries de programmes d'autocompletion pour apprendre le langage et faire des inférences statistiques. L'article aborde également d'autres développements dans le domaine de l'IA, notamment l'intégration de l'IA aux Oscars, les nouvelles fonctionnalités de Copilot Vision, ChatGPT et Anthropic, et les plans de Meta pour former l'IA sur les données des utilisateurs de l'UE. L'IA est également utilisée dans la création de contenu, comme le film \"Giraffes on Horseback Salad\", et dans des canulars impliquant des voix générées par IA de Elon Musk et Mark Zuckerberg. Google améliore Gemini avec des fonctionnalités de recherche et d'analyse d'images, et présente de nouvelles versions de ses modèles Gemini et Gemma. Enfin, l'article aborde les problèmes de droits d'auteur liés à l'IA et les solutions potentielles.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 22 Apr 2025 19:40:23 GMT"
-    },
-    {
-        "title": "La montée en puissance de l'IA",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/22/the-prompt-cursors-customer-support-bot-made-up-a-policy/?ss=ai",
-        "body": "L'outil de codage IA Cursor, de la startup Anysphere, a connu un problème lorsque son bot de support client a inventé une réponse à une question d'un programmeur, ce qui a entraîné des plaintes. OpenAI a lancé de nouveaux modèles capables d'analyser les images, de rechercher sur le web et d'interpréter les données. Ces modèles peuvent effectuer des tâches indépendamment, mais nécessitent plus de temps et de puissance de calcul. ChatGPT est utilisé pour deviner des emplacements géographiques à partir d'images, et pour créer des figurines et des poupées Barbie personnalisées. Des livres générés par l'IA sur des personnalités politiques canadiennes ont été publiés sur Amazon, certains contenant des informations erronées. Anthropic a investi dans Goodfire, une startup qui s'attaque au problème de la \"boîte noire\" de l'IA. Le créateur de Cursor, Michael Truell, a été recruté par Ali Partovi, un investisseur précoce dans Facebook et Airbnb, qui a vu le potentiel de l'IA. La société a atteint 100 millions de dollars de revenus annuels en un an. L'application Perplexity, qui prévoit d'intégrer son assistant IA dans les smartphones Lenovo et Samsung, présente de graves vulnérabilités de sécurité. Enfin, les robots humanoïdes ont encore du chemin à parcourir, comme l'a montré une course à pied à Beijing où seuls 6 robots sur 21 ont terminé la course.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/63b8a4b067d7de5681f26064/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 22 Apr 2025 19:00:00 GMT"
     }
 ]
