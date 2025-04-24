@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI veut acquérir Chrome",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/24/if-openai-buys-chrome-ai-may-rule-the-browser-wars/?ss=ai",
+        "body": "OpenAI a manifesté son intérêt pour l'acquisition du navigateur Chrome de Google si le Département de la Justice force Alphabet à s'en séparer. Cette révélation fait partie d'une enquête antitrust plus large sur le contrôle de Google sur ses produits d'IA et ses pratiques commerciales. Les experts en IA pensent que l'acquisition de Chrome transformerait fondamentalement le modèle de distribution d'OpenAI, passant d'un service que les utilisateurs doivent rechercher activement à une intelligence ambiante dans l'outil principal utilisé pour accéder à Internet. Cela représenterait un bond stratégique dans l'acquisition d'utilisateurs et une évolution structurelle dans la distribution et la monétisation de l'IA. Cependant, certains experts mettent en garde contre le simple transfert de Chrome d'une entreprise puissante à une autre, ce qui pourrait ne pas diversifier véritablement le marché. L'acquisition soulève également des questions sur la confidentialité des utilisateurs, car OpenAI aurait accès à une grande quantité de données sur le comportement des utilisateurs, ce qui pourrait alimenter ses modèles linguistiques de grande envergure mais aussi susciter l'indignation des militants de la protection de la vie privée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68099aa49dc4075a18859f25/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Apr 2025 12:10:00 GMT"
+    },
+    {
         "title": "L'adoption de l'IA par Adobe",
         "link": "https://www.theverge.com/2024/10/25/24278715/adobe-artists-embrace-generative-ai-creative-community",
         "body": "Adobe mise pleinement sur les modèles et outils d'IA générative, même si cela signifie tourner le dos aux créateurs qui n'apprécient pas cette technologie. L'entreprise affirme que l'IA augmentera la productivité et la créativité, mais certains artistes craignent qu'elle n'impacte négativement leurs moyens de subsistance et le caractère unique de leur travail. Adobe, leader du marché des logiciels de création, est convaincu que l'IA est essentielle pour répondre à la demande croissante de contenu et rester compétitif. Malgré les critiques, Adobe prévoit d'intégrer l'IA dans ses applications Creative Cloud, tout en essayant d'apaiser les craintes des artistes en soulignant que l'IA ne remplacera pas la créativité humaine, mais la complétera.",
@@ -19,6 +26,13 @@
         "body": "L'assistant vocal basé sur l'IA de Perplexity est désormais disponible sur les appareils iOS et Android, offrant aux utilisateurs la possibilité de lui demander de définir des rappels, d'envoyer des messages, de rédiger des e-mails, de réserver des tables au restaurant et même d'appeler un Uber. L'application iOS de Perplexity a été mise à jour pour inclure l'assistant vocal, qui peut également être utilisé en dehors de l'application. Bien que l'assistant ne prenne pas encore en charge le partage d'écran sur iOS, il fonctionne sur les anciens appareils, contrairement à Apple Intelligence. L'assistant de Perplexity a des limitations, comme l'incapacité à accéder à la caméra de l'appareil ou à définir des alarmes planifiées, mais il offre néanmoins une expérience d'IA conversationnelle pratique et accessible.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 23 Apr 2025 23:11:55 GMT"
+    },
+    {
+        "title": "Perplexity s'intéresse à Chrome",
+        "link": "https://www.frandroid.com/marques/google/2591971_perplexity-pret-a-acheter-chrome-si-google-doit-le-vendre",
+        "body": "Perplexity, une jeune entreprise d'IA, a exprimé son intérêt pour l'acquisition de Chrome, le navigateur de Google, si ce dernier est contraint de s'en séparer suite à un procès antitrust. Perplexity, qui souhaite remplacer Google, propose de transformer Chrome en une plateforme boostée à l'IA, avec des fonctionnalités de recherche plus intelligentes et moins dépendantes de la publicité. L'entreprise affirme avoir les compétences nécessaires pour gérer un navigateur de cette envergure tout en maintenant sa qualité et en le gardant gratuit. Le procès en cours oppose le ministère de la Justice américain à Google, accusé de détenir un monopole sur la recherche en ligne. Si le juge donne raison au gouvernement, Google pourrait être forcé de vendre Chrome et sa version open source, Chromium.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/perplexity-chrome-1200x800-1-768x512.jpg?resize=200,200&key=e20185b9",
+        "date": "Wed, 23 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "Adobe MAX",
@@ -175,6 +189,13 @@
         "date": "Wed, 23 Apr 2025 05:00:00 GMT"
     },
     {
+        "title": "Les lunettes connectées Meta Ray-Ban : une révolution pour l'IA embarquée",
+        "link": "https://www.frandroid.com/marques/meta/2591875_meta-deploie-une-des-meilleures-fonctions-des-lunettes-ray-ban-connectees-en-france",
+        "body": "Les lunettes connectées Meta Ray-Ban offrent des fonctionnalités futuristes, notamment la traduction en direct. Cette technologie permet aux utilisateurs de converser dans différentes langues et d'entendre la traduction en temps réel, sans connexion internet nécessaire. De plus, Meta AI, l'IA intégrée, peut fournir des informations contextuelles en fonction de l'environnement de l'utilisateur, comme des faits historiques sur un monument. D'autres fonctionnalités incluent l'intégration avec Instagram, de nouvelles couleurs de verres et un accès aux plateformes de streaming musical.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/meta-rayban2-1200x792-1-768x507.jpeg?resize=198,198&key=def0eb0b",
+        "date": "Tue, 22 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Les lunettes connectées Meta Ray-Ban débarquent avec des fonctionnalités IA impressionnantes",
         "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/lunettes-intelligentes/2591875_meta-deploie-une-des-meilleures-fonctions-des-lunettes-ray-ban-connectees-en-france",
         "body": "Les lunettes connectées Meta Ray-Ban offrent désormais des fonctionnalités de traduction en direct, permettant aux utilisateurs de discuter dans différentes langues et d'entendre des traductions instantanées. Cette technologie fonctionne même sans connexion Internet grâce au téléchargement préalable de \"packs de langue\". De plus, l'IA intégrée peut fournir des informations contextuelles sur l'environnement de l'utilisateur, comme des faits historiques sur un monument qu'il regarde. D'autres fonctionnalités incluent l'intégration avec Instagram et une variété d'options de couleurs de verres.",
@@ -299,19 +320,5 @@
         "body": "Les agents autonomes, dotés de capacités avancées de raisonnement et de prise de décision, représentent la prochaine étape majeure dans le domaine de l'IA. Les entreprises tournées vers l'avenir se lancent dans une course à leur développement et leur adoption. Les agents vocaux, comme VoiceOS, offrent un point d'entrée accessible et puissant à l'IA, permettant des interactions clients 24h/24 et une gestion proactive des leads. Text.cortex permet de créer des agents avec des personnalités distinctes, chacun avec son ton, son objectif et son domaine d'expertise. Gemini se distingue par sa capacité à montrer son processus de recherche en temps réel, ce qui le rend idéal pour des tâches de recherche avancées. AgentGPT, un agent d'automatisation, gère les tâches répétitives et chronophages, améliorant ainsi la productivité et réduisant les coûts opérationnels. La polyvalence et l'utilité pratique des agents les rendent essentiels pour aider les humains à améliorer leur travail et à se concentrer sur des tâches plus significatives.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68079640e5781c3072ce3a4d/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Apr 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'importance de la pensée critique à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/04/22/brains-over-bots-a-billionaires-guide-to-thriving-through-change/?ss=ai",
-        "body": "Dans un monde où l'intelligence artificielle (IA) et l'automatisation dominent de plus en plus, l'auteur s'entretient avec John P. Calamos, Sr., fondateur de Calamos Investments, pour explorer les moyens de rester en avance sur la concurrence à long terme. Calamos suggère d'étudier la philosophie pour développer une pensée critique et remettre en question les idées reçues, ce qui est particulièrement pertinent à l'ère de l'IA. Il souligne l'importance de l'agilité intellectuelle et de la curiosité, encourageant les individus à cultiver des habitudes d'apprentissage continu. La passion et la détermination sont également essentielles, selon Calamos, qui recommande aux jeunes de découvrir ce qui les motive et les inspire. Enfin, il insiste sur l'altruisme et le service aux autres comme éléments clés du succès dans un paysage volatile. Son conseil pour les jeunes : ne poursuivez pas l'argent, poursuivez l'excellence, et l'argent suivra.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680696fc1bf9418ab085e89f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 22 Apr 2025 12:30:00 GMT"
-    },
-    {
-        "title": "L'orchestration de l'IA agentique",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/04/22/camunda-writes-new-score-for-agentic-ai-orchestration/?ss=ai",
-        "body": "L'article met en lumière l'émergence de l'IA agentique, une branche de l'intelligence artificielle qui vise à doter les machines d'une intelligence, d'une déduction et d'un raisonnement humains. Camunda, une entreprise d'orchestration des processus basée à Berlin, propose des capacités d'orchestration agentique pour aider les organisations à modéliser, déployer et gérer des agents IA. L'objectif est de permettre aux utilisateurs, tels que les scientifiques des données et les ingénieurs IA, de créer une combinaison harmonisée d'orchestration déterministe et non déterministe, permettant ainsi aux équipes techniques et commerciales d'intégrer la quantité souhaitée d'IA tout en respectant les limites définies. Camunda définit l'approche déterministe et non déterministe de l'exécution des processus, permettant de contrôler l'IA tout en offrant un niveau résilient de personnalisation et d'adaptabilité. En plus de ces capacités d'orchestration, Camunda introduit des fonctionnalités d'automatisation des tâches et de prise de décision intelligente et dynamique. L'entreprise vise à aider les organisations à exploiter pleinement le potentiel de l'IA en l'intégrant de manière holistique à leur architecture d'entreprise. Selon le rapport de Camunda pour 2025, 84 % des leaders informatiques et commerciaux prévoient d'ajouter davantage de capacités d'IA au cours des trois prochaines années, soulignant ainsi l'importance croissante de l'IA dans les processus métier.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680786a378ceb191b1794aff/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 22 Apr 2025 12:14:00 GMT"
     }
 ]
