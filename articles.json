@@ -105,7 +105,7 @@
         "check": "yes"
     },
     {
-        "title": "Perplexity prêt à acheter Chrome si Google doit le vendre",
+        "title": "Perplexity pr\u00eat \u00e0 acheter Chrome si Google doit le vendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2591971_perplexity-pret-a-acheter-chrome-si-google-doit-le-vendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/perplexity-chrome-1200x800-1-768x512.jpg?resize=200,200&key=e20185b9",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette application phare d’Adobe s’ouvre à l’intelligence artificielle de Google et OpenAI",
+        "title": "Cette application phare d\u2019Adobe s\u2019ouvre \u00e0 l\u2019intelligence artificielle de Google et OpenAI",
         "link": "https://www.frandroid.com/produits-android/photo/2589825_cette-application-phare-dadobe-souvre-a-lintelligence-artificielle-de-google-et-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/product-1080x1350-1-1200x799-1-768x511.png?resize=200,200&key=a9d878ba",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -266,7 +266,7 @@
         "check": "yes"
     },
     {
-        "title": "Profiter des dernières avancées de l’IA sans contrainte matérielle ? C’est possible avec les NIM de Nvidia",
+        "title": "Profiter des derni\u00e8res avanc\u00e9es de l\u2019IA sans contrainte mat\u00e9rielle ? C\u2019est possible avec les NIM de Nvidia",
         "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2581151_profiter-des-dernieres-avancees-de-lia-sans-contrainte-materielle-cest-possible-avec-les-nim-de-nvidia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/nvidianewsnvidia-768x419.jpg?resize=164,164&key=37511bdf",
         "date": "Thu, 24 Apr 2025 23:00:00 GMT",
@@ -299,5 +299,33 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=654c83c3",
         "date": "Thu, 24 Apr 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/gadgets/654846/motorola-razr-ultra-2025-specs-screen-price",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257714_Motorola_Razr_launch_2025_AJohnson_0023.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+        "date": "Thu, 24 Apr 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/04/25/how-one-company-is-quietly-working-to-transform-ai-forever/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680b802516622bd803ce2024/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 12:39:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/04/25/the-ai-skills-gap-is-slowing-down-supply-chains/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680b6215a18dd52a5e0b3774/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 10:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/25/the-existential-threat-to-universities/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66379e1d4b987427efdbf24a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
