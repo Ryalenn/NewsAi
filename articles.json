@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Perplexity prêt à acheter Chrome si Google doit le vendre",
+        "title": "Perplexity pr\u00eat \u00e0 acheter Chrome si Google doit le vendre",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2591971_perplexity-pret-a-acheter-chrome-si-google-doit-le-vendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/perplexity-chrome-1200x800-1-768x512.jpg?resize=200,200&key=e20185b9",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette application phare d’Adobe s’ouvre à l’intelligence artificielle de Google et OpenAI",
+        "title": "Cette application phare d\u2019Adobe s\u2019ouvre \u00e0 l\u2019intelligence artificielle de Google et OpenAI",
         "link": "https://www.frandroid.com/produits-android/photo/2589825_cette-application-phare-dadobe-souvre-a-lintelligence-artificielle-de-google-et-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/product-1080x1350-1-1200x799-1-768x511.png?resize=200,200&key=a9d878ba",
         "date": "Wed, 23 Apr 2025 23:00:00 GMT",
@@ -278,5 +278,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/680ad7a9771c3cba0ed08342/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 25 Apr 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Profiter des derni\u00e8res avanc\u00e9es de l\u2019IA sans contrainte mat\u00e9rielle ? C\u2019est possible avec les NIM de Nvidia",
+        "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2581151_profiter-des-dernieres-avancees-de-lia-sans-contrainte-materielle-cest-possible-avec-les-nim-de-nvidia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/nvidianewsnvidia-768x419.jpg?resize=164,164&key=37511bdf",
+        "date": "Thu, 24 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/04/25/nvidia-releases-nemo-microservices-to-streamline-ai-agent-development/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680b22b5bd6ef7ac44578dd6/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 05:56:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/04/25/how-zoom-is-revolutionizing-work-with-agentic-ai-from-meetings-to-milestones/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680b234f5b700bf2c193cd7a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 05:54:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/04/25/ai-paints-a-new-picture-for-the-future-of-art-and-design/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6782be1fb9ee8df9305fa030/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Apr 2025 05:52:00 GMT",
+        "check": "no"
     }
 ]
