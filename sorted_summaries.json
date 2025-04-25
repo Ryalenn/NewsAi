@@ -28,6 +28,13 @@
         "date": "Fri, 25 Apr 2025 00:00:00 GMT"
     },
     {
+        "title": "Perplexity, un nouvel assistant vocal intelligent",
+        "link": "https://www.frandroid.com/marques/apple/2592305_vous-pouvez-maintenant-remplacer-siri-sur-votre-iphone-par-cette-alternative-efficace",
+        "body": "Perplexity AI, une solution d'IA conversationnelle, étend sa présence sur le marché mobile en discutant d'une intégration plus profonde avec Samsung et Motorola. Son application iOS récemment mise à jour introduit un assistant vocal capable de rivaliser avec Siri. L'assistant de Perplexity peut rédiger des e-mails, programmer des rappels, gérer des réservations et naviguer sur le web, tout en communiquant avec l'application principale. Accessible sur les anciens modèles d'iPhone, il offre une alternative efficace à Siri, bien qu'il ait des limites en termes d'accès à certaines fonctionnalités de l'iPhone, comme la caméra et la programmation des alarmes.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=654c83c3",
+        "date": "Thu, 24 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Nvidia démocratise l'IA avec les NIM",
         "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2581151_profiter-des-dernieres-avancees-de-lia-sans-contrainte-materielle-cest-possible-avec-les-nim-de-nvidia",
         "body": "Nvidia, connu principalement comme fabricant de cartes graphiques, investit également massivement dans le développement logiciel et l'intelligence artificielle. Sa dernière innovation, les NIM (Nvidia Inference Microservices), sont des modèles d'inférence pour l'IA, déjà entraînés et optimisés, pouvant être déployés sur diverses infrastructures avec du matériel Nvidia. Ces modèles sont accessibles à tous et visent à démocratiser l'IA en permettant aux développeurs et au grand public d'expérimenter et de créer de nouveaux usages. Les NIM sont flexibles et peuvent être personnalisés ou adaptés à des tâches spécifiques. Nvidia propose également une infrastructure dédiée pour l'IA, accessible à distance, ainsi que de nouvelles cartes graphiques puissantes et optimisées pour les tâches d'IA.",
@@ -271,12 +278,5 @@
         "body": "Google Photos teste un nouvel outil Ultra HDR qui améliore considérablement l'apparence des images, qu'elles soient créées par des appareils photo, des outils numériques ou générées par l'IA. Cette fonctionnalité convertit les images standard en format Ultra HDR, tirant pleinement parti des couleurs et de la luminosité supplémentaires offertes par les derniers écrans HDR. Cet outil sera particulièrement utile pour les photographes et les utilisateurs de médias sociaux souhaitant optimiser l'impact visuel de leurs images. La conversion en Ultra HDR donne aux images plus d'impact, avec des surbrillances plus lumineuses et un réalisme accru. L'outil ajoute une carte de gain invisible à l'image, contenant des informations de luminosité supplémentaires pour tirer parti des écrans compatibles HDR. La fonctionnalité est actuellement en test sur un nombre limité de comptes avant un déploiement plus large. La conversion en Ultra HDR pourrait entraîner une perte de qualité, comme le suggère la réduction de taille de fichier observée.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6643686ac0a31ef725d64bee/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 23 Apr 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Grok xAI Chatbot Upgrade",
-        "link": "https://www.theverge.com/news/654090/grok-has-a-vision#comments",
-        "body": "Le chatbot Grok xAI a été mis à niveau avec une nouvelle fonctionnalité permettant de \"voir\" ce qui est sur l'écran de l'utilisateur ou dans sa caméra, mais uniquement sur iOS pour le moment. Grok prend désormais en charge les conversations vocales dans plusieurs langues et offre une fonction de recherche en temps réel par la voix. Ces mises à jour rapprochent Grok de la concurrence, notamment de Gemini Live, l'IA d'Elon Musk.",
-        "image": "",
-        "date": "Wed, 23 Apr 2025 07:22:32 GMT"
     }
 ]
