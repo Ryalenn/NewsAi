@@ -1,5 +1,19 @@
 [
     {
+        "title": "La Course des Robots",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/27/watching-beijings-spring-robot-race/?ss=ai",
+        "body": "Lors d'un demi-marathon à Pékin, des robots humanoïdes ont couru aux côtés d'humains, démontrant les progrès de la technologie robotique en Chine. Le robot vainqueur, Tiangong Ultra, a terminé la course en 2 heures et 40 minutes. Bien que certains robots aient eu besoin d'aide humaine, d'autres ont démontré une agilité impressionnante. Les experts prédisent que la technologie robotique progressera de manière exponentielle, tout comme le développement des LLM. La Chine prend au sérieux les capacités des robots, qui feront bientôt partie de notre quotidien. L'Amérique, quant à elle, est à la traîne dans ce domaine spécifique de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680df1ae861bbc0bbe8137a0/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Apr 2025 21:05:00 GMT"
+    },
+    {
+        "title": "Redécollage vers le futur : l'aérospatiale propulsée par l'IA",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/04/27/is-ai-cleared-for-takeoff-in-the-aerospace-industry/?ss=ai",
+        "body": "L'IA façonne l'avenir du secteur aérospatial, en améliorant la sécurité, l'efficacité et l'innovation. L'article souligne comment l'IA est utilisée pour rationaliser la production, optimiser les opérations de vol et prédire les besoins de maintenance. Les systèmes intelligents révolutionnent la conception des avions, la fabrication et la maintenance prédictive. L'IA optimise les itinéraires, assiste les pilotes et permet le développement d'avions autonomes. Elle améliore également le contrôle du trafic aérien et accélère le processus de conception des avions. La vision par ordinateur basée sur l'IA garantit la qualité et la sécurité de la production, tandis que l'IA optimise la chaîne d'approvisionnement en prédisant la demande et en gérant l'inventaire. De plus, l'analyse des données de vol, des journaux de maintenance et des capteurs améliore la sécurité. Enfin, l'adoption réussie de l'IA dans l'aérospatiale nécessite un équilibre entre possibilités technologiques, exigences réglementaires, considérations éthiques et supervision humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680e87c7ffa6152a3d2d2e3a/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Apr 2025 19:00:00 GMT"
+    },
+    {
         "title": "Meta AI et les voix de célébrités",
         "link": "https://www.theverge.com/2024/9/25/24253420/meta-ai-celebrity-voices-awkwafina-john-cena-judi-dench-connect",
         "body": "Meta AI peut désormais répondre aux questions et même modifier les photos qui lui sont envoyées. L'entreprise ajoute des voix de célébrités à son chatbot AI sur Instagram, WhatsApp et Facebook. Les utilisateurs pourront choisir parmi plusieurs voix, dont des célébrités comme Awkwafina, John Cena, et Dame Judi Dench. Ces voix de célébrités ne seront disponibles qu'aux États-Unis dans un premier temps. Meta a également introduit des voix non-célébrités, telles que \"Aspen\", \"Atlas\" et \"Clover\". L'entreprise a payé \"des millions de dollars\" à chaque célébrité pour l'utilisation de leur voix. \n\nEn plus des voix de conversation, Meta AI peut maintenant répondre aux questions sur les photos téléchargées et effectuer des modifications sur les images, comme changer la couleur d'un t-shirt ou remplacer le fond par un arc-en-ciel.",
@@ -61,26 +75,5 @@
         "body": "Microsoft a annoncé la mise à jour KB5055627 pour Windows 11 24H2, incluant de nouvelles fonctionnalités telles que Recall et Click To Do, qui nécessitent un PC Copilot+ (avec puce Qualcomm Snapdragon X, AMD ou Intel). Cependant, le déploiement de ces fonctionnalités liées à l'IA en Europe est retardé, citant des réglementations plus strictes comme le RGPD et le DMA. Les géants de la tech, y compris Apple, ont également retardé des fonctionnalités similaires en Europe, ce qui soulève des questions sur la puissance économique des géants de la tech et les négociations avec les territoires.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/recall-on-copilot-pcs-a-better-way-to-recall-anything-0-3-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=493d96dd",
         "date": "Fri, 25 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La bataille des assistants IA",
-        "link": "https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war#comments",
-        "body": "Résumé : \n\nAravind Srinivas, PDG de Perplexity, une startup d'assistant IA, s'associe à Motorola pour préinstaller son assistant sur les nouveaux téléphones Razr, malgré la résistance de Google. Il prévoit également de lancer un navigateur appelé Comet, croyant que les navigateurs sont l'avenir de la course à l'IA. Perplexity a déjà près de 30 millions d'utilisateurs actifs mensuels et vise à concurrencer Google en répondant aux requêtes et en effectuant des actions pour les utilisateurs. Srinivas discute de la concurrence avec Copilot et ChatGPT, de la collecte de données et de la personnalisation, et de son intérêt pour l'achat de TikTok.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Aravind-Srinivas-CL-site-wide.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 25 Apr 2025 20:09:21 GMT"
-    },
-    {
-        "title": "Améliorations de l'IA pour Windows",
-        "link": "https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available#comments",
-        "body": "Microsoft lance aujourd'hui plusieurs nouvelles fonctionnalités basées sur l'IA pour les PC Copilot Plus, notamment Recall, une amélioration de la recherche Windows, et Click to Do. Recall, une fonctionnalité qui capture des captures d'écran de presque tout ce que vous faites sur votre PC, a été conçue pour améliorer la recherche sur votre PC en classant les captures d'écran pour une recherche facile. Bien qu'il se soit heurté à des retards en raison de problèmes de sécurité et de confidentialité, Microsoft a maintenant résolu ces problèmes et a fait de Recall une fonctionnalité facultative. Parallèlement à Recall, la recherche Windows bénéficie également d'améliorations de l'IA, permettant des requêtes en langage naturel et la description d'images ou de documents pour la recherche. De plus, Click to Do, similaire à Google’s Circle to Search, offre des actions pour le texte et les images à l'écran, telles que la synthèse de texte et la suppression d'objets des images. Ces fonctionnalités seront disponibles sur les PC Copilot Plus, avec des fonctionnalités limitées sur les appareils AMD et Intel.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Gen_AI_feature3_VP5_1842x1036.jpg?quality=90&strip=all&crop=7.8175895765472%2C0%2C84.364820846906%2C100&w=2400",
-        "date": "Fri, 25 Apr 2025 19:01:45 GMT"
-    },
-    {
-        "title": "L'avenir de la recherche scientifique et du développement technologique aux États-Unis est remis en question",
-        "link": "https://www.forbes.com/sites/alexknapp/2025/04/25/the-prototype-american-scientists-are-looking-for-jobs-abroad/?ss=ai",
-        "body": "Le budget alloué à la recherche scientifique et au développement technologique aux États-Unis est menacé par des coupes budgétaires importantes. L'article souligne que ces coupes budgétaires pourraient rendre les États-Unis moins attrayants pour la recherche scientifique et le développement de nouvelles technologies. Cette situation a déjà entraîné une augmentation du nombre de demandes d'emploi de scientifiques américains à l'étranger et une diminution des demandes d'institutions américaines de la part de candidats étrangers. Les implications de ces changements sont profondes, car les immigrants ont joué un rôle crucial dans les startups à succès et les lauréats du prix Nobel aux États-Unis. L'article mentionne également les progrès dans les communications quantiques, l'horloge atomique, les implants cerveau-ordinateur et les améliorations des modèles linguistiques volumineux.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680bda6b81673b21b6e02c6a/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 25 Apr 2025 19:00:00 GMT"
     }
 ]
