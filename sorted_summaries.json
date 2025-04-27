@@ -1,5 +1,12 @@
 [
     {
+        "title": "Google Photos : une recherche rapide et classique",
+        "link": "https://9to5google.com/2025/04/25/google-photos-classic-search-shortcut/",
+        "body": "Bien que la fonctionnalité « Ask Photos » de Google Photos, basée sur l'IA, soit impressionnante, elle peut être lente et moins pratique pour les recherches quotidiennes. Un raccourci peu connu permet aux utilisateurs d'accéder directement à la recherche classique, plus rapide et plus adaptée à la plupart des besoins. Ce raccourci, qui existe sur de nombreuses applications Android, est particulièrement utile dans Google Photos, car il permet d'accéder directement au mode de recherche préféré par la plupart des utilisateurs. Malheureusement, ce geste ne fonctionne pas dans l'application Google Photos pour iPhone.",
+        "image": "",
+        "date": "Sat, 26 Apr 2025 21:41:25 GMT"
+    },
+    {
         "title": "Human Intelligence 2.0",
         "link": "https://www.forbes.com/sites/johnwerner/2025/04/26/lets-dance-structured-movement-to-fine-tune-our-human-neural-nets/?ss=ai",
         "body": "L'article explore l'idée que, tout en interagissant avec des réseaux neuronaux artificiels, nous oublions parfois d'examiner notre propre système opérationnel et son fonctionnement. Il suggère que la science de notre propre cerveau est l'un de nos outils les plus puissants dans ce domaine. L'article aborde le concept de neuroplasticité et explique comment différents types de stimuli, y compris le mouvement physique, peuvent affiner le fonctionnement de notre cerveau en modifiant nos schémas neuronaux. Il cite des exemples d'apprentissage des langues et d'exercice physique pour illustrer ce point. De plus, il met en évidence l'importance de la production de neurotrophines, en particulier du facteur neurotrophique dérivé du cerveau (BDNF), dans la neuroplasticité et la santé cognitive. L'article présente également les idées de Yana Nakhimova, Ph.D., qui plaide pour une « intelligence basée sur le corps » et suggère que nous devrions exploiter notre câblage cérébral pour améliorer nos capacités cognitives, tout comme l'IA s'auto-optimise. Nakhimova propose d'utiliser la neuroplasticité pour mettre à niveau notre système neural, en s'appuyant sur le mouvement structuré pour modifier les modèles comportementaux, émotionnels et cognitifs. L'article conclut en soulignant l'importance d'inclure le corps humain dans l'évolution future de l'intelligence, en parallèle avec le développement de l'IA.",
@@ -28,6 +35,13 @@
         "date": "Fri, 25 Apr 2025 23:00:00 GMT"
     },
     {
+        "title": "La bataille des assistants IA",
+        "link": "https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war#comments",
+        "body": "Résumé : \n\nAravind Srinivas, PDG de Perplexity, une startup d'assistant IA, s'associe à Motorola pour préinstaller son assistant sur les nouveaux téléphones Razr, malgré la résistance de Google. Il prévoit également de lancer un navigateur appelé Comet, croyant que les navigateurs sont l'avenir de la course à l'IA. Perplexity a déjà près de 30 millions d'utilisateurs actifs mensuels et vise à concurrencer Google en répondant aux requêtes et en effectuant des actions pour les utilisateurs. Srinivas discute de la concurrence avec Copilot et ChatGPT, de la collecte de données et de la personnalisation, et de son intérêt pour l'achat de TikTok.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Aravind-Srinivas-CL-site-wide.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 25 Apr 2025 20:09:21 GMT"
+    },
+    {
         "title": "Améliorations de l'IA pour Windows",
         "link": "https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available#comments",
         "body": "Microsoft lance aujourd'hui plusieurs nouvelles fonctionnalités basées sur l'IA pour les PC Copilot Plus, notamment Recall, une amélioration de la recherche Windows, et Click to Do. Recall, une fonctionnalité qui capture des captures d'écran de presque tout ce que vous faites sur votre PC, a été conçue pour améliorer la recherche sur votre PC en classant les captures d'écran pour une recherche facile. Bien qu'il se soit heurté à des retards en raison de problèmes de sécurité et de confidentialité, Microsoft a maintenant résolu ces problèmes et a fait de Recall une fonctionnalité facultative. Parallèlement à Recall, la recherche Windows bénéficie également d'améliorations de l'IA, permettant des requêtes en langage naturel et la description d'images ou de documents pour la recherche. De plus, Click to Do, similaire à Google’s Circle to Search, offre des actions pour le texte et les images à l'écran, telles que la synthèse de texte et la suppression d'objets des images. Ces fonctionnalités seront disponibles sur les PC Copilot Plus, avec des fonctionnalités limitées sur les appareils AMD et Intel.",
@@ -47,6 +61,13 @@
         "body": "L'auteur, Martin Wolf, découvre l'existence d'un avatar numérique, un \"deepfake\", qui l'imite sur les réseaux sociaux, notamment Facebook et Instagram. Cet avatar est utilisé pour promouvoir une arnaque financière, en profitant de la réputation de l'auteur et du FT. Malgré les efforts pour le supprimer, l'avatar réapparaît sous différentes formes, avec des vidéos et des images manipulées, touchant près d'un million d'utilisateurs dans l'UE. L'auteur s'interroge sur l'incapacité de Meta, malgré ses ressources et ses outils d'IA, à identifier et stopper automatiquement ce type de fraude. Il souligne l'importance de lutter contre ce genre d'abus et de protéger les utilisateurs des réseaux sociaux.",
         "image": "",
         "date": "Fri, 25 Apr 2025 16:52:20 GMT"
+    },
+    {
+        "title": "Workdays with Thy",
+        "link": "https://www.theverge.com/news/656245/australian-radio-station-ai-dj-workdays-with-thy#comments",
+        "body": "Une station de radio australienne populaire utilise un DJ généré par l'IA pour animer une émission de quatre heures, \"Workdays with Thy\", mélangeant hip-hop, R&B et pop. La voix et l'image de l'animateur sont basées sur un employé réel du département financier de la société mère de la station, ARN Media. Bien que l'émission soit populaire, atteignant environ 72 000 personnes, l'utilisation de l'IA n'a pas été divulguée, ce qui a suscité des critiques de la part de l'Australian Association of Voice Actors. D'autres stations de radio ont également expérimenté l'IA, mais avec des résultats mitigés.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 25 Apr 2025 15:03:17 GMT"
     },
     {
         "title": "La Décentralisation de l'IA",
@@ -103,47 +124,5 @@
         "body": "L'IA génère une explosion de la créativité dans les domaines de l'art et du design, en offrant de nouvelles possibilités et en améliorant les processus traditionnels. L'IA a un impact significatif sur la création artistique et le design, en particulier pour les professionnels. L'art et le design générés par l'IA remplacent rapidement les images stock et les activités de design transactionnelles. Les artistes et les designers utilisent l'IA comme assistante pour explorer de nouvelles esthétiques, mélanger les styles et créer de nouveaux visuels. L'IA automatise les tâches répétitives, suggère des éléments de design et fournit des entrées créatives. Elle permet également le transfert de style entre images et assiste la composition musicale et la conception de paysages sonores. L'IA améliore l'édition d'images et de vidéos en automatisant des tâches complexes et assiste la curation et la réutilisation de contenu. Les artistes considèrent de plus en plus l'IA comme un outil collaboratif qui améliore leur créativité. L'IA génère également des expériences artistiques personnalisées et interactives, basées sur les entrées des utilisateurs ou les données environnementales. Malgré les avantages, certains craignent que l'art généré par l'IA n'entraîne une diminution de la valeur de l'art créé par l'homme et n'affecte la motivation à créer des œuvres de haute qualité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6782be1fb9ee8df9305fa030/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 25 Apr 2025 05:52:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans les industries créatives",
-        "link": "https://www.forbes.com/sites/charliefink/2025/04/24/talking-baby-ai-meme-arcanas-55-million-ai-movie-pipeline-irs-secret-backers-revealed/?ss=ai",
-        "body": "L'article aborde plusieurs développements récents dans le domaine de l'IA, en mettant l'accent sur son impact sur les industries créatives. Il mentionne d'abord la popularité d'un mème parlant d'un bébé, soulignant la facilité avec laquelle l'IA peut désormais générer du contenu visuel convaincant. L'article passe ensuite à une discussion sur Infinite Reality, une startup de métaverse faisant face à un examen minutieux en raison de ses revendications financières douteuses et de sa valorisation. Arcana Labs, une autre entreprise, lance une plateforme de production de contenu alimentée par l'IA, visant à rationaliser le processus de réalisation de films. Riffusion, une startup basée à San Francisco, a lancé une plateforme Web gratuite qui permet aux utilisateurs de créer de la musique à l'aide de l'IA. L'article mentionne également les initiatives de Numidia Valley en Algérie pour établir une économie créative Web3, ainsi que le lancement de la série animée améliorée par IA 'The Odd Birds Show' par Asteria. Enfin, le festival Tribeca de 2025 présente un programme immersif mettant en vedette des projets XR et IA de pointe.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680ad7a9771c3cba0ed08342/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 25 Apr 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Google I/O 2025 : les nouveautés à venir",
-        "link": "https://www.frandroid.com/events/google-io/2594047_android-tv-android-auto-gemini-on-a-deja-une-idee-des-gros-projets-de-google-en-2025",
-        "body": "La conférence Google I/O 2025, qui se tiendra le 20 mai, abordera plusieurs sujets importants. Google a dévoilé une liste de sessions suggérant de nouveaux développements, notamment le design Material 3 Expressive, Android 16 pour les téléviseurs, Gemini pour Android Automotive et Android XR. Les rumeurs précédentes sont ainsi confirmées, indiquant également un saut vers Android TV 16 et l'intégration de Gemini dans Android Auto. La conférence promet également des discussions sur les dernières versions d'Android et d'autres projets technologiques de Google.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/capture-decran-2017-05-17-a-19-07-26-e1495041140426-1000x562-1-768x432.png?resize=169,169&key=35f65366",
-        "date": "Thu, 24 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google étend son IA Gemini sur plusieurs appareils",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2593709_wear-os-android-auto-google-gemini-sincruste-partout-en-2025",
-        "body": "Google étend son assistant IA Gemini à une gamme d'appareils connectés d'ici la fin de 2025, y compris les montres Wear OS, les tablettes, Android Auto et les écouteurs. Gemini offrira des réponses vocales plus rapides, une meilleure gestion multitâche et la possibilité d'effectuer des actions complexes à mains libres. Les tests soulignent sa réactivité et sa gestion de plusieurs langues, mais certaines fonctionnalités personnalisées sont absentes pour le moment. Les détails techniques et les dates de déploiement seront probablement annoncés lors de la conférence Google I/O en mai.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/25c0014-001-1200x675-1-768x432.jpg?resize=169,169&key=3f06e2f6",
-        "date": "Thu, 24 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Perplexity, un nouvel assistant vocal intelligent",
-        "link": "https://www.frandroid.com/marques/apple/2592305_vous-pouvez-maintenant-remplacer-siri-sur-votre-iphone-par-cette-alternative-efficace",
-        "body": "Perplexity AI, une solution d'IA conversationnelle, étend sa présence sur le marché mobile en discutant d'une intégration plus profonde avec Samsung et Motorola. Son application iOS récemment mise à jour introduit un assistant vocal capable de rivaliser avec Siri. L'assistant de Perplexity peut rédiger des e-mails, programmer des rappels, gérer des réservations et naviguer sur le web, tout en communiquant avec l'application principale. Accessible sur les anciens modèles d'iPhone, il offre une alternative efficace à Siri, bien qu'il ait des limites en termes d'accès à certaines fonctionnalités de l'iPhone, comme la caméra et la programmation des alarmes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/4d9vmqkecg-1200x674-1-768x431.jpg?resize=169,169&key=654c83c3",
-        "date": "Thu, 24 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nvidia démocratise l'IA avec les NIM",
-        "link": "https://www.frandroid.com/produits-android/hardware/cartes-graphiques/2581151_profiter-des-dernieres-avancees-de-lia-sans-contrainte-materielle-cest-possible-avec-les-nim-de-nvidia",
-        "body": "Nvidia, connu principalement comme fabricant de cartes graphiques, investit également massivement dans le développement logiciel et l'intelligence artificielle. Sa dernière innovation, les NIM (Nvidia Inference Microservices), sont des modèles d'inférence pour l'IA, déjà entraînés et optimisés, pouvant être déployés sur diverses infrastructures avec du matériel Nvidia. Ces modèles sont accessibles à tous et visent à démocratiser l'IA en permettant aux développeurs et au grand public d'expérimenter et de créer de nouveaux usages. Les NIM sont flexibles et peuvent être personnalisés ou adaptés à des tâches spécifiques. Nvidia propose également une infrastructure dédiée pour l'IA, accessible à distance, ainsi que de nouvelles cartes graphiques puissantes et optimisées pour les tâches d'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/nvidianewsnvidia-768x419.jpg?resize=164,164&key=37511bdf",
-        "date": "Thu, 24 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI poursuivi en justice",
-        "link": "https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag#comments",
-        "body": "Ziff Davis, propriétaire de plusieurs médias en ligne, poursuit en justice OpenAI pour violation de droits d'auteur, alléguant que l'entreprise a copié et utilisé sans autorisation des millions d'articles de ses publications pour entraîner ses modèles d'IA. Ziff Davis, qui possède des marques médiatiques telles que CNET, PCMag, IGN et Everyday Health, affirme qu'OpenAI a créé des «copies exactes» de son contenu, malgré l'utilisation d'un fichier robots.txt pour empêcher la collecte de données. Ziff Davis demande à la justice d'interdire à OpenAI d'exploiter son contenu et de détruire tout modèle ou jeu de données contenant son contenu. OpenAI, de son côté, affirme que ses modèles sont entraînés sur des données publiquement disponibles et sont protégés par l'utilisation équitable.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 24 Apr 2025 22:50:01 GMT"
     }
 ]
