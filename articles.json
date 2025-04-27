@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 : mauvaises nouvelles pour plusieurs nouveautés",
+        "title": "Windows 11 : mauvaises nouvelles pour plusieurs nouveaut\u00e9s",
         "link": "https://www.frandroid.com/marques/microsoft/2595609_windows-11-mauvaises-nouvelles-pour-plusieurs-nouveautes",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/recall-on-copilot-pcs-a-better-way-to-recall-anything-0-3-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=493d96dd",
         "date": "Fri, 25 Apr 2025 23:00:00 GMT",
@@ -117,5 +117,19 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Fri, 25 Apr 2025 15:03:17 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Le patron de Perplexity veut sauter les \u00e9tapes de la \u00ab merdification \u00bb",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2595601_le-patron-de-perplexity-veut-sauter-les-etapes-de-la-merdification",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/logo-perplexity-1200x675-1-768x432.png?resize=169,169&key=3d6969b5",
+        "date": "Sat, 26 Apr 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/27/building-the-ai-polygraph/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680df091c88ad0839e761eb1/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Apr 2025 08:53:00 GMT",
+        "check": "no"
     }
 ]
