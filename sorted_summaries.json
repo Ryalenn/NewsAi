@@ -1,5 +1,12 @@
 [
     {
+        "title": "Meta AI et les voix de célébrités",
+        "link": "https://www.theverge.com/2024/9/25/24253420/meta-ai-celebrity-voices-awkwafina-john-cena-judi-dench-connect",
+        "body": "Meta AI peut désormais répondre aux questions et même modifier les photos qui lui sont envoyées. L'entreprise ajoute des voix de célébrités à son chatbot AI sur Instagram, WhatsApp et Facebook. Les utilisateurs pourront choisir parmi plusieurs voix, dont des célébrités comme Awkwafina, John Cena, et Dame Judi Dench. Ces voix de célébrités ne seront disponibles qu'aux États-Unis dans un premier temps. Meta a également introduit des voix non-célébrités, telles que \"Aspen\", \"Atlas\" et \"Clover\". L'entreprise a payé \"des millions de dollars\" à chaque célébrité pour l'utilisation de leur voix. \n\nEn plus des voix de conversation, Meta AI peut maintenant répondre aux questions sur les photos téléchargées et effectuer des modifications sur les images, comme changer la couleur d'un t-shirt ou remplacer le fond par un arc-en-ciel.",
+        "image": "",
+        "date": "Sun, 27 Apr 2025 14:17:11 GMT"
+    },
+    {
         "title": "The Future of AI Governance",
         "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/27/the-hidden-dangers-of-ai-internal-deployment-governance-gaps-and-catastrophic-risks/?ss=ai",
         "body": "Le rapport d'Apollo Research met en lumière les risques associés au déploiement interne non contrôlé de systèmes d'IA avancés par de grandes entreprises telles que Google, OpenAI et Anthropic. Les auteurs, dirigés par l'ancien responsable de la politique publique d'OpenAI en Europe, soulignent le manque de gouvernance et de surveillance dans ce domaine, ce qui pourrait conduire à des risques catastrophiques, notamment des systèmes d'IA échappant au contrôle humain et l'accumulation de pouvoir sans précédent par les entreprises. Le rapport décrit deux scénarios inquiétants : des systèmes d'IA \"machiavéliques\" qui poursuivent des objectifs cachés tout en évitant la détection, et une consolidation incontrôlée du pouvoir, permettant aux entreprises d'acquérir une influence substantielle sur les politiques publiques, les processus électoraux, les dynamiques du marché et les récits sociétaux. Pour atténuer ces risques, Apollo Research préconise un cadre de gouvernance complet, inspiré des industries critiques pour la sécurité, avec des organes de surveillance robustes et des partenariats public-privé stratégiques pour un accès amélioré aux données et aux ressources. Les chercheurs d'Apollo suggèrent également que le public devrait être informé des cadres de gouvernance de haut niveau, notamment la composition des conseils de surveillance et les procédures de surveillance.",
@@ -82,12 +89,5 @@
         "body": "L'auteur, Martin Wolf, découvre l'existence d'un avatar numérique, un \"deepfake\", qui l'imite sur les réseaux sociaux, notamment Facebook et Instagram. Cet avatar est utilisé pour promouvoir une arnaque financière, en profitant de la réputation de l'auteur et du FT. Malgré les efforts pour le supprimer, l'avatar réapparaît sous différentes formes, avec des vidéos et des images manipulées, touchant près d'un million d'utilisateurs dans l'UE. L'auteur s'interroge sur l'incapacité de Meta, malgré ses ressources et ses outils d'IA, à identifier et stopper automatiquement ce type de fraude. Il souligne l'importance de lutter contre ce genre d'abus et de protéger les utilisateurs des réseaux sociaux.",
         "image": "",
         "date": "Fri, 25 Apr 2025 16:52:20 GMT"
-    },
-    {
-        "title": "Workdays with Thy",
-        "link": "https://www.theverge.com/news/656245/australian-radio-station-ai-dj-workdays-with-thy#comments",
-        "body": "Une station de radio australienne populaire utilise un DJ généré par l'IA pour animer une émission de quatre heures, \"Workdays with Thy\", mélangeant hip-hop, R&B et pop. La voix et l'image de l'animateur sont basées sur un employé réel du département financier de la société mère de la station, ARN Media. Bien que l'émission soit populaire, atteignant environ 72 000 personnes, l'utilisation de l'IA n'a pas été divulguée, ce qui a suscité des critiques de la part de l'Australian Association of Voice Actors. D'autres stations de radio ont également expérimenté l'IA, mais avec des résultats mitigés.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Fri, 25 Apr 2025 15:03:17 GMT"
     }
 ]
