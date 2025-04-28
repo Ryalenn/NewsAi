@@ -1,10 +1,24 @@
 [
     {
+        "title": "Google Photos et la reconnaissance faciale",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/27/new-google-leak-reveals-handy-google-photos-feature-update/?ss=ai",
+        "body": "Google teste une nouvelle fonctionnalité pour Google Photos, qui modifie la façon dont la reconnaissance faciale est utilisée dans l'application mobile. Cette mise à jour, découverte dans le code de la version 7.26 de l'application Android, affiche une rangée de visages détectés sous forme de vignettes en bas de l'écran lors de la visualisation d'une photo. Les vignettes ne comportent pas de libellés de nom, mais permettent d'accéder rapidement aux informations sur les personnes identifiées. La fonctionnalité n'est pas encore déployée, mais pourrait servir à trouver plus rapidement d'autres photos d'une personne sélectionnée ou à d'autres fins, telles que la sélection de personnes pour l'édition. Google Photos utilise la technologie de reconnaissance faciale pour regrouper automatiquement les photos de personnes ou d'animaux domestiques reconnus, ce qui facilite la recherche d'une personne spécifique ou la génération de mises en avant de \"souvenirs\" basées sur les personnes que l'on connaît.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed4463647e743afd38429f/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Apr 2025 22:00:00 GMT"
+    },
+    {
         "title": "La Course des Robots",
         "link": "https://www.forbes.com/sites/johnwerner/2025/04/27/watching-beijings-spring-robot-race/?ss=ai",
         "body": "Lors d'un demi-marathon à Pékin, des robots humanoïdes ont couru aux côtés d'humains, démontrant les progrès de la technologie robotique en Chine. Le robot vainqueur, Tiangong Ultra, a terminé la course en 2 heures et 40 minutes. Bien que certains robots aient eu besoin d'aide humaine, d'autres ont démontré une agilité impressionnante. Les experts prédisent que la technologie robotique progressera de manière exponentielle, tout comme le développement des LLM. La Chine prend au sérieux les capacités des robots, qui feront bientôt partie de notre quotidien. L'Amérique, quant à elle, est à la traîne dans ce domaine spécifique de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/680df1ae861bbc0bbe8137a0/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 27 Apr 2025 21:05:00 GMT"
+    },
+    {
+        "title": "Le piège du miroir",
+        "link": "https://www.forbes.com/sites/jasonsnyder/2025/04/27/the-mirror-trap-ai-ethics-and-the-collapse-of-human-imagination/?ss=ai",
+        "body": "Le texte met en garde contre la dépendance croissante de l'intelligence artificielle envers l'imitation et la convergence, plutôt que l'innovation et la créativité. L'auteur suggère que l'IA, telle qu'elle est actuellement conçue, ne fait que refléter et remodeler les données, plutôt que de créer de nouvelles connaissances. Ce phénomène est appelé le \"piège du miroir\", où l'IA ne fait qu'imiter et polir une version lissée de la réalité, érodant ainsi l'originalité, l'imagination et la propriété de notre identité. L'auteur souligne également les dangers de la distorsion de la réalité et de la normalisation de cette distorsion, ce qui pourrait conduire à une érosion de la confiance et de la cohérence dans la société. Enfin, l'article plaide pour une conception de l'IA qui défie plutôt qu'imite, et qui stimule l'imagination plutôt que de la restreindre.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680e7f34c4bcd45e0883c601/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 27 Apr 2025 21:00:00 GMT"
     },
     {
         "title": "Redécollage vers le futur : l'aérospatiale propulsée par l'IA",
@@ -68,12 +82,5 @@
         "body": "Google prévoit de proposer de nouveaux abonnements basés sur l'IA pour son service de stockage cloud Google One. Ces nouveaux abonnements, « Premium Plus AI » et « Premium AI Pro », offriraient un accès à l'option Gemini Advanced de Google, qui comprend les modèles IA et fonctionnalités premium de l'entreprise. Actuellement, l'option Gemini Advanced n'est accessible que via l'abonnement Google One AI Premium à 19,99 $ par mois. Les nouveaux abonnements pourraient inclure des fonctionnalités supplémentaires ou une capacité de stockage plus élevée. Google a récemment ajouté la prise en charge de son outil de génération de vidéos Veo 2 AI pour les utilisateurs de Gemini Advanced, mais avec des limites sur le nombre de clips vidéo de huit secondes par mois. Les nouveaux abonnements pourraient offrir des limites plus élevées, des vidéos plus longues ou une résolution améliorée. Ces changements offrent à Google de nouvelles opportunités de vente et lui permettent de proposer des plans IA à des utilisateurs de smartphones premium qui bénéficient actuellement d'un abonnement Google One AI Premium gratuit pendant 12 mois.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/66e309ecaa1de6a2a67e3416/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 26 Apr 2025 09:00:00 GMT"
-    },
-    {
-        "title": "Windows 11 Recall et l'IA retardés en Europe",
-        "link": "https://www.frandroid.com/marques/microsoft/2595609_windows-11-mauvaises-nouvelles-pour-plusieurs-nouveautes",
-        "body": "Microsoft a annoncé la mise à jour KB5055627 pour Windows 11 24H2, incluant de nouvelles fonctionnalités telles que Recall et Click To Do, qui nécessitent un PC Copilot+ (avec puce Qualcomm Snapdragon X, AMD ou Intel). Cependant, le déploiement de ces fonctionnalités liées à l'IA en Europe est retardé, citant des réglementations plus strictes comme le RGPD et le DMA. Les géants de la tech, y compris Apple, ont également retardé des fonctionnalités similaires en Europe, ce qui soulève des questions sur la puissance économique des géants de la tech et les négociations avec les territoires.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/recall-on-copilot-pcs-a-better-way-to-recall-anything-0-3-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=493d96dd",
-        "date": "Fri, 25 Apr 2025 23:00:00 GMT"
     }
 ]
