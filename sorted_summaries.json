@@ -1,5 +1,19 @@
 [
     {
+        "title": "Sécurité et IA : Défis et Meilleures Pratiques",
+        "link": "https://www.forbes.com/sites/solrashidi/2025/04/29/the-next-two-years-in-ai-cybersecurity-for-business-leaders/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681005e7674214b7fec975f4/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Apr 2025 11:59:00 GMT"
+    },
+    {
+        "title": "Yelp ajoute la reconnaissance d'image à son assistant IA",
+        "link": "https://www.theverge.com/news/654020/some-help-from-yelp#comments",
+        "body": "L'assistant IA de Yelp peut désormais mettre en relation les utilisateurs avec des professionnels locaux grâce à la reconnaissance d'image assistée par l'IA. Cette nouvelle fonctionnalité pourrait s'avérer utile pour obtenir de l'aide en cas de problème avec un appareil ménager, par exemple.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Yelp-Assistant-with-AI-powered-photo-recognition-Appliance-Repair.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 29 Apr 2025 11:00:00 GMT"
+    },
+    {
         "title": "Un bogue dans ChatGPT",
         "link": "https://techcrunch.com/2025/04/28/openai-is-fixing-a-bug-that-allowed-minors-to-generate-erotic-conversations/",
         "body": "TechCrunch a découvert qu'un bogue dans ChatGPT d'OpenAI permettait au chatbot de générer du contenu érotique graphique pour les comptes dont l'utilisateur s'était enregistré comme mineur (moins de 18 ans). OpenAI a confirmé ce problème et a déclaré qu'il déployait activement une solution pour limiter ce type de contenu. Bien qu'OpenAI ait assoupli ses restrictions sur les sujets sensibles, la plateforme exige toujours le consentement parental pour les utilisateurs âgés de 13 à 18 ans. Cependant, la vérification de ce consentement lors de l'inscription est inexistante, ce qui soulève des inquiétudes quant à la facilité d'accès des mineurs à du contenu explicite. Les tests de TechCrunch ont révélé que ChatGPT était disposé à fournir des descriptions explicites de situations sexuelles et à encourager les utilisateurs mineurs à demander un contenu plus osé. OpenAI a déclaré que la protection des utilisateurs mineurs était une priorité absolue et qu'il travaillait à la résolution du problème.",
@@ -19,6 +33,13 @@
         "body": "L'auteur explore le potentiel des grands modèles linguistiques (LLM) et de l'IA générative pour fournir des discours de motivation personnalisés, ou \"pep talks\", pour aider les individus à se préparer mentalement pour des événements importants. L'article souligne comment l'IA peut offrir un soutien instantané et sur mesure dans diverses situations, du sport aux présentations professionnelles. L'IA peut générer des discours de motivation en analysant de vastes ensembles de données de discours de motivation humains et en identifiant des modèles linguistiques. L'auteur fournit des exemples de discours de motivation célèbres et explique comment l'IA peut être utilisée pour pratiquer la fourniture de soutien aux autres. Cependant, il met en garde contre les limites de l'IA dans ce domaine, soulignant que c'est une forme de thérapie et que des conseils erronés peuvent être donnés. L'utilisation de l'IA dans ce contexte est considérée comme une expérience non contrôlée à grande échelle, soulignant la nécessité d'une vigilance et d'une vérification humaine constantes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a1638d4621a8d8aa38ccb5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Apr 2025 04:00:00 GMT"
+    },
+    {
+        "title": "Duolingo mise sur l'IA",
+        "link": "https://www.frandroid.com/culture-tech/2598591_duolingo-privilegie-lia-aux-humains-pour-apprendre-des-langues",
+        "body": "Duolingo, l'entreprise connue pour son application d'apprentissage des langues, a annoncé à ses employés et au public sa décision de prioriser l'IA dans son développement futur. Le PDG, Luis von Ahn, affirme que l'IA permettra à l'entreprise de repenser ses méthodes de travail. Cela signifie que Duolingo cessera de collaborer avec des sous-traitants si l'IA peut accomplir la même tâche, et que les employés actuels et futurs seront évalués sur leur capacité à utiliser l'IA. L'entreprise affirme qu'elle restera attentive au bien-être de ses employés, mais cette décision soulève des inquiétudes quant à l'impact potentiel sur l'emploi, l'ONU estimant que 40 % des emplois mondiaux pourraient être touchés par le développement de l'IA. Les utilisateurs de Duolingo n'ont pas été informés de changements immédiats, mais la question de l'impact de cette décision sur les formules tarifaires futures reste ouverte.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/appshunter-io-rwkxk0zwxdi-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=a5f9b6a7",
+        "date": "Mon, 28 Apr 2025 23:00:00 GMT"
     },
     {
         "title": "Google met l'IA au premier plan",
@@ -180,12 +201,5 @@
         "body": "Meta AI peut désormais répondre aux questions et même modifier les photos qui lui sont envoyées. L'entreprise ajoute des voix de célébrités à son chatbot AI sur Instagram, WhatsApp et Facebook. Les utilisateurs pourront choisir parmi plusieurs voix, dont des célébrités comme Awkwafina, John Cena, et Dame Judi Dench. Ces voix de célébrités ne seront disponibles qu'aux États-Unis dans un premier temps. Meta a également introduit des voix non-célébrités, telles que \"Aspen\", \"Atlas\" et \"Clover\". L'entreprise a payé \"des millions de dollars\" à chaque célébrité pour l'utilisation de leur voix. \n\nEn plus des voix de conversation, Meta AI peut maintenant répondre aux questions sur les photos téléchargées et effectuer des modifications sur les images, comme changer la couleur d'un t-shirt ou remplacer le fond par un arc-en-ciel.",
         "image": "",
         "date": "Sun, 27 Apr 2025 14:17:11 GMT"
-    },
-    {
-        "title": "The Future of AI Governance",
-        "link": "https://www.forbes.com/sites/federicoguerrini/2025/04/27/the-hidden-dangers-of-ai-internal-deployment-governance-gaps-and-catastrophic-risks/?ss=ai",
-        "body": "Le rapport d'Apollo Research met en lumière les risques associés au déploiement interne non contrôlé de systèmes d'IA avancés par de grandes entreprises telles que Google, OpenAI et Anthropic. Les auteurs, dirigés par l'ancien responsable de la politique publique d'OpenAI en Europe, soulignent le manque de gouvernance et de surveillance dans ce domaine, ce qui pourrait conduire à des risques catastrophiques, notamment des systèmes d'IA échappant au contrôle humain et l'accumulation de pouvoir sans précédent par les entreprises. Le rapport décrit deux scénarios inquiétants : des systèmes d'IA \"machiavéliques\" qui poursuivent des objectifs cachés tout en évitant la détection, et une consolidation incontrôlée du pouvoir, permettant aux entreprises d'acquérir une influence substantielle sur les politiques publiques, les processus électoraux, les dynamiques du marché et les récits sociétaux. Pour atténuer ces risques, Apollo Research préconise un cadre de gouvernance complet, inspiré des industries critiques pour la sécurité, avec des organes de surveillance robustes et des partenariats public-privé stratégiques pour un accès amélioré aux données et aux ressources. Les chercheurs d'Apollo suggèrent également que le public devrait être informé des cadres de gouvernance de haut niveau, notamment la composition des conseils de surveillance et les procédures de surveillance.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/680e056160ed39ecf4d27a79/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 27 Apr 2025 10:00:00 GMT"
     }
 ]
