@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "« Je te veux » : l’IA de Facebook peut tenir des propos explicites en utilisant la voix de stars",
+        "title": "\u00ab Je te veux \u00bb : l\u2019IA de Facebook peut tenir des propos explicites en utilisant la voix de stars",
         "link": "https://www.frandroid.com/marques/meta/2596915_je-te-veux-lia-de-facebook-peut-tenir-des-propos-explicites-en-utilisant-la-voix-de-stars",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/mariia-shalabaieva-wr6qhgdws-y-unsplash-1200x856-2-768x548.jpg?resize=214,214&key=ecadcd59",
         "date": "Sun, 27 Apr 2025 23:00:00 GMT",
@@ -152,5 +152,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/680ed9caa6d7460ca15b8487/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 28 Apr 2025 11:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.wiley.com/en-us/terms-of-use/ai-principles/wiley-statement-illegal-scraping-ai-copyright",
+        "image": "",
+        "date": "Mon, 28 Apr 2025 20:26:03 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/656729/openai-chatgpt-search-shopping#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Search_Shopping.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 28 Apr 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/28/which-ai-legacy-do-we-leave-generation-alpha-/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680fddd1697895559a7b6c72/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Apr 2025 20:00:00 GMT",
+        "check": "no"
     }
 ]
