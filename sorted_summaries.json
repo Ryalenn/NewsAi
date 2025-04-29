@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'héritage de la dernière génération analogique",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/04/28/which-ai-legacy-do-we-leave-generation-alpha-/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/680fddd1697895559a7b6c72/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Apr 2025 20:00:00 GMT"
+    },
+    {
+        "title": "Améliorations de ChatGPT",
+        "link": "https://www.theverge.com/news/656729/openai-chatgpt-search-shopping#comments",
+        "body": "OpenAI améliore les capacités de recherche web de ChatGPT pour en faire un outil plus utile pour le shopping. Les utilisateurs pourront désormais obtenir des résultats de recherche plus structurés, incluant des cartes de produits avec images, prix et évaluations. Ces recommandations sont organiques et non sponsorisées, selon Adam Fry, responsable produit de la recherche ChatGPT chez OpenAI. La mise à jour vise à faciliter la recherche d'informations à jour sur les prix et les visuels des produits. La fonctionnalité est déjà disponible pour les utilisateurs de ChatGPT Plus, Pro, Free et non connectés. OpenAI a également annoncé d'autres améliorations, telles que de meilleures citations, des recherches tendance et une fonction d'autocompletion.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Search_Shopping.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 28 Apr 2025 19:00:00 GMT"
+    },
+    {
         "title": "La révolution de la classification des produits",
         "link": "https://www.forbes.com/sites/aleksandrabal/2025/04/28/ai-for-product-classification-can-machines-master-tax-law/?ss=ai",
         "body": "L'article explore l'importance de la classification des produits pour la conformité fiscale et douanière des entreprises. La classification précise des produits permet d'appliquer les bons taux de taxe, droits et exemptions, aidant ainsi les entreprises à éviter les erreurs coûteuses, les audits et les pénalités. L'auteur explique comment la classification des produits va au-delà du commerce international, impactant même les ventes nationales avec des codes fiscaux affectant chaque facture et déclaration de taxe. Les erreurs de classification peuvent avoir des conséquences importantes, de la sous-évaluation ou de la surévaluation des taxes à l'endommagement de la réputation de l'entreprise. Historiquement, la classification des produits était un processus manuel lent et sujet aux erreurs humaines. L'intelligence artificielle (IA) révolutionne ce domaine, analysant de grands ensembles de données de produits, y compris les descriptions, les spécifications et les images, pour suggérer des classifications fiscales précises. Bien que prometteuse, l'IA a ses limites dans la maîtrise du domaine complexe et nuancé de la classification fiscale, nécessitant un jugement subjectif et une compréhension de l'utilisation prévue et de la fonction des produits. L'article plaide pour une collaboration humain-IA, où l'IA gère le volume de données et les humains apportent leur expertise et leur jugement pour les cas complexes. Enfin, l'auteur remet en question la complexité des systèmes de classification fiscale, suggérant que la simplification et la standardisation pourraient réduire le besoin d'aides technologiques.\n\nRésumé : La classification précise des produits est essentielle pour la conformité fiscale et douanière des entreprises. L'IA révolutionne ce processus, mais a ses limites dans la gestion des cas complexes. La collaboration humain-IA est idéale, avec l'IA gérant le volume de données et les humains apportant leur expertise. La simplification des systèmes de classification fiscale pourrait réduire le besoin d'aides technologiques.",
@@ -152,19 +166,5 @@
         "body": "L'auteur explore les possibilités et les défis de l'utilisation de l'IA pour détecter les mensonges, en comparant les approches traditionnelles comme le polygraphe aux techniques modernes basées sur l'IA. Bien que l'IA puisse détecter les mensonges avec une précision supérieure à celle des humains, des questions éthiques surgissent quant à l'impact potentiel sur la confiance et les relations sociales. L'article mentionne également des recherches indiquant que l'IA peut montrer des signes d'anxiété face à des sujets violents ou effrayants, soulignant ainsi la complexité des interactions sociales et émotionnelles. La conclusion suggère que, malgré les avancées de l'IA, des domaines comme le mensonge et la propagation de la peur restent principalement du ressort des humains.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/680df091c88ad0839e761eb1/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 27 Apr 2025 08:53:00 GMT"
-    },
-    {
-        "title": "La fin de la lune de miel pour Perplexity ?",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2595601_le-patron-de-perplexity-veut-sauter-les-etapes-de-la-merdification",
-        "body": "Perplexity, un outil hybride entre moteur de recherche et chatbot, s'appuie sur divers modèles d'IA, dont ceux d'OpenAI, d'Anthropic et de Google. Malgré des résultats prometteurs, les récentes déclarations d'Aravind Srinivas, son patron, soulèvent des inquiétudes. Il exprime son intérêt pour le rachat de Google Chrome et révèle le développement du navigateur Comet, prévu pour mai. L'objectif est d'obtenir plus de données utilisateur pour le profilage et l'affichage de publicités ciblées. Cette stratégie, connue sous le nom de \"merdification\", implique de sacrifier la qualité du service et la vie privée des utilisateurs pour maximiser les profits. La question est de savoir si Perplexity, en adoptant cette approche, ne risque pas de compromettre sa réputation et la fidélité de ses utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/logo-perplexity-1200x675-1-768x432.png?resize=169,169&key=3d6969b5",
-        "date": "Sat, 26 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Photos : une recherche rapide et classique",
-        "link": "https://9to5google.com/2025/04/25/google-photos-classic-search-shortcut/",
-        "body": "Bien que la fonctionnalité « Ask Photos » de Google Photos, basée sur l'IA, soit impressionnante, elle peut être lente et moins pratique pour les recherches quotidiennes. Un raccourci peu connu permet aux utilisateurs d'accéder directement à la recherche classique, plus rapide et plus adaptée à la plupart des besoins. Ce raccourci, qui existe sur de nombreuses applications Android, est particulièrement utile dans Google Photos, car il permet d'accéder directement au mode de recherche préféré par la plupart des utilisateurs. Malheureusement, ce geste ne fonctionne pas dans l'application Google Photos pour iPhone.",
-        "image": "",
-        "date": "Sat, 26 Apr 2025 21:41:25 GMT"
     }
 ]
