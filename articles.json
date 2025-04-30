@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Duolingo privilégie l’IA aux humains pour apprendre des langues",
+        "title": "Duolingo privil\u00e9gie l\u2019IA aux humains pour apprendre des langues",
         "link": "https://www.frandroid.com/culture-tech/2598591_duolingo-privilegie-lia-aux-humains-pour-apprendre-des-langues",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/appshunter-io-rwkxk0zwxdi-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=a5f9b6a7",
         "date": "Mon, 28 Apr 2025 23:00:00 GMT",
@@ -196,7 +196,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : pourquoi OpenAI a dû faire machine arrière sur sa dernière mise à jour",
+        "title": "ChatGPT : pourquoi OpenAI a d\u00fb faire machine arri\u00e8re sur sa derni\u00e8re mise \u00e0 jour",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2600385_chatgpt-pourquoi-openai-a-du-faire-machine-arriere-sur-sa-derniere-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-1-1200x800-1-768x512.jpg?resize=200,200&key=bd79fbdd",
         "date": "Tue, 29 Apr 2025 23:00:00 GMT",
@@ -306,5 +306,26 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_180927_1777_lyft_0003.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 29 Apr 2025 22:27:37 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/658850/openai-chatgpt-gpt-4o-update-sycophantic",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 30 Apr 2025 16:46:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/04/30/metas-new-ai-assistant-productivity-booster-or-time-sink/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681246bffdf58298a2dd73ff/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Apr 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/04/30/thoughts-from-anshul-ramachandran-at-windsurf/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6812418f463ce9de43fff4a2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Apr 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
