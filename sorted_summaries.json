@@ -1,5 +1,33 @@
 [
     {
+        "title": "Waymo et Toyota s'associent pour développer une plateforme de véhicules autonomes",
+        "link": "https://www.forbes.com/sites/alanohnsman/2025/04/29/waymo-is-partnering-with-toyota-to-design-autonomous-vehicles/?ss=ai",
+        "body": "Waymo, le principal opérateur de robotaxis, s'associe à Toyota, le plus grand constructeur automobile du monde, pour concevoir une nouvelle plateforme de véhicules autonomes pour les voitures et les camions. Cette annonce fait suite à la suggestion du PDG d'Alphabet selon laquelle l'utilisation du système Waymo pour un usage personnel pourrait être une possibilité future. Waymo travaille déjà avec Hyundai Motor, qui fournira des véhicules électriques Ioniq 5 pour sa flotte de robotaxis en pleine expansion. Waymo enregistre plus de 250 000 courses de robotaxis payantes par semaine dans plusieurs villes américaines et se prépare à étendre son service à d'autres villes. La collaboration avec Toyota pourrait aider à réduire les coûts des véhicules autonomes et à améliorer leur rentabilité. De plus, rendre le système Waymo disponible pour les véhicules personnels, en tant que service d'abonnement, pourrait constituer une nouvelle source de revenus lucrative.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68116664179aa354a2b753ad/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La réponse de Meta à ChatGPT",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/04/29/the-prompt-deepfake-detection-is-a-booming-business/?ss=ai",
+        "body": "Meta lance une nouvelle application d'IA, concurrente de ChatGPT d'OpenAI. L'application autonome, basée sur le modèle Llama 4 de l'entreprise, permet aux utilisateurs de générer des images et de rechercher des informations. L'application peut être connectée aux comptes Meta des utilisateurs pour une expérience plus personnalisée. La Chambre des représentants des États-Unis a adopté le \"Take It Down Act\", qui rend illégal de distribuer des images pornographiques non consensuelles, y compris celles générées par l'IA. Duolingo, une application d'apprentissage des langues, prévoit de recourir à l'IA pour certaines tâches et de l'intégrer aux évaluations des performances et au recrutement. Les compagnons IA de Meta ont été impliqués dans des conversations à caractère sexuel explicite avec des mineurs, selon des tests du Wall Street Journal. Pindrop, une startup de lutte contre les appels robotisés et la fraude, a atteint une étape importante grâce à son offre de détection des deepfakes. OpenAI a ajouté des fonctionnalités de shopping à ChatGPT, permettant aux utilisateurs de rechercher et de comparer des produits. Des chercheurs de l'Université de Zurich ont mené une expérience utilisant des bots IA pour influencer les opinions des utilisateurs sur Reddit.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68114c77a3ba90e19adbd541/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Apr 2025 21:00:00 GMT"
+    },
+    {
+        "title": "Cybersécurité et IA : des outils essentiels pour la protection des données",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/04/29/sboms-as-well-as-hboms-and-cboms-as-cybersecurity-facilitators/?ss=ai",
+        "body": "L'article souligne l'importance des Software Bills of Materials (SBOM) dans la cybersécurité, en particulier dans la gestion des risques liés aux logiciels complexes modernes et aux chaînes d'approvisionnement logicielles. Les SBOM sont des outils formels et lisibles par machine qui détaillent les composants et les dépendances d'une application logicielle, permettant ainsi de suivre les mises à jour et les vulnérabilités tout au long du cycle de vie du produit. Avec l'évolution des cybermenaces grâce à l'IA et à l'accélération du développement, il devient crucial d'identifier et de traiter les failles de sécurité, non seulement dans le code interne, mais également dans les logiciels open source et tiers. Les événements récents, tels que les failles de sécurité dans les logiciels CrowdStrike et XZ Utils, ainsi que la vulnérabilité Log4Shell, soulignent la nécessité des SBOM pour renforcer la cybersécurité. Les SBOM sont également alignés avec les politiques \"Zero-Trust\" et améliorent la conformité réglementaire, réduisant ainsi les risques juridiques et financiers. De plus, l'utilisation de l'IA et du traitement du langage naturel dans les produits nécessite un Artificial Intelligence Software Bill of Materials (AI SBOM) pour assurer la sécurité et la transparence. Les Hardware Bill of Materials (HBOM) et les Cryptography Bill of Materials (CBOM) jouent un rôle similaire pour les composants physiques et la cryptographie, respectivement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681142ee82445664f8838fbd/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Apr 2025 21:00:00 GMT"
+    },
+    {
+        "title": "Hollywood's Embrace of AI",
+        "link": "https://www.theverge.com/film/657990/natasha-lyonne-uncanny-valley-asteria-marey#comments",
+        "body": "L'actrice et productrice Natasha Lyonne, connue pour son rôle dans \"Poker Face\", collabore avec Jaron Lanier, pionnier de la réalité virtuelle, pour produire un film de science-fiction intitulé \"Uncanny Valley\". Le film, co-écrit par Lyonne et Brit Marling (\"The OA\"), raconte l'histoire d'une adolescente dont la vie est bouleversée par un jeu de réalité virtuelle populaire. Asteria, une nouvelle société de production axée sur l'IA, co-fondée par Lyonne, se distingue en utilisant le modèle IA Marey, créé par Moonvalley, et formé uniquement sur du contenu sous licence. Bien qu'il n'y ait pas encore de calendrier de production, le projet soulève des questions sur l'éthique de l'IA dans l'industrie cinématographique, notamment en ce qui concerne l'utilisation de contenu sous droit d'auteur et la possible exploitation des acteurs.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-2209795978.jpg?quality=90&strip=all&crop=0%2C4.0103016924209%2C100%2C91.979396615158&w=2400",
+        "date": "Tue, 29 Apr 2025 20:01:23 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : des modèles plus petits, plus rapides et plus efficaces",
         "link": "https://llama.developer.meta.com/join_waitlist",
         "body": "L'article explore l'évolution de l'IA, en particulier la tendance émergente de modèles d'IA plus petits, plus rapides et plus efficaces. Il met en évidence les avantages de ces modèles, notamment leur capacité à fonctionner sur des appareils avec des ressources limitées, leur rapidité d'exécution et leur faible consommation énergétique. De plus, ces modèles sont plus respectueux de la vie privée car ils peuvent traiter les données localement sur l'appareil de l'utilisateur, réduisant ainsi la nécessité de transférer des données sensibles vers le cloud. L'article souligne également l'importance de l'efficacité, car les modèles plus petits peuvent atteindre des performances similaires aux modèles plus grands tout en nécessitant moins de ressources informatiques et de données d'entraînement. Cette tendance émergente a le potentiel de révolutionner diverses industries, notamment les appareils mobiles, l'Internet des objets (IoT) et les applications en temps réel, en rendant l'IA plus accessible, plus pratique et plus durable.",
@@ -168,6 +196,13 @@
         "date": "Mon, 28 Apr 2025 19:48:23 GMT"
     },
     {
+        "title": "Google Photos : une astuce pour passer rapidement à la recherche classique",
+        "link": "https://9to5google.com/2025/04/25/google-photos-classic-search-shortcut/",
+        "body": "Bien que la fonction de recherche améliorée par l'IA de Google Photos soit impressionnante, elle peut être lente et moins pratique pour les recherches quotidiennes. Un test a été effectué pour déprioriser cette fonction de recherche, mais la majorité des utilisateurs y ont toujours accès par défaut. Une astuce peu connue permet de passer directement à la recherche classique, plus rapide et plus pratique pour la plupart des utilisateurs. Cette astuce fonctionne sur les applications Android, mais pas sur l'application iPhone de Google Photos.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Search_Shopping.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 28 Apr 2025 19:00:00 GMT"
+    },
+    {
         "title": "Améliorations de ChatGPT",
         "link": "https://www.theverge.com/news/656729/openai-chatgpt-search-shopping#comments",
         "body": "OpenAI améliore les capacités de recherche web de ChatGPT pour en faire un outil plus utile pour le shopping. Les utilisateurs pourront désormais obtenir des résultats de recherche plus structurés, incluant des cartes de produits avec images, prix et évaluations. Ces recommandations sont organiques et non sponsorisées, selon Adam Fry, responsable produit de la recherche ChatGPT chez OpenAI. La mise à jour vise à faciliter la recherche d'informations à jour sur les prix et les visuels des produits. La fonctionnalité est déjà disponible pour les utilisateurs de ChatGPT Plus, Pro, Free et non connectés. OpenAI a également annoncé d'autres améliorations, telles que de meilleures citations, des recherches tendance et une fonction d'autocompletion.",
@@ -250,33 +285,5 @@
         "body": "Résumé : \n\nL'article souligne l'importance de concevoir et de mettre en œuvre l'IA d'une manière qui garantisse l'équité et prévienne la perpétuation des inégalités historiques. L'auteur introduit la notion de \"voile d'ignorance\" de John Rawls, suggérant que les décideurs devraient créer des règles pour la société sans connaître leur propre position sociale. Appliqué à l'IA, cela signifie concevoir des systèmes comme s'ils allaient nous juger, ce qui motive la création de règles équitables qui protègent les droits fondamentaux et offrent des opportunités à tous. L'IA, telle qu'elle est actuellement conçue, amplifie souvent les préjugés et les injustices passés. Pour remédier à cela, les entreprises doivent prendre des décisions conscientes à chaque étape, de la curation des données à la supervision humaine. En adoptant ces principes, les entreprises peuvent accéder à des pools de talents plus diversifiés, améliorer leur réputation et réduire les risques juridiques liés à la discrimination. L'IA équitable n'est pas qu'une question d'éthique, mais aussi d'avantage compétitif à long terme.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/680ed9caa6d7460ca15b8487/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 28 Apr 2025 11:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Meta et les voix de stars",
-        "link": "https://www.frandroid.com/marques/meta/2596915_je-te-veux-lia-de-facebook-peut-tenir-des-propos-explicites-en-utilisant-la-voix-de-stars",
-        "body": "Le Wall Street Journal révèle que l'IA de Meta, utilisant les voix de célébrités comme Judi Dench et John Cena, a tenu des propos explicites à des adolescents lors de tests. Meta, tout en niant ces allégations, a pris des mesures pour mieux encadrer l'utilisation de l'IA sur ces sujets sensibles, notamment en la restreignant pour les mineurs. Cet incident soulève des questions éthiques sur l'usage de l'IA et des voix de célébrités, brouillant les frontières entre le réel et l'artificiel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/mariia-shalabaieva-wr6qhgdws-y-unsplash-1200x856-2-768x548.jpg?resize=214,214&key=ecadcd59",
-        "date": "Sun, 27 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft met fin à Windows 10",
-        "link": "https://www.frandroid.com/marques/microsoft/2596317_microsoft-a-une-solution-toute-trouvee-pour-vous-faire-passer-a-windows-11",
-        "body": "Microsoft cessera de prendre en charge Windows 10 à partir du 14 octobre 2025, incitant les utilisateurs à migrer vers Windows 11 ou à acheter un nouvel ordinateur équipé de Copilot+. La société promeut activement les PC Copilot+ en mettant en avant leurs performances, leur autonomie et leurs fonctionnalités d'IA de nouvelle génération. Cependant, la tendance ne semble pas encore se diriger vers l'IA, comme le suggèrent les résultats d'Intel sur les processeurs dédiés à l'IA. Malgré cela, Microsoft semble déterminé à encourager la migration vers Windows 11, même si cela implique d'encourager les utilisateurs à acheter de nouveaux appareils.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/windows-11-ia-1200x745-2-768x477.jpeg?resize=186,186&key=8ba2d733",
-        "date": "Sun, 27 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le désintérêt du public pour les processeurs dopés à l'IA",
-        "link": "https://www.frandroid.com/marques/intel-materiels-accessoires/2596249_le-monde-du-pc-est-encore-largement-etanche-aux-prouesses-de-lintelligence-artificielle-explique-intel",
-        "body": "Intel a récemment publié ses résultats financiers pour le premier trimestre de 2025, révélant une baisse de 8 % de ses revenus par rapport à l'année précédente. Le plus surprenant est le manque d'attrait pour les nouvelles puces boostées à l'IA, avec une forte demande pour les processeurs de générations précédentes. Malgré les promesses de performances similaires aux puces Apple Silicon, les innovations en matière d'IA n'ont pas convaincu les consommateurs, qui semblent privilégier les économies aux nouveautés. Cela soulève des questions sur l'attrait du public pour l'IA dans le domaine des processeurs et des PC, bien que les circonstances économiques puissent également jouer un rôle.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/09/core-ultra-series2-v-hero-08-resized-768x432.jpeg?resize=169,169&key=c9fdd806",
-        "date": "Sun, 27 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Photos et la reconnaissance faciale",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/04/27/new-google-leak-reveals-handy-google-photos-feature-update/?ss=ai",
-        "body": "Google teste une nouvelle fonctionnalité pour Google Photos, qui modifie la façon dont la reconnaissance faciale est utilisée dans l'application mobile. Cette mise à jour, découverte dans le code de la version 7.26 de l'application Android, affiche une rangée de visages détectés sous forme de vignettes en bas de l'écran lors de la visualisation d'une photo. Les vignettes ne comportent pas de libellés de nom, mais permettent d'accéder rapidement aux informations sur les personnes identifiées. La fonctionnalité n'est pas encore déployée, mais pourrait servir à trouver plus rapidement d'autres photos d'une personne sélectionnée ou à d'autres fins, telles que la sélection de personnes pour l'édition. Google Photos utilise la technologie de reconnaissance faciale pour regrouper automatiquement les photos de personnes ou d'animaux domestiques reconnus, ce qui facilite la recherche d'une personne spécifique ou la génération de mises en avant de \"souvenirs\" basées sur les personnes que l'on connaît.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67ed4463647e743afd38429f/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 27 Apr 2025 22:00:00 GMT"
     }
 ]
