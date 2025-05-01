@@ -1,5 +1,12 @@
 [
     {
+        "title": "La valeur de l'IA va au-delà de l'échelle",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/05/01/model-citizens-how-ai-value-is-the-next-business-yardstick/?ss=ai",
+        "body": "L'article explore l'évolution de la perception des modèles commerciaux, passant des stratégies traditionnelles aux nouveaux développements dans le domaine de l'IA. Il souligne que la question « Comment est votre modèle ? » peut désormais se référer au modèle d'IA qu'une entreprise a adopté. L'auteur discute de l'essor de l'IA générative et de son application à diverses tâches, conduisant à la croissance des modèles de langage et de leurs applications. Cependant, le débat se déplace vers la rationalisation du développement des modèles d'IA, avec la reconnaissance que l'augmentation de la puissance de calcul et du nombre de paramètres ne se traduit pas nécessairement par des gains d'intelligence significatifs. L'article souligne la valeur des modèles d'IA spécifiques à un domaine, qui peuvent fournir des connaissances précises, et suggère que les modèles d'IA généraux peuvent être limités par des données obsolètes ou incorrectes. Il explore les avantages des modèles d'IA à petite et moyenne échelle pour la plupart des tâches, tels que la synthèse de documents et l'analyse des données, et souligne l'importance de la bonne taille des modèles en fonction des besoins spécifiques. L'article conclut que la véritable valeur de l'IA ne réside pas dans l'échelle, mais dans l'adéquation à l'utilisation prévue, et que les entreprises devraient évaluer soigneusement la taille et l'étendue des modèles d'IA en fonction de leurs exigences uniques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e67afd9490e8b3809db8d2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 01 May 2025 13:00:00 GMT"
+    },
+    {
         "title": "La fin des chauffeurs Uber ?",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/05/01/uber-wants-to-be-your-robotaxi-shop-will-providers-let-them/?ss=ai",
         "body": "Waymo, la filiale de voitures autonomes d'Alphabet, s'associe à Uber pour proposer des robotaxis à Austin et Phoenix. Uber souhaite devenir l'écosystème de choix pour les services de robotaxis, mais les grandes entreprises comme Waymo, Zoox (Amazon) et Tesla ont leurs propres ambitions et ressources considérables. Les chauffeurs Uber actuels sont mécontents de l'enthousiasme de l'entreprise à les remplacer, mais leur rôle dans le modèle \"hybride\" reste incertain. Les entreprises de robotaxis prévoient des options de tarification différentes de celles d'Uber et souhaitent contrôler leur relation avec les clients, ce qui pourrait remettre en question le rôle d'intermédiaire d'Uber.",
@@ -56,6 +63,13 @@
         "date": "Thu, 01 May 2025 03:02:00 GMT"
     },
     {
+        "title": "Amélioration de la numérisation de documents sur Android",
+        "link": "https://www.frandroid.com/marques/google/2602491_fini-les-reglages-compliques-voici-comment-android-optimise-vos-scans-en-un-clic",
+        "body": "Google a amélioré la numérisation de documents sur les appareils Android grâce à son module MLKit intégré aux services Google Play. Désormais, lorsque vous scannez un document via des applications comme Google Drive, Fichiers ou l'appareil photo des Pixel, le système ajuste automatiquement le contraste, clarifie le texte et atténue les ombres. Cette fonction, déjà active sur certains appareils comme le Pixel 7 Pro, sera disponible sur tous les Android utilisant des applications compatibles avec MLKit. Les applications tierces exploitant le module Google bénéficieront également de cette amélioration. Les utilisateurs peuvent comparer les versions originales et retouchées grâce au bouton \"Annuler l'amélioration\".",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/application-pour-scanner-un-document-1200x800-1-768x512.jpg?resize=200,200&key=44396dae",
+        "date": "Wed, 30 Apr 2025 23:00:00 GMT"
+    },
+    {
         "title": "Apple et Google s'allient pour l'IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2602385_google-gemini-arrive-sur-iphone",
         "body": "Sundar Pichai, PDG de Google, a confirmé que Gemini, l'outil d'IA de Google, sera intégré à Apple Intelligence d'ici la fin de l'année 2025. Cette annonce, faite lors d'un procès pour monopole, fait suite à la collaboration existante entre les deux entreprises sur la fonction Visual Intelligence d'iOS. Apple, confronté à un retard dans le développement de sa propre technologie d'IA, s'associe ainsi à Google pour offrir aux utilisateurs un choix de modèles d'IA adaptés à leurs besoins spécifiques. L'assistant virtuel Siri d'Apple, qui peut déjà déléguer des recherches complexes à ChatGPT, pourrait donc également s'appuyer sur Gemini.",
@@ -68,6 +82,13 @@
         "body": "Perplexity AI, un nouvel assistant IA, est désormais disponible sur WhatsApp. L'article explique comment ajouter gratuitement Perplexity AI à votre liste de contacts WhatsApp. Il fournit également un aperçu du fonctionnement de l'IA, ainsi que des informations sur la désactivation de Copilot dans Windows 11. De plus, l'article comprend un guide pour installer ChatGPT sur PC ou Mac, et aborde des sujets tels que l'utilisation des données par Meta pour entraîner son IA et la protection des données lors de l'utilisation de ChatGPT.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-1200x800-1-768x512.jpg?resize=200,200&key=5c8661ff",
         "date": "Wed, 30 Apr 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Chatbots et revenus",
+        "link": "https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app#comments",
+        "body": "Meta lance une application d'IA autonome, disponible dans son application standalone, permettant aux utilisateurs d'interagir avec le chatbot et de générer des images. Mark Zuckerberg a annoncé que l'entreprise envisageait de proposer un service premium payant, similaire à ceux de ses concurrents OpenAI, Google et Microsoft, offrant ainsi plus de fonctionnalités et de puissance de calcul. Meta a déclaré que son chatbot comptait désormais près d'un milliard d'utilisateurs. L'entreprise a également revu à la hausse ses investissements dans l'IA, passant de 65 à 72 milliards de dollars. Enfin, Zuckerberg a mentionné la possibilité d'inclure des recommandations de produits ou de la publicité dans l'application d'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 30 Apr 2025 22:18:22 GMT"
     },
     {
         "title": "HP présente ses nouveaux ordinateurs portables et de bureau équipés de puces IA",
@@ -320,26 +341,5 @@
         "body": "L'article explore les complexités éthiques entourant le développement et le déploiement de l'IA, soulignant l'importance de considérer l'éthique comme un élément clé de la stratégie d'IA. Il met en évidence les risques potentiels de préjudices causés par des systèmes d'IA mal conçus ou utilisés de manière abusive, tels que la discrimination, la violation de la vie privée et la manipulation de l'information. Pour naviguer dans ces défis, les entreprises sont encouragées à adopter des pratiques éthiques robustes, y compris la transparence, la responsabilité et le respect des droits humains. L'article plaide également pour une collaboration entre les parties prenantes, y compris les gouvernements et les organisations, pour établir des normes et des réglementations garantissant une utilisation responsable de l'IA. Enfin, il souligne la nécessité de considérer l'éthique de l'IA comme un effort continu, s'adaptant aux avancées technologiques et aux changements sociaux.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/404-meta-ai-therapy-chatbot.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 29 Apr 2025 15:28:00 GMT"
-    },
-    {
-        "title": "Meta AI : l'application qui donne une nouvelle tournure aux médias sociaux",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android#comments",
-        "body": "L'application Meta AI, concurrente de ChatGPT, propose les fonctionnalités classiques d'un assistant IA : interaction par texte ou voix, génération d'images et résultats web en temps réel. Son innovation majeure réside dans son fil Discover, qui intègre l'IA aux médias sociaux. Les utilisateurs peuvent partager et interagir avec les réponses de l'IA, démystifiant ainsi l'IA et montrant son potentiel. L'application donne la priorité au mode vocal, avec une version bêta plus conversationnelle, bien qu'elle n'ait pas encore accès aux informations web. Meta AI personnalise ses réponses en utilisant les données de Facebook et Instagram, et peut mémoriser des détails spécifiques sur l'utilisateur. L'application remplace l'application compagnon View pour les lunettes de soleil intelligentes Meta Ray-Ban, avec un onglet dédié pour les fonctionnalités existantes. Meta prévoit de lancer une paire de lunettes plus coûteuse avec un affichage tête haute.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Meta-AI-App_Header.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Tue, 29 Apr 2025 15:00:00 GMT"
-    },
-    {
-        "title": "NANDA : le protocole pour une IA décentralisée",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/04/29/theyre-making-tcpip-for-ai-and-its-called-nanda/?ss=ai",
-        "body": "NANDA (Networked Agents and Decentralized AI) est un nouveau protocole web pour les agents IA développé à MIT. Il s'appuie sur le Model Context Protocol (MCP) d'Anthropic, qui permet des transactions standardisées entre agents IA. NANDA ajoute des capacités et des protocoles Internet, permettant aux agents d'effectuer des tâches sur le web. L'objectif est de créer un \"Internet des Agents\", un écosystème où les agents IA spécialisés peuvent collaborer pour résoudre des problèmes complexes. Ramesh Raskar, du MIT Media Lab, décrit NANDA comme le \"TCP/IP de l'IA\", permettant aux agents IA d'utiliser Internet de la même manière que les humains utilisent le World Wide Web. NANDA a déjà une inscription DNS active dans 15 grandes universités et est présenté comme une plateforme pour construire l'épine dorsale commerciale du nouveau Web.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6704141594eb7a8b5b3aebc9/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Apr 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Amis de l'IA",
-        "link": "https://www.forbes.com/sites/calumchace/2025/04/29/what-should-we-call-our-ai-agents/?ss=ai",
-        "body": "L'article explore l'évolution des grands modèles linguistiques en véritables agents, et la question de savoir comment les nommer de manière appropriée. L'auteur suggère que le terme « amis » capture de manière adéquate la nature des relations que les humains développeront avec ces agents. Bien qu'ils ne soient pas des êtres humains et ne remplacent pas l'amitié humaine, ces agents IA auront une présence distinctive et connectée dans nos vies, influençant nos préférences, nos objectifs et même nos humeurs. L'auteur souligne que, bien que nous puissions choisir des noms individuels pour nos agents, avoir un terme commun pour décrire cette nouvelle catégorie de relations pourrait faciliter les discussions publiques, politiques et philosophiques sur le rôle de l'IA dans notre avenir.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6810d9915ba58a23ffa289f1/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Apr 2025 13:00:00 GMT"
     }
 ]
