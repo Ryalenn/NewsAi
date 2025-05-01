@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : pourquoi OpenAI a dû faire machine arrière sur sa dernière mise à jour",
+        "title": "ChatGPT : pourquoi OpenAI a d\u00fb faire machine arri\u00e8re sur sa derni\u00e8re mise \u00e0 jour",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2600385_chatgpt-pourquoi-openai-a-du-faire-machine-arriere-sur-sa-derniere-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-1-1200x800-1-768x512.jpg?resize=200,200&key=bd79fbdd",
         "date": "Tue, 29 Apr 2025 23:00:00 GMT",
@@ -273,7 +273,7 @@
         "check": "yes"
     },
     {
-        "title": "Fini les réglages compliqués : voici comment Android optimise vos scans en un clic",
+        "title": "Fini les r\u00e9glages compliqu\u00e9s : voici comment Android optimise vos scans en un clic",
         "link": "https://www.frandroid.com/marques/google/2602491_fini-les-reglages-compliques-voici-comment-android-optimise-vos-scans-en-un-clic",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/application-pour-scanner-un-document-1200x800-1-768x512.jpg?resize=200,200&key=44396dae",
         "date": "Wed, 30 Apr 2025 23:00:00 GMT",
@@ -292,5 +292,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67e67afd9490e8b3809db8d2/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 01 May 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/659222/wikipedia-generative-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23327570/acastro_220315_STK013_0003.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 01 May 2025 15:55:16 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/meta/659506/mark-zuckerberg-ai-facebook-ads#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 01 May 2025 15:53:23 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/659485/pinterest-ai-image-label-filter-features#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Pinterest-ai-labels-filter-head.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Thu, 01 May 2025 13:42:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/cryptocurrency/659011/worldcoin-us-launch-orb-crypto-sam-altman#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSC01496.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 01 May 2025 02:10:51 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/05/01/adobe-updates-creative-cloud-and-firefly-at-adobe-max-london-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68138d28cb04d7e49e3fd28c/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 01 May 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
