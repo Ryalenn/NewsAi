@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : pourquoi OpenAI a dû faire machine arrière sur sa dernière mise à jour",
+        "title": "ChatGPT : pourquoi OpenAI a d\u00fb faire machine arri\u00e8re sur sa derni\u00e8re mise \u00e0 jour",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2600385_chatgpt-pourquoi-openai-a-du-faire-machine-arriere-sur-sa-derniere-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-1-1200x800-1-768x512.jpg?resize=200,200&key=bd79fbdd",
         "date": "Tue, 29 Apr 2025 23:00:00 GMT",
@@ -245,7 +245,7 @@
         "check": "yes"
     },
     {
-        "title": "Fini les réglages compliqués : voici comment Android optimise vos scans en un clic",
+        "title": "Fini les r\u00e9glages compliqu\u00e9s : voici comment Android optimise vos scans en un clic",
         "link": "https://www.frandroid.com/marques/google/2602491_fini-les-reglages-compliques-voici-comment-android-optimise-vos-scans-en-un-clic",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/application-pour-scanner-un-document-1200x800-1-768x512.jpg?resize=200,200&key=44396dae",
         "date": "Wed, 30 Apr 2025 23:00:00 GMT",
@@ -299,5 +299,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68138d28cb04d7e49e3fd28c/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 01 May 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/05/01/aurora-starts-self-driving-commercial-service-in-texas/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6813dc96ee7d8f0da36b9b67/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 01 May 2025 20:50:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/01/the-startup-industrial-complex-vc-30-and-james-curriers-manifesto/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6813d59aaffd18e4f18d5835/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 01 May 2025 20:00:00 GMT",
+        "check": "no"
     }
 ]
