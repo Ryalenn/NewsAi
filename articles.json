@@ -182,7 +182,7 @@
         "check": "yes"
     },
     {
-        "title": "Fini les réglages compliqués : voici comment Android optimise vos scans en un clic",
+        "title": "Fini les r\u00e9glages compliqu\u00e9s : voici comment Android optimise vos scans en un clic",
         "link": "https://www.frandroid.com/marques/google/2602491_fini-les-reglages-compliques-voici-comment-android-optimise-vos-scans-en-un-clic",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/application-pour-scanner-un-document-1200x800-1-768x512.jpg?resize=200,200&key=44396dae",
         "date": "Wed, 30 Apr 2025 23:00:00 GMT",
@@ -285,5 +285,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68145d762dcf8f3874500551/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 02 May 2025 05:53:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Google contre-attaque ChatGPT avec un outil photo bluffant dans Gemini",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2602835_google-contre-attaque-chatgpt-avec-un-outil-photo-bluffant-dans-gemini",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-6-1200x676-1-768x433.jpg?resize=169,169&key=1500055a",
+        "date": "Thu, 01 May 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/02/how-world-models-are-radically-reshaping-the-future-of-generative-ai-and-llms/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/629e855d8589dcf18293c9a0/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 May 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
