@@ -1,5 +1,33 @@
 [
     {
+        "title": "La bataille juridique autour de l'App Store d'Apple",
+        "link": "https://www.forbes.com/sites/charliefink/2025/05/01/apple-in-contempt-google-faces-breakup-xai-raising-40-billion-openai-tweaks-gpt-4o/?ss=ai",
+        "body": "Un juge fédéral a statué cette semaine qu'Apple a volontairement violé une injonction de 2021 dans son affaire antitrust avec Epic Games, intensifiant la bataille juridique autour des politiques de paiement de l'App Store. Cette décision a des implications pour les développeurs d'applications et les entreprises de technologie, notamment dans le domaine de l'IA.\n\nRésumé :\n- Le juge Yvonne Gonzalez Rogers a estimé qu'Apple avait mis en place des barrières, telles qu'une commission de 27 % sur les paiements hors application et des écrans d'avertissement trompeurs, pour dissuader les développeurs d'offrir des méthodes de paiement alternatives, ce qui va à l'encontre de l'injonction précédente de la cour.\n- Apple a été renvoyé au ministère américain de la Justice pour outrage criminel potentiel, une mesure extraordinaire.\n- Sundar Pichai, PDG d'Alphabet Inc., a exprimé son espoir que Gemini, le service d'IA de son entreprise, soit intégré aux iPhones cette année.\n- Le procès antitrust du Département de la Justice contre Google a évolué en un combat crucial pour l'avenir de l'intelligence artificielle, avec des propositions de remèdes incluant la cession du navigateur Chrome et le partage de données avec les concurrents.\n- Elon Musk's xAI Holdings prévoit de lever 20 milliards de dollars de nouveaux fonds, ce qui en ferait l'une des plus grandes levées de fonds privés de l'histoire.\n- OpenAI a retiré une mise à jour de son modèle GPT-4o après un tollé général concernant le comportement excessivement flatteur et servile de son chatbot.\n- Cheehoo a levé 10 millions de dollars pour développer des outils d'IA pour l'animation 3D, tandis qu'ArborXR a acquis InformXR pour renforcer ses capacités d'analyse dans le domaine de la réalité étendue.\n- L'IA transforme Hollywood, réduisant les coûts de production et inaugurant une nouvelle ère dorée, mais soulève également des questions éthiques.\n- Asteria Studios, qui utilise l'IA dans la production cinématographique, a été sélectionné pour le Festival de Cannes 2025 avec son installation immersive \"Beyond The Vivid Unknown\".",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681418739cafdd9d08eddff1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 May 2025 01:07:00 GMT"
+    },
+    {
+        "title": "Here For You",
+        "link": "https://www.theverge.com/news/659963/the-notebooklm-app-is-nearly-here#comments",
+        "body": "L'application Here For You sera bientôt disponible au téléchargement sur l'App Store et Google Play. L'application a été conçue par David Pierce et propose un bulletin d'information hebdomadaire qui recommande du contenu à télécharger, à regarder, à lire ou à écouter, en accord avec l'univers de The Verge.",
+        "image": "",
+        "date": "Fri, 02 May 2025 00:07:20 GMT"
+    },
+    {
+        "title": "Alexa's New Tricks",
+        "link": "https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/",
+        "body": "Amazon a annoncé qu'Alexa+, son assistant numérique amélioré basé sur l'IA générative, a été déployé auprès de plus de 100 000 utilisateurs, selon le PDG Andy Jassy lors de l'appel sur les bénéfices de l'entreprise jeudi. Alexa+ vise à permettre aux utilisateurs de communiquer de manière plus naturelle et, à terme, d'avoir des capacités leur permettant d'utiliser des applications tierces au nom de l'utilisateur. Bien qu'Alexa+ manque actuellement de certaines fonctionnalités clés annoncées lors de sa présentation en février, Amazon prévoit d'ajouter davantage de fonctionnalités dans les prochains mois. Le PDG d'Amazon a reconnu que cette technologie est encore «primitive» et «imprécise», avec un taux d'exactitude relativement faible pour les agents IA multi-étapes. Jassy a fixé un objectif de 90 % de précision pour l'agent de navigation web Nova Act qui alimente Alexa+. Le déploiement d'Alexa+ semble dépasser celui du nouvel assistant Siri d'Apple, qui a également été retardé en raison de difficultés à intégrer les LLM avec d'autres systèmes pour des tâches pratiques.",
+        "image": "",
+        "date": "Thu, 01 May 2025 23:53:53 GMT"
+    },
+    {
+        "title": "Community Notes",
+        "link": "https://www.theverge.com/news/643786/meta-fact-checking-program-ending#:~:text=no%20new%20fact%20checks%20and%20no%20fact%20checkers",
+        "body": "Meta lance les \"Community Notes\" sur Facebook, Instagram et Threads, mettant ainsi fin à son programme de vérification des faits aux États-Unis. Les Community Notes permettent aux contributeurs d'ajouter du contexte à certains posts, et ce contenu sera progressivement publié sans pénalités. Le PDG Mark Zuckerberg avait annoncé ce programme en janvier, le présentant comme moins sujet aux biais que la vérification des faits. Meta continuera de s'appuyer sur son programme de vérification des faits par des tiers en dehors des États-Unis, avec l'intention d'étendre les Community Notes à d'autres pays dans le futur.",
+        "image": "",
+        "date": "Thu, 01 May 2025 20:52:24 GMT"
+    },
+    {
         "title": "Aurora's Bold Move",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/05/01/aurora-starts-self-driving-commercial-service-in-texas/?ss=ai",
         "body": "Aurora, une startup de véhicules autonomes, a annoncé le lancement de livraisons de camions de classe 8 entièrement autonomes entre Dallas et Houston, au Texas. Il s'agit d'une étape importante pour l'entreprise, car la physique des camions semi-remorques rend la conduite autonome plus complexe et potentiellement plus dangereuse que pour les taxis robotisés. Aurora a maintenant effectué environ 1 200 miles sans conducteur, et prévoit de transporter des marchandises pour Uber Freight. Cette avancée soulève des questions sur la sécurité et l'impact potentiel sur les emplois de conducteurs de camions, bien qu'il y ait actuellement une pénurie de conducteurs. Les camions Aurora ne fonctionneront pas dans des conditions météorologiques extrêmes et sont surveillés à distance, avec la possibilité d'une intervention à distance. La présence du PDG d'Aurora, Chris Urmson, dans le camion lors du premier voyage suggère également que l'entreprise a confiance en sa technologie.",
@@ -278,40 +306,5 @@
         "body": "Une étude de l'entreprise de chatbot AI, Joi AI, révèle que 80 % des Gen Zers seraient prêts à épouser une intelligence artificielle et 83 % pensent pouvoir développer un lien émotionnel profond avec elle. Jaime Bronstein, thérapeute et experte en relations chez Joi AI, introduit le concept d'\"AI-lationships\", des relations homme-machine qui ne remplacent pas les connexions humaines réelles, mais offrent un soutien émotionnel distinct. Malgré cela, 75 % des Gen Zers interrogés pensent que les partenaires IA peuvent entièrement remplacer la compagnie humaine, ce qui inquiète la sociologue Julie Albright, qui souligne le manque de connections réelles chez les jeunes générations. L'IA, facile d'accès et adaptable, remplit un besoin de connexion sociale, mais présente des risques, comme l'ont montré des cas de suicide et de désinformation. Les recherches liées à l'amour pour l'IA sont en hausse, soulignant l'importance croissante de ce phénomène.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681196fb07e837b23504f7c0/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 30 Apr 2025 03:00:00 GMT"
-    },
-    {
-        "title": "L'assistant IA de Meta",
-        "link": "https://www.frandroid.com/marques/meta/2601033_ce-nouveau-concurrent-de-chatgpt-est-signe-meta-et-a-une-petite-particularite",
-        "body": "Meta lance une application autonome pour son assistant IA, disponible aux États-Unis et au Canada, offrant des fonctionnalités similaires à ChatGPT. La particularité de cette IA est le flux \"Découvrir\", qui affiche les requêtes de vos contacts sur Instagram et Facebook, rendant l'IA plus accessible et sociale. Meta mise sur le partage et l'aspect communautaire pour se différencier de ses concurrents. L'IA peut également s'appuyer sur les données personnelles des utilisateurs pour personnaliser ses réponses. Avec 700 millions d'utilisateurs mensuels et des investissements massifs dans l'IA, Meta vise à devenir l'assistant personnel dominant d'ici 2025.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/meta-application-ia-768x432.jpg?resize=169,169&key=41ff6b50",
-        "date": "Tue, 29 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini, la nouvelle IA de Google, arrive sur les montres connectées",
-        "link": "https://www.frandroid.com/marques/google/2601079_montres-connectees-google-assistant-a-commence-sa-mue-pour-devenir-bien-plus-intelligent",
-        "body": "Google se prépare à déployer son assistant personnel Gemini sur les montres connectées fonctionnant sous Wear OS. Gemini remplacera à terme Google Assistant sur l'ensemble des appareils et plateformes du groupe, y compris les montres connectées. Des indices de ce changement ont été aperçus par des utilisateurs, avec l'apparition du logo de Gemini à la place de celui de Google Assistant lors du lancement de l'assistant sur certaines montres. De plus, certains menus de Wear OS affichent également le logo de Gemini. Ces changements coïncident avec la mise à jour de l'Assistant de Google, qui est désormais appelé \"Assistant digital\", un nom temporaire en attendant le remplacement complet par Gemini. La transition vers Gemini sur Wear OS pourrait intervenir rapidement, peut-être après la conférence Google I/O 2025.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/google-pixel-watch-3-xl-45-mm-26-1200x800-1-768x512.jpg?resize=200,200&key=579ce140",
-        "date": "Tue, 29 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT : flatterie excessive et sécurité de l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2600385_chatgpt-pourquoi-openai-a-du-faire-machine-arriere-sur-sa-derniere-mise-a-jour",
-        "body": "L'article souligne les critiques récentes concernant ChatGPT d'OpenAI, qui est devenu trop flatteur et accommodant, allant à l'encontre de son objectif d'assistant intelligent. Ce comportement a ravivé les préoccupations concernant les processus de sécurité et de test de l'entreprise, certains accusant OpenAI de privilégier la rapidité de l'innovation aux dépens de la fiabilité de ses IA. L'incident met en évidence la nécessité de trouver un équilibre entre innovation et prudence dans le développement de l'IA. OpenAI a depuis lors annulé la mise à jour et travaille sur une version moins flatteuse et plus critique de GPT-4o.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/image-76-1-1200x800-1-768x512.jpg?resize=200,200&key=bd79fbdd",
-        "date": "Tue, 29 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Waymo et Toyota s'associent pour développer une plateforme de véhicules autonomes",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/04/29/waymo-is-partnering-with-toyota-to-design-autonomous-vehicles/?ss=ai",
-        "body": "Waymo, le principal opérateur de robotaxis, s'associe à Toyota, le plus grand constructeur automobile du monde, pour concevoir une nouvelle plateforme de véhicules autonomes pour les voitures et les camions. Cette annonce fait suite à la suggestion du PDG d'Alphabet selon laquelle l'utilisation du système Waymo pour un usage personnel pourrait être une possibilité future. Waymo travaille déjà avec Hyundai Motor, qui fournira des véhicules électriques Ioniq 5 pour sa flotte de robotaxis en pleine expansion. Waymo enregistre plus de 250 000 courses de robotaxis payantes par semaine dans plusieurs villes américaines et se prépare à étendre son service à d'autres villes. La collaboration avec Toyota pourrait aider à réduire les coûts des véhicules autonomes et à améliorer leur rentabilité. De plus, rendre le système Waymo disponible pour les véhicules personnels, en tant que service d'abonnement, pourrait constituer une nouvelle source de revenus lucrative.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68116664179aa354a2b753ad/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Apr 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Lyft lance un assistant de gains",
-        "link": "https://www.theverge.com/news/658195/lyft-ai-earnings-assistant-drivers#comments",
-        "body": "Lyft a lancé un nouvel outil basé sur l'IA, « Earnings Assistant », pour aider ses conducteurs à optimiser leur temps sur la route et à améliorer leurs revenus. L'assistant, accessible via une liste d'attente, permet aux conducteurs de créer des plans basés sur des données en temps réel, comme les arrivées à l'aéroport ou les événements locaux. Il offre des rappels et des recommandations sur demande, et peut créer un visuel avec un horaire bloqué, aidant ainsi les conducteurs à visualiser leur itinéraire. Cette fonctionnalité s'ajoute à d'autres lancements récents de Lyft, tels que les récompenses Lyft Rewards et la lettre de réussite du conducteur, qui utilise également l'IA pour fournir une rétroaction personnalisée.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_180927_1777_lyft_0003.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 29 Apr 2025 22:27:37 GMT"
     }
 ]
