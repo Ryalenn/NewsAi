@@ -1,5 +1,12 @@
 [
     {
+        "title": "World Models Boost AI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/02/how-world-models-are-radically-reshaping-the-future-of-generative-ai-and-llms/?ss=ai",
+        "body": "Les modèles du monde sont de plus en plus utilisés pour améliorer l'IA générative et les grands modèles linguistiques. L'article explique comment ces modèles du monde interagissent avec l'IA, lui permettant d'affiner ses capacités de correspondance de modèles et de raisonnement logique. L'auteur compare ce processus à l'apprentissage humain, en utilisant l'exemple d'apprendre les règles et les concepts du baseball. Il souligne également l'importance des modèles du monde pour la formation de l'IA, en particulier pour les tâches complexes comme la conduite de voitures autonomes. Cependant, il met en garde contre les limitations des modèles du monde, notamment leur caractère incomplet et la possibilité de contenir des erreurs. L'article conclut en suggérant que les modèles du monde deviendront de plus en plus cruciaux pour faire avancer l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/629e855d8589dcf18293c9a0/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 May 2025 07:00:00 GMT"
+    },
+    {
         "title": "Quantum Computing's Looming Talent Crisis",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/05/02/quantum-talent-wars-the-hidden-crisis-threatening-techs-next-frontier/?ss=ai",
         "body": "Le texte met en lumière le potentiel révolutionnaire de l'informatique quantique dans divers secteurs, mais souligne également la pénurie critique de talents qui pourrait entraver son adoption par les entreprises. L'auteur suggère que, bien qu'il y ait beaucoup d'enthousiasme autour de la technologie quantique, il existe un réel risque que les entreprises ne soient pas prêtes à exploiter son plein potentiel en raison d'un manque de compétences. Les experts en matériel et logiciels quantiques, en algorithmes quantiques et en interprétation de données à grande échelle sont particulièrement demandés. De plus, les spécialistes de divers domaines, tels que la santé, les produits pharmaceutiques, la finance et la cybersécurité, devront comprendre les possibilités offertes par l'informatique quantique. Les dirigeants d'entreprise devront également s'adapter à l'arrivée de l'informatique quantique et comprendre son impact sur les compétences nécessaires. L'auteur recommande aux entreprises de développer une stratégie quantique, d'investir dans la formation et l'éducation, de créer des cultures encourageant l'innovation et d'encourager la collaboration entre les experts. Enfin, les entreprises qui ne se préparent pas dès maintenant à l'avenir de l'informatique quantique risquent de se retrouver désavantagées par rapport à leurs concurrents plus agiles.",
@@ -26,6 +33,13 @@
         "body": "Amazon a annoncé qu'Alexa+, son assistant numérique amélioré basé sur l'IA générative, a été déployé auprès de plus de 100 000 utilisateurs, selon le PDG Andy Jassy lors de l'appel sur les bénéfices de l'entreprise jeudi. Alexa+ vise à permettre aux utilisateurs de communiquer de manière plus naturelle et, à terme, d'avoir des capacités leur permettant d'utiliser des applications tierces au nom de l'utilisateur. Bien qu'Alexa+ manque actuellement de certaines fonctionnalités clés annoncées lors de sa présentation en février, Amazon prévoit d'ajouter davantage de fonctionnalités dans les prochains mois. Le PDG d'Amazon a reconnu que cette technologie est encore «primitive» et «imprécise», avec un taux d'exactitude relativement faible pour les agents IA multi-étapes. Jassy a fixé un objectif de 90 % de précision pour l'agent de navigation web Nova Act qui alimente Alexa+. Le déploiement d'Alexa+ semble dépasser celui du nouvel assistant Siri d'Apple, qui a également été retardé en raison de difficultés à intégrer les LLM avec d'autres systèmes pour des tâches pratiques.",
         "image": "",
         "date": "Thu, 01 May 2025 23:53:53 GMT"
+    },
+    {
+        "title": "Gemini de Google : l'IA qui modifie vos images",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2602835_google-contre-attaque-chatgpt-avec-un-outil-photo-bluffant-dans-gemini",
+        "body": "Google ajoute une nouvelle fonctionnalité à son chatbot Gemini, permettant aux utilisateurs de modifier des images directement dans l'application. Cette mise à jour s'applique aux images créées par l'IA et aux photos personnelles. L'outil peut modifier les couleurs, ajouter des illustrations et retoucher les photos, le tout avec un filigrane invisible indiquant l'utilisation de l'IA. Cette fonctionnalité sera déployée progressivement dans différents pays et langues, suivant ainsi la tendance de l'IA appliquée aux images.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-6-1200x676-1-768x433.jpg?resize=169,169&key=1500055a",
+        "date": "Thu, 01 May 2025 23:00:00 GMT"
     },
     {
         "title": "Community Notes",
@@ -285,12 +299,5 @@
         "body": "L'article aborde l'augmentation significative du nombre de bots sur Internet, qui représentent déjà 50 % du trafic web et pourraient atteindre 90 % d'ici 2030. Cette tendance, associée à l'évolution de l'IA, pose des défis majeurs pour les entreprises en matière de sécurité et de vérification d'identité. L'auteur présente Persona, une plateforme de vérification d'identité basée à San Francisco, qui utilise une combinaison de méthodes, y compris l'IA, pour authentifier les utilisateurs. Persona a levé 200 millions de dollars et compte parmi ses clients OpenAI, LinkedIn et DoorDash. L'article explore également les défis posés par les bots malveillants et les attaques basées sur l'IA, ainsi que l'utilisation légitime de l'IA par les utilisateurs. Enfin, il souligne l'importance de la vérification d'identité pour les entreprises et les opportunités pour les plateformes comme Persona.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681118845119f4079519ce79/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 30 Apr 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Sécurité dans le métro de New York avec l'IA",
-        "link": "https://www.theverge.com/news/658524/mta-ai-predictive-crime-new-york-subway-platforms#comments",
-        "body": "L'autorité des transports de New York explore l'utilisation de l'IA pour la \"prévention prédictive\" de la criminalité et des comportements dangereux sur les plateformes de métro. L'IA pourrait détecter les comportements à risque et déclencher une intervention de la sécurité ou de la police avant qu'un incident ne se produise. L'agence travaille actuellement avec des entreprises technologiques pour étudier la mise en œuvre de l'IA, bien que les détails spécifiques restent confidentiels pour le moment. Le porte-parole de l'MTA a confirmé que le système ne reposerait pas sur la reconnaissance faciale, mais plutôt sur l'identification des comportements. Ce n'est pas la première initiative de l'MTA en matière d'IA, car en 2023, ils ont utilisé l'IA pour surveiller l'évasion tarifaire dans le métro.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/gettyimages-2063776965.jpg?quality=90&strip=all&crop=0%2C0.014281633818911%2C100%2C99.971436732362&w=2400",
-        "date": "Wed, 30 Apr 2025 09:20:06 GMT"
     }
 ]
