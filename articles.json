@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Fini les réglages compliqués : voici comment Android optimise vos scans en un clic",
+        "title": "Fini les r\u00e9glages compliqu\u00e9s : voici comment Android optimise vos scans en un clic",
         "link": "https://www.frandroid.com/marques/google/2602491_fini-les-reglages-compliques-voici-comment-android-optimise-vos-scans-en-un-clic",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/application-pour-scanner-un-document-1200x800-1-768x512.jpg?resize=200,200&key=44396dae",
         "date": "Wed, 30 Apr 2025 23:00:00 GMT",
@@ -257,5 +257,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68142d8a3f736f426160445b/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 02 May 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/05/02/the-prototype-these-bacteria-can-generate-electricity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6814d437810e073cdb6b291f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 02 May 2025 15:02:00 GMT",
+        "check": "no"
     }
 ]
