@@ -1,5 +1,19 @@
 [
     {
+        "title": "Planification de mariage avec l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/03/wedding-planning-via-generative-ai/?ss=ai",
+        "body": "L'auteur explore l'utilisation de l'IA générative et des grands modèles linguistiques pour aider à la planification de mariages, soulignant que l'IA peut désormais gérer les réservations et d'autres aspects pratiques. Bien que l'IA puisse être utile, il met en garde contre le fait de s'appuyer uniquement sur elle pour la planification d'un événement aussi important. L'article décrit les complexités de la planification d'un mariage, y compris les nombreux aspects mobiles, les coûts et les contingences. Il présente également le rôle du planificateur de mariage et suggère que l'IA peut être un outil supplémentaire pour aider à la planification. L'auteur fournit des exemples d'interactions avec ChatGPT et d'autres applications d'IA, soulignant l'importance d'un dialogue continu pour obtenir les meilleurs résultats. Enfin, il met en garde contre les hallucinations de l'IA et les conflits d'intérêts potentiels, soulignant la nécessité de rester vigilant lors de l'utilisation de ces technologies.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67b5688f5ab4e926a7a61c34/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 03 May 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'un des meilleurs outils d'IA de Google devient encore plus puissant",
+        "link": "https://www.frandroid.com/marques/google/2604123_lun-des-meilleurs-outils-ia-de-google-devient-encore-plus-puissant-avant-darriver-sur-smartphone",
+        "body": "NotebookLM, un outil d'IA générative, permet d'analyser plusieurs sources sur un sujet précis et d'en extraire les informations clés. Il offre désormais la possibilité de générer un podcast de discussion en français entre deux personnes virtuelles. Cette fonctionnalité rend les sujets complexes plus accessibles. De plus, NotebookLM utilise désormais Gemini 2.5 Flash, une version plus avancée du modèle de langage de Google, qui permet au service de raisonner avec une latence réduite. Google prévoit également de lancer une application mobile NotebookLM pour Android et iOS, bien qu'aucune date de sortie n'ait été annoncée.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/notebooklm-launches-audio-overviews-in-over-50-new-languages-1-29-screenshot-1200x675-1-768x432.png?resize=169,169&key=84789484",
+        "date": "Fri, 02 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la recherche en ligne est généré par l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/02/a-business-leaders-guide-to-generative-engine-optimization-geo/?ss=ai",
         "body": "L'IA transforme radicalement la manière dont les utilisateurs trouvent des informations en ligne, et les entreprises doivent s'adapter pour rester visibles. Les résumés générés par l'IA sont de plus en plus utilisés, réduisant ainsi les clics sur les sites web traditionnels. Google, avec ses \"AI Overviews\", et d'autres acteurs comme ChatGPT et Microsoft Copilot, créent une nouvelle catégorie de moteurs de recherche qui fournissent des réponses directes sans passer par les résultats de recherche classiques. Les entreprises doivent désormais optimiser leur contenu pour l'IA, en se concentrant sur des réponses claires et complètes aux questions des utilisateurs. L'optimisation des moteurs de recherche (SEO) évolue vers l'optimisation des moteurs génératifs (GEO), qui implique d'ajouter des métadonnées claires pour aider l'IA à comprendre et à citer le contenu. Les entreprises qui n'adoptent pas de stratégie de visibilité de l'IA risquent de perdre du trafic et de la reconnaissance de marque, tandis que leurs concurrents gagneront en notoriété en répondant aux questions des utilisateurs. L'évolution de la recherche en ligne vers un modèle basé sur les réponses nécessite une adaptation rapide des entreprises pour maintenir leur visibilité et leur connexion avec les clients.",
@@ -180,19 +194,5 @@
         "body": "Résumé : Amazon Web Services a annoncé la disponibilité générale d'Amazon Nova Premier, le modèle le plus avancé de la famille Amazon Nova de modèles de base pour des tâches complexes et la distillation de modèles. Nova Premier se distingue par sa capacité à traiter des documents et des bases de code très longs, grâce à une longueur de contexte d'un million de jetons. Il excelle dans la compréhension contextuelle, la planification en plusieurs étapes et l'exécution précise sur plusieurs outils et sources de données. En utilisant Nova Premier avec Amazon Bedrock Model Distillation, les utilisateurs peuvent créer des versions personnalisées de Nova Pro, Lite et Micro, optimisées pour des cas d'utilisation spécifiques, tout en bénéficiant d'une précision, d'une vitesse et d'un coût améliorés. Nova Premier est également un excellent modèle enseignant pour la distillation, permettant de transférer ses capacités avancées à des modèles plus petits et plus efficaces pour un déploiement en production. Les cas d'utilisation incluent une collaboration multi-agents pour la recherche d'investissement, où Nova Premier coordonne les agents spécialisés pour fournir des informations précieuses.",
         "image": "",
         "date": "Thu, 01 May 2025 11:08:57 GMT"
-    },
-    {
-        "title": "Gemini ajoute la modification d'images par IA",
-        "link": "https://blog.google/products/gemini/image-editing/",
-        "body": "Gemini, une application d'IA, lance une nouvelle fonctionnalité de modification d'images basée sur l'IA, permettant aux utilisateurs de modifier facilement les images téléchargées et générées. La mise à jour comprend la possibilité de changer l'arrière-plan, de remplacer des objets, d'ajouter des éléments et de modifier la couleur des cheveux sur les photos personnelles. L'application peut également créer des histoires à partir de textes et d'images. Les images générées par l'IA de Gemini seront marquées d'une filigrane numérique invisible SynthID et éventuellement d'un filigrane visible. La fonctionnalité sera progressivement déployée dans plus de 45 langues et dans la plupart des pays.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Gp0fPj9bkAAIRUU.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 01 May 2025 08:40:40 GMT"
-    },
-    {
-        "title": "L'IA est-elle une technologie ordinaire ou extraordinaire ?",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/01/the-brewing-controversy-over-the-proposition-that-ai-is-nothing-more-than-just-normal-technology/?ss=ai",
-        "body": "L'article explore le débat sur la nature de l'IA, certains la considérant comme une technologie ordinaire, tandis que d'autres la voient comme extraordinaire. Il souligne que la perception de l'IA comme étant simplement normale pourrait conduire à une complaisance, minimisant son impact potentiel sur la société. Bien que l'IA conventionnelle soit basée sur des serveurs informatiques et des algorithmes courants, ses impacts peuvent être anormaux et nécessiter une intervention politique. Le débat se concentre sur la prévisibilité du développement futur de l'IA, avec des prédictions variées sur l'atteinte de l'AGI et l'ASI. L'article suggère que considérer l'IA comme normale pourrait être un pari risqué, étant donné son potentiel de croissance soudaine au-delà du contrôle humain.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6812ce458a1b5593f634ded3/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 01 May 2025 07:00:00 GMT"
     }
 ]
