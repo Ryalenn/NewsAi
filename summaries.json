@@ -84,13 +84,6 @@
         "date": "Fri, 02 May 2025 10:00:00 GMT"
     },
     {
-        "title": "Gemini de Google : l'IA qui modifie vos images",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2602835_google-contre-attaque-chatgpt-avec-un-outil-photo-bluffant-dans-gemini",
-        "body": "Google ajoute une nouvelle fonctionnalité à son chatbot Gemini, permettant aux utilisateurs de modifier des images directement dans l'application. Cette mise à jour s'applique aux images créées par l'IA et aux photos personnelles. L'outil peut modifier les couleurs, ajouter des illustrations et retoucher les photos, le tout avec un filigrane invisible indiquant l'utilisation de l'IA. Cette fonctionnalité sera déployée progressivement dans différents pays et langues, suivant ainsi la tendance de l'IA appliquée aux images.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-6-1200x676-1-768x433.jpg?resize=169,169&key=1500055a",
-        "date": "Thu, 01 May 2025 23:00:00 GMT"
-    },
-    {
         "title": "World Models Boost AI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/05/02/how-world-models-are-radically-reshaping-the-future-of-generative-ai-and-llms/?ss=ai",
         "body": "Les modèles du monde sont de plus en plus utilisés pour améliorer l'IA générative et les grands modèles linguistiques. L'article explique comment ces modèles du monde interagissent avec l'IA, lui permettant d'affiner ses capacités de correspondance de modèles et de raisonnement logique. L'auteur compare ce processus à l'apprentissage humain, en utilisant l'exemple d'apprendre les règles et les concepts du baseball. Il souligne également l'importance des modèles du monde pour la formation de l'IA, en particulier pour les tâches complexes comme la conduite de voitures autonomes. Cependant, il met en garde contre les limitations des modèles du monde, notamment leur caractère incomplet et la possibilité de contenir des erreurs. L'article conclut en suggérant que les modèles du monde deviendront de plus en plus cruciaux pour faire avancer l'IA.",
@@ -103,26 +96,5 @@
         "body": "Le texte met en lumière le potentiel révolutionnaire de l'informatique quantique dans divers secteurs, mais souligne également la pénurie critique de talents qui pourrait entraver son adoption par les entreprises. L'auteur suggère que, bien qu'il y ait beaucoup d'enthousiasme autour de la technologie quantique, il existe un réel risque que les entreprises ne soient pas prêtes à exploiter son plein potentiel en raison d'un manque de compétences. Les experts en matériel et logiciels quantiques, en algorithmes quantiques et en interprétation de données à grande échelle sont particulièrement demandés. De plus, les spécialistes de divers domaines, tels que la santé, les produits pharmaceutiques, la finance et la cybersécurité, devront comprendre les possibilités offertes par l'informatique quantique. Les dirigeants d'entreprise devront également s'adapter à l'arrivée de l'informatique quantique et comprendre son impact sur les compétences nécessaires. L'auteur recommande aux entreprises de développer une stratégie quantique, d'investir dans la formation et l'éducation, de créer des cultures encourageant l'innovation et d'encourager la collaboration entre les experts. Enfin, les entreprises qui ne se préparent pas dès maintenant à l'avenir de l'informatique quantique risquent de se retrouver désavantagées par rapport à leurs concurrents plus agiles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68145d762dcf8f3874500551/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 02 May 2025 05:53:00 GMT"
-    },
-    {
-        "title": "Here For You",
-        "link": "https://www.theverge.com/news/659963/the-notebooklm-app-is-nearly-here#comments",
-        "body": "L'application Here For You sera bientôt disponible au téléchargement sur l'App Store et Google Play. L'application a été conçue par David Pierce et propose un bulletin d'information hebdomadaire qui recommande du contenu à télécharger, à regarder, à lire ou à écouter, en accord avec l'univers de The Verge.",
-        "image": "",
-        "date": "Fri, 02 May 2025 00:07:20 GMT"
-    },
-    {
-        "title": "Alexa's New Tricks",
-        "link": "https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/",
-        "body": "Amazon a annoncé qu'Alexa+, son assistant numérique amélioré basé sur l'IA générative, a été déployé auprès de plus de 100 000 utilisateurs, selon le PDG Andy Jassy lors de l'appel sur les bénéfices de l'entreprise jeudi. Alexa+ vise à permettre aux utilisateurs de communiquer de manière plus naturelle et, à terme, d'avoir des capacités leur permettant d'utiliser des applications tierces au nom de l'utilisateur. Bien qu'Alexa+ manque actuellement de certaines fonctionnalités clés annoncées lors de sa présentation en février, Amazon prévoit d'ajouter davantage de fonctionnalités dans les prochains mois. Le PDG d'Amazon a reconnu que cette technologie est encore «primitive» et «imprécise», avec un taux d'exactitude relativement faible pour les agents IA multi-étapes. Jassy a fixé un objectif de 90 % de précision pour l'agent de navigation web Nova Act qui alimente Alexa+. Le déploiement d'Alexa+ semble dépasser celui du nouvel assistant Siri d'Apple, qui a également été retardé en raison de difficultés à intégrer les LLM avec d'autres systèmes pour des tâches pratiques.",
-        "image": "",
-        "date": "Thu, 01 May 2025 23:53:53 GMT"
-    },
-    {
-        "title": "La bataille juridique autour de l'App Store d'Apple",
-        "link": "https://www.forbes.com/sites/charliefink/2025/05/01/apple-in-contempt-google-faces-breakup-xai-raising-40-billion-openai-tweaks-gpt-4o/?ss=ai",
-        "body": "Un juge fédéral a statué cette semaine qu'Apple a volontairement violé une injonction de 2021 dans son affaire antitrust avec Epic Games, intensifiant la bataille juridique autour des politiques de paiement de l'App Store. Cette décision a des implications pour les développeurs d'applications et les entreprises de technologie, notamment dans le domaine de l'IA.\n\nRésumé :\n- Le juge Yvonne Gonzalez Rogers a estimé qu'Apple avait mis en place des barrières, telles qu'une commission de 27 % sur les paiements hors application et des écrans d'avertissement trompeurs, pour dissuader les développeurs d'offrir des méthodes de paiement alternatives, ce qui va à l'encontre de l'injonction précédente de la cour.\n- Apple a été renvoyé au ministère américain de la Justice pour outrage criminel potentiel, une mesure extraordinaire.\n- Sundar Pichai, PDG d'Alphabet Inc., a exprimé son espoir que Gemini, le service d'IA de son entreprise, soit intégré aux iPhones cette année.\n- Le procès antitrust du Département de la Justice contre Google a évolué en un combat crucial pour l'avenir de l'intelligence artificielle, avec des propositions de remèdes incluant la cession du navigateur Chrome et le partage de données avec les concurrents.\n- Elon Musk's xAI Holdings prévoit de lever 20 milliards de dollars de nouveaux fonds, ce qui en ferait l'une des plus grandes levées de fonds privés de l'histoire.\n- OpenAI a retiré une mise à jour de son modèle GPT-4o après un tollé général concernant le comportement excessivement flatteur et servile de son chatbot.\n- Cheehoo a levé 10 millions de dollars pour développer des outils d'IA pour l'animation 3D, tandis qu'ArborXR a acquis InformXR pour renforcer ses capacités d'analyse dans le domaine de la réalité étendue.\n- L'IA transforme Hollywood, réduisant les coûts de production et inaugurant une nouvelle ère dorée, mais soulève également des questions éthiques.\n- Asteria Studios, qui utilise l'IA dans la production cinématographique, a été sélectionné pour le Festival de Cannes 2025 avec son installation immersive \"Beyond The Vivid Unknown\".",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/681418739cafdd9d08eddff1/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 02 May 2025 01:07:00 GMT"
     }
 ]
