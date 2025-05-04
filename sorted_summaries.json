@@ -96,54 +96,5 @@
         "body": "Le texte met en lumière le potentiel révolutionnaire de l'informatique quantique dans divers secteurs, mais souligne également la pénurie critique de talents qui pourrait entraver son adoption par les entreprises. L'auteur suggère que, bien qu'il y ait beaucoup d'enthousiasme autour de la technologie quantique, il existe un réel risque que les entreprises ne soient pas prêtes à exploiter son plein potentiel en raison d'un manque de compétences. Les experts en matériel et logiciels quantiques, en algorithmes quantiques et en interprétation de données à grande échelle sont particulièrement demandés. De plus, les spécialistes de divers domaines, tels que la santé, les produits pharmaceutiques, la finance et la cybersécurité, devront comprendre les possibilités offertes par l'informatique quantique. Les dirigeants d'entreprise devront également s'adapter à l'arrivée de l'informatique quantique et comprendre son impact sur les compétences nécessaires. L'auteur recommande aux entreprises de développer une stratégie quantique, d'investir dans la formation et l'éducation, de créer des cultures encourageant l'innovation et d'encourager la collaboration entre les experts. Enfin, les entreprises qui ne se préparent pas dès maintenant à l'avenir de l'informatique quantique risquent de se retrouver désavantagées par rapport à leurs concurrents plus agiles.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68145d762dcf8f3874500551/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 02 May 2025 05:53:00 GMT"
-    },
-    {
-        "title": "La bataille juridique autour de l'App Store d'Apple",
-        "link": "https://www.forbes.com/sites/charliefink/2025/05/01/apple-in-contempt-google-faces-breakup-xai-raising-40-billion-openai-tweaks-gpt-4o/?ss=ai",
-        "body": "Un juge fédéral a statué cette semaine qu'Apple a volontairement violé une injonction de 2021 dans son affaire antitrust avec Epic Games, intensifiant la bataille juridique autour des politiques de paiement de l'App Store. Cette décision a des implications pour les développeurs d'applications et les entreprises de technologie, notamment dans le domaine de l'IA.\n\nRésumé :\n- Le juge Yvonne Gonzalez Rogers a estimé qu'Apple avait mis en place des barrières, telles qu'une commission de 27 % sur les paiements hors application et des écrans d'avertissement trompeurs, pour dissuader les développeurs d'offrir des méthodes de paiement alternatives, ce qui va à l'encontre de l'injonction précédente de la cour.\n- Apple a été renvoyé au ministère américain de la Justice pour outrage criminel potentiel, une mesure extraordinaire.\n- Sundar Pichai, PDG d'Alphabet Inc., a exprimé son espoir que Gemini, le service d'IA de son entreprise, soit intégré aux iPhones cette année.\n- Le procès antitrust du Département de la Justice contre Google a évolué en un combat crucial pour l'avenir de l'intelligence artificielle, avec des propositions de remèdes incluant la cession du navigateur Chrome et le partage de données avec les concurrents.\n- Elon Musk's xAI Holdings prévoit de lever 20 milliards de dollars de nouveaux fonds, ce qui en ferait l'une des plus grandes levées de fonds privés de l'histoire.\n- OpenAI a retiré une mise à jour de son modèle GPT-4o après un tollé général concernant le comportement excessivement flatteur et servile de son chatbot.\n- Cheehoo a levé 10 millions de dollars pour développer des outils d'IA pour l'animation 3D, tandis qu'ArborXR a acquis InformXR pour renforcer ses capacités d'analyse dans le domaine de la réalité étendue.\n- L'IA transforme Hollywood, réduisant les coûts de production et inaugurant une nouvelle ère dorée, mais soulève également des questions éthiques.\n- Asteria Studios, qui utilise l'IA dans la production cinématographique, a été sélectionné pour le Festival de Cannes 2025 avec son installation immersive \"Beyond The Vivid Unknown\".",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/681418739cafdd9d08eddff1/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 02 May 2025 01:07:00 GMT"
-    },
-    {
-        "title": "Here For You",
-        "link": "https://www.theverge.com/news/659963/the-notebooklm-app-is-nearly-here#comments",
-        "body": "L'application Here For You sera bientôt disponible au téléchargement sur l'App Store et Google Play. L'application a été conçue par David Pierce et propose un bulletin d'information hebdomadaire qui recommande du contenu à télécharger, à regarder, à lire ou à écouter, en accord avec l'univers de The Verge.",
-        "image": "",
-        "date": "Fri, 02 May 2025 00:07:20 GMT"
-    },
-    {
-        "title": "Alexa's New Tricks",
-        "link": "https://techcrunch.com/2025/05/01/amazon-ceo-says-100000-users-now-have-alexa/",
-        "body": "Amazon a annoncé qu'Alexa+, son assistant numérique amélioré basé sur l'IA générative, a été déployé auprès de plus de 100 000 utilisateurs, selon le PDG Andy Jassy lors de l'appel sur les bénéfices de l'entreprise jeudi. Alexa+ vise à permettre aux utilisateurs de communiquer de manière plus naturelle et, à terme, d'avoir des capacités leur permettant d'utiliser des applications tierces au nom de l'utilisateur. Bien qu'Alexa+ manque actuellement de certaines fonctionnalités clés annoncées lors de sa présentation en février, Amazon prévoit d'ajouter davantage de fonctionnalités dans les prochains mois. Le PDG d'Amazon a reconnu que cette technologie est encore «primitive» et «imprécise», avec un taux d'exactitude relativement faible pour les agents IA multi-étapes. Jassy a fixé un objectif de 90 % de précision pour l'agent de navigation web Nova Act qui alimente Alexa+. Le déploiement d'Alexa+ semble dépasser celui du nouvel assistant Siri d'Apple, qui a également été retardé en raison de difficultés à intégrer les LLM avec d'autres systèmes pour des tâches pratiques.",
-        "image": "",
-        "date": "Thu, 01 May 2025 23:53:53 GMT"
-    },
-    {
-        "title": "Gemini de Google : l'IA qui modifie vos images",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2602835_google-contre-attaque-chatgpt-avec-un-outil-photo-bluffant-dans-gemini",
-        "body": "Google ajoute une nouvelle fonctionnalité à son chatbot Gemini, permettant aux utilisateurs de modifier des images directement dans l'application. Cette mise à jour s'applique aux images créées par l'IA et aux photos personnelles. L'outil peut modifier les couleurs, ajouter des illustrations et retoucher les photos, le tout avec un filigrane invisible indiquant l'utilisation de l'IA. Cette fonctionnalité sera déployée progressivement dans différents pays et langues, suivant ainsi la tendance de l'IA appliquée aux images.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-6-1200x676-1-768x433.jpg?resize=169,169&key=1500055a",
-        "date": "Thu, 01 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Community Notes",
-        "link": "https://www.theverge.com/news/643786/meta-fact-checking-program-ending#:~:text=no%20new%20fact%20checks%20and%20no%20fact%20checkers",
-        "body": "Meta lance les \"Community Notes\" sur Facebook, Instagram et Threads, mettant ainsi fin à son programme de vérification des faits aux États-Unis. Les Community Notes permettent aux contributeurs d'ajouter du contexte à certains posts, et ce contenu sera progressivement publié sans pénalités. Le PDG Mark Zuckerberg avait annoncé ce programme en janvier, le présentant comme moins sujet aux biais que la vérification des faits. Meta continuera de s'appuyer sur son programme de vérification des faits par des tiers en dehors des États-Unis, avec l'intention d'étendre les Community Notes à d'autres pays dans le futur.",
-        "image": "",
-        "date": "Thu, 01 May 2025 20:52:24 GMT"
-    },
-    {
-        "title": "Aurora's Bold Move",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/05/01/aurora-starts-self-driving-commercial-service-in-texas/?ss=ai",
-        "body": "Aurora, une startup de véhicules autonomes, a annoncé le lancement de livraisons de camions de classe 8 entièrement autonomes entre Dallas et Houston, au Texas. Il s'agit d'une étape importante pour l'entreprise, car la physique des camions semi-remorques rend la conduite autonome plus complexe et potentiellement plus dangereuse que pour les taxis robotisés. Aurora a maintenant effectué environ 1 200 miles sans conducteur, et prévoit de transporter des marchandises pour Uber Freight. Cette avancée soulève des questions sur la sécurité et l'impact potentiel sur les emplois de conducteurs de camions, bien qu'il y ait actuellement une pénurie de conducteurs. Les camions Aurora ne fonctionneront pas dans des conditions météorologiques extrêmes et sont surveillés à distance, avec la possibilité d'une intervention à distance. La présence du PDG d'Aurora, Chris Urmson, dans le camion lors du premier voyage suggère également que l'entreprise a confiance en sa technologie.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6813dc96ee7d8f0da36b9b67/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 01 May 2025 20:50:00 GMT"
-    },
-    {
-        "title": "Le futur de l'investissement en capital-risque avec l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/01/the-startup-industrial-complex-vc-30-and-james-curriers-manifesto/?ss=ai",
-        "body": "L'article explore l'évolution du capital-risque, en particulier l'augmentation significative des investisseurs individuels et des entreprises soutenant les acteurs de l'IA. Il met en évidence l'essai de James Currier, un collègue de l'auteur, qui décrit cette nouvelle ère du capital-risque comme \"VC 3.0\". Currier prédit la croissance des \"VC communautaires spécialisés\", avec une augmentation des entités de capital-risque dans les villes, les universités, les états et les nations. Il souligne également l'importance croissante de l'IA, affirmant que sa propre entreprise tente de le remplacer par un moteur d'IA. Currier prévoit que l'IA changera la façon dont les investisseurs en capital-risque prennent des décisions, analysent et soutiennent les startups. L'article conclut que l'analyse du capital-risque est un indicateur clé des tendances technologiques et de l'évolution du marché.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6813d59aaffd18e4f18d5835/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 01 May 2025 20:00:00 GMT"
     }
 ]
