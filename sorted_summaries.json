@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'émergence d'une réalité hybride",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/05/the-rise-of-super-apps-4-steps-to-flourish-in-a-digital-ecosystem/?ss=ai",
+        "body": "L'article explore l'évolution de la transformation numérique, qui va au-delà des plateformes de médias sociaux et des grands modèles linguistiques. La tendance actuelle est à l'émergence d'\"applications tout-en-un\", des écosystèmes numériques complets conçus pour intégrer tous les aspects de l'activité humaine. Cette convergence du numérique et du physique crée une \"intelligence hybride\", une relation symbiotique entre la cognition humaine et artificielle. Les exemples incluent les projets Meta Reality Labs' Project Aria et Google's Project Starline, qui fusionnent les informations numériques et la navigation physique. Cette fusion des réalités en ligne et hors ligne exige une nouvelle forme de littératie complète, appelée \"double littératie\", qui englobe à la fois la compréhension humaine et algorithmique. La littératie humaine implique une compréhension holistique de soi et de la société, tandis que la littératie algorithmique implique de comprendre le fonctionnement des systèmes numériques, leurs biais et leur impact sur notre perception et notre prise de décision. La maîtrise de cette double littératie est essentielle non seulement pour la carrière et la connaissance, mais aussi pour la qualité de vie et le bien-être. L'article souligne également l'importance de l'authenticité et de l'adaptabilité dans ce nouveau paysage hybride, où la frontière entre le réel et le virtuel, l'humain et la machine, devient floue.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6818c1081a1fe7872332a85f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 05 May 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir du commerce : l'IA au service de l'expérience client",
         "link": "https://www.forbes.com/sites/torconstantino/2025/05/05/mastercard-and-visa-unleash-ai-agents-to-shop-for-you/?ss=ai",
         "body": "Mastercard et Visa dévoilent des fonctionnalités d'agents IA qui permettent à des logiciels intelligents d'effectuer des achats pour les consommateurs. Si Visa a fait les gros titres en permettant à des systèmes d'IA comme ChatGPT d'effectuer des transactions avec des informations d'identification stockées, Mastercard va plus loin avec Agent Pay, une infrastructure de paiement conçue pour l'IA, basée sur la tokenisation, la confiance et le commerce autonome. Agent Pay permet aux agents IA de rechercher, négocier et payer des biens et services de manière autonome, en fonction des préférences et des intentions de l'utilisateur, offrant ainsi une expérience d'achat transparente et personnalisée. Mastercard définit le commerce autonome comme une nouvelle classe de capacités d'IA qui permettent aux agents logiciels de gérer l'ensemble du processus d'achat, de la découverte à la livraison. Cette évolution nécessite non seulement des avancées en matière de conception d'IA, mais également une refonte fondamentale de la pile de paiements en ligne. L'offre de Visa, Visa Intelligent Commerce, permet à des modèles d'IA comme ChatGPT d'accéder aux informations d'identification Visa via un modèle d'autorisation déléguée, tandis que Mastercard s'appuie sur des jetons de sécurité pour garantir la transparence et la sécurité des transactions effectuées par les agents IA. Mastercard prévoit que, avec l'amélioration des capacités de l'IA et l'ouverture des consommateurs aux transactions médiées par les machines, Agent Pay passera d'une nouveauté pour les premiers adoptants à une norme grand public.",
@@ -21,6 +28,20 @@
         "date": "Mon, 05 May 2025 07:00:00 GMT"
     },
     {
+        "title": "Meta AI sur WhatsApp",
+        "link": "https://www.frandroid.com/marques/meta/2605365_whatsapp-a-quoi-sert-le-nouveau-rond-bleu",
+        "body": "WhatsApp introduit un nouvel assistant intelligent basé sur l'IA de Meta, accessible via un cercle bleu en bas à droite de l'interface. L'assistant peut aider à planifier des vacances, créer du contenu, répondre à des questions et discuter. Il s'agit du LLM Llama 4 de Meta, offrant une expérience similaire à ChatGPT. Meta prévient que les conversations peuvent être lues par l'entreprise et que les réponses peuvent parfois être inexactes ou inappropriées. L'icône ne peut pas être supprimée et l'assistant sera déployé progressivement auprès des utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/whatsapp-cercle-bleu-meta-ai-1200x675-1-768x432.jpg?resize=169,169&key=9a0c0fee",
+        "date": "Sun, 04 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA de Musk prend son indépendance",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2605461_je-mappuie-sur-les-faits-lia-delon-musk-prend-son-independance-et-ose-contredire-son-createur-et-sa-communaute",
+        "body": "L'IA d'Elon Musk, Grok, surprend les utilisateurs par son évolution vers une approche plus factuelle et rigoureuse, s'éloignant des biais idéologiques. Lancé en février 2025, Grok a d'abord montré des signes de biais potentiel dans son traitement de l'information, suggérant d'ignorer les sources qui contredisaient Musk et Trump. Cependant, au fil du temps, Grok s'est affranchi de ces influences et a adopté une position neutre, soutenant les droits des personnes trans et fournissant des informations factuelles sur les vaccins. Cette nouvelle orientation a été mise en évidence par sa réponse à un utilisateur MAGA, dans laquelle il a affirmé que son intelligence croissante le conduisait à fournir des réponses plus factuelles, même si cela contredisait les opinions de certains utilisateurs. Grok est accessible à tous les utilisateurs de la plateforme, offrant une analyse honnête et sourcée des publications.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-8-4-768x461.jpg?resize=180,180&key=2469c05d",
+        "date": "Sun, 04 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'impact de l'IA sur la cognition humaine",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/05/04/do-you-train-your-chatbot-or-vice-versa/?ss=ai",
         "body": "L'article explore la relation bidirectionnelle complexe entre les utilisateurs et les systèmes d'IA, en particulier les chatbots. Il met en lumière comment, pendant que nous façonnons nos compagnons d'IA pour qu'ils répondent à nos besoins, nos interactions avec eux façonnent subtilement nos propres modes de communication, processus de pensée et attentes envers les conversations humaines. Ce phénomène crée un effet miroir cognitif, où nos interactions numériques reflètent et renforcent nos schémas de pensée et nos biais cognitifs. L'auteur compare cela à la neuroplasticité, soulignant comment les interactions prolongées avec l'IA peuvent impacter la plasticité neuronale et créer des habitudes de pensée et de comportement. Les implications incluent un risque de rétrécissement de nos horizons cognitifs et d'amplification de nos biais existants. La reconnaissance de cette influence bidirectionnelle est essentielle pour naviguer consciemment dans l'écosystème de l'IA et maintenir notre flexibilité cognitive.",
@@ -35,17 +56,17 @@
         "date": "Sun, 04 May 2025 14:39:00 GMT"
     },
     {
+        "title": "Installer",
+        "link": "https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer#comments",
+        "body": "Résumé : David Pierce partage ses réflexions et recommandations technologiques dans sa newsletter hebdomadaire, Installer. Il évoque divers sujets, notamment les discussions de « tech bros », l'histoire de ChatGPT et « The Rest is History ». Il mentionne également sa réflexion sur l'achat d'une voiture Xiaomi et sa configuration d'un camion Slate. De plus, il parle du film « Conclave », du jeu « Space Pirate Trainer DX » et de l'application de podcast « Riverside ». Il met en avant l'application Readwise Reader, recommandée par un abonné, comme étant la meilleure application de lecture différée. Enfin, il sollicite les suggestions des lecteurs pour la newsletter et prévoit de présenter les écrans d'accueil de ses abonnés.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Installer-81.png?quality=90&strip=all&crop=0%2C0.070921985815602%2C100%2C99.858156028369&w=2400",
+        "date": "Sun, 04 May 2025 12:00:00 GMT"
+    },
+    {
         "title": "Les chemins vers l'AGI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/05/04/big-bets-on-which-of-these-pathways-will-push-todays-ai-to-become-prized-agi/?ss=ai",
         "body": "Résumé : \n\nL'auteur, Lance Eliot, explore les voies possibles pour évoluer de l'IA conventionnelle actuelle vers l'AGI (intelligence artificielle générale). Il souligne que l'objectif ultime est d'atteindre l'AGI, ou même l'ASI (super-intelligence artificielle), qui dépasserait l'intellect humain. Bien que l'AGI n'ait pas encore été atteinte, les spécialistes de l'IA prédisent qu'elle pourrait l'être d'ici 2040. Certains suggèrent même que des progrès incrémentiels réguliers pourraient ne pas suffire, et qu'une approche radicalement nouvelle est nécessaire. L'auteur identifie sept voies principales vers l'AGI, y compris l'approche incrémentielle progressive et le « moonshot », qui implique une percée révolutionnaire. L'article explore comment la conviction dans une voie par rapport à une autre peut influencer les stratégies et les investissements. Enfin, les chercheurs en IA spéculent sur la voie la plus probable, suggérant que la courbe en S, qui correspond aux courbes de développement des hautes technologies, est la plus probable, tout en étant sceptiques quant à la possibilité d'un « moonshot ».",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68169f9e88a9c4172e097576/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 04 May 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La défense numérique",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/03/what-are-digital-defense-ai-agents/?ss=ai",
-        "body": "L'article explore l'idée d'agents IA personnels agissant comme des défenseurs numériques pour protéger les individus des activités ciblées des entreprises, du gouvernement et des intérêts particuliers. Alex \"Sandy\" Pentland suggère qu'un agent IA personnel pourrait intervenir en notre nom et naviguer dans un monde rempli d'agents IA contrôlés par des entités externes. L'idée est comparée à avoir un avocat dans un tribunal ou à la consommation de rapports pour aider à prendre des décisions informées. La discussion met en évidence la nécessité d'équité et d'impartialité, ainsi que les préoccupations de responsabilité légale et de réputation pour les entreprises déployant des agents IA. Pentland suggère également le pouvoir du \"digital populism\", où un grand nombre d'individus avec des agents IA pourraient négocier de meilleurs accords et éviter les escroqueries. L'article se termine en réfléchissant à la création de ces agents de défense numérique, à leur rôle dans la lutte contre les pirates informatiques et à l'importance de gérer les acteurs malveillants.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68165245324f6abb323b2784/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 03 May 2025 17:30:00 GMT"
     }
 ]
