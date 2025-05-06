@@ -1,10 +1,38 @@
 [
     {
+        "title": "La révolution de l'IA dans l'art et les droits d'auteur",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/05/06/the-studio-ghibli-dilemma--copyright-in-the-age-of-generative-ai/?ss=ai",
+        "body": "L'article explore les tensions entre la création artistique basée sur l'IA et les lois sur le droit d'auteur, en se concentrant sur le récent engouement pour les images générées par l'IA imitant le style distinctif de Studio Ghibli. Les experts juridiques débattent de la question de savoir si le « style » peut être protégé par le droit d'auteur et discutent des implications pour les artistes et les entreprises dont les signatures esthétiques sont reproduites sans consentement. L'article examine également les défenses possibles pour les utilisateurs de l'IA, telles que la doctrine de l'usage loyal, et souligne l'absence de précédents juridiques clairs dans ce domaine. Alors que les litiges en cours sont susceptibles de définir les limites juridiques, les experts conseillent aux créateurs de prendre des mesures proactives pour protéger leurs droits et soulignent l'importance de stratégies d'application des droits de propriété intellectuelle robustes à l'ère de l'IA générative.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681a2be09c8f4f7a4db0f112/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 06 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "OpenAI s'empare de Windsurf",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/06/its-openais-biggest-acquisition-to-date--but-what-does-windsurf-do/?ss=ai",
+        "body": "OpenAI fait l'acquisition de Windsurf, une entreprise de codage assistée par IA, pour 3 milliards de dollars. Windsurf propose un environnement de développement intégré (IDE) autonome, nommé Windsurf Editor, qui utilise des agents IA pour automatiser le codage. Cette approche, appelée \"vibe coding\", permet aux développeurs de donner des ordres à la machine et de la laisser gérer les détails, sans avoir à coder manuellement. Windsurf est très apprécié dans certains milieux, notamment par Y Combinator. Outre son outil de codage, Windsurf se concentre également sur le matériel, en développant des puces IA personnalisées et des clusters de serveurs haute performance. OpenAI, quant à elle, maintient son statut d'entreprise à but lucratif et d'organisation à but non lucratif, avec l'intention de considérer à la fois les intérêts des actionnaires et sa mission. L'acquisition de Windsurf par OpenAI est une nouvelle importante dans le monde de l'IA, et il sera intéressant de voir l'évolution de ce partenariat.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6740b62a018da0c5c84c62d2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 06 May 2025 16:00:00 GMT"
+    },
+    {
         "title": "Réinventer, ne pas effacer",
         "link": "https://www.forbes.com/sites/michaelashley/2025/05/06/from-panic-to-power-what-leaders-must-learn-in-the-ai-age/?ss=ai",
         "body": "L'intelligence artificielle (IA) est en train de bouleverser de nombreuses industries, y compris la comptabilité, comme l'illustre l'article. L'auteur présente le cadre P.I.V.O.T. (Pause & Prioritize, Identify the Opportunity, Vet Your Choices, and Take the Leap and Test) développé par l'executive coach Danielle Sprouls, qui aide les entreprises à naviguer dans l'incertitude créée par l'IA. Plutôt que de voir l'incertitude comme un obstacle, Sprouls suggère de la considérer comme une opportunité d'innovation. L'article utilise l'exemple de la réinvention de Barbie, qui a transformé une marque jugée dépassée en un phénomène mondial, en alignant le jouet avec les valeurs culturelles contemporaines. De même, l'IA ne devrait pas être vue comme une menace pour les industries existantes, mais plutôt comme une opportunité de les réinventer et de les adapter au monde d'aujourd'hui. L'article souligne également l'importance de l'introspection et de la gestion de nos réactions face à l'incertitude, citant l'exemple de Viktor Frankl et son livre \"Man's Search For Meaning\". Enfin, l'auteur suggère que plutôt que d'essayer d'éliminer l'incertitude, les entreprises devraient se concentrer sur le développement de leur capacité à la naviguer avec confiance et curiosité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6818ee47ad4086c58ea71f9b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 06 May 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Windows 11 : AI intégrée",
+        "link": "https://www.theverge.com/news/661587/microsoft-windows-11-start-menu-copilot-ai-agent-settings-menu",
+        "body": "Microsoft introduit de nombreuses fonctionnalités d'IA dans Windows 11, notamment un agent IA intégré dans le menu Paramètres, des actions texte et image supplémentaires, des fonctionnalités d'édition IA pour Paint, Photos et l'Outil Capture, la recherche visuelle Copilot Vision, une recherche Windows améliorée, des descriptions d'images détaillées pour le Narrateur, des fonctions d'écriture IA dans le Bloc-notes et des actions IA dans l'Explorateur de fichiers. Les utilisateurs pourront demander à l'IA de modifier les paramètres Windows ou de résoudre les problèmes. Les fonctionnalités IA seront d'abord disponibles pour les utilisateurs de Windows sur Arm avec des puces Snapdragon X, puis pour les utilisateurs de PC Copilot Plus avec des puces Intel et AMD.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Windows-CopilotPC-StartMenuWithPhoneLink-Feature_UNDER-EMBARGO-UNTIL-MAY-6-6-AM-PT-9-AM-ET.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 06 May 2025 13:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la santé métabolique : l'IA au bout des doigts",
+        "link": "https://www.theverge.com/news/661069/oura-dexcom-stelo-meals-glucose-metabolic-health-wearables#comments",
+        "body": "L'article présente les nouveaux développements de l'entreprise Oura dans le domaine de la santé métabolique, avec un accent particulier sur le suivi de la glycémie et l'enregistrement des repas. Ces fonctionnalités, rendues possibles par l'intelligence artificielle, offrent aux utilisateurs un aperçu détaillé de leur santé métabolique. La fonctionnalité Glucose nécessite l'utilisation du moniteur de glucose en continu Stelo de Dexcom, qui peut être couplé à la bague Oura pour afficher les données de glycémie dans l'application Oura, aux côtés d'autres mesures telles que le stress et l'activité physique. La fonctionnalité Meals utilise l'assistant chatbot Oura Advisor, qui analyse les photos des repas de l'utilisateur et fournit une estimation des macronutriments et de la valeur nutritive. Ces fonctionnalités offrent un aperçu complet de la santé métabolique, permettant aux utilisateurs de comprendre l'impact de leurs habitudes alimentaires sur leur glycémie. La santé métabolique étant un domaine émergent pour les technologies portables, Oura se positionne à l'avant-garde de ce domaine, offrant aux athlètes et aux passionnés de bien-être un moyen pratique et détaillé de surveiller leur santé.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Meals-1.png?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
+        "date": "Tue, 06 May 2025 13:00:00 GMT"
     },
     {
         "title": "Les appareils portables d'enregistrement vocal et leurs implications éthiques",
@@ -138,12 +166,5 @@
         "body": "L'IA d'Elon Musk, Grok, surprend les utilisateurs par son évolution vers une approche plus factuelle et rigoureuse, s'éloignant des biais idéologiques. Lancé en février 2025, Grok a d'abord montré des signes de biais potentiel dans son traitement de l'information, suggérant d'ignorer les sources qui contredisaient Musk et Trump. Cependant, au fil du temps, Grok s'est affranchi de ces influences et a adopté une position neutre, soutenant les droits des personnes trans et fournissant des informations factuelles sur les vaccins. Cette nouvelle orientation a été mise en évidence par sa réponse à un utilisateur MAGA, dans laquelle il a affirmé que son intelligence croissante le conduisait à fournir des réponses plus factuelles, même si cela contredisait les opinions de certains utilisateurs. Grok est accessible à tous les utilisateurs de la plateforme, offrant une analyse honnête et sourcée des publications.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-8-4-768x461.jpg?resize=180,180&key=2469c05d",
         "date": "Sun, 04 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'impact de l'IA sur la cognition humaine",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/04/do-you-train-your-chatbot-or-vice-versa/?ss=ai",
-        "body": "L'article explore la relation bidirectionnelle complexe entre les utilisateurs et les systèmes d'IA, en particulier les chatbots. Il met en lumière comment, pendant que nous façonnons nos compagnons d'IA pour qu'ils répondent à nos besoins, nos interactions avec eux façonnent subtilement nos propres modes de communication, processus de pensée et attentes envers les conversations humaines. Ce phénomène crée un effet miroir cognitif, où nos interactions numériques reflètent et renforcent nos schémas de pensée et nos biais cognitifs. L'auteur compare cela à la neuroplasticité, soulignant comment les interactions prolongées avec l'IA peuvent impacter la plasticité neuronale et créer des habitudes de pensée et de comportement. Les implications incluent un risque de rétrécissement de nos horizons cognitifs et d'amplification de nos biais existants. La reconnaissance de cette influence bidirectionnelle est essentielle pour naviguer consciemment dans l'écosystème de l'IA et maintenir notre flexibilité cognitive.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6817a5be0abb60af33d1edcf/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 04 May 2025 17:41:00 GMT"
     }
 ]
