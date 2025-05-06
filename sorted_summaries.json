@@ -1,5 +1,19 @@
 [
     {
+        "title": "La convergence des preuves pour l'AGI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/06/framework-for-convergence-of-evidence-that-we-are-nearing-agi-will-outdo-scientific-consensus-by-ai-experts/?ss=ai",
+        "body": "Bien qu'il n'y ait pas encore de consensus clair sur la date à laquelle l'intelligence artificielle générale (AGI) sera atteinte, l'article suggère une approche alternative pour évaluer notre progression vers l'AGI. Au lieu de se fier uniquement aux prédictions de personnalités de l'IA ou au consensus scientifique des experts en IA, l'article propose d'adopter un cadre de « convergence des preuves ». Cela implique de rassembler des preuves provenant de multiples sources indépendantes pour évaluer de manière plus robuste la proximité de l'AGI. L'article identifie six facteurs clés de preuve qui pourraient être inclus dans un tel cadre, soulignant la nécessité d'efforts concertés pour normaliser l'évaluation de la proximité de l'AGI.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68196286f7e100cb6ddef1b5/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 06 May 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Samsung bloque l'accès à Galaxy AI sur les anciens modèles",
+        "link": "https://www.frandroid.com/marques/samsung/2605851_samsung-coupe-lacces-a-galaxy-ai-sur-les-anciens-modeles-vous-ne-pouvez-plus-utiliser-cette-astuce",
+        "body": "Samsung a récemment mis à jour son navigateur web, bloquant ainsi une fonctionnalité qui permettait à certains smartphones plus anciens d'accéder aux fonctionnalités d'IA de Galaxy AI. En modifiant les paramètres de débogage du navigateur, les utilisateurs avaient réussi à activer des fonctionnalités telles que le résumé et la lecture à voix haute des pages web, ainsi qu'un outil de traduction assisté par l'IA. La mise à jour 28.0.059 de Samsung Internet a corrigé cette faille, empêchant désormais des appareils comme le Galaxy S21 et certains modèles Galaxy A d'accéder à ces fonctionnalités avancées de navigation web. Bien que ces téléphones n'aient jamais été annoncés comme compatibles, la faille démontrait que les fonctionnalités d'IA fonctionnaient malgré les restrictions imposées par Samsung. Les utilisateurs qui ont modifié leurs appareils pour utiliser Galaxy AI sont confrontés à un choix difficile : soit conserver leur accès à Galaxy AI en évitant la mise à jour, soit mettre à jour leur navigateur pour bénéficier des correctifs de sécurité les plus récents.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/capture-decran-du-2025-05-06-09-55-16-768x483.jpg?resize=188,188&key=f3ca6f9d",
+        "date": "Mon, 05 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA et de l'investissement technologique",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/05/future-ventures-fund-shows-what-investors-value-in-tech/?ss=ai",
         "body": "Titre : L'avenir de l'IA et de l'investissement technologique",
@@ -96,12 +110,5 @@
         "body": "Résumé : David Pierce partage ses réflexions et recommandations technologiques dans sa newsletter hebdomadaire, Installer. Il évoque divers sujets, notamment les discussions de « tech bros », l'histoire de ChatGPT et « The Rest is History ». Il mentionne également sa réflexion sur l'achat d'une voiture Xiaomi et sa configuration d'un camion Slate. De plus, il parle du film « Conclave », du jeu « Space Pirate Trainer DX » et de l'application de podcast « Riverside ». Il met en avant l'application Readwise Reader, recommandée par un abonné, comme étant la meilleure application de lecture différée. Enfin, il sollicite les suggestions des lecteurs pour la newsletter et prévoit de présenter les écrans d'accueil de ses abonnés.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Installer-81.png?quality=90&strip=all&crop=0%2C0.070921985815602%2C100%2C99.858156028369&w=2400",
         "date": "Sun, 04 May 2025 12:00:00 GMT"
-    },
-    {
-        "title": "Les chemins vers l'AGI",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/04/big-bets-on-which-of-these-pathways-will-push-todays-ai-to-become-prized-agi/?ss=ai",
-        "body": "Résumé : \n\nL'auteur, Lance Eliot, explore les voies possibles pour évoluer de l'IA conventionnelle actuelle vers l'AGI (intelligence artificielle générale). Il souligne que l'objectif ultime est d'atteindre l'AGI, ou même l'ASI (super-intelligence artificielle), qui dépasserait l'intellect humain. Bien que l'AGI n'ait pas encore été atteinte, les spécialistes de l'IA prédisent qu'elle pourrait l'être d'ici 2040. Certains suggèrent même que des progrès incrémentiels réguliers pourraient ne pas suffire, et qu'une approche radicalement nouvelle est nécessaire. L'auteur identifie sept voies principales vers l'AGI, y compris l'approche incrémentielle progressive et le « moonshot », qui implique une percée révolutionnaire. L'article explore comment la conviction dans une voie par rapport à une autre peut influencer les stratégies et les investissements. Enfin, les chercheurs en IA spéculent sur la voie la plus probable, suggérant que la courbe en S, qui correspond aux courbes de développement des hautes technologies, est la plus probable, tout en étant sceptiques quant à la possibilité d'un « moonshot ».",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68169f9e88a9c4172e097576/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 04 May 2025 07:00:00 GMT"
     }
 ]
