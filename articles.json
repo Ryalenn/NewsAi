@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 va vous aider à prendre la « capture d’écran parfaite » avec cette mise à jour",
+        "title": "Windows 11 va vous aider \u00e0 prendre la \u00ab capture d\u2019\u00e9cran parfaite \u00bb avec cette mise \u00e0 jour",
         "link": "https://www.frandroid.com/marques/microsoft/2606123_windows-11-va-vous-aider-a-prendre-la-capture-decran-parfaite-avec-cette-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/windows-11-phone-start-menu-768x432.jpg?resize=169,169&key=79bbbeba",
         "date": "Mon, 05 May 2025 23:00:00 GMT",
@@ -166,5 +166,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6819b39d330082f69348f989/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 07 May 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/google/2608165_cette-application-ios-de-google-simplifie-enfin-la-comprehension-des-textes-juridiques-et-scientifiques",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/appshunter-io-ztl1eg2rtg-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=5514f3ae",
+        "date": "Tue, 06 May 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.prnewswire.com/news-releases/elementl-power-and-google-sign-strategic-agreement-to-develop-locations-for-advanced-nuclear-projects-302447957.html",
+        "image": "",
+        "date": "Wed, 07 May 2025 14:45:08 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/661695/google-simplify-ai-gemini-feature-ios-app#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 06 May 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/05/07/venkat-achanta-on-transunions-platform-transformation-and-ai-ambition/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681ad6c88c7480e3c736eff2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/dbloom/2025/05/07/netflixs-big-interface-revamp-gives-more-info-better-search-a-dash-of-tiktok/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681aeed11ab4b760e8e633d6/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
