@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 va vous aider à prendre la « capture d’écran parfaite » avec cette mise à jour",
+        "title": "Windows 11 va vous aider \u00e0 prendre la \u00ab capture d\u2019\u00e9cran parfaite \u00bb avec cette mise \u00e0 jour",
         "link": "https://www.frandroid.com/marques/microsoft/2606123_windows-11-va-vous-aider-a-prendre-la-capture-decran-parfaite-avec-cette-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/windows-11-phone-start-menu-768x432.jpg?resize=169,169&key=79bbbeba",
         "date": "Mon, 05 May 2025 23:00:00 GMT",
@@ -194,5 +194,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/681aeed11ab4b760e8e633d6/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 07 May 2025 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html",
+        "image": "",
+        "date": "Wed, 07 May 2025 17:49:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 07 May 2025 13:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/661911/nbc-nba-jim-fagan-ai-generated-voice-narration#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2213434886.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 06 May 2025 16:27:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/05/07/ibm-think-2025-showcases-watsonxdatas-role-in-generative-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681b95da9365fbd1e16c5ca7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/07/when-trust-in-ai-leaps-up-productivity-follows/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681b88a6339ed1037d7d3ce8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/nishatalagala/2025/05/07/long-before-agi-three-ai-milestones-that-will-challenge-you/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681b81cf131e9d09dfa54225/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
