@@ -77,6 +77,13 @@
         "date": "Tue, 06 May 2025 07:00:00 GMT"
     },
     {
+        "title": "Windows 11 : l'IA au cœur du système",
+        "link": "https://www.frandroid.com/os/windows/2607165_menu-demarrer-windows-11-voici-la-refonte-que-tous-les-utilisateurs-attendaient-depuis-10-ans",
+        "body": "La prochaine mise à jour de Windows 11 introduit des changements importants, notamment une refonte du menu Démarrer avec plus d'espace et un tri des applications par catégorie. Microsoft mise sur l'intelligence artificielle pour simplifier les tâches quotidiennes, avec un agent IA dans les paramètres et des fonctions \"Cliquer pour faire\". L'intégration des smartphones permet d'accéder aux contacts, messages et appels depuis un iPhone ou un Android connecté. Les outils créatifs sont également améliorés, avec de nouvelles fonctionnalités dans l'application Photos, Paint et l'outil Capture d'écran. Copilot, bien que pas encore disponible, deviendra utile dans Windows 11.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copilot-pc-phone-link-0-2-screenshot-2-1200x675-1-768x432.jpg?resize=169,169&key=3361601d",
+        "date": "Mon, 05 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA de Microsoft Copilot s'améliore sur Windows 11",
         "link": "https://www.frandroid.com/marques/microsoft/2605871_copilot-va-enfin-devenir-utile-dans-windows-11-mais-pas-tout-de-suite",
         "body": "Microsoft améliore son IA Copilot sur Windows 11, permettant désormais de modifier les paramètres via des requêtes en langage naturel. L'agent intelligent pourra aussi recommander des étapes ou effectuer des changements directement. De plus, la fonctionnalité Click-to-do s'enrichit avec la création de listes à puces, la possibilité d'agir sur du texte ou des images, et l'intégration avec Microsoft 365. La recherche Windows est améliorée grâce à des requêtes en langage naturel et l'intégration de Copilot dans l'explorateur de fichiers. Ces mises à jour seront d'abord disponibles en anglais pour les membres Windows Insiders sur les PC Copilot+ équipés de puces Snapdragon.",
@@ -180,19 +187,5 @@
         "body": "Résumé : Cet article examine une nouvelle tendance dans la communauté de l'IA, où les développeurs d'IA évaluent les modèles de langage IA de grande taille (LLM) en fonction de leurs « vibes » plutôt que de mesures quantitatives traditionnelles. L'auteur exprime son inquiétude quant à la subjectivité de cette nouvelle méthode et à son impact potentiel sur l'évaluation précise des progrès de l'IA. La discussion explore les arguments pour et contre l'utilisation des « vibes » en tant qu'outil d'évaluation, citant des exemples de personnalités influentes de l'IA qui ont adopté cette approche. L'article propose finalement de transformer les « vibes » en quelque chose de quantifiable, en suggérant des composants de mesure distincts pour évaluer les « vibes » de l'IA, tels que le flux de conversation, l'alignement des sentiments et les scores d'engagement et de sympathie.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68183a2b07e667e3b8c913b1/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 05 May 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Meta AI sur WhatsApp",
-        "link": "https://www.frandroid.com/marques/meta/2605365_whatsapp-a-quoi-sert-le-nouveau-rond-bleu",
-        "body": "WhatsApp introduit un nouvel assistant intelligent basé sur l'IA de Meta, accessible via un cercle bleu en bas à droite de l'interface. L'assistant peut aider à planifier des vacances, créer du contenu, répondre à des questions et discuter. Il s'agit du LLM Llama 4 de Meta, offrant une expérience similaire à ChatGPT. Meta prévient que les conversations peuvent être lues par l'entreprise et que les réponses peuvent parfois être inexactes ou inappropriées. L'icône ne peut pas être supprimée et l'assistant sera déployé progressivement auprès des utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/whatsapp-cercle-bleu-meta-ai-1200x675-1-768x432.jpg?resize=169,169&key=9a0c0fee",
-        "date": "Sun, 04 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Musk prend son indépendance",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2605461_je-mappuie-sur-les-faits-lia-delon-musk-prend-son-independance-et-ose-contredire-son-createur-et-sa-communaute",
-        "body": "L'IA d'Elon Musk, Grok, surprend les utilisateurs par son évolution vers une approche plus factuelle et rigoureuse, s'éloignant des biais idéologiques. Lancé en février 2025, Grok a d'abord montré des signes de biais potentiel dans son traitement de l'information, suggérant d'ignorer les sources qui contredisaient Musk et Trump. Cependant, au fil du temps, Grok s'est affranchi de ces influences et a adopté une position neutre, soutenant les droits des personnes trans et fournissant des informations factuelles sur les vaccins. Cette nouvelle orientation a été mise en évidence par sa réponse à un utilisateur MAGA, dans laquelle il a affirmé que son intelligence croissante le conduisait à fournir des réponses plus factuelles, même si cela contredisait les opinions de certains utilisateurs. Grok est accessible à tous les utilisateurs de la plateforme, offrant une analyse honnête et sourcée des publications.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-8-4-768x461.jpg?resize=180,180&key=2469c05d",
-        "date": "Sun, 04 May 2025 23:00:00 GMT"
     }
 ]
