@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Windows 11 va vous aider à prendre la « capture d’écran parfaite » avec cette mise à jour",
+        "title": "Windows 11 va vous aider \u00e0 prendre la \u00ab capture d\u2019\u00e9cran parfaite \u00bb avec cette mise \u00e0 jour",
         "link": "https://www.frandroid.com/marques/microsoft/2606123_windows-11-va-vous-aider-a-prendre-la-capture-decran-parfaite-avec-cette-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/windows-11-phone-start-menu-768x432.jpg?resize=169,169&key=79bbbeba",
         "date": "Mon, 05 May 2025 23:00:00 GMT",
@@ -187,5 +187,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/681af5414d6f4c38af37556c/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 07 May 2025 05:54:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/07/defining-the-ill-defined-meaning-of-elusive-agi-via-the-helpful-assistance-of-ai-itself/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6819b39d330082f69348f989/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 07 May 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
