@@ -1,5 +1,12 @@
 [
     {
+        "title": "La FDA s'ouvre à l'IA",
+        "link": "https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/",
+        "body": "La Food and Drug Administration (FDA) explore l'utilisation de l'IA pour accélérer le processus d'approbation des médicaments, en collaboration avec OpenAI. Bien que la FDA ait déjà utilisé l'IA dans ses processus de révision, cette nouvelle initiative vise à approfondir cette intégration. Le projet cderGPT, discuté avec OpenAI et le Département de l'efficacité gouvernementale d'Elon Musk, pourrait révolutionner la manière dont les médicaments en vente libre et sur ordonnance sont réglementés aux États-Unis. Bien que l'idée soit prometteuse, des préoccupations subsistent quant à la fiabilité et à la formation éthique des modèles IA. La FDA explore également d'autres applications de l'IA, comme l'a démontré son annonce d'une bourse de recherche sur les modèles linguistiques pour une utilisation interne. OpenAI a également fait des progrès en matière de conformité gouvernementale avec ChatGPT Gov, et vise les accréditations FedRAMP pour gérer les données sensibles du gouvernement.",
+        "image": "",
+        "date": "Wed, 07 May 2025 21:14:20 GMT"
+    },
+    {
         "title": "Cybersécurité et IA : les dernières tendances et innovations",
         "link": "https://www.forbes.com/sites/moorinsights/2025/05/07/rsa-conference-2025-highlights-insights-and-companies-to-watch/?ss=ai",
         "body": "Résumé : \n\nLa conférence RSA 2025 a mis en lumière l'utilisation croissante de l'IA dans la cybersécurité, avec un accent particulier sur l'IA agentique. Les fournisseurs de solutions qui évitent le battage médiatique autour de l'IA, écoutent attentivement les besoins des clients et éduquent à court terme peuvent devenir des conseillers de confiance et récolter des récompenses commerciales à long terme. Une évolution radicale de la gestion des accès et des identités sera nécessaire pour gérer les autorisations et la hiérarchie des agents et des super-agents. Les applications d'IA modernes évoluent rapidement et pourraient donner l'avantage aux défenseurs. Bien que l'IA soit une arme à double tranchant, l'IA agentique associée à l'automatisation pourrait lutter contre l'utilisation actuelle de l'IA générative par les acteurs malveillants pour améliorer les attaques de phishing et les mouvements latéraux. Cisco, Hewlett Packard Enterprise, Microsoft et Palo Alto Networks ont annoncé des avancées importantes en matière de cybersécurité, notamment de nouvelles fonctionnalités, des améliorations en matière de protection des points terminaux et de la chaîne d'approvisionnement, et l'acquisition d'entreprises spécialisées en IA. Les fournisseurs de solutions de cybersécurité misent sur la puissance des plateformes pour offrir une gestion simplifiée et une sécurité renforcée, ce qui est essentiel alors que les acteurs malveillants utilisent de plus en plus l'IA générative et agentique pour lancer des attaques.",
@@ -19,6 +26,13 @@
         "body": "IBM met en avant Watson.data comme pierre angulaire de sa stratégie en matière d'IA générative lors de son événement phare IBM Think 2025. Watson.data est une plateforme conçue pour aider les entreprises à surmonter les obstacles courants à la mise à l'échelle de l'IA générative et basée sur les agents, en particulier avec des données d'entreprise fragmentées ou difficiles à utiliser, y compris les formats non structurés. IBM positionne Watson.data comme une plateforme ouverte et hybride, simplifiant la pile de données pour l'IA et permettant aux entreprises d'obtenir des résultats plus rapides, plus précis et plus évolutifs en matière d'IA générative. L'article explore les défis de l'adoption de l'IA en entreprise et la manière dont Watson.data aborde ces problèmes, en mettant l'accent sur la nécessité de données fiables et spécifiques à l'entreprise pour des résultats d'IA performants et précis. IBM annonce également l'évolution de Watson.data vers une architecture de data lakehouse hybride et ouverte avec des capacités de tissu de données, facilitant ainsi l'accès et la gestion de différents formats de données. L'acquisition prévue de DataStax devrait améliorer la gestion des données non structurées. Watson.data offre une approche prometteuse pour la gestion des données d'entreprise, mais la gestion des données reste complexe, en particulier pour les organisations aux premiers stades de la modernisation de leurs données.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681b95da9365fbd1e16c5ca7/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 07 May 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Apple explore de nouvelles options de recherche IA pour Safari",
+        "link": "https://www.theverge.com/news/662656/apple-ai-search-alternatives-eddy-cue-testimony#comments",
+        "body": "Apple envisage sérieusement d'intégrer des fonctionnalités de recherche IA à son navigateur Safari. Eddy Cue, vice-président senior des services Apple, a déclaré lors du procès antitrust de Google que l'entreprise prévoyait probablement d'ajouter des fonctionnalités de recherche IA à Safari dans l'année à venir. Apple est en discussion avec plusieurs acteurs clés de l'IA, dont Perplexity, OpenAI et Anthropic. Cue a reconnu que la technologie de recherche IA n'était pas encore tout à fait au point, mais a souligné l'importance de la flexibilité dans le choix du fournisseur de services IA, étant donné la rapidité des avancées dans ce domaine. Ces déclarations surviennent alors qu'Apple est sous les projecteurs concernant son accord avec Google, qui paie environ 20 milliards de dollars pour être le moteur de recherche par défaut sur Safari. Apple propose déjà une intégration ChatGPT avec Siri, et Google s'apprête à conclure un accord pour apporter Gemini sur l'iPhone. La baisse des recherches sur Safari le mois dernier, une première en 22 ans, souligne l'importance de ces évolutions pour Apple.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 07 May 2025 16:15:51 GMT"
     },
     {
         "title": "L'importance de la confiance dans l'adoption de l'IA en entreprise",
@@ -173,40 +187,5 @@
         "body": "Bien qu'il n'y ait pas encore de consensus clair sur la date à laquelle l'intelligence artificielle générale (AGI) sera atteinte, l'article suggère une approche alternative pour évaluer notre progression vers l'AGI. Au lieu de se fier uniquement aux prédictions de personnalités de l'IA ou au consensus scientifique des experts en IA, l'article propose d'adopter un cadre de « convergence des preuves ». Cela implique de rassembler des preuves provenant de multiples sources indépendantes pour évaluer de manière plus robuste la proximité de l'AGI. L'article identifie six facteurs clés de preuve qui pourraient être inclus dans un tel cadre, soulignant la nécessité d'efforts concertés pour normaliser l'évaluation de la proximité de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68196286f7e100cb6ddef1b5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 06 May 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Windows 11 : l'IA au cœur du système",
-        "link": "https://www.frandroid.com/os/windows/2607165_menu-demarrer-windows-11-voici-la-refonte-que-tous-les-utilisateurs-attendaient-depuis-10-ans",
-        "body": "La prochaine mise à jour de Windows 11 introduit des changements importants, notamment une refonte du menu Démarrer avec plus d'espace et un tri des applications par catégorie. Microsoft mise sur l'intelligence artificielle pour simplifier les tâches quotidiennes, avec un agent IA dans les paramètres et des fonctions \"Cliquer pour faire\". L'intégration des smartphones permet d'accéder aux contacts, messages et appels depuis un iPhone ou un Android connecté. Les outils créatifs sont également améliorés, avec de nouvelles fonctionnalités dans l'application Photos, Paint et l'outil Capture d'écran. Copilot, bien que pas encore disponible, deviendra utile dans Windows 11.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copilot-pc-phone-link-0-2-screenshot-2-1200x675-1-768x432.jpg?resize=169,169&key=3361601d",
-        "date": "Mon, 05 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Microsoft Copilot s'améliore sur Windows 11",
-        "link": "https://www.frandroid.com/marques/microsoft/2605871_copilot-va-enfin-devenir-utile-dans-windows-11-mais-pas-tout-de-suite",
-        "body": "Microsoft améliore son IA Copilot sur Windows 11, permettant désormais de modifier les paramètres via des requêtes en langage naturel. L'agent intelligent pourra aussi recommander des étapes ou effectuer des changements directement. De plus, la fonctionnalité Click-to-do s'enrichit avec la création de listes à puces, la possibilité d'agir sur du texte ou des images, et l'intégration avec Microsoft 365. La recherche Windows est améliorée grâce à des requêtes en langage naturel et l'intégration de Copilot dans l'explorateur de fichiers. Ces mises à jour seront d'abord disponibles en anglais pour les membres Windows Insiders sur les PC Copilot+ équipés de puces Snapdragon.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/copilot-1200x800-1-768x512.jpeg?resize=200,200&key=49b74cfd",
-        "date": "Mon, 05 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA Copilot de Microsoft s'améliore",
-        "link": "https://www.frandroid.com/marques/microsoft/2606123_windows-11-va-vous-aider-a-prendre-la-capture-decran-parfaite-avec-cette-mise-a-jour",
-        "body": "Microsoft améliore son IA Copilot avec de nouvelles fonctionnalités d'édition et de création pour Photos et Paint, ainsi qu'un outil de capture d'écran amélioré. La fonctionnalité de capture d'écran permet d'extraire du texte des images et la fonction \"Capture d'écran parfaite\" ajuste automatiquement la zone de capture pour cibler le contenu pertinent. Photos intègre la fonctionnalité Relight pour contrôler l'éclairage des images, tandis que Paint propose un générateur de stickers personnalisés et une sélection d'objets améliorée grâce à l'IA. Ces mises à jour rendent les applications créatives de Windows plus puissantes et utiles pour les utilisateurs de PC Copilot+.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/windows-11-phone-start-menu-768x432.jpg?resize=169,169&key=79bbbeba",
-        "date": "Mon, 05 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de Google Gemini",
-        "link": "https://www.frandroid.com/marques/google/2605997_google-gemini-devient-bien-plus-pratique-pour-vos-prompts-avec-images",
-        "body": "Google continue d'améliorer son moteur de recherche Gemini, en se concentrant désormais sur le renforcement de ses capacités de recherche visuelle. Josh Woodward, vice-président et responsable de Gemini, a annoncé que les utilisateurs peuvent soumettre plusieurs images simultanément à l'IA de Google, ce qui constitue une évolution significative. Auparavant, les utilisateurs recevaient un message d'avertissement lorsqu'ils essayaient de soumettre plusieurs images. Désormais, ils peuvent sélectionner jusqu'à 10 photos à la fois, améliorant ainsi l'expérience de recherche visuelle. Bien que cette fonctionnalité soit actuellement en cours de déploiement, elle marque une étape importante dans l'amélioration des capacités de recherche de Google, en particulier dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-pixel-9-gemini-1200x675-1-768x432.jpg?resize=169,169&key=5be1bc38",
-        "date": "Mon, 05 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung bloque l'accès à Galaxy AI sur les anciens modèles",
-        "link": "https://www.frandroid.com/marques/samsung/2605851_samsung-coupe-lacces-a-galaxy-ai-sur-les-anciens-modeles-vous-ne-pouvez-plus-utiliser-cette-astuce",
-        "body": "Samsung a récemment mis à jour son navigateur web, bloquant ainsi une fonctionnalité qui permettait à certains smartphones plus anciens d'accéder aux fonctionnalités d'IA de Galaxy AI. En modifiant les paramètres de débogage du navigateur, les utilisateurs avaient réussi à activer des fonctionnalités telles que le résumé et la lecture à voix haute des pages web, ainsi qu'un outil de traduction assisté par l'IA. La mise à jour 28.0.059 de Samsung Internet a corrigé cette faille, empêchant désormais des appareils comme le Galaxy S21 et certains modèles Galaxy A d'accéder à ces fonctionnalités avancées de navigation web. Bien que ces téléphones n'aient jamais été annoncés comme compatibles, la faille démontrait que les fonctionnalités d'IA fonctionnaient malgré les restrictions imposées par Samsung. Les utilisateurs qui ont modifié leurs appareils pour utiliser Galaxy AI sont confrontés à un choix difficile : soit conserver leur accès à Galaxy AI en évitant la mise à jour, soit mettre à jour leur navigateur pour bénéficier des correctifs de sécurité les plus récents.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/capture-decran-du-2025-05-06-09-55-16-768x483.jpg?resize=188,188&key=f3ca6f9d",
-        "date": "Mon, 05 May 2025 23:00:00 GMT"
     }
 ]
