@@ -147,7 +147,7 @@
         "check": "yes"
     },
     {
-        "title": "Le plus grand secret de ce célèbre tableau aurait été percé grâce à l’IA",
+        "title": "Le plus grand secret de ce c\u00e9l\u00e8bre tableau aurait \u00e9t\u00e9 perc\u00e9 gr\u00e2ce \u00e0 l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2609183_le-plus-grand-secret-de-ce-celebre-tableau-aurait-ete-perce-grace-a-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/tableau-rapahel-1200x675-1-768x432.jpg?resize=169,169&key=78f6c1bb",
         "date": "Thu, 08 May 2025 23:00:00 GMT",
@@ -194,5 +194,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/681d0d3d4c981599484fe909/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 08 May 2025 20:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/09/ai-hr-is-going-to-rock-our-worlds-as-ai-adoption-soars/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681e4665622a5b895228ebb2/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 09 May 2025 18:17:00 GMT",
+        "check": "no"
     }
 ]
