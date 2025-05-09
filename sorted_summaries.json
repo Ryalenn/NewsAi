@@ -1,5 +1,26 @@
 [
     {
+        "title": "La révolution de la vente au détail",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/05/09/digital-twins-and-virtual-stores-the-future-of-retail-is-here/?ss=ai",
+        "body": "La technologie transforme l'expérience d'achat, avec des applications de réalité augmentée et virtuelle qui permettent aux utilisateurs d'explorer des espaces virtuels, comme des librairies, et d'interagir avec les produits. Les entreprises utilisent désormais la réalité augmentée et virtuelle, soutenues par l'intelligence artificielle, pour améliorer l'expérience client et réduire les incertitudes liées à la conception des magasins. Cette approche permet d'économiser du temps et de l'argent, en évitant les erreurs coûteuses et en offrant une expérience immersive aux clients. La technologie de jumeau numérique, présentée dans le film «Clueless», est un exemple de cette tendance, permettant aux utilisateurs de créer des avatars numériques et d'essayer virtuellement des vêtements ou d'explorer des environnements. Les entreprises comme L+R utilisent ces technologies pour aider les marques à concevoir des expériences de vente au détail immersives, et des industries à haut risque comme l'aérospatiale et la santé adoptent également ces outils pour visualiser et tester des produits de manière rentable. L'IA est le moteur de ces innovations, améliorant les expériences et fournissant des informations précieuses pour les entreprises.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681d2202c1f65eee8b614f86/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 09 May 2025 14:30:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : avancées et défis",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/05/09/the-prototype-the-trump-administration-proposes-major-cuts-to-science/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681df1360f2a4410ce075bdc/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 09 May 2025 14:29:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA chez American Express",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/05/09/ravi-radhakrishnan-on-driving-ai-innovation-at-american-express/?ss=ai",
+        "body": "Résumé : \n\nAmerican Express, l'une des marques de services financiers les plus emblématiques au monde, met de plus en plus l'accent sur la technologie, avec Ravi Radhakrishnan, son vice-président exécutif et directeur de l'information, à la barre. Radhakrishnan a élargi ses responsabilités pour inclure les plateformes technologiques de base, la sécurité de l'information, la gestion des produits et, plus récemment, le bureau en charge des données. La technologie joue un rôle stratégique chez American Express, car elle permet à l'entreprise de proposer des produits et services innovants tout en maintenant son niveau de service à la clientèle de classe mondiale. L'entreprise adopte une approche de modernisation continue, basée sur des technologies fondamentales réutilisables et évolutives, évitant ainsi des refontes massives et perturbatrices. Les données sont au cœur de la stratégie d'American Express depuis longtemps, et l'entreprise les utilise de manière responsable pour servir et protéger ses clients. L'entreprise utilise l'IA depuis plus de 15 ans, en particulier pour l'analyse prédictive dans les domaines du crédit et de la fraude. Avec l'avènement de l'IA générative, American Express a mis en place un cadre de gouvernance complet, y compris un conseil de l'IA interservices. L'entreprise a déjà déployé l'IA générative dans plusieurs domaines, notamment les chatbots de service client, les améliorations de la recherche mobile et les outils de génération de code, tout en veillant à ce qu'il y ait une supervision humaine dans chaque cas d'utilisation. American Express a également investi dans un écosystème de partenaires diversifié pour soutenir l'innovation rapide, travaillant avec de grands fournisseurs de cloud, des communautés open source et des startups agiles. Radhakrishnan souligne que l'entreprise surveille de près l'évolution de l'IA agentique, des modèles spécifiques à un domaine et de l'intersection de l'IA avec l'informatique quantique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681d763a61d2c3325f8d14fe/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 09 May 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'IA dans l'industrie minière",
         "link": "https://www.forbes.com/sites/ronschmelzer/2025/05/09/ai-unearths-new-potential-in-the-mining-industry/?ss=ai",
         "body": "L'intelligence artificielle (IA) joue un rôle de plus en plus important dans l'industrie minière, améliorant l'efficacité, la sécurité et la durabilité des opérations. L'IA permet d'automatiser les véhicules utilisés dans les mines, améliorant ainsi la sécurité et la productivité dans des environnements dangereux. L'entretien prédictif assisté par l'IA augmente le temps de fonctionnement de l'équipement et réduit les coûts. De plus, l'IA optimise divers processus miniers, améliore l'estimation des ressources et la planification des mines, et prédit la qualité et l'emplacement des gisements de minerai. Les systèmes basés sur l'IA améliorent également la sécurité en détectant les risques potentiels et optimisent la consommation d'énergie des opérations minières. Enfin, l'IA surveille les facteurs environnementaux pour aider les sociétés minières à respecter les réglementations et à réduire leur empreinte écologique.",
@@ -21,6 +42,13 @@
         "date": "Fri, 09 May 2025 06:00:00 GMT"
     },
     {
+        "title": "L'IA révèle les secrets des maîtres anciens",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2609183_le-plus-grand-secret-de-ce-celebre-tableau-aurait-ete-perce-grace-a-lia",
+        "body": "L'intelligence artificielle aide à élucider les mystères de tableaux anciens. Un algorithme développé par des chercheurs au Royaume-Uni et aux États-Unis a permis d'analyser les œuvres de Raphaël avec une précision supérieure à l'œil humain. L'IA a été entraînée à reconnaître le style du peintre, y compris les coups de pinceau, la palette de couleurs et les ombres. Cette méthode a atteint une précision de 98 % dans l'identification des œuvres de Raphaël. En se concentrant sur les visages des tableaux, les chercheurs ont découvert que le visage de saint Joseph dans \"La Madonna della Rosa\" n'a probablement pas été peint par Raphaël, mais par son assistant Giulio Romano. L'IA est un outil puissant pour l'authentification des œuvres d'art, mais elle ne remplace pas l'expertise humaine, selon le professeur Hassan Ugail.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/tableau-rapahel-1200x675-1-768x432.jpg?resize=169,169&key=78f6c1bb",
+        "date": "Thu, 08 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "La révolution des dispositifs portables dans les soins de santé",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/08/the-all-new-whoop-the-worlds-most-powerful-health-wearable/?ss=ai",
         "body": "La société WHOOP, spécialisée dans les technologies portables, annonce le lancement de deux nouveaux produits : WHOOP 5.0 et WHOOP MG (Medical Grade). Ces dispositifs utilisent l'informatique embarquée et les modèles fondés sur l'intelligence artificielle pour surveiller divers paramètres de santé, notamment la pression artérielle, l'électrocardiogramme (ECG) et le cycle menstruel. Ces données en temps réel peuvent aider à détecter des problèmes de santé tels que l'hypertension, la fibrillation auriculaire et les problèmes de santé liés au cycle menstruel. Les utilisateurs peuvent également recevoir des conseils personnalisés sur leur style de vie et leur santé grâce à l'IA intégrée, appelée \"WHOOP Coach\". Ces avancées technologiques représentent une évolution significative dans le domaine des soins de santé, permettant une surveillance à domicile et une détection précoce des problèmes de santé, et offrant ainsi aux utilisateurs un contrôle accru sur leur bien-être à long terme.",
@@ -35,6 +63,13 @@
         "date": "Thu, 08 May 2025 21:00:00 GMT"
     },
     {
+        "title": "L'IA au service de la mentorat en entreprise",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/05/08/3-ways-ai-can-make-mentorship-more-meaningful-than-ever/?ss=ai",
+        "body": "L'article souligne l'importance des mentors sur le lieu de travail pour la satisfaction et la rétention des employés. L'auteur suggère que l'IA peut améliorer le processus de mentorat en assurant un meilleur appariement entre mentors et mentorés, en se basant sur des facteurs tels que les aspirations de carrière, les traits de personnalité et les préférences d'apprentissage. L'IA peut également gérer les demandes de faible valeur, permettant aux mentors de se concentrer sur des conversations plus nuancées et significatives. En fin de compte, l'IA structure et soutient le processus de mentorat, tout en renforçant la connexion humaine qui est essentielle à son succès.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681d0d3d4c981599484fe909/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 08 May 2025 20:00:00 GMT"
+    },
+    {
         "title": "L'avenir du droit avec l'IA",
         "link": "https://www.forbes.com/sites/dariashunina/2025/05/08/from-friction-to-flow-how-ai-is-reshaping-legal-work/?ss=ai",
         "body": "L'intelligence artificielle (IA) n'est plus une simple tendance émergente, mais un élément critique pour rester compétitif, y compris dans le domaine juridique. Les cabinets d'avocats réalisent que la véritable puissance de l'IA réside dans sa capacité à résoudre des problèmes spécifiques et à apporter une valeur mesurable aux clients et aux équipes internes. L'article souligne l'importance de l'intégration de l'IA aux flux de travail existants, citant des exemples de plateformes de technologie juridique comme Lawformer, qui simplifie la rédaction et la révision des contrats, et Caseflood.ai, qui propose une solution d'intégration de l'IA pour les cabinets d'avocats. Les intervenants soulignent que l'adoption de l'IA dans le domaine juridique est lente en raison de la courbe d'apprentissage perçue et du manque d'intégration transparente, mais qu'elle est inévitable car elle profite à toutes les parties prenantes. La technologie juridique devrait s'intégrer aux systèmes existants et non demander aux utilisateurs d'en apprendre de nouveaux. L'IA dans le domaine juridique est en plein essor, passant de 19 % d'adoption en 2023 à 79 % en 2024, ce qui indique un tournant dans le secteur.",
@@ -47,6 +82,13 @@
         "body": "L'article explore la relation complexe entre l'intelligence artificielle (IA) et l'intelligence naturelle (NI), et son impact sur les aspirations, les émotions, les pensées et les sensations/comportements humains. Il met en évidence un cycle de rétroaction au cœur de cette relation : l'IA, développée par l'intelligence humaine et formée à partir de données générées par les activités humaines, influence à son tour les comportements, la cognition et les états internes des individus, créant ainsi de nouvelles données et de nouvelles possibilités pour le développement de l'IA. Ce cycle continu peut soit améliorer le bien-être et le potentiel humain, soit les détériorer. L'IA peut automatiser les tâches fastidieuses, offrir des insights à partir de vastes ensembles de données, débloquer de nouvelles avenues pour la créativité et personnaliser l'apprentissage. Cependant, une utilisation malveillante de l'IA peut conduire à un cercle vicieux de dépendance et de manipulation. L'impact de l'IA sur les émotions est multidimensionnel, avec des systèmes capables d'analyser les états émotionnels et d'offrir un soutien personnalisé. La dimension de la pensée humaine est également influencée par l'IA, qui fournit un outil puissant pour la pensée critique et la résolution collaborative de problèmes. Cependant, la délégation excessive de tâches cognitives complexes à l'IA peut entraîner une diminution des capacités de pensée critique et une dépendance aux sorties de l'IA, même lorsqu'elles sont biaisées. De plus, l'IA a le pouvoir de fausser la mémoire et la perception, implantant de faux souvenirs. L'IA influence également nos sensations et comportements à travers les interfaces, les recommandations et l'automatisation, médiant ainsi notre interaction avec le monde. L'article souligne l'importance de naviguer intentionnellement dans ce paysage complexe pour protéger notre perspective \"réelle\" et notre perception.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681cfa40f49388ce7e6d4ad0/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 08 May 2025 18:00:00 GMT"
+    },
+    {
+        "title": "L'avenir des médias et de l'IA",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/663285/reuters-is-ready-to-stand-up-for-the-press-and-embrace-ai#comments",
+        "body": "L'article présente une interview de Paul Bascobert, président de Reuters, par Nilay Patel, dans le cadre d'une série explorant la prise de décision au sein des grandes entreprises dans un environnement en évolution rapide. L'interview se concentre sur la longévité de Reuters, sa capacité à s'adapter aux nouvelles technologies et à trouver son public, ainsi que sur l'impact de l'IA sur l'industrie des médias. Bascobert discute de la façon dont Reuters, en tant qu'agence de presse traditionnelle, a toujours fonctionné avec des accords de licence de contenu, ce qui s'aligne bien avec la réflexion sur l'IA et les données d'entraînement. L'article suggère également que l'IA pourrait changer l'industrie des nouvelles, avec des médias grands et petits réfléchissant à la manière de licencier leur contenu aux entreprises d'IA, de les poursuivre ou de collaborer avec elles.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/DCD-Paul-Basoobert-Reuters.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
+        "date": "Thu, 08 May 2025 14:30:00 GMT"
     },
     {
         "title": "L'avenir de Peloton avec l'IA",
@@ -96,6 +138,13 @@
         "body": "La cybercriminalité basée sur l'IA cible 87 % des entreprises mondiales, utilisant des deepfakes et des attaques de réseau intelligentes pour contourner les défenses traditionnelles. Les criminels utilisent l'IA pour créer des e-mails de phishing personnalisés, des deepfakes pour tromper les employés et transférer de l'argent, et pour automatiser la détection des vulnérabilités. L'IA permet également de nouveaux types de virus et de logiciels malveillants qui peuvent muter pour éviter la détection. Pour se protéger, les individus et les organisations doivent rester informés des dernières menaces, développer leurs compétences en pensée critique et utiliser des outils de détection de l'IA. La résilience est clé, avec des plans de protection, de sauvegarde et de récupération pour les données les plus critiques. La transparence et la responsabilité éthique sont essentielles pour contrer la menace, et il est important d'exiger des normes élevées des développeurs d'IA et des législateurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681c47500a60ec560354acd6/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 08 May 2025 05:56:00 GMT"
+    },
+    {
+        "title": "L'avertissement de NVIDIA aux législateurs américains",
+        "link": "https://www.frandroid.com/marques/nvidia/2608669_nvidia-sinquiete-les-sanctions-americaines-contre-la-chine-pourraient-favoriser-huawei",
+        "body": "Le PDG de NVIDIA, Jensen Huang, met en garde contre les conséquences imprévues des sanctions américaines contre la Chine, qui pourraient nuir aux intérêts américains dans le domaine de l'IA. NVIDIA risque de perdre le marché chinois, ce qui représenterait une perte importante pour l'entreprise. De plus, les restrictions pourraient encourager le développement de technologies concurrentes en Chine, comme l'alternative de Huawei à CUDA, et affaiblir la position dominante des entreprises américaines dans le secteur de l'IA. Huang suggère une réflexion stratégique sur les sanctions, soulignant l'importance du rôle des États-Unis dans le développement et le déploiement de l'IA à l'échelle mondiale.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/nvidia-ceo-jensen-huang-keynote-at-ces-2025-55-44-screenshot-1-1200x675-1-768x432.jpg?resize=169,169&key=52f9a4a6",
+        "date": "Wed, 07 May 2025 23:00:00 GMT"
     },
     {
         "title": "Apple se tourne vers l'IA pour la recherche sur Safari",
@@ -180,26 +229,5 @@
         "body": "Bien que la perspective de l'intelligence artificielle générale (AGI) fascine et inquiète, il est important de se concentrer sur les jalons actuels et futurs de l'IA qui auront un impact significatif sur la vie quotidienne. L'IA a déjà dépassé les humains dans certains domaines, influençant le marché du travail, l'éducation et la compréhension de la psychologie humaine. Ces développements soulèvent des questions éthiques et soulignent la nécessité de repenser le rôle de l'humain dans l'éducation. Alors que l'AGI pourrait exacerber ces défis, il est essentiel de la considérer comme un processus évolutif plutôt qu'un événement binaire. Pour se préparer à l'AGI, il est recommandé de développer des compétences en IA, de rester informé des derniers développements et d'adapter ses compétences en fonction de l'évolution de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681b81cf131e9d09dfa54225/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 07 May 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Advanced Nuclear Energy Collaboration",
-        "link": "https://www.prnewswire.com/news-releases/elementl-power-and-google-sign-strategic-agreement-to-develop-locations-for-advanced-nuclear-projects-302447957.html",
-        "body": "Google et Elementl Power s'associent pour accélérer le développement de trois projets d'énergie nucléaire avancée aux États-Unis, avec un objectif de plus de 10 gigawatts d'ici 2035. L'accord prévoit un engagement de capital de la part de Google pour le développement précoce des projets, chacun générant au moins 600 mégawatts de puissance. Elementl Power, en tant que développeur de projets d'énergie nucléaire avancée et producteur d'énergie indépendant, collaborera avec des partenaires du secteur de l'énergie pour identifier et faire progresser les projets, tout en évaluant les technologies et les partenaires EPC. Cette collaboration vise à renforcer la fiabilité de la grille et à soutenir les objectifs de neutralité carbone à long terme, tout en répondant à la demande croissante en énergie pour l'IA et l'innovation technologique.",
-        "image": "",
-        "date": "Wed, 07 May 2025 14:45:08 GMT"
-    },
-    {
-        "title": "Job Hunting with AI",
-        "link": "https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability#comments",
-        "body": "LinkedIn lance un nouvel outil basé sur l'IA générative qui permet aux utilisateurs de trouver des offres d'emploi en décrivant leur rôle idéal. La barre de recherche alimentée par l'IA de la plateforme offre désormais aux utilisateurs des résultats d'offres d'emploi basés sur des descriptions en langage naturel. Cette approche offre plus de flexibilité que les filtres de recherche traditionnels basés sur l'emplacement, le secteur et le rôle. Les utilisateurs peuvent désormais rechercher spécifiquement les emplois idéaux qui correspondent à leurs qualifications et à leurs intérêts, plutôt que de vérifier manuellement chaque offre d'emploi. L'outil est disponible dès maintenant pour les abonnés LinkedIn Premium et sera accessible à tous les utilisateurs dont la langue est définie sur l'anglais global d'ici la fin de la semaine.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 07 May 2025 13:30:00 GMT"
-    },
-    {
-        "title": "Transformation d'une entreprise de données et d'analyses",
-        "link": "https://www.forbes.com/sites/peterhigh/2025/05/07/venkat-achanta-on-transunions-platform-transformation-and-ai-ambition/?ss=ai",
-        "body": "Titre : Transformation numérique d'une entreprise de données et d'analyses",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/681ad6c88c7480e3c736eff2/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 07 May 2025 13:00:00 GMT"
     }
 ]
