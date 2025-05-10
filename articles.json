@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Le plus grand secret de ce célèbre tableau aurait été percé grâce à l’IA",
+        "title": "Le plus grand secret de ce c\u00e9l\u00e8bre tableau aurait \u00e9t\u00e9 perc\u00e9 gr\u00e2ce \u00e0 l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2609183_le-plus-grand-secret-de-ce-celebre-tableau-aurait-ete-perce-grace-a-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/tableau-rapahel-1200x675-1-768x432.jpg?resize=169,169&key=78f6c1bb",
         "date": "Thu, 08 May 2025 23:00:00 GMT",
@@ -82,5 +82,19 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/jony-ive-stripe.png?quality=90&strip=all&crop=8.3333333333333%2C0%2C83.333333333333%2C100&w=2400",
         "date": "Fri, 09 May 2025 14:02:28 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Dylan-Field-Figma-CEO-CL-site-wide.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 09 May 2025 22:14:08 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/05/10/pope-leo-xiv-reveals-how-ai-influenced-his-name-choice/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681fa4178a8ec27c41133e6e/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 10 May 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
