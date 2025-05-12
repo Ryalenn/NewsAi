@@ -1,5 +1,12 @@
 [
     {
+        "title": "Une nouvelle technique de génération de texte : la chaîne de brouillons",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/12/prompt-engineering-welcomes-new-chain-of-draft-technique-improving-classical-chain-of-thought/?ss=ai",
+        "body": "Titre: Optimiser la génération de texte avec la chaîne de brouillons",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/681fe9798b2392df68d842bc/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 12 May 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : les agents autonomes",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/05/12/5-ai-agent-myths-you-need-to-stop-believing-now/?ss=ai",
         "body": "Les agents IA représentent la prochaine étape de l'évolution des chatbots, avec leur capacité à prendre des mesures autonomes qui pourraient transformer notre façon de travailler et de vivre. Bien que la technologie soit encore naissante, son impact potentiel est énorme. Les agents IA peuvent interagir avec des sites Web, des services numériques et des logiciels, accomplissant ainsi de nombreuses tâches quotidiennes. Ils sont constitués de plusieurs outils et applications indépendants, chacun spécialisé dans une tâche différente, et coordonnés par un outil LLM agissant comme chef de projet. Au-delà des réponses aux questions, les agents IA intégrés à notre vie quotidienne pourraient gérer nos calendriers, faire nos courses, réserver des voyages et bien plus encore. La rapidité de l'évolution de l'IA suggère que ces capacités pourraient émerger rapidement. Des préoccupations éthiques et de sécurité surgissent également, car les agents IA peuvent être trompés par des liens et des publicités en ligne, ouvrant la voie à de nouvelles formes de cybercriminalité et de fraude. La supervision humaine est essentielle, car les agents IA sont encore imparfaits et doivent rendre des comptes. La compréhension de l'utilisation des données et de la formation des machines est cruciale pour une adoption éthique et responsable des agents IA.",
@@ -12,6 +19,13 @@
         "body": "L'article explore l'émergence des entreprises dont les opérations sont principalement dirigées par l'intelligence artificielle, en prenant l'exemple de sociétés travaillant dans le domaine de l'espace. SpaceX, bien qu'utilisant l'IA, n'est pas considérée comme une entreprise native de l'IA en raison de son existence antérieure aux avancées actuelles de l'IA. En revanche, des entreprises comme Tomorrow.io, avec seulement 150 employés, gèrent des départements variés grâce à l'IA, allant de la météorologie aux opérations gouvernementales. L'entreprise investit dans la formation et l'utilisation de l'IA pour améliorer l'efficacité et la créativité, et construit ses propres satellites pour collecter des données propriétaires alimentant ses algorithmes. L'article souligne également l'importance de la propriété intellectuelle dans le domaine de la science des données et la façon dont Tomorrow.io collecte ses propres données depuis l'espace tout en utilisant l'IA pour diverses applications, y compris la fourniture d'informations sur la qualité de l'air en temps réel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682158f9aed338a31be55bf6/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 12 May 2025 01:00:00 GMT"
+    },
+    {
+        "title": "L'IA, au cœur des préoccupations de l'Église catholique",
+        "link": "https://www.theverge.com/news/664719/pope-leo-xiv-artificial-intelligence-concerns#comments",
+        "body": "Le nouveau pape, Leo XIV, a récemment suggéré que l'intelligence artificielle (IA) présente des défis similaires à ceux de la révolution industrielle sous le pape Leo XIII. Dans un discours devant le Collège des Cardinaux, il a expliqué son choix de nom papal, citant Leo XIII et son encyclique \"Rerum Novarum\", qui abordait les questions sociales de la première révolution industrielle. Le pape Leo XIV voit l'Église comme une source de guidance morale et éthique face aux développements de l'IA, qui posent de nouveaux défis pour la défense de la dignité humaine, la justice et le travail. L'Église catholique suit de près l'évolution de l'IA, comme en témoigne un document du Vatican publié en janvier, qui explore les limites de l'IA, sa relation avec la vérité et l'éthique de son développement et de son utilisation. Le document fait également écho à une mise en garde du pape François sur le potentiel de l'IA à créer des récits faux mais perçus comme vrais. Le choix du pape Leo XIV de citer l'IA comme raison principale de son choix de nom indique que l'IA sera une priorité majeure pendant son pontificat.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214343516.jpg?quality=90&strip=all&crop=0%2C0.003527336860671%2C100%2C99.992945326279&w=2400",
+        "date": "Sat, 10 May 2025 20:48:54 GMT"
     },
     {
         "title": "Le pape et l'IA",
