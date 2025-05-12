@@ -7,6 +7,13 @@
         "date": "Mon, 12 May 2025 15:02:00 GMT"
     },
     {
+        "title": "La révolution des puces informatiques",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/12/pushing-the-limits-of-modern-llms-with-a-dinner-plate/?ss=ai",
+        "body": "La course à la puissance dans le domaine de l'IA se poursuit avec l'émergence de nouvelles technologies matérielles et logicielles. L'article présente le processeur Cerebras WSE, une puce massive de la taille d'une assiette, avec des centaines de milliers de cœurs et une capacité de contexte impressionnante. L'auteur explique les concepts de base des modèles linguistiques massifs, y compris la tokenisation, le contexte et l'inférence, et souligne l'importance de la puissance de calcul pour améliorer les performances de l'IA. La puce Cerebras est comparée à d'autres systèmes matériels, y compris les GPU Nvidia et les TPUs de Google, et se distingue par sa vitesse et sa capacité de contexte. L'article présente également différentes approches pour gérer de très grands fichiers et maintenir des performances élevées, ainsi que des cas d'utilisation pratiques dans des domaines tels que le juridique, le gouvernement et le trading. Enfin, l'auteur explore l'idée de repousser les limites de ces technologies, avec une touche d'humour ajoutée par ChatGPT.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68221932b9410d975a54b6ae/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 12 May 2025 15:00:00 GMT"
+    },
+    {
         "title": "Transformer les rejets en opportunités",
         "link": "https://www.forbes.com/sites/jodiecook/2025/05/12/5-chatgpt-prompts-to-turn-rejections-into-business-wins/?ss=ai",
         "body": "L'article fournit cinq invites de ChatGPT pour aider les entrepreneurs à transformer les rejets en opportunités d'affaires. Les invites aident à changer la perspective sur les rejets, à les utiliser comme source d'amélioration et à les intégrer dans une stratégie de retour. Les exemples incluent : trouver l'humour dans un rejet, créer une déclaration personnelle de résilience, extraire des informations précieuses d'un rejet, planifier un retour stratégique et créer un « dossier de preuves » des rejets pour en tirer des leçons et inspirer les autres.",
@@ -82,12 +89,5 @@
         "body": "Le nouveau pape, Leo XIV, a souligné l'importance de l'intelligence artificielle (IA) dans son premier discours formel, la qualifiant de défi clé pour l'humanité. Il a établi un parallèle entre les changements transformateurs de la révolution industrielle et les avancées technologiques d'aujourd'hui dominées par l'IA. Le pape Leo XIV suit les traces de son prédécesseur, le pape Francis, qui a parlé à plusieurs reprises des dangers et des opportunités éthiques de l'IA. Le pape Leo XIV a également mentionné les Rerum novarum du pape XIII, qui abordaient les droits et les devoirs du capital et du travail dans le contexte de la première révolution industrielle. Enfin, il a souligné les thèmes de la piété populaire, des soins aux pauvres et de l'engagement courageux envers le monde, y compris la nécessité de répondre à la révolution numérique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681fa4178a8ec27c41133e6e/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 10 May 2025 19:00:00 GMT"
-    },
-    {
-        "title": "SoundCloud's AI Ambitions",
-        "link": "https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music#comments",
-        "body": "SoundCloud a discrètement mis à jour ses conditions d'utilisation en février 2024, ajoutant une clause permettant l'utilisation de contenus utilisateurs pour l'entraînement de modèles d'IA. Bien que la plateforme affirme ne pas avoir utilisé de contenu utilisateur à ce jour, elle n'exclut pas cette possibilité à l'avenir. SoundCloud a mis en place des protections techniques, dont une balise « no AI », pour empêcher l'utilisation non autorisée. La société affirme que toute utilisation future de l'IA sera destinée à soutenir les artistes et à améliorer leurs outils et opportunités. Les utilisateurs pourront se désinscrire si SoundCloud décide d'utiliser leur contenu pour l'entraînement d'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Sat, 10 May 2025 15:40:21 GMT"
     }
 ]
