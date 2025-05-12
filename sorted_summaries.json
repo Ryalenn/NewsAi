@@ -1,5 +1,19 @@
 [
     {
+        "title": "Les choix douteux de Sam Altman",
+        "link": "https://www.ft.com/content/b1804820-c74b-4d37-b112-1df882629541",
+        "body": "Le PDG d'OpenAI, Sam Altman, est interviewé dans la newsletter hebdomadaire du FT, discutant des capacités impressionnantes de l'IA. Cependant, l'article se concentre sur les choix douteux d'Altman dans sa cuisine, suggérant qu'ils pourraient refléter sa gestion d'OpenAI. L'utilisation par Altman d'une huile d'olive coûteuse et inappropriée pour la friture, son choix d'un couteau de cuisine coûteux mais mal adapté à la tâche, et sa machine à café automatisée mais inefficace sont soulignés comme des exemples de dépenses inutiles et d'inefficacité. L'auteur suggère que ces choix pourraient refléter une gestion imprudente d'OpenAI, avec des dépenses excessives et une course à l'insolvabilité. L'article soulève des questions sur la gestion d'Altman et la durabilité financière d'OpenAI.",
+        "image": "",
+        "date": "Mon, 12 May 2025 15:02:00 GMT"
+    },
+    {
+        "title": "Transformer les rejets en opportunités",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/05/12/5-chatgpt-prompts-to-turn-rejections-into-business-wins/?ss=ai",
+        "body": "L'article fournit cinq invites de ChatGPT pour aider les entrepreneurs à transformer les rejets en opportunités d'affaires. Les invites aident à changer la perspective sur les rejets, à les utiliser comme source d'amélioration et à les intégrer dans une stratégie de retour. Les exemples incluent : trouver l'humour dans un rejet, créer une déclaration personnelle de résilience, extraire des informations précieuses d'un rejet, planifier un retour stratégique et créer un « dossier de preuves » des rejets pour en tirer des leçons et inspirer les autres.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6820c9b067a3a4c145b02357/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 12 May 2025 14:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : l'intelligence émotionnelle",
         "link": "https://www.forbes.com/sites/dangardner-1/2025/05/12/the-next-ai-revolution-isnt-technical-its-emotional/?ss=ai",
         "body": "L'auteur suggère que l'intelligence artificielle (IA) est trop souvent réduite à sa capacité à générer des mots, des images et des vidéos de manière rapide et impressionnante, alors que sa véritable valeur réside dans sa capacité à générer des émotions. La vraie intelligence, qu'elle soit humaine ou artificielle, consiste à créer des connexions, à susciter des émotions et à comprendre les nuances des émotions humaines. L'IA émotionnelle a le potentiel de révolutionner divers secteurs, notamment la santé, les voyages, l'hospitalité et l'éducation, en offrant des expériences personnalisées et engageantes. Les entreprises qui utilisent l'IA uniquement pour l'efficacité des tâches seront dépassées par celles qui l'utilisent pour co-créer des expériences humaines enrichies émotionnellement. L'avenir de l'IA réside dans sa capacité à établir des connexions profondes plutôt que dans sa vitesse de calcul.",
@@ -33,6 +47,27 @@
         "body": "L'article explore l'émergence des entreprises dont les opérations sont principalement dirigées par l'intelligence artificielle, en prenant l'exemple de sociétés travaillant dans le domaine de l'espace. SpaceX, bien qu'utilisant l'IA, n'est pas considérée comme une entreprise native de l'IA en raison de son existence antérieure aux avancées actuelles de l'IA. En revanche, des entreprises comme Tomorrow.io, avec seulement 150 employés, gèrent des départements variés grâce à l'IA, allant de la météorologie aux opérations gouvernementales. L'entreprise investit dans la formation et l'utilisation de l'IA pour améliorer l'efficacité et la créativité, et construit ses propres satellites pour collecter des données propriétaires alimentant ses algorithmes. L'article souligne également l'importance de la propriété intellectuelle dans le domaine de la science des données et la façon dont Tomorrow.io collecte ses propres données depuis l'espace tout en utilisant l'IA pour diverses applications, y compris la fourniture d'informations sur la qualité de l'air en temps réel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682158f9aed338a31be55bf6/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 12 May 2025 01:00:00 GMT"
+    },
+    {
+        "title": "Apple prépare sa révolution IA",
+        "link": "https://www.frandroid.com/marques/apple/2610895_apple-prepare-sa-grande-renaissance-avec-ces-6-projets-dici-a-2027",
+        "body": "Apple planifie une \"renaissance\" pour son 20e anniversaire, avec six projets majeurs à l'horizon 2027. Parmi eux, un casque de réalité mixte, des lunettes de réalité augmentée, un iPad pliant XXL pouvant servir de Mac, et une intelligence artificielle révolutionnaire. Cette IA, décrite comme \"le projet le plus important d'Apple\", vise à améliorer Siri et à offrir des capacités d'IA avancées pour les appareils Apple. Bien qu'elle ne soit pas attendue avant 2025, elle pourrait définir l'avenir d'Apple pour les 10 à 20 prochaines années.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/apple-store-chicago-michigan-avenue-1200x900-1-768x576.jpg?resize=225,225&key=947d00d9",
+        "date": "Sun, 11 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La bataille des navigateurs web : Perplexity s'attaque à Google",
+        "link": "https://www.frandroid.com/culture-tech/web/2610635_perplexity-lancerait-son-concurrent-de-google-chrome-des-ce-mois-ci",
+        "body": "Perplexity, une entreprise de technologie, a annoncé le projet Comet en février 2025, révélant ainsi son intention de concurrencer directement Google Chrome. Cette annonce intervient alors que Google fait face à des problèmes juridiques liés à son monopole, ce qui pourrait ouvrir des opportunités pour d'autres acteurs du marché. Perplexity s'est d'ailleurs proposé pour racheter Chrome. Selon des rumeurs, Perplexity s'apprête à lancer son propre navigateur web, Comet, qui utilisera son modèle linguistique pour offrir une expérience de navigation fluide et intuitive, permettant aux utilisateurs de faire des recherches en langage naturel. La page web dédiée, un onglet sur le site de Perplexity et une vidéo promotionnelle ont été brièvement mis en ligne, suggérant un lancement imminent. Ce navigateur pourrait représenter une alternative sérieuse à Chrome, surtout si Google est contraint de céder une partie de son marché.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/perplexity-chrome-1200x800-1-768x512.jpg?resize=200,200&key=94567bee",
+        "date": "Sun, 11 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La synthèse de conversation de WhatsApp",
+        "link": "https://www.frandroid.com/marques/meta/2610605_marre-de-devoir-rattraper-vos-42-messages-non-lus-whatsapp-vous-resumera-bientot-vos-conversations",
+        "body": "WhatsApp développe une fonctionnalité de résumé de conversation via l'IA pour aider les utilisateurs à gérer les flux d'informations dans les groupes actifs. Cette fonctionnalité, repérée dans la version bêta de l'application, sera optionnelle et respectueuse de la vie privée. Meta utilisera le « private processing », une méthode qui permet de déchiffrer et de résumer les messages tout en protégeant les données des utilisateurs. La fonctionnalité n'est pas encore disponible, mais vise à lutter contre la surcharge d'informations dans les conversations de groupe actives.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/design-sans-titre-29-768x432.jpg?resize=169,169&key=499d92e7",
+        "date": "Sun, 11 May 2025 23:00:00 GMT"
     },
     {
         "title": "L'IA, au cœur des préoccupations de l'Église catholique",
