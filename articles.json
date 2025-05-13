@@ -145,5 +145,26 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25612700/DSC_3108_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Sun, 11 May 2025 20:03:55 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68229aa61ec455dde2fbca9b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 13 May 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/05/13/10-key-findings-from-aws-generative-ai-adoption-index/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682325303da662a4b5f7fcc2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 13 May 2025 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68223c553965619ba1bd2e9e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 13 May 2025 09:00:00 GMT",
+        "check": "no"
     }
 ]
