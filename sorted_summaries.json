@@ -1,10 +1,45 @@
 [
     {
+        "title": "La révolution de l'efficacité énergétique dans le traitement du langage naturel",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/05/13/the-prompt-this-chip-could-halve-ai-power-consumption/?ss=ai",
+        "body": "Des chercheurs de l'Oregon State University ont développé une puce de traitement pour les grands modèles linguistiques qui réduit leur consommation d'énergie de moitié en résolvant un problème clé du traitement de l'IA : la corruption des données. La puce intègre un composant qui utilise l'apprentissage automatique pour identifier et corriger les erreurs survenant lors de la transmission des données, éliminant ainsi le besoin d'un égaliseur énergivore. Cette innovation pourrait réduire considérablement la consommation énergétique des modèles linguistiques de grande taille, qui nécessitent actuellement des quantités importantes d'énergie pour fonctionner.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6823a5708026ed74b172700e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 13 May 2025 20:22:00 GMT"
+    },
+    {
+        "title": "TikTok lance un nouvel outil d'animation d'images basé sur l'IA",
+        "link": "https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video#comments",
+        "body": "TikTok lance un nouvel outil basé sur l'IA appelé « AI Alive » qui permet d'animer des photos. Accessible via la Story Camera de TikTok, cet outil utilise des outils d'édition intelligents pour permettre aux utilisateurs de transformer des images statiques en vidéos courtes et captivantes, améliorées par des mouvements et des effets atmosphériques et créatifs. Les utilisateurs peuvent décrire le style et le contenu souhaités pour la vidéo. TikTok a mis en place des mesures de sécurité pour éviter les abus, avec une modération de la technologie qui vérifie le contenu généré avant sa publication. Les vidéos créées avec cet outil seront étiquetées comme étant générées par l'IA et contiendront des métadonnées C2PA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 19:50:23 GMT"
+    },
+    {
+        "title": "La révolution de l'audio",
+        "link": "https://www.theverge.com/news/666136/amazon-audible-ai-narration-audiobooks-translation#comments",
+        "body": "Audible d'Amazon annonce une expansion majeure de son catalogue de livres audio grâce à l'utilisation de la technologie de l'IA. Les éditeurs pourront choisir parmi plus de 100 voix générées par l'IA en anglais, espagnol, italien et français, ainsi que divers accents et dialectes. La technologie d'IA d'Amazon gère tout le processus de production des livres audio, de la narration à la publication. De plus, de nouveaux outils de traduction IA seront lancés, prenant initialement en charge l'anglais, l'espagnol, le français, l'italien et l'allemand. Les éditeurs pourront réviser les traductions eux-mêmes ou opter pour une révision humaine par un linguiste professionnel.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24000004/acastro_STK074_audible_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 18:18:08 GMT"
+    },
+    {
+        "title": "Gemini, l'assistant IA de Google, arrive sur de nouvelles plateformes",
+        "link": "https://www.theverge.com/news/665161/google-gemini-tvs-cars-smartwatches-android-xr#comments",
+        "body": "Google étend les fonctionnalités de son assistant IA, Gemini, à de nouvelles plateformes : Google TV, Android Auto, Wear OS et Android XR. Gemini améliorera l'expérience utilisateur en permettant des interactions plus naturelles et contextuelles. Sur Google TV, Gemini pourra faire des recommandations adaptées à l'âge pour les films et fournir des explications et des vidéos éducatives. Dans les voitures Android Auto, il comprendra les demandes complexes pendant la conduite. Sur Wear OS, il permettra des interactions vocales naturelles, et sur Android XR, il sera disponible sur le premier casque XR de Samsung. Gemini devrait arriver sur ces plateformes au cours des prochains mois.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 17:00:00 GMT"
+    },
+    {
         "title": "La course à l'intelligence",
         "link": "https://www.forbes.com/sites/johnkoetsier/2025/05/13/chatgpt-beats-claude-googles-gemini-deepseek-in-test-of-ai-agents/?ss=ai",
         "body": "Le dernier modèle o3 de ChatGPT surpasse les autres modèles d'IA dans un test de recherche sur le web, mais les humains surpassent encore facilement les meilleurs agents d'IA. L'étude, réalisée par FutureSearch, a évalué 11 modèles de langage sur leur capacité à effectuer des tâches de recherche complexes. Bien que l'IA ait fait des progrès remarquables, il existe encore un écart significatif par rapport aux capacités humaines, notamment dans les domaines de la planification stratégique, de l'évaluation des sources et de la gestion de la mémoire. Les chercheurs ont également constaté que les agents d'IA ont tendance à se satisfaire de réponses de moindre qualité, plutôt que d'optimiser leurs résultats. Malgré ces défis, l'IA progresse rapidement et pourrait bientôt surpasser les performances humaines, même si les récents problèmes de ChatGPT avec son dernier modèle soulignent que des obstacles restent à surmonter.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6823677fe5bc7517464f88cf/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 13 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Spotify donne plus de contrôle à ses utilisateurs avec les commandes vocales",
+        "link": "https://www.theverge.com/news/665595/spotify-ai-dj-voice-commands-feature-availability#comments",
+        "body": "Spotify offre désormais à ses abonnés Premium la possibilité d'utiliser des commandes vocales en anglais pour personnaliser la musique jouée par sa fonctionnalité DJ basée sur l'IA. Les utilisateurs peuvent demander à l'assistant vocal de jouer un certain style de musique, un artiste particulier ou une ambiance spécifique. Par exemple, « joue-moi des rythmes électroniques pour ma course de milieu de journée » ou « surprends-moi avec des titres indie que je n'ai jamais entendus ». La fonctionnalité permet également de demander des recommandations musicales basées sur des ambiances, comme « joue-moi une musique qui correspond à ma vie en tant que film ». Les utilisateurs peuvent accéder à cette fonctionnalité en appuyant longuement sur le bouton DJ et en attendant un signal sonore avant de donner leur commande vocale.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Spotify-AI-DJ.jpg?quality=90&strip=all&crop=7.0040899795501%2C0%2C85.9918200409%2C100&w=2400",
+        "date": "Tue, 13 May 2025 13:00:00 GMT"
     },
     {
         "title": "The AI Revolution and Bug-Free Design",
@@ -208,12 +243,5 @@
         "body": "WhatsApp développe une fonctionnalité de résumé de conversation via l'IA pour aider les utilisateurs à gérer les flux d'informations dans les groupes actifs. Cette fonctionnalité, repérée dans la version bêta de l'application, sera optionnelle et respectueuse de la vie privée. Meta utilisera le « private processing », une méthode qui permet de déchiffrer et de résumer les messages tout en protégeant les données des utilisateurs. La fonctionnalité n'est pas encore disponible, mais vise à lutter contre la surcharge d'informations dans les conversations de groupe actives.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/design-sans-titre-29-768x432.jpg?resize=169,169&key=499d92e7",
         "date": "Sun, 11 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple's 20th Anniversary iPhone and More",
-        "link": "https://www.theverge.com/news/664776/apple-curved-glass-iphone-2027",
-        "body": "L'article traite des rumeurs entourant les futurs produits Apple, notamment un iPhone en verre incurvé pour le 20e anniversaire de l'iPhone en 2027. Il mentionne également d'autres produits potentiels, tels qu'un iPhone pliable, des lunettes de réalité augmentée, des AirPods et des Apple Watches avec caméra, ainsi qu'un robot de maison doté d'un assistant IA. Il suggère également des améliorations pour Siri, alimentées par des modèles linguistiques IA et de nouvelles puces pour le traitement de l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25612700/DSC_3108_Enhanced_NR.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Sun, 11 May 2025 20:03:55 GMT"
     }
 ]
