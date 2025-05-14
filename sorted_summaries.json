@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'impact environnemental des modèles linguistiques larges",
+        "link": "https://www.teenvogue.com/story/chatgpt-is-everywhere-environmental-costs-oped",
+        "body": "Bien que les jeunes s'inquiètent de la durabilité et de l'environnement, l'utilisation de chatbots comme ChatGPT a des conséquences sur l'environnement. L'entraînement et l'utilisation de ces modèles nécessitent une puissance informatique importante, ce qui entraîne une consommation élevée d'énergie et d'eau, ainsi que des émissions de carbone. Les estimations varient, mais une recherche suggère que l'énergie utilisée pour une seule requête de chatbot peut être jusqu'à 10 fois supérieure à celle d'une recherche Google typique. Les entreprises investissent dans l'énergie nucléaire pour répondre à la demande croissante en AI, mais cela suscite des critiques. L'utilisation de centres de données pour l'IA exerce une pression sur le réseau électrique américain et peut contribuer à la pollution et aux problèmes de santé publique, en particulier dans les communautés marginalisées. Les entreprises technologiques sont conscientes de l'impact environnemental et fixent des objectifs de durabilité, mais il existe des alternatives plus efficaces, comme le montre une entreprise chinoise d'IA. Les modèles linguistiques larges sont imparfaits et peuvent fournir des informations fausses ou imprécises, ce qui remet en question leur valeur réelle.",
+        "image": "",
+        "date": "Wed, 14 May 2025 15:02:22 GMT"
+    },
+    {
+        "title": "AlphaEvolve : l'avenir de l'IA dans l'optimisation",
+        "link": "https://www.theverge.com/news/666377/googles-says-its-new-ai-agent-can-find-new-solutions-in-computing-and-math#comments",
+        "body": "AlphaEvolve, le nouvel agent IA de Google, est conçu pour découvrir et optimiser les algorithmes, en s'appuyant sur les idées les plus prometteuses. AlphaEvolve a déjà démontré son efficacité en améliorant l'efficacité des centres de données, de la conception de puces et des processus d'entraînement de l'IA de Google. Selon Google, AlphaEvolve pourrait également révolutionner d'autres industries, notamment les sciences des matériaux, la découverte de médicaments et diverses applications technologiques et commerciales.",
+        "image": "",
+        "date": "Wed, 14 May 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : tendances et opportunités",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/14/6-investor-predictions-for-ai-in-2025/?ss=ai",
+        "body": "Titre : L'avenir de l'IA : tendances et opportunités",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6824a6942a94619595c658f0/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 14:00:00 GMT"
+    },
+    {
         "title": "Décentraliser la découverte de médicaments",
         "link": "https://www.forbes.com/sites/torconstantino/2025/05/14/this-decentralized-ai-could-revolutionize-drug-development/?ss=ai",
         "body": "Rowan Labs et le sous-réseau d'IA décentralisé Macrocosmos s'associent pour former des réseaux neuronaux d'IA afin d'accélérer la découverte de médicaments à faible coût. La clé de cette approche est la combinaison de simulations moléculaires de haute fidélité et d'IA décentralisée. Rowan Labs a lancé Egret-1, un ensemble de potentiels de réseau neuronal appris par machine pour simuler la chimie organique avec une précision atomique. En partenariat avec le sous-réseau 25 du protocole d'IA décentralisé Bittensor, Macrocosmos, ils visent à réduire le coût et le temps nécessaires à la découverte de nouveaux composés thérapeutiques. Au cœur de cette initiative se trouve l'idée d'entraîner des réseaux neuronaux d'IA non pas sur des données web récupérées, mais sur la physique en action, en particulier la mécanique quantique. Rowan Labs utilise des équations de mécanique quantique pour créer des ensembles de données synthétiques et entraîner des réseaux neuronaux à recréer les résultats de ces équations. Cette approche a déjà des applications pratiques, telles que la prédiction de propriétés pharmacologiques critiques. La génération de données synthétiques soulève des questions sur la fiabilité, mais Rowan Labs assure que ses données sont plus précises que celles obtenues à partir d'expériences physiques. L'objectif à court terme est de publier un article évalué par des pairs démontrant comment l'informatique décentralisée a généré la prochaine génération de modèles de simulation chimique.",
@@ -19,6 +40,13 @@
         "body": "Bien que l'IA puisse être un puissant moteur d'innovation et d'efficacité pour les entreprises, elle présente également des risques de dommages potentiels. Il est donc essentiel que les utilisateurs comprennent les cadres éthiques en place pour garantir la sécurité de tous. L'éthique de l'IA est comparable aux avertissements de sécurité dans un manuel d'utilisation, soulignant les bonnes pratiques et les précautions à prendre. Les préjugés humains peuvent se transmettre aux machines via les données d'apprentissage, ce qui peut conduire à des biais dans les décisions de l'IA. La course à la domination dans le domaine de l'IA entre les États-Unis et la Chine peut également influencer les choix éthiques, notamment en matière de transparence. De plus, il ne faut pas compter sur une autorité centralisée pour surveiller et corriger les mauvaises pratiques. Chacun a un rôle à jouer pour garantir une utilisation éthique de l'IA, en encourageant la transparence et en s'assurant que tous ont leur mot à dire dans l'établissement des normes acceptables. Enfin, l'éthique de l'IA n'est pas un luxe, mais une nécessité pour bâtir la confiance du public, sans laquelle l'IA ne pourra pas atteindre son plein potentiel pour résoudre des problèmes mondiaux complexes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68242fd44b3b3856e0b86cc9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 14 May 2025 05:54:00 GMT"
+    },
+    {
+        "title": "L'IA dans le secteur des livres audio",
+        "link": "https://www.frandroid.com/marques/amazon/2614285_amazon-choisit-lia-pour-augmenter-son-catalogue-de-livres-audio",
+        "body": "Amazon, via sa filiale Audible, propose désormais aux éditeurs d'utiliser l'IA pour la production de livres audio, avec un choix de 100 voix en plusieurs langues et accents. Deux options s'offrent aux éditeurs : une solution clé en main gérée par Audible ou une production en libre-service. Cette technologie soulève des inquiétudes quant à l'avenir des emplois de narration humaine, mais Amazon prévoit également de l'utiliser pour la traduction, avec un système assisté par l'IA ou entièrement automatisé.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/appshunter-io-u6excytqzse-unsplash-1200x800-1-768x512.jpg?resize=200,200&key=2d5f0633",
+        "date": "Tue, 13 May 2025 23:00:00 GMT"
     },
     {
         "title": "L'IA de Google, Gemini, remplace Google Assistant",
@@ -110,6 +138,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682325303da662a4b5f7fcc2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 13 May 2025 11:00:00 GMT"
+    },
+    {
+        "title": "Google Search AI Mode",
+        "link": "https://www.theverge.com/news/665560/google-search-ai-mode-feeling-lucky-tests#comments",
+        "body": "Les utilisateurs de Google Search commencent à voir apparaître l'option AI Mode, un moteur de recherche basé sur l'IA, dans leur barre de recherche. Google teste actuellement différents emplacements pour l'onglet AI Mode, qui peut remplacer le bouton \"I'm Feeling Lucky\" ou apparaître directement dans la barre de recherche. L'apparence du bouton AI Mode varie également, avec parfois une bordure arc-en-ciel tournante lors du survol. Bien que limité actuellement à un petit pourcentage d'utilisateurs aux États-Unis et à l'environnement expérimental Labs de Google, ce déploiement donne un aperçu de l'intégration future de l'IA dans le moteur de recherche. L'option AI Mode propose des réponses directes aux requêtes des utilisateurs, suggérant ainsi une efficacité supérieure à la page traditionnelle des résultats de recherche.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Google-AI-Mode-Feeling-Lucky.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 09:07:32 GMT"
     },
     {
         "title": "La philosophie de la décentralisation dans l'IA",
@@ -208,26 +243,5 @@
         "body": "Bien que les entreprises attribuent souvent la pénurie de talents en IA à la concurrence et aux questions de rémunération, le problème pourrait en réalité être interne : des cultures rigides, des dirigeants dépassés et l'incapacité à créer un environnement dans lequel les professionnels de l'IA ont envie de rester. Les experts suggèrent qu'il ne s'agit pas seulement du fait que ces professionnels sont difficiles à recruter, mais aussi du fait qu'ils sont faciles à perdre en raison de la mauvaise adéquation entre l'environnement de travail et les besoins uniques de la culture de l'IA. La solution réside dans la création d'une culture d'expérimentation, de collaboration et de pensée tournée vers l'avenir, ainsi que dans un leadership efficace qui favorise l'autonomie, protège les équipes des politiques internes et récompense l'expérimentation. Un tel environnement crée une force d'attraction et de rétention des talents en IA. La transparence et la vulnérabilité des dirigeants sont essentielles pour établir la confiance et encourager l'engagement des professionnels de l'IA. Enfin, la rétention des talents en IA dépend de la capacité des dirigeants à créer un environnement autonome, à protéger les équipes des politiques internes et à récompenser l'expérimentation.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682254568473cc5e1dd02afd/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 12 May 2025 20:00:00 GMT"
-    },
-    {
-        "title": "Les choix douteux de Sam Altman",
-        "link": "https://www.ft.com/content/b1804820-c74b-4d37-b112-1df882629541",
-        "body": "Le PDG d'OpenAI, Sam Altman, est interviewé dans la newsletter hebdomadaire du FT, discutant des capacités impressionnantes de l'IA. Cependant, l'article se concentre sur les choix douteux d'Altman dans sa cuisine, suggérant qu'ils pourraient refléter sa gestion d'OpenAI. L'utilisation par Altman d'une huile d'olive coûteuse et inappropriée pour la friture, son choix d'un couteau de cuisine coûteux mais mal adapté à la tâche, et sa machine à café automatisée mais inefficace sont soulignés comme des exemples de dépenses inutiles et d'inefficacité. L'auteur suggère que ces choix pourraient refléter une gestion imprudente d'OpenAI, avec des dépenses excessives et une course à l'insolvabilité. L'article soulève des questions sur la gestion d'Altman et la durabilité financière d'OpenAI.",
-        "image": "",
-        "date": "Mon, 12 May 2025 15:02:00 GMT"
-    },
-    {
-        "title": "La révolution des puces informatiques",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/12/pushing-the-limits-of-modern-llms-with-a-dinner-plate/?ss=ai",
-        "body": "La course à la puissance dans le domaine de l'IA se poursuit avec l'émergence de nouvelles technologies matérielles et logicielles. L'article présente le processeur Cerebras WSE, une puce massive de la taille d'une assiette, avec des centaines de milliers de cœurs et une capacité de contexte impressionnante. L'auteur explique les concepts de base des modèles linguistiques massifs, y compris la tokenisation, le contexte et l'inférence, et souligne l'importance de la puissance de calcul pour améliorer les performances de l'IA. La puce Cerebras est comparée à d'autres systèmes matériels, y compris les GPU Nvidia et les TPUs de Google, et se distingue par sa vitesse et sa capacité de contexte. L'article présente également différentes approches pour gérer de très grands fichiers et maintenir des performances élevées, ainsi que des cas d'utilisation pratiques dans des domaines tels que le juridique, le gouvernement et le trading. Enfin, l'auteur explore l'idée de repousser les limites de ces technologies, avec une touche d'humour ajoutée par ChatGPT.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68221932b9410d975a54b6ae/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 12 May 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Transformer les rejets en opportunités",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/05/12/5-chatgpt-prompts-to-turn-rejections-into-business-wins/?ss=ai",
-        "body": "L'article fournit cinq invites de ChatGPT pour aider les entrepreneurs à transformer les rejets en opportunités d'affaires. Les invites aident à changer la perspective sur les rejets, à les utiliser comme source d'amélioration et à les intégrer dans une stratégie de retour. Les exemples incluent : trouver l'humour dans un rejet, créer une déclaration personnelle de résilience, extraire des informations précieuses d'un rejet, planifier un retour stratégique et créer un « dossier de preuves » des rejets pour en tirer des leçons et inspirer les autres.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6820c9b067a3a4c145b02357/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 12 May 2025 14:00:00 GMT"
     }
 ]
