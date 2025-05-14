@@ -1,5 +1,12 @@
 [
     {
+        "title": "Décentraliser la découverte de médicaments",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/05/14/this-decentralized-ai-could-revolutionize-drug-development/?ss=ai",
+        "body": "Rowan Labs et le sous-réseau d'IA décentralisé Macrocosmos s'associent pour former des réseaux neuronaux d'IA afin d'accélérer la découverte de médicaments à faible coût. La clé de cette approche est la combinaison de simulations moléculaires de haute fidélité et d'IA décentralisée. Rowan Labs a lancé Egret-1, un ensemble de potentiels de réseau neuronal appris par machine pour simuler la chimie organique avec une précision atomique. En partenariat avec le sous-réseau 25 du protocole d'IA décentralisé Bittensor, Macrocosmos, ils visent à réduire le coût et le temps nécessaires à la découverte de nouveaux composés thérapeutiques. Au cœur de cette initiative se trouve l'idée d'entraîner des réseaux neuronaux d'IA non pas sur des données web récupérées, mais sur la physique en action, en particulier la mécanique quantique. Rowan Labs utilise des équations de mécanique quantique pour créer des ensembles de données synthétiques et entraîner des réseaux neuronaux à recréer les résultats de ces équations. Cette approche a déjà des applications pratiques, telles que la prédiction de propriétés pharmacologiques critiques. La génération de données synthétiques soulève des questions sur la fiabilité, mais Rowan Labs assure que ses données sont plus précises que celles obtenues à partir d'expériences physiques. L'objectif à court terme est de publier un article évalué par des pairs démontrant comment l'informatique décentralisée a généré la prochaine génération de modèles de simulation chimique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6823f7caf4e31110a1c32838/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 11:59:00 GMT"
+    },
+    {
         "title": "Les usages les plus courants de l'IA générative",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/05/14/top-ten-uses-of-ai-puts-therapy-and-companionship-at-the-1-spot/?ss=ai",
         "body": "Titre",
@@ -19,6 +26,13 @@
         "body": "Google a annoncé lors de son événement \"Android Show\" que son IA Gemini remplacera Google Assistant sur les montres connectées Pixel Watch. Gemini offrira un accès direct aux informations et aux requêtes complexes via les commandes vocales. Destiné à toutes les montres Wear OS, Samsung a confirmé son intégration sur les Galaxy Watch, permettant aux utilisateurs d'accéder à l'IA de Google via leurs montres et écouteurs Galaxy Buds 3. Gemini devrait également être déployé sur les montres Wear OS d'autres marques, remplaçant ainsi Google Assistant.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/samsung-galaxy-watch-7-9-1-1200x800-2-768x512.jpg?resize=200,200&key=f95a0b22",
         "date": "Tue, 13 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA en salle d'audience : un danger potentiel ?",
+        "link": "https://www.theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research#comments",
+        "body": "Un juge californien, Michael Wilner, a imposé des sanctions à deux cabinets d'avocats qui avaient utilisé de l'IA pour générer des citations et des recherches juridiques trompeuses. L'IA a inventé des citations et des décisions juridiques qui n'existaient pas, ce qui a failli induire le juge en erreur. Le juge Wilner souligne qu'aucun avocat compétent ne devrait externaliser la recherche et la rédaction à l'IA, car cela peut conduire à des résultats trompeurs et à des conséquences imprévues. Cet incident soulève des questions éthiques sur l'utilisation de l'IA dans le domaine juridique et met en lumière la nécessité d'une divulgation transparente de l'utilisation de l'IA, ainsi que d'une vérification rigoureuse des informations générées par l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 22:22:47 GMT"
     },
     {
         "title": "Créativité, propriété intellectuelle et IA",
@@ -215,12 +229,5 @@
         "body": "L'article fournit cinq invites de ChatGPT pour aider les entrepreneurs à transformer les rejets en opportunités d'affaires. Les invites aident à changer la perspective sur les rejets, à les utiliser comme source d'amélioration et à les intégrer dans une stratégie de retour. Les exemples incluent : trouver l'humour dans un rejet, créer une déclaration personnelle de résilience, extraire des informations précieuses d'un rejet, planifier un retour stratégique et créer un « dossier de preuves » des rejets pour en tirer des leçons et inspirer les autres.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6820c9b067a3a4c145b02357/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 12 May 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : l'intelligence émotionnelle",
-        "link": "https://www.forbes.com/sites/dangardner-1/2025/05/12/the-next-ai-revolution-isnt-technical-its-emotional/?ss=ai",
-        "body": "L'auteur suggère que l'intelligence artificielle (IA) est trop souvent réduite à sa capacité à générer des mots, des images et des vidéos de manière rapide et impressionnante, alors que sa véritable valeur réside dans sa capacité à générer des émotions. La vraie intelligence, qu'elle soit humaine ou artificielle, consiste à créer des connexions, à susciter des émotions et à comprendre les nuances des émotions humaines. L'IA émotionnelle a le potentiel de révolutionner divers secteurs, notamment la santé, les voyages, l'hospitalité et l'éducation, en offrant des expériences personnalisées et engageantes. Les entreprises qui utilisent l'IA uniquement pour l'efficacité des tâches seront dépassées par celles qui l'utilisent pour co-créer des expériences humaines enrichies émotionnellement. L'avenir de l'IA réside dans sa capacité à établir des connexions profondes plutôt que dans sa vitesse de calcul.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6821e3cbff0b3730e73b5d67/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 12 May 2025 12:15:00 GMT"
     }
 ]
