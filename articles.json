@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette nouveauté Google TV va transformer la façon dont vous utilisez votre télé",
+        "title": "Cette nouveaut\u00e9 Google TV va transformer la fa\u00e7on dont vous utilisez votre t\u00e9l\u00e9",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2613319_cette-nouveaute-google-tv-va-transformer-la-facon-dont-vous-utilisez-votre-tele",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/gemini-on-tv-question-1200x719-1-768x460.jpg?resize=180,180&key=b6725c9e",
         "date": "Mon, 12 May 2025 23:00:00 GMT",
@@ -215,5 +215,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68240a0a8ae2ef1ab881076b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 14 May 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 13 May 2025 22:22:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/05/14/this-decentralized-ai-could-revolutionize-drug-development/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6823f7caf4e31110a1c32838/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 11:59:00 GMT",
+        "check": "no"
     }
 ]
