@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette nouveauté Google TV va transformer la façon dont vous utilisez votre télé",
+        "title": "Cette nouveaut\u00e9 Google TV va transformer la fa\u00e7on dont vous utilisez votre t\u00e9l\u00e9",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2613319_cette-nouveaute-google-tv-va-transformer-la-facon-dont-vous-utilisez-votre-tele",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/gemini-on-tv-question-1200x719-1-768x460.jpg?resize=180,180&key=b6725c9e",
         "date": "Mon, 12 May 2025 23:00:00 GMT",
@@ -222,5 +222,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6824cae7d1a5caacf774d8ef/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 14 May 2025 17:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jasonsnyder/2025/05/14/ai-is-rewriting-reality-one-word-at-a-time/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6824e92f46c5d8e618c433c8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/arafatkabir/2025/05/14/how-powerful-nations-are-using-visas-to-win-the-global-ai-talent-race/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6824d7bbe0f213ef5439e4a9/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
