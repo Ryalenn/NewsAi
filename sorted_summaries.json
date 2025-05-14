@@ -1,10 +1,24 @@
 [
     {
+        "title": "Les usages les plus courants de l'IA générative",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/14/top-ten-uses-of-ai-puts-therapy-and-companionship-at-the-1-spot/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68240a0a8ae2ef1ab881076b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 14 May 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'éthique de l'IA : un enjeu de confiance",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/05/14/5-dangerous-myths-about-ai-ethics-you-shouldnt-believe/?ss=ai",
         "body": "Bien que l'IA puisse être un puissant moteur d'innovation et d'efficacité pour les entreprises, elle présente également des risques de dommages potentiels. Il est donc essentiel que les utilisateurs comprennent les cadres éthiques en place pour garantir la sécurité de tous. L'éthique de l'IA est comparable aux avertissements de sécurité dans un manuel d'utilisation, soulignant les bonnes pratiques et les précautions à prendre. Les préjugés humains peuvent se transmettre aux machines via les données d'apprentissage, ce qui peut conduire à des biais dans les décisions de l'IA. La course à la domination dans le domaine de l'IA entre les États-Unis et la Chine peut également influencer les choix éthiques, notamment en matière de transparence. De plus, il ne faut pas compter sur une autorité centralisée pour surveiller et corriger les mauvaises pratiques. Chacun a un rôle à jouer pour garantir une utilisation éthique de l'IA, en encourageant la transparence et en s'assurant que tous ont leur mot à dire dans l'établissement des normes acceptables. Enfin, l'éthique de l'IA n'est pas un luxe, mais une nécessité pour bâtir la confiance du public, sans laquelle l'IA ne pourra pas atteindre son plein potentiel pour résoudre des problèmes mondiaux complexes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68242fd44b3b3856e0b86cc9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 14 May 2025 05:54:00 GMT"
+    },
+    {
+        "title": "L'IA de Google, Gemini, remplace Google Assistant",
+        "link": "https://www.frandroid.com/marques/samsung/2614099_galaxy-watch-samsung-confirme-larrivee-de-cette-nouveaute-sur-ses-montres-connectees",
+        "body": "Google a annoncé lors de son événement \"Android Show\" que son IA Gemini remplacera Google Assistant sur les montres connectées Pixel Watch. Gemini offrira un accès direct aux informations et aux requêtes complexes via les commandes vocales. Destiné à toutes les montres Wear OS, Samsung a confirmé son intégration sur les Galaxy Watch, permettant aux utilisateurs d'accéder à l'IA de Google via leurs montres et écouteurs Galaxy Buds 3. Gemini devrait également être déployé sur les montres Wear OS d'autres marques, remplaçant ainsi Google Assistant.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/samsung-galaxy-watch-7-9-1-1200x800-2-768x512.jpg?resize=200,200&key=f95a0b22",
+        "date": "Tue, 13 May 2025 23:00:00 GMT"
     },
     {
         "title": "Créativité, propriété intellectuelle et IA",
@@ -208,26 +222,5 @@
         "body": "L'auteur suggère que l'intelligence artificielle (IA) est trop souvent réduite à sa capacité à générer des mots, des images et des vidéos de manière rapide et impressionnante, alors que sa véritable valeur réside dans sa capacité à générer des émotions. La vraie intelligence, qu'elle soit humaine ou artificielle, consiste à créer des connexions, à susciter des émotions et à comprendre les nuances des émotions humaines. L'IA émotionnelle a le potentiel de révolutionner divers secteurs, notamment la santé, les voyages, l'hospitalité et l'éducation, en offrant des expériences personnalisées et engageantes. Les entreprises qui utilisent l'IA uniquement pour l'efficacité des tâches seront dépassées par celles qui l'utilisent pour co-créer des expériences humaines enrichies émotionnellement. L'avenir de l'IA réside dans sa capacité à établir des connexions profondes plutôt que dans sa vitesse de calcul.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6821e3cbff0b3730e73b5d67/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 12 May 2025 12:15:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une course à l'éthique",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/12/calculating-the-risk-of-asi-starts-with-human-minds/?ss=ai",
-        "body": "L'article souligne l'importance de l'éthique dans le développement de l'IA, en particulier dans la course vers l'intelligence artificielle générale (IAG) et l'intelligence artificielle super-intelligente (IAS). Il met en évidence les risques associés à une course effrénée vers l'IAS, tels que la perte de contrôle et les dangers existentiels. Les chercheurs et les dirigeants d'entreprise appellent à une déclaration de sécurité de l'IA, soulignant la nécessité de faire de l'atténuation des risques d'extinction liés à l'IA une priorité mondiale. L'article explore les approches pour transformer la crainte en chiffres, avec des modèles de risque quantifiables. Il souligne l'importance de la surveillance conjointe de l'industrie et des universités, ainsi que de la recherche sur l'IA constitutionnelle et coopérative. L'article conclut que les aspirations façonnent les algorithmes et que l'alignement des valeurs est essentiel pour que l'IAS devienne un partenaire dans la prospérité partagée des individus et de la planète.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6821bdaea029661260c356e1/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 12 May 2025 09:00:00 GMT"
-    },
-    {
-        "title": "Honor AI Video Generator",
-        "link": "https://www.theverge.com/news/664812/google-honor-ai-image-to-video-gemini#comments",
-        "body": "Les acheteurs du Honor 400 seront les premiers à tester la technologie de Google permettant de créer des vidéos à partir d'images fixes. Cette fonctionnalité, intégrée à l'application Gallery, est alimentée par le modèle Veo 2 de Google et peut créer des vidéos de cinq secondes à partir d'images statiques en mode portrait ou paysage. La génération de la vidéo prend une à deux minutes. Bien qu'il n'y ait pas d'option pour ajouter un texte, la fonctionnalité offre des résultats impressionnants, notamment en animant de manière réaliste des sujets simples comme des personnes ou des animaux de compagnie. La fonctionnalité sera gratuite pour les propriétaires du Honor 400 pendant les deux premiers mois, avec une limite de 10 vidéos par jour, mais nécessitera ensuite un abonnement payant.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VID_20250512_084119.gif?quality=90&strip=all&crop=7.7102803738318%2C0%2C84.579439252336%2C100&w=2400",
-        "date": "Mon, 12 May 2025 08:45:06 GMT"
-    },
-    {
-        "title": "Une nouvelle technique de génération de texte : la chaîne de brouillons",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/12/prompt-engineering-welcomes-new-chain-of-draft-technique-improving-classical-chain-of-thought/?ss=ai",
-        "body": "Titre: Optimiser la génération de texte avec la chaîne de brouillons",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/681fe9798b2392df68d842bc/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 12 May 2025 07:00:00 GMT"
     }
 ]
