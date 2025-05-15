@@ -1,5 +1,19 @@
 [
     {
+        "title": "Microsoft déploie la commande vocale pour Windows 11",
+        "link": "https://www.frandroid.com/marques/2615599_microsoft-deploie-enfin-la-commande-vocale-hey-copilot-pour-windows-11",
+        "body": "Microsoft teste une nouvelle fonctionnalité permettant aux utilisateurs de Windows 11 de lancer Copilot, son assistant vocal, en disant simplement \"Hey Copilot !\". Cette fonction s'inscrit dans une refonte plus large de Copilot, visant à offrir des conversations plus naturelles et moins rigides. Les utilisateurs doivent disposer de la version 1.25051.10.0 ou plus récente de l'application Copilot et activer manuellement l'option dans les paramètres. Une fois configuré, un petit microphone apparaît à l'écran et l'assistant se réveille avec un signal sonore. Le déploiement est progressif, actuellement disponible uniquement pour les testeurs Windows Insiders avec Windows 11 en anglais.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-35-5-1200x556-1-768x356.jpg?resize=300,300&key=810bfbc7",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "OpenAI met à niveau ChatGPT avec GPT-4.1",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2615587_openai-deploie-gpt-4-1-sur-chatgpt-ce-que-ca-change-pour-vous",
+        "body": "OpenAI a mis à niveau ChatGPT en intégrant les modèles GPT-4.1 et GPT-4.1 mini, avec un accent particulier sur l'amélioration des capacités de programmation et de compréhension des demandes techniques. GPT-4.1 surpasse son prédécesseur dans ces domaines tout en restant plus rapide que les modèles de raisonnement plus lents de la série \"o\" d'OpenAI. La version complète de GPT-4.1 est disponible pour les abonnés payants de ChatGPT, tandis que la version \"mini\", optimisée pour être plus légère, est proposée aux utilisateurs gratuits. Cette mise à jour reflète l'effervescence du marché des assistants de programmation IA, avec Google misant également sur Gemini en l'intégrant à GitHub. OpenAI envisagerait également d'acquérir l'outil de codage IA populaire, Windsurf, pour un montant de 3 milliards de dollars, soulignant l'importance financière croissante de ce domaine.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-35-4-1200x675-1-768x432.jpg?resize=169,169&key=2c52775a",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
         "link": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0,0,100,100",
         "body": "L'IA en tant que force géopolitique majeure",
@@ -208,12 +222,5 @@
         "body": "L'article souligne l'importance de la philosophie dans le développement et l'intégration de l'IA, en particulier en ce qui concerne la décentralisation du Web et des nouvelles technologies. Il met en évidence les travaux de recherche d'Abhishek Singh, qui explore le concept de « trilemme » de l'intelligence en relation avec la continuité, l'hétérogénéité et la scalabilité. Singh discute également de la « théorie du chaos 2.0 » et de la façon dont les réseaux et les algorithmes décentralisés peuvent conduire à une forme d'intelligence artificielle auto-organisée et émergentiste. L'auteur de l'article fait également référence au principe de « Society of the Mind » de Marvin Minsky, soulignant l'importance de la collaboration et de l'interaction entre les systèmes d'IA. L'article aborde ensuite les défis de la décentralisation, notamment les questions de confidentialité, de vérification et d'incitation. Il présente également le concept de « NANDA » (Networked Agents and Decentralized AI), un projet sur lequel Singh et d'autres chercheurs travaillent, qui vise à créer un Internet décentralisé avec la puissance de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68223c553965619ba1bd2e9e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 13 May 2025 09:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'industrie de la restauration avec l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/05/13/how-generative-ai-will-affect-jobs-in-restaurants-and-hospitality/?ss=ai",
-        "body": "L'intelligence artificielle (IA) est en train de transformer l'industrie de la restauration, des chaînes de restauration rapide aux restaurants gastronomiques. Bien que les compétences d'un chef humain soient difficiles à émuler pour les machines, l'IA peut automatiser les tâches routinières et améliorer la créativité culinaire. Les grandes entreprises mènent actuellement la tendance, mais les petites entreprises, qui représentent 70 % de l'industrie, peuvent également tirer parti de l'IA. Par exemple, des outils d'IA générative comme ChatGPT peuvent être utilisés pour créer des menus en analysant les préférences des clients, les tendances diététiques et la disponibilité des ingrédients saisonniers. L'IA peut également aider les propriétaires de restaurants à prendre de meilleures décisions commerciales en comprenant les tendances, les emplacements et les préférences des clients. Bien que l'IA ne remplacera pas les emplois de chef ou de cuisinier de sitôt, elle peut aider à la gestion des stocks et à la planification, donnant ainsi aux chefs plus de temps pour expérimenter et innover. Les robots et l'IA peuvent gérer la gestion des stocks et le remplacement ou la planification des quarts de travail, permettant aux chefs de se concentrer sur la recherche d'ingrédients nouveaux et frais. De même, les professionnels de l'hôtellerie et de la restauration passeront plus de temps sur des décisions stratégiques et des interactions avec les clients. Les compétences clés évolueront vers l'utilisation d'outils intelligents et l'interprétation des données et des informations qu'ils fournissent. L'IA ne remplacera pas les rôles humains, mais les fera évoluer, et les chefs et les professionnels de l'hôtellerie devront développer leurs compétences numériques et leur littératie en IA pour rester au sommet de leur jeu.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6822db3835380420f28e3b53/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 05:32:00 GMT"
     }
 ]
