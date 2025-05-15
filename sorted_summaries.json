@@ -49,6 +49,13 @@
         "date": "Thu, 15 May 2025 07:00:00 GMT"
     },
     {
+        "title": "SoundCloud respecte la propriété intellectuelle des artistes",
+        "link": "https://www.theverge.com/news/667420/soundcloud-ai-training-copyright-tos#comments",
+        "body": "SoundCloud, une plateforme de partage de musique, s'engage à ne pas utiliser les contenus téléchargés par les artistes pour entraîner des modèles d'IA qui pourraient reproduire ou synthétiser leur contenu ou leur identité. L'entreprise affirme n'avoir jamais utilisé les contenus des artistes à cette fin et mettra à jour ses conditions d'utilisation pour clarifier sa position. La nouvelle formulation interdira l'utilisation de contenus pour entraîner des modèles d'IA générative sans le consentement explicite des artistes. Malgré ces changements, un éthicien tech estime que la formulation pourrait encore permettre à SoundCloud d'entraîner des modèles concurrents sans consentement explicite.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383595/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 14 May 2025 23:14:46 GMT"
+    },
+    {
         "title": "L'IA au service de l'accessibilité",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2616859_google-ajoute-gemini-a-talkback-et-ca-change-tout-on-vous-explique-pourquoi",
         "body": "Google intègre Gemini à TalkBack, son lecteur d'écran pour Android, permettant aux utilisateurs aveugles ou malvoyants d'interagir par la conversation avec le contenu visuel. Gemini analyse l'écran et fournit des réponses contextuelles aux questions posées. Cette approche transforme l'expérience mobile, offrant une véritable conversation avec l'interface. De plus, les \"Expressive Captions\" améliorent l'accessibilité pour les malentendants en détectant la durée et l'intonation des mots. Chrome intègre également la reconnaissance OCR pour les PDF, améliorant la navigation web accessible. Ces innovations de Google suppriment les barrières entre information visuelle et accessibilité, rendant les technologies plus inclusives.",
@@ -236,26 +243,5 @@
         "body": "Résumé : \n\nDes personnalités britanniques du monde de la création, dont Paul McCartney et Elton John, ont signé une lettre ouverte exigeant une transparence accrue en matière de droits d'auteur de la part des entreprises d'IA. La lettre soutient un amendement au projet de loi britannique sur les données (utilisation et accès), proposé par la baronne Beeban Kidron, qui exigerait des entreprises d'IA qu'elles divulguent les œuvres protégées par le droit d'auteur utilisées pour entraîner leurs modèles. L'amendement, qui a été adopté par la Chambre des Lords, fait désormais l'objet d'un débat à la Chambre des Communes. La lettre met en garde contre le fait que ne pas contrôler l'utilisation de leur travail créatif par les entreprises technologiques étrangères pourrait nuire à l'avenir de l'industrie créative britannique et à ses revenus futurs. L'amendement proposé encouragerait un marché dynamique de la licence, renforçant ainsi le rôle de la créativité humaine dans le développement de l'IA. Des entreprises comme OpenAI et Meta ont déjà été accusées d'utiliser des matériaux protégés par le droit d'auteur sans permission. La baronne Kidron souligne l'importance de ces questions pour l'économie britannique et pour l'avenir du secteur de la création, évalué à 120 milliards de livres sterling.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214813718.jpg?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
         "date": "Tue, 13 May 2025 22:01:30 GMT"
-    },
-    {
-        "title": "Republicains contre la régulation de l'IA par les états",
-        "link": "https://www.theverge.com/news/666288/republican-ai-state-regulation-ban-10-years",
-        "body": "Les législateurs républicains américains ont proposé une loi pour empêcher les états de réglementer l'IA et les systèmes informatiques automatisés pendant 10 ans. Cette proposition, intégrée à un projet de loi de réconciliation budgétaire, est considérée comme un \"cadeau\" pour les grandes entreprises technologiques par les démocrates et les organisations de surveillance de l'IA. La loi définit les \"systèmes de prise de décision automatisés\" de manière très large, incluant potentiellement les résultats de recherche en ligne, les diagnostics de santé et les analyses de risques pour les décisions judiciaires. Les organisations de défense des droits numériques et de la démocratie s'opposent à cette proposition, arguant qu'elle entraverait les efforts des états pour protéger les consommateurs et combattre la discrimination algorithmique. La proposition est critiquée pour son manque de considération des implications éthiques et sociales de l'IA et pour son potentiel de nuire aux communautés marginalisées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 21:10:51 GMT"
-    },
-    {
-        "title": "La révolution de l'efficacité énergétique dans le traitement du langage naturel",
-        "link": "https://www.forbes.com/sites/alexknapp/2025/05/13/the-prompt-this-chip-could-halve-ai-power-consumption/?ss=ai",
-        "body": "Des chercheurs de l'Oregon State University ont développé une puce de traitement pour les grands modèles linguistiques qui réduit leur consommation d'énergie de moitié en résolvant un problème clé du traitement de l'IA : la corruption des données. La puce intègre un composant qui utilise l'apprentissage automatique pour identifier et corriger les erreurs survenant lors de la transmission des données, éliminant ainsi le besoin d'un égaliseur énergivore. Cette innovation pourrait réduire considérablement la consommation énergétique des modèles linguistiques de grande taille, qui nécessitent actuellement des quantités importantes d'énergie pour fonctionner.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6823a5708026ed74b172700e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 20:22:00 GMT"
-    },
-    {
-        "title": "TikTok lance un nouvel outil d'animation d'images basé sur l'IA",
-        "link": "https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video#comments",
-        "body": "TikTok lance un nouvel outil basé sur l'IA appelé « AI Alive » qui permet d'animer des photos. Accessible via la Story Camera de TikTok, cet outil utilise des outils d'édition intelligents pour permettre aux utilisateurs de transformer des images statiques en vidéos courtes et captivantes, améliorées par des mouvements et des effets atmosphériques et créatifs. Les utilisateurs peuvent décrire le style et le contenu souhaités pour la vidéo. TikTok a mis en place des mesures de sécurité pour éviter les abus, avec une modération de la technologie qui vérifie le contenu généré avant sa publication. Les vidéos créées avec cet outil seront étiquetées comme étant générées par l'IA et contiendront des métadonnées C2PA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 19:50:23 GMT"
     }
 ]
