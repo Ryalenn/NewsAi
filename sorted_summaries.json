@@ -1,10 +1,52 @@
 [
     {
+        "title": "La bataille de Meta pour utiliser les données européennes pour l'IA continue",
+        "link": "https://www.forbes.com/sites/emmawoollacott/2025/05/15/meta-accused-of-still-flouting-privacy-rules-with-ai-training-data/?ss=ai",
+        "body": "Meta fait face à une nouvelle opposition de la part du groupe de défense de la vie privée noyb concernant son utilisation des données personnelles des utilisateurs européens pour entraîner ses modèles d'IA. Après avoir interrompu temporairement l'entraînement de ses modèles en Europe l'année dernière, Meta a annoncé le mois dernier son intention de reprendre l'entraînement en utilisant les publications et commentaires publics des adultes, ainsi que les interactions des utilisateurs avec Meta AI. Meta affirme qu'il se conforme à l'avis émis par le European Data Protection Board (EDPB) à la fin de l'année dernière, qui clarifiait les obligations légales de l'entreprise. Cependant, noyb conteste cette affirmation, affirmant que Meta ignore les autorités de protection des données de l'UE et qu'il n'a reçu aucun feu vert officiel pour reprendre l'entraînement de ses modèles. Noyb a envoyé une lettre de cessation et d'abstention à Meta, menaçant d'une action en justice européenne. L'organisation remet également en question la revendication de Meta selon laquelle son « intérêt légitime » lui permet d'utiliser les données des utilisateurs sans leur consentement explicite, et souligne que Meta pourrait ne pas être en mesure de respecter d'autres droits du RGPD, tels que le droit à l'oubli et le droit à la rectification des données incorrectes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6825e027bee47a1c0e1067fe/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 15 May 2025 12:40:00 GMT"
+    },
+    {
+        "title": "Waymo Software Update Recall",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/05/15/waymo-issues-recall-on-robotaxis-but-thats-the-wrong-word/?ss=ai",
+        "body": "Waymo a procédé au rappel volontaire de ses 1 200 robotaxis pour une mise à jour logicielle, suite à plusieurs incidents mineurs impliquant des objets de petite taille. Bien qu'aucun dommage important ni blessure n'aient été signalés, Waymo a tout de même procédé à cette mise à jour à distance, tout comme d'autres entreprises de robotaxis telles que Tesla et Cruise. Cet événement soulève des questions intéressantes sur la réglementation et la sécurité des voitures autonomes, notamment en ce qui concerne les rappels et les mises à jour logicielles. L'article explore également l'implication de la NHTSA (National Highway Traffic Safety Administration) dans ces décisions et suggère que des termes différents devraient être utilisés pour ces rappels spécifiques aux véhicules autonomes. Enfin, il met en lumière les enjeux potentiels liés aux rappels de voitures autonomes à grande échelle, qui pourraient avoir un impact significatif sur la mobilité des personnes dépendantes de ces services.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6825548addb9a81790bef694/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 15 May 2025 11:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA et l'apprentissage continu",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/05/15/after-reaching-agi-some-insist-there-wont-be-anything-left-for-humans-to-teach-ai-about/?ss=ai",
         "body": "L'auteur aborde l'idée répandue selon laquelle, une fois que l'IA aura atteint le niveau d'intelligence artificielle générale (IAG), elle n'aura plus rien à apprendre des humains. Il réfute cette affirmation, soulignant que l'IAG devra continuer à apprendre et à évoluer, même dans un monde post-IAG. L'IAG sera principalement formée à partir de documents écrits, mais il restera toujours des connaissances humaines non documentées ou non accessibles en ligne. De plus, les humains continueront à produire de nouvelles idées et connaissances, même après l'avènement de l'IAG. L'auteur suggère que l'IAG devra rester à jour avec ces nouveaux développements, et que les humains et l'IAG pourront apprendre l'un de l'autre dans une relation synergique bénéfique pour les deux parties.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682534d640f3259ba94af4f5/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 15 May 2025 07:00:00 GMT"
+    },
+    {
+        "title": "La nouvelle IA de Google résout des problèmes informatiques complexes",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2615951_la-nouvelle-ia-de-google-sait-carrement-reparer-des-problemes-informatiques",
+        "body": "Google DeepMind présente AlphaEvolve, un agent IA de codage basé sur les modèles Gemini. Capable de résoudre des problèmes informatiques complexes, il améliore l'efficacité de Google. AlphaEvolve intègre un processus d'auto-évaluation pour corriger les réponses erronées ou biaisées, un défi majeur pour les chatbots IA. Déjà déployé chez Google, il a optimisé la gestion des ressources informatiques et amélioré l'efficacité de Gemini. Adaptable à différents secteurs, AlphaEvolve est destiné à la recherche, Google invitant les universitaires à y accéder.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-35-8-768x431.jpg?resize=168,168&key=52ecf028",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Meta dans le collimateur du RGPD",
+        "link": "https://www.frandroid.com/marques/meta/2616109_vous-vous-etes-opposes-au-traitement-de-vos-donnees-par-lia-de-facebook-il-faut-sans-doute-que-vous-le-refassiez",
+        "body": "Facebook est sous le feu des projecteurs en matière de protection des données, l'activiste Max Schrems et son association Noyb menaçant l'entreprise d'un procès pour son utilisation prévue des données des utilisateurs pour entraîner son IA. Meta avait déjà tenté de déployer son IA en Europe, permettant aux utilisateurs de s'y opposer via un formulaire. Cependant, Noyb affirme que Meta pourrait ne pas respecter ces oppositions, exigeant un nouveau consentement et remettant en question la confiance dans la volonté de l'entreprise de respecter les choix des utilisateurs. L'association menace d'une action de groupe qui pourrait coûter cher à Meta. Les utilisateurs soucieux de protéger leurs données peuvent remplir le formulaire de refus sur le site de Meta. Schrems souligne également que Meta utilise la justification de « l'intérêt légitime » pour se soustraire à l'obligation de consentement des utilisateurs, ce qui pourrait conduire à un affrontement juridique intéressant.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/z-8-1200x675-1-768x432.jpg?resize=169,169&key=218c131b",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'arrivée de Gemini sur Google Messages",
+        "link": "https://www.frandroid.com/android/applications/google-apps/2616133_nouveaute-google-messages-en-france-voici-comment-vous-pouvez-tester-gemini",
+        "body": "Google Messages intègre désormais Gemini, l'IA de Google, accessible via un logo en bas à droite de l'écran. En cliquant sur l'icône, les utilisateurs peuvent discuter avec Gemini, qui propose son aide pour rédiger des messages, trouver des idées ou planifier des événements. L'IA se base sur le modèle linguistique Gemini 2.5 Pro. La fonctionnalité est désormais disponible en France et dans l'Union européenne, après une période d'attente pour des raisons légales.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-sur-google-messages-1200x675-1-768x432.jpg?resize=169,169&key=a13361ce",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google teste un nouveau bouton « AI Mode »",
+        "link": "https://www.frandroid.com/marques/google/2615763_google-songe-a-se-debarrasser-de-lune-de-ses-plus-anciennes-fonctions",
+        "body": "Google teste actuellement un nouveau bouton « AI Mode » sur sa page d'accueil, qui pourrait remplacer le bouton « J'ai de la chance » sous la barre de recherche. Ce changement vise à intégrer davantage l'IA Gemini et ses outils dans les services de Google. Le bouton « AI Mode » a été aperçu à différents endroits de la page d'accueil lors des phases de test, mais seul un petit pourcentage d'utilisateurs américains y a actuellement accès. La firme réfléchit à retirer la fonction « J'ai de la chance », l'une des plus anciennes, pour proposer un mode permettant d'interroger son chatbot plutôt que de faire une recherche classique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-logo-pawel-czerwinski-fpzzev0uqwa-unsplash-1200x800-2-768x512.jpg?resize=200,200&key=d0d0c0f2",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft déploie la commande vocale pour Windows 11",
@@ -26,6 +68,13 @@
         "body": "L'IA en tant que force géopolitique majeure",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 14 May 2025 21:30:00 GMT"
+    },
+    {
+        "title": "Copilot Voice Activation",
+        "link": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation#comments",
+        "body": "Microsoft teste une nouvelle fonctionnalité pour Copilot Voice, permettant aux utilisateurs de Windows 11 de lancer l'application par commande vocale en disant « Hey Copilot ! ». Les testeurs beta peuvent désormais essayer cette fonctionnalité en optant pour l'application mise à jour. Bien que des commandes similaires existent déjà avec Siri, Google, Alexa, et même l'ancien assistant Cortana de Microsoft, c'est une nouvelle fonctionnalité pour Copilot, qui vise à faciliter l'accès à l'application. La fonctionnalité est disponible pour les testeurs dans le monde entier ayant l'anglais comme langue d'affichage, et nécessite une activation manuelle. Une fois activée, un micro flottant s'affiche à l'écran et une notification sonore indique que Copilot écoute. La détection du mot de réveil est effectuée sur l'appareil, sans enregistrement audio, et la fonctionnalité vocale nécessite une connexion Internet pour accéder au traitement dans le cloud.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Hey-Copilot-approved.jpg?quality=90&strip=all&crop=5.42%2C0%2C84.36%2C100&w=2400",
+        "date": "Wed, 14 May 2025 19:48:22 GMT"
     },
     {
         "title": "Grok's Weird Response",
@@ -194,26 +243,5 @@
         "body": "Spotify offre désormais à ses abonnés Premium la possibilité d'utiliser des commandes vocales en anglais pour personnaliser la musique jouée par sa fonctionnalité DJ basée sur l'IA. Les utilisateurs peuvent demander à l'assistant vocal de jouer un certain style de musique, un artiste particulier ou une ambiance spécifique. Par exemple, « joue-moi des rythmes électroniques pour ma course de milieu de journée » ou « surprends-moi avec des titres indie que je n'ai jamais entendus ». La fonctionnalité permet également de demander des recommandations musicales basées sur des ambiances, comme « joue-moi une musique qui correspond à ma vie en tant que film ». Les utilisateurs peuvent accéder à cette fonctionnalité en appuyant longuement sur le bouton DJ et en attendant un signal sonore avant de donner leur commande vocale.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Spotify-AI-DJ.jpg?quality=90&strip=all&crop=7.0040899795501%2C0%2C85.9918200409%2C100&w=2400",
         "date": "Tue, 13 May 2025 13:00:00 GMT"
-    },
-    {
-        "title": "The AI Revolution and Bug-Free Design",
-        "link": "https://www.theverge.com/the-vergecast/665626/sonos-speaker-ants-ai-podcasts-vergecast#comments",
-        "body": "Cet épisode de *The Vergecast* aborde d'abord un problème inattendu dans la conception de produits électroniques : leur attrait pour les insectes, qui peut avoir des conséquences sérieuses. Will Poor partage son expérience avec des haut-parleurs Sonos infestés d'insectes et explore les théories en ligne sur le lien entre la conception des gadgets et les insectes. La section suivante présente Andru Marino discutant de la révolution des podcasts générés par l'IA, en particulier le bot NotebookLM, et de la façon dont l'IA façonne le paysage des podcasts. Enfin, l'émission répond à une question sur les complexités de l'éclairage intelligent, soulignant la différence entre les ampoules intelligentes et les interrupteurs intelligents.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_VST_0513_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 12:37:57 GMT"
-    },
-    {
-        "title": "La Révolution Numérique du Vatican",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/05/13/faith-meets-ai-and-tech-in-vaticans-bold-move-under-pope-leo-xiv/?ss=ai",
-        "body": "Le nouveau pape, Leo XIV, l'un des plus jeunes papes depuis des décennies, annonce son soutien à l'utilisation de l'IA et des technologies numériques pour propager l'Évangile. Le pape Leo encourage les dirigeants de l'Église à adopter l'IA avec sagesse, en respectant la dignité humaine et en élevant la compréhension spirituelle. Le Vatican, sous la direction du pape Francis, avait déjà commencé à explorer l'utilisation de la technologie avec la startup HolyDeeds, spécialisée dans la combinaison du récit sacré et de l'art numérique immersif. HolyDeeds a créé le Immersive Faith Project, qui comprend des récits visuels à 360 degrés de Jésus, Marie et les saints, ainsi que des rendus animés du Livre des Psaumes. L'entreprise vise à rendre la foi accessible à une nouvelle génération, en proposant une expérience de la foi à la fois moderne et intemporelle. Le pape Leo soutient cette initiative, qui marque une nouvelle étape dans la mission millénaire de l'Église de propager l'Évangile, en utilisant désormais les outils de la révolution numérique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68229aa61ec455dde2fbca9b/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 12:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : adoption, défis et opportunités",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/05/13/10-key-findings-from-aws-generative-ai-adoption-index/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682325303da662a4b5f7fcc2/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 11:00:00 GMT"
     }
 ]
