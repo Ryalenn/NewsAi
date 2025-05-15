@@ -180,5 +180,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6824d7bbe0f213ef5439e4a9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 14 May 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0,0,100,100",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 14 May 2025 21:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 14 May 2025 19:17:29 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
+        "image": "",
+        "date": "Wed, 14 May 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2171594150.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 14 May 2025 14:02:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/666605/nvidias-flattery-of-trump-wins-reversal-of-ai-chip-limits-and-a-huawei-clampdown#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214285765.jpg?quality=90&strip=all&crop=32.4%2C32.066648145884%2C57.866662597656%2C57.866706088602&w=2400",
+        "date": "Wed, 14 May 2025 10:40:56 GMT",
+        "check": "no"
     }
 ]
