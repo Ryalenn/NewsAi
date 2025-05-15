@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA et l'apprentissage continu",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/15/after-reaching-agi-some-insist-there-wont-be-anything-left-for-humans-to-teach-ai-about/?ss=ai",
+        "body": "L'auteur aborde l'idée répandue selon laquelle, une fois que l'IA aura atteint le niveau d'intelligence artificielle générale (IAG), elle n'aura plus rien à apprendre des humains. Il réfute cette affirmation, soulignant que l'IAG devra continuer à apprendre et à évoluer, même dans un monde post-IAG. L'IAG sera principalement formée à partir de documents écrits, mais il restera toujours des connaissances humaines non documentées ou non accessibles en ligne. De plus, les humains continueront à produire de nouvelles idées et connaissances, même après l'avènement de l'IAG. L'auteur suggère que l'IAG devra rester à jour avec ces nouveaux développements, et que les humains et l'IAG pourront apprendre l'un de l'autre dans une relation synergique bénéfique pour les deux parties.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682534d640f3259ba94af4f5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 15 May 2025 07:00:00 GMT"
+    },
+    {
         "title": "Microsoft déploie la commande vocale pour Windows 11",
         "link": "https://www.frandroid.com/marques/2615599_microsoft-deploie-enfin-la-commande-vocale-hey-copilot-pour-windows-11",
         "body": "Microsoft teste une nouvelle fonctionnalité permettant aux utilisateurs de Windows 11 de lancer Copilot, son assistant vocal, en disant simplement \"Hey Copilot !\". Cette fonction s'inscrit dans une refonte plus large de Copilot, visant à offrir des conversations plus naturelles et moins rigides. Les utilisateurs doivent disposer de la version 1.25051.10.0 ou plus récente de l'application Copilot et activer manuellement l'option dans les paramètres. Une fois configuré, un petit microphone apparaît à l'écran et l'assistant se réveille avec un signal sonore. Le déploiement est progressif, actuellement disponible uniquement pour les testeurs Windows Insiders avec Windows 11 en anglais.",
@@ -208,19 +215,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682325303da662a4b5f7fcc2/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 13 May 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Google Search AI Mode",
-        "link": "https://www.theverge.com/news/665560/google-search-ai-mode-feeling-lucky-tests#comments",
-        "body": "Les utilisateurs de Google Search commencent à voir apparaître l'option AI Mode, un moteur de recherche basé sur l'IA, dans leur barre de recherche. Google teste actuellement différents emplacements pour l'onglet AI Mode, qui peut remplacer le bouton \"I'm Feeling Lucky\" ou apparaître directement dans la barre de recherche. L'apparence du bouton AI Mode varie également, avec parfois une bordure arc-en-ciel tournante lors du survol. Bien que limité actuellement à un petit pourcentage d'utilisateurs aux États-Unis et à l'environnement expérimental Labs de Google, ce déploiement donne un aperçu de l'intégration future de l'IA dans le moteur de recherche. L'option AI Mode propose des réponses directes aux requêtes des utilisateurs, suggérant ainsi une efficacité supérieure à la page traditionnelle des résultats de recherche.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Google-AI-Mode-Feeling-Lucky.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 09:07:32 GMT"
-    },
-    {
-        "title": "La philosophie de la décentralisation dans l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/?ss=ai",
-        "body": "L'article souligne l'importance de la philosophie dans le développement et l'intégration de l'IA, en particulier en ce qui concerne la décentralisation du Web et des nouvelles technologies. Il met en évidence les travaux de recherche d'Abhishek Singh, qui explore le concept de « trilemme » de l'intelligence en relation avec la continuité, l'hétérogénéité et la scalabilité. Singh discute également de la « théorie du chaos 2.0 » et de la façon dont les réseaux et les algorithmes décentralisés peuvent conduire à une forme d'intelligence artificielle auto-organisée et émergentiste. L'auteur de l'article fait également référence au principe de « Society of the Mind » de Marvin Minsky, soulignant l'importance de la collaboration et de l'interaction entre les systèmes d'IA. L'article aborde ensuite les défis de la décentralisation, notamment les questions de confidentialité, de vérification et d'incitation. Il présente également le concept de « NANDA » (Networked Agents and Decentralized AI), un projet sur lequel Singh et d'autres chercheurs travaillent, qui vise à créer un Internet décentralisé avec la puissance de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68223c553965619ba1bd2e9e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 09:00:00 GMT"
     }
 ]
