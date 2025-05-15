@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'IA prédictive rencontre l'IA générative",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/05/15/5-ways-to-hybridize-predictive-ai-and-generative-ai/?ss=ai",
+        "body": "L'IA, tant prédictive que générative, fait face à des limitations qui compromettent sa valeur. L'IA prédictive a un problème d'accessibilité, nécessitant des compétences semi-techniques pour son déploiement, tandis que l'IA générative souffre de problèmes de fiabilité, avec des hallucinations fréquentes dans les résultats. La solution proposée est leur combinaison : l'IA prédictive peut aider à guider l'IA générative, en prédisant quand une intervention humaine est nécessaire, améliorant ainsi sa fiabilité. De son côté, l'IA générative peut rendre l'IA prédictive plus accessible aux utilisateurs non-techniques, par exemple via des chatbots qui agissent comme des assistants virtuels. L'article explore cinq façons dont ces deux types d'IA peuvent travailler ensemble, y compris l'amélioration des tâches de traitement du langage naturel et la création de nouvelles fonctionnalités pour les modèles prédictifs. En fin de compte, combiner l'IA prédictive et générative peut conduire à des résultats de projet plus solides, éloignant le domaine de l'IA de l'hyperbole et vers une valeur réelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68262c875b50fa837502939a/0x0.jpg?format=jpg&crop=1280,720,x0,y79,safe&width=440",
+        "date": "Thu, 15 May 2025 18:25:00 GMT"
+    },
+    {
         "title": "La course à l'IA s'intensifie",
         "link": "https://www.forbes.com/sites/sylvainduranton/2025/05/15/why-europe-needs-a-sovereign-cloud-in-the-ai-race/?ss=ai",
         "body": "Résumé : \n\nLa course mondiale à la domination dans le domaine de l'IA s'intensifie, avec les États-Unis, la Chine et l'Europe en tête. Les États-Unis mènent actuellement grâce à leur puissance d'investissement, attirant les meilleurs talents et disposant d'une immense capacité de centre de données et d'accès aux microprocesseurs de dernière génération. La Chine, quant à elle, investit massivement dans la recherche publique et produit un grand nombre de brevets. L'Europe occupe la troisième place, avec une capacité de centre de données, une réserve de spécialistes de l'IA, une production de modèles significatifs et une publication de recherches respectables. L'accès à la puissance informatique et la maîtrise des plateformes de gestion des données seront des facteurs décisifs pour la compétitivité et la souveraineté. Bien que l'Europe ait pris des mesures réglementaires, comme le projet de loi sur le cloud et le développement de l'IA, son véritable succès dépendra de l'émergence de champions du cloud de classe mondiale. Pour y parvenir, l'Europe doit adopter un cadre réglementaire pragmatique et unique, abandonner l'idée d'un seul fournisseur par pays et accepter les fusions nécessaires à l'émergence de champions continentaux.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68260406449a2dc3df466328/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 15 May 2025 15:18:00 GMT"
+    },
+    {
+        "title": "La plateforme IA de ServiceNow : transformer l'entreprise grâce à l'IA et à l'automatisation des workflows",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/05/15/servicenow-solidifies-grand-enterprise-ai-ambitions-at-knowledge-2025/?ss=ai",
+        "body": "Résumé : \n\nServiceNow, une entreprise spécialisée dans la gestion des services informatiques et l'automatisation des workflows, dévoile sa plateforme IA lors de la conférence Knowledge 2025. La plateforme vise à soutenir tout modèle IA, agent, type de données, workflow, cloud et système pour toute industrie. L'objectif est d'éliminer la nécessité pour les employés d'utiliser plusieurs applications pour accomplir leurs tâches, en offrant une vue unifiée des opérations et en gérant les workflows de manière efficace. La plateforme IA de ServiceNow se concentre sur l'accélération de chaque aspect d'une entreprise grâce à une meilleure gestion des workflows, avec un accent particulier sur la vitesse et l'efficacité. L'entreprise présente des exemples concrets de ses avantages, comme la réduction du temps de traitement des demandes d'approvisionnement chez AstraZeneca. La plateforme est construite pour gérer n'importe quel modèle LLM, avec le lancement du modèle Apriel Nemotron 15B LLM, développé en collaboration avec Nvidia. ServiceNow ambitionne de révolutionner la façon dont les entreprises gèrent leurs workflows, en particulier dans le CRM, en offrant une approche centrée sur les workflows. La réussite de cette initiative pourrait menacer les acteurs établis dans le CRM, l'ERP, le HCM et d'autres domaines. La plateforme nécessite une intégration soigneuse et une évolution des pratiques d'intégration de données pour éviter les complexités. La clé du succès réside dans la présentation de cas clients concrets démontrant les avantages de la plateforme.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68260894a89b6bb35ebfa619/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 15 May 2025 15:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA dans les entreprises",
@@ -33,6 +47,13 @@
         "body": "L'auteur aborde l'idée répandue selon laquelle, une fois que l'IA aura atteint le niveau d'intelligence artificielle générale (IAG), elle n'aura plus rien à apprendre des humains. Il réfute cette affirmation, soulignant que l'IAG devra continuer à apprendre et à évoluer, même dans un monde post-IAG. L'IAG sera principalement formée à partir de documents écrits, mais il restera toujours des connaissances humaines non documentées ou non accessibles en ligne. De plus, les humains continueront à produire de nouvelles idées et connaissances, même après l'avènement de l'IAG. L'auteur suggère que l'IAG devra rester à jour avec ces nouveaux développements, et que les humains et l'IAG pourront apprendre l'un de l'autre dans une relation synergique bénéfique pour les deux parties.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682534d640f3259ba94af4f5/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 15 May 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'IA au service de l'accessibilité",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2616859_google-ajoute-gemini-a-talkback-et-ca-change-tout-on-vous-explique-pourquoi",
+        "body": "Google intègre Gemini à TalkBack, son lecteur d'écran pour Android, permettant aux utilisateurs aveugles ou malvoyants d'interagir par la conversation avec le contenu visuel. Gemini analyse l'écran et fournit des réponses contextuelles aux questions posées. Cette approche transforme l'expérience mobile, offrant une véritable conversation avec l'interface. De plus, les \"Expressive Captions\" améliorent l'accessibilité pour les malentendants en détectant la durée et l'intonation des mots. Chrome intègre également la reconnaissance OCR pour les PDF, améliorant la navigation web accessible. Ces innovations de Google suppriment les barrières entre information visuelle et accessibilité, rendant les technologies plus inclusives.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-36-3-1200x677-1-768x433.jpg?resize=169,169&key=a71b5b00",
+        "date": "Wed, 14 May 2025 23:00:00 GMT"
     },
     {
         "title": "La nouvelle IA de Google résout des problèmes informatiques complexes",
@@ -75,6 +96,13 @@
         "body": "OpenAI a mis à niveau ChatGPT en intégrant les modèles GPT-4.1 et GPT-4.1 mini, avec un accent particulier sur l'amélioration des capacités de programmation et de compréhension des demandes techniques. GPT-4.1 surpasse son prédécesseur dans ces domaines tout en restant plus rapide que les modèles de raisonnement plus lents de la série \"o\" d'OpenAI. La version complète de GPT-4.1 est disponible pour les abonnés payants de ChatGPT, tandis que la version \"mini\", optimisée pour être plus légère, est proposée aux utilisateurs gratuits. Cette mise à jour reflète l'effervescence du marché des assistants de programmation IA, avec Google misant également sur Gemini en l'intégrant à GitHub. OpenAI envisagerait également d'acquérir l'outil de codage IA populaire, Windsurf, pour un montant de 3 milliards de dollars, soulignant l'importance financière croissante de ce domaine.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-35-4-1200x675-1-768x432.jpg?resize=169,169&key=2c52775a",
         "date": "Wed, 14 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "YouTube Brandcast 2025",
+        "link": "https://blog.youtube/news-and-events/brandcast-2025/",
+        "body": "Résumé : Lors de l'événement Brandcast, YouTube a célébré son 20e anniversaire en mettant en avant de nouvelles opportunités pour les marques de tirer parti de sa plateforme. L'entreprise a annoncé plusieurs nouveautés : les « Cultural Moments Sponsorships », qui permettent aux annonceurs de s'associer à des événements culturels majeurs, comme le PGA Championship ; la diffusion en direct du match du vendredi soir de la NFL au Brésil, accessible gratuitement sur YouTube ; « Peak Points », un produit qui identifie les moments les plus engageants dans les contenus populaires pour y placer les marques ; et de nouvelles fonctionnalités publicitaires pour la télévision connectée (CTV), notamment un Masthead immersif et le « Shoppable CTV ».",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 14 May 2025 21:30:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
@@ -229,26 +257,5 @@
         "body": "TikTok lance un nouvel outil basé sur l'IA appelé « AI Alive » qui permet d'animer des photos. Accessible via la Story Camera de TikTok, cet outil utilise des outils d'édition intelligents pour permettre aux utilisateurs de transformer des images statiques en vidéos courtes et captivantes, améliorées par des mouvements et des effets atmosphériques et créatifs. Les utilisateurs peuvent décrire le style et le contenu souhaités pour la vidéo. TikTok a mis en place des mesures de sécurité pour éviter les abus, avec une modération de la technologie qui vérifie le contenu généré avant sa publication. Les vidéos créées avec cet outil seront étiquetées comme étant générées par l'IA et contiendront des métadonnées C2PA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 13 May 2025 19:50:23 GMT"
-    },
-    {
-        "title": "La révolution de l'audio",
-        "link": "https://www.theverge.com/news/666136/amazon-audible-ai-narration-audiobooks-translation#comments",
-        "body": "Audible d'Amazon annonce une expansion majeure de son catalogue de livres audio grâce à l'utilisation de la technologie de l'IA. Les éditeurs pourront choisir parmi plus de 100 voix générées par l'IA en anglais, espagnol, italien et français, ainsi que divers accents et dialectes. La technologie d'IA d'Amazon gère tout le processus de production des livres audio, de la narration à la publication. De plus, de nouveaux outils de traduction IA seront lancés, prenant initialement en charge l'anglais, l'espagnol, le français, l'italien et l'allemand. Les éditeurs pourront réviser les traductions eux-mêmes ou opter pour une révision humaine par un linguiste professionnel.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24000004/acastro_STK074_audible_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 18:18:08 GMT"
-    },
-    {
-        "title": "Gemini, l'assistant IA de Google, arrive sur de nouvelles plateformes",
-        "link": "https://www.theverge.com/news/665161/google-gemini-tvs-cars-smartwatches-android-xr#comments",
-        "body": "Google étend les fonctionnalités de son assistant IA, Gemini, à de nouvelles plateformes : Google TV, Android Auto, Wear OS et Android XR. Gemini améliorera l'expérience utilisateur en permettant des interactions plus naturelles et contextuelles. Sur Google TV, Gemini pourra faire des recommandations adaptées à l'âge pour les films et fournir des explications et des vidéos éducatives. Dans les voitures Android Auto, il comprendra les demandes complexes pendant la conduite. Sur Wear OS, il permettra des interactions vocales naturelles, et sur Android XR, il sera disponible sur le premier casque XR de Samsung. Gemini devrait arriver sur ces plateformes au cours des prochains mois.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 13 May 2025 17:00:00 GMT"
-    },
-    {
-        "title": "La course à l'intelligence",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/05/13/chatgpt-beats-claude-googles-gemini-deepseek-in-test-of-ai-agents/?ss=ai",
-        "body": "Le dernier modèle o3 de ChatGPT surpasse les autres modèles d'IA dans un test de recherche sur le web, mais les humains surpassent encore facilement les meilleurs agents d'IA. L'étude, réalisée par FutureSearch, a évalué 11 modèles de langage sur leur capacité à effectuer des tâches de recherche complexes. Bien que l'IA ait fait des progrès remarquables, il existe encore un écart significatif par rapport aux capacités humaines, notamment dans les domaines de la planification stratégique, de l'évaluation des sources et de la gestion de la mémoire. Les chercheurs ont également constaté que les agents d'IA ont tendance à se satisfaire de réponses de moindre qualité, plutôt que d'optimiser leurs résultats. Malgré ces défis, l'IA progresse rapidement et pourrait bientôt surpasser les performances humaines, même si les récents problèmes de ChatGPT avec son dernier modèle soulignent que des obstacles restent à surmonter.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6823677fe5bc7517464f88cf/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 13 May 2025 16:00:00 GMT"
     }
 ]
