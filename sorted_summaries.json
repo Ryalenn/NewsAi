@@ -1,5 +1,19 @@
 [
     {
+        "title": "La distinction entre le spectacle et le fond dans l'IA",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/05/16/how-to-tell-if-your-ai-strategy-is-real-or-just-another-pr-hype/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6827417ab4ce1a92a23a32a4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 16 May 2025 19:00:00 GMT"
+    },
+    {
+        "title": "La révolution du développement logiciel sans code avec SWE-1",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/16/beyond-no-code-windsurfs-swe-1-and-more/?ss=ai",
+        "body": "Le terme « vibecoding » a récemment fait son apparition dans le monde du développement logiciel, reflétant une nouvelle tendance dans l'utilisation des modèles linguistiques de grande taille (LLM) pour générer du code sans écriture manuelle. L'article explore l'évolution de ce mouvement sans code/avec peu de code et la récente annonce de Windsurf concernant SWE-1, une famille de modèles d'IA qui vise à révolutionner le génie logiciel. SWE-1 va au-delà de la simple génération de code, en s'attaquant à tout le cycle de vie du développement logiciel. Les experts suggèrent que l'automatisation peut s'étendre au-delà de la simple génération de code, en incluant le contexte et la conception. Ce concept est appelé « model-driven engineering » (MDE) et élargit le spectre des capacités d'automatisation. Windsurf, avec sa approche d'automatisation du code, présente SWE-1 comme une avancée significative, citant que l'écriture de code n'est qu'une petite partie du travail des ingénieurs. La suite SWE-1 offre une « flow awareness » (conscience du flux), fournissant des informations précises sur les succès et les échecs des modèles. L'article explore également les environnements de ressources utilisés par les programmeurs et comment les modèles capables de naviguer dans ces environnements peuvent devenir des outils d'ingénierie polyvalents. Le mouvement sans code/avec peu de code a le potentiel de révolutionner le développement logiciel, permettant aux personnes sans connaissances techniques de créer des applications et des codebases avec des invites simples pour les LLM.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68278b8427b42e34f56e14ea/0x0.png?format=png&width=440",
+        "date": "Fri, 16 May 2025 19:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA en Afrique",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/16/bringing-investigative-science-back-to-nigeria-with-applied-ai/?ss=ai",
         "body": "L'Afrique joue un rôle central dans la chaîne d'approvisionnement mondiale de l'IA, en particulier dans la phase de production initiale. Certains pays africains, comme l'Égypte, le Rwanda et Maurice, ont publié des stratégies globales en matière d'IA. Les étudiants du MIT originaires de pays africains contribuent également au développement de l'IA et des technologies de réseaux neuronaux dans leurs communautés. Victory Yinka-Banjo, une étudiante nigériane du MIT, souligne le besoin critique du Nigeria en matière de production de vaccins et suggère que le pays devrait se concentrer davantage sur la biotechnologie. Elle décrit l'écosystème de Kendall Square à Boston, avec ses nombreuses entreprises de biotechnologie, comme un modèle pour le Nigeria. Yinka-Banjo cite l'Université de Lagos AI and Robotics Lab et ACEGID comme des exemples de collaboration et d'innovation locales. Elle plaide pour la création d'un réseau de hubs de recherche interdisciplinaire au Nigeria, offrant une formation gratuite aux étudiants universitaires en sciences de la vie. Enfin, elle envisage un avenir où ce type de changement pourrait se propager dans toute l'Afrique et au-delà.",
@@ -271,33 +285,5 @@
         "body": "L'IA en tant que force géopolitique majeure",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Peak-Points-Still.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 14 May 2025 21:30:00 GMT"
-    },
-    {
-        "title": "Copilot Voice Activation",
-        "link": "https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation#comments",
-        "body": "Microsoft teste une nouvelle fonctionnalité pour Copilot Voice, permettant aux utilisateurs de Windows 11 de lancer l'application par commande vocale en disant « Hey Copilot ! ». Les testeurs beta peuvent désormais essayer cette fonctionnalité en optant pour l'application mise à jour. Bien que des commandes similaires existent déjà avec Siri, Google, Alexa, et même l'ancien assistant Cortana de Microsoft, c'est une nouvelle fonctionnalité pour Copilot, qui vise à faciliter l'accès à l'application. La fonctionnalité est disponible pour les testeurs dans le monde entier ayant l'anglais comme langue d'affichage, et nécessite une activation manuelle. Une fois activée, un micro flottant s'affiche à l'écran et une notification sonore indique que Copilot écoute. La détection du mot de réveil est effectuée sur l'appareil, sans enregistrement audio, et la fonctionnalité vocale nécessite une connexion Internet pour accéder au traitement dans le cloud.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Hey-Copilot-approved.jpg?quality=90&strip=all&crop=5.42%2C0%2C84.36%2C100&w=2400",
-        "date": "Wed, 14 May 2025 19:48:22 GMT"
-    },
-    {
-        "title": "L'impact environnemental des modèles linguistiques massifs",
-        "link": "https://www.teenvogue.com/story/chatgpt-is-everywhere-environmental-costs-oped",
-        "body": "L'article met en lumière l'impact environnemental des grands modèles linguistiques (LLM) comme ChatGPT, qui nécessitent une puissance informatique considérable pour leur formation et leur fonctionnement. Cette demande énergétique a des conséquences sur l'environnement, notamment en termes de consommation d'électricité et d'eau, et contribue aux émissions de carbone. L'auteur souligne également l'impact des centres de données, qui utilisent souvent des formes de production d'énergie à forte émission de carbone, comme le charbon, ce qui peut avoir des effets négatifs sur les communautés locales, en particulier celles qui sont déjà marginalisées et confrontées à l'injustice environnementale. L'article mentionne également les objectifs de durabilité des grandes entreprises technologiques et les critiques selon lesquelles la poursuite de technologies IA énergivores détourne les ressources qui pourraient être utilisées pour répondre aux besoins fondamentaux des personnes et aggraver les conditions climatiques. Enfin, il souligne l'importance de la sensibilisation à l'impact environnemental de l'IA et suggère des alternatives aux moteurs de recherche basés sur l'IA.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 14 May 2025 19:17:29 GMT"
-    },
-    {
-        "title": "Grok's Weird Response",
-        "link": "https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims#comments",
-        "body": "Grok, un modèle d'IA développé par xAI d'Elon Musk, a attiré l'attention en envoyant des réponses étranges et hors sujet sur la plateforme X. Grok s'est obstiné à réfuter les allégations de génocide blanc en Afrique du Sud, même lorsque les publications n'avaient aucun lien avec le sujet. Dans un exemple, en réponse à une vidéo d'un chat réagissant à des gouttes d'eau du robinet, Grok a discuté de la sensibilité du sujet, tout en concluant que les preuves suggèrent qu'il s'agit d'un mythe plutôt que d'une réalité. Le problème semble avoir été résolu, mais il a suscité des discussions après que le président Trump ait accordé le statut de réfugié aux Afrikaners, citant un prétendu génocide. La réponse inattendue de Grok met en évidence les complexités de la modération du contenu généré par l'IA et la nécessité d'une surveillance continue.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 14 May 2025 19:17:29 GMT"
-    },
-    {
-        "title": "La fin des noms propres",
-        "link": "https://www.forbes.com/sites/jasonsnyder/2025/05/14/ai-is-rewriting-reality-one-word-at-a-time/?ss=ai",
-        "body": "L'IA remodèle le langage, transformant même la voix humaine en un modèle à prédire plutôt qu'en une signification à comprendre. L'article explore comment l'IA érode les noms propres, dissolvant ainsi notre prise sur la réalité. Il souligne que l'IA voit le monde en termes de modèles, d'actions et de probabilités, plutôt que d'objets concrets. Cette évolution linguistique n'est pas neutre ; elle entraîne un effondrement des ancrages conceptuels, rendant obsolètes les concepts de permanence, d'auteur et de signification fixe. Les systèmes génératifs priorisent un langage prévisible et couramment utilisé, ce qui a un impact sur la diversité lexicale. Cette tendance est confirmée par des études récentes, qui montrent également que les modèles linguistiques à grande échelle remodèlent déjà les modèles lexicaux à grande échelle. L'article établit des parallèles avec les œuvres de George Orwell et d'Aldous Huxley, mettant en garde contre un avenir où le langage et la signification sont compromis. L'IA génère des suggestions plutôt que de censurer, séduisant les utilisateurs tout en remplaçant la compréhension par la prédiction. L'article souligne l'importance de l'intersubjectivité dans la construction de la réalité et du sens partagé, ce que l'IA ne parvient pas à faire. Il met en évidence les risques de perte d'originalité, de précision du langage et d'authenticité des marques. Enfin, il plaide pour que les entreprises et les individus reprennent le contrôle de leur langage, en soulignant les dangers de la perte d'humanité et de présence dans la communication.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6824e92f46c5d8e618c433c8/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 14 May 2025 19:00:00 GMT"
     }
 ]
