@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA dans l'armée américaine",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/17/technology-for-the-warfighter/?ss=ai",
+        "body": "Le colonel Tucker Hamilton (retraité) a récemment présenté les applications de l'IA dans l'armée américaine, notamment son utilisation dans les drones et les avions. Hamilton a souligné l'importance de la collecte et de l'analyse de données multi-capteurs, ainsi que de la nécessité d'une interopérabilité entre les différentes branches de l'armée. Il a identifié quatre obstacles majeurs au progrès : l'éducation, la bureaucratie, l'aversion au risque et les services paroissiaux. Hamilton a également souligné l'importance de la boucle OODA (Observer, Orienter, Décider, Agir) et a suggéré que l'Amérique est en tête dans le domaine des grands modèles linguistiques, mais pas en vision par ordinateur. Enfin, il a souligné l'importance de la collaboration internationale et de l'éthique dans le développement de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6828b65591a50c2596acc4c2/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 17 May 2025 16:00:00 GMT"
+    },
+    {
         "title": "La révolution de la programmation assistée par l'IA",
         "link": "https://www.forbes.com/sites/adrianbridgwater/2025/05/17/no-cubicle-required-ai-coding-agents-start-work/?ss=ai",
         "body": "L'article explore l'évolution rapide de la programmation assistée par l'IA et son impact sur le cycle de vie du développement des applications logicielles. OpenAI a récemment présenté Codex, un outil capable de corriger les bogues, d'exécuter des tests et de fournir des analyses sur les codes existants. D'autres outils, tels que Codeium AI, Postman et Qodo, offrent également une assistance à la programmation et aux tests. AWS se joint à cette tendance avec AWS Transform, un outil conçu pour moderniser les charges de travail et faciliter la migration vers le cloud. AWS Transform utilise l'IA pour automatiser les tâches complexes de migration et de modernisation, améliorant ainsi considérablement la vitesse et l'efficacité du processus. L'article souligne également l'importance des tests unitaires et de la validation, et mentionne les préoccupations concernant l'obsolescence des compétences en programmation humaine.",
@@ -173,12 +180,5 @@
         "body": "Résumé : \n\nAmazon, dirigée par Jeff Bezos, vient d'annoncer un partenariat avec l'entreprise d'intelligence artificielle (IA) du prince héritier saoudien Mohammed ben Salmane (MBS) pour construire une \"zone IA\" en Arabie Saoudite, malgré le meurtre du journaliste Jamal Khashoggi en 2018, qui a été approuvé par MBS. Cette décision soulève des questions éthiques et morales, d'autant plus que l'Arabie Saoudite cherche à se positionner comme un leader dans le domaine de l'IA avec son projet \"Vision 2030\". Bezos semble ainsi trahir les valeurs qu'il prétend défendre, notamment la liberté de la presse, en faisant des affaires avec un régime répressif qui a assassiné l'un de ses propres journalistes.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951506/VRG_Illo_STK173_L_Normand_JeffBezos_Positive2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 15 May 2025 21:00:00 GMT"
-    },
-    {
-        "title": "L'IA prédictive rencontre l'IA générative",
-        "link": "https://www.forbes.com/sites/ericsiegel/2025/05/15/5-ways-to-hybridize-predictive-ai-and-generative-ai/?ss=ai",
-        "body": "L'IA, tant prédictive que générative, fait face à des limitations qui compromettent sa valeur. L'IA prédictive a un problème d'accessibilité, nécessitant des compétences semi-techniques pour son déploiement, tandis que l'IA générative souffre de problèmes de fiabilité, avec des hallucinations fréquentes dans les résultats. La solution proposée est leur combinaison : l'IA prédictive peut aider à guider l'IA générative, en prédisant quand une intervention humaine est nécessaire, améliorant ainsi sa fiabilité. De son côté, l'IA générative peut rendre l'IA prédictive plus accessible aux utilisateurs non-techniques, par exemple via des chatbots qui agissent comme des assistants virtuels. L'article explore cinq façons dont ces deux types d'IA peuvent travailler ensemble, y compris l'amélioration des tâches de traitement du langage naturel et la création de nouvelles fonctionnalités pour les modèles prédictifs. En fin de compte, combiner l'IA prédictive et générative peut conduire à des résultats de projet plus solides, éloignant le domaine de l'IA de l'hyperbole et vers une valeur réelle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68262c875b50fa837502939a/0x0.jpg?format=jpg&crop=1280,720,x0,y79,safe&width=440",
-        "date": "Thu, 15 May 2025 18:25:00 GMT"
     }
 ]
