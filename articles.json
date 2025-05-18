@@ -54,5 +54,19 @@
         "image": "",
         "date": "Sat, 17 May 2025 20:26:31 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/18/ais-magic-cycle/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682a0e9624b1522051af91f2/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 18 May 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/05/18/growing-cyberthreats-to-the-internet-of-things/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6098708616af38ef0227ee89/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 18 May 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
