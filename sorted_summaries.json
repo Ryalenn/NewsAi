@@ -1,5 +1,19 @@
 [
     {
+        "title": "Les super-riches et vous",
+        "link": "https://direkris.itch.io/you-are-jeff-bezos",
+        "body": "Ce jeu textuel invite le joueur à incarner une personne extrêmement riche et à prendre des décisions sur la manière de dépenser son argent. Les commentaires des joueurs sont mitigés, certains le trouvant drôle et instructif, tandis que d'autres le critiquent pour son message politique apparent. Le jeu soulève des questions sur la répartition des richesses et le rôle des milliardaires dans la société, ce qui pourrait être pertinent pour ceux qui travaillent dans le domaine de l'IA, étant donné l'intérêt croissant pour l'éthique et l'impact social de la technologie.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Screenshot-2025-05-18-at-12.43.10%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 18 May 2025 17:49:01 GMT"
+    },
+    {
+        "title": "Gemini remplace Google Assistant",
+        "link": "https://www.theverge.com/news/629904/google-assistant-gemini-moving-on",
+        "body": "Google met à niveau ses utilisateurs de Google Assistant vers Gemini, une marque ombrelle pour ses efforts en matière d'IA et d'assistants. Gemini sera déployé sur les tablettes, les voitures, les écouteurs, les montres et les appareils domestiques comme les haut-parleurs et les télévisions. Google Assistant, lancé en 2016, sera progressivement abandonné et ne sera plus accessible sur la plupart des appareils mobiles. Les détails supplémentaires sur Gemini seront partagés dans les prochains mois.",
+        "image": "",
+        "date": "Sun, 18 May 2025 17:20:46 GMT"
+    },
+    {
         "title": "L'évolution de l'intelligence artificielle : des origines à l'avenir",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/18/ais-magic-cycle/?ss=ai",
         "body": "L'histoire de l'intelligence artificielle (IA) est plus longue que ce que beaucoup imaginent, remontant aux années 1950 avec les premiers ordinateurs mécaniques. Bien que le concept de machines intelligentes soit plus ancien, ce n'est qu'avec l'avènement de l'ère numérique et des systèmes de calcul basés sur les données que l'IA est devenue une possibilité réelle. L'article souligne l'importance du matériel informatique, expliquant pourquoi l'IA n'a pas décollé avant les années 1990 et l'ère du big data et de l'informatique en nuage. Les systèmes informatiques massifs d'aujourd'hui, alimentés par des centres de données colossaux, sont essentiels pour les modèles linguistiques massifs (LLM) et les réseaux neuronaux qui imitent l'intelligence humaine. L'article présente également une interview de Yossi Mathias, responsable de la recherche chez Google, qui décrit le cycle de la recherche en IA, de la publication à l'impact sociétal, et souligne l'importance de domaines tels que la santé, l'éducation et la crise climatique. Enfin, il explore le rôle futur de l'IA, suggérant qu'elle devrait assister plutôt que remplacer les humains, et souligne les progrès de l'informatique quantique.",
@@ -54,19 +68,5 @@
         "body": "L'IA générative et les grands modèles linguistiques (LLM) peuvent aider à créer des discours de mariage personnalisés et évocateurs. L'auteur explore comment l'IA peut aider à surmonter le blocage de l'écrivain et à créer un discours adapté à l'occasion. \n\nRésumé : \n\nAvec environ 2,3 millions de mariages par an aux États-Unis, il y a aussi 2,3 millions de discours de mariage. L'écriture d'un tel discours peut être intimidante, et l'IA générative peut aider à surmonter les obstacles communs. L'IA peut fournir des suggestions et un contenu adaptable, mais l'utilisateur doit être vigilant contre les hallucinations de l'IA et les conseils erronés. L'IA peut également aider à éviter un discours trop générique ou spécifique, en le personnalisant pour le couple. L'éthique de l'utilisation de l'IA pour un discours important est discutée, ainsi que la possibilité que les invités devinent que le discours a été écrit avec l'aide de l'IA. Enfin, l'IA peut aider à peaufiner le discours, mais l'utilisateur doit s'assurer que le résultat final ne sonne pas trop formulé ou écrit par une machine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67a3a078c360f6bd28b87f8d/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 17 May 2025 02:00:00 GMT"
-    },
-    {
-        "title": "La distinction entre le spectacle et le fond dans l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/05/16/how-to-tell-if-your-ai-strategy-is-real-or-just-another-pr-hype/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6827417ab4ce1a92a23a32a4/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 16 May 2025 19:00:00 GMT"
-    },
-    {
-        "title": "La révolution du développement logiciel sans code avec SWE-1",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/16/beyond-no-code-windsurfs-swe-1-and-more/?ss=ai",
-        "body": "Le terme « vibecoding » a récemment fait son apparition dans le monde du développement logiciel, reflétant une nouvelle tendance dans l'utilisation des modèles linguistiques de grande taille (LLM) pour générer du code sans écriture manuelle. L'article explore l'évolution de ce mouvement sans code/avec peu de code et la récente annonce de Windsurf concernant SWE-1, une famille de modèles d'IA qui vise à révolutionner le génie logiciel. SWE-1 va au-delà de la simple génération de code, en s'attaquant à tout le cycle de vie du développement logiciel. Les experts suggèrent que l'automatisation peut s'étendre au-delà de la simple génération de code, en incluant le contexte et la conception. Ce concept est appelé « model-driven engineering » (MDE) et élargit le spectre des capacités d'automatisation. Windsurf, avec sa approche d'automatisation du code, présente SWE-1 comme une avancée significative, citant que l'écriture de code n'est qu'une petite partie du travail des ingénieurs. La suite SWE-1 offre une « flow awareness » (conscience du flux), fournissant des informations précises sur les succès et les échecs des modèles. L'article explore également les environnements de ressources utilisés par les programmeurs et comment les modèles capables de naviguer dans ces environnements peuvent devenir des outils d'ingénierie polyvalents. Le mouvement sans code/avec peu de code a le potentiel de révolutionner le développement logiciel, permettant aux personnes sans connaissances techniques de créer des applications et des codebases avec des invites simples pour les LLM.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68278b8427b42e34f56e14ea/0x0.png?format=png&width=440",
-        "date": "Fri, 16 May 2025 19:00:00 GMT"
     }
 ]
