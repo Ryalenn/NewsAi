@@ -1,10 +1,101 @@
 [
     {
+        "title": "La révolution de l'informatique distribuée",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/05/19/the-secret-life-of-servers-chronic-idleness-while-waiting-for-a-job/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682b7434104024b873979ca9/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 18:19:00 GMT"
+    },
+    {
+        "title": "La conférence Build de Microsoft",
+        "link": "https://www.theverge.com/news/669382/microsoft-build-2025-news-ai-agents",
+        "body": "La conférence Build de Microsoft, qui se déroule sur quatre jours, a débuté le 19 mai. Satya Nadella, PDG de Microsoft, a présenté les dernières nouveautés en matière de Windows, Office et IA. La conférence Build est l'événement annuel de Microsoft destiné aux développeurs, offrant des sessions approfondies sur les dernières fonctionnalités de Windows, Office, Azure, etc. Cette année, l'accent a été mis sur l'IA, notamment la vision de Microsoft pour les agents IA. Parmi les annonces importantes, on trouve : \n\n- La présentation d'un éditeur de texte en ligne de commande pour Windows, appelé « Edit », permettant aux développeurs de modifier des fichiers directement dans la ligne de commande. \n- Les protestations d'un employé de Microsoft contre les contrats cloud et IA de l'entreprise avec le gouvernement israélien, interrompant le discours de Satya Nadella. \n- L'annonce de nouvelles API pour le navigateur Edge, permettant aux développeurs web d'accéder au modèle Phi-4-mini de Microsoft et d'utiliser l'IA sur l'appareil pour des fonctionnalités d'assistance à l'écriture. \n- La présentation de NLWeb, un nouveau protocole ouvert pour le web, visant à améliorer la communication avec les applications et les ordinateurs en utilisant le langage naturel. \n- Le lancement d'un agent IA de codage par GitHub, intégré à GitHub Copilot, qui peut effectuer des tâches telles que la correction de bogues, l'ajout de fonctionnalités et l'amélioration de la documentation. \n- L'introduction du protocole Model Context Protocol (MCP) natif dans Windows, un standard ouvert permettant aux applications IA de communiquer facilement avec d'autres applications et services. \n- La mise en open source de Windows Subsystem for Linux (WSL), permettant à la communauté de contribuer au code. \n- L'hébergement des modèles Grok AI d'Elon Musk sur Azure AI Foundry, offrant des accords de niveau de service aux clients. \n- Une nouvelle fonctionnalité de traduction de PDF dans le navigateur Edge, permettant de traduire des documents en plus de 70 langues. \n\nLa conférence Build de cette année met en évidence l'engagement de Microsoft envers l'IA et sa vision d'un avenir où les agents IA travaillent aux côtés des humains.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967310.jpg?quality=90&strip=all&crop=0%2C0.0033827210608166%2C100%2C99.993234557878&w=2400",
+        "date": "Mon, 19 May 2025 17:13:53 GMT"
+    },
+    {
+        "title": "L'avenir de la recherche et de l'IA selon Microsoft",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/669409/microsoft-cto-kevin-scott-interview-ai-natural-language-search-openai#comments",
+        "body": "Kevin Scott, CTO de Microsoft, discute de l'avenir de la recherche et de l'IA avec Nilay Patel de The Verge. Microsoft annonce un nouvel outil open source permettant aux sites Web d'intégrer une recherche en langage naturel basée sur l'IA. L'objectif est de repenser la recherche dans un monde où l'IA est plus largement distribuée, en permettant aux propriétaires de sites de contrôler leurs données et de choisir leurs modèles. MCP (Model Context Protocol), développé à l'origine par Anthropic, est un standard ouvert qui permet aux agents IA d'interagir avec les bases de données et les services de manière contrôlée. Microsoft rend la recherche locale MCP abordable et facile à mettre en œuvre pour encourager son adoption. Scott discute de la façon dont MCP pourrait stimuler la concurrence, améliorer la durabilité des entreprises et créer de nouvelles opportunités. Il aborde également la relation de Microsoft avec OpenAI, l'évolution des capacités de l'IA et les controverses entourant l'IA en tant qu'outil créatif.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/DCD-Kevin-Scott-Microsoft.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "AI Coding Agents prennent d'assaut l'industrie",
+        "link": "https://www.theverge.com/news/669339/github-ai-coding-agent-fix-bugs#comments",
+        "body": "GitHub lance un agent de codage IA capable d'effectuer diverses tâches de programmation, telles que la correction de bogues, l'ajout de fonctionnalités et l'amélioration de la documentation. L'agent, intégré directement dans GitHub Copilot, peut être affecté à des tâches par les développeurs. Il peut démarrer automatiquement une machine virtuelle, cloner un référentiel et analyser le code source. Il enregistre également ses modifications et fournit un aperçu de sa logique dans des journaux de session. Une fois sa tâche terminée, il signale au développeur de réviser son travail. Les développeurs peuvent laisser des commentaires que l'agent prendra en compte. GitHub souligne que l'agent tient compte du contexte des discussions liées aux problèmes et aux demandes d'extraction, et suit les instructions personnalisées du référentiel, lui permettant de comprendre à la fois l'intention de la tâche et les normes de codage du projet. L'agent de codage IA de GitHub est disponible pour les utilisateurs de Copilot Enterprise et Copilot Pro Plus. De plus, Microsoft a annoncé que GitHub Copilot dans Visual Studio Code serait open-source, permettant aux développeurs d'étendre ses capacités IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/copilot-github-agent.jpg?quality=90&strip=all&crop=0%2C12.5%2C100%2C75&w=2400",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de Windows avec l'IA",
+        "link": "https://www.theverge.com/news/669298/microsoft-windows-ai-foundry-mcp-support#comments",
+        "body": "Microsoft adopte le protocole Model Context Protocol (MCP) dans le cadre de ses efforts pour remodeler Windows dans un monde d'agents d'IA. MCP, introduit par Anthropic, est un standard open source qui permet aux développeurs de connecter facilement leurs applications d'IA à d'autres applications, services web et désormais à des fonctionnalités de Windows. Microsoft soutient MCP à l'intérieur de Windows, ainsi que des efforts plus larges pour alimenter ce qu'il appelle le « agentic web ». La société introduit de nouvelles fonctionnalités pour les développeurs, permettant aux agents IA d'accéder à des fonctionnalités clés de Windows, telles que le système de fichiers, la fenêtrage et le sous-système Windows pour Linux. Un registre MCP agira comme une source sécurisée et fiable pour les serveurs MCP, permettant aux agents IA d'offrir une valeur significative aux utilisateurs. Microsoft présente également des paramètres d'agent IA pour les PC Copilot Plus, permettant le contrôle des paramètres système via des requêtes en langage naturel. Bien que ces développements ouvrent de nouvelles possibilités pour les fonctionnalités automatisées des applications, ils soulèvent également des préoccupations en matière de sécurité, que Microsoft s'efforce de résoudre en mettant l'accent sur la sécurité et en introduisant divers contrôles de sécurité MCP.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK109_WINDOWS_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Grok AI rejoint Azure AI Foundry de Microsoft",
+        "link": "https://www.theverge.com/news/668762/microsoft-grok-3-xai-models",
+        "body": "Microsoft ajoute Grok 3 et Grok 3 Mini à son service Azure AI Foundry. Les modèles Grok AI, créés par xAI, seront hébergés et facturés directement par Microsoft, et proposés à ses équipes produits et clients. Cette décision surprenante pourrait créer des tensions internes avec son partenaire OpenAI. Satya Nadella, PDG de Microsoft, a poussé pour que Microsoft héberge Grok, souhaitant positionner l'entreprise comme le fournisseur de choix pour les modèles IA populaires et émergents. Grok est le dernier modèle à rejoindre Azure AI Foundry, qui devient un service IA important pour Microsoft, cherchant à être la plateforme d'hébergement de modèles IA pour les entreprises et les développeurs d'applications.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_XAI__A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la liberté à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/19/ai-is-rewriting-our-reality-is-your-freedom-expanding-or-shrinking/?ss=ai",
+        "body": "Titre : L'avenir de la liberté à l'ère de l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682b62841df5dffe9578cf10/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : exploration des frontières de la créativité et de l'innovation",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/19/4-new-creative-directions-for-ai/?ss=ai",
+        "body": "Titre : L'IA, la créativité et l'innovation",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682b57d3be5724cce2ada90d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 16:00:00 GMT"
+    },
+    {
+        "title": "La conférence des développeurs de Google mettra l'accent sur l'IA et la XR",
+        "link": "https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr",
+        "body": "La conférence annuelle des développeurs Google I/O est imminente, et contrairement aux années précédentes, l'accent ne sera pas mis sur les annonces du système d'exploitation Android. À la place, la keynote d'ouverture se concentrera principalement sur l'IA, avec également quelques annonces liées à la XR. La conférence aura lieu les 20 et 21 mai, et la keynote d'ouverture commencera à 10h PT le 20 mai. Google devrait annoncer de nouvelles fonctionnalités Gemini pour les téléphones et autres appareils, ainsi que des modèles mis à jour avec une puissance accrue. On espère également des mises à jour ambitieuses sur le projet Astra. En plus de l'IA, Google fournira également des mises à jour sur son système d'exploitation XR Android, y compris de nouvelles informations sur ses lunettes intelligentes prototypes. Avec la sortie imminente du casque XR de Samsung, Google pourrait également fournir des détails sur le logiciel XR.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/IO25_SVD_SocialShare.width-1000.format-webp.webp?quality=90&strip=all&crop=7.85%2C0%2C84.3%2C100&w=2400",
+        "date": "Mon, 19 May 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Wolters Kluwer : l'évolution d'une entreprise de publication en une entreprise technologique axée sur l'IA",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/05/19/mark-sherwood-leads-wolters-kluwer-through-cloud-and-ai-transformation/?ss=ai",
+        "body": "Titre : Wolters Kluwer : l'évolution numérique",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68278380b14cc138dcfe5cad/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 12:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA à Taiwan",
+        "link": "https://www.forbes.com/sites/catzxwang/2025/05/19/nvidia-and-foxconn-announce-ai-factory-for-supercomputer-in-taiwan/?ss=ai",
+        "body": "Dans le contexte de la course mondiale à l'IA, Nvidia et Hon Hai Technology Group (Foxconn) s'associent au gouvernement taïwanais pour développer un superordinateur dédié à l'IA. Nvidia fournira 10 000 GPU Blackwell, les puces les plus avancées pour l'IA générative, tandis que Foxconn apportera son infrastructure IA via sa filiale Big Innovation Company. L'objectif est d'accroître les capacités de calcul IA pour les chercheurs et les entreprises, y compris le Taiwan National Science and Technology Council et TSMC. Jensen Huang, co-fondateur et PDG de Nvidia, souligne que l'IA est à l'origine d'une nouvelle révolution industrielle, transformant la science et l'industrie. L'article mentionne également d'autres initiatives de Foxconn dans le domaine de l'IA, telles que le robot Nurabot et un partenariat avec HCL Group pour construire une usine de semi-conducteurs en Inde. Taïwan, avec des acteurs clés tels que TSMC, Mediatek et Hermes-Epitek, joue un rôle crucial dans la chaîne d'approvisionnement des semi-conducteurs et dans le développement de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682b01cff4a775dbcee135ef/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 12:00:00 GMT"
+    },
+    {
+        "title": "La conférence des développeurs",
+        "link": "https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025",
+        "body": "Résumé : \n\nLa conférence annuelle des développeurs de Microsoft, Build, débute aujourd'hui à Seattle, en même temps que la conférence I/O de Google à Mountain View. Microsoft mettra l'accent sur ses dernières innovations en matière de plateformes pour développeurs, notamment de nouvelles annonces dans le domaine de l'IA, entrant ainsi en concurrence directe avec Google. La conférence Build est diffusée en ligne gratuitement, et les développeurs, étudiants et ingénieurs peuvent également y assister en personne. Microsoft devrait accorder une place importante à l'IA, en particulier à sa vision d'agents IA travaillant aux côtés des humains en tant que collègues numériques. Des annonces sont également attendues concernant les plans de Microsoft pour héberger le modèle IA Grok d'Elon Musk. De plus, des nouvelles sur le modèle GPT-5 d'OpenAI, initialement prévu pour fin mai, pourraient être dévoilées. Le PDG de Microsoft, Satya Nadella, ouvrira la conférence avec les annonces liées à l'IA, suivi d'une keynote technique le deuxième jour animée par Jay Parikh, Charles Lamanna et Scott Guthrie.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 19 May 2025 11:45:46 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : des agents intelligents accessibles à tous",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/05/19/ai-agents-are-already-changing-everything-and-heres-how-you-can-try-them-today/?ss=ai",
         "body": "Les agents IA ne sont plus de la science-fiction, ils font déjà partie de notre quotidien et transforment la manière dont nous travaillons et vivons. OpenAI's Operator, Butterfly Labs' DeepSeek et Manus AI, AutoGPT, et les offres de Microsoft et Google sont autant d'exemples d'outils et de frameworks permettant d'expérimenter et de développer des agents IA. Bien que ces technologies soient encore à un stade précoce de développement et puissent présenter des imperfections, des coûts élevés et des problèmes de confidentialité, elles offrent un aperçu fascinant de l'avenir de l'IA. Les entreprises et les particuliers peuvent dès à présent commencer à explorer ces technologies pour se préparer aux opportunités et aux changements à venir.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682ac3c2d2a741da509390ac/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 19 May 2025 05:39:00 GMT"
+    },
+    {
+        "title": "Apple's AI Assistant Overhaul",
+        "link": "https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp#comments",
+        "body": "Apple prévoit de reconstruire son assistant numérique Siri à partir de zéro, en se concentrant sur l'IA générative et en le rendant plus conversationnel et compétent dans la synthèse d'informations. L'équipe IA d'Apple à Zurich développe une nouvelle architecture basée sur les LLM. La société envisage également d'exploiter les iPhones et la confidentialité différentielle pour améliorer les données synthétiques, en comparant les données de formation fictives avec le langage des e-mails des utilisateurs. De plus, Apple envisage d'utiliser la version LLM de Siri pour rechercher et synthétiser des données à partir de multiples sources web, le transformant en un outil de recherche web basé sur l'IA. Ces efforts visent à résoudre les problèmes actuels de l'assistant numérique Apple Intelligence, qui a connu des difficultés depuis son lancement.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 18 May 2025 23:06:37 GMT"
     },
     {
         "title": "Les super-riches et vous",
@@ -61,12 +152,5 @@
         "body": "Amazon a réfuté un article de Reuters suggérant que son assistant numérique Alexa Plus, basé sur l'IA, n'était pas largement disponible. Des centaines de milliers de clients y ont déjà accès, et Amazon envoie des invitations à d'autres utilisateurs qui ont demandé un accès anticipé. Alexa Plus est une mise à jour de l'assistant numérique Alexa d'Amazon, utilisant l'IA générative, annoncée en février et gratuite pour les abonnés Amazon Prime. Bien que certaines fonctionnalités soient toujours en cours de développement, la mise à jour ajoute des capacités telles que la commande de plats à emporter et l'identification des membres de la famille.",
         "image": "",
         "date": "Sat, 17 May 2025 20:26:31 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans l'armée américaine",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/17/technology-for-the-warfighter/?ss=ai",
-        "body": "Le colonel Tucker Hamilton (retraité) a récemment présenté les applications de l'IA dans l'armée américaine, notamment son utilisation dans les drones et les avions. Hamilton a souligné l'importance de la collecte et de l'analyse de données multi-capteurs, ainsi que de la nécessité d'une interopérabilité entre les différentes branches de l'armée. Il a identifié quatre obstacles majeurs au progrès : l'éducation, la bureaucratie, l'aversion au risque et les services paroissiaux. Hamilton a également souligné l'importance de la boucle OODA (Observer, Orienter, Décider, Agir) et a suggéré que l'Amérique est en tête dans le domaine des grands modèles linguistiques, mais pas en vision par ordinateur. Enfin, il a souligné l'importance de la collaboration internationale et de l'éthique dans le développement de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6828b65591a50c2596acc4c2/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 17 May 2025 16:00:00 GMT"
     }
 ]
