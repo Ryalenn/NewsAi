@@ -21,6 +21,13 @@
         "date": "Sun, 18 May 2025 17:20:46 GMT"
     },
     {
+        "title": "Superordinateurs spatiaux chinois",
+        "link": "https://www.theverge.com/news/669157/china-begins-assembling-its-supercomputer-in-space#comments",
+        "body": "La Chine a lancé les 12 premiers satellites d'un projet de superordinateur orbital de 2 800 satellites, développé par ADA Space, Zhijiang Laboratory et Neijiang High-Tech Zone. Ces satellites sont dotés d'une intelligence artificielle (IA) de huit milliards de paramètres et peuvent effectuer 744 téraopérations par seconde. ADA Space prévoit d'atteindre 5 petaopérations par seconde avec ces 12 satellites. L'objectif à long terme est d'atteindre 1 000 petaopérations par seconde avec des milliers de satellites. Ces derniers communiquent entre eux à l'aide de lasers à 100 Gbps et partagent 30 téraoctets de stockage. Ils peuvent traiter les données directement dans l'espace, sans dépendre de stations terrestres. Les avantages d'un tel système incluent une réduction du temps de communication et une efficacité énergétique améliorée, selon des experts.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/021-mission-launch.png?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+        "date": "Sun, 18 May 2025 16:34:48 GMT"
+    },
+    {
         "title": "L'évolution de l'intelligence artificielle : des origines à l'avenir",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/18/ais-magic-cycle/?ss=ai",
         "body": "L'histoire de l'intelligence artificielle (IA) est plus longue que ce que beaucoup imaginent, remontant aux années 1950 avec les premiers ordinateurs mécaniques. Bien que le concept de machines intelligentes soit plus ancien, ce n'est qu'avec l'avènement de l'ère numérique et des systèmes de calcul basés sur les données que l'IA est devenue une possibilité réelle. L'article souligne l'importance du matériel informatique, expliquant pourquoi l'IA n'a pas décollé avant les années 1990 et l'ère du big data et de l'informatique en nuage. Les systèmes informatiques massifs d'aujourd'hui, alimentés par des centres de données colossaux, sont essentiels pour les modèles linguistiques massifs (LLM) et les réseaux neuronaux qui imitent l'intelligence humaine. L'article présente également une interview de Yossi Mathias, responsable de la recherche chez Google, qui décrit le cycle de la recherche en IA, de la publication à l'impact sociétal, et souligne l'importance de domaines tels que la santé, l'éducation et la crise climatique. Enfin, il explore le rôle futur de l'IA, suggérant qu'elle devrait assister plutôt que remplacer les humains, et souligne les progrès de l'informatique quantique.",
@@ -61,12 +68,5 @@
         "body": "Le colonel Tucker Hamilton (retraité) a récemment présenté les applications de l'IA dans l'armée américaine, notamment son utilisation dans les drones et les avions. Hamilton a souligné l'importance de la collecte et de l'analyse de données multi-capteurs, ainsi que de la nécessité d'une interopérabilité entre les différentes branches de l'armée. Il a identifié quatre obstacles majeurs au progrès : l'éducation, la bureaucratie, l'aversion au risque et les services paroissiaux. Hamilton a également souligné l'importance de la boucle OODA (Observer, Orienter, Décider, Agir) et a suggéré que l'Amérique est en tête dans le domaine des grands modèles linguistiques, mais pas en vision par ordinateur. Enfin, il a souligné l'importance de la collaboration internationale et de l'éthique dans le développement de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6828b65591a50c2596acc4c2/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 17 May 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la programmation assistée par l'IA",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/05/17/no-cubicle-required-ai-coding-agents-start-work/?ss=ai",
-        "body": "L'article explore l'évolution rapide de la programmation assistée par l'IA et son impact sur le cycle de vie du développement des applications logicielles. OpenAI a récemment présenté Codex, un outil capable de corriger les bogues, d'exécuter des tests et de fournir des analyses sur les codes existants. D'autres outils, tels que Codeium AI, Postman et Qodo, offrent également une assistance à la programmation et aux tests. AWS se joint à cette tendance avec AWS Transform, un outil conçu pour moderniser les charges de travail et faciliter la migration vers le cloud. AWS Transform utilise l'IA pour automatiser les tâches complexes de migration et de modernisation, améliorant ainsi considérablement la vitesse et l'efficacité du processus. L'article souligne également l'importance des tests unitaires et de la validation, et mentionne les préoccupations concernant l'obsolescence des compétences en programmation humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68288e9c9ed20ec03e7d7c6c/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 17 May 2025 14:33:00 GMT"
     }
 ]
