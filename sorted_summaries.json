@@ -14,6 +14,20 @@
         "date": "Mon, 19 May 2025 17:13:53 GMT"
     },
     {
+        "title": "Microsoft Employees Protest AI Contracts",
+        "link": "https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella#comments",
+        "body": "Des employés de Microsoft ont interrompu la conférence des développeurs Build de l'entreprise pour protester contre ses contrats d'IA et de cloud avec le gouvernement israélien. L'un des manifestants, Joe Lopez, ingénieur en firmware chez Azure, a envoyé un e-mail à des milliers de collègues, critiquant le silence de la direction de Microsoft sur le sujet. L'e-mail de Lopez fait suite à une déclaration de Microsoft selon laquelle une enquête interne n'a trouvé aucune preuve que sa technologie Azure et IA ait causé des dommages à Gaza. Cependant, le groupe de protestataires 'No Azure for Apartheid' accuse Microsoft de soutenir un «État d'apartheid» en ne suspendant pas ses ventes de services cloud et d'IA à Israël. Ils soulignent l'utilisation militaire israélienne de la technologie Azure et OpenAI pour la surveillance de masse et le traitement automatique du langage naturel. Lopez exprime sa déception envers Microsoft, affirmant qu'il pensait rejoindre une entreprise éthique, et demande à l'entreprise d'agir pour mettre fin au conflit.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/chrome_5meKDin8Z1.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 19 May 2025 16:55:31 GMT"
+    },
+    {
+        "title": "Nouvelles API pour l'IA dans le navigateur Edge",
+        "link": "https://www.theverge.com/news/669528/microsoft-ai-edge-browser-web-app-build-apis#comments",
+        "body": "Microsoft a annoncé à sa conférence Build que de nouvelles API seront bientôt disponibles pour les développeurs web, leur permettant d'accéder au modèle d'IA local Phi-4-mini de l'entreprise via le navigateur Edge. Ces API offriront des fonctionnalités telles que des boîtes de dialogue et des outils d'assistance à l'écriture pour la génération, le résumé et l'édition de texte. Les API fonctionneront sur différentes plateformes et pourront être utilisées avec d'autres modèles d'IA. Dans les prochains mois, Microsoft prévoit également de proposer une API de traduction de texte. Google propose des API similaires pour son navigateur Chrome, permettant des fonctionnalités telles que la traduction de texte, la génération de texte et d'images, et la création d'événements de calendrier.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 19 May 2025 16:05:03 GMT"
+    },
+    {
         "title": "L'avenir de la recherche et de l'IA selon Microsoft",
         "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/669409/microsoft-cto-kevin-scott-interview-ai-natural-language-search-openai#comments",
         "body": "Kevin Scott, CTO de Microsoft, discute de l'avenir de la recherche et de l'IA avec Nilay Patel de The Verge. Microsoft annonce un nouvel outil open source permettant aux sites Web d'intégrer une recherche en langage naturel basée sur l'IA. L'objectif est de repenser la recherche dans un monde où l'IA est plus largement distribuée, en permettant aux propriétaires de sites de contrôler leurs données et de choisir leurs modèles. MCP (Model Context Protocol), développé à l'origine par Anthropic, est un standard ouvert qui permet aux agents IA d'interagir avec les bases de données et les services de manière contrôlée. Microsoft rend la recherche locale MCP abordable et facile à mettre en œuvre pour encourager son adoption. Scott discute de la façon dont MCP pourrait stimuler la concurrence, améliorer la durabilité des entreprises et créer de nouvelles opportunités. Il aborde également la relation de Microsoft avec OpenAI, l'évolution des capacités de l'IA et les controverses entourant l'IA en tant qu'outil créatif.",
@@ -61,6 +75,13 @@
         "body": "La conférence annuelle des développeurs Google I/O est imminente, et contrairement aux années précédentes, l'accent ne sera pas mis sur les annonces du système d'exploitation Android. À la place, la keynote d'ouverture se concentrera principalement sur l'IA, avec également quelques annonces liées à la XR. La conférence aura lieu les 20 et 21 mai, et la keynote d'ouverture commencera à 10h PT le 20 mai. Google devrait annoncer de nouvelles fonctionnalités Gemini pour les téléphones et autres appareils, ainsi que des modèles mis à jour avec une puissance accrue. On espère également des mises à jour ambitieuses sur le projet Astra. En plus de l'IA, Google fournira également des mises à jour sur son système d'exploitation XR Android, y compris de nouvelles informations sur ses lunettes intelligentes prototypes. Avec la sortie imminente du casque XR de Samsung, Google pourrait également fournir des détails sur le logiciel XR.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/IO25_SVD_SocialShare.width-1000.format-webp.webp?quality=90&strip=all&crop=7.85%2C0%2C84.3%2C100&w=2400",
         "date": "Mon, 19 May 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Maîtriser l'art de la première impression",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/05/19/5-chatgpt-prompts-to-make-a-formidable-first-impression-in-business/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682ad0e0a47bebabdae8d781/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 19 May 2025 12:00:00 GMT"
     },
     {
         "title": "Wolters Kluwer : l'évolution d'une entreprise de publication en une entreprise technologique axée sur l'IA",
@@ -138,19 +159,5 @@
         "body": "Bien qu'un article de Reuters ait récemment suggéré que l'assistant numérique Alexa Plus d'Amazon, alimenté par l'IA, était difficile à trouver ou inaccessible pour les utilisateurs, Amazon a réfuté cette idée. Dans une déclaration forte, Amazon affirme que « des centaines de milliers de clients » ont déjà accès à Alexa Plus et que davantage de clients qui ont demandé un accès anticipé sont régulièrement invités. Alexa Plus est la version améliorée d'Alexa, utilisant l'IA générative, annoncée par Amazon en février et gratuite pour les abonnés Amazon Prime. Bien que Reuters n'ait pas explicitement déclaré qu'Alexa Plus n'était pas disponible, il a cité un analyste qui a exprimé des doutes sur sa disponibilité. Cependant, Engadget a rapporté qu'une vague d'invitations par e-mail avait été envoyée aux utilisateurs d'Alexa le vendredi, confirmant la déclaration d'Amazon selon laquelle « des centaines de milliers » de clients ont essayé l'assistant. Le programme d'accès anticipé a commencé à la fin du mois de mars, mais certaines fonctionnalités sont toujours en cours de développement, et Amazon accorde la priorité aux propriétaires de certains appareils Echo Show.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/alexa-plus.png?quality=90&strip=all&crop=0.031406446290291%2C0%2C99.937187107419%2C100&w=2400",
         "date": "Sat, 17 May 2025 22:13:15 GMT"
-    },
-    {
-        "title": "La révolution des taxis robots",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/05/17/tesla-robotaxi-will-have-lots-of-tele-ops-ie-supervised-fsd/?ss=ai",
-        "body": "Résumé : \n\nTesla s'apprête à lancer un projet pilote de taxis robots à Austin, mais les détails suggèrent que les véhicules pourraient être supervisés à distance, voire parfois conduits à distance, ce qui atténuerait l'impression de prouesse technologique. La société n'a pas encore démontré la capacité de ses véhicules à fonctionner sans la présence d'un humain, contrairement à ses concurrents Waymo et Cruise. Les affirmations d'Elon Musk selon lesquelles les véhicules Tesla nécessitent une intervention humaine seulement tous les 10 000 miles sont remises en question, car les données collectées par les propriétaires de Tesla suggèrent une intervention critique toutes les 400 miles. Le lancement du service de taxis robots de Tesla pourrait ne pas être aussi révolutionnaire que promis, en particulier compte tenu des risques associés à une mise sur le marché prématurée, comme l'ont démontré les accidents mortels impliquant des piétons et les équipes de Cruise et d'Uber ATG.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6828f0b632da09101cb37716/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 17 May 2025 20:33:00 GMT"
-    },
-    {
-        "title": "Alexa Plus : une mise à jour significative",
-        "link": "https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus",
-        "body": "Amazon a réfuté un article de Reuters suggérant que son assistant numérique Alexa Plus, basé sur l'IA, n'était pas largement disponible. Des centaines de milliers de clients y ont déjà accès, et Amazon envoie des invitations à d'autres utilisateurs qui ont demandé un accès anticipé. Alexa Plus est une mise à jour de l'assistant numérique Alexa d'Amazon, utilisant l'IA générative, annoncée en février et gratuite pour les abonnés Amazon Prime. Bien que certaines fonctionnalités soient toujours en cours de développement, la mise à jour ajoute des capacités telles que la commande de plats à emporter et l'identification des membres de la famille.",
-        "image": "",
-        "date": "Sat, 17 May 2025 20:26:31 GMT"
     }
 ]
