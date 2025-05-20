@@ -1,5 +1,12 @@
 [
     {
+        "title": "La carte graphique pour le gaming",
+        "link": "https://www.theverge.com/pc-gaming/667354/intel-b770-stay-tuned",
+        "body": "Le marché des GPU pour le gaming a besoin de concurrence, et Intel pourrait apporter une alternative intéressante avec sa gamme Arc. Bien qu'Intel n'ait officiellement teasé que ses nouveaux GPU Arc Pro pour les professionnels, son compte X a suggéré sur les réseaux sociaux qu'une carte graphique Arc B770 pour le gaming pourrait également être en préparation. Si cette carte graphique s'avère réelle et suit la même voie que les modèles B580 et B570, elle pourrait offrir une concurrence sérieuse aux leaders actuels du marché, Nvidia et AMD.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Intel-Arc-Pro-GPU-1.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Mon, 19 May 2025 21:37:05 GMT"
+    },
+    {
         "title": "La révolution de l'informatique distribuée",
         "link": "https://www.forbes.com/sites/craigsmith/2025/05/19/the-secret-life-of-servers-chronic-idleness-while-waiting-for-a-job/?ss=ai",
         "body": "",
@@ -152,12 +159,5 @@
         "body": "L'Internet des objets (IoT) connecte des milliards d'appareils physiques au réseau mondial, offrant des opportunités mais aussi des risques pour les pays, les entreprises et les individus. Les appareils IoT, tels que les wearables, les voitures connectées, les caméras de sécurité et les gadgets domestiques, communiquent entre eux et avec les humains. Bien que l'IoT révolutionne de nombreux secteurs, il présente également des vulnérababilités en matière de cybersécurité. Les appareils IoT sont souvent conçus avec un faible niveau de sécurité, ce qui les rend vulnérables aux attaques. Les attaques par botnet, par exemple, exploitent ces appareils pour surcharger les sites Web avec des demandes de trafic, entraînant leur crash. De plus, l'utilisation croissante de l'IoT dans des secteurs critiques comme la santé, les transports et la manufacture expose des données sensibles et des infrastructures essentielles. La protection des appareils IoT nécessite une approche proactive de la sécurité, incluant l'évaluation des risques, l'adoption de meilleures pratiques et l'utilisation de technologies de pointe comme l'intelligence artificielle pour détecter les anomalies et prévenir les menaces. La gestion des risques liés à l'IoT est cruciale pour les entreprises, impliquant la réduction du nombre d'appareils, le suivi des menaces, la mise à jour des logiciels et l'utilisation de méthodes d'authentification robustes. Enfin, une réponse réglementaire mondiale est nécessaire pour établir des normes de sécurité unifiées pour l'IoT et protéger les données des consommateurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6098708616af38ef0227ee89/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 18 May 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Alexa Plus est disponible pour des centaines de milliers de clients",
-        "link": "https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus#comments",
-        "body": "Bien qu'un article de Reuters ait récemment suggéré que l'assistant numérique Alexa Plus d'Amazon, alimenté par l'IA, était difficile à trouver ou inaccessible pour les utilisateurs, Amazon a réfuté cette idée. Dans une déclaration forte, Amazon affirme que « des centaines de milliers de clients » ont déjà accès à Alexa Plus et que davantage de clients qui ont demandé un accès anticipé sont régulièrement invités. Alexa Plus est la version améliorée d'Alexa, utilisant l'IA générative, annoncée par Amazon en février et gratuite pour les abonnés Amazon Prime. Bien que Reuters n'ait pas explicitement déclaré qu'Alexa Plus n'était pas disponible, il a cité un analyste qui a exprimé des doutes sur sa disponibilité. Cependant, Engadget a rapporté qu'une vague d'invitations par e-mail avait été envoyée aux utilisateurs d'Alexa le vendredi, confirmant la déclaration d'Amazon selon laquelle « des centaines de milliers » de clients ont essayé l'assistant. Le programme d'accès anticipé a commencé à la fin du mois de mars, mais certaines fonctionnalités sont toujours en cours de développement, et Amazon accorde la priorité aux propriétaires de certains appareils Echo Show.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/alexa-plus.png?quality=90&strip=all&crop=0.031406446290291%2C0%2C99.937187107419%2C100&w=2400",
-        "date": "Sat, 17 May 2025 22:13:15 GMT"
     }
 ]
