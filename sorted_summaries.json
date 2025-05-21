@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA et de la XR selon Google",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/05/21/google-io-2025-android-takes-a-back-seat-to-ai-and-xr/?ss=ai",
+        "body": "Google a mis l'accent sur l'IA et la XR lors de son événement annuel Google I/O, présentant les progrès de son modèle IA Gemini et son intégration dans diverses plateformes. Gemini a connu une augmentation significative de son utilisation, conduisant à son remplacement de Google Assistant dans la plupart des domaines. Google met également en avant Android XR, son premier système d'exploitation construit à partir de Gemini, et annonce des partenariats pour développer des lunettes intelligentes. L'entreprise présente également Project Aura, un casque XR en partenariat avec Xreal, et Google Beam, une plateforme de conférence XR. Google démontre sa compréhension de l'intersection de l'IA et de la XR, et son engagement à développer des partenariats et un écosystème robuste.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682e2b0d76d994a3ab176fab/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 21 May 2025 20:26:00 GMT"
+    },
+    {
         "title": "Sécurité de l'IA : les enjeux et les défis",
         "link": "https://www.forbes.com/sites/johnwerner/2025/05/21/do-no-harm-build-ai-safely/?ss=ai",
         "body": "Bien que l'expression « votre hypothèse est aussi bonne que la mienne » résume souvent l'attitude du public en matière de sécurité de l'IA, des experts travaillent discrètement sur cette question cruciale. L'un des principaux enjeux est d'adopter le slogan « d'abord, ne pas nuire » lors de l'utilisation de ces technologies puissantes. Les discussions récentes soulignent les risques associés à l'IA, allant des biais algorithmiques affectant l'accès au logement et à l'emploi aux implications géopolitiques de la domination technologique. Les intervenants soulignent la nécessité d'une gouvernance mondiale de l'IA, mettant en garde contre les dangers subtils et écrasants de l'IA. Ils soulignent également l'importance de mesurer et de surveiller en permanence les résultats de l'IA pour éviter les biais et protéger les moyens de subsistance, la liberté et la vie des personnes. Enfin, ils discutent de l'enthousiasme pour l'IA, comparant les modèles d'IA à des « bébés tigres », et soulignent la nécessité d'une réflexion responsable sur le développement de l'IA, des logiciels et des entreprises.",
@@ -12,6 +19,13 @@
         "body": "Le concept de revenu de base universel (RBU) est un sujet de débat de longue date, avec des partisans qui y voient un moyen de réduire significativement l'insécurité financière et des critiques qui soulignent les défis logistiques et financiers de sa mise en œuvre à l'échelle mondiale. Cependant, avec la convergence de l'intelligence artificielle (IA) et de l'informatique quantique, la viabilité du RBU à l'échelle mondiale pourrait devenir une réalité tangible. L'IA, avec sa capacité à traiter de vastes quantités de données et à découvrir des informations complexes, et l'informatique quantique, avec sa capacité à effectuer des calculs complexes et à explorer de multiples possibilités simultanément, se complètent pour créer l'IA quantique. Cette synergie pourrait révolutionner la gestion des ressources, l'optimisation et la modélisation économique, rendant le RBU plus abordable et adaptable. L'IA quantique pourrait optimiser l'allocation des ressources mondiales, éliminer les inefficacités et promouvoir l'équité et la transparence. Au-delà des avantages économiques, l'IA quantique pourrait également avoir un impact positif sur la psychologie humaine, la créativité, le développement personnel et la cohésion sociale. Sur le plan philosophique, il s'agit d'une réimagination de la gouvernance et des structures économiques, plaçant le bien-être humain et la durabilité au premier plan.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682cf0fc30f9c33e33843fbe/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 21 May 2025 12:29:00 GMT"
+    },
+    {
+        "title": "La conférence Build de Microsoft",
+        "link": "https://www.theverge.com/news/669382/microsoft-build-2025-news-ai-agents",
+        "body": "La conférence des développeurs Build de Microsoft, qui se déroule sur quatre jours, a débuté le 19 mai. L'événement a été marqué par des annonces importantes dans le domaine de l'IA, notamment : \n\n- La fonctionnalité « Cross Device Resume » qui permet de reprendre une session Spotify sur PC depuis un appareil mobile, similaire à la fonction « Handoff » d'Apple. \n- La fuite accidentelle d'informations confidentielles sur l'utilisation de l'IA de Microsoft par Walmart par Neta Haiby, responsable de la sécurité de l'IA chez Microsoft. \n- L'intégration de raccourcis IA dans l'Explorateur de fichiers de Windows 11, permettant d'accéder rapidement à des fonctionnalités d'IA comme le floutage d'images ou la synthèse de contenu. \n- La présentation d'un nouvel éditeur de texte en ligne de commande, « Edit on Windows », permettant aux développeurs de modifier des fichiers directement depuis l'invite de commande. \n- L'annonce de GitHub d'un agent IA de codage capable de corriger des bogues, d'ajouter des fonctionnalités et d'améliorer la documentation de manière autonome. \n- L'adoption par Microsoft du protocole Model Context Protocol (MCP) pour permettre aux applications IA de communiquer avec d'autres applications et services, y compris Windows. \n- La mise à disposition des modèles IA Grok 3 et Grok 3 mini d'Elon Musk sur Azure AI Foundry. \n\nLa conférence a également été interrompue par des manifestants protestant contre les contrats de Microsoft avec le gouvernement israélien.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967310.jpg?quality=90&strip=all&crop=0%2C0.0033827210608166%2C100%2C99.993234557878&w=2400",
+        "date": "Wed, 21 May 2025 11:11:06 GMT"
     },
     {
         "title": "La réaction surnaturelle à l'AGI",
@@ -418,19 +432,5 @@
         "body": "Le marché des GPU pour le gaming a besoin de concurrence, et Intel pourrait apporter une alternative intéressante avec sa gamme Arc. Bien qu'Intel n'ait officiellement teasé que ses nouveaux GPU Arc Pro pour les professionnels, son compte X a suggéré sur les réseaux sociaux qu'une carte graphique Arc B770 pour le gaming pourrait également être en préparation. Si cette carte graphique s'avère réelle et suit la même voie que les modèles B580 et B570, elle pourrait offrir une concurrence sérieuse aux leaders actuels du marché, Nvidia et AMD.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Intel-Arc-Pro-GPU-1.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
         "date": "Mon, 19 May 2025 21:37:05 GMT"
-    },
-    {
-        "title": "La loi Take It Down",
-        "link": "https://www.theverge.com/news/661230/trump-signs-take-it-down-act-ai-deepfakes#comments",
-        "body": "Le président Trump a signé la loi Take It Down, qui criminalise la distribution d'images intimes non consensuelles (NCII), y compris les deepfakes créés par l'IA. La loi exige des plateformes de médias sociaux qu'elles suppriment rapidement ces contenus lorsqu'elles en sont notifiées, sous peine de sanctions. Bien que soutenue par des entreprises technologiques, des défenseurs des parents et des jeunes, et la Première Dame, la loi est critiquée par certains groupes comme l'EFF et le CDT, qui craignent qu'elle ne menace la liberté d'expression et les technologies de protection de la vie privée. Le Cyber Civil Rights Initiative (CCRI) exprime également des préoccupations, suggérant que la loi pourrait finalement donner de faux espoirs aux survivants et être difficile à mettre en œuvre. Malgré ces critiques, Trump a balayé les préoccupations liées au Premier Amendement et la loi entre en vigueur, avec la FTC chargée de son application.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK419_DEEPFAKE_CVIRGINIA_K.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 19 May 2025 19:30:55 GMT"
-    },
-    {
-        "title": "Google lance son application mobile NotebookLM alimentée par l'IA",
-        "link": "https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app#comments",
-        "body": "Google a lancé son application mobile NotebookLM, désormais disponible sur Android et bientôt sur iOS. L'application mobile, très attendue, offre des fonctionnalités similaires à la version de bureau, notamment la possibilité de télécharger des sources d'information que l'application peut résumer, ainsi que la création de résumés audio similaires à des podcasts, appelés Audio Overviews. Les utilisateurs peuvent écouter ces résumés tout en utilisant d'autres applications ou hors ligne. L'application mobile a été lancée peu avant Google I/O, suggérant un focus sur l'IA lors de l'événement.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 19 May 2025 18:53:30 GMT"
     }
 ]
