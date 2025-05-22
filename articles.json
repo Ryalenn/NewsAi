@@ -49,14 +49,14 @@
         "check": "yes"
     },
     {
-        "title": "6,5 milliards de dollars pour amener l’IA encore plus loin : OpenAI va lancer « des produits, des produits et des produits »",
+        "title": "6,5 milliards de dollars pour amener l\u2019IA encore plus loin : OpenAI va lancer \u00ab des produits, des produits et des produits \u00bb",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2622953_65-milliards-de-dollars-pour-amener-lia-encore-plus-loin-openai-va-lancer-des-produits-des-produits-et-des-produits",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/openai-1200x675-1-768x432.jpg?resize=169,169&key=739e0afd",
         "date": "Tue, 20 May 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "« Gemini a été l’ingrédient magique » sur Android XR",
+        "title": "\u00ab Gemini a \u00e9t\u00e9 l\u2019ingr\u00e9dient magique \u00bb sur Android XR",
         "link": "https://www.frandroid.com/marques/google/2621637_gemini-a-ete-lingredient-magique-sur-android-xr",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/android-xr-google-io-2025-1200x900-1-768x576.jpg?resize=225,225&key=af857093",
         "date": "Tue, 20 May 2025 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Twitch remplace ses illustrations par des images générées par IA et suscite l’ire des utilisateurs",
+        "title": "Twitch remplace ses illustrations par des images g\u00e9n\u00e9r\u00e9es par IA et suscite l\u2019ire des utilisateurs",
         "link": "https://www.frandroid.com/culture-tech/web/2622569_twitch-remplace-ses-illustrations-par-des-images-generees-par-ia-et-suscite-lire-des-utilisateurs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/twitch-cross-eyes-1-1200x675-1-768x432.jpg?resize=169,169&key=2f7913d2",
         "date": "Tue, 20 May 2025 23:00:00 GMT",
@@ -320,5 +320,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/682ef30de1c80fc751523bfb/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 22 May 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/22/googles-new-ai-mode-threatens-the-traditional-internet/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682f88e049eb653feef74c98/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 22 May 2025 20:31:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/22/stanfords-use-of-microsoft-agentic-platform-leads-to-better-analysis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682f84e6afced7120f6d278c/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 22 May 2025 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/05/22/chatgpt-prompt-additions-for-more-accurate-output/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682dc24492af7d8ec6603607/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 22 May 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
