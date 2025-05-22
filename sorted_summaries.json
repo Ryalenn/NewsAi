@@ -1,10 +1,38 @@
 [
     {
+        "title": "La résistance de Signal face à Recall",
+        "link": "https://www.frandroid.com/marques/microsoft/2623369_microsoft-ne-nous-a-pas-laisse-dautre-choix-pourquoi-signal-snobe-la-controversee-fonctionnalite-recall-sur-windows",
+        "body": "L'application de messagerie Signal s'oppose fermement à la fonctionnalité Recall de Microsoft, qui permet à une IA de scanner en continu les activités des utilisateurs de Windows. Signal active par défaut une option de \"sécurité de l'écran\" qui censure le contenu de la fenêtre lors des captures d'écran par Recall, protégeant ainsi la vie privée des utilisateurs. Malgré les ajustements de Microsoft, Signal critique le manque de possibilité d'échapper à Recall et son impact négatif sur l'accessibilité. La fondation Signal sonne l'alarme sur les enjeux de vie privée dans le développement de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/recall-header-1-1200x788-1-768x504.png?resize=197,197&key=78a53509",
+        "date": "Wed, 21 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Android XR : l'avenir de la réalité mixte",
+        "link": "https://www.frandroid.com/marques/google/2622947_on-a-essaye-les-lunettes-connectees-de-google-deja-tres-tres-prometteuses",
+        "body": "Google a présenté sa nouvelle plateforme logicielle Android XR dédiée à la réalité mixte/augmentée lors de la Google I/O 2025. Les lunettes connectées Android XR offrent une expérience sobre et confortable, avec des informations discrètes et utiles. L'interface visuelle a été testée avec Google Maps et l'appareil photo, offrant des indications d'itinéraire et une mini-carte. L'IA Gemini permet des interactions orales et une analyse visuelle des objets. La démo est prometteuse, mais les capacités réelles de l'assistant IA restent à évaluer sur des produits finalisés.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/lunettes-android-xr-google-1200x897-1-768x574.jpg?resize=224,224&key=5b2d02d2",
+        "date": "Wed, 21 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Verge AI Update",
+        "link": "https://www.theverge.com/news/672210/signal-desktop-app-microsoft-recall-block-windows-11-ai",
+        "body": "Une nouvelle mise à jour de l'application Signal sur Windows empêche la fonctionnalité Recall de Microsoft de capturer des captures d'écran de chats sécurisés. Cette mise à jour active par défaut la protection de l'écran, similaire à la DRM qui bloque les captures d'écran sur Netflix. Bien que Signal ait facilité le désactivation de cette fonctionnalité, certains craignent que cela ne cause des problèmes aux utilisateurs ayant besoin de fonctionnalités d'accessibilité comme les lecteurs d'écran. Joshua Lund, développeur, critique Microsoft pour ne pas avoir fourni aux développeurs d'applications comme Signal les outils nécessaires pour refuser l'accès à des systèmes d'IA au niveau du système d'exploitation. La fonctionnalité Recall de Microsoft, qui permet de rechercher des emails ou des chats à l'aide de descriptions ou de thèmes, soulève des préoccupations en matière de sécurité et de confidentialité. Signal reconnaît l'existence d'utilisations légitimes pour les captures d'écran et utilise les outils à sa disposition, mais souligne la nécessité d'une meilleure gestion de l'accès aux informations sensibles par les systèmes d'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK459.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 21 May 2025 22:16:23 GMT"
+    },
+    {
         "title": "SynthID Detector",
         "link": "https://www.theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025",
         "body": "SynthID Detector est un outil de vérification qui permet de déterminer si un contenu a été créé à l'aide des outils d'IA de Google. Il identifie les contenus générés par les modèles d'IA de Google, tels que Gemini, Imagen, Lyria et Veo, en recherchant des filigranes SynthID. L'outil analyse les images, les pistes audio, les vidéos et les textes, et met en évidence les parties les plus susceptibles de contenir un filigrane. Google commence à tester l'outil auprès d'un groupe restreint d'utilisateurs et prévoit de l'étendre progressivement aux personnes inscrites sur la liste d'attente.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 21 May 2025 21:51:38 GMT"
+    },
+    {
+        "title": "La domination de Google sur les actualités",
+        "link": "https://www.theverge.com/news/672132/news-media-alliance-google-ai-mode-theft#comments",
+        "body": "L'article porte sur les critiques émises par l'association News/Media Alliance envers Google, accusant la société d'exploiter le contenu des éditeurs de nouvelles sans retour sur investissement. La nouvelle fonctionnalité AI Mode de Google, qui fournit des réponses générées par l'IA aux requêtes de recherche, est au cœur de la controverse. L'association, qui représente des éditeurs majeurs tels que Condé Nast et Vox Media, affirme que cette fonctionnalité prive les éditeurs de trafic et de revenus en s'appropriant leur contenu sans leur consentement. De plus, Google a décidé de ne pas demander la permission aux éditeurs pour inclure leur travail dans ses fonctionnalités de recherche AI, les laissant avec l'option de se retirer complètement des résultats de recherche. La directrice de News/Media Alliance, Danielle Coffey, qualifie cette pratique de « vol » et demande au Département de la Justice d'intervenir pour empêcher Google de dominer davantage l'internet.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 21 May 2025 21:18:51 GMT"
     },
     {
         "title": "L'avenir de l'IA et de la XR selon Google",
@@ -14,11 +42,32 @@
         "date": "Wed, 21 May 2025 20:26:00 GMT"
     },
     {
+        "title": "La nouvelle aventure de Jony Ive",
+        "link": "https://www.theverge.com/news/671955/jony-ive-rabbit-r1-humane-ai-pin",
+        "body": "Jony Ive, ancien chef designer d'Apple, et Sam Altman, cofondateur d'OpenAI, collaborent pour développer un gadget d'IA qui devrait sortir en 2026. Ive a qualifié les tentatives précédentes, comme le Pin de Humane AI et le R1 de Rabbit, de « très mauvais produits ». Rabbit, bien que reconnaissant les défauts de son R1, a défendu ses efforts continus et son évolution, contrairement à Humane AI, qui a été acquise et fermée. Rabbit se réjouit de la concurrence et est impatient de voir ce que Ive et Altman apporteront au marché de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25429568/Rabbit_R1_comparison.JPG?quality=90&strip=all&crop=34.8%2C19.500304692261%2C61.8%2C61.800965640088&w=2400",
+        "date": "Wed, 21 May 2025 19:02:20 GMT"
+    },
+    {
         "title": "Annonces ciblées par l'IA de Google",
         "link": "https://www.theverge.com/news/671514/google-ai-mode-overviews-ads-expansion#comments",
         "body": "Google étend la présence d'annonces publicitaires dans ses fonctionnalités de recherche basées sur l'IA. La société a annoncé le 21 mai qu'elle allait commencer à tester des annonces dans le cadre d'AI Mode, une nouvelle fonctionnalité de recherche alimentée par l'IA récemment lancée aux États-Unis. AI Mode est un nouvel onglet dans Google Search qui offre une interface de style chatbot, fournissant un résumé du sujet recherché ainsi que des liens vers des sites Web pertinents. Google prévoit d'inclure des recommandations de produits et d'autres annonces ciblées dans ces résultats. De plus, la société étend également la présence d'annonces dans les AI Overviews, des résumés générés par l'IA qui apparaissent en tête de certains résultats de recherche, en les rendant désormais disponibles à la fois sur mobile et sur les appareils de bureau. Ces annonces seront visibles pour les utilisateurs aux États-Unis dès aujourd'hui, et Google prévoit également de les déployer dans les AI Overviews en anglais dans certains pays plus tard cette année.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/portrait-3.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
         "date": "Wed, 21 May 2025 18:12:51 GMT"
+    },
+    {
+        "title": "La convergence de l'IA et du matériel",
+        "link": "https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple#comments",
+        "body": "OpenAI acquiert la startup io de Jony Ive, une entreprise de matériel informatique spécialisée dans l'IA, pour 6,5 milliards de dollars. Environ 55 employés, dont des ingénieurs en matériel informatique, des développeurs de logiciels et des experts en fabrication, rejoindront OpenAI. Jony Ive et son studio de design LoveFrom ne rejoindront pas OpenAI, mais superviseront le design de ses produits logiciels et matériels. Les premiers produits issus de cette acquisition sont prévus pour 2026. Jony Ive critique les échecs de l'IA, comme Humane Pin et Rabbit R1, et souligne la nécessité de nouvelles approches dans la conception de produits d'IA. Le PDG d'OpenAI, Sam Altman, partage l'enthousiasme de Ive, qualifiant leur premier produit de \"la technologie la plus cool que le monde ait jamais vue\".",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/portrait-3.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+        "date": "Wed, 21 May 2025 17:12:39 GMT"
+    },
+    {
+        "title": "La bataille pour le contrôle des données dans la recherche IA",
+        "link": "https://www.theverge.com/news/671711/google-ai-overviews-search-publisher-data-choice#comments",
+        "body": "Résumé : Google a été accusé de mettre à jour discrètement les contrôles des éditeurs sans annonce publique, leur refusant ainsi le choix d'exclure leur contenu des résultats de recherche IA. Un document interne révélé lors d'un procès antitrust américain montre que Google a discuté de l'octroi aux éditeurs d'un contrôle plus granulaire sur l'utilisation de leurs données dans les fonctionnalités de recherche IA, mais a finalement offert une illusion de choix. Google dispose d'un avantage considérable dans le développement de l'IA grâce à l'accès aux données de son moteur de recherche, mais ses fonctionnalités IA peuvent réduire le trafic vers les sites Web qu'il utilise comme source. Les éditeurs sont confrontés à un ultimatum : soit autoriser l'utilisation de leurs données par les modèles IA de Google, soit ne pas être indexés par le moteur de recherche. Bien que Google ait introduit une option de refus pour l'entraînement IA en 2023, celle-ci ne s'applique pas aux produits de recherche spécifiques. Le document indique que Google a intentionnellement rendu floues les informations sur les contrôles des éditeurs pour éviter les détails de distinction entre les modèles IA. Google affirme que le document représente une liste précoce d'options envisagées et ne reflète pas ses décisions finales.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 21 May 2025 16:48:07 GMT"
     },
     {
         "title": "Sécurité de l'IA : les enjeux et les défis",
@@ -334,6 +383,13 @@
         "body": "Google introduit la traduction vocale en temps réel dans Meet, alimentée par l'IA Gemini. Cette fonctionnalité traduit ce que vous dites dans la langue préférée de votre interlocuteur tout en conservant le son de votre voix, votre ton et votre expression. Dans une démonstration, un anglophone converse avec un hispanophone. Meet dubbe en temps réel la conversation de chacun dans la langue de l'autre, en préservant les inflexions vocales. Microsoft Teams a introduit une fonctionnalité similaire plus tôt cette année. Actuellement, Meet ne traduit qu'entre l'anglais et l'espagnol, mais Google prévoit d'ajouter l'italien, l'allemand et le portugais dans les semaines à venir. La fonctionnalité est désormais disponible pour les abonnés et sera proposée aux entreprises plus tard cette année.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/google-meet-translate_185f9d.png?quality=90&strip=all&crop=20.79638738039%2C0%2C78.525193989219%2C100&w=2400",
         "date": "Tue, 20 May 2025 17:13:22 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une course mondiale à la domination technologique",
+        "link": "https://www.youtube.com/watch?v=x_x-JAAKSvU",
+        "body": "Résumé : \n\nLa course mondiale à la domination dans le domaine de l'intelligence artificielle (IA) est lancée, et les États-Unis et la Chine sont aux avant-postes. Avec des investissements massifs des deux pays, la compétition est féroce, chacun cherchant à devenir le leader mondial de l'IA. Cette technologie est considérée comme un facteur clé de la puissance économique et militaire, et les pays investissent massivement dans la recherche, le développement et la commercialisation de l'IA. La Chine a fait de grands progrès, avec des entreprises comme Baidu, Alibaba et Tencent, tandis que les États-Unis misent sur leur écosystème d'innovation et leurs géants technologiques. L'accent est mis sur l'éthique et la responsabilité, avec des discussions sur la réglementation et la collaboration internationale. La course à l'IA aura un impact profond sur l'économie et la société, et le leadership dans ce domaine est crucial pour façonner l'avenir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/google-meet-translate_185f9d.png?quality=90&strip=all&crop=20.79638738039%2C0%2C78.525193989219%2C100&w=2400",
+        "date": "Tue, 20 May 2025 17:07:39 GMT"
     },
     {
         "title": "L'avenir de l'IA : de la science-fiction à la réalité",
