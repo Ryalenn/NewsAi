@@ -1,10 +1,24 @@
 [
     {
+        "title": "SynthID Detector",
+        "link": "https://www.theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025",
+        "body": "SynthID Detector est un outil de vérification qui permet de déterminer si un contenu a été créé à l'aide des outils d'IA de Google. Il identifie les contenus générés par les modèles d'IA de Google, tels que Gemini, Imagen, Lyria et Veo, en recherchant des filigranes SynthID. L'outil analyse les images, les pistes audio, les vidéos et les textes, et met en évidence les parties les plus susceptibles de contenir un filigrane. Google commence à tester l'outil auprès d'un groupe restreint d'utilisateurs et prévoit de l'étendre progressivement aux personnes inscrites sur la liste d'attente.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 21 May 2025 21:51:38 GMT"
+    },
+    {
         "title": "L'avenir de l'IA et de la XR selon Google",
         "link": "https://www.forbes.com/sites/moorinsights/2025/05/21/google-io-2025-android-takes-a-back-seat-to-ai-and-xr/?ss=ai",
         "body": "Google a mis l'accent sur l'IA et la XR lors de son événement annuel Google I/O, présentant les progrès de son modèle IA Gemini et son intégration dans diverses plateformes. Gemini a connu une augmentation significative de son utilisation, conduisant à son remplacement de Google Assistant dans la plupart des domaines. Google met également en avant Android XR, son premier système d'exploitation construit à partir de Gemini, et annonce des partenariats pour développer des lunettes intelligentes. L'entreprise présente également Project Aura, un casque XR en partenariat avec Xreal, et Google Beam, une plateforme de conférence XR. Google démontre sa compréhension de l'intersection de l'IA et de la XR, et son engagement à développer des partenariats et un écosystème robuste.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682e2b0d76d994a3ab176fab/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 21 May 2025 20:26:00 GMT"
+    },
+    {
+        "title": "Annonces ciblées par l'IA de Google",
+        "link": "https://www.theverge.com/news/671514/google-ai-mode-overviews-ads-expansion#comments",
+        "body": "Google étend la présence d'annonces publicitaires dans ses fonctionnalités de recherche basées sur l'IA. La société a annoncé le 21 mai qu'elle allait commencer à tester des annonces dans le cadre d'AI Mode, une nouvelle fonctionnalité de recherche alimentée par l'IA récemment lancée aux États-Unis. AI Mode est un nouvel onglet dans Google Search qui offre une interface de style chatbot, fournissant un résumé du sujet recherché ainsi que des liens vers des sites Web pertinents. Google prévoit d'inclure des recommandations de produits et d'autres annonces ciblées dans ces résultats. De plus, la société étend également la présence d'annonces dans les AI Overviews, des résumés générés par l'IA qui apparaissent en tête de certains résultats de recherche, en les rendant désormais disponibles à la fois sur mobile et sur les appareils de bureau. Ces annonces seront visibles pour les utilisateurs aux États-Unis dès aujourd'hui, et Google prévoit également de les déployer dans les AI Overviews en anglais dans certains pays plus tard cette année.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/portrait-3.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+        "date": "Wed, 21 May 2025 18:12:51 GMT"
     },
     {
         "title": "Sécurité de l'IA : les enjeux et les défis",
@@ -14,6 +28,13 @@
         "date": "Wed, 21 May 2025 15:00:00 GMT"
     },
     {
+        "title": "L'avantage de Google dans le domaine de l'IA",
+        "link": "https://www.theverge.com/tech/671201/google-personal-context-ai-advantage-data#comments",
+        "body": "Google donne progressivement à son modèle linguistique Gemini un accès plus important aux données des utilisateurs afin de personnaliser ses réponses. La fonctionnalité « Gemini with personalization » permet au modèle d'IA d'accéder à l'historique de recherche de l'utilisateur pour fournir des réponses adaptées à ses besoins spécifiques. La nouvelle fonctionnalité « personal context » va encore plus loin, en permettant à Gemini d'exploiter les informations provenant de diverses applications Google, telles que Gmail et Google Drive, pour générer des réponses qui reflètent le style et le ton de l'utilisateur. Cette approche donne à Gemini un avantage significatif par rapport à ses concurrents, tels que ChatGPT et Claude, car il peut fournir des réponses plus pertinentes et adaptées sans avoir besoin d'interactions préalables.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/lcimg-bb0866b3-a0b7-45fb-9ab9-7663c5205982.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
+        "date": "Wed, 21 May 2025 12:30:00 GMT"
+    },
+    {
         "title": "Réinventer la sécurité économique avec l'IA quantique",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/05/21/humanitys-next-leap-quantum-ai-ubi-and-a-fair-chance-for-all/?ss=ai",
         "body": "Le concept de revenu de base universel (RBU) est un sujet de débat de longue date, avec des partisans qui y voient un moyen de réduire significativement l'insécurité financière et des critiques qui soulignent les défis logistiques et financiers de sa mise en œuvre à l'échelle mondiale. Cependant, avec la convergence de l'intelligence artificielle (IA) et de l'informatique quantique, la viabilité du RBU à l'échelle mondiale pourrait devenir une réalité tangible. L'IA, avec sa capacité à traiter de vastes quantités de données et à découvrir des informations complexes, et l'informatique quantique, avec sa capacité à effectuer des calculs complexes et à explorer de multiples possibilités simultanément, se complètent pour créer l'IA quantique. Cette synergie pourrait révolutionner la gestion des ressources, l'optimisation et la modélisation économique, rendant le RBU plus abordable et adaptable. L'IA quantique pourrait optimiser l'allocation des ressources mondiales, éliminer les inefficacités et promouvoir l'équité et la transparence. Au-delà des avantages économiques, l'IA quantique pourrait également avoir un impact positif sur la psychologie humaine, la créativité, le développement personnel et la cohésion sociale. Sur le plan philosophique, il s'agit d'une réimagination de la gouvernance et des structures économiques, plaçant le bien-être humain et la durabilité au premier plan.",
@@ -21,11 +42,32 @@
         "date": "Wed, 21 May 2025 12:29:00 GMT"
     },
     {
+        "title": "Google I/O : l'avenir de la recherche avec l'IA",
+        "link": "https://www.theverge.com/google/671200/google-googling-ai-mode-project-mariner-i-o-2025",
+        "body": "Google a présenté lors de sa conférence I/O sa vision de l'avenir de la recherche, qui repose en grande partie sur l'IA. La société a mis en avant deux fonctionnalités principales : AI Mode et Project Mariner. AI Mode, désormais disponible pour tous aux États-Unis, offre une interface de type chatbot au sein de Google Search, permettant à l'utilisateur de poser des questions complexes et d'obtenir des réponses nuancées. La technologie sous-jacente, appelée « query fanout technique », permet à Google de lancer simultanément plusieurs requêtes, d'explorer des sous-thèmes et d'exploiter des ensembles de données en temps réel pour fournir des réponses de haute qualité. Project Mariner, quant à lui, est un outil permettant aux utilisateurs d'informer Google d'effectuer des tâches spécifiques sur le Web, comme la recherche d'appartements ou de billets pour un match de baseball. Avec ces nouvelles fonctionnalités, Google vise à faire en sorte que ses outils d'IA effectuent une grande partie des recherches à la place de l'utilisateur, offrant ainsi une expérience de découverte plus efficace et intuitive.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/lcimg-66e6ad53-8637-4218-a1b3-f38200b857cd.jpeg?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
+        "date": "Wed, 21 May 2025 11:30:00 GMT"
+    },
+    {
         "title": "La conférence Build de Microsoft",
         "link": "https://www.theverge.com/news/669382/microsoft-build-2025-news-ai-agents",
         "body": "La conférence des développeurs Build de Microsoft, qui se déroule sur quatre jours, a débuté le 19 mai. L'événement a été marqué par des annonces importantes dans le domaine de l'IA, notamment : \n\n- La fonctionnalité « Cross Device Resume » qui permet de reprendre une session Spotify sur PC depuis un appareil mobile, similaire à la fonction « Handoff » d'Apple. \n- La fuite accidentelle d'informations confidentielles sur l'utilisation de l'IA de Microsoft par Walmart par Neta Haiby, responsable de la sécurité de l'IA chez Microsoft. \n- L'intégration de raccourcis IA dans l'Explorateur de fichiers de Windows 11, permettant d'accéder rapidement à des fonctionnalités d'IA comme le floutage d'images ou la synthèse de contenu. \n- La présentation d'un nouvel éditeur de texte en ligne de commande, « Edit on Windows », permettant aux développeurs de modifier des fichiers directement depuis l'invite de commande. \n- L'annonce de GitHub d'un agent IA de codage capable de corriger des bogues, d'ajouter des fonctionnalités et d'améliorer la documentation de manière autonome. \n- L'adoption par Microsoft du protocole Model Context Protocol (MCP) pour permettre aux applications IA de communiquer avec d'autres applications et services, y compris Windows. \n- La mise à disposition des modèles IA Grok 3 et Grok 3 mini d'Elon Musk sur Azure AI Foundry. \n\nLa conférence a également été interrompue par des manifestants protestant contre les contrats de Microsoft avec le gouvernement israélien.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967310.jpg?quality=90&strip=all&crop=0%2C0.0033827210608166%2C100%2C99.993234557878&w=2400",
         "date": "Wed, 21 May 2025 11:11:06 GMT"
+    },
+    {
+        "title": "Microsoft AI Head Accidentally Leaks Confidential Walmart Info",
+        "link": "https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption#comments",
+        "body": "Lors d'une session sur les meilleures pratiques en matière de sécurité de l'IA à la conférence Microsoft Build, la responsable de la sécurité de l'IA chez Microsoft, Neta Haiby, a accidentellement révélé des messages internes confidentiels concernant l'utilisation par Walmart des outils d'IA de Microsoft. La session a été interrompue par deux anciens employés de Microsoft protestant contre les contrats cloud de l'entreprise avec le gouvernement israélien. Après avoir été escortés dehors, Haiby a repris la session, mais a accidentellement basculé sur Microsoft Teams, affichant des messages internes discutant de l'utilisation prochaine par Walmart des services Entra et AI Gateway de Microsoft. L'incident a mis en lumière les préoccupations concernant les pratiques éthiques de Microsoft en matière d'IA et ses relations commerciales.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2215448451.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 21 May 2025 07:13:12 GMT"
+    },
+    {
+        "title": "Google et Volvo s'associent pour intégrer l'IA Gemini dans les voitures",
+        "link": "https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive#comments",
+        "body": "Google a annoncé à la conférence I/O son intention d'intégrer son IA chatbot, Gemini, dans diverses plateformes, y compris les voitures. Volvo s'est empressé d'annoncer son partenariat étendu avec Google pour être le premier à intégrer Gemini dans sa gamme de modèles. Gemini vise à réduire la charge cognitive des conducteurs en leur permettant d'avoir des conversations plus naturelles avec leur voiture, notamment pour la traduction linguistique, la navigation et la recherche d'endroits spécifiques. Les conducteurs pourront également poser des questions sur le manuel de leur véhicule. Gemini sera disponible pour les voitures compatibles avec Android Auto dans les semaines à venir, tandis que les véhicules avec Android Automotive y auront accès plus tard cette année. Volvo servira également de plate-forme de référence pour le développement et les tests des technologies automobiles futures de Google, recevant ainsi les nouvelles fonctionnalités et mises à jour en premier.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/305713_Volvo_EX90.jpg?quality=90&strip=all&crop=0%2C5.5588235294118%2C100%2C88.882352941176&w=2400",
+        "date": "Wed, 21 May 2025 07:00:00 GMT"
     },
     {
         "title": "La réaction surnaturelle à l'AGI",
@@ -54,6 +96,20 @@
         "body": "Résumé : \n\nLa course mondiale à la domination dans le domaine de l'intelligence artificielle (IA) est en plein essor, avec des pays investissant massivement dans cette technologie. La Chine et les États-Unis sont les leaders actuels, mais d'autres pays comme le Canada, le Royaume-Uni, la France et l'Inde augmentent rapidement leurs capacités en IA. La course à l'IA est motivée par le potentiel énorme de cette technologie dans divers secteurs, tels que la santé, les transports, la défense et l'éducation. Les pays investissent dans la recherche, le développement de talents et l'infrastructure nécessaire pour soutenir l'IA. La collaboration entre les secteurs public et privé est essentielle, et les entreprises technologiques jouent un rôle crucial dans la formation de partenariats avec les gouvernements. La course à l'IA soulève également des questions éthiques et sociales, et les pays doivent trouver un équilibre entre l'innovation et la protection de la vie privée, ainsi que la sécurité. Les normes et réglementations internationales sont en cours de développement pour gérer l'impact de l'IA sur la société. La course à la domination de l'IA aura un impact profond sur l'économie mondiale et la géopolitique, et les pays qui investissent et innovent avec succès dans ce domaine en récolteront les avantages.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/IMG_2904.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 20 May 2025 23:07:19 GMT"
+    },
+    {
+        "title": "Twitch et l'IA : une intégration controversée",
+        "link": "https://www.frandroid.com/culture-tech/web/2622569_twitch-remplace-ses-illustrations-par-des-images-generees-par-ia-et-suscite-lire-des-utilisateurs",
+        "body": "Twitch a récemment introduit des images de catégories générées par IA, suscitant des réactions mitigées de la part des utilisateurs. Cet ajout fait suite à l'introduction précédente d'une emote IA sur la plateforme. Malgré l'opposition, avec plus de 13 000 votes pour la suppression de l'emote IA et des demandes similaires pour les nouvelles illustrations, Twitch n'a pas encore répondu aux préoccupations des utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/twitch-cross-eyes-1-1200x675-1-768x432.jpg?resize=169,169&key=2f7913d2",
+        "date": "Tue, 20 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA selon Google",
+        "link": "https://www.frandroid.com/marques/google/2622019_atroce-je-ne-veux-pas-ca-wow-juste-incroyable-lia-de-google-effraie-autant-quelle-impressionne",
+        "body": "Lors de la Google I/O 2025, la société a présenté ses dernières avancées en matière d'IA, notamment Project Astra, une évolution de l'assistant sur smartphone, et Veo 3, un moteur de génération vidéo. Veo 3 a particulièrement impressionné et inquiété le public, car il permet de créer des vidéos réalistes avec son et voix en quelques minutes, soulevant des préoccupations en matière de désinformation. Les réactions sur les réseaux sociaux vont de l'émerveillement à la crainte, les utilisateurs reconnaissant l'exploit technologique tout en s'inquiétant des possibles usages malveillants.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-i-o-25-keynote-1-44-27-screenshot-1200x675-1-768x432.jpg?resize=169,169&key=8ea88876",
+        "date": "Tue, 20 May 2025 23:00:00 GMT"
     },
     {
         "title": "OpenAI s'associe à Jony Ive pour créer des appareils IA révolutionnaires",
@@ -341,96 +397,5 @@
         "body": "Microsoft intègre des fonctionnalités d'IA dans l'Explorateur de fichiers de Windows 11, permettant aux utilisateurs d'accéder rapidement à des fonctionnalités d'IA en cliquant droit sur un fichier. Quatre actions d'image sont actuellement testées, y compris la recherche visuelle Bing pour trouver des images similaires, le flou de l'arrière-plan et l'effacement d'objets. Microsoft prévoit également de tester des actions d'IA similaires pour les fichiers Office, permettant de résumer des documents et de créer des listes générées par l'IA. Ces actions seront limitées aux abonnés commerciaux de Microsoft 365 avec une licence Copilot. De plus, Microsoft teste des changements visuels dans la fonctionnalité de widgets de Windows 11, y compris l'introduction d'histoires curatées par Copilot. Enfin, une nouvelle fonctionnalité de gestion de l'alimentation du processeur, sensible à l'interaction de l'utilisateur, vise à réduire la consommation d'énergie sur les ordinateurs portables et les tablettes.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Image-Actions-in-FE.png?quality=90&strip=all&crop=3.23756432247%2C0%2C93.52487135506%2C100&w=2400",
         "date": "Tue, 20 May 2025 11:30:26 GMT"
-    },
-    {
-        "title": "Twitch et l'IA : une intégration controversée",
-        "link": "https://www.frandroid.com/culture-tech/web/2622569_twitch-remplace-ses-illustrations-par-des-images-generees-par-ia-et-suscite-lire-des-utilisateurs",
-        "body": "Twitch, la populaire plateforme de streaming, a récemment introduit des illustrations de catégories générées par IA, suscitant des réactions mitigées de la part des utilisateurs. Cette décision fait suite à l'introduction précédente d'une emote IA sur la plateforme, qui avait également été mal accueillie. Les utilisateurs ont exprimé leur mécontentement sur Uservoice, demandant le remplacement des créations IA par des œuvres humaines. La proposition de supprimer l'emote IA a recueilli plus de 13 000 votes, tandis que la demande de changer les illustrations de catégorie en a déjà obtenu plus de 4000. Malgré ces réactions, Twitch n'a pas encore commenté ces changements.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/twitch-cross-eyes-1-1200x675-1-768x432.jpg?key=2f7913d2",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Google impressionne et inquiète",
-        "link": "https://www.frandroid.com/marques/google/2622019_atroce-je-ne-veux-pas-ca-wow-juste-incroyable-lia-de-google-effraie-autant-quelle-impressionne",
-        "body": "La conférence Google I/O 2025 a présenté des avancées majeures en matière d'IA, notamment Project Astra, une IA d'assistance polyvalente, et Veo 3, un moteur de génération vidéo avec son. Veo 3 a particulièrement impressionné et inquiété le public par sa capacité à créer des vidéos réalistes et son potentiel de désinformation. Les réactions vont de l'admiration à la crainte, soulignant les enjeux éthiques liés à l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/android-xr-google-io-2025-1200x900-1-768x576.jpg?key=af857093",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA avec Intel",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2621503_comment-intel-compte-defier-nvidia-avec-ses-nouvelles-cartes-arc-pro-dediees-a-lia",
-        "body": "Intel dévoile sa nouvelle série de cartes graphiques professionnelles Arc Pro, qui marque une étape importante dans sa stratégie GPU. Avec des prix compétitifs et une grande quantité de VRAM, Intel vise à concurrencer le quasi-monopole de Nvidia sur l'IA professionnelle. Les cartes B2B d'Intel offrent une quantité généreuse de VRAM, avec 16 Go pour l'Arc Pro B50 et 24 Go pour l'Arc Pro B60, à des prix respectifs de 299 $ et 500 $. L'entreprise met également en avant des cas d'usage concrets de l'IA, comme le débogage automatique de code, qui réduit considérablement le temps nécessaire. De plus, Intel ouvre son écosystème à des partenaires tiers et simplifie l'aspect logiciel avec une solution tout-en-un sous Linux. Enfin, le Projet Battlematrix propose des stations de travail IA intégrant jusqu'à huit GPU Arc Pro B60, capables d'exécuter localement des modèles à grande échelle.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-1200x800-2-768x512.jpg?key=868bafc1",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le protocole MCP : un standard pour l'interopérabilité de l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2621139_cest-quoi-le-model-context-protocol-mcp-ce-standard-adopte-par-google-et-microsoft-cette-semaine",
-        "body": "Le Model Context Protocol (MCP), un protocole ouvert et standardisé, vise à créer de l'interopérabilité entre les modèles d'IA et les applications qui les utilisent. Cette semaine, Microsoft et Google ont annoncé leur adoption du MCP, rejoignant ainsi OpenAI. Le MCP agit comme une couche d'abstraction, permettant aux développeurs d'intégrer facilement des fonctionnalités d'IA dans leurs applications sans se soucier du modèle sous-jacent. Cela accélère le développement et permet une mise à jour ou un changement de modèle sans réinventer la roue. Microsoft intègre le MCP dans plusieurs de ses produits, dont GitHub et Azure, tandis que Google le supporte dans son SDK et ses API Gemini. L'adoption croissante du MCP pourrait conduire à une utilisation plus généralisée et efficace de l'IA dans les applications grand public.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/ia-smartphones-1200x675-1-768x432.jpg?resize=169,169&key=2e665175",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Android XR : La vision de Google pour l'IA dans la réalité augmentée",
-        "link": "https://www.frandroid.com/marques/google/2621265_android-xr-comment-gemini-va-devenir-votre-assistant-virtuel-dans-le-monde-reel",
-        "body": "Google présente Android XR, une plateforme qui, associée à des lunettes connectées, vise à assister l'utilisateur dans le monde réel. En s'appuyant sur la vision par ordinateur, Android XR peut comprendre l'environnement de l'utilisateur pour offrir des fonctionnalités telles que la navigation, la traduction en temps réel, et l'envoi de messages. Google collabore avec Samsung et Qualcomm pour le matériel, et prévoit de démocratiser les lunettes connectées en signant des partenariats avec des marques connues.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/Android-XR-lunetteswebp-1200x677-1-768x433.webp?resize=169,169&key=702ed31a",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google AI Ultra",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2619665_ultra-complet-et-ultra-cher-le-nouvel-abonnement-de-google-donne-acces-a-la-creme-de-lia-et-plus",
-        "body": "Google a présenté son nouvel abonnement premium, Google AI Ultra, lors de la Google I/O 2025, offrant un accès complet aux capacités de l'IA de l'entreprise. Cet abonnement comprend l'utilisation des meilleurs modèles de langage, une montre de sport en titane et verre saphir, 30 To de stockage cloud, ainsi que YouTube Premium. Le prix est fixé à 249,99 $ par mois, et le service sera disponible aux États-Unis dès le 20 mai, puis dans 70 autres pays.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/gemini-app-1200x675-1-768x432.jpeg?resize=169,169&key=e2d8ec19",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Flow : l'IA au service de la création vidéo",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2619671_lia-peut-elle-faire-de-vrais-films-ce-quil-faut-savoir-sur-google-flow",
-        "body": "Google dévoile Veo 3, capable de générer des vidéos avec du son, et présente Google Flow, un outil de création et de montage vidéo basé sur l'IA. Flow permet aux utilisateurs de créer des films en indiquant simplement à l'IA les scènes souhaitées. L'outil offre une grande flexibilité, permettant de créer des scènes cohérentes ou de démarrer de nouvelles prises de vue à partir d'images existantes. Google Flow est une évolution de VideoFX et est actuellement disponible aux États-Unis pour les abonnés Google AI Pro et AI Ultra. La question de la capacité de l'IA à créer de \"vrais\" films est soulevée, et Google positionne Flow comme un outil pratique pour les réalisateurs et créateurs de contenus.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-flow-1200x675-1-768x432.jpg?resize=169,169&key=3192eb11",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Beam",
-        "link": "https://www.frandroid.com/marques/google/2619673_lun-des-projets-les-plus-fous-de-google-passe-a-la-vitesse-superieure-voici-google-beam",
-        "body": "Google a annoncé le lancement prochain de Google Beam, une technologie révolutionnaire pour les visioconférences, issue du Project Starline. Cette technologie donne l'impression que les participants se trouvent dans la même pièce, malgré les distances. Google Beam utilise un grand écran de télévision, des capteurs avancés et un puissant algorithme de modélisation 3D en temps réel. Le produit, développé en partenariat avec HP, cible principalement les entreprises, avec des sociétés comme Deloitte, Salesforce et Zoom montrant déjà leur intérêt.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-beam-demo-1200x675-1-768x432.jpg?resize=169,169&key=e9c54a6a",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de Google Shopping avec l'IA",
-        "link": "https://www.frandroid.com/marques/google/2619715_acheter-au-meilleur-prix-essayer-des-habits-a-distance-comment-google-shopping-veut-chambouler-vos-achats-en-ligne",
-        "body": "Google améliore son expérience de shopping en ligne avec de nouvelles fonctionnalités basées sur l'IA. Les utilisateurs peuvent désormais visualiser virtuellement des vêtements sur différents modèles et sur eux-mêmes grâce à un nouveau modèle de génération d'images. De plus, Google Shopping peut trouver le meilleur prix pour un produit et l'acheter de manière autonome. Le mode AI permet aux utilisateurs de discuter avec l'IA pour obtenir des idées d'achat, tandis que le mode AI de Google Search met à jour dynamiquement les résultats en fonction de la conversation. Ces fonctionnalités seront déployées aux États-Unis dans les prochains mois.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-shopping-essayer-habit-1200x675-1-768x432.jpg?resize=169,169&key=544e1d44",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google améliore son moteur de recherche avec l'IA",
-        "link": "https://www.frandroid.com/marques/google/2619727_google-avec-ai-mode-la-revolution-du-moteur-de-recherche-va-encore-plus-loin",
-        "body": "Google a annoncé une nouvelle fonctionnalité pour son moteur de recherche, appelée AI Mode, qui utilise l'IA pour fournir des résultats de recherche ultra-détaillés. AI Mode décompose les requêtes en sous-thèmes, effectuant simultanément plusieurs recherches et fournissant des liens vers diverses sources. Il peut également proposer des réponses personnalisées en exploitant les données d'autres applications Google. De plus, il est possible d'activer le mode Deep Search, qui permet à l'IA d'effectuer des centaines de recherches et de créer un rapport d'expert en quelques minutes. AI Mode inclut également Search Live, qui permet aux utilisateurs de discuter avec le moteur de recherche tout en lui montrant leur environnement via la caméra de leur smartphone.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-ai-mode-1200x675-1-768x432.jpg?resize=169,169&key=8a4e6b31",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La voix de Dark Vador générée par IA fait polémique",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2620395_lia-dark-vador-dans-fortnite-ne-plait-pas-une-plainte-est-deposee-contre-epic-games",
-        "body": "La SAG-AFTRA, syndicat de comédiens de doublage, s'oppose à l'utilisation abusive de l'IA dans le domaine de la voix, notamment après qu'Epic Games ait utilisé la voix de James Earl Jones (Dark Vador) dans Fortnite sans négociation préalable. La SAG-AFTRA a déposé une plainte, soulignant la nécessité d'encadrer l'utilisation de l'IA pour protéger le travail des professionnels du doublage. Cet incident remet en lumière les limites éthiques de l'IA générative, d'autant plus que l'IA de Dark Vador a été entendue proférant des insultes racistes, sexistes et homophobes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/jtf-073479-1200x503-1-768x322.jpg?resize=300,300&key=f7a268fe",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google lance l'IA Mode",
-        "link": "https://www.frandroid.com/marques/google/2620757_cette-nouveaute-majeure-de-google-pourra-acceder-a-vos-donnees-personnelles-pour-des-reponses-plus-precises",
-        "body": "Google a présenté lors de sa conférence Google I/O son nouvel \"IA Mode\", un onglet intégré à son moteur de recherche proposant des résultats générés par l'IA. Cet outil, basé sur Gemini 2.5, offre des suggestions personnalisées en accédant aux données personnelles de l'utilisateur, comme les e-mails Gmail, pour fournir des réponses adaptées à ses besoins. L'IA Mode est une fonction optionnelle et ne sera disponible qu'aux États-Unis dans un premier temps.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-1200x800-1-768x512.jpg?resize=200,200&key=54af4ac0",
-        "date": "Mon, 19 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La carte graphique pour le gaming",
-        "link": "https://www.theverge.com/pc-gaming/667354/intel-b770-stay-tuned",
-        "body": "Le marché des GPU pour le gaming a besoin de concurrence, et Intel pourrait apporter une alternative intéressante avec sa gamme Arc. Bien qu'Intel n'ait officiellement teasé que ses nouveaux GPU Arc Pro pour les professionnels, son compte X a suggéré sur les réseaux sociaux qu'une carte graphique Arc B770 pour le gaming pourrait également être en préparation. Si cette carte graphique s'avère réelle et suit la même voie que les modèles B580 et B570, elle pourrait offrir une concurrence sérieuse aux leaders actuels du marché, Nvidia et AMD.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Intel-Arc-Pro-GPU-1.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-        "date": "Mon, 19 May 2025 21:37:05 GMT"
     }
 ]
