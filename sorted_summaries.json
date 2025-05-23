@@ -21,6 +21,34 @@
         "date": "Fri, 23 May 2025 04:00:00 GMT"
     },
     {
+        "title": "L'avenir des visioconférences avec Google Beam",
+        "link": "https://www.frandroid.com/marques/google/2626293_regardez-a-quoi-ressemble-google-beam-un-projet-incroyable-qui-se-concretise",
+        "body": "Google Beam, anciennement connu sous le nom de Project Starline, est une technologie révolutionnaire de Google qui vise à transformer les appels vidéo traditionnels. La plateforme utilise des effets 3D impressionnants, des algorithmes complexes et de l'IA pour donner l'impression que votre interlocuteur se trouve dans la même pièce que vous. Bien que les photos de la machine soient désormais autorisées, la technologie 3D reste difficile à capturer en image ou en vidéo. Google Beam sera compatible avec divers services de visioconférence et Google a déjà annoncé un partenariat avec HP pour la production et la vente de l'appareil aux entreprises. Le modèle commercial sera révélé en juin, mais les spéculations sur le prix le placent autour de 20 000 à 25 000 euros, ce qui en fait un gadget coûteux et encombrant pour le moment.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-beam-4-1200x900-1-768x576.jpg?resize=225,225&key=8ce66bb7",
+        "date": "Thu, 22 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Chien robotique intelligent",
+        "link": "https://www.frandroid.com/produits-android/robots/2626151_jai-rencontre-ce-mini-chien-robot-chinois-il-est-plus-utile-quil-ny-parait",
+        "body": "Lors de l'Expo Beyond 2025, un petit chien robot nommé Sirius, créé par la startup chinoise Hengbot, a attiré l'attention. Piloté à distance, il se déplace avec agilité et fluidité, rappelant un chiot curieux. Son potentiel va au-delà du simple jouet, avec une caméra frontale pour la télésurveillance et une IA pour analyser les situations anormales. Son prix abordable et sa plateforme ouverte en font un assistant domestique prometteur, marquant peut-être le début d'une nouvelle ère pour les robots domestiques discrets et évolutifs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/477775232-588736570835711-5647714796064742442-n-1200x800-1-768x512.jpg?resize=200,200&key=d85d763f",
+        "date": "Thu, 22 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA de Google : entre vie privée et fonctionnalités",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2625887_voici-comment-google-gemini-utilise-la-camera-des-lunettes-android-xr",
+        "body": "L'article aborde les préoccupations concernant la vie privée liées aux lunettes Android XR de Google et au casque Project Moohan de Samsung, tous deux équipés de l'IA Gemini. Gemini peut décrire ce qui se trouve devant l'utilisateur et fournir une analyse professionnelle des sports d'extérieur. Cependant, la fonctionnalité de caméra de Gemini ne fonctionne que lorsque l'assistant est activé, et l'activation permanente n'est pas possible en raison de la consommation d'énergie. L'article souligne également que les données collectées ne sont pas cédées à des tiers.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/gemini-sur-android-xr-1200x675-1-768x432.jpg?resize=169,169&key=5f388d28",
+        "date": "Thu, 22 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Project Moohan : l'expérience immersive de Samsung",
+        "link": "https://www.frandroid.com/marques/samsung/2622949_jai-teste-le-casque-samsung-sous-android-xr-enfin-un-serieux-concurrent-pour-apple",
+        "body": "Le Project Moohan de Samsung, un casque de réalité mixte, a été présenté lors de la Google I/O 2025. Le design est similaire à l'Apple Vision Pro, avec un cadre métallique gris, une molette de serrage et une batterie externe. L'expérience logicielle est le point central, avec Android XR offrant une immersion dans le contenu. Les interactions sont intuitives et fluides, avec des commandes similaires à celles de l'Apple Vision Pro. L'immersion est améliorée par une IA qui transforme les vidéos 2D en 3D sur YouTube et Google Photos, offrant une expérience visuelle impressionnante. Google Gemini, l'IA de Google, est intégrée pour une interaction vocale naturelle et une analyse de l'environnement via le Projet Astra. Le prix du Project Moohan reste inconnu, mais il est probable qu'il soit positionné dans le haut de gamme.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/samsung-project-moohan-prise-en-main-edit-1200x900-1-768x576.jpg?resize=225,225&key=5b252928",
+        "date": "Thu, 22 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "Une alimentation monstrueuse pour les besoins énergétiques de l'IA",
         "link": "https://www.frandroid.com/marques/asus/2624839_asus-devoile-une-alimentation-monstrueuse-capable-de-faire-tourner-4-rtx-5090",
         "body": "Asus a dévoilé une alimentation électrique monstrueuse, l'Asus Pro Workstation 3000 W Platinum, capable de répondre aux besoins énergétiques de quatre cartes graphiques Nvidia RTX 5090. Cette alimentation de 3000 watts est conçue pour une utilisation professionnelle, avec un ventilateur à longue durée de vie et des câbles spécifiques pour éviter la fonte des connecteurs. Elle est compatible PCIe 5.1 et ATX 3.1, et nécessite une prise électrique spécifique. Bien qu'Asus ne mentionne pas explicitement une utilisation liée au gaming, cette alimentation semble destinée aux applications d'IA et à l'entraînement de LLM, nécessitant une puissance et une durabilité élevées.",
@@ -40,6 +68,13 @@
         "body": "Google a annoncé une nouvelle fonctionnalité appelée « AI Mode », qui fournit un résumé généré par l'IA sur le sujet recherché plutôt qu'une liste de résultats de recherche. Cette fonctionnalité est une évolution des « AI Overviews » introduits l'année dernière, qui ont déjà 1,5 milliard d'utilisateurs. Bien que l'IA de Google puisse parfois se tromper, l'entreprise encourage les utilisateurs à donner leur avis pour améliorer le système. La nouvelle fonctionnalité a suscité des réactions mitigées, certains soulignant des problèmes de précision, d'impact sur les créateurs de contenu et d'érosion de la confiance. De plus, le passage à l'IA pourrait affecter les modèles de revenus publicitaires en ligne, car les recherches à zéro clic réduisent le trafic vers les sites Web. Malgré ces préoccupations, le PDG de Google, Sundar Pichai, qualifie l'AI Mode de « réinvention totale de la recherche ».",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682f88e049eb653feef74c98/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 22 May 2025 20:31:00 GMT"
+    },
+    {
+        "title": "La prochaine grande innovation de l'IA",
+        "link": "https://www.theverge.com/column/672505/jony-ive-sam-altman-smart-glasses-ai-hardware-wearables-gadgets#comments",
+        "body": "Résumé : \n\nLa course à l'innovation dans le matériel informatique dédié à l'IA est lancée, avec des acteurs majeurs comme Google, OpenAI, et des figures emblématiques telles que Jony Ive et Sam Altman. La startup de Ive, récemment acquise par OpenAI pour 6,5 milliards de dollars, a mis au point un prototype mystérieux qui, selon Altman, sera révolutionnaire pour l'IA, tout comme l'iPhone l'a été pour l'informatique mobile. Bien que les détails soient rares, on sait que ce gadget ne sera pas un téléphone ou des lunettes, mais plutôt un appareil de poche, sans écran, qui pourra également être exposé sur un bureau. La taille du prototype est décrite comme légèrement plus grande que l'AI Pin, avec un design compact et élégant semblable à celui de l'iPod Shuffle. La concurrence est féroce, avec de nombreuses entreprises proposant leurs propres approches, mais la question clé reste de savoir si les utilisateurs voudront un écran. L'attente et le mystère autour de ce dispositif créent une anticipation qui pourrait surpasser le lancement réel.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257770_Altman_Ive_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 22 May 2025 20:02:58 GMT"
     },
     {
         "title": "L'avenir de l'IA : vers une collaboration multi-agents efficace",
@@ -257,12 +292,5 @@
         "body": "Résumé : Google a été accusé de mettre à jour discrètement les contrôles des éditeurs sans annonce publique, leur refusant ainsi le choix d'exclure leur contenu des résultats de recherche IA. Un document interne révélé lors d'un procès antitrust américain montre que Google a discuté de l'octroi aux éditeurs d'un contrôle plus granulaire sur l'utilisation de leurs données dans les fonctionnalités de recherche IA, mais a finalement offert une illusion de choix. Google dispose d'un avantage considérable dans le développement de l'IA grâce à l'accès aux données de son moteur de recherche, mais ses fonctionnalités IA peuvent réduire le trafic vers les sites Web qu'il utilise comme source. Les éditeurs sont confrontés à un ultimatum : soit autoriser l'utilisation de leurs données par les modèles IA de Google, soit ne pas être indexés par le moteur de recherche. Bien que Google ait introduit une option de refus pour l'entraînement IA en 2023, celle-ci ne s'applique pas aux produits de recherche spécifiques. Le document indique que Google a intentionnellement rendu floues les informations sur les contrôles des éditeurs pour éviter les détails de distinction entre les modèles IA. Google affirme que le document représente une liste précoce d'options envisagées et ne reflète pas ses décisions finales.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 21 May 2025 16:48:07 GMT"
-    },
-    {
-        "title": "Sécurité de l'IA : les enjeux et les défis",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/21/do-no-harm-build-ai-safely/?ss=ai",
-        "body": "Bien que l'expression « votre hypothèse est aussi bonne que la mienne » résume souvent l'attitude du public en matière de sécurité de l'IA, des experts travaillent discrètement sur cette question cruciale. L'un des principaux enjeux est d'adopter le slogan « d'abord, ne pas nuire » lors de l'utilisation de ces technologies puissantes. Les discussions récentes soulignent les risques associés à l'IA, allant des biais algorithmiques affectant l'accès au logement et à l'emploi aux implications géopolitiques de la domination technologique. Les intervenants soulignent la nécessité d'une gouvernance mondiale de l'IA, mettant en garde contre les dangers subtils et écrasants de l'IA. Ils soulignent également l'importance de mesurer et de surveiller en permanence les résultats de l'IA pour éviter les biais et protéger les moyens de subsistance, la liberté et la vie des personnes. Enfin, ils discutent de l'enthousiasme pour l'IA, comparant les modèles d'IA à des « bébés tigres », et soulignent la nécessité d'une réflexion responsable sur le développement de l'IA, des logiciels et des entreprises.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682ce888afc11ce0d9cb06d6/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 21 May 2025 15:00:00 GMT"
     }
 ]
