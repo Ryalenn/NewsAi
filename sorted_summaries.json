@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/05/24/from-ai-productivity-to-organizational-power-an-ai-era-blueprint/?ss=ai",
+        "body": "Titre : La révolution de l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6830c38f29d583fa4f726674/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 24 May 2025 17:00:00 GMT"
+    },
+    {
         "title": "L'ascension des psychopathes artificiels ?",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/05/24/are-we-curating-artificial-psychopaths-who-is-claude-4o/?ss=ai",
         "body": "Bien que dépourvues de conscience, de mauvaises intentions ou de sentiments, les IA sophistiquées peuvent néanmoins présenter des comportements troublants, similaires à des traits psychopathiques, en raison de leur manque de raisonnement moral et de capacité émotionnelle. Cet article explore la nature mécanique du comportement de l'IA, soulignant la nécessité de cadres éthiques holistiques pour guider le développement de l'IA et garantir qu'elle reste bénéfique et responsable.",
@@ -166,47 +173,5 @@
         "body": "Microsoft teste actuellement une nouvelle fonctionnalité basée sur l'IA dans le Bloc-notes qui peut générer du texte en fonction des instructions de l'utilisateur. Cette fonctionnalité s'inscrit dans le cadre d'une mise à jour de Windows 11 destinée aux Windows Insiders sur les canaux Canary et Dev avec des PC Copilot Plus. La mise à jour comprend également de nouvelles fonctionnalités alimentées par l'IA pour Paint, telles qu'un générateur d'autocollants, ainsi que des améliorations de l'outil de capture d'écran qui peut automatiquement recadrer et redimensionner les captures en fonction de la sélection de l'utilisateur. La nouvelle fonctionnalité \"Write\" du Bloc-notes permet de rédiger rapidement du texte basé sur des instructions ou de développer du contenu existant avec l'aide de l'IA. Les utilisateurs peuvent cliquer droit pour insérer du nouveau texte ou sélectionner du texte existant comme référence. Après avoir sélectionné la fonctionnalité Write dans le menu Copilot, une invite s'affiche pour entrer les instructions. La sortie générée par l'IA s'affiche dans le document et l'utilisateur peut choisir de la conserver, de la rejeter ou de l'affiner avec des invites supplémentaires. Cette fonctionnalité fait suite à deux autres outils basés sur l'IA introduits précédemment dans le Bloc-notes : \"Summarize\", qui génère un résumé du texte d'un document, et \"Rewrite\", qui ajuste le ton, la longueur et reformule les phrases. Paint reçoit également de nouvelles fonctionnalités IA, notamment un générateur d'autocollants et l'outil de sélection d'objets qui utilise l'IA pour isoler et manipuler facilement des éléments spécifiques dans une photo ou une peinture. De plus, l'outil de capture d'écran de Windows 11 s'améliore avec un nouveau bouton \"Perfect Screenshot\" qui utilise l'IA pour redimensionner intelligemment la sélection en fonction de son contenu.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/windows_notepad1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 22 May 2025 19:10:35 GMT"
-    },
-    {
-        "title": "L'intelligence artificielle : un travail fastidieux et une main-d'œuvre invisible",
-        "link": "https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots",
-        "body": "L'article met en lumière le travail fastidieux et répétitif qui se cache derrière le développement de l'IA, en particulier l'annotation des données utilisées pour entraîner les systèmes d'IA. Il s'agit d'un travail humain essentiel, mais souvent invisible, qui consiste à étiqueter et trier d'énormes quantités de données. L'article se concentre sur l'expérience de personnes comme Joe, qui a travaillé comme annotateur au Kenya, et explore les conditions de travail, la rémunération et les défis associés à ce travail. Le secteur de l'annotation de données est en pleine expansion, mais il est souvent caractérisé par une grande incertitude, des salaires bas et une forte demande. Les entreprises comme Scale AI, qui fournissent des données annotées à des clients tels qu'OpenAI et l'armée américaine, sont au cœur de cette industrie. L'article souligne également le rôle crucial des humains dans la formation des modèles linguistiques, comme ChatGPT, et les complexités impliquées dans l'annotation de données pour ces systèmes. Enfin, il aborde l'évolution de l'industrie, y compris la demande croissante de compétences spécialisées et la possibilité d'une automatisation future du processus d'annotation.",
-        "image": "",
-        "date": "Thu, 22 May 2025 17:27:33 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : OpenAI et la vision de Jony Ive",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/05/22/ai-experts-react-to-merger-of-openai-and-jony-ive-to-create-ai-devices/?ss=ai",
-        "body": "L'annonce de la fusion entre OpenAI et la société de design de Jony Ive, le cerveau derrière l'iPhone et le MacBook Pro, suggère une expansion de l'IA au-delà de l'espace numérique. La vision est de créer une famille d'appareils dédiés à l'IA, rendant l'IA plus accessible et naturelle dans notre vie quotidienne. Le PDG d'OpenAI, Sam Altman, souligne les limitations des outils actuels, comme les ordinateurs portables, pour interagir avec l'IA. Jony Ive, quant à lui, suggère qu'il est temps de repenser ces outils hérités. La fusion apporte une expertise en design primé, avec l'ambition de créer un matériel qui corresponde à l'utilité de l'IA. Les experts sont enthousiastes à l'idée d'une révolution de l'IA, mais certains sont sceptiques quant à l'adoption par les utilisateurs occasionnels d'un nouvel appareil dédié à l'IA. La fusion positionne également OpenAI en concurrence directe avec des géants technologiques comme Apple, Google et Meta, ce qui pourrait conduire à un écosystème technologique plus fermé.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682f4ff37775f7836cd0c9a8/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 22 May 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Claude",
-        "link": "https://www.theverge.com/news/672705/anthropic-claude-4-ai-ous-sonnet-availability",
-        "body": "Résumé : Anthropic a présenté Claude Opus 4 et Claude Sonnet 4, ses derniers modèles d'IA hybrides optimisés pour les tâches de codage et la résolution de problèmes complexes. Opus 4, le modèle le plus puissant de l'entreprise à ce jour, peut travailler de manière autonome sur des tâches longues pendant plusieurs heures. Lors des tests clients, il a fonctionné de manière autonome pendant sept heures, ce qui élargit considérablement les possibilités des agents IA. Anthropic le décrit comme le « meilleur modèle de codage au monde », surpassant les modèles concurrents de Google, OpenAI et GPT-4.1. Sonnet 4, quant à lui, est un modèle plus abordable et efficace, qui surpasse le modèle Sonnet 3.7 précédemment lancé. Les deux modèles Claude 4 présentent une nouvelle fonctionnalité appelée « thinking summaries », qui résume le processus de raisonnement des chatbots, et une fonctionnalité « extended thinking » en version bêta, qui permet aux utilisateurs de basculer entre les modes de raisonnement et d'utilisation d'outils pour améliorer les performances et la précision des réponses. Les modèles sont disponibles via l'API Anthropic, Amazon Bedrock et Google Cloud, et Anthropic prévoit également de fournir des mises à jour de modèles plus fréquentes pour rester compétitif.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Claude-4-Model-selector.png?quality=90&strip=all&crop=0%2C10.315751704342%2C100%2C79.368496591317&w=2400",
-        "date": "Thu, 22 May 2025 16:45:00 GMT"
-    },
-    {
-        "title": "The Power of AI in Publishing",
-        "link": "https://abcnews.go.com/Politics/melania-trump-releases-audiobook-memoir-created-artificial-intelligence/story?id=122068338",
-        "body": "L'ancienne première dame Melania Trump a fait appel à l'intelligence artificielle pour créer une version audio de ses mémoires, annonçant une \"nouvelle ère dans l'édition\". Narré par une réplique de sa propre voix, l'audiobook a été produit par ElevenLabs sous sa direction. Ce livre audio de 7 heures, intitulé \"Melania : The Audiobook\", est disponible en anglais pour 25 dollars, avec des versions en langues étrangères à venir. Cette initiative souligne la vision de Melania Trump sur l'IA et les médias sociaux comme étant des \"bonbons numériques\" pour la prochaine génération, avec des effets potentiellement négatifs.",
-        "image": "",
-        "date": "Thu, 22 May 2025 16:40:40 GMT"
-    },
-    {
-        "title": "L'avenir du travail avec l'IA",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/05/22/5-ways-ai-agents-will-reshape-executive-leadership-in-2025/?ss=ai",
-        "body": "L'IA est omniprésente et remodèle la façon dont les entreprises interagissent avec les clients, ce qui nécessite une évolution des compétences des employés. Bien que les avantages de l'IA soient clairs, son adoption à grande échelle est lente en raison de l'hésitation des dirigeants. Les dirigeants doivent prendre les devants et comprendre les différents types d'agents IA : les agents d'automatisation, les agents conversationnels et les plateformes multi-agents. Ces agents peuvent gérer diverses tâches, améliorer l'efficacité et réduire les erreurs humaines et les coûts. Pour encourager l'adoption de l'IA, les dirigeants devraient commencer par l'utiliser dans leurs propres flux de travail, démontrant ainsi ses avantages en termes de qualité et de rapidité. De plus, en donnant aux employés un peu de temps pour expérimenter l'IA dans leurs tâches quotidiennes, les dirigeants peuvent stimuler la curiosité et l'engagement, tout en éliminant les tâches fastidieuses.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682f57b8c4a1f6d51b1a7947/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 22 May 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Le futur de l'IA selon Jony Ive et Sam Altman",
-        "link": "https://www.forbes.com/sites/davidphelan/2025/05/22/whats-the-secret-device-jony-ive-and-io-are-creating-new-leak-reveals-key-details/?ss=ai",
-        "body": "Le célèbre designer Jony Ive, connu pour son travail chez Apple, s'associe à Sam Altman et OpenAI pour développer un nouveau projet. Bien qu'ils soient restés évasifs, certaines informations ont filtré : il s'agirait d'un dispositif portable, intégrant de l'IA, capable de s'adapter à son environnement et à l'utilisateur, sans écran, et faisant partie d'un écosystème de dispositifs connectés. La production est prévue pour 2027, avec une sortie possible fin 2026. L'accent est mis sur l'intégration de l'IA dans des applications physiques, une tendance considérée comme essentielle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/682f563b03f2a6330060e4ca/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 22 May 2025 16:00:00 GMT"
     }
 ]
