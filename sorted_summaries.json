@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA pour la santé mentale : avantages et défis",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/27/latest-research-assesses-the-use-of-specially-tuned-generative-ai-for-performing-mental-health-therapy/?ss=ai",
+        "body": "L'article explore les progrès et les complexités de l'utilisation de l'IA pour la thérapie de santé mentale, en se concentrant sur une étude récente utilisant une IA générative adaptée pour traiter diverses conditions de santé mentale. L'étude a montré des améliorations chez les participants, suggérant que l'IA générative et les grands modèles linguistiques pourraient être efficaces pour la thérapie de santé mentale. Cependant, l'auteur met en garde contre les risques cachés et les incertitudes, soulignant la nature non déterministe de l'IA générative et les risques de conseils inappropriés. Il souligne l'importance de recherches rigoureuses et systématiques, tout en reconnaissant le défi de rester à jour avec les progrès rapides de l'IA. L'article conclut en soulignant la nécessité de trouver un équilibre entre l'accessibilité de la thérapie basée sur l'IA et la garantie de résultats positifs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65b98323d4bf9b27c84e4286/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 27 May 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'IA au service de l'écriture de vos emails",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/05/27/chatgpt-prompts-and-ai-tips-for-drafting-amazing-emails/?ss=ai",
         "body": "L'IA révolutionne discrètement la façon dont nous écrivons nos emails, améliorant ainsi notre productivité et notre impact. Des outils comme ChatGPT et Copilot, intégrés à Outlook et Gmail, aident à rédiger et peaufiner les communications électroniques. En fournissant des objectifs clairs et des données pertinentes, tels que des fichiers ou des instructions spécifiques, vous pouvez guider l'IA pour qu'elle crée des emails adaptés à votre style et à votre audience. Un aspect crucial est de gérer le problème de l'hallucination de l'IA en lui demandant de vous interroger si elle a besoin d'informations supplémentaires. Des invites spécifiques, comme résumer une réunion et créer un plan d'action, ou structurer un email persuasif, améliorent considérablement les résultats. L'IA génère un contenu clair et concis, améliorant ainsi l'efficacité de vos communications.",
@@ -75,12 +82,5 @@
         "body": "L'ère des robots humanoïdes est arrivée, et leur intégration dans notre vie quotidienne soulève des questions complexes et des opportunités sans précédent. L'accent est mis sur l'impact physique de l'IA, alors que les robots humanoïdes deviennent une présence tangible dans nos vies. Cet article explore les implications sociétales de cette évolution, y compris les défis pour les relations humaines, l'autonomie et le contrôle, ainsi que les considérations éthiques et environnementales. Les robots humanoïdes soulèvent des questions sur la nature de la connexion humaine et la place de l'initiative humaine dans un monde où les robots peuvent surpasser les capacités humaines dans de nombreux domaines. L'article propose un cadre pour aborder ces questions, mettant l'accent sur la collaboration, la compréhension de l'impact, le maintien de l'empathie, l'adaptation de l'éducation et le développement de directives éthiques solides. La conclusion souligne la nécessité d'une réflexion et d'une action délibérées pour naviguer dans cette nouvelle ère.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68334896bf6293b13e316cf9/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 25 May 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Adopter l'IA : une course contre la montre pour les entreprises",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/25/transformation-and-time-in-business-ai-frenzy/?ss=ai",
-        "body": "Le texte met en lumière les défis auxquels sont confrontées les entreprises souhaitant intégrer l'IA à leurs activités. Il souligne l'importance de comprendre les besoins des clients, de concevoir des interfaces utilisateur efficaces et de maîtriser les outils IA, notamment les LLM. L'article présente également les idées de plusieurs intervenants expérimentés sur la manière dont les entreprises peuvent aborder l'IA. Il met en évidence la collaboration entre les départements, avec l'exemple de Tomorrow.io, où le département marketing a initié un projet IA avant de le déployer dans le reste de l'entreprise. Les intervenants soulignent également la rapidité de l'évolution technologique par rapport à l'adoption par les entreprises et les employés, suggérant des sprints de deux semaines pour rester à jour. Enfin, l'idée de créer des groupes de discussion IA avec des clients synthétiques est proposée comme moyen d'orienter le développement de l'IA en fonction des besoins des clients.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6830e6780d2698048d8f4523/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 25 May 2025 09:16:00 GMT"
     }
 ]
