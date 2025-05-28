@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Le gouvernement rend hommage aux résistants de la Seconde Guerre mondiale avec… de l’IA générative",
+        "title": "Le gouvernement rend hommage aux r\u00e9sistants de la Seconde Guerre mondiale avec\u2026 de l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2630147_le-gouvernement-rend-hommage-aux-resistants-de-la-seconde-guerre-mondiale-avec-de-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copie-de-votre-texte-de-paragraphe-1200x675-1-768x432.jpg?resize=169,169&key=8f1ac4db",
         "date": "Tue, 27 May 2025 23:00:00 GMT",
@@ -173,5 +173,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68371d0faf4af61bd4c8b394/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 May 2025 14:26:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.axios.com/2025/05/27/meta-ai-restructure-2025-agi-llama",
+        "image": "",
+        "date": "Wed, 28 May 2025 17:28:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/674603/arc-browser-development-stopped-dia-browser-company#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Arc-browser.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 27 May 2025 15:16:24 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theatlantic.com/culture/archive/2025/05/decoding-ancient-incas-writing-system-khipus/682814/",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/VRG_VST_0527_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 27 May 2025 13:09:48 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/05/28/deepseeks-r1-update-boosts-coding-capabilities/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67c17800895ae1e5fa30a87a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 May 2025 17:53:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/05/28/public-private-sector-partnerships--for-space-systems-innovation-and-security/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/657916727c801ce022d45952/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 May 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
