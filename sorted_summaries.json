@@ -1,5 +1,47 @@
 [
     {
+        "title": "Razer lance des outils de développement de jeux AI",
+        "link": "https://press.razer.com/company-news/razer-is-bringing-revolutionary-ai-game-developer-tools-on-amazon-web-services/",
+        "body": "Razer lance deux nouveaux outils basés sur l'IA pour les développeurs de jeux : Razer Game Assistant et Razer QA Companion. Ces outils, qui font partie de l'écosystème de jeu WYVRN de Razer, visent à révolutionner le développement de jeux en améliorant l'accessibilité, l'évolutivité et l'innovation pour les créateurs de jeux. Le premier outil, Razer Game Assistant, fournit des conseils en temps réel, une analyse post-jeu et des insights sur les performances matérielles, améliorant ainsi l'expérience du joueur. Le second, Razer QA Companion, est un outil d'assurance qualité automatisé qui détecte et signale les bogues, les plantages et les problèmes de performance, permettant ainsi aux testeurs humains de se concentrer sur le gameplay. Ces outils seront bientôt disponibles sur AWS Marketplace, offrant ainsi un accès mondial et une évolutivité aux développeurs de jeux.",
+        "image": "",
+        "date": "Thu, 29 May 2025 15:40:37 GMT"
+    },
+    {
+        "title": "DeepSeek-R1-0528 : Améliorations et performances",
+        "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+        "body": "Le modèle DeepSeek-R1 a été mis à jour, améliorant ses capacités de raisonnement et d'inférence. Cette nouvelle version, DeepSeek-R1-0528, se rapproche des modèles leaders du marché en termes de performances globales. L'accent a été mis sur l'amélioration de la profondeur de raisonnement, ce qui a permis d'augmenter significativement la précision dans les tâches de raisonnement complexes. Le modèle surpasse désormais les performances de modèles open-source similaires sur les tests AIME 2024 et 2025. De plus, la nouvelle version offre un taux de hallucination réduit, un meilleur support pour l'appel de fonction et une expérience améliorée pour le codage vibe. Le modèle est disponible via une API compatible OpenAI et peut être testé sur le site officiel de DeepSeek.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/GsHZfE_aUAEo64N.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 29 May 2025 13:41:40 GMT"
+    },
+    {
+        "title": "L'IA au service des marques emblématiques",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/29/heinz-is-ketchup-to-ai/?ss=ai",
+        "body": "La campagne publicitaire révolutionnaire de Heinz, qui a utilisé l'IA pour valider sa domination sur le marché, est un excellent exemple de l'utilisation de l'IA au service des marques emblématiques. En demandant simplement à des modèles d'IA de « dessiner du ketchup », Heinz a obtenu des résultats étonnamment cohérents avec son image de marque, démontrant ainsi la puissance de l'IA dans la reconnaissance de l'iconicité de la marque. Cette campagne soulève des questions intéressantes sur la façon dont l'IA peut influencer nos émotions et notre perception des marques, ainsi que sur le potentiel qu'elle offre aux entreprises pour inspirer et attirer leur public cible. Avec l'évolution des modèles de génération d'images, comme ChatGPT 4o, qui excelle désormais dans la création de textes et l'agrégation d'informations pour la création visuelle, les possibilités de l'IA dans le marketing deviennent de plus en plus fascinantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683866e647cf61ad34f7ec5a/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 13:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la persuasion : humains et IA en harmonie ?",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/29/protecting-your-mind-amid-ais-persuasive-power-play/?ss=ai",
+        "body": "L'IA, en particulier les grands modèles linguistiques, devient de plus en plus persuasive, façonnant les opinions et influençant les comportements. Bien que les principes de la persuasion humaine soient bien établis, l'IA offre de nouveaux avantages, notamment le traitement de vastes ensembles de données sur le comportement humain, les préférences et les styles de communication. Les études montrent que les messages générés par l'IA peuvent être plus persuasifs que ceux créés par les humains, ce qui soulève des inquiétudes quant à leur utilisation potentielle pour la manipulation ou la désinformation. L'IA peut influencer positivement, comme le montre un exemple académique encourageant les comportements respectueux de l'environnement. La force persuasive de l'IA repose sur plusieurs mécanismes psychologiques, mais elle ne peut pas encore égaler l'empathie et la confiance authentiques des interactions humaines. L'avenir de la persuasion pourrait être une collaboration entre l'IA et les humains, chacun apportant ses forces uniques. Alors que l'IA devient plus persuasive, un cadre éthique est nécessaire pour garantir une utilisation responsable et protéger notre autonomie et notre jugement critique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683862c54de3622dbd6a0aed/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Google Drive Gemini AI",
+        "link": "https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature#comments",
+        "body": "Google Drive propose une nouvelle fonctionnalité basée sur l'IA, Gemini AI, qui résume le contenu des vidéos et fournit des informations sans que l'utilisateur ait besoin de les regarder. Gemini, déjà capable de résumer des documents et des PDF, étend désormais ses capacités aux fichiers vidéo. L'interface de chatbot familière peut fournir des résumés rapides, décrire les images ou extraire des informations spécifiques. Par exemple, les utilisateurs peuvent demander à Gemini de lister les points d'action mentionnés lors de réunions enregistrées ou de mettre en évidence les dernières mises à jour et nouveaux produits dans une vidéo d'annonce. Cette fonctionnalité nécessite des légendes activées pour les vidéos et est accessible via l'aperçu de superposition de Google Drive ou une nouvelle fenêtre d'onglet de navigateur. Il est actuellement disponible en anglais pour les utilisateurs de Google Workspace et Google One AI Premium, ainsi que pour ceux qui ont précédemment acheté les modules complémentaires Gemini Business ou Enterprise. De plus, Google lance une autre fonctionnalité Workspace qui affiche les données d'engagement pour les vidéos Drive, montrant le nombre de fois où une vidéo a été ouverte.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 29 May 2025 12:37:28 GMT"
+    },
+    {
+        "title": "La prochaine frontière de l'IA : les agents intelligents et l'agenticité",
+        "link": "https://www.forbes.com/sites/solrashidi/2025/05/29/ai-agents-to-agentic-ai-whats-the-difference-in-the-automation-game/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683853751a6768f3650e057a/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 12:00:00 GMT"
+    },
+    {
         "title": "L'avenir du droit d'auteur à l'ère de l'IA",
         "link": "https://www.forbes.com/sites/torconstantino/2025/05/29/us-copyright-office-shocks-big-tech-with-ai-fair-use-rebuke/?ss=ai",
         "body": "Titre",
@@ -96,6 +138,20 @@
         "body": "L'éthique de l'IA est un domaine en évolution rapide qui a un impact significatif sur l'industrie. Cet article fournit un guide complet pour les praticiens de l'IA, couvrant divers aspects moraux et sociaux de la technologie. \n\nL'article commence par souligner l'importance de l'éthique dans l'IA, notant comment elle influence la confiance du public et la réglementation gouvernementale. Il présente ensuite les « quatre principes » fondamentaux de l’éthique de l’IA : respect de l'autonomie, bienfaisance, justice et non-malveillance. Ces principes servent de cadre pour guider le développement et le déploiement éthiques de systèmes IA. \n\nLe guide explore ensuite plusieurs considérations éthiques clés, notamment : \n\n- Transparence et explicabilité : L'importance de rendre les systèmes IA compréhensibles et interprétables, permettant une responsabilité et une confiance accrues. \n\n- Équité et biais : Aborde les problèmes de biais dans les données et les algorithmes, et comment ils peuvent conduire à des résultats injustes et discriminatoires. Souligne la nécessité de pratiques équitables et inclusives. \n\n- Vie privée et confidentialité : Discute des implications éthiques de la collecte et de l'utilisation de grandes quantités de données, et de la nécessité de protéger la vie privée des individus et de garantir un consentement éclairé. \n\n- Responsabilité : Souligne la nécessité d'une responsabilité tout au long du cycle de vie de l'IA, y compris des lignes directrices claires, des procédures d'audit et des mécanismes de réparation en cas d'utilisation abusive ou inappropriée de l'IA. \n\n- Impact social : Encourage les praticiens à envisager l'impact social plus large de leurs technologies, y compris les effets potentiels sur l'emploi, les relations sociales et la distribution du pouvoir. \n\nL'article fournit des exemples et des études de cas pour illustrer ces concepts, offrant ainsi aux praticiens un guide pratique pour naviguer dans les complexités éthiques de leur domaine. Il conclut en soulignant la responsabilité partagée des chercheurs, des développeurs et des déployeurs d'IA pour garantir que la technologie est utilisée de manière responsable et éthique.",
         "image": "",
         "date": "Wed, 28 May 2025 17:28:31 GMT"
+    },
+    {
+        "title": "Anthropic accueille Reed Hastings",
+        "link": "https://www.theverge.com/news/675750/netflix-co-founder-reed-hastings-anthropic-board-of-directors#comments",
+        "body": "Reed Hastings, cofondateur et ancien PDG de Netflix, rejoint le conseil d'administration d'Anthropic, une entreprise d'intelligence artificielle. Hastings apporte son expérience dans la création et le développement de Netflix en une plateforme mondiale, ainsi que son engagement dans la réforme de l'éducation et l'investissement dans les infrastructures numériques sur les marchés émergents. Il s'aligne sur l'optimisme d'Anthropic concernant les avantages de l'IA pour l'humanité, mais reconnaît également les défis économiques, sociaux et de sécurité. Le conseil d'administration d'Anthropic comprend également les cofondateurs Dario Amodei et Daniela Amodei, ainsi que Yasmin Razavi et Jay Kreps. L'entreprise a récemment lancé ses modèles IA Claude 4.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-1445820458.jpg?quality=90&strip=all&crop=0%2C0.0036493686592181%2C100%2C99.992701262682&w=2400",
+        "date": "Wed, 28 May 2025 17:03:51 GMT"
+    },
+    {
+        "title": "La promesse de l'IA interactive",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/675395/odyssey-ai-generated-interactive-video-holodeck#comments",
+        "body": "L'article présente Odyssey, une startup soutenue par le cofondateur de Pixar, Edwin Catmull, qui développe un concept appelé « vidéo interactive ». Il s'agit d'un contenu vidéo généré en temps réel par l'IA, avec lequel les utilisateurs peuvent interagir, comme dans un jeu vidéo en vue à la première personne, mais dans des environnements réalistes. Bien qu'encore à un stade précoce et présentant des imperfections, Odyssey vise à créer une expérience similaire au Holodeck de science-fiction. L'entreprise utilise des grappes de GPU H100 aux États-Unis et en Europe pour générer ces vidéos, et bien que la qualité d'image soit actuellement médiocre, Odyssey est à l'avant-garde de cette technologie émergente.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Screenshot-2025-05-27-at-7.27.50%E2%80%AFPM.png?quality=90&strip=all&crop=7.9064587973274%2C0%2C84.187082405345%2C100&w=2400",
+        "date": "Wed, 28 May 2025 16:30:00 GMT"
     },
     {
         "title": "Sécuriser l'avenir de l'espace grâce à des partenariats public-privé et à l'innovation dans le domaine de la cybersécurité",
