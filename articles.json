@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Le gouvernement rend hommage aux résistants de la Seconde Guerre mondiale avec… de l’IA générative",
+        "title": "Le gouvernement rend hommage aux r\u00e9sistants de la Seconde Guerre mondiale avec\u2026 de l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2630147_le-gouvernement-rend-hommage-aux-resistants-de-la-seconde-guerre-mondiale-avec-de-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copie-de-votre-texte-de-paragraphe-1200x675-1-768x432.jpg?resize=169,169&key=8f1ac4db",
         "date": "Tue, 27 May 2025 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "« C’était assez embêtant pour nous » : l’éternel dilemme de Google avec Gemini",
+        "title": "\u00ab C\u2019\u00e9tait assez emb\u00eatant pour nous \u00bb : l\u2019\u00e9ternel dilemme de Google avec Gemini",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2621493_cetait-assez-embetant-pour-nous-leternel-dilemme-de-google-avec-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-app-smartphone-1200x900-1-768x576.jpg?resize=225,225&key=33e774db",
         "date": "Wed, 28 May 2025 23:00:00 GMT",
@@ -243,5 +243,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683853751a6768f3650e057a/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 29 May 2025 12:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 29 May 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967455.jpg?quality=90&strip=all&crop=0.002886836027713%2C0%2C99.994226327945%2C100&w=2400",
+        "date": "Thu, 29 May 2025 13:30:33 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/05/29/hope-ai-wants-to-replace-your-dev-team---but-not-how-you-think/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838b203f8e38f20cee0caab/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/05/29/snorkel-ai-raises-100-million-to-build-better-evaluators-for-ai-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838ac062b3770ece3c4e5f4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
