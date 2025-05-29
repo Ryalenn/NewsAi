@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Le gouvernement rend hommage aux résistants de la Seconde Guerre mondiale avec… de l’IA générative",
+        "title": "Le gouvernement rend hommage aux r\u00e9sistants de la Seconde Guerre mondiale avec\u2026 de l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2630147_le-gouvernement-rend-hommage-aux-resistants-de-la-seconde-guerre-mondiale-avec-de-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copie-de-votre-texte-de-paragraphe-1200x675-1-768x432.jpg?resize=169,169&key=8f1ac4db",
         "date": "Tue, 27 May 2025 23:00:00 GMT",
@@ -222,5 +222,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6837865e7153fd8a845564f1/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 May 2025 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/android/2631681_google-lance-lia-gratuite-et-hors-ligne-sur-android-avec-ai-edge-gallery-voici-comment-lessayer-sur-votre-smartphone",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-63-3-1200x759-1-768x486.jpg?resize=190,190&key=7473febe",
+        "date": "Wed, 28 May 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
+        "date": "Wed, 28 May 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/29/why-ai-attaining-agi-will-spur-a-new-universal-natural-language-that-reshapes-human-thinking/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682a5b9ee5aec354aa23a604/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 06:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/05/29/15-amazing-generative-ai-tools-for-lawyers-and-legal-tasks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6837f5e1f251eedc1d903493/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 05:00:00 GMT",
+        "check": "no"
     }
 ]
