@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir du développement logiciel avec l'IA",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/05/29/hope-ai-wants-to-replace-your-dev-team---but-not-how-you-think/?ss=ai",
+        "body": "L'article explore l'impact potentiel de l'IA sur l'avenir du développement logiciel, en se concentrant sur des outils d'IA autonomes comme Hope AI, qui promettent de concevoir et de déployer des applications à grande échelle sans intervention humaine. Bien que ces avancées suscitent de l'enthousiasme, elles soulèvent également des inquiétudes quant au rôle futur des développeurs. Hope AI, construit sur la plateforme Bit, prétend concevoir des applications complètes de manière autonome. Bien que Gartner et IBM prévoient un avenir prometteur pour l'IA dans le développement logiciel, des experts comme Naveen Rao de Databricks conseillent la prudence, soulignant que les véritables agents IA autonomes sont encore loin. Des préoccupations en matière de sécurité et des vulnérabilités dans le code généré par l'IA sont également soulevées. L'article examine les implications économiques, avec des prédictions de pertes d'emplois à col blanc, mais certains pensent que les développeurs deviendront plutôt des superviseurs de l'IA, assurant la conformité et l'éthique. L'éducation en génie logiciel devra également s'adapter à cette nouvelle réalité. L'article conclut que l'avenir du développement logiciel sera modelé par une collaboration entre les humains et les agents IA qu'ils créent.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838b203f8e38f20cee0caab/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 19:00:00 GMT"
+    },
+    {
+        "title": "L'évaluation, le nouveau Saint Graal de l'IA ?",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/05/29/snorkel-ai-raises-100-million-to-build-better-evaluators-for-ai-models/?ss=ai",
+        "body": "L'évaluation des performances des modèles d'IA devient cruciale pour gagner la confiance des entreprises et favoriser l'adoption de l'IA. Snorkel AI, une startup issue du Stanford Artificial Intelligence Lab, se concentre désormais sur l'aide aux entreprises pour créer des systèmes d'évaluation et des datasets pour tester et ajuster leurs modèles d'IA. L'évaluation devient le nouveau point d'entrée pour l'IA, avec une demande croissante de données spécialisées à mesure que les chatbots IA prennent en charge des tâches à enjeux élevés. Snorkel AI a levé 100 millions de dollars lors d'un financement de la série D, valorisant l'entreprise à 1,3 milliard de dollars. La société se concentre sur l'implication d'experts en la matière et l'utilisation d'une méthode propriétaire appelée « étiquetage programmatique » pour attribuer automatiquement des étiquettes à de grands ensembles de données. Snorkel fait face à une concurrence féroce de la part de sociétés telles que Scale AI, Turing et Invisible Technologies, mais se distingue en mettant l'accent sur les experts humains dès le départ.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838ac062b3770ece3c4e5f4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 19:00:00 GMT"
+    },
+    {
         "title": "Razer lance des outils de développement de jeux AI",
         "link": "https://press.razer.com/company-news/razer-is-bringing-revolutionary-ai-game-developer-tools-on-amazon-web-services/",
         "body": "Razer lance deux nouveaux outils basés sur l'IA pour les développeurs de jeux : Razer Game Assistant et Razer QA Companion. Ces outils, qui font partie de l'écosystème de jeu WYVRN de Razer, visent à révolutionner le développement de jeux en améliorant l'accessibilité, l'évolutivité et l'innovation pour les créateurs de jeux. Le premier outil, Razer Game Assistant, fournit des conseils en temps réel, une analyse post-jeu et des insights sur les performances matérielles, améliorant ainsi l'expérience du joueur. Le second, Razer QA Companion, est un outil d'assurance qualité automatisé qui détecte et signale les bogues, les plantages et les problèmes de performance, permettant ainsi aux testeurs humains de se concentrer sur le gameplay. Ces outils seront bientôt disponibles sur AWS Marketplace, offrant ainsi un accès mondial et une évolutivité aux développeurs de jeux.",
@@ -7,11 +21,25 @@
         "date": "Thu, 29 May 2025 15:40:37 GMT"
     },
     {
+        "title": "RealPage sous surveillance",
+        "link": "https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement#comments",
+        "body": "Des sénateurs démocrates enquêtent sur les activités de RealPage, une entreprise de logiciels accusée de collusion avec des propriétaires pour augmenter les loyers. Les sénateurs s'intéressent particulièrement à l'implication potentielle de RealPage dans une proposition de loi républicaine interdisant aux États de réglementer l'IA pendant 10 ans. La proposition de loi empêcherait les tentatives de régulation d'un algorithme de fixation des loyers utilisé par RealPage, qui, selon ProPublica, est lié à l'augmentation des prix des loyers aux États-Unis. Les sénateurs demandent des informations sur les efforts de lobbying de RealPage et sur l'impact potentiel de la proposition de loi sur les bénéfices de l'entreprise. Ils soulignent également l'augmentation des dépenses de lobbying de l'entreprise et de ses groupes commerciaux affiliés. La réponse de RealPage est attendue d'ici le 10 juin 2025.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 29 May 2025 15:00:00 GMT"
+    },
+    {
         "title": "DeepSeek-R1-0528 : Améliorations et performances",
         "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
         "body": "Le modèle DeepSeek-R1 a été mis à jour, améliorant ses capacités de raisonnement et d'inférence. Cette nouvelle version, DeepSeek-R1-0528, se rapproche des modèles leaders du marché en termes de performances globales. L'accent a été mis sur l'amélioration de la profondeur de raisonnement, ce qui a permis d'augmenter significativement la précision dans les tâches de raisonnement complexes. Le modèle surpasse désormais les performances de modèles open-source similaires sur les tests AIME 2024 et 2025. De plus, la nouvelle version offre un taux de hallucination réduit, un meilleur support pour l'appel de fonction et une expérience améliorée pour le codage vibe. Le modèle est disponible via une API compatible OpenAI et peut être testé sur le site officiel de DeepSeek.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/GsHZfE_aUAEo64N.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 29 May 2025 13:41:40 GMT"
+    },
+    {
+        "title": "Le futur du journalisme ?",
+        "link": "https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon#comments",
+        "body": "Amazon a conclu un accord de licence d'IA avec le New York Times pour utiliser son contenu dans les réponses d'Alexa. Cet accord survient un an après que le Times ait poursuivi Microsoft et OpenAI pour infraction au droit d'auteur, alléguant que leurs modèles IA ont été formés sur des millions d'articles sans compensation. D'autres médias ont également poursuivi OpenAI, tandis que des éditeurs comme The Atlantic et Vox Media ont opté pour des accords de licence IA. Amazon utilisera également le contenu de The Athletic et de NYT Cooking pour Alexa, mettant en avant la volonté de la société de valoriser le journalisme de qualité. Les détails financiers de l'accord n'ont pas été divulgués, mais la PDG du New York Times Company a affirmé que cela reflétait l'importance de rémunérer le journalisme de qualité.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967455.jpg?quality=90&strip=all&crop=0.002886836027713%2C0%2C99.994226327945%2C100&w=2400",
+        "date": "Thu, 29 May 2025 13:30:33 GMT"
     },
     {
         "title": "L'IA au service des marques emblématiques",
@@ -229,19 +257,5 @@
         "body": "L'assistant IA Claude lance une nouvelle fonctionnalité en version bêta, appelée \"Voice Mode\", qui permet aux utilisateurs d'avoir des conversations vocales complètes avec l'assistant sur iOS et Android. La fonction transforme l'interaction avec Claude en permettant une communication vocale bidirectionnelle, affichant les points clés à l'écran et offrant une transition fluide entre le texte et la voix dans la même conversation. Voice Mode est particulièrement utile pour la planification quotidienne, l'apprentissage, la pensée créative, la préparation aux entretiens et la capture d'idées. Il est disponible en anglais et respecte les limites d'utilisation standard basées sur les plans d'abonnement. Les administrateurs d'entreprise peuvent désactiver Voice Mode pour leur organisation. Des mesures de sécurité sont en place pour éviter l'usurpation d'identité et la reproduction vocale.",
         "image": "",
         "date": "Tue, 27 May 2025 21:50:04 GMT"
-    },
-    {
-        "title": "L'avènement de l'ère des usines d'IA",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/05/27/nvidia-partners-with-swedish-consortium-ai-factory-redefines-economy/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683562b00ab22e770442e709/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 27 May 2025 21:04:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans WordPress",
-        "link": "https://make.wordpress.org/ai/",
-        "body": "L'équipe WordPress AI, nouvellement formée, a pour mission d'explorer et de coordonner les projets d'intelligence artificielle (IA) dans l'écosystème WordPress. L'équipe invite tous ceux qui s'intéressent à l'IA, qu'il s'agisse d'ingénieurs, de designers ou de chercheurs, à participer à la construction de l'avenir de l'IA dans WordPress. Au cours des prochaines semaines, l'équipe partagera son calendrier de réunions, sa feuille de route initiale, ses lignes directrices en matière de contribution et d'autres informations. L'équipe est enthousiaste à l'idée de travailler avec la communauté WordPress pour façonner l'avenir de l'IA dans cette plateforme populaire.",
-        "image": "",
-        "date": "Tue, 27 May 2025 18:36:52 GMT"
     }
 ]
