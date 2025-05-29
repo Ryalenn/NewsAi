@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Le gouvernement rend hommage aux résistants de la Seconde Guerre mondiale avec… de l’IA générative",
+        "title": "Le gouvernement rend hommage aux r\u00e9sistants de la Seconde Guerre mondiale avec\u2026 de l\u2019IA g\u00e9n\u00e9rative",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2630147_le-gouvernement-rend-hommage-aux-resistants-de-la-seconde-guerre-mondiale-avec-de-lia-generative",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/copie-de-votre-texte-de-paragraphe-1200x675-1-768x432.jpg?resize=169,169&key=8f1ac4db",
         "date": "Tue, 27 May 2025 23:00:00 GMT",
@@ -194,5 +194,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 May 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.honest-broker.com/p/5-ways-to-stop-ai-cheating",
+        "image": "",
+        "date": "Wed, 28 May 2025 21:15:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.youtube.com/watch?v=US2gO7UYEfY",
+        "image": "",
+        "date": "Wed, 28 May 2025 17:28:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/unnamed-5.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 28 May 2025 08:08:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://support.anthropic.com/en/articles/11101966-using-voice-mode-on-claude-mobile-apps?s=09",
+        "image": "",
+        "date": "Tue, 27 May 2025 21:50:04 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnkoetsier/2025/05/28/worlds-largest-chip-sets-ai-speed-record-beating-nvidia/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6837860f0f5c2d44d9907583/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 May 2025 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/05/28/mistral-ai-introduces-agent-framework-to-compete-in-enterprise-market/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6837865e7153fd8a845564f1/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 28 May 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
