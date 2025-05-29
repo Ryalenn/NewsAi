@@ -1,5 +1,33 @@
 [
     {
+        "title": "La langue universelle",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/29/why-ai-attaining-agi-will-spur-a-new-universal-natural-language-that-reshapes-human-thinking/?ss=ai",
+        "body": "L'auteur explore l'idée spéculative selon laquelle, lorsque l'IA atteindra le niveau d'intelligence artificielle générale (AGI), elle pourrait créer une nouvelle langue naturelle universelle qui révolutionnerait la façon de penser et d'agir de l'humanité. L'AGI pourrait créer une langue qui élargirait considérablement les capacités de pensée humaine, mais cela soulèverait également des inquiétudes quant au contrôle mental potentiel de l'AGI sur les humains. La langue universelle pourrait-elle être un outil puissant pour améliorer l'intelligence humaine ou une menace pour la diversité culturelle et la pensée indépendante ? L'article examine les implications potentielles et les défis de l'adoption d'une telle langue, y compris les barrières à l'adoption, l'impact sur les bébés apprenant à parler et les implications pour les coutumes et la culture humaines.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/682a5b9ee5aec354aa23a604/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 06:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la pratique juridique : l'impact de l'IA sur la profession",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/05/29/15-amazing-generative-ai-tools-for-lawyers-and-legal-tasks/?ss=ai",
+        "body": "L'intelligence artificielle transforme la pratique du droit, tant pour les professionnels que pour les consommateurs. Des plateformes comme Harvey AI, basées sur la technologie LLM, aident à la recherche, à l'analyse des contrats et à la conformité. LexisNexis, une base de données juridique de longue date, a été améliorée avec Lexis+, un assistant juridique IA. D'autres outils, comme DoNotPay, aident les consommateurs à gérer les litiges courants, tandis que CoCounsel, de Thomson Reuters, traite les tâches numériques répétitives. Les startups et les petites entreprises bénéficient d'outils comme SeedLegals, qui simplifie la création de documents juridiques et la négociation de contrats. D'autres outils mentionnés incluent Blue J, ContractPod AI, Garfield AI, Iubenda, Ivo, Latch, LawConnect, LegalEase, PatentPal et Sana.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6837f5e1f251eedc1d903493/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 29 May 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Google lance l'IA locale sur Android",
+        "link": "https://www.frandroid.com/android/2631681_google-lance-lia-gratuite-et-hors-ligne-sur-android-avec-ai-edge-gallery-voici-comment-lessayer-sur-votre-smartphone",
+        "body": "Google lance une nouvelle application, AI Edge Gallery, qui permet d'exécuter des modèles d'IA directement sur les smartphones Android, sans connexion internet. L'application offre trois modes : AI Chat, Ask Image et un laboratoire d'expérimentation. Les utilisateurs peuvent discuter avec un chatbot, analyser des photos et effectuer diverses tâches d'IA, comme la génération de code et la traduction. Les modèles, y compris Gemma, Qwen 2.5 et Hammer 2.1, sont optimisés pour les appareils mobiles et peuvent être téléchargés depuis Hugging Face. L'application offre un contrôle personnalisé sur les réponses de l'IA et n'est pas disponible sur le Play Store, nécessitant une installation manuelle.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-63-3-1200x759-1-768x486.jpg?resize=190,190&key=7473febe",
+        "date": "Wed, 28 May 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA locale : comment l'exécuter sur votre PC ou Mac",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
+        "body": "Il est désormais possible d'avoir votre propre modèle de langage IA, comme ChatGPT, fonctionnant directement sur votre ordinateur personnel, sans dépendre de services cloud. Cet article fournit un guide détaillé sur la façon de le faire, y compris les avantages, les modèles disponibles et les spécifications matérielles requises. Les avantages clés incluent la confidentialité, l'autonomie, la vitesse et la personnalisation. Les modèles open-source tels que DeepSeek, LLaMA et Mistral sont présentés, ainsi que les outils pour les exécuter localement, tels que LM Studio, GPT4All, Chat With RTX et Ollama. Des conseils sont également fournis pour les utilisateurs avancés souhaitant accéder à un contrôle plus fin via la ligne de commande, ainsi que pour l'intégration avec d'autres applications et sites Web. Enfin, l'article discute du Mac mini M4 d'Apple comme plateforme idéale pour exécuter des modèles de langage locaux.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
+        "date": "Wed, 28 May 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'éducation à l'épreuve du temps",
         "link": "https://www.honest-broker.com/p/5-ways-to-stop-ai-cheating",
         "body": "L'article met en lumière les inquiétudes grandissantes concernant la tricherie liée à l'IA, qui semble atteindre un point de non-retour, avec des étudiants utilisant des outils d'IA comme ChatGPT pour tricher dans leurs devoirs et examens. Cependant, l'auteur partage son expérience personnelle à l'Université d'Oxford, où le système éducatif traditionnel et rigoureux rend la tricherie par l'IA pratiquement impossible. L'éducation à Oxford est décrite comme étant restée inchangée pendant des siècles, avec des règles strictes, des examens et des enseignements entièrement manuscrits, et un accent mis sur l'apprentissage en face-à-face. Les étudiants sont soumis à des interrogatoires verbaux intensifs, des examens oraux et écrits supervisés, et des rituels de punition pour ceux qui enfreignent les règles. Ce système éducatif traditionnel, bien que rigoureux, crée un environnement dans lequel l'IA ne peut pas tricher et garantit l'intégrité académique. L'auteur suggère que le retour à un tel système, ou à des variantes de celui-ci, pourrait être une solution nécessaire pour contrer la tricherie liée à l'IA et rétablir la valeur des diplômes universitaires.",
@@ -208,12 +236,5 @@
         "body": "Bien que l'IA puisse offrir des avantages incroyables, comme le montre l'exemple d'EDITH dans Spider-Man : Far From Home, il est important de considérer les implications éthiques. Cluely AI, une plateforme d'assistance intelligente, soulève des questions sur la limite entre l'assistance et la tricherie. L'histoire de son créateur, Chungin \"Roy\" Lee, et de son application controversée, met en lumière les préoccupations liées à l'utilisation de l'IA pour obtenir un avantage injuste. Bien que certains comparent Cluely AI à des outils comme les calculatrices et les correcteurs orthographiques, d'autres le considèrent comme une forme de triche, surtout lorsqu'il est utilisé dans des situations à haut risque comme les examens, les appels de vente ou les rendez-vous galants. L'article explore également la façon dont l'IA répond à un besoin humain fondamental de certitude et remet en question notre désir de dépasser nos limites.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683490125a73829b99a258fa/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 27 May 2025 11:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour la santé mentale : avantages et défis",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/05/27/latest-research-assesses-the-use-of-specially-tuned-generative-ai-for-performing-mental-health-therapy/?ss=ai",
-        "body": "L'article explore les progrès et les complexités de l'utilisation de l'IA pour la thérapie de santé mentale, en se concentrant sur une étude récente utilisant une IA générative adaptée pour traiter diverses conditions de santé mentale. L'étude a montré des améliorations chez les participants, suggérant que l'IA générative et les grands modèles linguistiques pourraient être efficaces pour la thérapie de santé mentale. Cependant, l'auteur met en garde contre les risques cachés et les incertitudes, soulignant la nature non déterministe de l'IA générative et les risques de conseils inappropriés. Il souligne l'importance de recherches rigoureuses et systématiques, tout en reconnaissant le défi de rester à jour avec les progrès rapides de l'IA. L'article conclut en soulignant la nécessité de trouver un équilibre entre l'accessibilité de la thérapie basée sur l'IA et la garantie de résultats positifs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/65b98323d4bf9b27c84e4286/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 27 May 2025 07:00:00 GMT"
     }
 ]
