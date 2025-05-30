@@ -14,11 +14,39 @@
         "date": "Fri, 30 May 2025 14:00:00 GMT"
     },
     {
+        "title": "L'utilisation de l'IA dans la rédaction de rapports",
+        "link": "https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop",
+        "body": "Le rapport controversé de la commission \"Make America Healthy Again\" de Robert F. Kennedy Jr. est remis en question en raison de l'utilisation potentielle d'outils d'IA, notamment ChatGPT. Une enquête a révélé des dizaines d'erreurs, notamment des liens brisés, des numéros de problèmes incorrects et des sources inexistantes ou fictives. Au moins 37 des 522 citations apparaissaient plusieurs fois, et les URL comprenaient des marqueurs d'IA. Malgré les préoccupations concernant l'exactitude des citations, la Maison Blanche a évité de mentionner l'utilisation d'outils d'IA, qualifiant les erreurs de \"problèmes de formatage\". Le rapport a été mis à jour pour supprimer certains marqueurs d'IA et corriger des erreurs de citation, mais sa substance est restée inchangée.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2217033977.jpg?quality=90&strip=all&crop=0%2C1.0001419194286%2C84.4%2C84.399722679697&w=2400",
+        "date": "Fri, 30 May 2025 11:05:33 GMT"
+    },
+    {
+        "title": "L'IA et l'avenir de l'emploi pour la Gen Z",
+        "link": "https://www.forbes.com/sites/colleenbatchelder/2025/05/30/how-gen-z-can-break-into-the-market-as-ai-disrupts-entry-level-roles/?ss=ai",
+        "body": "Bien que l'IA perturbe le marché du travail, y compris les emplois d'entrée de gamme, elle offre également de nouvelles opportunités pour la génération Z. Les entreprises adoptent de plus en plus l'IA pour l'automatisation des tâches et le recrutement, ce qui entraîne une diminution de la demande d'emplois d'entrée de gamme. Cependant, la génération Z a un avantage : elle est à l'aise avec la technologie et l'IA. En maîtrisant l'IA et en la présentant comme une compétence, les membres de la Gen Z peuvent se démarquer et montrer leur valeur aux employeurs. L'IA est un outil, et les entreprises recherchent des personnes capables de l'utiliser efficacement. En investissant dans l'éducation et la formation en IA, la Gen Z peut améliorer ses perspectives d'emploi et montrer aux entreprises qu'elle est déterminée à acquérir les compétences nécessaires pour les aider à prospérer. Bien que l'IA puisse sembler une menace, elle peut également être un moyen puissant de se démarquer et de trouver un emploi épanouissant.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68393959cbd5f8d3b2c078a9/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 11:00:00 GMT"
+    },
+    {
         "title": "L'éthique de l'IA : un enjeu crucial pour l'avenir",
         "link": "https://www.forbes.com/sites/hamiltonmann/2025/05/30/ten-artificial-integrity-gaps-to-guard-against-with-machines-intelligent-or-not/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683982e99b6d00ab9051f0d3/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 30 May 2025 11:00:00 GMT"
+    },
+    {
+        "title": "Gmail introduit des résumés automatiques pour les threads complexes",
+        "link": "https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios",
+        "body": "Gmail introduit une nouvelle fonctionnalité basée sur l'IA qui fournit des résumés automatiques pour les threads d'emails complexes et longs. Ces résumés apparaîtront automatiquement au-dessus des emails en anglais sur mobile, et seront mis à jour en temps réel avec les nouvelles réponses. La fonctionnalité, développée par Gemini, est actuellement disponible uniquement pour les utilisateurs de Google Workspace et pourrait ne pas être étendue aux utilisateurs gratuits de Gmail. Les utilisateurs peuvent toujours demander manuellement un résumé si Gmail n'en génère pas automatiquement un, ou désactiver complètement les fonctionnalités IA dans les paramètres de l'application.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gmail-ai-summary.jpg?quality=90&strip=all&crop=0%2C0.049950049950048%2C100%2C99.9000999001&w=2400",
+        "date": "Fri, 30 May 2025 08:26:38 GMT"
+    },
+    {
+        "title": "La guerre contre les deepfakes",
+        "link": "https://www.forbes.com/sites/anishasircar/2025/05/30/deepfakes-are-spreading---can-the-law-keep-up/?ss=ai",
+        "body": "La prolifération des deepfakes, en particulier les vidéos et images à caractère sexuel ou diffamatoire, soulève des inquiétudes juridiques, politiques et de sécurité nationale. Malgré les efforts législatifs aux niveaux étatique et fédéral, la réglementation et la répression restent difficiles face à la viralité et à l'accessibilité croissante des outils de génération de contenus synthétiques. Les lois existantes varient selon les États, ce qui rend la situation confuse pour les victimes, et la résistance à la réglementation s'intensifie, notamment de la part des entreprises technologiques et des défenseurs de la liberté d'expression. La technologie des deepfakes est de plus en plus utilisée pour la fraude à l'identité et l'escroquerie, ce qui inquiète les institutions financières. La communauté internationale est divisée sur la meilleure approche réglementaire, certains pays privilégiant des lois ciblées, tandis que d'autres, comme la Chine, optent pour un contrôle centralisé des contenus.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6839374be57873e8e1337dff/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 06:00:00 GMT"
     },
     {
         "title": "La course aux TOPS : l'envers du décor de la puissance IA",
@@ -201,47 +229,5 @@
         "body": "Le président de Microsoft, Brad Smith, a comparé l'IA à l'électricité, prédisant qu'elle sera la prochaine grande technologie polyvalente à créer une nouvelle économie. Microsoft investit massivement dans la création d'une couche d'infrastructure pour diffuser l'IA dans le monde. Smith souligne l'importance de se concentrer sur le développement d'une IA qui améliore les capacités humaines plutôt que de chercher à les surpasser. Il reconnaît également la nécessité de former et d'éduquer les gens pour les préparer à l'économie émergente basée sur l'IA, tout en reconnaissant les défis liés à l'exclusion de certains groupes dans la révolution de l'électrification. L'IA est présentée comme un moteur potentiel de la prochaine révolution industrielle, avec l'objectif de la rendre plus bénéfique que les révolutions industrielles précédentes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68376121d93e18b9d8da4bbe/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 May 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA dans la fabrication",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/28/4-ai-applications-to-manufacturing/?ss=ai",
-        "body": "L'IA est en train de révolutionner de nombreux secteurs, notamment les professions intellectuelles, grâce à sa capacité à imiter la pensée humaine. Cependant, son impact sur le secteur de la fabrication est différent, car il s'agit d'automatiser des processus répétitifs et d'améliorer la précision. La création de jumeaux numériques, ou la simulation de processus industriels, permet de comparer les résultats idéaux aux résultats physiques, aidant ainsi à réduire les défauts et les erreurs. Cette pratique, appelée « jumeau numérique », est sur le point de devenir une norme dans divers secteurs, notamment la défense, les transports et la fabrication d'équipements médicaux. \n\nDe plus, les « cobots », ou robots collaboratifs, travaillent aux côtés des humains, effectuant des tâches répétitives, d'inspection ou de transport de matériaux. Ces cobots sont conçus pour assister les humains, en mettant l'accent sur l'économie et la sécurité plutôt que sur la précision. Les « usines dans une boîte » sont des systèmes autonomes et polyvalents qui peuvent être installés à la demande et près des lieux de demande, réduisant ainsi les coûts logistiques. Les architectures globales, telles que les systèmes d'exécution de la fabrication, les logiciels de planification des ressources de l'entreprise et les systèmes SCADA, fournissent un contrôle central et améliorent l'évaluation et l'optimisation des processus. \n\nSelon John Hart, trois avancées majeures sont liées aux systèmes multimodaux : de nouvelles conceptions de produits, la flexibilité de l'usine dans une conception de boîte et des modifications de la chaîne de valeur. Ces technologies transforment les processus métier et révolutionnent la façon dont les usines de demain seront conçues, les rendant très différentes de celles d'aujourd'hui.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 18:00:00 GMT"
-    },
-    {
-        "title": "Démocratisation de la création de logiciels avec DeepSeek",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/05/28/deepseeks-r1-update-boosts-coding-capabilities/?ss=ai",
-        "body": "DeepSeek, une nouvelle application d'IA chinoise, a récemment mis à jour son modèle R1, offrant une assistance à la programmation à un coût abordable. L'application se distingue par sa structure tarifaire, offrant des fonctionnalités de codage avancées gratuitement, ce qui la rend idéale pour les institutions éducatives, les organisations à but non lucratif et les créateurs indépendants. Les utilisateurs, des débutants aux expérimentés, peuvent créer des jeux vidéo simples et interactifs, et les exécuter en Python ou en HTML5. DeepSeek peut également aider à la construction de sites web à partir de zéro, en utilisant des datasets publics et en générant du code pour des visualisations interactives. Ces fonctionnalités simplifient la tâche des journalistes de données, des chercheurs en humanités numériques et des professionnels souhaitant prendre des décisions basées sur les données. La mise à jour R1 de DeepSeek, avec ses compétences améliorées en codage, contribue à démocratiser la création de logiciels, en permettant aux innovateurs de développer et de lancer des applications à faible coût.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67c17800895ae1e5fa30a87a/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 17:53:00 GMT"
-    },
-    {
-        "title": "L'éthique de l'IA : un guide pour les praticiens",
-        "link": "https://www.youtube.com/watch?v=US2gO7UYEfY",
-        "body": "L'éthique de l'IA est un domaine en évolution rapide qui a un impact significatif sur l'industrie. Cet article fournit un guide complet pour les praticiens de l'IA, couvrant divers aspects moraux et sociaux de la technologie. \n\nL'article commence par souligner l'importance de l'éthique dans l'IA, notant comment elle influence la confiance du public et la réglementation gouvernementale. Il présente ensuite les « quatre principes » fondamentaux de l’éthique de l’IA : respect de l'autonomie, bienfaisance, justice et non-malveillance. Ces principes servent de cadre pour guider le développement et le déploiement éthiques de systèmes IA. \n\nLe guide explore ensuite plusieurs considérations éthiques clés, notamment : \n\n- Transparence et explicabilité : L'importance de rendre les systèmes IA compréhensibles et interprétables, permettant une responsabilité et une confiance accrues. \n\n- Équité et biais : Aborde les problèmes de biais dans les données et les algorithmes, et comment ils peuvent conduire à des résultats injustes et discriminatoires. Souligne la nécessité de pratiques équitables et inclusives. \n\n- Vie privée et confidentialité : Discute des implications éthiques de la collecte et de l'utilisation de grandes quantités de données, et de la nécessité de protéger la vie privée des individus et de garantir un consentement éclairé. \n\n- Responsabilité : Souligne la nécessité d'une responsabilité tout au long du cycle de vie de l'IA, y compris des lignes directrices claires, des procédures d'audit et des mécanismes de réparation en cas d'utilisation abusive ou inappropriée de l'IA. \n\n- Impact social : Encourage les praticiens à envisager l'impact social plus large de leurs technologies, y compris les effets potentiels sur l'emploi, les relations sociales et la distribution du pouvoir. \n\nL'article fournit des exemples et des études de cas pour illustrer ces concepts, offrant ainsi aux praticiens un guide pratique pour naviguer dans les complexités éthiques de leur domaine. Il conclut en soulignant la responsabilité partagée des chercheurs, des développeurs et des déployeurs d'IA pour garantir que la technologie est utilisée de manière responsable et éthique.",
-        "image": "",
-        "date": "Wed, 28 May 2025 17:28:31 GMT"
-    },
-    {
-        "title": "Anthropic accueille Reed Hastings",
-        "link": "https://www.theverge.com/news/675750/netflix-co-founder-reed-hastings-anthropic-board-of-directors#comments",
-        "body": "Reed Hastings, cofondateur et ancien PDG de Netflix, rejoint le conseil d'administration d'Anthropic, une entreprise d'intelligence artificielle. Hastings apporte son expérience dans la création et le développement de Netflix en une plateforme mondiale, ainsi que son engagement dans la réforme de l'éducation et l'investissement dans les infrastructures numériques sur les marchés émergents. Il s'aligne sur l'optimisme d'Anthropic concernant les avantages de l'IA pour l'humanité, mais reconnaît également les défis économiques, sociaux et de sécurité. Le conseil d'administration d'Anthropic comprend également les cofondateurs Dario Amodei et Daniela Amodei, ainsi que Yasmin Razavi et Jay Kreps. L'entreprise a récemment lancé ses modèles IA Claude 4.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-1445820458.jpg?quality=90&strip=all&crop=0%2C0.0036493686592181%2C100%2C99.992701262682&w=2400",
-        "date": "Wed, 28 May 2025 17:03:51 GMT"
-    },
-    {
-        "title": "La promesse de l'IA interactive",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/675395/odyssey-ai-generated-interactive-video-holodeck#comments",
-        "body": "L'article présente Odyssey, une startup soutenue par le cofondateur de Pixar, Edwin Catmull, qui développe un concept appelé « vidéo interactive ». Il s'agit d'un contenu vidéo généré en temps réel par l'IA, avec lequel les utilisateurs peuvent interagir, comme dans un jeu vidéo en vue à la première personne, mais dans des environnements réalistes. Bien qu'encore à un stade précoce et présentant des imperfections, Odyssey vise à créer une expérience similaire au Holodeck de science-fiction. L'entreprise utilise des grappes de GPU H100 aux États-Unis et en Europe pour générer ces vidéos, et bien que la qualité d'image soit actuellement médiocre, Odyssey est à l'avant-garde de cette technologie émergente.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Screenshot-2025-05-27-at-7.27.50%E2%80%AFPM.png?quality=90&strip=all&crop=7.9064587973274%2C0%2C84.187082405345%2C100&w=2400",
-        "date": "Wed, 28 May 2025 16:30:00 GMT"
-    },
-    {
-        "title": "Sécuriser l'avenir de l'espace grâce à des partenariats public-privé et à l'innovation dans le domaine de la cybersécurité",
-        "link": "https://www.forbes.com/sites/chuckbrooks/2025/05/28/public-private-sector-partnerships--for-space-systems-innovation-and-security/?ss=ai",
-        "body": "Résumé : \n\nL'article souligne l'importance croissante de l'espace en tant qu'infrastructure critique, dépendant à la fois des ressources publiques et privées. Les partenariats public-privé (PPP) sont essentiels pour favoriser l'innovation et la croissance sécurisée du secteur spatial. Le gouvernement peut encourager les investissements et les collaborations à travers des subventions et des PPP. La priorité accordée à la R&D spatiale conduira à des capacités de fabrication et des technologies avancées. Les agences gouvernementales peuvent réduire les coûts et les risques en s'alliant avec le secteur privé, tirant parti de l'innovation et des économies commerciales. La cybersécurité des systèmes spatiaux est cruciale, étant donné la dépendance croissante aux satellites pour les communications, la sécurité et le commerce. Les PPP peuvent aider à gérer les risques de cybersécurité et à protéger les infrastructures spatiales critiques. La création de modèles de gestion des risques et la collaboration entre les secteurs public et privé sont essentielles pour sécuriser les systèmes spatiaux. La NASA et la Space Force américaine jouent un rôle clé dans la sécurisation de l'espace, avec des initiatives comme le guide de bonnes pratiques et le partage de renseignements sur les menaces. L'industrie et le gouvernement doivent collaborer pour protéger les actifs spatiaux contre les cyberattaques, garantissant ainsi la sécurité nationale et la résilience des infrastructures critiques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/657916727c801ce022d45952/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 16:00:00 GMT"
     }
 ]
