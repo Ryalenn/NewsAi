@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "« C’était assez embêtant pour nous » : l’éternel dilemme de Google avec Gemini",
+        "title": "\u00ab C\u2019\u00e9tait assez emb\u00eatant pour nous \u00bb : l\u2019\u00e9ternel dilemme de Google avec Gemini",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2621493_cetait-assez-embetant-pour-nous-leternel-dilemme-de-google-avec-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-app-smartphone-1200x900-1-768x576.jpg?resize=225,225&key=33e774db",
         "date": "Wed, 28 May 2025 23:00:00 GMT",
@@ -243,5 +243,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683982e99b6d00ab9051f0d3/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 30 May 2025 11:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/05/30/using-data-and-ai-to-improve-outcomes-at-novant-health/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6839c2892b15d6bcd30ddf48/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 14:42:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/05/30/will-ai-replace-cybersecurity-not-quite-but-its-rewriting-the-rules/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838d51b35bddb355d9a86ba/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
