@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de la santé numérique : équilibrer l'innovation et l'empathie",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/05/30/using-data-and-ai-to-improve-outcomes-at-novant-health/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6839c2892b15d6bcd30ddf48/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 14:42:00 GMT"
+    },
+    {
+        "title": "La guerre des IA",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/05/30/will-ai-replace-cybersecurity-not-quite-but-its-rewriting-the-rules/?ss=ai",
+        "body": "La guerre dans le cyberespace est en train de passer à un nouveau niveau, avec l'utilisation croissante de l'IA par les cybercriminels et les entreprises pour attaquer et se défendre. Les criminels utilisent l'IA pour évoluer de petits délits à des empires criminels, ciblant les grandes entreprises. Les entreprises, quant à elles, adoptent des plateformes de défense augmentées par l'IA pour intercepter les menaces de manière proactive. L'IA peut être utilisée pour analyser les profils sur les médias sociaux et les bases de données publiques, identifier les faiblesses et empoisonner les systèmes de prédiction internes. Les acteurs malveillants peuvent manipuler les résultats du marché et influencer la performance, la perception et le sort à long terme d'une entreprise. Les entreprises de cybersécurité comme High Wire Networks utilisent l'hyperautomatisation, combinant l'apprentissage automatique et la prise de décision automatisée, pour lutter contre ces menaces. L'IA est devenue cruciale pour la sécurité et la survie des organisations dans le cyberespace moderne.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6838d51b35bddb355d9a86ba/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 14:00:00 GMT"
+    },
+    {
         "title": "L'éthique de l'IA : un enjeu crucial pour l'avenir",
         "link": "https://www.forbes.com/sites/hamiltonmann/2025/05/30/ten-artificial-integrity-gaps-to-guard-against-with-machines-intelligent-or-not/?ss=ai",
         "body": "Titre",
@@ -229,12 +243,5 @@
         "body": "Résumé : \n\nL'article souligne l'importance croissante de l'espace en tant qu'infrastructure critique, dépendant à la fois des ressources publiques et privées. Les partenariats public-privé (PPP) sont essentiels pour favoriser l'innovation et la croissance sécurisée du secteur spatial. Le gouvernement peut encourager les investissements et les collaborations à travers des subventions et des PPP. La priorité accordée à la R&D spatiale conduira à des capacités de fabrication et des technologies avancées. Les agences gouvernementales peuvent réduire les coûts et les risques en s'alliant avec le secteur privé, tirant parti de l'innovation et des économies commerciales. La cybersécurité des systèmes spatiaux est cruciale, étant donné la dépendance croissante aux satellites pour les communications, la sécurité et le commerce. Les PPP peuvent aider à gérer les risques de cybersécurité et à protéger les infrastructures spatiales critiques. La création de modèles de gestion des risques et la collaboration entre les secteurs public et privé sont essentielles pour sécuriser les systèmes spatiaux. La NASA et la Space Force américaine jouent un rôle clé dans la sécurisation de l'espace, avec des initiatives comme le guide de bonnes pratiques et le partage de renseignements sur les menaces. L'industrie et le gouvernement doivent collaborer pour protéger les actifs spatiaux contre les cyberattaques, garantissant ainsi la sécurité nationale et la résilience des infrastructures critiques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/657916727c801ce022d45952/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 28 May 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : Operator d'OpenAI",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/28/the-power-and-the-promise-of-chatgpt-operator/?ss=ai",
-        "body": "OpenAI a discrètement lancé un nouvel outil révolutionnaire appelé Operator, qui permet à un modèle IA d'interagir avec un ordinateur comme le ferait un humain, en utilisant une interface graphique et des entrées clavier/souris. L'outil est alimenté par un agent d'utilisation d'ordinateur (CUA) qui lui permet de « voir » et d'interagir avec le contenu en ligne. Bien qu'impressionnant, Operator est coûteux, avec un abonnement mensuel de 200 $, ce qui limite son adoption à grande échelle. L'article explore les cas d'utilisation potentiels, tels que la délégation de tâches manuelles pour les ingénieurs en données et les professionnels de la sécurité, et souligne le potentiel de l'outil pour les systèmes IA proactifs. Bien qu'il y ait des préoccupations concernant le coût et la sécurité, l'auteur suggère qu'avec quelques améliorations et une réduction de prix, Operator pourrait devenir un outil très utile pour un large public, ouvrant ainsi la voie à des systèmes IA proactifs accessibles au grand public.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68371d0faf4af61bd4c8b394/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 14:26:00 GMT"
     }
 ]
