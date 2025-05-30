@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "« C’était assez embêtant pour nous » : l’éternel dilemme de Google avec Gemini",
+        "title": "\u00ab C\u2019\u00e9tait assez emb\u00eatant pour nous \u00bb : l\u2019\u00e9ternel dilemme de Google avec Gemini",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2621493_cetait-assez-embetant-pour-nous-leternel-dilemme-de-google-avec-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-app-smartphone-1200x900-1-768x576.jpg?resize=225,225&key=33e774db",
         "date": "Wed, 28 May 2025 23:00:00 GMT",
@@ -229,5 +229,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6838ac062b3770ece3c4e5f4/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 29 May 2025 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theinformation.com/briefings/business-insider-lays-21-staff",
+        "image": "",
+        "date": "Thu, 29 May 2025 23:08:49 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/05/29/most-americans-want-ai-decentralized-not-controlled-by-big-tech/?ss=ai",
+        "image": "",
+        "date": "Thu, 29 May 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
