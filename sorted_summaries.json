@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA mobile",
+        "link": "https://www.forbes.com/sites/marcochiappetta/2025/05/30/dell-taps-qualcomm-ai-accelerators-for-upcoming-pro-max-plus-mobile-workstation/?ss=ai",
+        "body": "Lors de l'événement Dell Technologies World 2025, plusieurs annonces ont été faites concernant l'IA et les solutions basées sur l'IA. Parmi celles-ci, la présentation d'un nouveau modèle de station de travail mobile Dell Pro Max Plus, conçu spécifiquement pour les ingénieurs en IA et les scientifiques des données, a retenu l'attention. Cet ordinateur portable haut de gamme de 18 pouces est le premier à intégrer deux unités de traitement neuronal (NPU) Qualcomm AI 100, offrant ainsi une puissance de calcul impressionnante pour le traitement de l'IA. Les NPU sont installés sur une carte d'extension PCI Express, offrant une capacité de mémoire importante et permettant de gérer de grands modèles d'IA localement, sans dépendre du cloud. Bien que l'absence d'un GPU dédié puisse limiter certaines fonctionnalités graphiques et de rendu 3D, la puissance de calcul de l'IA offerte par cet appareil en fait une solution intrigante pour les professionnels de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683a080de46c9012872c983c/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 19:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la santé numérique : équilibrer l'innovation et l'empathie",
         "link": "https://www.forbes.com/sites/peterhigh/2025/05/30/using-data-and-ai-to-improve-outcomes-at-novant-health/?ss=ai",
         "body": "Titre",
@@ -201,33 +208,5 @@
         "body": "Il est désormais possible d'avoir votre propre modèle de langage IA, comme ChatGPT, fonctionnant directement sur votre ordinateur personnel, sans dépendre de services cloud. Cet article fournit un guide détaillé sur la façon de le faire, y compris les avantages, les modèles disponibles et les spécifications matérielles requises. Les avantages clés incluent la confidentialité, l'autonomie, la vitesse et la personnalisation. Les modèles open-source tels que DeepSeek, LLaMA et Mistral sont présentés, ainsi que les outils pour les exécuter localement, tels que LM Studio, GPT4All, Chat With RTX et Ollama. Des conseils sont également fournis pour les utilisateurs avancés souhaitant accéder à un contrôle plus fin via la ligne de commande, ainsi que pour l'intégration avec d'autres applications et sites Web. Enfin, l'article discute du Mac mini M4 d'Apple comme plateforme idéale pour exécuter des modèles de langage locaux.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
         "date": "Wed, 28 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'éducation à l'épreuve du temps",
-        "link": "https://www.honest-broker.com/p/5-ways-to-stop-ai-cheating",
-        "body": "L'article met en lumière les inquiétudes grandissantes concernant la tricherie liée à l'IA, qui semble atteindre un point de non-retour, avec des étudiants utilisant des outils d'IA comme ChatGPT pour tricher dans leurs devoirs et examens. Cependant, l'auteur partage son expérience personnelle à l'Université d'Oxford, où le système éducatif traditionnel et rigoureux rend la tricherie par l'IA pratiquement impossible. L'éducation à Oxford est décrite comme étant restée inchangée pendant des siècles, avec des règles strictes, des examens et des enseignements entièrement manuscrits, et un accent mis sur l'apprentissage en face-à-face. Les étudiants sont soumis à des interrogatoires verbaux intensifs, des examens oraux et écrits supervisés, et des rituels de punition pour ceux qui enfreignent les règles. Ce système éducatif traditionnel, bien que rigoureux, crée un environnement dans lequel l'IA ne peut pas tricher et garantit l'intégrité académique. L'auteur suggère que le retour à un tel système, ou à des variantes de celui-ci, pourrait être une solution nécessaire pour contrer la tricherie liée à l'IA et rétablir la valeur des diplômes universitaires.",
-        "image": "",
-        "date": "Wed, 28 May 2025 21:15:31 GMT"
-    },
-    {
-        "title": "La révolution des puces informatiques pour l'IA",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/05/28/worlds-largest-chip-sets-ai-speed-record-beating-nvidia/?ss=ai",
-        "body": "La Cerebras WSE (Wafer Scale Engine) est une puce informatique massive de 22 cm de côté, contenant 4 milliards de transistors. Elle établit un record de vitesse pour les opérations d'inférence IA, surpassant un cluster NVIDIA équivalent. La clé de cette vitesse est la co-localisation de 4 milliards de transistors et de 44 Go de RAM rapide sur une seule puce, éliminant ainsi la nécessité de sortir de la puce. La WSE est une évolution intéressante dans la conception des puces informatiques, offrant une accélération GPU pour le développement de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6837860f0f5c2d44d9907583/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La révolution des agents autonomes",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/05/28/mistral-ai-introduces-agent-framework-to-compete-in-enterprise-market/?ss=ai",
-        "body": "La startup française de l'IA, Mistral AI, a lancé une plateforme complète de développement d'agents, permettant aux entreprises de créer des systèmes d'IA autonomes capables d'exécuter des processus métier complexes et multi-étapes. La plateforme Agents API positionne Mistral comme un concurrent direct d'autres acteurs majeurs du marché de l'automatisation des entreprises. La plateforme aborde une limitation fondamentale des modèles linguistiques actuels : leur incapacité à effectuer des actions au-delà de la génération de texte. Mistral combine son modèle linguistique avec une mémoire persistante, l'intégration et l'orchestration d'outils, permettant aux systèmes d'IA de maintenir le contexte tout en effectuant des tâches telles que l'analyse de code, le traitement de documents et la recherche sur le Web. La plateforme se distingue par quatre composants clés : un connecteur d'exécution de code, une intégration de recherche Web, des capacités de traitement de documents et un mécanisme de transfert d'agents. Mistral offre également une flexibilité de déploiement, avec des options hybrides et sur site, répondant ainsi aux préoccupations de souveraineté des données. L'entrée de Mistral dans le développement d'agents autonomes coïncide avec des lancements similaires de grands acteurs technologiques, suggérant un mouvement coordonné vers des frameworks standardisés. Le succès dépendra de l'intégration efficace des systèmes d'agents aux processus métier existants, tout en gérant les coûts et la complexité opérationnelle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6837865e7153fd8a845564f1/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La quatrième révolution industrielle",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/05/28/ai-is-creating-a-new-economy-microsoft-president-brad-smith/?ss=ai",
-        "body": "Le président de Microsoft, Brad Smith, a comparé l'IA à l'électricité, prédisant qu'elle sera la prochaine grande technologie polyvalente à créer une nouvelle économie. Microsoft investit massivement dans la création d'une couche d'infrastructure pour diffuser l'IA dans le monde. Smith souligne l'importance de se concentrer sur le développement d'une IA qui améliore les capacités humaines plutôt que de chercher à les surpasser. Il reconnaît également la nécessité de former et d'éduquer les gens pour les préparer à l'économie émergente basée sur l'IA, tout en reconnaissant les défis liés à l'exclusion de certains groupes dans la révolution de l'électrification. L'IA est présentée comme un moteur potentiel de la prochaine révolution industrielle, avec l'objectif de la rendre plus bénéfique que les révolutions industrielles précédentes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68376121d93e18b9d8da4bbe/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 28 May 2025 19:00:00 GMT"
     }
 ]
