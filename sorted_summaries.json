@@ -180,33 +180,5 @@
         "body": "L'intelligence artificielle transforme la pratique du droit, tant pour les professionnels que pour les consommateurs. Des plateformes comme Harvey AI, basées sur la technologie LLM, aident à la recherche, à l'analyse des contrats et à la conformité. LexisNexis, une base de données juridique de longue date, a été améliorée avec Lexis+, un assistant juridique IA. D'autres outils, comme DoNotPay, aident les consommateurs à gérer les litiges courants, tandis que CoCounsel, de Thomson Reuters, traite les tâches numériques répétitives. Les startups et les petites entreprises bénéficient d'outils comme SeedLegals, qui simplifie la création de documents juridiques et la négociation de contrats. D'autres outils mentionnés incluent Blue J, ContractPod AI, Garfield AI, Iubenda, Ivo, Latch, LawConnect, LegalEase, PatentPal et Sana.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6837f5e1f251eedc1d903493/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 29 May 2025 05:00:00 GMT"
-    },
-    {
-        "title": "L'ETAJV à l'heure de l'IA",
-        "link": "https://www.frandroid.com/marques/microsoft/2631651_microsoft-transforme-letajv-en-ia-copilot-for-gaming-est-dispo-sur-ios-et-android",
-        "body": "L'article évoque l'évolution des sources d'informations pour les joueurs, passant des magazines spécialisés et des astuces échangées discrètement aux forums en ligne et aux vidéos sur Internet. Microsoft, avec son outil Copilot for Gaming, et Google, visent à révolutionner cette expérience en utilisant l'IA. Copilot, déjà disponible sur l'application Xbox en version bêta sur iOS et Android, peut proposer des jeux, les installer et suggérer des stratégies en fonction de l'activité de l'utilisateur et de son historique de jeu. La fonctionnalité sera également déployée sur PC Windows, où son plein potentiel devrait être révélé.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/wire-article-flat-1430x800-1-1a8597dc612fc468b83f-1200x671-1-768x429.jpg?resize=168,168&key=44cb68bb",
-        "date": "Wed, 28 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : l'équilibre entre puissance et rapidité",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2621493_cetait-assez-embetant-pour-nous-leternel-dilemme-de-google-avec-gemini",
-        "body": "L'article se concentre sur les défis auxquels sont confrontées les équipes de développement de Gemini chez Google, en particulier sur la recherche d'un équilibre entre la puissance de l'IA et la rapidité de ses réponses. Dave Citron, Senior Director du Product Management, explique que des modèles puissants comme Gemini 2.5 peuvent nécessiter plusieurs secondes pour répondre, ce qui n'est pas idéal pour une interaction en temps réel. Ainsi, Gemini existe sous différentes formes, telles que les modes Flash et Pro, et peut être adapté à différents formats de produits. L'un des défis majeurs est de communiquer ces nuances aux utilisateurs et de proposer une interface claire. Google a récemment apporté des changements à l'interface web et mobile de Gemini pour améliorer l'expérience utilisateur. L'article mentionne également la réflexion de Google sur l'acceptation des réponses longues, en proposant par exemple de consulter le fil du raisonnement de l'IA pendant qu'elle travaille sur une réponse approfondie. Enfin, Dave Citron évoque la possibilité d'un mode automatique qui proposerait la version la plus adéquate de Gemini en fonction de la demande de l'utilisateur.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-app-smartphone-1200x900-1-768x576.jpg?resize=225,225&key=33e774db",
-        "date": "Wed, 28 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google lance l'IA locale sur Android",
-        "link": "https://www.frandroid.com/android/2631681_google-lance-lia-gratuite-et-hors-ligne-sur-android-avec-ai-edge-gallery-voici-comment-lessayer-sur-votre-smartphone",
-        "body": "Google lance une nouvelle application, AI Edge Gallery, qui permet d'exécuter des modèles d'IA directement sur les smartphones Android, sans connexion internet. L'application offre trois modes : AI Chat, Ask Image et un laboratoire d'expérimentation. Les utilisateurs peuvent discuter avec un chatbot, analyser des photos et effectuer diverses tâches d'IA, comme la génération de code et la traduction. Les modèles, y compris Gemma, Qwen 2.5 et Hammer 2.1, sont optimisés pour les appareils mobiles et peuvent être téléchargés depuis Hugging Face. L'application offre un contrôle personnalisé sur les réponses de l'IA et n'est pas disponible sur le Play Store, nécessitant une installation manuelle.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-63-3-1200x759-1-768x486.jpg?resize=190,190&key=7473febe",
-        "date": "Wed, 28 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA locale : comment l'exécuter sur votre PC ou Mac",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
-        "body": "Il est désormais possible d'avoir votre propre modèle de langage IA, comme ChatGPT, fonctionnant directement sur votre ordinateur personnel, sans dépendre de services cloud. Cet article fournit un guide détaillé sur la façon de le faire, y compris les avantages, les modèles disponibles et les spécifications matérielles requises. Les avantages clés incluent la confidentialité, l'autonomie, la vitesse et la personnalisation. Les modèles open-source tels que DeepSeek, LLaMA et Mistral sont présentés, ainsi que les outils pour les exécuter localement, tels que LM Studio, GPT4All, Chat With RTX et Ollama. Des conseils sont également fournis pour les utilisateurs avancés souhaitant accéder à un contrôle plus fin via la ligne de commande, ainsi que pour l'intégration avec d'autres applications et sites Web. Enfin, l'article discute du Mac mini M4 d'Apple comme plateforme idéale pour exécuter des modèles de langage locaux.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
-        "date": "Wed, 28 May 2025 23:00:00 GMT"
     }
 ]
