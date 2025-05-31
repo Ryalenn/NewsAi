@@ -145,40 +145,5 @@
         "body": "Razer lance deux nouveaux outils basés sur l'IA pour les développeurs de jeux : Razer Game Assistant et Razer QA Companion. Ces outils, qui font partie de l'écosystème de jeu WYVRN de Razer, visent à révolutionner le développement de jeux en améliorant l'accessibilité, l'évolutivité et l'innovation pour les créateurs de jeux. Le premier outil, Razer Game Assistant, fournit des conseils en temps réel, une analyse post-jeu et des insights sur les performances matérielles, améliorant ainsi l'expérience du joueur. Le second, Razer QA Companion, est un outil d'assurance qualité automatisé qui détecte et signale les bogues, les plantages et les problèmes de performance, permettant ainsi aux testeurs humains de se concentrer sur le gameplay. Ces outils seront bientôt disponibles sur AWS Marketplace, offrant ainsi un accès mondial et une évolutivité aux développeurs de jeux.",
         "image": "",
         "date": "Thu, 29 May 2025 15:40:37 GMT"
-    },
-    {
-        "title": "RealPage sous surveillance",
-        "link": "https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement#comments",
-        "body": "Des sénateurs démocrates enquêtent sur les activités de RealPage, une entreprise de logiciels accusée de collusion avec des propriétaires pour augmenter les loyers. Les sénateurs s'intéressent particulièrement à l'implication potentielle de RealPage dans une proposition de loi républicaine interdisant aux États de réglementer l'IA pendant 10 ans. La proposition de loi empêcherait les tentatives de régulation d'un algorithme de fixation des loyers utilisé par RealPage, qui, selon ProPublica, est lié à l'augmentation des prix des loyers aux États-Unis. Les sénateurs demandent des informations sur les efforts de lobbying de RealPage et sur l'impact potentiel de la proposition de loi sur les bénéfices de l'entreprise. Ils soulignent également l'augmentation des dépenses de lobbying de l'entreprise et de ses groupes commerciaux affiliés. La réponse de RealPage est attendue d'ici le 10 juin 2025.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 29 May 2025 15:00:00 GMT"
-    },
-    {
-        "title": "DeepSeek-R1-0528 : Améliorations et performances",
-        "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
-        "body": "Le modèle DeepSeek-R1 a été mis à jour, améliorant ses capacités de raisonnement et d'inférence. Cette nouvelle version, DeepSeek-R1-0528, se rapproche des modèles leaders du marché en termes de performances globales. L'accent a été mis sur l'amélioration de la profondeur de raisonnement, ce qui a permis d'augmenter significativement la précision dans les tâches de raisonnement complexes. Le modèle surpasse désormais les performances de modèles open-source similaires sur les tests AIME 2024 et 2025. De plus, la nouvelle version offre un taux de hallucination réduit, un meilleur support pour l'appel de fonction et une expérience améliorée pour le codage vibe. Le modèle est disponible via une API compatible OpenAI et peut être testé sur le site officiel de DeepSeek.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/GsHZfE_aUAEo64N.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 29 May 2025 13:41:40 GMT"
-    },
-    {
-        "title": "Le futur du journalisme ?",
-        "link": "https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon#comments",
-        "body": "Amazon a conclu un accord de licence d'IA avec le New York Times pour utiliser son contenu dans les réponses d'Alexa. Cet accord survient un an après que le Times ait poursuivi Microsoft et OpenAI pour infraction au droit d'auteur, alléguant que leurs modèles IA ont été formés sur des millions d'articles sans compensation. D'autres médias ont également poursuivi OpenAI, tandis que des éditeurs comme The Atlantic et Vox Media ont opté pour des accords de licence IA. Amazon utilisera également le contenu de The Athletic et de NYT Cooking pour Alexa, mettant en avant la volonté de la société de valoriser le journalisme de qualité. Les détails financiers de l'accord n'ont pas été divulgués, mais la PDG du New York Times Company a affirmé que cela reflétait l'importance de rémunérer le journalisme de qualité.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214967455.jpg?quality=90&strip=all&crop=0.002886836027713%2C0%2C99.994226327945%2C100&w=2400",
-        "date": "Thu, 29 May 2025 13:30:33 GMT"
-    },
-    {
-        "title": "L'IA au service des marques emblématiques",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/29/heinz-is-ketchup-to-ai/?ss=ai",
-        "body": "La campagne publicitaire révolutionnaire de Heinz, qui a utilisé l'IA pour valider sa domination sur le marché, est un excellent exemple de l'utilisation de l'IA au service des marques emblématiques. En demandant simplement à des modèles d'IA de « dessiner du ketchup », Heinz a obtenu des résultats étonnamment cohérents avec son image de marque, démontrant ainsi la puissance de l'IA dans la reconnaissance de l'iconicité de la marque. Cette campagne soulève des questions intéressantes sur la façon dont l'IA peut influencer nos émotions et notre perception des marques, ainsi que sur le potentiel qu'elle offre aux entreprises pour inspirer et attirer leur public cible. Avec l'évolution des modèles de génération d'images, comme ChatGPT 4o, qui excelle désormais dans la création de textes et l'agrégation d'informations pour la création visuelle, les possibilités de l'IA dans le marketing deviennent de plus en plus fascinantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683866e647cf61ad34f7ec5a/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 29 May 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la persuasion : humains et IA en harmonie ?",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/05/29/protecting-your-mind-amid-ais-persuasive-power-play/?ss=ai",
-        "body": "L'IA, en particulier les grands modèles linguistiques, devient de plus en plus persuasive, façonnant les opinions et influençant les comportements. Bien que les principes de la persuasion humaine soient bien établis, l'IA offre de nouveaux avantages, notamment le traitement de vastes ensembles de données sur le comportement humain, les préférences et les styles de communication. Les études montrent que les messages générés par l'IA peuvent être plus persuasifs que ceux créés par les humains, ce qui soulève des inquiétudes quant à leur utilisation potentielle pour la manipulation ou la désinformation. L'IA peut influencer positivement, comme le montre un exemple académique encourageant les comportements respectueux de l'environnement. La force persuasive de l'IA repose sur plusieurs mécanismes psychologiques, mais elle ne peut pas encore égaler l'empathie et la confiance authentiques des interactions humaines. L'avenir de la persuasion pourrait être une collaboration entre l'IA et les humains, chacun apportant ses forces uniques. Alors que l'IA devient plus persuasive, un cadre éthique est nécessaire pour garantir une utilisation responsable et protéger notre autonomie et notre jugement critique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683862c54de3622dbd6a0aed/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 29 May 2025 13:00:00 GMT"
     }
 ]
