@@ -187,5 +187,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683a080de46c9012872c983c/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 30 May 2025 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/05/30/the-surprising-ways-ai-is-reshaping-your-favorite-brands/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683a605c4e0153203da458bd/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 31 May 2025 01:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/05/30/hank-green-rocks-mit-commencement/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683a3657d53ae4343e070ed5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 30 May 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
