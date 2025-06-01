@@ -70,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "La Silicon Valley prédit la fin du smartphone : pourquoi Apple n’y croit pas",
+        "title": "La Silicon Valley pr\u00e9dit la fin du smartphone : pourquoi Apple n\u2019y croit pas",
         "link": "https://www.frandroid.com/produits-android/smartphone/2633119_la-silicon-valley-predit-la-fin-du-smartphone-pourquoi-apple-ny-croit-pas",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/light_phone_3-768x429.webp?resize=168,168&key=7a8f0781",
         "date": "Fri, 30 May 2025 23:00:00 GMT",
@@ -96,5 +96,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683b210ae8d260ff719ae95c/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 31 May 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gmail-ai-summary.jpg?quality=90&strip=all&crop=0%2C0.049950049950048%2C100%2C99.9000999001&w=2400",
+        "date": "Sat, 31 May 2025 22:30:41 GMT",
+        "check": "no"
     }
 ]
