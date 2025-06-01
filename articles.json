@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "La Silicon Valley prédit la fin du smartphone : pourquoi Apple n’y croit pas",
+        "title": "La Silicon Valley pr\u00e9dit la fin du smartphone : pourquoi Apple n\u2019y croit pas",
         "link": "https://www.frandroid.com/produits-android/smartphone/2633119_la-silicon-valley-predit-la-fin-du-smartphone-pourquoi-apple-ny-croit-pas",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/light_phone_3-768x429.webp?resize=168,168&key=7a8f0781",
         "date": "Fri, 30 May 2025 23:00:00 GMT",
@@ -103,5 +103,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683b91d10bab908635d12991/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 01 Jun 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/06/01/mind-bending-new-inventions-that-artificial-general-intelligence-might-discover-for-the-sake-of-humanity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683b725fe4ebb3154624d8e5/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 01 Jun 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/gusalexiou/2025/06/01/does-ai-make-technology-more-accessible-or-widen-digital-inequalities/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683b3d185a99f9db750c204b/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 01 Jun 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
