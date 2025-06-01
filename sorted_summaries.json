@@ -1,5 +1,12 @@
 [
     {
+        "title": "Gmail introduit des résumés automatiques pour les threads complexes",
+        "link": "https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios#comments",
+        "body": "Gmail introduit une nouvelle fonctionnalité basée sur l'IA qui crée automatiquement des résumés pour les threads d'emails complexes et longs. Ces résumés seront générés sans intervention de l'utilisateur et apparaîtront au-dessus des emails en anglais sur mobile. Les résumés seront mis à jour en temps réel avec les nouvelles réponses. La fonctionnalité est actuellement déployée pour les utilisateurs de Google Workspace et pourrait éventuellement être étendue aux utilisateurs réguliers de Gmail. Les utilisateurs peuvent toujours demander manuellement un résumé s'il n'est pas généré automatiquement, et les fonctionnalités IA peuvent être désactivées dans les paramètres.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gmail-ai-summary.jpg?quality=90&strip=all&crop=0%2C0.049950049950048%2C100%2C99.9000999001&w=2400",
+        "date": "Sat, 31 May 2025 22:30:41 GMT"
+    },
+    {
         "title": "Google Photos : nouvelles fonctionnalités IA et partage par QR codes",
         "link": "https://www.forbes.com/sites/paulmonckton/2025/05/31/google-photos-just-got-a-huge-ai-powered-upgrade-and-easier-sharing/?ss=ai",
         "body": "Google Photos célèbre son 10e anniversaire avec de nouvelles fonctionnalités puissantes, notamment un nouvel éditeur alimenté par l'IA et le partage d'albums via des codes QR. L'éditeur, qui sera disponible à partir de juin pour Android 8 et versions ultérieures, a été entièrement repensé pour être plus intuitif et propose des fonctionnalités telles que Auto Frame, Reimagine et AI Enhance, qui améliorent et modifient les images grâce à l'IA. Le partage d'albums est désormais plus simple grâce aux codes QR scannables, permettant un accès facile aux albums partagés lors d'événements. La fonctionnalité est déjà disponible sur l'application Android de Google Photos.",
@@ -96,26 +103,5 @@
         "body": "La prolifération des deepfakes, en particulier les vidéos et images à caractère sexuel ou diffamatoire, soulève des inquiétudes juridiques, politiques et de sécurité nationale. Malgré les efforts législatifs aux niveaux étatique et fédéral, la réglementation et la répression restent difficiles face à la viralité et à l'accessibilité croissante des outils de génération de contenus synthétiques. Les lois existantes varient selon les États, ce qui rend la situation confuse pour les victimes, et la résistance à la réglementation s'intensifie, notamment de la part des entreprises technologiques et des défenseurs de la liberté d'expression. La technologie des deepfakes est de plus en plus utilisée pour la fraude à l'identité et l'escroquerie, ce qui inquiète les institutions financières. La communauté internationale est divisée sur la meilleure approche réglementaire, certains pays privilégiant des lois ciblées, tandis que d'autres, comme la Chine, optent pour un contrôle centralisé des contenus.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6839374be57873e8e1337dff/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 30 May 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Google Play Store améliore l'assistance client grâce à l'IA",
-        "link": "https://www.frandroid.com/marques/google/2632465_lintelligence-artificielle-sinvite-dans-le-play-store-de-google-pour-repondre-a-toutes-vos-questions",
-        "body": "Google déploie une nouvelle fonctionnalité dopée à l'IA sur le Play Store, appelée Gemini. Une nouvelle section, \"Ask Play about this app\", permet aux utilisateurs de poser des questions sur une application, telles que son utilité ou la marche à suivre pour signaler un problème. Bien que l'outil soit encore perfectible, il suggère déjà des questions courantes et devrait s'améliorer avec le temps. Cette mise à jour améliore l'expérience utilisateur en fournissant des informations supplémentaires et en facilitant l'accès à l'assistance client.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/img-20240529-161300-1200x900-2-768x576.jpg?resize=225,225&key=41f9961f",
-        "date": "Thu, 29 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La plateforme française de l'IA générative",
-        "link": "https://www.frandroid.com/produits-android/robots/2631975_moins-de-3000-dollars-pour-ce-robot-humanoid-un-potentiel-tournant-pour-la-robotique",
-        "body": "La plateforme française Hugging Face, souvent comparée à GitHub, s'est imposée comme un acteur clé dans le domaine de l'IA générative, avec plus de 1,3 million de modèles et de jeux de données en 2024. La société se tourne désormais vers la robotique et présente deux robots open source à bas coûts : HopeJr, un robot humanoïde avancé capable de marcher et manipuler des objets, et Reachy Mini, un robot non-humanoïde développé par Pollen Robotics. Ces robots visent à abaisser les barrières d'accès à la robotique pour les développeurs, avec une commercialisation prévue pour fin 2025 ou 2026.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/hugging-face-pollen-1200x598-1-768x383.jpg?resize=150,150&key=e0b9208f",
-        "date": "Thu, 29 May 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La course aux TOPS : l'envers du décor de la puissance IA",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-portables/2632119_faut-il-beaucoup-de-tops-la-verite-sur-ces-pc-ia-vendus-500-e-plus-cher",
-        "body": "L'article explore les nuances derrière la course aux téra-opérations par seconde (TOPS) dans l'industrie des PC, en se concentrant sur le rôle du NPU, du CPU et du GPU dans les performances IA. Il souligne que les gains énergétiques des NPU sont souvent décevants par rapport aux GPU dédiés, et que les applications IA grand public sur PC sont encore sous-exploitées en raison de l'optimisation pour les smartphones. Le texte aborde également la stratégie commerciale de Microsoft avec sa certification Copilot+, les avantages du traitement local des données IA, et les limites des TOPS annoncés par les constructeurs. Enfin, il discute des cas d'utilisation prometteurs de l'IA, tels que l'accessibilité et la création de contenu, et fournit des conseils d'achat pour les PC IA.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/05/image-65-5-1200x675-1.jpg?key=91f65c2f",
-        "date": "Thu, 29 May 2025 23:00:00 GMT"
     }
 ]
