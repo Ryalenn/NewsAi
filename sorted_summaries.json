@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple's AI Ambitions",
+        "link": "https://www.bloomberg.com/news/newsletters/2025-06-01/apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app-mbdlzqpz",
+        "body": "Bien qu'Apple ait lancé sa plateforme d'IA il y a un an, peu d'annonces lors de la WWDC montrent qu'il rattrape ses concurrents comme OpenAI et Google. L'article aborde également le nouveau thème de la Californie pour macOS, le passage à iOS 26 et macOS 26, et l'application de jeux dédiée d'Apple. La pression s'intensifie sur Apple pour qu'il trouve son prochain produit révolutionnaire, notamment avec l'accord entre Jony Ive et OpenAI.",
+        "image": "",
+        "date": "Sun, 01 Jun 2025 19:27:59 GMT"
+    },
+    {
         "title": "L'IA et l'émerveillement humain",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/06/01/wonder-machine-will-ai-reshape-our-ability-to-experience-awe/?ss=ai",
         "body": "L'article explore l'impact potentiel de l'IA sur la capacité humaine à ressentir de l'émerveillement et suggère que l'IA peut élargir notre expérience de l'émerveillement plutôt que de la réduire. Il souligne l'importance de l'émerveillement pour la santé mentale et physique, et comment l'IA peut révéler de nouveaux domaines de la connaissance et de la beauté. L'article met également en garde contre les risques de l'habituation et de l'authentique expérience de l'émerveillement, et suggère que la clé réside dans une intégration réfléchie de l'IA dans nos vies, préservant ainsi l'espace pour des expériences d'émerveillement non médiées. Enfin, il propose trois principes pratiques pour préserver et améliorer notre capacité d'émerveillement à l'ère de l'IA : aspirer à donner un sens, s'émerveiller chaque jour et explorer de nouveaux territoires.",
@@ -40,6 +47,13 @@
         "body": "Bien que les robots combattants Unitree G1 d'une compétition de kickboxing en Chine ne soient pas encore très impressionnants, leur existence soulève des questions intéressantes pour l'avenir de l'IA et de l'emploi humain. L'entraînement des robots via l'IA, leur capacité à se relever et leur potentiel dans les sports de combat sont mis en avant. Avec l'innovation dans le domaine des robots humanoïdes, leur agilité et leurs compétences vont s'améliorer de manière exponentielle. Bien que les combats de robots ne soient pas encore très divertissants, ils pourraient offrir une alternative aux sports de combat humains destructeurs pour la santé.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683b91d10bab908635d12991/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 01 Jun 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Des erreurs de citation soulèvent des questions sur l'utilisation de l'IA dans un rapport controversé",
+        "link": "https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop#comments",
+        "body": "Titre",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2217033977.jpg?quality=90&strip=all&crop=0%2C1.0001419194286%2C84.4%2C84.399722679697&w=2400",
+        "date": "Sat, 31 May 2025 22:30:41 GMT"
     },
     {
         "title": "Gmail introduit des résumés automatiques pour les threads complexes",
@@ -89,12 +103,5 @@
         "body": "Le discours de remise des diplômes de Hank Green, YouTuber et entrepreneur dans le domaine de l'éducation, a mis l'accent sur l'importance de l'expérimentation, de la curiosité et de la résolution de problèmes. Green a encouragé les diplômés de MIT à ne pas avoir peur de l'échec et à se concentrer sur la construction et la résolution de problèmes du monde réel. Il a également abordé le rythme accéléré de l'IA, qui peut susciter de l'incertitude chez les humains. Green a souligné l'importance de s'orienter vers les problèmes du quotidien des gens ordinaires, plutôt que de se laisser guider uniquement par les intérêts des plus puissants et des plus riches. Il a encouragé les diplômés à explorer, à collaborer et à être résilients, en gardant à l'esprit que les conséquences importent peu lorsque l'on cherche à améliorer le monde.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683a3657d53ae4343e070ed5/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 30 May 2025 22:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA mobile",
-        "link": "https://www.forbes.com/sites/marcochiappetta/2025/05/30/dell-taps-qualcomm-ai-accelerators-for-upcoming-pro-max-plus-mobile-workstation/?ss=ai",
-        "body": "Lors de l'événement Dell Technologies World 2025, plusieurs annonces ont été faites concernant l'IA et les solutions basées sur l'IA. Parmi celles-ci, la présentation d'un nouveau modèle de station de travail mobile Dell Pro Max Plus, conçu spécifiquement pour les ingénieurs en IA et les scientifiques des données, a retenu l'attention. Cet ordinateur portable haut de gamme de 18 pouces est le premier à intégrer deux unités de traitement neuronal (NPU) Qualcomm AI 100, offrant ainsi une puissance de calcul impressionnante pour le traitement de l'IA. Les NPU sont installés sur une carte d'extension PCI Express, offrant une capacité de mémoire importante et permettant de gérer de grands modèles d'IA localement, sans dépendre du cloud. Bien que l'absence d'un GPU dédié puisse limiter certaines fonctionnalités graphiques et de rendu 3D, la puissance de calcul de l'IA offerte par cet appareil en fait une solution intrigante pour les professionnels de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683a080de46c9012872c983c/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 30 May 2025 19:00:00 GMT"
     }
 ]
