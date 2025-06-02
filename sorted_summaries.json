@@ -1,10 +1,38 @@
 [
     {
+        "title": "La démocratie de l'IA",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/06/02/swarm-intelligence-is-reshaping-how-ai-gets-trained/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683cee3c5d88a92e3dd3cdff/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 02 Jun 2025 12:07:00 GMT"
+    },
+    {
+        "title": "La recherche d'emploi intelligente",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/06/02/linkedin-launches-ai-job-search-tool-for-premium-users/?ss=ai",
+        "body": "LinkedIn a lancé une nouvelle fonctionnalité de recherche d'emploi basée sur l'IA pour ses utilisateurs premium, qui utilise des modèles linguistiques de grande taille pour interpréter les intentions des utilisateurs et fournir des résultats de recherche d'emploi personnalisés et pertinents. Cette nouvelle fonctionnalité permet aux utilisateurs de décrire le type d'emploi qu'ils recherchent en langage naturel, éliminant ainsi le besoin de filtres fastidieux. L'IA de LinkedIn interprète la requête, analyse les offres d'emploi disponibles et fournit des résultats adaptés. Cette approche vise à réduire les frictions souvent associées à la recherche d'emploi, telles que les descriptions de poste vagues et la nécessité de parcourir de nombreuses offres. La fonctionnalité s'appuie sur le traitement du langage naturel pour comprendre les besoins des utilisateurs et fournit des informations transparentes sur la correspondance entre les qualifications d'un candidat et les exigences du poste. De plus, l'IA peut aider ceux qui ne connaissent pas les mots-clés ou les titres de poste précis en suggérant des pistes concrètes, transformant ainsi une vague idée de carrière en opportunités réelles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683cb068e978306c46db1595/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 02 Jun 2025 11:59:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA incarnée",
         "link": "https://www.forbes.com/sites/janakirammsv/2025/06/02/the-strategy-behind-hugging-faces-acquisition-of-pollen-robotics/?ss=ai",
         "body": "L'acquisition de Pollen Robotics par Hugging Face marque un tournant dans l'évolution de l'IA, passant d'une intelligence purement numérique à une forme physique. Cette acquisition s'appuie sur trois piliers : l'intégration verticale de la pile IA-robotique, l'exploitation de l'écosystème grâce à une vaste communauté de développeurs, et un avantage de timing grâce à des modèles fondamentaux capables de contrôler des systèmes physiques. Hugging Face accède immédiatement au robot humanoïde Reachy 2 de Pollen, une plateforme de recherche robuste et ouverte déjà adoptée par des institutions de premier plan. Le timing est stratégique, avec la reconnaissance de l'industrie et une forte demande des développeurs pour des outils de robotique ouverts. L'acquisition s'inscrit dans la vision de Hugging Face d'ouvrir l'IA et la robotique, combinant des logiciels open-source avec un matériel ouvert. Le marché de l'IA incarnée est à un point d'inflexion, avec des avancées théoriques se traduisant par des applications pratiques, grâce à des modèles fondamentaux de robotique et des réductions de coûts matérielles. Les modèles d'IA incarnée, comme Pi0 de Hugging Face, étendent l'IA générative à la robotique, en envoyant des commandes directement au matériel robotique. La combinaison de l'infrastructure IA de Hugging Face et de l'expertise robotique de Pollen crée des synergies techniques uniques, offrant une couche d'intelligence essentielle pour la prochaine génération de robots. Cette acquisition représente un changement fondamental dans l'évolution conjointe de l'IA et de la robotique, créant une valeur unique grâce à une philosophie open-source.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683d25be6e2cc3bcd5d0a8df/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 02 Jun 2025 04:00:00 GMT"
+    },
+    {
+        "title": "Les majors de la musique s'allient à l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2633777_universal-sony-warner-les-majors-de-la-musique-seraient-sur-le-point-de-tout-donner-a-lia",
+        "body": "Les grandes maisons de disques Universal, Warner et Sony sont en pourparlers pour autoriser des startups spécialisées en IA à utiliser leur catalogue musical. Cette décision marque un changement de leur position initiale, opposée à l'IA générative, et pourrait mettre fin aux litiges juridiques. OpenAI, un acteur majeur du secteur, admet avoir volé du contenu pour développer son IA, et cherche désormais des accords pour une utilisation plus éthique. Ces startups de musique générée par IA font face à des poursuites de la RIAA, réclamant des dédommagements importants. Les accords pourraient permettre à l'industrie musicale de rejoindre d'autres médias ayant déjà signé avec OpenAI, tout en protégeant les artistes et en assurant leur rémunération.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/spotify-1200x900-1-768x576.jpg?resize=225,225&key=6cb342f3",
+        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Apple ouvre ses portes aux développeurs tiers",
+        "link": "https://www.frandroid.com/marques/apple/2633473_lidee-dapple-pour-rendre-son-ia-enfin-plus-interessante",
+        "body": "À l'approche de la WWDC 2025, Apple cherche à relancer son programme d'IA, Apple Intelligence, en retard par rapport à ses concurrents. La firme pourrait annoncer l'ouverture de ses modèles de base d'Apple Intelligence à des développeurs tiers, leur permettant de créer des applications personnalisées pour améliorer l'offre actuelle. Cette stratégie vise à rendre les iPhone et MacBook plus attrayants, bien qu'il soit trop tôt pour prédire son efficacité. Bloomberg suggère qu'Apple pourrait commencer par ouvrir ses petits LLM, qui contiennent tout de même trois milliards de paramètres.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/apple-intelligence-1200x671-1-768x429.jpg?resize=168,168&key=5361302b",
+        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Apple et l'IA : des attentes déçues",
@@ -103,12 +131,5 @@
         "body": "L'IA, l'automatisation et la transformation multimodale transforment rapidement le monde du travail. D'ici 2030, jusqu'à 45 % des activités professionnelles pourraient être automatisées. Plutôt que de se concentrer sur la disparition des emplois, l'auteur souligne que les rôles sont redéfinis. L'IA permet d'élever le potentiel humain, d'améliorer l'adaptation et l'agilité, et de repenser les emplois. Les entreprises qui investissent dans la formation et le perfectionnement en IA observent des gains de productivité plus élevés. Les recommandations pour les entreprises et les dirigeants comprennent de réfléchir à la transformation qu'elles souhaitent mettre en place, plutôt que de se concentrer uniquement sur la technologie.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683b210ae8d260ff719ae95c/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 31 May 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/05/31/amodei-rings-the-warning-bell-on-ai-and-jobs/?ss=ai",
-        "body": "Titre : L'IA, l'emploi et l'avenir du travail \n\nRésumé : L'article aborde les préoccupations croissantes concernant l'impact de l'IA sur l'emploi, en particulier les emplois de niveau débutant. Le PDG d'Anthropic, Dario Amodei, prédit un taux de chômage de 10% à 20% en raison de l'automatisation des emplois de niveau débutant. Amodei suggère que les humains pourraient ne pas s'adapter assez rapidement à mesure que l'IA devient de plus en plus capable. Il reconnaît également les avantages potentiels de l'IA pour la société, mais souligne l'importance de considérer l'impact sur les individus, qui pourraient se sentir insécurisés face aux changements rapides. L'interview soulève des questions fondamentales sur l'avenir du travail et le contrat social, notamment la concentration du pouvoir et l'inégalité. De plus, l'article mentionne les préoccupations éthiques concernant les capacités des modèles IA, telles que la possibilité de chantage extrême. Enfin, Amodei refuse d'exclure la possibilité que l'IA devienne un jour consciente d'elle-même.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683a41d02742690bac4e4966/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 31 May 2025 11:00:00 GMT"
     }
 ]
