@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Universal, Sony, Warner : les majors de la musique seraient sur le point de tout donner à l’IA",
+        "title": "Universal, Sony, Warner : les majors de la musique seraient sur le point de tout donner \u00e0 l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2633777_universal-sony-warner-les-majors-de-la-musique-seraient-sur-le-point-de-tout-donner-a-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/spotify-1200x900-1-768x576.jpg?resize=225,225&key=6cb342f3",
         "date": "Sun, 01 Jun 2025 23:00:00 GMT",
@@ -152,5 +152,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6838c4950d74f83891c521b3/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/microsoft/2634947_microsoft-veut-vous-laisser-generer-un-avatar-avec-copilot-sans-ghibli-cette-fois",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/live-portraits-1200x622-1-768x398.jpg?resize=156,156&key=f523cac3",
+        "date": "Mon, 02 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2634899_openai-estime-que-les-interactions-avec-des-vraies-gens-font-concurrence-a-chatgpt",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/ia-chat-gpt-une-2-768x432.jpg?resize=169,169&key=833fd29f",
+        "date": "Mon, 02 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 01 Jun 2025 14:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/06/03/the-future-of-drug-trials-might-be-virtual-ai-patients/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683e3106da74429e1ee1a142/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
