@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'aube de la révolution de l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/06/03/mind-blowing-ai-statistics-everyone-must-know-about-now-in-2025/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683e89c00dccd7ffa03fd47e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 05:37:00 GMT"
+    },
+    {
         "title": "La quête d'investisseurs de Musk pour Twitter",
         "link": "https://www.theverge.com/2022/12/16/23513407/elon-musk-equity-investment-sucker-born-every-minute",
         "body": "Elon Musk cherche à trouver de nouveaux investisseurs pour Twitter au prix initial de 54,20 $ par action, malgré ses tentatives précédentes pour annuler l'accord en raison de prétendus faux énoncés de Twitter. Musk a lui-même admis que ce prix était trop élevé, mais il continue de chercher des investisseurs prêts à surpayer. Alors que Musk a pris des mesures innovantes pour réduire les coûts de Twitter, comme ne plus payer le loyer de certains espaces de bureau et ne pas payer certains fournisseurs, la plateforme de médias sociaux est dans une situation financière précaire. Musk a également vendu des actions de Tesla, ce qui pourrait indiquer qu'il prévoit de payer personnellement la dette de Twitter ou qu'il fait face à des appels de marge sur certains de ses prêts en raison de la baisse du prix des actions de Tesla.",
@@ -138,12 +145,5 @@
         "body": "Résumé : \n\nL'article explore l'idée selon laquelle l'AGI (intelligence artificielle générale) pourrait être la dernière invention dont l'humanité aura jamais besoin, car elle pourrait découvrir toutes les autres inventions possibles. Il examine les avantages potentiels et les pièges de l'utilisation de l'AGI pour inventer de nouvelles technologies, y compris la possibilité que l'AGI invente quelque chose qui pourrait nuire à l'humanité. L'article soulève également des questions sur la capacité de l'AGI à inventer, en se demandant si l'acte d'invention nécessite une créativité intrinsèquement humaine. Enfin, il prédit que l'AGI pourrait être atteinte d'ici 2040 et suggère des inventions potentielles qui pourraient en résulter au cours de la décennie suivante.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683b725fe4ebb3154624d8e5/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 01 Jun 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'IA pour tous",
-        "link": "https://www.forbes.com/sites/gusalexiou/2025/06/01/does-ai-make-technology-more-accessible-or-widen-digital-inequalities/?ss=ai",
-        "body": "L'intelligence artificielle (IA) offre de nombreuses possibilités pour améliorer l'accessibilité pour les personnes en situation de handicap, à condition que des principes d'inclusivité soient intégrés dès la conception. L'IA peut simplifier les tâches grâce à l'automatisation et à une personnalisation poussée, ce qui peut également bénéficier à l'accessibilité. Par exemple, l'IA peut générer des descriptions audio et du texte de remplacement pour les personnes malvoyantes, fournir des légendes en temps réel pour les malentendants, simplifier les contenus Web pour les personnes ayant des difficultés d'apprentissage et permettre la domotique par la voix ou les gestes pour ceux qui ont des troubles du mouvement. \n\nL'IA a également un impact sur l'accessibilité de ses propres interfaces, en particulier pour les modèles linguistiques de grande taille qui utilisent des interfaces conversationnelles. Il est important que ces modèles puissent reconnaître des formes de langage non standard, telles que le langage des personnes ayant un trouble du langage ou des besoins neurodiverses. De plus, l'absence de langage inclusif et de concepts liés au handicap dans les données d'entraînement des modèles peut être problématique. AIMAC (AI Model Accessibility Checker) est un outil open source qui permet d'évaluer l'accessibilité de différents modèles d'IA en analysant le code HTML généré en réponse à des invites liées à la conception de pages Web. \n\nFinalement, l'IA joue un rôle croissant dans la programmation, avec des entreprises comme Google et Meta qui utilisent de plus en plus l'IA pour générer du code. Il est donc crucial que l'accessibilité soit prise en compte dès maintenant pour éviter des problèmes futurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683b3d185a99f9db750c204b/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 01 Jun 2025 06:00:00 GMT"
     }
 ]
