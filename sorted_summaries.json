@@ -1,10 +1,94 @@
 [
     {
+        "title": "OpenAI : Evolution et controverses",
+        "link": "https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt",
+        "body": "L'article offre un aperçu des événements turbulents au sein d'OpenAI, avec le départ soudain puis le retour du cofondateur et PDG Sam Altman. Cette période a vu un bref passage de Mira Murati et d'Emmett Shear au poste de PDG, et une menace de départ massif d'employés vers Microsoft. La réintégration d'Altman a été accompagnée d'un remaniement du conseil d'administration. Une poursuite a été intentée par Elon Musk, alléguant un abandon de la mission sans but lucratif de l'entreprise. OpenAI a ensuite abandonné ses efforts pour devenir une entreprise à but lucratif. L'article aborde également les controverses entourant les propositions d'OpenAI et de Google de permettre à leurs modèles d'IA de s'entraîner sur du contenu protégé par le droit d'auteur, suscitant des protestations de l'industrie du divertissement. D'autres développements incluent le lancement de nouvelles capacités de génération d'images, la sortie de GPT-4.5, et une tentative d'achat par Elon Musk.",
+        "image": "",
+        "date": "Tue, 03 Jun 2025 20:46:30 GMT"
+    },
+    {
+        "title": "ChatGPT's Memory Upgrade",
+        "link": "https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade",
+        "body": "OpenAI améliore la mémoire de ChatGPT, lui permettant de se souvenir de conversations passées sans demande manuelle de l'utilisateur. Cette mise à jour, appelée « long-term memory », permet au chatbot de référencer des détails discutés précédemment, améliorant ainsi ses réponses futures. La fonctionnalité est disponible pour les abonnés payants, avec des options pour désactiver la mémoire si désiré. Cette mise à jour rapproche ChatGPT de l'objectif d'OpenAI de créer des systèmes d'IA qui apprennent et évoluent avec l'utilisateur au fil du temps.",
+        "image": "",
+        "date": "Tue, 03 Jun 2025 16:54:00 GMT"
+    },
+    {
+        "title": "TikTok's AI-Driven Advertiser Tools",
+        "link": "https://www.theverge.com/news/678255/tiktok-advertiser-summit-ai-targeting-data-seo#comments",
+        "body": "TikTok a présenté une série de nouveaux outils publicitaires lors de son sommet annuel des annonceurs. Les nouveaux produits, notamment des outils publicitaires basés sur l'IA, visent à aider les marques à créer des contenus plus ciblés et personnalisés. L'un de ces outils, Insight Spotlight, permet aux annonceurs de trier les vidéos par démographie et par industrie, leur donnant ainsi des informations précises sur l'utilisation de la plateforme par leur audience cible. L'IA fournit également des suggestions de mots-clés et de thèmes pour les publicités, comme dans l'exemple fourni, où une marque se voit recommander de créer du contenu sur la « santé hormonale » pour les utilisatrices anglophones. TikTok lance également Content Suite, un outil qui rassemble les contenus mentionnant une marque, permettant aux annonceurs d'obtenir plus facilement les permissions nécessaires pour les transformer en publicités. Ces nouveaux outils offrent aux annonceurs davantage de moyens de personnaliser leur contenu en fonction des tendances et des comportements des utilisateurs sur la plateforme.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 03 Jun 2025 16:30:00 GMT"
+    },
+    {
+        "title": "L'avenir des centres de données d'IA : convergence de l'énergie et de l'informatique",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/03/data-and-energy-are-building-blocks-for-ai/?ss=ai",
+        "body": "L'auteur explore les considérations clés dans la planification de l'infrastructure de l'IA, soulignant deux éléments fondamentaux : les données et l'énergie. Les centres de données de l'ère de l'IA nécessiteront une quantité considérable d'énergie, soulignant ainsi l'importance de l'efficacité énergétique. Supermicro, un entrepreneur pour le projet xAI Colossus, a développé des systèmes de refroidissement liquide innovants pour répondre à ces besoins énergétiques. Le Département de l'Énergie des États-Unis évalue le paysage de l'IA et identifie les parties prenantes clés, y compris les géants de la technologie et les fournisseurs d'énergie. L'article met également en lumière des interviews avec des experts de l'industrie, discutant de l'IA en tant que nouveau moyen d'interaction et soulignant l'importance de la facilité d'utilisation, de l'efficacité et de la fiabilité. Enfin, il souligne la convergence de l'énergie et de l'informatique dans les infrastructures d'IA à grande échelle, avec des entreprises cherchant à accéder à une énergie propre et abordable pour alimenter leurs opérations.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bf4371b97440617f077217/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de Fortnite : IA et expériences immersives",
+        "link": "https://www.theverge.com/news/678399/epic-games-fortnite-ai-darth-vaders-tech-creators#comments",
+        "body": "Epic Games prévoit d'offrir aux créateurs de Fortnite la possibilité de créer des PNJ (personnages non-joueurs) dotés d'une intelligence artificielle, similaires au récent PNJ de Darth Vader. Les créateurs pourront personnaliser la voix, la livraison et les caractéristiques de ces PNJ. La démonstration en direct a présenté une conversation avec un PNJ nommé « M. Buttons », dont l'objectif était d'inciter le joueur à appuyer sur un gros bouton rouge. De plus, Epic Games a annoncé la bêta test de l'Epic Developer Assistant, un chatbot IA aidant à la programmation. De nouvelles franchises seront également disponibles pour les créateurs, notamment « Squid Game », « Avatar : Le Dernier Maître de l'Air », des actifs Star Wars et des expériences LEGO personnalisables.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&strip=all&crop=12.421875%2C0%2C75.15625%2C100&w=2400",
+        "date": "Tue, 03 Jun 2025 14:58:31 GMT"
+    },
+    {
+        "title": "L'avenir de la programmation assistée par l'IA",
+        "link": "https://fly.io/blog/youre-all-nuts/",
+        "body": "L'auteur, un développeur expérimenté, aborde les avantages et les inconvénients de l'utilisation des LLM (Large Language Models) en programmation. Il reconnaît que les LLM peuvent effectuer une grande partie du travail fastidieux et répétitif, libérant ainsi les développeurs pour se concentrer sur des tâches plus complexes et créatives. Cependant, il souligne également l'importance de la responsabilité humaine dans la révision et la validation du code généré par les LLM. L'auteur critique les arguments de ceux qui considèrent l'IA comme une simple mode passagère, affirmant que les LLM ont déjà un impact significatif sur le développement logiciel. Il prévoit que l'utilisation des LLM en programmation va continuer à évoluer rapidement, et que ceux qui ignorent cette technologie risquent de prendre du retard.",
+        "image": "",
+        "date": "Tue, 03 Jun 2025 14:51:28 GMT"
+    },
+    {
+        "title": "Freelancers Embrace AI with Canva's Visual Suite 2.0",
+        "link": "https://www.forbes.com/sites/chelseatobin/2025/06/03/canva-ai-tools-freelancers-can-use-to-streamline-their-business/?ss=ai",
+        "body": "Canva, une plateforme de design en ligne, a lancé en avril 2025 une suite d'outils d'IA appelée « Visual Suite 2.0 ». Cette suite est particulièrement intéressante pour les freelances qui doivent gérer des budgets serrés, des délais courts et plusieurs clients. L'article explore certains des meilleurs outils d'IA de Canva et leur capacité à rationaliser le marketing et les tâches administratives des freelances. Canva Sheets, par exemple, simplifie les tableurs, les rendant plus conviviaux et visuels. Il intègre également « Magic Insights », qui utilise l'IA pour analyser les données et repérer les tendances. Les freelances peuvent ainsi présenter des informations visuellement attrayantes et conformes à leur image de marque. La visualisation des données est désormais accessible à tous, même à ceux qui n'ont aucune expérience dans ce domaine. La suite comprend également des outils tels que Magic Resize, Magic Edit et Magic Animate, qui donnent vie aux images, vidéos et documents. Enfin, Canva Code permet aux freelances de créer facilement des pages de destination, des sites Web, des portfolios en ligne et des modèles d'e-mail, ainsi que des outils interactifs sans nécessiter de compétences en codage. Les outils d'IA de Canva aident les freelances à gagner du temps et à prendre des décisions stratégiques en automatisant et en rationalisant leur charge de travail.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683d196f9838ecdc2516c3f9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+        "title": "La puissance de l'IA pour une connectivité web améliorée",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/06/03/what-video-games-can-teach-us-about-global-connectivity/?ss=ai",
+        "body": "L'article explore l'utilisation de l'IA pour améliorer la connectivité web, en particulier dans les régions sous-desservies. Il commence par une analogie avec l'application de navigation Waze, qui utilise l'apprentissage automatique et l'intelligence collective pour optimiser les itinéraires de conduite en temps réel. De la même manière, la startup ExitLag utilise l'IA pour optimiser la transmission de données sur Internet, en trouvant les chemins les plus efficaces à travers le réseau complexe du web. Cette technologie, initialement développée pour réduire la latence dans les jeux vidéo en ligne, a des implications plus larges, notamment pour les communautés sous-desservies qui souffrent de connexions Internet lentes et instables. L'article présente également l'exemple d'une intervention chirurgicale à distance dans un hôpital en Afrique subsaharienne, où une connexion à faible latence est essentielle pour sauver la vie d'une jeune patiente. En utilisant l'intelligence artificielle pour optimiser la transmission de données, les systèmes de routage multipathes intelligents peuvent améliorer considérablement l'accès à Internet dans les régions sous-desservies, avec des implications potentiellement révolutionnaires pour les soins de santé à distance et d'autres domaines.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683e35b56fb81e8e8f18d086/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+        "title": "L'usine automobile du futur, pilotée par l'IA",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/03/audi-is-quietly-building-the-most-advanced-ai-factory-in-the-auto-industry/?ss=ai",
+        "body": "Bien que les gros titres sur l'IA dans l'automobile se concentrent souvent sur les voitures autonomes ou les mises à niveau du système de divertissement, Audi travaille discrètement sur quelque chose de plus fondamental : l'utilisation de l'IA pour gérer le plancher de l'usine. Avec plus de 100 projets d'IA en cours, Audi utilise l'IA pour des tâches allant de l'inspection des soudures à l'optimisation de la logistique, en passant par l'assistance aux travailleurs humains. La stratégie d'Audi se distingue par son approche globale, intégrant l'IA dans tout le cycle de production, plutôt que de se limiter à des cas d'utilisation spécifiques. Cela inclut l'inspection visuelle, la coordination de l'assemblage robotisé, la prévision de la chaîne d'approvisionnement et l'analyse prédictive. La véritable percée d'Audi réside dans l'exploitation efficace des énormes volumes de données générées par ses usines, les utilisant pour former des modèles d'apprentissage automatique qui optimisent en permanence les processus de production. Cette approche reflète une maturité croissante de l'IA, passant de la capacité à l'utilité, et suggère un avenir dans lequel l'IA ne se contente pas d'assister, mais devient le tissu conjonctif reliant les systèmes, les personnes et les décisions.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683efdc2f6726394a778ed9a/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Smart Collars for Smarter Dogs",
+        "link": "https://www.theverge.com/news/678497/fi-series-3-plus-smart-dog-collar-price",
+        "body": "L'entreprise de technologie pour animaux de compagnie Fi a lancé un nouveau collier intelligent, le Fi Series 3 Plus, qui permet aux propriétaires de chiens de surveiller les mouvements, la santé et les habitudes de leur animal via leur Apple Watch. Le collier utilise l'IA pour détecter les changements de comportement, comme les aboiements, les léchages et les grattages, avec une précision de 80 %. Il surveille également les habitudes alimentaires et de boisson, et suit le sommeil et l'activité physique. Le collier améliore également la sensibilité du suivi GPS et introduit une fonctionnalité d'analyse de documents basée sur l'IA dans l'application compagnon, qui extrait les informations de santé des dossiers vétérinaires. Le collier Fi Series 3 Plus est étanche IP68, a une autonomie de batterie de trois mois et est disponible en cinq tailles et quatre couleurs. Le prix comprend l'accès à l'application et commence à 14 $ par mois.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Fi-Series-3-Plus-hero.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 03 Jun 2025 13:00:44 GMT"
+    },
+    {
+        "title": "La créativité menacée",
+        "link": "https://www.forbes.com/sites/jasonsnyder/2025/06/03/ads-without-authors-how-automation-dismantles-holding-companies-and-culture/?ss=ai",
+        "body": "Meta, Google, Amazon et d'autres grandes plateformes technologiques s'orientent vers une automatisation complète de la création publicitaire, menaçant ainsi le rôle des agences et des professionnels de la publicité. L'auteur met en garde contre les conséquences de cette tendance sur la créativité et l'originalité, arguant que la délégation du contrôle créatif à l'IA pourrait conduire à une monoculture créative où tout devient interchangeable. Bien que l'automatisation puisse démocratiser la publicité, elle risque également de diluer la différenciation des marques. L'auteur plaide pour une résistance à cette tendance, soulignant l'importance de la friction et de l'intuition humaine dans le processus créatif. Il suggère que l'avenir réside dans une collaboration entre l'IA et les humains, amplifiant ainsi la brillance humaine plutôt que de la remplacer.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683ee9d3975571bcaa460fdc/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 03 Jun 2025 12:00:00 GMT"
+    },
+    {
         "title": "L'avenir des essais cliniques : les jumeaux numériques générés par l'IA",
         "link": "https://www.forbes.com/sites/torconstantino/2025/06/03/the-future-of-drug-trials-might-be-virtual-ai-patients/?ss=ai",
         "body": "L'utilisation de jumeaux numériques générés par l'IA, ou « digital twins », gagne du terrain dans la recherche pharmaceutique, accélérant les essais cliniques et réduisant les coûts. Ces jumeaux numériques sont des versions informatiques de patients réels, prédisant l'évolution de leur santé sans le nouveau traitement. Cette approche pourrait révolutionner la façon dont les médicaments sont testés, avec des estimations suggérant qu'elle pourrait économiser des milliards de dollars à l'industrie. Les entreprises à la pointe de ce domaine, comme Unlearn.ai, utilisent des réseaux neuronaux spécifiques aux maladies pour prédire l'évolution de l'état de santé d'un patient sans traitement, offrant ainsi de nouvelles possibilités pour les essais cliniques. Cette technologie est particulièrement prometteuse dans les situations où les groupes témoins traditionnels posent des problèmes éthiques, tels que les essais pédiatriques ou l'oncologie avancée. La précision et la transparence sont essentielles pour gagner la confiance des régulateurs, et les entreprises doivent valider rigoureusement leurs modèles dans le contexte spécifique de leur utilisation. Bien que des défis subsistent, tels que la qualité et la fragmentation des données, l'adoption des jumeaux numériques pourrait marquer un tournant dans la recherche clinique, offrant des essais plus rapides, plus efficaces et plus éthiques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683e3106da74429e1ee1a142/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 12:00:00 GMT"
+    },
+    {
+        "title": "Microsoft lance un générateur de vidéos AI sur Bing",
+        "link": "https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator#comments",
+        "body": "Microsoft a intégré un nouveau générateur de vidéos AI basé sur le modèle texte-vers-vidéo Sora d'OpenAI à son application mobile Bing. Le « Bing Video Creator » offre un moyen gratuit de créer des clips vidéo courts, démocratisant ainsi la technologie de génération de vidéos AI. Le générateur est disponible dans les applications Bing Search pour Android et iPhone, avec un déploiement global (à l'exception de la Chine et de la Russie). Les utilisateurs peuvent créer jusqu'à trois vidéos à la fois, avec une durée de cinq secondes chacune, au format vertical 9:16. Le service propose deux options de vitesse de génération : « Standard » (gratuit) et « Fast » (10 générations rapides gratuites, puis nécessitant des points Microsoft Rewards). Les vidéos seront disponibles sur l'application Bing pendant 90 jours et pourront être téléchargées ou partagées sur d'autres plateformes. Bien que la qualité des exemples de Microsoft soit inférieure à celle d'autres modèles AI, ils représentent mieux les capacités réelles du modèle Sora.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Bing-Video-Creator-hero.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 03 Jun 2025 10:35:23 GMT"
     },
     {
         "title": "L'avenir de l'IA : les défis et les possibilités de l'AGI",
@@ -19,6 +103,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683e89c00dccd7ffa03fd47e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 05:37:00 GMT"
+    },
+    {
+        "title": "L'IA à portée de main",
+        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2624285_voici-a-quoi-ressemble-le-pc-rtx-ai-surpuissant-dedie-a-lia-concu-par-nvidia-et-materiel-net",
+        "body": "Materiel.net, un e-commerçant français réputé, s'associe à Nvidia pour proposer une gamme de PC dédiés à l'IA, comprenant des machines montées, des composants et des PC portables. La gamme actuelle offre trois options, allant de 1559,95 à 3499,99 euros, avec un design élégant et des composants de haute qualité. Le modèle Astral IA, avec son boîtier en bois et blanc, a particulièrement attiré l'attention. Il est équipé des meilleurs composants, dont une carte graphique GeForce RTX 5080 avec des Tensor Cores de 5e génération, capable de gérer 1801 TOPS. Nvidia fournit également des \"Blueprints\" pour exploiter la puissance de ses cartes graphiques en matière d'IA, et Materiel.net offre un configurateur PC pour personnaliser les spécifications.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/pc-astral-ia-materiel-net-2-768x512.jpg?resize=200,200&key=6934d6cb",
+        "date": "Mon, 02 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft Copilot Avatars",
@@ -105,6 +196,13 @@
         "date": "Mon, 02 Jun 2025 11:59:00 GMT"
     },
     {
+        "title": "L'avenir de l'IA : une collaboration emblématique",
+        "link": "https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview#comments",
+        "body": "L'article explore la collaboration entre Jony Ive, ancien chef du design chez Apple, et OpenAI, une entreprise d'intelligence artificielle, avec le soutien de Laurene Powell Jobs, veuve de Steve Jobs. Jony Ive travaille sur un mystérieux gadget d'IA, motivé par le désir d'assumer la responsabilité des conséquences imprévues associées à l'iPhone, telles que la dépendance aux écrans et aux médias sociaux. Laurene Powell Jobs, qui a investi dans les startups de Jony Ive, LoveFrom Design et io hardware, partage ses préoccupations concernant les utilisations néfastes potentielles de la technologie. Le gadget secret, développé par la société io de Jony Ive, est acheté par OpenAI pour près de 6,5 milliards de dollars, et Laurene Powell Jobs pourrait en tirer des bénéfices si le dispositif s'avère aussi réussi que l'iPhone. Bien que les détails du dispositif restent confidentiels, Laurene Powell Jobs s'attend à de grandes choses, ayant suivi son évolution depuis sa conception jusqu'aux prototypes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1438500402.jpg?quality=90&strip=all&crop=0.004469074007865%2C0%2C99.991061851984%2C100&w=2400",
+        "date": "Mon, 02 Jun 2025 10:33:58 GMT"
+    },
+    {
         "title": "L'avenir de l'IA incarnée",
         "link": "https://www.forbes.com/sites/janakirammsv/2025/06/02/the-strategy-behind-hugging-faces-acquisition-of-pollen-robotics/?ss=ai",
         "body": "L'acquisition de Pollen Robotics par Hugging Face marque un tournant dans l'évolution de l'IA, passant d'une intelligence purement numérique à une forme physique. Cette acquisition s'appuie sur trois piliers : l'intégration verticale de la pile IA-robotique, l'exploitation de l'écosystème grâce à une vaste communauté de développeurs, et un avantage de timing grâce à des modèles fondamentaux capables de contrôler des systèmes physiques. Hugging Face accède immédiatement au robot humanoïde Reachy 2 de Pollen, une plateforme de recherche robuste et ouverte déjà adoptée par des institutions de premier plan. Le timing est stratégique, avec la reconnaissance de l'industrie et une forte demande des développeurs pour des outils de robotique ouverts. L'acquisition s'inscrit dans la vision de Hugging Face d'ouvrir l'IA et la robotique, combinant des logiciels open-source avec un matériel ouvert. Le marché de l'IA incarnée est à un point d'inflexion, avec des avancées théoriques se traduisant par des applications pratiques, grâce à des modèles fondamentaux de robotique et des réductions de coûts matérielles. Les modèles d'IA incarnée, comme Pi0 de Hugging Face, étendent l'IA générative à la robotique, en envoyant des commandes directement au matériel robotique. La combinaison de l'infrastructure IA de Hugging Face et de l'expertise robotique de Pollen crée des synergies techniques uniques, offrant une couche d'intelligence essentielle pour la prochaine génération de robots. Cette acquisition représente un changement fondamental dans l'évolution conjointe de l'IA et de la robotique, créant une valeur unique grâce à une philosophie open-source.",
@@ -145,26 +243,5 @@
         "body": "Samsung, cherchant à réduire sa dépendance envers les modèles d'IA de Google, serait sur le point de s'associer avec Perplexity, une startup d'IA. Cet accord intégrerait l'application et l'assistant intelligent de Perplexity dans les futurs appareils Samsung, y compris potentiellement comme solution par défaut sur les Galaxy S26 attendus en 2026. Samsung deviendrait également l'un des principaux investisseurs de Perplexity, participant à un cycle de financement de 500 millions de dollars. Bien que Gemini de Google ne soit pas complètement abandonné, ce partenariat offre à Samsung plus de flexibilité et d'indépendance dans le domaine de l'IA.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/samsung-galaxy-s25-16-1200x800-1-768x512.jpg?resize=200,200&key=d0482a5e",
         "date": "Sun, 01 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple's AI Ambitions",
-        "link": "https://www.bloomberg.com/news/newsletters/2025-06-01/apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app-mbdlzqpz",
-        "body": "Bien qu'Apple ait lancé sa plateforme d'IA il y a un an, peu d'annonces lors de la WWDC montrent qu'il rattrape ses concurrents comme OpenAI et Google. L'article aborde également le nouveau thème de la Californie pour macOS, le passage à iOS 26 et macOS 26, et l'application de jeux dédiée d'Apple. La pression s'intensifie sur Apple pour qu'il trouve son prochain produit révolutionnaire, notamment avec l'accord entre Jony Ive et OpenAI.",
-        "image": "",
-        "date": "Sun, 01 Jun 2025 19:27:59 GMT"
-    },
-    {
-        "title": "L'IA et l'émerveillement humain",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/01/wonder-machine-will-ai-reshape-our-ability-to-experience-awe/?ss=ai",
-        "body": "L'article explore l'impact potentiel de l'IA sur la capacité humaine à ressentir de l'émerveillement et suggère que l'IA peut élargir notre expérience de l'émerveillement plutôt que de la réduire. Il souligne l'importance de l'émerveillement pour la santé mentale et physique, et comment l'IA peut révéler de nouveaux domaines de la connaissance et de la beauté. L'article met également en garde contre les risques de l'habituation et de l'authentique expérience de l'émerveillement, et suggère que la clé réside dans une intégration réfléchie de l'IA dans nos vies, préservant ainsi l'espace pour des expériences d'émerveillement non médiées. Enfin, il propose trois principes pratiques pour préserver et améliorer notre capacité d'émerveillement à l'ère de l'IA : aspirer à donner un sens, s'émerveiller chaque jour et explorer de nouveaux territoires.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6839a84e9db6b67f75c20dc6/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 01 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Les dangers de l'utilisation de l'IA dans la profession juridique",
-        "link": "https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai#comments",
-        "body": "Bien que l'IA soit de plus en plus intégrée à la profession juridique, notamment pour la recherche et la rédaction de documents juridiques, son utilisation présente certains risques. Des avocats ont été réprimandés pour avoir soumis des documents contenant des informations erronées ou des cas inventés générés par l'IA. L'article souligne l'importance pour les avocats de comprendre les limites des grands modèles linguistiques et de vérifier les informations fournies par l'IA. Bien que l'IA puisse être un outil efficace pour la recherche juridique, les avocats doivent rester vigilants et utiliser leur jugement professionnel pour éviter de tels pièges. L'article mentionne également les directives publiées par l'American Bar Association sur l'utilisation de l'IA par les avocats, soulignant la nécessité de maintenir une compétence technologique pertinente.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Sun, 01 Jun 2025 14:30:00 GMT"
     }
 ]
