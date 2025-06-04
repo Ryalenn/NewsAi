@@ -1,10 +1,31 @@
 [
     {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/juliadhar/2025/06/04/ai-talent-meet-the-guardians-of-the-ai-algorithms/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683f43584584ddc3c33895e3/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 12:15:00 GMT"
+    },
+    {
+        "title": "Glance AI révolutionne le commerce grâce à l'IA",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/04/glance-ai-and-samsung-bring-personalized-shopping-to-the-lock-screen/?ss=ai",
+        "body": "Glance AI, une plateforme de commerce basée sur l'IA qui utilise l'outil de génération d'images Imagen 4 de Google DeepMind, permet aux utilisateurs de télécharger un selfie et de parcourir des rendus photoréalistes d'eux-mêmes portant des vêtements de plus de 400 marques. Glance AI, soutenue par Google et Jio, s'associe à Samsung pour offrir ses services à 50 millions d'utilisateurs de téléphones Samsung via une application d'écran de verrouillage. L'application génère des recommandations de tenues basées sur un seul selfie, en tenant compte des données locales et des tendances en temps réel. Glance AI offre une nouvelle expérience d'achat, en montrant aux utilisateurs des produits qu'ils n'auraient peut-être pas envisagés autrement. L'interface permet aux utilisateurs de parcourir, d'enregistrer et de définir des looks comme fond d'écran, tout en mettant en évidence les offres limitées dans le temps et les styles saisonniers. Glance AI ne conserve pas les photos des utilisateurs et la société a engagé 200 millions de dollars pour son développement futur, avec des partenariats potentiels avec d'autres fabricants de téléphones Android.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68403c9d160441952854a151/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 12:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : adapter les compétences et accélérer l'innovation",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/04/big-ai-trends-rock-business/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683f2cd9b637a3fa56133811/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 04 Jun 2025 09:14:00 GMT"
+    },
+    {
+        "title": "Flow : une application de dictée assistée par IA pour iOS",
+        "link": "https://www.forbes.com/sites/marksparrow/2025/06/04/wisprs-flow-dictation-software-is-now-available-to-use-on-iphones/?ss=ai",
+        "body": "Flow, une nouvelle application de dictée développée par Wispr, utilise l'IA pour améliorer la précision de la transcription de la parole en texte. L'application fonctionne à l'intérieur de toutes les autres applications, telles que Slack, Messages, Mail ou Word, et est conçue pour transformer la parole naturelle, avec ses hésitations et ses fautes, en texte écrit poli et correctement formaté. L'IA élimine les mots de remplissage, corrige les erreurs de prononciation et améliore la syntaxe et l'orthographe. Flow peut également apprendre le langage de l'utilisateur, en mémorisant les noms, acronymes et phrases personnalisés dans un dictionnaire personnel. L'application est disponible gratuitement pour iOS, avec une limite de 2 000 mots par semaine, et une version Pro illimitée avec des fonctionnalités avancées est proposée pour 12 $ par mois.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684003ddf0dc5c3eb10b6ae7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 09:00:00 GMT"
     },
     {
         "title": "L'IA au service de l'architecture",
@@ -217,24 +238,10 @@
         "date": "Mon, 02 Jun 2025 15:08:00 GMT"
     },
     {
-        "title": "La démocratie de l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/06/02/swarm-intelligence-is-reshaping-how-ai-gets-trained/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683cee3c5d88a92e3dd3cdff/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 02 Jun 2025 12:07:00 GMT"
-    },
-    {
-        "title": "La recherche d'emploi intelligente",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/06/02/linkedin-launches-ai-job-search-tool-for-premium-users/?ss=ai",
-        "body": "LinkedIn a lancé une nouvelle fonctionnalité de recherche d'emploi basée sur l'IA pour ses utilisateurs premium, qui utilise des modèles linguistiques de grande taille pour interpréter les intentions des utilisateurs et fournir des résultats de recherche d'emploi personnalisés et pertinents. Cette nouvelle fonctionnalité permet aux utilisateurs de décrire le type d'emploi qu'ils recherchent en langage naturel, éliminant ainsi le besoin de filtres fastidieux. L'IA de LinkedIn interprète la requête, analyse les offres d'emploi disponibles et fournit des résultats adaptés. Cette approche vise à réduire les frictions souvent associées à la recherche d'emploi, telles que les descriptions de poste vagues et la nécessité de parcourir de nombreuses offres. La fonctionnalité s'appuie sur le traitement du langage naturel pour comprendre les besoins des utilisateurs et fournit des informations transparentes sur la correspondance entre les qualifications d'un candidat et les exigences du poste. De plus, l'IA peut aider ceux qui ne connaissent pas les mots-clés ou les titres de poste précis en suggérant des pistes concrètes, transformant ainsi une vague idée de carrière en opportunités réelles.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683cb068e978306c46db1595/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 02 Jun 2025 11:59:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une collaboration emblématique",
-        "link": "https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview#comments",
-        "body": "L'article explore la collaboration entre Jony Ive, ancien chef du design chez Apple, et OpenAI, une entreprise d'intelligence artificielle, avec le soutien de Laurene Powell Jobs, veuve de Steve Jobs. Jony Ive travaille sur un mystérieux gadget d'IA, motivé par le désir d'assumer la responsabilité des conséquences imprévues associées à l'iPhone, telles que la dépendance aux écrans et aux médias sociaux. Laurene Powell Jobs, qui a investi dans les startups de Jony Ive, LoveFrom Design et io hardware, partage ses préoccupations concernant les utilisations néfastes potentielles de la technologie. Le gadget secret, développé par la société io de Jony Ive, est acheté par OpenAI pour près de 6,5 milliards de dollars, et Laurene Powell Jobs pourrait en tirer des bénéfices si le dispositif s'avère aussi réussi que l'iPhone. Bien que les détails du dispositif restent confidentiels, Laurene Powell Jobs s'attend à de grandes choses, ayant suivi son évolution depuis sa conception jusqu'aux prototypes.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1438500402.jpg?quality=90&strip=all&crop=0.004469074007865%2C0%2C99.991061851984%2C100&w=2400",
-        "date": "Mon, 02 Jun 2025 10:33:58 GMT"
+        "title": "La course à l'IA",
+        "link": "https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features",
+        "body": "Samsung Electronics Co. est sur le point de conclure un accord majeur avec Perplexity AI Inc., une startup spécialisée dans l'IA. L'accord verrait l'intégration de la technologie de recherche de Perplexity dans les appareils et navigateurs web de Samsung, ainsi que dans son assistant virtuel Bixby. Les discussions en cours prévoient également le préchargement de l'application et de l'assistant de Perplexity sur les futurs appareils Samsung. Cet accord met en lumière la course à l'armement dans le domaine de l'IA entre les grandes entreprises technologiques, qui cherchent à s'associer avec des startups innovantes pour rester compétitives.",
+        "image": "",
+        "date": "Mon, 02 Jun 2025 13:29:00 GMT"
     }
 ]
