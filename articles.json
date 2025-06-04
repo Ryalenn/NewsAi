@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici à quoi ressemble le PC RTX AI surpuissant dédié à l’IA conçu par Nvidia et Materiel.net",
+        "title": "Voici \u00e0 quoi ressemble le PC RTX AI surpuissant d\u00e9di\u00e9 \u00e0 l\u2019IA con\u00e7u par Nvidia et Materiel.net",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2624285_voici-a-quoi-ressemble-le-pc-rtx-ai-surpuissant-dedie-a-lia-concu-par-nvidia-et-materiel-net",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/pc-astral-ia-materiel-net-2-768x512.jpg?resize=200,200&key=6934d6cb",
         "date": "Mon, 02 Jun 2025 23:00:00 GMT",
@@ -236,5 +236,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683f9c9c185f1960d3f176c4/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 04 Jun 2025 01:11:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/06/04/new-study-reveals-true-ai-capabilities-and-job-replacement-risk/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683fd806815d3708b66d1f42/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 05:00:00 GMT",
+        "check": "no"
     }
 ]
