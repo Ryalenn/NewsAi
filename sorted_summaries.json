@@ -1,5 +1,19 @@
 [
     {
+        "title": "La guerre de l'IA en B2B s'intensifie",
+        "link": "https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free",
+        "body": "Google rend désormais ses fonctionnalités d'IA accessibles gratuitement dans toutes ses applications Workspace, y compris Gmail, Docs, Sheets et Meet. Cette décision s'inscrit dans le cadre d'une course avec Microsoft et OpenAI pour créer la suite logicielle de bureau alimentée par l'IA de demain. Bien que Google augmente le prix de ses plans Workspace, l'ajout de fonctionnalités d'IA sans coût supplémentaire élimine les obstacles financiers à l'adoption de l'IA par les entreprises. Gemini, l'outil IA de Google, peut effectuer des tâches standard de chatbot, mais aussi aider à trouver des informations et effectuer des recherches dans l'ensemble du contenu de l'utilisateur. Cette annonce reflète la prise de conscience des entreprises que le moment est venu d'enseigner de nouvelles façons d'utiliser leurs produits et de gagner de nouveaux clients grâce à l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/google-drive-catch-me-up.jpg?quality=90&strip=all&crop=4.5909090909091%2C0%2C90.818181818182%2C100&w=2400",
+        "date": "Wed, 04 Jun 2025 01:22:38 GMT"
+    },
+    {
+        "title": "Souveraineté de l'IA",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/03/the-ai-era-enters-its-sovereign-phase/?ss=ai",
+        "body": "La prochaine phase de l'évolution de l'IA générative est l'IA souveraine, qui permet aux nations et aux organisations de maintenir leur autonomie et leur contrôle sur leurs opérations basées sur l'IA. L'IA souveraine est développée, gérée et contrôlée au sein d'une juridiction spécifique, qu'il s'agisse d'un pays ou d'une organisation, garantissant ainsi l'indépendance et la conformité aux réglementations, aux normes éthiques et aux priorités stratégiques locales. Cette approche est particulièrement cruciale dans des domaines sensibles tels que la sécurité nationale, la défense et les infrastructures critiques, où l'utilisation de modèles d'IA étrangers pourrait présenter des risques en matière de confidentialité des données et de cybersécurité. Des pays leaders comme les États-Unis, le Royaume-Uni, la Chine, la France, le Danemark et les Émirats arabes unis ont déjà lancé des initiatives en matière d'IA souveraine, reconnaissant l'importance de l'IA en tant qu'infrastructure nationale essentielle. Des entreprises comme Nvidia et OpenAI soutiennent également les entités dans le développement de leurs capacités en matière d'IA souveraine. L'IA souveraine offre aux nations et aux organisations la possibilité de protéger leur souveraineté technologique tout en favorisant l'innovation adaptée à leurs besoins spécifiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683f9c9c185f1960d3f176c4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 01:11:00 GMT"
+    },
+    {
         "title": "OpenAI : Evolution et controverses",
         "link": "https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt",
         "body": "L'article offre un aperçu des événements turbulents au sein d'OpenAI, avec le départ soudain puis le retour du cofondateur et PDG Sam Altman. Cette période a vu un bref passage de Mira Murati et d'Emmett Shear au poste de PDG, et une menace de départ massif d'employés vers Microsoft. La réintégration d'Altman a été accompagnée d'un remaniement du conseil d'administration. Une poursuite a été intentée par Elon Musk, alléguant un abandon de la mission sans but lucratif de l'entreprise. OpenAI a ensuite abandonné ses efforts pour devenir une entreprise à but lucratif. L'article aborde également les controverses entourant les propositions d'OpenAI et de Google de permettre à leurs modèles d'IA de s'entraîner sur du contenu protégé par le droit d'auteur, suscitant des protestations de l'industrie du divertissement. D'autres développements incluent le lancement de nouvelles capacités de génération d'images, la sortie de GPT-4.5, et une tentative d'achat par Elon Musk.",
@@ -208,40 +222,5 @@
         "body": "L'acquisition de Pollen Robotics par Hugging Face marque un tournant dans l'évolution de l'IA, passant d'une intelligence purement numérique à une forme physique. Cette acquisition s'appuie sur trois piliers : l'intégration verticale de la pile IA-robotique, l'exploitation de l'écosystème grâce à une vaste communauté de développeurs, et un avantage de timing grâce à des modèles fondamentaux capables de contrôler des systèmes physiques. Hugging Face accède immédiatement au robot humanoïde Reachy 2 de Pollen, une plateforme de recherche robuste et ouverte déjà adoptée par des institutions de premier plan. Le timing est stratégique, avec la reconnaissance de l'industrie et une forte demande des développeurs pour des outils de robotique ouverts. L'acquisition s'inscrit dans la vision de Hugging Face d'ouvrir l'IA et la robotique, combinant des logiciels open-source avec un matériel ouvert. Le marché de l'IA incarnée est à un point d'inflexion, avec des avancées théoriques se traduisant par des applications pratiques, grâce à des modèles fondamentaux de robotique et des réductions de coûts matérielles. Les modèles d'IA incarnée, comme Pi0 de Hugging Face, étendent l'IA générative à la robotique, en envoyant des commandes directement au matériel robotique. La combinaison de l'infrastructure IA de Hugging Face et de l'expertise robotique de Pollen crée des synergies techniques uniques, offrant une couche d'intelligence essentielle pour la prochaine génération de robots. Cette acquisition représente un changement fondamental dans l'évolution conjointe de l'IA et de la robotique, créant une valeur unique grâce à une philosophie open-source.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683d25be6e2cc3bcd5d0a8df/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 02 Jun 2025 04:00:00 GMT"
-    },
-    {
-        "title": "Les majors de la musique s'allient à l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2633777_universal-sony-warner-les-majors-de-la-musique-seraient-sur-le-point-de-tout-donner-a-lia",
-        "body": "Les grandes maisons de disques Universal, Warner et Sony sont en pourparlers pour autoriser des startups spécialisées en IA à utiliser leur catalogue musical. Cette décision marque un changement de leur position initiale, opposée à l'IA générative, et pourrait mettre fin aux litiges juridiques. OpenAI, un acteur majeur du secteur, admet avoir volé du contenu pour développer son IA, et cherche désormais des accords pour une utilisation plus éthique. Ces startups de musique générée par IA font face à des poursuites de la RIAA, réclamant des dédommagements importants. Les accords pourraient permettre à l'industrie musicale de rejoindre d'autres médias ayant déjà signé avec OpenAI, tout en protégeant les artistes et en assurant leur rémunération.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/spotify-1200x900-1-768x576.jpg?resize=225,225&key=6cb342f3",
-        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple ouvre ses portes aux développeurs tiers",
-        "link": "https://www.frandroid.com/marques/apple/2633473_lidee-dapple-pour-rendre-son-ia-enfin-plus-interessante",
-        "body": "À l'approche de la WWDC 2025, Apple cherche à relancer son programme d'IA, Apple Intelligence, en retard par rapport à ses concurrents. La firme pourrait annoncer l'ouverture de ses modèles de base d'Apple Intelligence à des développeurs tiers, leur permettant de créer des applications personnalisées pour améliorer l'offre actuelle. Cette stratégie vise à rendre les iPhone et MacBook plus attrayants, bien qu'il soit trop tôt pour prédire son efficacité. Bloomberg suggère qu'Apple pourrait commencer par ouvrir ses petits LLM, qui contiennent tout de même trois milliards de paramètres.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/apple-intelligence-1200x671-1-768x429.jpg?resize=168,168&key=5361302b",
-        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple et l'IA : des attentes déçues",
-        "link": "https://www.frandroid.com/marques/apple/2633365_une-deception-le-malaise-dapple-autour-de-lia-va-continuer-encore-un-moment",
-        "body": "La conférence WWDC 2025 d'Apple, qui se tiendra le 9 juin, est très attendue en termes d'annonces liées à l'intelligence artificielle. Cependant, selon le journaliste Mark Gurman, l'événement pourrait être une déception en la matière. Apple fait face à des critiques internes et externes concernant son retard dans le domaine de l'IA, notamment avec le fiasco de Siri 2. La marque s'apprête à ouvrir ses Foundation Models à des développeurs tiers, mais mise sur 2026 pour vraiment convaincre en matière d'IA. En attendant, ses concurrents comme Google, Open AI et Perplexity avancent rapidement.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/apple-intelligence-sur-iphone-16e-1200x675-1-768x432.jpg?resize=169,169&key=4dc19af6",
-        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung s'associe à Perplexity AI",
-        "link": "https://www.frandroid.com/marques/samsung/2633371_samsung-sallierait-a-perplexity-le-concurrent-direct-de-google-dans-un-deal-a-500-millions",
-        "body": "Samsung s'apprête à conclure un accord stratégique avec Perplexity AI, une start-up américaine qui ambitionne de concurrencer Google dans le domaine de la recherche. Perplexity AI se distingue en proposant un moteur de recherche conversationnel, s'appuyant sur des modèles de langage avancés, qui fournit des réponses directes et informées plutôt qu'une simple liste de liens. L'intégration de Perplexity dans les appareils Samsung se fera en plusieurs phases, incluant l'installation préinstallée sur les appareils Galaxy et l'extension au navigateur Samsung Internet. L'accord vise également à moderniser l'assistant vocal Bixby de Samsung en utilisant les technologies de Perplexity. De plus, Samsung participera à la prochaine levée de fonds de Perplexity, évaluée à 500 millions de dollars, valorisant la start-up à 14 milliards de dollars. Cet accord complexe pourrait menacer l'hégémonie de Google et perturber l'écosystème Android, en particulier si Apple s'associe également à Perplexity.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/perplexity-1200x900-1-768x576.jpeg?resize=225,225&key=f5f8a0cd",
-        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Samsung s'associe à Perplexity",
-        "link": "https://www.frandroid.com/marques/samsung/2633273_galaxy-s26-samsung-preparerait-un-gros-coup-cote-ia-pour-moins-dependre-de-google",
-        "body": "Samsung, cherchant à réduire sa dépendance envers les modèles d'IA de Google, serait sur le point de s'associer avec Perplexity, une startup d'IA. Cet accord intégrerait l'application et l'assistant intelligent de Perplexity dans les futurs appareils Samsung, y compris potentiellement comme solution par défaut sur les Galaxy S26 attendus en 2026. Samsung deviendrait également l'un des principaux investisseurs de Perplexity, participant à un cycle de financement de 500 millions de dollars. Bien que Gemini de Google ne soit pas complètement abandonné, ce partenariat offre à Samsung plus de flexibilité et d'indépendance dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/samsung-galaxy-s25-16-1200x800-1-768x512.jpg?resize=200,200&key=d0482a5e",
-        "date": "Sun, 01 Jun 2025 23:00:00 GMT"
     }
 ]
