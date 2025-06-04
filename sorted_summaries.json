@@ -1,5 +1,33 @@
 [
     {
+        "title": "Sécurité et confidentialité des données avec ChatGPT",
+        "link": "https://www.forbes.com/sites/barrycollins/2025/06/04/find-out-what-chatgpt-knows-about-you---and-how-to-make-it-forget/?ss=ai",
+        "body": "Bien que ChatGPT puisse stocker de nombreux renseignements personnels, il est possible de gérer et de sécuriser ces informations. L'article explique comment découvrir quelles données ChatGPT a conservées, les mettre à jour ou les effacer. Il souligne également l'importance de protéger son compte avec une authentification à deux facteurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684061a3b713e651257c7717/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 15:17:00 GMT"
+    },
+    {
+        "title": "La montée en puissance d'AMD dans l'IA",
+        "link": "https://www.forbes.com/sites/karlfreund/2025/06/04/latest-mlperf-shows-how-amd-compares-with-nvidia-sort-of/?ss=ai",
+        "body": "Bien que Nvidia reste le leader du marché du matériel IA, AMD rattrape son retard et devient un concurrent sérieux. Avec sa plateforme MI325, AMD propose désormais une quantité plus importante de mémoire HBM que les GPU Nvidia, ce qui lui permet d'exécuter des modèles de taille moyenne sur une seule puce. Les résultats des benchmarks sont impressionnants, surpassant le Nvidia H200 de 8 % en moyenne. Bien que la différence de performance ne soit pas énorme, AMD offre une alternative intéressante en termes de prix et de disponibilité. De plus, les partenaires d'AMD commencent à montrer des résultats prometteurs avec le logiciel ROCm, améliorant ainsi la facilité d'utilisation. Cependant, AMD est encore en retard sur Nvidia en termes de mise à l'échelle pour l'entraînement de modèles plus grands, mais cela devrait changer avec l'introduction de l'UA-Link l'année prochaine. Dans l'ensemble, AMD s'affirme comme un acteur crédible dans le domaine de l'IA, offrant des performances compétitives et une alternative aux solutions Nvidia.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683f18060d8181c18e3684b2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 14:59:00 GMT"
+    },
+    {
+        "title": "Le futur de l'art généré par l'IA",
+        "link": "https://www.theverge.com/2023/6/27/23770133/secret-invasion-ai-credits-marvel",
+        "body": "L'utilisation de l'IA pour créer les génériques de la série Secret Invasion de Marvel a suscité des réactions mitigées. D'un côté, certains y voient un signe de l'évolution de l'industrie du divertissement, tandis que d'autres s'inquiètent de l'impact potentiel de l'IA sur les artistes humains. L'article explore les implications éthiques et créatives de l'utilisation de l'IA dans le divertissement, en mettant en lumière les préoccupations des artistes sur leur rôle futur dans l'industrie. Malgré les avantages des outils d'IA, les artistes craignent que leur utilisation excessive ne conduise à une perte d'emplois et à une dévalorisation de leur travail créatif. L'article conclut en soulignant l'importance de reconnaître les droits des travailleurs créatifs dans l'ère de l'IA.",
+        "image": "",
+        "date": "Wed, 04 Jun 2025 14:39:30 GMT"
+    },
+    {
+        "title": "L'avenir du travail à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/rebekahbastian/2025/06/04/jobs-lost-to-ai-wont-return-heres-how-to-find-your-next-career-move/?ss=ai",
+        "body": "L'IA transforme rapidement le marché du travail, éliminant des emplois autrefois considérés comme sûrs. Les postes dans les domaines de la communication, du marketing, de la création et du développement sont désormais menacés par les capacités croissantes de l'IA. Les conseils traditionnels pour la recherche d'emploi deviennent obsolètes, car de nombreux emplois disparaissent ou sont radicalement transformés. Les entreprises comme Canva exigent désormais que les employés justifient qu'une tâche ne peut pas être effectuée par l'IA avant d'embaucher de nouveaux employés. Les startups se lancent dans une course pour développer des agents IA capables de remplacer des équipes entières à une fraction du coût. Face à cette disruption, des solutions systémiques sont nécessaires pour atténuer son impact. Dario Amodei, PDG de l'entreprise IA Anthropic, propose une \"taxe sur les jetons\", redistribuant un petit pourcentage des revenus générés par l'IA aux travailleurs déplacés. Parallèlement, Aneesh Raman, Chief Economic Opportunity Officer chez LinkedIn, suggère de repenser les emplois d'entrée de gamme pour mettre l'accent sur l'adaptabilité, la pensée critique et la collaboration, plutôt que sur des tâches répétitives pouvant être automatisées. Alors que les individus naviguent dans ce nouveau paysage professionnel, il est conseillé de se concentrer sur les domaines où les humains restent essentiels, tels que les soins de santé, les métiers spécialisés et les rôles nécessitant de l'intelligence émotionnelle et des interactions en face à face. La diversification de carrière, ou \"portfolio career\", peut également offrir une résilience face aux perturbations de l'IA dans des industries spécifiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683f93b88f365cee4bc9d56f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 13:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA",
         "link": "https://www.forbes.com/sites/juliadhar/2025/06/04/ai-talent-meet-the-guardians-of-the-ai-algorithms/?ss=ai",
         "body": "Titre",
@@ -61,6 +89,13 @@
         "body": "L'article offre un aperçu des événements turbulents au sein d'OpenAI, avec le départ soudain puis le retour du cofondateur et PDG Sam Altman. Cette période a vu un bref passage de Mira Murati et d'Emmett Shear au poste de PDG, et une menace de départ massif d'employés vers Microsoft. La réintégration d'Altman a été accompagnée d'un remaniement du conseil d'administration. Une poursuite a été intentée par Elon Musk, alléguant un abandon de la mission sans but lucratif de l'entreprise. OpenAI a ensuite abandonné ses efforts pour devenir une entreprise à but lucratif. L'article aborde également les controverses entourant les propositions d'OpenAI et de Google de permettre à leurs modèles d'IA de s'entraîner sur du contenu protégé par le droit d'auteur, suscitant des protestations de l'industrie du divertissement. D'autres développements incluent le lancement de nouvelles capacités de génération d'images, la sortie de GPT-4.5, et une tentative d'achat par Elon Musk.",
         "image": "",
         "date": "Tue, 03 Jun 2025 20:46:30 GMT"
+    },
+    {
+        "title": "Google Photos met en pause la fonctionnalité Ask",
+        "link": "https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause#comments",
+        "body": "Google a interrompu le déploiement progressif de sa fonctionnalité \"Ask Photos\", alimentée par l'IA, en raison de problèmes de latence, de qualité et d'expérience utilisateur. Jamie Aspinall, responsable produit chez Google Photos, a reconnu que la fonctionnalité expérimentale, basée sur les modèles IA Gemini de Google, n'était pas encore au point. Le déploiement a été mis en pause pour une durée de deux semaines, pendant laquelle l'équipe travaillera à l'amélioration de la fonctionnalité pour offrir une recherche plus rapide et plus précise. La fonctionnalité \"Ask\" est conçue pour permettre aux utilisateurs de poser des questions complexes à l'application Google Photos, comme s'ils discutaient avec un être humain. Bien que Google soit engagé dans une course à l'IA avec d'autres géants de la tech, ce n'est pas la première fois qu'ils interrompent le déploiement d'une fonctionnalité basée sur l'IA en raison de problèmes similaires.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB353_GOOGLE_PHOTOS_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 03 Jun 2025 17:24:29 GMT"
     },
     {
         "title": "ChatGPT's Memory Upgrade",
@@ -222,26 +257,5 @@
         "body": "L'IA est en train de révolutionner la recherche et la pratique en santé mentale, en la rendant moins subjective et plus objective. Les dernières avancées en matière d'IA, notamment l'apprentissage profond, l'apprentissage automatique, les réseaux de neurones artificiels, l'IA générative et les grands modèles linguistiques, sont au cœur de cette transformation. L'article explore les initiatives de pointe dans ce domaine, notamment le séminaire récent de l'AI4MH de l'Université de Stanford. Le séminaire a mis en lumière l'utilisation de l'IA pour cartographier les corrélations entre le cerveau, l'esprit et les troubles mentaux, ainsi que pour détecter et atténuer les problèmes de santé mentale grâce à l'intelligence ambiante. Il souligne également l'importance de l'éthique de l'IA et de la protection de la vie privée, ainsi que la nécessité d'un cadre d'évaluation pour les applications de santé mentale basées sur l'IA. Enfin, il explore le rôle de l'IA dans la compréhension de l'origine de l'humanité et son impact sur la psychologie et la physique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683d20c5c5b89e4fde946849/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 02 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "CoCounsel : l'IA au service de l'efficacité fiscale et comptable",
-        "link": "https://tax.thomsonreuters.com/en/accounting-solutions/c/cocounsel-tax/cocounsel-ai-for-tax-audit-and-accounting-professionals",
-        "body": "CoCounsel est une solution d'automatisation des processus manuels dans le domaine fiscal et comptable, qui permet d'améliorer la précision et de réduire les risques d'erreurs. L'IA de CoCounsel décompose les tâches complexes en étapes plus simples et gère intelligemment chaque partie du processus, garantissant ainsi une exécution sans faille. Les avantages incluent une efficacité améliorée du flux de travail, des réponses précises et fiables, et une conformité réglementaire simplifiée. De plus, CoCounsel offre un accès instantané à des sources d'informations fiables, telles que Checkpoint, des données clients et des analyses propriétaires, éliminant ainsi les recherches chronophages. La plateforme peut également interpréter des documents financiers, automatiser la production de rapports de conformité et rationaliser la prise de décision grâce à ses capacités d'IA.",
-        "image": "",
-        "date": "Mon, 02 Jun 2025 15:08:37 GMT"
-    },
-    {
-        "title": "L'IA pour la santé des femmes",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/02/ai-can-revolutionize-womens-healthcare--heres-how/?ss=ai",
-        "body": "L'article met en lumière les inégalités historiques dans la recherche médicale entre les hommes et les femmes, en particulier dans le domaine de la santé des femmes. Avec l'émergence de l'IA, de nouvelles opportunités se présentent pour combler ces lacunes et améliorer les diagnostics et les traitements pour les femmes. L'IA peut contribuer à une meilleure compréhension de la santé féminine, au-delà de la simple santé reproductive, et à l'identification de facteurs de risque spécifiques aux femmes, comme dans le cas du cancer du sein. De plus, l'IA peut aider à analyser de vastes ensembles de données provenant de dispositifs portables et à identifier des schémas dans des données génétiques, biologiques et symptomatiques pour améliorer les diagnostics et les soins. Cependant, l'IA n'est pas une solution parfaite et peut perpétuer les préjugés si elle n'est pas utilisée correctement. Les experts soulignent l'importance de réduire les préjugés dans les données et d'utiliser l'IA pour se concentrer sur les domaines de la santé féminine qui ont été négligés par la recherche traditionnelle. Enfin, l'article souligne l'enthousiasme croissant pour le potentiel de l'IA dans ce domaine et encourage à continuer à explorer ces solutions.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67d42f76a04cfc0fcf909786/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 02 Jun 2025 15:08:00 GMT"
-    },
-    {
-        "title": "La course à l'IA",
-        "link": "https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features",
-        "body": "Samsung Electronics Co. est sur le point de conclure un accord majeur avec Perplexity AI Inc., une startup spécialisée dans l'IA. L'accord verrait l'intégration de la technologie de recherche de Perplexity dans les appareils et navigateurs web de Samsung, ainsi que dans son assistant virtuel Bixby. Les discussions en cours prévoient également le préchargement de l'application et de l'assistant de Perplexity sur les futurs appareils Samsung. Cet accord met en lumière la course à l'armement dans le domaine de l'IA entre les grandes entreprises technologiques, qui cherchent à s'associer avec des startups innovantes pour rester compétitives.",
-        "image": "",
-        "date": "Mon, 02 Jun 2025 13:29:00 GMT"
     }
 ]
