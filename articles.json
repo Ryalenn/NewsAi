@@ -35,7 +35,7 @@
         "check": "yes"
     },
     {
-        "title": "Voici à quoi ressemble le PC RTX AI surpuissant dédié à l’IA conçu par Nvidia et Materiel.net",
+        "title": "Voici \u00e0 quoi ressemble le PC RTX AI surpuissant d\u00e9di\u00e9 \u00e0 l\u2019IA con\u00e7u par Nvidia et Materiel.net",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2624285_voici-a-quoi-ressemble-le-pc-rtx-ai-surpuissant-dedie-a-lia-concu-par-nvidia-et-materiel-net",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/pc-astral-ia-materiel-net-2-768x512.jpg?resize=200,200&key=6934d6cb",
         "date": "Mon, 02 Jun 2025 23:00:00 GMT",
@@ -264,5 +264,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683f6f02fe5a8c974528a09f/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 21:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/679768/reddit-sues-anthropic-alleging-its-bots-accessed-reddit-more-than-100000-times-since-last-july#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK115_Reddit_03.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 04 Jun 2025 19:02:58 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/679707/meta-aria-gen-2-upgrades-specs-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/meta-aria-gen-2glasses.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 04 Jun 2025 18:36:02 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 04 Jun 2025 16:59:24 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/679439/figma-dev-mode-mcp-server-beta-release#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25515615/STK273_FIGMA.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 04 Jun 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/04/universal-basic-income-a-business-case-for-the-ai-era/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683f049c47ee71bba83a778a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
