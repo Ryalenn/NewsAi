@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Rivals",
+        "link": "https://www.forbes.com/sites/johanmoreno/2025/06/05/anthropic-cuts-windsurfs-claude-access-before-openai-acquisition/?ss=ai",
+        "body": "Résumé : La jeune entreprise chinoise Anthropic, spécialisée dans l'IA, a soudainement interrompu l'accès direct de la plateforme de codage IA Windsurf à ses modèles Claude 3.x, quelques jours seulement avant l'annonce de son acquisition par OpenAI pour 3 milliards de dollars. Cette décision stratégique a été interprétée comme une tentative d'empêcher un concurrent d'accéder aux capacités de Claude pour améliorer les modèles d'OpenAI. Malgré l'impact sur la disponibilité pour les utilisateurs de Windsurf, d'autres plateformes de codage IA conservent leur accès à Claude, soulignant ainsi la nature ciblée de la restriction. Pour atténuer les effets de cette interruption, Windsurf a promu des modèles alternatifs, notamment Gemini 2.5 Pro, à un tarif réduit. L'acquisition proposée souligne la course aux armements en cours dans le domaine de l'IA, alors que les entreprises se disputent la domination sur le marché.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68411ef53e247c2854e90be0/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 05 Jun 2025 04:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA dans les communications d'entreprise",
         "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/04/can-ai-turn-workplace-chat-into-revenue-these-companies-think-so/?ss=ai",
         "body": "L'intelligence artificielle transforme les discussions sur le lieu de travail en informations stratégiques et en avantage concurrentiel. L'intelligence conversationnelle, une nouvelle catégorie d'IA d'entreprise, interprète les dialogues humains en temps réel, fournissant des informations précieuses sur les raisons pour lesquelles un accord a échoué, les sentiments d'un client ou la manière dont un concurrent a été mentionné et ignoré. Le marché mondial de l'IA agentique devrait atteindre près de 30 milliards de dollars d'ici 2030, ce qui indique une demande croissante d'IA proactive et décisionnelle dans divers secteurs. Les entreprises comme LeapXpert, Moveworks, Observe.ai et Cognigy utilisent l'IA pour capturer, interpréter et gérer les données conversationnelles, transformant ainsi les discussions quotidiennes en commentaires stratégiques. L'IA agentique ne se contente pas de répondre aux requêtes, mais participe activement aux flux de travail, suggérant des étapes suivantes, rappelant aux employés de suivre et détectant les violations de conformité en temps réel. Alors que l'écosystème global de l'IA d'entreprise évolue vers une IA plus proactive, des préoccupations éthiques surgissent quant à une analyse approfondie des conversations sur le lieu de travail, qui pourrait conduire à des interprétations erronées du ton ou du contexte par l'IA. Pour résoudre ce problème, les fournisseurs intègrent des fonctionnalités de transparence, permettant aux utilisateurs de vérifier les affirmations des résumés de l'IA. Enfin, à mesure que les entreprises adoptent de plus en plus l'IA pour interpréter les dialogues, la conformité devient également un facteur important, en particulier dans les industries hautement réglementées telles que la finance et les soins de santé.",
@@ -278,12 +285,5 @@
         "body": "Résumé : \n\nL'article explore l'idée populaire selon laquelle améliorer la capacité de l'IA contemporaine à produire du code informatique pourrait accélérer la réalisation de l'AGI (intelligence artificielle générale). Il examine le rôle de l'IA générative et des grands modèles linguistiques (LLM) dans la production de code, et soulève des questions importantes sur la viabilité de cette approche. Bien que l'IA générative ait fait des progrès significatifs dans la génération de code, l'auteur soulève des préoccupations concernant les limites actuelles de cette technologie, en particulier dans la poursuite de l'AGI. L'article aborde également les implications éthiques et les risques potentiels associés à l'utilisation de l'IA pour atteindre l'AGI, y compris les préoccupations concernant l'existence et la suppression de l'humanité. Enfin, il souligne la nécessité de réfléchir soigneusement aux défis et aux possibilités associés à l'évolution de l'IA, en particulier dans la poursuite de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6838c4950d74f83891c521b3/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'aube de la révolution de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/06/03/mind-blowing-ai-statistics-everyone-must-know-about-now-in-2025/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683e89c00dccd7ffa03fd47e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 03 Jun 2025 05:37:00 GMT"
     }
 ]
