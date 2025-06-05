@@ -278,5 +278,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/683e27d174445a729168ca6a/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 05 Jun 2025 11:59:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.nytimes.com/2025/06/05/opinion/anthropic-ceo-regulate-transparency.html",
+        "image": "",
+        "date": "Thu, 05 Jun 2025 13:12:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19575123/AR_01033.jpg?quality=90&strip=all&crop=0%2C3.1507811128664%2C100%2C93.698437774267&w=2400",
+        "date": "Thu, 05 Jun 2025 10:16:04 GMT",
+        "check": "no"
     }
 ]
