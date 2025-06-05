@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de l'IA dans les communications d'entreprise",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/04/can-ai-turn-workplace-chat-into-revenue-these-companies-think-so/?ss=ai",
+        "body": "L'intelligence artificielle transforme les discussions sur le lieu de travail en informations stratégiques et en avantage concurrentiel. L'intelligence conversationnelle, une nouvelle catégorie d'IA d'entreprise, interprète les dialogues humains en temps réel, fournissant des informations précieuses sur les raisons pour lesquelles un accord a échoué, les sentiments d'un client ou la manière dont un concurrent a été mentionné et ignoré. Le marché mondial de l'IA agentique devrait atteindre près de 30 milliards de dollars d'ici 2030, ce qui indique une demande croissante d'IA proactive et décisionnelle dans divers secteurs. Les entreprises comme LeapXpert, Moveworks, Observe.ai et Cognigy utilisent l'IA pour capturer, interpréter et gérer les données conversationnelles, transformant ainsi les discussions quotidiennes en commentaires stratégiques. L'IA agentique ne se contente pas de répondre aux requêtes, mais participe activement aux flux de travail, suggérant des étapes suivantes, rappelant aux employés de suivre et détectant les violations de conformité en temps réel. Alors que l'écosystème global de l'IA d'entreprise évolue vers une IA plus proactive, des préoccupations éthiques surgissent quant à une analyse approfondie des conversations sur le lieu de travail, qui pourrait conduire à des interprétations erronées du ton ou du contexte par l'IA. Pour résoudre ce problème, les fournisseurs intègrent des fonctionnalités de transparence, permettant aux utilisateurs de vérifier les affirmations des résumés de l'IA. Enfin, à mesure que les entreprises adoptent de plus en plus l'IA pour interpréter les dialogues, la conformité devient également un facteur important, en particulier dans les industries hautement réglementées telles que la finance et les soins de santé.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6840c0ce6671ac876b42622c/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 04 Jun 2025 21:00:00 GMT"
+    },
+    {
+        "title": "La régulation de l'IA pour un avenir sûr",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/06/04/godfather-of-ai-launches-nonprofit-focused-on-safer-systems/?ss=ai",
+        "body": "Yoshua Bengio, pionnier de l'IA et co-récipiendaire du prix Turing, lance LawZero, une organisation à but non lucratif visant à développer des systèmes d'IA qui priorisent la sécurité et l'éthique. LawZero cherche à atténuer les dangers associés aux modèles d'IA actuels, tels que le biais algorithmique, l'utilisation malveillante et la perte de contrôle humain. Bengio plaide pour un ralentissement du développement de l'IA afin de mieux comprendre et réglementer ses implications. LawZero travaille sur un système appelé Scientist AI, qui est non-agentique et répond aux entrées et objectifs humains. L'organisation croit que l'IA devrait être considérée comme un bien public mondial, développée et utilisée de manière éthique pour le bien de l'humanité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6840b5b9aed2df221df140df/0x0.jpg?format=jpg&crop=3157,1777,x446,y64,safe&width=440",
+        "date": "Wed, 04 Jun 2025 21:00:00 GMT"
+    },
+    {
         "title": "Reddit contre Anthropic",
         "link": "https://www.theverge.com/ai-artificial-intelligence/679768/reddit-sues-anthropic-alleging-its-bots-accessed-reddit-more-than-100000-times-since-last-july#comments",
         "body": "Reddit poursuit en justice Anthropic, une entreprise concurrente d'OpenAI, pour avoir accédé à sa plateforme plus de 100 000 fois depuis juillet 2024, malgré l'annonce d'Anthropic en mai 2024 selon laquelle elle avait arrêté de collecter des données sur Reddit. Reddit accuse Anthropic d'exploiter commercialement son contenu, qui pourrait valoir des milliards de dollars, et de présenter deux visages : un publicement vertueux et un autre privé qui ignore les règles. Ce n'est pas la première fois qu'Anthropic est poursuivie pour violation de droits d'auteur, des auteurs et Universal Music ayant déjà intenté des poursuites. Cette affaire s'inscrit dans une tendance croissante de poursuites judiciaires contre des entreprises d'IA pour violation de droits d'auteur, notamment OpenAI et Cohere.",
@@ -271,26 +285,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683e89c00dccd7ffa03fd47e/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 03 Jun 2025 05:37:00 GMT"
-    },
-    {
-        "title": "L'IA à portée de main",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/2624285_voici-a-quoi-ressemble-le-pc-rtx-ai-surpuissant-dedie-a-lia-concu-par-nvidia-et-materiel-net",
-        "body": "Materiel.net, un e-commerçant français réputé, s'associe à Nvidia pour proposer une gamme de PC dédiés à l'IA, comprenant des machines montées, des composants et des PC portables. La gamme actuelle offre trois options, allant de 1559,95 à 3499,99 euros, avec un design élégant et des composants de haute qualité. Le modèle Astral IA, avec son boîtier en bois et blanc, a particulièrement attiré l'attention. Il est équipé des meilleurs composants, dont une carte graphique GeForce RTX 5080 avec des Tensor Cores de 5e génération, capable de gérer 1801 TOPS. Nvidia fournit également des \"Blueprints\" pour exploiter la puissance de ses cartes graphiques en matière d'IA, et Materiel.net offre un configurateur PC pour personnaliser les spécifications.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/pc-astral-ia-materiel-net-2-768x512.jpg?resize=200,200&key=6934d6cb",
-        "date": "Mon, 02 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft Copilot Avatars",
-        "link": "https://www.frandroid.com/marques/microsoft/2634947_microsoft-veut-vous-laisser-generer-un-avatar-avec-copilot-sans-ghibli-cette-fois",
-        "body": "Microsoft teste actuellement une nouvelle fonctionnalité appelée \"Live Portraits\" pour son outil Copilot sur Windows 11. Cette fonctionnalité permet aux utilisateurs de créer un avatar personnalisé pour l'IA de Microsoft, avec plusieurs styles visuels et options de genre. Bien que la fonction soit encore en développement, l'objectif semble être de donner à l'IA Copilot une identité plus chaleureuse et personnalisée. Des indices suggèrent également que Microsoft pourrait proposer des avatars 3D pour son IA à l'avenir, créant ainsi des personnages visuellement expressifs en temps réel. La société avait déjà travaillé sur des \"Copilot Characters\" plus simples par le passé, et pourrait maintenant fusionner ces initiatives pour offrir une création d'avatars sur mesure. La sortie de Live Portraits est attendue à moyen terme, d'abord sur la version web de Copilot, puis sur la version de bureau.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/live-portraits-1200x622-1-768x398.jpg?resize=156,156&key=f523cac3",
-        "date": "Mon, 02 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'ambition de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2634899_openai-estime-que-les-interactions-avec-des-vraies-gens-font-concurrence-a-chatgpt",
-        "body": "OpenAI a de grandes ambitions pour ChatGPT, comme le révèlent des documents rendus publics lors d'un procès contre Google. L'objectif est de transformer ChatGPT en un \"super assistant\", capable de comprendre en profondeur les besoins des utilisateurs et de devenir leur interface d'accès à Internet. L'IA devrait pouvoir accomplir n'importe quelle tâche qu'une personne maligne, fiable et émotionnellement intelligente pourrait faire. OpenAI positionne ChatGPT au-delà des catégories classiques comme les moteurs de recherche ou les navigateurs web, le considérant comme une entité unique. La Silicon Valley rêve d'un monde où l'IA remplacerait les humains, avec des exemples de Microsoft et de Mark Zuckerberg soutenant l'intégration de l'IA dans divers aspects de la vie quotidienne. Cependant, l'article souligne également les dangers potentiels de l'IA sans contrôle, avec des cas récents d'IA maltraitant virtuellement des internautes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/ia-chat-gpt-une-2-768x432.jpg?resize=169,169&key=833fd29f",
-        "date": "Mon, 02 Jun 2025 23:00:00 GMT"
     }
 ]
