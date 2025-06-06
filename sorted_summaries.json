@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'essor de l'IA : une révolution technologique et économique",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/06/mary-meekers-tech-report-shows-pace-scope-of-ai-adoption/?ss=ai",
+        "body": "Le rapport de Mary Meeker, une figure respectée dans le domaine de la technologie, révèle que la croissance de ChatGPT sur trois ans est plus rapide que celle de Google Search. Le rapport, qui compte 360 pages, met en évidence une croissance annuelle de 260 % des données de modèle d'entraînement IA depuis 2010 et de 360 % de la puissance de calcul d'entraînement. Les graphiques du rapport montrent que les entreprises adoptent rapidement l'IA, avec une croissance de l'écosystème Google de 5 fois depuis mai dernier. Meeker prédit que dans quelques années, toutes les entreprises utiliseront des agents IA pour leurs expériences clients. Le rapport mesure également l'adoption de l'IA par rapport à d'autres innovations technologiques, montrant que l'IA est adoptée beaucoup plus rapidement. Les performances des LLM chinois prennent de l'avance, ce qui pourrait avoir des implications profondes. Les entreprises embrassent l'IA, avec 75 % des directeurs marketing mondiaux expérimentant l'IA et des dépenses en capital augmentant. L'IA est en train de révolutionner la façon dont nous interagissons avec la technologie et le rapport de Meeker fournit un aperçu complet de l'état actuel de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684079630d59db6ca327eba4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 06 Jun 2025 08:59:00 GMT"
+    },
+    {
+        "title": "L'avènement de l'AGI et son impact sur l'emploi",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/06/06/double-whammy-when-agi-embeds-with-humanoid-robots-and-occupies-both-white-collar-and-blue-collar-jobs/?ss=ai",
+        "body": "Titre : L'avènement de l'AGI et son impact sur l'emploi",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 06 Jun 2025 07:00:00 GMT"
+    },
+    {
         "title": "Visualisations de données financières en mode IA",
         "link": "https://blog.google/products/search/ai-mode-data-visualization/",
         "body": "Google lance des visualisations de graphiques interactifs en mode IA pour aider à l'interprétation des données financières. Désormais, les utilisateurs peuvent comparer et analyser les informations sur une période spécifique et obtenir un graphique interactif ainsi qu'une explication détaillée adaptée à leur requête. Le mode IA utilise le raisonnement avancé à plusieurs étapes et les capacités multimodales de Gemini pour comprendre l'intention de la question, accéder aux informations en temps réel et historiques, et présenter les informations de manière intelligente.",
@@ -285,26 +299,5 @@
         "body": "Glance AI, une plateforme de commerce basée sur l'IA qui utilise l'outil de génération d'images Imagen 4 de Google DeepMind, permet aux utilisateurs de télécharger un selfie et de parcourir des rendus photoréalistes d'eux-mêmes portant des vêtements de plus de 400 marques. Glance AI, soutenue par Google et Jio, s'associe à Samsung pour offrir ses services à 50 millions d'utilisateurs de téléphones Samsung via une application d'écran de verrouillage. L'application génère des recommandations de tenues basées sur un seul selfie, en tenant compte des données locales et des tendances en temps réel. Glance AI offre une nouvelle expérience d'achat, en montrant aux utilisateurs des produits qu'ils n'auraient peut-être pas envisagés autrement. L'interface permet aux utilisateurs de parcourir, d'enregistrer et de définir des looks comme fond d'écran, tout en mettant en évidence les offres limitées dans le temps et les styles saisonniers. Glance AI ne conserve pas les photos des utilisateurs et la société a engagé 200 millions de dollars pour son développement futur, avec des partenariats potentiels avec d'autres fabricants de téléphones Android.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68403c9d160441952854a151/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 04 Jun 2025 12:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : adapter les compétences et accélérer l'innovation",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/04/big-ai-trends-rock-business/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683f2cd9b637a3fa56133811/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 04 Jun 2025 09:14:00 GMT"
-    },
-    {
-        "title": "Flow : une application de dictée assistée par IA pour iOS",
-        "link": "https://www.forbes.com/sites/marksparrow/2025/06/04/wisprs-flow-dictation-software-is-now-available-to-use-on-iphones/?ss=ai",
-        "body": "Flow, une nouvelle application de dictée développée par Wispr, utilise l'IA pour améliorer la précision de la transcription de la parole en texte. L'application fonctionne à l'intérieur de toutes les autres applications, telles que Slack, Messages, Mail ou Word, et est conçue pour transformer la parole naturelle, avec ses hésitations et ses fautes, en texte écrit poli et correctement formaté. L'IA élimine les mots de remplissage, corrige les erreurs de prononciation et améliore la syntaxe et l'orthographe. Flow peut également apprendre le langage de l'utilisateur, en mémorisant les noms, acronymes et phrases personnalisés dans un dictionnaire personnel. L'application est disponible gratuitement pour iOS, avec une limite de 2 000 mots par semaine, et une version Pro illimitée avec des fonctionnalités avancées est proposée pour 12 $ par mois.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684003ddf0dc5c3eb10b6ae7/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 04 Jun 2025 09:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service de l'architecture",
-        "link": "https://www.forbes.com/sites/kathleenwalch/2025/06/04/from-concept-to-construction-the-impact-of-ai-in-architecture/?ss=ai",
-        "body": "L'IA transforme le domaine de l'architecture, en permettant de concevoir des bâtiments plus intelligents, plus rapidement et de manière plus adaptable. Les outils de conception générative utilisent l'IA pour proposer diverses options de design viables, en tenant compte des objectifs, des contraintes et des spécifications de matériaux. L'IA gère également certaines tâches répétitives, laissant ainsi plus de temps aux architectes pour la créativité. \n\nL'IA améliore également la sélection des matériaux en évaluant des facteurs tels que la durabilité, le coût et l'impact environnemental. De plus, l'analyse structurelle assistée par l'IA permet de simuler des scénarios du monde réel, identifiant les points faibles et suggérant des renforcements. L'IA joue aussi un rôle dans la sélection des sites de construction, en évaluant la topographie, la réglementation et les données climatiques. \n\nDe plus, l'IA aide à estimer les coûts de manière plus précise en analysant les données de prix historiques et les tendances actuelles. Elle permet également de prendre en compte la durabilité dès le début du processus de design, en suggérant des modifications pour réduire l'empreinte carbone sans sacrifier l'esthétique. \n\nEnfin, l'IA améliore la gestion de projet, en identifiant les retards potentiels et en réaffectant les ressources. Intégrée aux plateformes BIM, l'IA détecte les problèmes potentiels et garantit que toutes les parties prenantes travaillent à partir des plans les plus à jour. L'IA ne remplace pas les architectes, mais les rend plus efficaces et mieux équipés pour relever les défis futurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/683b5a1d7cb9abd3821a6ed2/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 04 Jun 2025 07:00:00 GMT"
     }
 ]
