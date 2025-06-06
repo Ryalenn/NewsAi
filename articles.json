@@ -133,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Qualcomm se prépare au divorce avec Apple",
+        "title": "Qualcomm se pr\u00e9pare au divorce avec Apple",
         "link": "https://www.frandroid.com/marques/2638229_qualcomm-se-prepare-au-divorce-avec-apple",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-11-2-1200x900-1-768x576.jpg?resize=225,225&key=20b2d649",
         "date": "Wed, 04 Jun 2025 23:00:00 GMT",
@@ -243,5 +243,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6842d109d95b659c01d49129/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 06 Jun 2025 11:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.eater.com/24443368/instagrams-recipe-sharing-chatbots",
+        "image": "",
+        "date": "Fri, 06 Jun 2025 16:22:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/680626/x-ai-training-ban-posts#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK160_X_TWITTER__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 05 Jun 2025 17:05:53 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/VRG_DCD_0605.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 05 Jun 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/06/06/how-sap-is-managing-ai-and-data-to-meet-erp-customers-where-they-are/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6843047005626a37b2b4acdd/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 06 Jun 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jasonsnyder/2025/06/06/ai-context-and-code-the-quiet-revolution-reshaping-technology/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68430b67a9842c9ffe29248e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 06 Jun 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/virginieberger/2025/06/06/what-suno-and-udios-ai-licensing-deals-with-music-majors-could-mean-for-creators-rights/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68423eff2911038d366751c1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 06 Jun 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
