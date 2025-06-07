@@ -14,13 +14,6 @@
         "date": "Thu, 05 Jun 2025 17:05:53 GMT"
     },
     {
-        "title": "L'avenir du cinéma avec l'IA",
-        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube#comments",
-        "body": "Résumé : \n\nLe PDG de Runway, une plateforme de génération vidéo par IA, discute de l'impact de l'IA sur l'industrie cinématographique, abordant des sujets tels que les droits d'auteur, la collaboration avec les studios majeurs et la démocratisation du processus cinématographique. Il prévoit un avenir où l'IA réduira les coûts et démocratisera le cinéma, permettant à de nouvelles voix de partager leurs histoires.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/VRG_DCD_0605.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 05 Jun 2025 00:00:00 GMT"
-    },
-    {
         "title": "L'avenir de l'IA chez SAP",
         "link": "https://www.forbes.com/sites/moorinsights/2025/06/06/how-sap-is-managing-ai-and-data-to-meet-erp-customers-where-they-are/?ss=ai",
         "body": "SAP Sapphire 2025 a mis en évidence l'engagement de SAP à aider les clients à s'adapter aux nouvelles règles commerciales, réglementations et technologies. L'entreprise a présenté une approche modulaire axée sur l'IA intégrée, des plateformes de données flexibles et des outils adaptés aux besoins des organisations. SAP unifie sa plateforme en intégrant étroitement la Business Technology Platform, SAP Business Suite et Business Data Cloud. Le BDC, offrant un environnement géré unique pour les données SAP et non-SAP, réduit la fragmentation et simplifie l'accès et l'analytique. SAP Build, avec des fonctionnalités IA, facilite la création d'applications. Joule, l'assistant IA de SAP, est désormais intégré à SAP Build, Analytics Cloud et à des applications métier clés, devenant un outil quotidien. La stratégie IA de SAP, axée sur l'IA intégrée, comprend le « Business AI flywheel », associant applications, données en temps réel et IA. SAP présente également AI Foundation pour la création, la gestion et le déploiement d'agents IA. L'accent est mis sur 400 cas d'utilisation IA d'ici fin 2025. De nouvelles applications intelligentes basées sur BDC ciblent des besoins spécifiques. La transformation ERP reste une priorité, avec RISE with SAP et GROW with SAP adaptés aux besoins des clients existants et nouveaux. SAP élargit son écosystème de partenaires, notamment Google Cloud, Microsoft, AWS, Accenture, Palantir, Cohere et d'autres, pour renforcer ses capacités IA et données. Les clients ont exprimé des préoccupations concernant la clarté des prix, la complexité du passage au cloud et les défis liés à la cartographie des outils aux cas d'utilisation pratiques. SAP répond en se concentrant sur des feuilles de route pratiques et des solutions concrètes.",
@@ -75,27 +68,6 @@
         "body": "Titre : L'avènement de l'AGI et son impact sur l'emploi",
         "image": "https://imageio.forbes.com/specials-images/imageserve/628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 06 Jun 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Adieu le zoom optique ?",
-        "link": "https://www.frandroid.com/produits-android/photo/2639451_adieu-le-zoom-optique-sur-smartphone-cette-technologie-pourrait-tout-changer",
-        "body": "Des chercheurs coréens ont développé une technologie d'IA capable d'agrandir une image jusqu'à 256 fois sa taille originale, surpassant ainsi les capacités du zoom numérique traditionnel. Baptisée Chain-of-Zoom (CoZ), cette technologie utilise un modèle de langage visuel pour décrire le contenu de l'image, puis un algorithme de super-définition crée une version plus détaillée en ajoutant des éléments plausibles. Bien que cette approche permette d'obtenir des images cohérentes et convaincantes, elle soulève des questions éthiques car les détails générés sont inventés par l'IA et ne correspondent pas nécessairement à la réalité. Cette technologie pourrait révolutionner la photographie mobile en rendant obsolète la course aux multiples objectifs zoom dans les smartphones, tout en améliorant leur design et leur autonomie.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/chain-of-zoom-coz-system-des-kaist-1749123203-0-0-768x624.jpg?resize=244,244&key=71ad6c43",
-        "date": "Wed, 04 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT s'intègre à Google Drive, transformant l'IA en un assistant de bureau puissant",
-        "link": "https://www.frandroid.com/culture-tech/2638269_chatgpt-veut-la-peau-de-google-gemini-avec-cette-nouvelle-fonction",
-        "body": "Résumé : OpenAI a récemment annoncé que ChatGPT peut désormais s'intégrer directement à Google Drive, ainsi qu'à d'autres services de stockage cloud populaires. Cette fonctionnalité transforme l'IA en un assistant de bureau polyvalent, capable d'analyser et d'interpréter des documents en temps réel, tout en respectant les autorisations et la sécurité des données. Cette approche permet aux utilisateurs d'accéder à des informations précises sans avoir à jongler entre différentes applications. De plus, ChatGPT peut également transcrire et résumer les réunions, identifiant les points de décision et les actions à entreprendre, ce qui en fait un outil puissant pour les entreprises. Cette intégration place OpenAI en concurrence directe avec Google Gemini et Microsoft 365, soulignant la croissance rapide de l'IA générative dans le secteur professionnel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/comparo-google-chatgpt-1200x674-1-768x431.jpg?resize=169,169&key=e9f6a06c",
-        "date": "Wed, 04 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Qualcomm se tourne vers l'IA et Android",
-        "link": "https://www.frandroid.com/marques/2638229_qualcomm-se-prepare-au-divorce-avec-apple",
-        "body": "Face à la perte imminente d'Apple comme client, le PDG de Qualcomm, Cristiano Amon, adopte une stratégie diversifiée. L'entreprise se concentre sur le marché Android, tout en investissant massivement dans l'intelligence artificielle, visant à devenir un acteur majeur dans les puces pour centres de données IA. La perte d'Apple représente un manque à gagner important, mais Qualcomm compte sur ses Snapdragon pour maintenir sa position face à Samsung et Google. L'entreprise se tourne également vers de nouveaux marchés en forte croissance, tels que l'automobile, l'Internet des objets et les serveurs IA, tout en continuant à explorer le marché des PC avec ses puces Snapdragon X.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-11-2-1200x900-1-768x576.jpg?resize=225,225&key=20b2d649",
-        "date": "Wed, 04 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Visualisations de données financières en mode IA",
@@ -180,20 +152,6 @@
         "body": "Mixus.ai est une plateforme d'intelligence artificielle collaborative qui intègre la participation humaine pour garantir la précision des résultats. La plateforme recommande des experts humains en plus des réponses générées par l'IA, permettant aux utilisateurs de discuter avec eux et d'améliorer ainsi la précision. L'outil « collègue dans la boucle » de Mixus.ai permet aux agents IA de réaliser diverses tâches, telles que la création de publications sur les réseaux sociaux ou de listes, avec la possibilité pour les utilisateurs de faire réviser et vérifier les contenus par des êtres humains de confiance avant leur publication. La plateforme ne nécessite aucune compétence en codage ou en programmation, seulement la capacité de lire et d'écrire. Les investisseurs soutiennent la vision de Mixus.ai, qui a récemment levé 2,6 millions de dollars lors d'un tour de table pré-amorçage. La plateforme est accessible par abonnement, avec un essai gratuit de 14 jours.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/683e27d174445a729168ca6a/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 05 Jun 2025 11:59:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : innovations et collaborations",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
-        "body": "ChatGPT d'OpenAI introduit une nouvelle fonctionnalité qui rivalise avec Google Gemini, tandis que Nvidia et Materiel.net dévoilent un PC RTX AI puissant. Microsoft explore la création d'avatars avec Copilot, et les géants de la musique envisagent de confier davantage de tâches à l'IA. Apple cherche à améliorer son IA, et Samsung s'associe à Perplexity, un concurrent de Google, pour réduire sa dépendance envers ce dernier.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/comparo-google-chatgpt-1200x674-1-768x431.jpg?resize=169,169&key=e9f6a06c",
-        "date": "Wed, 04 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Qualcomm se tourne vers l'IA et l'Android",
-        "link": "https://www.frandroid.com/marques/apple/2638229_qualcomm-se-prepare-au-divorce-avec-apple",
-        "body": "Le PDG de Qualcomm, Cristiano Amon, a annoncé dans un podcast que l'entreprise se préparait à un futur sans Apple, diversifiant ainsi ses activités. Cette transition est due à la volonté d'Apple de contrôler entièrement sa chaîne technologique, y compris les modems 5G, auparavant fournis par Qualcomm. La perte d'Apple représente un manque à gagner important pour Qualcomm, qui se tourne vers le marché Android et investit massivement dans l'intelligence artificielle pour les centres de données IA, visant à concurrencer Nvidia. L'entreprise mise également sur l'automobile, l'IoT et les serveurs IA pour compenser la perte de revenus.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-11-2-1200x900-1-768x576.jpg?resize=225,225&key=20b2d649",
-        "date": "Wed, 04 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Améliorer l'efficacité de la FDA avec l'IA",
