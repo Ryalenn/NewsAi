@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'illusion du raisonnement",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/?ss=ai",
+        "body": "L'étude d'Apple, \"The Illusion of Thinking\", a mis en évidence les limites des modèles de langage sophistiqués, révélant qu'ils ne sont finalement que des machines à reconnaître des patterns complexes, sans réelle compréhension ni raisonnement. Les modèles de raisonnement, même les plus avancés, s'effondrent face à des tâches complexes, ne faisant que simuler l'intelligence sans en posséder les mécanismes sous-jacents. Cette découverte met en lumière l'importance de distinguer l'apparence de l'intelligence de sa réalité, avec des implications profondes pour l'évaluation et le déploiement des systèmes d'IA. L'article explore également le parallèle entre cette limite de l'IA et un biais cognitif humain, soulignant l'importance de l'humilité intellectuelle dans l'évaluation de l'intelligence, qu'elle soit artificielle ou humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6847825ddc031ce769fcd21b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Jun 2025 00:59:00 GMT"
+    },
+    {
         "title": "Apple Intelligence : de nouvelles fonctionnalités pour une expérience utilisateur améliorée",
         "link": "https://www.apple.com/newsroom/2025/06/apple-intelligence-gets-even-more-powerful-with-new-capabilities-across-apple-devices/#:~:text=next-,News%20Ways%20to%20Explore%20Creativity%20with%20Updates%20to%20Genmoji%20and%20Image%20Playground,-Genmoji%20and%20Image",
         "body": "Apple a annoncé de nouvelles fonctionnalités pour Apple Intelligence, améliorant l'expérience utilisateur sur ses différents appareils. Live Translation élimine les barrières linguistiques dans Messages, FaceTime et Phone. Genmoji et Image Playground offrent de nouvelles façons de s'exprimer. La recherche visuelle permet d'interagir avec le contenu à l'écran. Workout Buddy sur Apple Watch motive les utilisateurs pendant leur entraînement. Les développeurs peuvent accéder au modèle de base d'Apple Intelligence pour créer des expériences privées et intelligentes. Shortcuts est désormais plus intelligent et intégré à Apple Intelligence.",
@@ -12,6 +19,13 @@
         "body": "L'article résume les idées de Nathaniel Whittemore, animateur du podcast AI Daily Brief, sur l'avenir des entreprises de conseil à l'ère de l'IA. Whittemore prédit que des tâches juridiques et comptables seront déléguées à l'IA, entraînant une restructuration des entreprises de conseil. Il suggère une division entre les entreprises réduisant leurs effectifs et celles adoptant une approche flexible avec des partenaires et des consultants. De plus, il souligne l'importance des petites organisations agiles et prédit l'émergence de nouvelles lignes de produits et de pratiques. Whittemore met également en avant la valeur de la prototypisation et des frameworks pour l'avenir de l'IA, ainsi que l'importance des données, de l'analyse et des systèmes pour l'itération continue. Enfin, il souligne que les entreprises devront s'adapter aux changements rapides causés par la révolution de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6824a439282fbcaeec03cbe4/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 09 Jun 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Lutte contre la triche avec l'IA",
+        "link": "https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season#comments",
+        "body": "Pour préserver l'intégrité des examens d'entrée à l'université en Chine, des entreprises d'IA comme Alibaba et ByteDance ont temporairement désactivé des fonctionnalités de reconnaissance d'image sur leurs applications de chatbot populaires. Cette décision vise à empêcher les étudiants de tricher pendant les épreuves, qui sont très compétitives, avec plus de 13,3 millions de participants. Les applications Qwen d'Alibaba et Doubao de ByteDance ont suspendu la reconnaissance d'image pour les questions liées aux épreuves, tandis que Yuanbao de Tencent et Kimi de Moonshot ont interrompu complètement leurs services de reconnaissance d'image pendant les heures d'examen. Ces mesures soulignent l'impact croissant de l'IA dans l'éducation et la nécessité de gérer les risques potentiels de triche associés à ces technologies.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 09 Jun 2025 14:12:54 GMT"
     },
     {
         "title": "Les limites de la raison",
