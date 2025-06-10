@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple's WWDC 2025: Innovations et mises à jour",
+        "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
+        "body": "Résumé : \n\nApple a présenté plusieurs nouveautés lors de sa conférence WWDC 2025, notamment la mise à disposition de son modèle linguistique pour les développeurs d'applications, l'intégration de ChatGPT dans Image Playground, et une nouvelle application Games centralisant les jeux et les fonctionnalités de jeu. La société a également dévoilé iOS 26, macOS Tahoe 26, et d'autres mises à jour de systèmes d'exploitation, introduisant un nouveau langage de design appelé Liquid Glass. Parmi les autres annonces figurent des améliorations de Siri, des fonctionnalités de traduction en direct, et l'ouverture de l'accès à l'intelligence artificielle d'Apple pour les développeurs. La conférence a également abordé les mises à jour pour AirPods, iPadOS, et Spotlight, ainsi que la fin du support pour les Macs équipés de puces Intel.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Tue, 10 Jun 2025 11:33:37 GMT"
+    },
+    {
         "title": "Alphafold 3 : la nouvelle version d'un outil révolutionnaire pour la découverte de médicaments",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/10/alphafold-3-extends-modeling-capacity-to-more-biological-targets/?ss=ai",
         "body": "La dernière version d'Alphafold, un outil de modélisation des protéines, élargit son champ d'application à un spectre plus large de structures moléculaires, y compris les ligands et les ions. La nouvelle architecture « Pairformer » améliore la précision des prédictions. Les créateurs d'Alphafold ont remporté un prix Nobel pour leur technologie innovante. La version la plus récente, Alphafold 3, est partiellement open source, avec un accès limité à certains poids et aspects technologiques. L'outil transforme le processus de découverte de médicaments, permettant une identification plus rapide et efficace des cibles, réduisant ainsi le besoin de tests coûteux sur les animaux et les humains. La technologie Alphafold est applicable à un large éventail de médicaments et pourrait potentiellement réduire leurs coûts.",
@@ -19,6 +26,13 @@
         "body": "Apple introduit une nouvelle fonctionnalité, Hold Assist, dans iOS 26, qui utilise l'intelligence artificielle pour surveiller la file d'attente téléphonique à votre place. Hold Assist analyse les signaux audio pour détecter les musiques d'attente, les messages pré-enregistrés et les indices sonores indiquant la reprise de la conversation. Pendant ce temps, les utilisateurs peuvent vaquer librement à d'autres occupations sur leur iPhone. La fonction évite que l'opérateur ne raccroche en pensant que l'appelant a abandonné, en détectant le moment où un opérateur s'apprête à répondre et en reconnectant l'appel. Cette fonctionnalité s'inspire de « Hold For Me » de Google, introduite en 2018.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/wwdc-2025-june-9-apple-23-34-screenshot-768x432.jpg?resize=169,169&key=e1d03439",
         "date": "Mon, 09 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de Siri",
+        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race#comments",
+        "body": "Bien qu'Apple ait présenté de nombreuses nouvelles fonctionnalités lors de sa WWDC 2025, Siri a été notablement absente des discussions. L'entreprise a mentionné brièvement des mises à jour pour rendre Siri « plus naturel et plus utile », mais les fonctionnalités de personnalisation sont toujours en attente. Apple a fait l'objet de critiques pour les lacunes de son intelligence artificielle et a pris du retard sur ses concurrents dans la course à la création d'applications et de services d'IA générative. La société a présenté une série de petites mises à jour fonctionnelles alimentées par Apple Intelligence et en partie par ChatGPT, notamment l'intégration de la technologie OpenAI et des fonctionnalités de traduction en direct. Cependant, les utilisateurs attendent toujours qu'Apple élargisse ses options d'IA au-delà de ChatGPT, par exemple en permettant à Siri d'accéder à Gemini de Google pour les requêtes complexes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
+        "date": "Mon, 09 Jun 2025 22:02:42 GMT"
     },
     {
         "title": "Apple Intelligence : de nouvelles fonctionnalités pour une expérience utilisateur améliorée",
