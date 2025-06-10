@@ -1,10 +1,24 @@
 [
     {
+        "title": "La nouvelle ère des présentations : alimentée par l'IA",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/10/chronicle-ai-presentations-launches-with-100000-user-waitlist/?ss=ai",
+        "body": "Chronicle, une startup de présentation assistée par l'IA, a été lancée la semaine dernière, offrant un nouveau format de storytelling moderne. Chronicle se distingue de PowerPoint en proposant une toile libre et des widgets interactifs, l'IA gérant la recherche, le flux narratif et l'exécution de la conception. L'outil garantit des présentations visuellement attrayantes et percutantes, tout en permettant à l'utilisateur de garder le contrôle sur le contenu. Avec un intérêt explosif et une liste d'attente de 100 000 utilisateurs, dont 10 000 entreprises, Chronicle révolutionne le domaine des présentations, en mettant l'accent sur la qualité et l'impact visuel. La startup a déjà levé 7,5 millions de dollars et prévoit de monétiser avec un modèle SaaS freemium.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68482dca910750b614b381d2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Jun 2025 13:00:00 GMT"
+    },
+    {
         "title": "Apple's WWDC 2025: Innovations et mises à jour",
         "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
         "body": "Résumé : \n\nApple a présenté plusieurs nouveautés lors de sa conférence WWDC 2025, notamment la mise à disposition de son modèle linguistique pour les développeurs d'applications, l'intégration de ChatGPT dans Image Playground, et une nouvelle application Games centralisant les jeux et les fonctionnalités de jeu. La société a également dévoilé iOS 26, macOS Tahoe 26, et d'autres mises à jour de systèmes d'exploitation, introduisant un nouveau langage de design appelé Liquid Glass. Parmi les autres annonces figurent des améliorations de Siri, des fonctionnalités de traduction en direct, et l'ouverture de l'accès à l'intelligence artificielle d'Apple pour les développeurs. La conférence a également abordé les mises à jour pour AirPods, iPadOS, et Spotlight, ainsi que la fin du support pour les Macs équipés de puces Intel.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
         "date": "Tue, 10 Jun 2025 11:33:37 GMT"
+    },
+    {
+        "title": "Panne de ChatGPT",
+        "link": "https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025",
+        "body": "Le service ChatGPT d'OpenAI a connu des problèmes de performance le mardi matin, avec des temps de réponse lents ou aucune réponse pour certains utilisateurs. La plateforme a affiché un message d'erreur « Hmm... quelque chose semble avoir mal tourné ». Downdetector a signalé des problèmes à partir de 3h du matin, heure de l'Est, dans plusieurs régions du monde. La page de statut d'OpenAI a indiqué des « taux d'erreur et une latence élevés » pour ChatGPT, son outil Sora text-to-video AI et les API OpenAI. Perplexity, un moteur de recherche basé sur l'IA qui utilise certains modèles OpenAI, a également connu des pannes et signalé des « taux d'erreur élevés et de la lenteur ». OpenAI a identifié la cause racine du problème et travaille sur une solution.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 10 Jun 2025 09:39:55 GMT"
     },
     {
         "title": "Alphafold 3 : la nouvelle version d'un outil révolutionnaire pour la découverte de médicaments",
@@ -14,11 +28,32 @@
         "date": "Tue, 10 Jun 2025 08:29:00 GMT"
     },
     {
+        "title": "La montée en puissance de Huawei dans l'IA",
+        "link": "https://www.ft.com/content/83ffcfde-9875-44f7-a1af-2b216bb4b4dc",
+        "body": "Bien que Huawei ait profité de l'interdiction par les États-Unis des expéditions de puces Nvidia en Chine, la majorité des entreprises chinoises d'IA, dont DeepSeek, utilisent toujours les puces Nvidia pour entraîner leurs modèles linguistiques massifs. Huawei a fait des progrès pour résoudre les problèmes techniques liés à l'utilisation de ses puces pour l'entraînement, et sa nouvelle serveur CloudMatrix 384 AI est au cœur de sa stratégie pour concurrencer Nvidia. Huawei investit massivement dans la R&D, y compris dans la recherche fondamentale, et affirme que la Chine a des avantages distinctifs en matière d'IA grâce à ses infrastructures électriques et de télécommunications de pointe.",
+        "image": "",
+        "date": "Tue, 10 Jun 2025 08:15:33 GMT"
+    },
+    {
         "title": "L'illusion du raisonnement",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/?ss=ai",
         "body": "L'étude d'Apple, \"The Illusion of Thinking\", a mis en évidence les limites des modèles de langage sophistiqués, révélant qu'ils ne sont finalement que des machines à reconnaître des patterns complexes, sans réelle compréhension ni raisonnement. Les modèles de raisonnement, même les plus avancés, s'effondrent face à des tâches complexes, ne faisant que simuler l'intelligence sans en posséder les mécanismes sous-jacents. Cette découverte met en lumière l'importance de distinguer l'apparence de l'intelligence de sa réalité, avec des implications profondes pour l'évaluation et le déploiement des systèmes d'IA. L'article explore également le parallèle entre cette limite de l'IA et un biais cognitif humain, soulignant l'importance de l'humilité intellectuelle dans l'évaluation de l'intelligence, qu'elle soit artificielle ou humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6847825ddc031ce769fcd21b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 10 Jun 2025 00:59:00 GMT"
+    },
+    {
+        "title": "Apple repousse Siri IA à 2026",
+        "link": "https://www.frandroid.com/marques/apple/2643403_apple-maitre-du-controle-devient-lesclave-de-chatgpt-faute-de-siri-ia",
+        "body": "Apple a annoncé lors de la WWDC 2025 que la sortie de Siri IA, sa nouvelle version de l'assistant personnel, était repoussée à 2026. Initialement prévue pour 2024, puis 2025, cette nouvelle version de Siri devait comprendre le contexte personnel de l'utilisateur et agir au sein de ses applications. Apple a admis que la technologie n'était pas encore au point, avec un taux d'échec de 33 %. La société a remplacé le responsable du projet et s'appuie de plus en plus sur OpenAI et ChatGPT pour combler ce retard. Ce retard soulève des questions sur la capacité d'Apple à développer des technologies IA avancées en interne et sur la stratégie de l'entreprise face à la concurrence croissante dans le domaine de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-26-768x432.jpg?resize=169,169&key=d0edfe4b",
+        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Panne de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2643343_panne-de-gpt-lia-generative-dopenai-ne-repond-plus-aux-requetes",
+        "body": "Le service d'IA générative ChatGPT d'OpenAI a connu une panne importante le mardi 10 juin 2025, renvoyant des messages d'erreur aux utilisateurs. La panne a commencé vers 11 heures, avec un pic avant 14 heures. OpenAI a reconnu le problème, indiquant des \"erreurs élevées et une latence\" sur ChatGPT et Sora, et travaille sur un correctif. La cause de la panne n'a pas été dévoilée, mais la communauté d'utilisateurs attend avec impatience une résolution rapide.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=aa53badd",
+        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Attente téléphonique : libération grâce à l'IA",
