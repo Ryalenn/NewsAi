@@ -63,14 +63,14 @@
         "check": "yes"
     },
     {
-        "title": "Comment Apple veut stopper les appels qui vous dérangent en copiant une fonction de Google",
+        "title": "Comment Apple veut stopper les appels qui vous d\u00e9rangent en copiant une fonction de Google",
         "link": "https://www.frandroid.com/marques/2642545_comment-apple-veut-stopper-les-appels-qui-vous-derangent",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/wwdc-2025-june-9-apple-22-43-screenshot-768x432.jpg?resize=169,169&key=78ec94d8",
         "date": "Sun, 08 Jun 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Vous avez loupé l’Apple WWDC 2025 ? Voici le résumé express",
+        "title": "Vous avez loup\u00e9 l\u2019Apple WWDC 2025 ? Voici le r\u00e9sum\u00e9 express",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2642517_vous-avez-loupe-lapple-wwdc-2025-voici-le-resume-express",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/wwdc-2025-june-9-apple-5-14-screenshot-768x432.jpg?resize=169,169&key=3cace561",
         "date": "Sun, 08 Jun 2025 23:00:00 GMT",
@@ -166,5 +166,40 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
         "date": "Mon, 09 Jun 2025 22:02:42 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/apple/2643403_apple-maitre-du-controle-devient-lesclave-de-chatgpt-faute-de-siri-ia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-26-768x432.jpg?resize=169,169&key=d0edfe4b",
+        "date": "Mon, 09 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2643343_panne-de-gpt-lia-generative-dopenai-ne-repond-plus-aux-requetes",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=aa53badd",
+        "date": "Mon, 09 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141?st=VijXkj&reflink=desktopwebshare_permalink",
+        "image": "",
+        "date": "Tue, 10 Jun 2025 12:55:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 10 Jun 2025 09:39:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/10/chronicle-ai-presentations-launches-with-100000-user-waitlist/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68482dca910750b614b381d2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 10 Jun 2025 13:00:00 GMT",
+        "check": "no"
     }
 ]
