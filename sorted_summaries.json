@@ -1,5 +1,12 @@
 [
     {
+        "title": "La stratégie AI-first de Google",
+        "link": "https://www.semafor.com/article/06/11/2025/google-names-new-chief-ai-architect-to-advance-developments",
+        "body": "Google nomme un nouveau responsable pour diriger le développement de ses futurs produits basés sur l'IA. Koray Kavukcuoglu, actuellement CTO de Google DeepMind, devient Chief AI Architect, un poste de vice-président senior rapportant directement au CEO Sundar Pichai. Kavukcuoglu, ancien ingénieur aérospatial et PhD en informatique, a travaillé avec Yann LeCun, pionnier de l'IA, avant de rejoindre DeepMind en 2012. Sous sa direction, Google a pris de l'avance dans certains domaines clés de l'IA, mais doit maintenant transformer ces avancées en produits réussis. Kavukcuoglu sera chargé d'accélérer l'intégration des modèles d'IA de Google dans ses produits, tout en continuant à occuper son poste actuel chez DeepMind. Cette nomination reflète les changements profonds que Google opère depuis l'émergence de ChatGPT, y compris la fusion de DeepMind avec Google Brain et la mise en place de nouvelles méthodes de travail pour accélérer le développement de produits. L'entreprise espère ainsi rattraper son retard en matière d'innovation dans le domaine de l'IA et trouver de nouvelles façons d'utiliser l'IA pour alimenter ses produits, tout en faisant face à la concurrence croissante dans ce domaine.",
+        "image": "",
+        "date": "Wed, 11 Jun 2025 20:51:47 GMT"
+    },
+    {
         "title": "L'avenir de l'information ?",
         "link": "https://www.theverge.com/news/685538/taboola-clickbait-chumbox-ai-chatbot#comments",
         "body": "USA Today et The Independent vont expérimenter un nouveau chatbot développé par Taboola, nommé DeeperDive, qui permettra aux lecteurs de poser des questions et d'obtenir des réponses basées sur les contenus des articles. Ce chatbot utilise l'IA pour fournir des réponses contextuelles et pertinentes, ainsi que des liens vers des articles connexes et des publicités ciblées. DeeperDive est conçu pour améliorer l'engagement des lecteurs et offrir une expérience d'information plus interactive. Lors de son lancement, seuls 1 % des lecteurs de USA Today y auront accès, afin d'évaluer sa qualité et son efficacité. Ce n'est pas la première fois que USA Today expérimente avec l'IA, ayant déjà testé des résumés d'articles générés par IA et des articles de sport, bien que ceux-ci aient suscité des controverses.",
@@ -77,6 +84,13 @@
         "date": "Wed, 11 Jun 2025 00:14:08 GMT"
     },
     {
+        "title": "OpenAI annonce un nouveau modèle linguistique de pointe",
+        "link": "https://www.theverge.com/openai/640073/openai-teases-a-new-open-source-ai-model",
+        "body": "Résumé : OpenAI s'apprête à lancer un nouveau modèle linguistique de pointe accessible à tous. Le PDG Sam Altman a annoncé que la société prévoit de publier un modèle linguistique de poids ouvert avec des capacités de raisonnement dans les prochains mois. Cette annonce fait suite à des indices suggérant que la société s'orientait vers une telle sortie, Altman ayant précédemment déclaré lors d'un AMA sur Reddit que la société avait été \"du mauvais côté de l'histoire\" en matière de modèles de langage ouverts.",
+        "image": "",
+        "date": "Wed, 11 Jun 2025 00:07:56 GMT"
+    },
+    {
         "title": "L'IA dans l'industrie du divertissement : défis et collaborations",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "body": "Résumé : \n\n- Disney et NBC Universal s'opposent à l'IA Midjourney, soulevant des questions éthiques et juridiques.\n- La RATP collabore avec ChatGPT et Nvidia pour innover, démontrant l'adoption croissante de l'IA dans divers secteurs.\n- Apple, malgré son contrôle strict, utilise ChatGPT en raison des limitations de Siri.\n- HP lance un laptop dopé à l'IA avec une puce Snapdragon, désormais à prix réduit.\n- Google Beam, la technologie impressionnante de Google, est désormais disponible à un prix élevé.\n- ChatGPT a connu une panne temporaire, soulignant la nécessité de résilience pour les IA.",
@@ -152,6 +166,13 @@
         "body": "Meta, dirigée par Mark Zuckerberg, est sur le point d'investir près de 15 milliards de dollars dans Scale AI, ce qui en ferait le plus gros investissement externe de l'entreprise. Cet investissement donnerait à Meta une participation de 49 % dans Scale AI et s'accompagnerait du recrutement du PDG de Scale AI, Alexandr Wang, pour diriger une équipe d'une cinquantaine de personnes dédiée à l'accélération des objectifs en matière d'IA, et plus particulièrement à la course vers l'AGI (intelligence artificielle générale). Scale AI est un acteur majeur dans le domaine, fournissant des données d'entraînement à des entreprises leaders telles qu'OpenAI, Google, Microsoft et Meta. L'investissement de Meta reflète sa volonté de rester dans la course à l'IA face à des concurrents comme OpenAI, Anthropic, Google et Microsoft. Cet investissement s'inscrit dans une tendance plus large des géants de la tech à soutenir des startups spécialisées en IA, comme Amazon avec Anthropic et Microsoft avec OpenAI. Scale AI a également conclu des accords importants avec des gouvernements du monde entier, notamment un contrat de cinq ans avec le Qatar et un contrat de plusieurs millions de dollars avec le Département de la Défense des États-Unis.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2204057803.jpg?quality=90&strip=all&crop=0.00815660685155%2C0%2C99.983686786297%2C100&w=2400",
         "date": "Tue, 10 Jun 2025 16:22:43 GMT"
+    },
+    {
+        "title": "Jeux vidéo et protections de l'IA",
+        "link": "https://www.theverge.com/news/684418/sag-aftra-video-game-actors-strike-agreement#comments",
+        "body": "Les acteurs américains membres du Screen Actors Guild ont conclu un accord provisoire avec de grandes entreprises de jeux vidéo, mettant potentiellement fin à une grève de 11 mois. Les détails de l'accord n'ont pas été divulgués, mais il devrait inclure des protections pour les acteurs autour de l'utilisation de l'IA. La grève a commencé après l'échec des négociations entre le syndicat et les entreprises de jeux vidéo sur les protections des travailleurs en matière d'IA. L'accord doit encore être approuvé par le conseil national du SAG-AFTRA et sera soumis à un vote de ratification par les membres du syndicat. Si tout se passe bien, les restrictions empêchant les membres du SAG-AFTRA de travailler sur des projets de jeux vidéo seront levées. Cet accord est considéré comme une victoire pour les acteurs de jeux vidéo, assurant la protection de leurs moyens de subsistance à l'ère de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24788938/STK159_SAG_AFTRA_02.jpg?quality=90&strip=all&crop=0%2C0.0083291687489577%2C100%2C99.983341662502&w=2400",
+        "date": "Tue, 10 Jun 2025 15:28:08 GMT"
     },
     {
         "title": "La nouvelle ère des présentations : alimentée par l'IA",
