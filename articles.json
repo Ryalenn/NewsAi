@@ -161,7 +161,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -208,5 +208,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68498a73edc7f0c81b60bb80/0x0.png?format=png&width=440",
         "date": "Wed, 11 Jun 2025 14:29:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Disney et NBC Universal d\u00e9clarent la guerre \u00e0 l\u2019IA : Midjourney dans le viseur",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
+        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/image-32-2.jpg?resize=203,203&key=f9d54678",
+        "date": "Tue, 10 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/685538/taboola-clickbait-chumbox-ai-chatbot#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/usa-today-deeper-dive.png?quality=90&strip=all&crop=5.1025390625%2C0%2C89.794921875%2C100&w=2400",
+        "date": "Wed, 11 Jun 2025 16:58:16 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 11 Jun 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/web/685232/dia-browser-ai-arc#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/CleanShot-2025-06-11-at-09.47.44%402x.png?quality=90&strip=all&crop=0%2C16.666666666667%2C100%2C66.666666666667&w=2400",
+        "date": "Wed, 11 Jun 2025 14:00:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davidteich/2025/06/11/artificial-intelligence-for-business-another-good-intro-to-the-issues/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/06/11/innovationrx-rfk-jr-purges-the-vaccine-advisory-committee/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68489a41f0facd53b53dd665/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
