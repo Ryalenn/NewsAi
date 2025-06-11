@@ -1,13 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://machinelearning.apple.com/research/illusion-of-thinking",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/illusionof-thinking.jpg?quality=90&strip=all&crop=6.6862601028655%2C0%2C86.627479794269%2C100&w=2400",
-        "date": "Mon, 09 Jun 2025 13:54:37 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.apple.com/newsroom/2025/06/apple-intelligence-gets-even-more-powerful-with-new-capabilities-across-apple-devices/#:~:text=next-,News%20Ways%20to%20Explore%20Creativity%20with%20Updates%20to%20Genmoji%20and%20Image%20Playground,-Genmoji%20and%20Image",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/visual-search-hand.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 09 Jun 2025 18:04:53 GMT",
@@ -15,23 +8,9 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_A.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Mon, 09 Jun 2025 13:26:30 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/09/13-big-hunches-on-ai-and-consultants/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6824a439282fbcaeec03cbe4/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 09 Jun 2025 17:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 09 Jun 2025 14:12:54 GMT",
         "check": "yes"
     },
     {
@@ -210,7 +189,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
