@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution de la création de mondes virtuels",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/11/world-labs-ups-the-ante-in-world-generation/?ss=ai",
+        "body": "Résumé : \n\nWorld Labs, une nouvelle entreprise fondée par Fei-Fei Li de Stanford, a développé une technologie révolutionnaire capable de générer des mondes virtuels détaillés à partir d'une seule image. Cette technologie comprend la lumière, l'ombre et la structure des surfaces, créant ainsi des environnements 3D immersifs et colorés. Bien que la navigation dans ces mondes soit actuellement limitée, cela représente une avancée significative par rapport aux techniques précédentes, qui nécessitaient des milliers d'images pour créer une exploration virtuelle. Cette technologie a de nombreuses applications, allant des visites virtuelles immobilières aux jeux vidéo, et pourrait même révolutionner le métaverse en permettant la création automatique d'environnements. De plus, des outils comme ElevenLabs, Suno, Blender et CapCut, ainsi que le générateur World Labs, ont été utilisés pour créer un court métrage immersif, démontrant ainsi le potentiel de ces technologies dans le domaine de la narration visuelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684089d8959e6b4880e04e0b/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 10:00:00 GMT"
+    },
+    {
         "title": "Le rêve d'AGI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/06/11/could-an-ingenious-solo-coder-be-the-tipping-point-for-turning-ai-into-agi/?ss=ai",
         "body": "Résumé : \n\nL'article explore l'idée répandue dans le domaine de l'IA selon laquelle un développeur indépendant et solitaire pourrait un jour réaliser une percée révolutionnaire et faire avancer l'IA conventionnelle vers l'intelligence artificielle générale (AGI). Il examine les motivations des développeurs d'IA, les complexités de la réalisation de l'AGI, et la possibilité qu'un « loup solitaire » puisse réussir là où les grandes équipes ont échoué. L'article soulève également des préoccupations importantes concernant la sécurité et l'éthique si un individu isolé devait réussir à créer de l'AGI, y compris le risque de domination géopolitique et l'utilisation potentielle par des acteurs malveillants. Enfin, il remet en question la nécessité pour le développeur d'être un génie, suggérant que la chance et la persévérance pourraient également jouer un rôle.",
@@ -12,6 +19,27 @@
         "body": "Bien que la WWDC 2025 d'Apple ait présenté de nouveaux logiciels et fonctionnalités, Siri a été largement ignorée, mis à part quelques mentions de mises à jour mineures. Apple a promis des fonctionnalités de personnalisation mais elles ne sont pas encore disponibles. La société a été critiquée pour les lacunes de son intelligence artificielle et pour avoir pris du retard par rapport à ses concurrents dans le domaine de l'IA. Google et Microsoft intègrent rapidement l'IA dans leurs systèmes d'exploitation, offrant des fonctionnalités telles que la traduction en direct et la recherche visuelle. Apple a introduit des fonctionnalités similaires, mais a été ridiculisée pour les problèmes initiaux de son outil de résumé de notifications. Apple a donné aux développeurs accès à son modèle de langage sur l'appareil, et a introduit des fonctionnalités de traduction en direct. Cependant, il n'y a pas eu d'annonce concernant l'expansion des options d'IA au-delà de ChatGPT, comme l'intégration de Gemini de Google.",
         "image": "",
         "date": "Wed, 11 Jun 2025 00:14:08 GMT"
+    },
+    {
+        "title": "Duel inattendu",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
+        "body": "Dans un duel surprenant, ChatGPT, le modèle omnimodal d'OpenAI, s'est mesuré à une console Atari 2600 émulée aux échecs. Malgré sa technologie de pointe, ChatGPT a été vaincu par l'Atari 2600, démontrant ainsi les limites des modèles de langage en IA. L'ingénieur Robert Jr. Caruso a partagé les détails de ce match inattendu sur LinkedIn, soulignant les difficultés de ChatGPT à reconnaître les pièces et à naviguer sur l'échiquier. Cette expérience remet en perspective la confiance accordée à l'IA, soulignant qu'il s'agit encore de simples modèles avec des imperfections.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
+        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "HP Dimension avec Google Beam",
+        "link": "https://www.frandroid.com/marques/google/2644343_google-beam-la-technologie-bluffante-de-google-a-enfin-un-prix",
+        "body": "Google, en partenariat avec HP, lance le HP Dimension avec Google Beam, un système de visioconférence 3D immersif et innovant. Cette technologie utilise un téléviseur 65 pouces 8K avec la technologie light field display, offrant une impression de profondeur et de présence de l'interlocuteur. Le système intègre des caméras et un audio spatial pour un rendu 3D fidèle des participants, rendant les réunions virtuelles plus naturelles et favorisant une connexion plus profonde. Le produit est destiné aux entreprises, avec une intégration native de Google Meet et une compatibilité avec d'autres logiciels de visioconférence. Le prix est de 25 000 dollars, et plusieurs grandes entreprises ont déjà manifesté leur intérêt.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/hp-dimension-with-google-beam-lifestyle-hero-resized-768x576.jpeg?resize=225,225&key=a0ee4f6a",
+        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA au cœur de l'innovation dans les transports",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2644125_comment-la-ratp-travaille-avec-chatgpt-et-nvidia-pour-ses-prochaines-innovations",
+        "body": "La maison de la RATP, à proximité de la Gare de Lyon, abrite un laboratoire d'innovations, Le Hub, où sont présentées de nouvelles technologies pour le métro parisien et au-delà. L'IA y occupe une place importante, notamment avec ChatGPT, utilisé pour former des agents via des mises en situation virtuelles. La RATP utilise également des machines Nvidia Jetson dans les tunnels du métro pour détecter les graffitis sur les trains et les envoyer au nettoyage. Ces innovations visent à améliorer l'efficacité et la qualité du service de transport, tout en protégeant la vie privée des usagers.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/2025-06-03-point-presse-vivaratp-hamdi-chref-13-resized-768x512.jpeg?resize=200,200&key=c3f077ec",
+        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "L'impact énergétique de ChatGPT",
