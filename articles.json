@@ -189,7 +189,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -215,5 +215,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/684089d8959e6b4880e04e0b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 11 Jun 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Ads-Video-Generator.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 11 Jun 2025 10:45:22 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/11/how-to-make-ai-your-playmate-for-life-4-easy-steps/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684992577c787a9772f1ce62/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 14:29:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/barrycollins/2025/06/11/dia-browser-released---with-ai-that-knows-you-like-a-friend/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68498a73edc7f0c81b60bb80/0x0.png?format=png&width=440",
+        "date": "Wed, 11 Jun 2025 14:29:00 GMT",
+        "check": "no"
     }
 ]
