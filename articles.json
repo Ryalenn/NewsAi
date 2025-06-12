@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Disney et NBC Universal déclarent la guerre à l’IA : Midjourney dans le viseur",
+        "title": "Disney et NBC Universal d\u00e9clarent la guerre \u00e0 l\u2019IA : Midjourney dans le viseur",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/image-32-2.jpg?resize=203,203&key=f9d54678",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -229,5 +229,26 @@
         "image": "",
         "date": "Thu, 12 Jun 2025 13:10:17 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/685985/meta-lawsuit-crushai-nudify-app-ads#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 12:46:12 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/12/the-seven-tells-of-ai-writing/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b0bc8e4eb0efc3769eb9b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/richardnieva/2025/06/12/scale-ais-business-could-collapse-if-meta-buys-a-stake-and-hires-its-ceo/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684afff770b19a13f5a406bc/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
