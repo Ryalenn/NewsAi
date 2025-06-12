@@ -1,24 +1,10 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 11:33:37 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141?st=VijXkj&reflink=desktopwebshare_permalink",
         "image": "",
         "date": "Tue, 10 Jun 2025 12:55:30 GMT",
         "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 09:39:55 GMT",
-        "check": "yes"
     },
     {
         "title": "",
@@ -32,13 +18,6 @@
         "link": "https://www.theverge.com/news/684195/microsoft-edge-ai-browser-history-search-feature#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 10 Jun 2025 12:54:37 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/684121/starling-bank-ai-tool-enhanced-search-spending-habits#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/starlingbank.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 10:57:54 GMT",
         "check": "yes"
     },
     {
@@ -105,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -154,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "Disney et NBC Universal d\u00e9clarent la guerre \u00e0 l\u2019IA : Midjourney dans le viseur",
+        "title": "Disney et NBC Universal déclarent la guerre à l’IA : Midjourney dans le viseur",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/image-32-2.jpg?resize=203,203&key=f9d54678",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
