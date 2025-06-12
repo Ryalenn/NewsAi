@@ -1,5 +1,19 @@
 [
     {
+        "title": "La course vers l'AGI et l'ASI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/06/11/sam-altman-says-ai-has-already-gone-past-the-event-horizon-but-no-worries-since-agi-and-asi-will-be-a-gentle-singularity/?ss=ai",
+        "body": "L'article examine les récentes déclarations de Sam Altman, PDG de OpenAI, sur l'état actuel et futur de l'IA, y compris l'AGI (intelligence artificielle générale) et l'ASI (super-intelligence artificielle). Altman suggère que nous avons déjà dépassé l'horizon des événements de l'IA, avec le décollage déjà en cours. L'auteur explore les implications, y compris les débats sur la pertinence des modèles linguistiques larges et l'incertitude quant à savoir si nous sommes sur la bonne voie. Altman prédit également une singularité douce, suggérant qu'elle est déjà en cours (ou arrivera en 2030 ou 2035), et qu'elle se produira progressivement plutôt qu'instantanément. L'article souligne l'incertitude quant aux dates d'atteinte de l'AGI et de l'ASI, avec des prédictions allant de 2030 à 2040. Enfin, il aborde le débat entre les «doomers de l'IA» et les «accélérationnistes», soulignant les préoccupations éthiques concernant les conséquences potentielles de l'AGI et de l'ASI.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684a25409156aa9db8338193/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 01:01:00 GMT"
+    },
+    {
+        "title": "La révolution de l'édition photo avec l'IA de Google",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/06/11/google-photos-gives-new-ai-photo-editor-to-all-and-its-a-genius-move/?ss=ai",
+        "body": "Google Photos dévoile un nouvel éditeur de photos intelligent, alimenté par l'IA, pour les appareils Android et iOS. L'interface a été repensée et propose désormais des suggestions d'éditions automatiques, accessibles en un seul clic. Les fonctionnalités les plus remarquables incluent la possibilité de sélectionner une partie de l'image pour obtenir des suggestions d'éditions ciblées, ainsi que des outils tels que Focus, Ajouter de la lumière, Affiner et des outils génératifs. L'éditeur est disponible sur les anciens appareils Android (jusqu'à la version 8) et concurrence directement les fonctionnalités d'intelligence artificielle des iPhone et des Samsung Galaxy. La stratégie de Google est de fidéliser les utilisateurs en leur offrant un logiciel photo sophistiqué, les incitant ainsi à faire confiance à Google Photos pour stocker leurs souvenirs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62e2ab907abf7ce9ec9932d8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
+    },
+    {
         "title": "La stratégie AI-first de Google",
         "link": "https://www.semafor.com/article/06/11/2025/google-names-new-chief-ai-architect-to-advance-developments",
         "body": "Google nomme un nouveau responsable pour diriger le développement de ses futurs produits basés sur l'IA. Koray Kavukcuoglu, actuellement CTO de Google DeepMind, devient Chief AI Architect, un poste de vice-président senior rapportant directement au CEO Sundar Pichai. Kavukcuoglu, ancien ingénieur aérospatial et PhD en informatique, a travaillé avec Yann LeCun, pionnier de l'IA, avant de rejoindre DeepMind en 2012. Sous sa direction, Google a pris de l'avance dans certains domaines clés de l'IA, mais doit maintenant transformer ces avancées en produits réussis. Kavukcuoglu sera chargé d'accélérer l'intégration des modèles d'IA de Google dans ses produits, tout en continuant à occuper son poste actuel chez DeepMind. Cette nomination reflète les changements profonds que Google opère depuis l'émergence de ChatGPT, y compris la fusion de DeepMind avec Google Brain et la mise en place de nouvelles méthodes de travail pour accélérer le développement de produits. L'entreprise espère ainsi rattraper son retard en matière d'innovation dans le domaine de l'IA et trouver de nouvelles façons d'utiliser l'IA pour alimenter ses produits, tout en faisant face à la concurrence croissante dans ce domaine.",
@@ -89,6 +103,13 @@
         "body": "Résumé : OpenAI s'apprête à lancer un nouveau modèle linguistique de pointe accessible à tous. Le PDG Sam Altman a annoncé que la société prévoit de publier un modèle linguistique de poids ouvert avec des capacités de raisonnement dans les prochains mois. Cette annonce fait suite à des indices suggérant que la société s'orientait vers une telle sortie, Altman ayant précédemment déclaré lors d'un AMA sur Reddit que la société avait été \"du mauvais côté de l'histoire\" en matière de modèles de langage ouverts.",
         "image": "",
         "date": "Wed, 11 Jun 2025 00:07:56 GMT"
+    },
+    {
+        "title": "L'avenir de Siri",
+        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race#comments",
+        "body": "Résumé : \n\nLors de la WWDC 2025, Apple a présenté de nouveaux logiciels et fonctionnalités, mais Siri a été largement ignoré, mis à part quelques mentions de mises à jour visant à rendre l'assistant plus \"naturel et utile\". Apple a reconnu que certaines fonctionnalités personnalisées promises l'année dernière étaient toujours en cours de développement. La société a introduit des fonctionnalités d'intelligence artificielle dans ses produits, telles que la traduction en direct et l'intégration de ChatGPT, mais l'assistant vocal Siri n'a pas reçu les mêmes mises à niveau importantes que ses concurrents. Apple a été critiqué pour être à la traîne par rapport à des entreprises comme OpenAI, Anthropic et Google dans le domaine de l'IA. La société a introduit des mises à jour fonctionnelles discrètes alimentées par Apple Intelligence et ChatGPT, notamment l'intégration de la technologie OpenAI dans Apple Image Playground. Apple a également donné aux développeurs accès au modèle de langage sur l'appareil derrière Apple Intelligence. Bien que certaines personnes s'attendaient à ce qu'Apple annonce une expansion de ses options d'IA, notamment en permettant à Siri d'utiliser Gemini de Google, cela ne s'est pas produit.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
+        "date": "Tue, 10 Jun 2025 23:23:27 GMT"
     },
     {
         "title": "L'IA dans l'industrie du divertissement : défis et collaborations",
@@ -222,47 +243,5 @@
         "body": "Bien que Huawei ait profité de l'interdiction par les États-Unis des expéditions de puces Nvidia en Chine, la majorité des entreprises chinoises d'IA, dont DeepSeek, utilisent toujours les puces Nvidia pour entraîner leurs modèles linguistiques massifs. Huawei a fait des progrès pour résoudre les problèmes techniques liés à l'utilisation de ses puces pour l'entraînement, et sa nouvelle serveur CloudMatrix 384 AI est au cœur de sa stratégie pour concurrencer Nvidia. Huawei investit massivement dans la R&D, y compris dans la recherche fondamentale, et affirme que la Chine a des avantages distinctifs en matière d'IA grâce à ses infrastructures électriques et de télécommunications de pointe.",
         "image": "",
         "date": "Tue, 10 Jun 2025 08:15:33 GMT"
-    },
-    {
-        "title": "L'illusion du raisonnement",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/09/intelligence-illusion-what-apples-ai-study-reveals-about-reasoning/?ss=ai",
-        "body": "L'étude d'Apple, \"The Illusion of Thinking\", a mis en évidence les limites des modèles de langage sophistiqués, révélant qu'ils ne sont finalement que des machines à reconnaître des patterns complexes, sans réelle compréhension ni raisonnement. Les modèles de raisonnement, même les plus avancés, s'effondrent face à des tâches complexes, ne faisant que simuler l'intelligence sans en posséder les mécanismes sous-jacents. Cette découverte met en lumière l'importance de distinguer l'apparence de l'intelligence de sa réalité, avec des implications profondes pour l'évaluation et le déploiement des systèmes d'IA. L'article explore également le parallèle entre cette limite de l'IA et un biais cognitif humain, soulignant l'importance de l'humilité intellectuelle dans l'évaluation de l'intelligence, qu'elle soit artificielle ou humaine.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6847825ddc031ce769fcd21b/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 10 Jun 2025 00:59:00 GMT"
-    },
-    {
-        "title": "Apple dévoile ses mises à jour logicielles",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2642517_vous-avez-loupe-lapple-wwdc-2025-voici-le-resume-express",
-        "body": "Lors de la WWDC 2025, Apple a présenté ses dernières mises à jour logicielles pour ses différents appareils, adoptant une approche unifiée avec la numérotation basée sur l'année. La nouvelle interface \"Liquid Glass\" apporte une cohérence visuelle à tous les appareils Apple. L'IA est au cœur des nouveautés, avec des fonctionnalités telles que la traduction en temps réel, l'analyse d'images et un coach sportif IA sur Apple Watch. Apple Games centralise l'expérience gaming et l'accès à l'IA est facilité pour les développeurs, bien que Siri reste inchangé. Ces mises à jour seront disponibles à l'automne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/wwdc-2025-june-9-apple-5-14-screenshot-768x432.jpg?resize=169,169&key=3cace561",
-        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple repousse Siri IA à 2026",
-        "link": "https://www.frandroid.com/marques/apple/2643403_apple-maitre-du-controle-devient-lesclave-de-chatgpt-faute-de-siri-ia",
-        "body": "Apple a annoncé lors de la WWDC 2025 que la sortie de Siri IA, sa nouvelle version de l'assistant personnel, était repoussée à 2026. Initialement prévue pour 2024, puis 2025, cette nouvelle version de Siri devait comprendre le contexte personnel de l'utilisateur et agir au sein de ses applications. Apple a admis que la technologie n'était pas encore au point, avec un taux d'échec de 33 %. La société a remplacé le responsable du projet et s'appuie de plus en plus sur OpenAI et ChatGPT pour combler ce retard. Ce retard soulève des questions sur la capacité d'Apple à développer des technologies IA avancées en interne et sur la stratégie de l'entreprise face à la concurrence croissante dans le domaine de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-26-768x432.jpg?resize=169,169&key=d0edfe4b",
-        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Panne de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2643343_panne-de-gpt-lia-generative-dopenai-ne-repond-plus-aux-requetes",
-        "body": "Le service d'IA générative ChatGPT d'OpenAI a connu une panne importante le mardi 10 juin 2025, renvoyant des messages d'erreur aux utilisateurs. La panne a commencé vers 11 heures, avec un pic avant 14 heures. OpenAI a reconnu le problème, indiquant des \"erreurs élevées et une latence\" sur ChatGPT et Sora, et travaille sur un correctif. La cause de la panne n'a pas été dévoilée, mais la communauté d'utilisateurs attend avec impatience une résolution rapide.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=aa53badd",
-        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Attente téléphonique : libération grâce à l'IA",
-        "link": "https://www.frandroid.com/os/ios/2642595_ios-26-apple-libere-enfin-vos-oreilles-des-musiques-dattente-interminables",
-        "body": "Apple introduit une nouvelle fonctionnalité, Hold Assist, dans iOS 26, qui utilise l'intelligence artificielle pour surveiller la file d'attente téléphonique à votre place. Hold Assist analyse les signaux audio pour détecter les musiques d'attente, les messages pré-enregistrés et les indices sonores indiquant la reprise de la conversation. Pendant ce temps, les utilisateurs peuvent vaquer librement à d'autres occupations sur leur iPhone. La fonction évite que l'opérateur ne raccroche en pensant que l'appelant a abandonné, en détectant le moment où un opérateur s'apprête à répondre et en reconnectant l'appel. Cette fonctionnalité s'inspire de « Hold For Me » de Google, introduite en 2018.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/wwdc-2025-june-9-apple-23-34-screenshot-768x432.jpg?resize=169,169&key=e1d03439",
-        "date": "Mon, 09 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de Siri",
-        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race#comments",
-        "body": "Bien qu'Apple ait présenté de nombreuses nouvelles fonctionnalités lors de sa WWDC 2025, Siri a été notablement absente des discussions. L'entreprise a mentionné brièvement des mises à jour pour rendre Siri « plus naturel et plus utile », mais les fonctionnalités de personnalisation sont toujours en attente. Apple a fait l'objet de critiques pour les lacunes de son intelligence artificielle et a pris du retard sur ses concurrents dans la course à la création d'applications et de services d'IA générative. La société a présenté une série de petites mises à jour fonctionnelles alimentées par Apple Intelligence et en partie par ChatGPT, notamment l'intégration de la technologie OpenAI et des fonctionnalités de traduction en direct. Cependant, les utilisateurs attendent toujours qu'Apple élargisse ses options d'IA au-delà de ChatGPT, par exemple en permettant à Siri d'accéder à Gemini de Google pour les requêtes complexes.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
-        "date": "Mon, 09 Jun 2025 22:02:42 GMT"
     }
 ]
