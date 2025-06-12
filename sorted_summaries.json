@@ -1,5 +1,12 @@
 [
     {
+        "title": "La pile commune et les complexités des licences ouvertes pour l'entraînement des modèles linguistiques",
+        "link": "https://michaelweinberg.org/blog/2025/06/12/do-open-datasets-matter/",
+        "body": "Le texte aborde la récente annonce de la création de la Common Pile, un grand ensemble de données pour l'entraînement des modèles linguistiques à grande échelle. La particularité de cet ensemble de données est qu'il est composé exclusivement de textes sous licence ouverte. L'article soulève des questions importantes concernant les licences ouvertes et leur impact sur les droits d'auteur lors de l'entraînement des modèles d'IA. Bien que l'utilisation de données sous licence ouverte puisse sembler une solution évidente pour éviter les problèmes de droits d'auteur, il existe des complexités et des pièges à prendre en compte. L'auteur met en évidence la nécessité de réfléchir attentivement à la manière dont les licences ouvertes interagissent avec l'objectif de créer des modèles libres de toute contrainte basée sur les droits d'auteur. Le texte souligne également les difficultés pratiques liées à la vérification des licences ouvertes sur les plateformes en ligne, ainsi que les conséquences potentielles des erreurs dans ce processus. Enfin, l'article suggère que, bien qu'il soit important de prendre en compte les questions de droits d'auteur, la création d'un ensemble de données sous licence ouverte pourrait néanmoins être une entreprise valable.",
+        "image": "",
+        "date": "Thu, 12 Jun 2025 13:10:17 GMT"
+    },
+    {
         "title": "La menace grandissante des escroqueries assistées par l'IA",
         "link": "https://www.forbes.com/sites/torconstantino/2025/06/12/how-ai-is-supercharging-the-new-wave-of-ai-scams/?ss=ai",
         "body": "Les escroqueries assistées par l'IA sont de plus en plus sophistiquées et répandues, selon une enquête récente. L'histoire de Daniel, qui a perdu plus de 500 000 dollars et a vu sa vie détruite par une escroquerie assistée par l'IA, illustre la dangerosité de ces nouvelles formes de fraude. Les co-fondateurs de CoinStructive, une entreprise aidant les victimes de fraude aux actifs numériques, confirment que l'IA permet aux escrocs de créer des personas hyperréalistes et de lancer des attaques plus rapides et moins coûteuses. La PDG de Data Guardian Network, une initiative axée sur la sécurité et la confidentialité de l'IA, ajoute que l'IA alimente également de nouvelles menaces automatisées et permet aux escrocs d'atteindre un public plus large. Les escroqueries les plus courantes incluent les arnaques à long terme, les imposteurs, les fausses mises à jour de firmware, les arnaques romantiques et les arnaques aux tâches. Les experts partagent des conseils pratiques pour se protéger, tels que traiter les messages directs et les opportunités « urgentes » avec suspicion et vérifier l'exactitude des URL. Malgré les efforts des entreprises pour aider les victimes, les récupérations réussies sont rares.",
@@ -264,19 +271,5 @@
         "body": "Les acteurs américains membres du Screen Actors Guild ont conclu un accord provisoire avec de grandes entreprises de jeux vidéo, mettant potentiellement fin à une grève de 11 mois. Les détails de l'accord n'ont pas été divulgués, mais il devrait inclure des protections pour les acteurs autour de l'utilisation de l'IA. La grève a commencé après l'échec des négociations entre le syndicat et les entreprises de jeux vidéo sur les protections des travailleurs en matière d'IA. L'accord doit encore être approuvé par le conseil national du SAG-AFTRA et sera soumis à un vote de ratification par les membres du syndicat. Si tout se passe bien, les restrictions empêchant les membres du SAG-AFTRA de travailler sur des projets de jeux vidéo seront levées. Cet accord est considéré comme une victoire pour les acteurs de jeux vidéo, assurant la protection de leurs moyens de subsistance à l'ère de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24788938/STK159_SAG_AFTRA_02.jpg?quality=90&strip=all&crop=0%2C0.0083291687489577%2C100%2C99.983341662502&w=2400",
         "date": "Tue, 10 Jun 2025 15:28:08 GMT"
-    },
-    {
-        "title": "La nouvelle ère des présentations : alimentée par l'IA",
-        "link": "https://www.forbes.com/sites/charliefink/2025/06/10/chronicle-ai-presentations-launches-with-100000-user-waitlist/?ss=ai",
-        "body": "Chronicle, une startup de présentation assistée par l'IA, a été lancée la semaine dernière, offrant un nouveau format de storytelling moderne. Chronicle se distingue de PowerPoint en proposant une toile libre et des widgets interactifs, l'IA gérant la recherche, le flux narratif et l'exécution de la conception. L'outil garantit des présentations visuellement attrayantes et percutantes, tout en permettant à l'utilisateur de garder le contrôle sur le contenu. Avec un intérêt explosif et une liste d'attente de 100 000 utilisateurs, dont 10 000 entreprises, Chronicle révolutionne le domaine des présentations, en mettant l'accent sur la qualité et l'impact visuel. La startup a déjà levé 7,5 millions de dollars et prévoit de monétiser avec un modèle SaaS freemium.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68482dca910750b614b381d2/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 10 Jun 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Edge's Enhanced Search",
-        "link": "https://www.theverge.com/news/684195/microsoft-edge-ai-browser-history-search-feature#comments",
-        "body": "Microsoft teste une nouvelle fonctionnalité pour son navigateur Edge, appelée \"recherche améliorée\", qui utilise l'IA pour rechercher dans l'historique de navigation. Cette fonctionnalité facultative permet de trouver des sites Web dans l'historique même en utilisant des phrases, des synonymes ou même des fautes de frappe similaires. L'IA est entraînée sur l'appareil de l'utilisateur, garantissant ainsi la confidentialité des données. Parallèlement, Microsoft ajoute un centre de contrôle multimédia à Edge, permettant de gérer plusieurs sources médiatiques à partir de sites Web.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 12:54:37 GMT"
     }
 ]
