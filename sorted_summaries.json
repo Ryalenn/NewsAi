@@ -1,5 +1,12 @@
 [
     {
+        "title": "Décoder le langage des baleines",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/12/ceti-looks-into-the-complexities-of-whale-sounds-with-ai/?ss=ai",
+        "body": "Le projet CETI (à ne pas confondre avec le SETI Institute) étudie la communication des baleines à bosse pour mieux comprendre les modèles de langage dans le royaume animal et leurs implications pour l'intelligence artificielle. Pratyusha Sharma, étudiante diplômée de CSAIL, souligne l'importance de la communication comme caractéristique clé de l'intelligence, et suggère que les baleines à bosse pourraient avoir développé un système de langage complexe. L'équipe de recherche interdisciplinaire de CETI, composée de linguistes, de biologistes, de cryptographes et d'experts en IA, a identifié 21 types de \"codas\" ou systèmes d'appels avec une certaine complexité. Sharma souligne la dualité de la structuration, où des éléments de base sans signification individuelle s'assemblent pour former des mots et des phrases à signification complexe. En étudiant les vocalisations des baleines à bosse et leur comportement social sophistiqué, CETI espère comprendre leur langage et peut-être même communiquer avec elles. Les résultats de cette recherche pourraient ouvrir de nouvelles perspectives sur l'intelligence animale et fournir des informations précieuses pour le développement de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6840c254aeeaabff17587585/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 07:00:00 GMT"
+    },
+    {
         "title": "La menace quantique",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/06/12/will-quantum-computing-kill-bitcoin/?ss=ai",
         "body": "Bien que les ordinateurs quantiques puissent, en théorie, casser le chiffrement de Bitcoin et détruire la cryptomonnaie du jour au lendemain, mettant en péril les investissements de 500 millions de détenteurs dans le monde et des trillions de dollars de valeur marchande, ce scénario est peu probable. Les ordinateurs quantiques exploitent les propriétés étranges de la mécanique quantique pour effectuer des calculs spécifiques beaucoup plus rapidement que les superordinateurs classiques. Bien qu'ils puissent menacer les fondements cryptographiques des blockchains comme Bitcoin, la technologie quantique est encore à des années, voire des décennies, de pouvoir casser le chiffrement ECDSA de Bitcoin. Des efforts sont déjà en cours pour développer une cryptographie résistante aux attaques quantiques, et la communauté cryptographique se prépare activement à cette éventualité. Bien que la menace soit réelle, le domaine de la cryptographie évolue également pour garantir la sécurité des communications, des transactions financières, des identités numériques et de la sécurité nationale, qui dépendent toutes du chiffrement.",
@@ -250,19 +257,5 @@
         "body": "Le service ChatGPT d'OpenAI a connu des problèmes de performance le mardi matin, avec des temps de réponse lents ou aucune réponse pour certains utilisateurs. La plateforme a affiché un message d'erreur « Hmm... quelque chose semble avoir mal tourné ». Downdetector a signalé des problèmes à partir de 3h du matin, heure de l'Est, dans plusieurs régions du monde. La page de statut d'OpenAI a indiqué des « taux d'erreur et une latence élevés » pour ChatGPT, son outil Sora text-to-video AI et les API OpenAI. Perplexity, un moteur de recherche basé sur l'IA qui utilise certains modèles OpenAI, a également connu des pannes et signalé des « taux d'erreur élevés et de la lenteur ». OpenAI a identifié la cause racine du problème et travaille sur une solution.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 10 Jun 2025 09:39:55 GMT"
-    },
-    {
-        "title": "Alphafold 3 : la nouvelle version d'un outil révolutionnaire pour la découverte de médicaments",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/10/alphafold-3-extends-modeling-capacity-to-more-biological-targets/?ss=ai",
-        "body": "La dernière version d'Alphafold, un outil de modélisation des protéines, élargit son champ d'application à un spectre plus large de structures moléculaires, y compris les ligands et les ions. La nouvelle architecture « Pairformer » améliore la précision des prédictions. Les créateurs d'Alphafold ont remporté un prix Nobel pour leur technologie innovante. La version la plus récente, Alphafold 3, est partiellement open source, avec un accès limité à certains poids et aspects technologiques. L'outil transforme le processus de découverte de médicaments, permettant une identification plus rapide et efficace des cibles, réduisant ainsi le besoin de tests coûteux sur les animaux et les humains. La technologie Alphafold est applicable à un large éventail de médicaments et pourrait potentiellement réduire leurs coûts.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684080b7eb06b4e7e1a88c60/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 10 Jun 2025 08:29:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de Huawei dans l'IA",
-        "link": "https://www.ft.com/content/83ffcfde-9875-44f7-a1af-2b216bb4b4dc",
-        "body": "Bien que Huawei ait profité de l'interdiction par les États-Unis des expéditions de puces Nvidia en Chine, la majorité des entreprises chinoises d'IA, dont DeepSeek, utilisent toujours les puces Nvidia pour entraîner leurs modèles linguistiques massifs. Huawei a fait des progrès pour résoudre les problèmes techniques liés à l'utilisation de ses puces pour l'entraînement, et sa nouvelle serveur CloudMatrix 384 AI est au cœur de sa stratégie pour concurrencer Nvidia. Huawei investit massivement dans la R&D, y compris dans la recherche fondamentale, et affirme que la Chine a des avantages distinctifs en matière d'IA grâce à ses infrastructures électriques et de télécommunications de pointe.",
-        "image": "",
-        "date": "Tue, 10 Jun 2025 08:15:33 GMT"
     }
 ]
