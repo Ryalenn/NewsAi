@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Quand un processeur de 1 MHz bat ChatGPT aux échecs",
+        "title": "Quand un processeur de 1 MHz bat ChatGPT aux \u00e9checs",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Disney et NBC Universal déclarent la guerre à l’IA : Midjourney dans le viseur",
+        "title": "Disney et NBC Universal d\u00e9clarent la guerre \u00e0 l\u2019IA : Midjourney dans le viseur",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/image-32-2.jpg?resize=203,203&key=f9d54678",
         "date": "Tue, 10 Jun 2025 23:00:00 GMT",
@@ -229,5 +229,26 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24788938/STK159_SAG_AFTRA_02.jpg?quality=90&strip=all&crop=0%2C0.0083291687489577%2C100%2C99.983341662502&w=2400",
         "date": "Tue, 10 Jun 2025 15:28:08 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
+        "date": "Tue, 10 Jun 2025 23:23:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/06/11/sam-altman-says-ai-has-already-gone-past-the-event-horizon-but-no-worries-since-agi-and-asi-will-be-a-gentle-singularity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684a25409156aa9db8338193/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 01:01:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/06/11/google-photos-gives-new-ai-photo-editor-to-all-and-its-a-genius-move/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62e2ab907abf7ce9ec9932d8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 11 Jun 2025 23:00:00 GMT",
+        "check": "no"
     }
 ]
