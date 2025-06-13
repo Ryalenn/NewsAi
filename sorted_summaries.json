@@ -1,5 +1,19 @@
 [
     {
+        "title": "Helios AI Rack",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/12/amd-accelerates-ai-data-centers-with-instinct-and-helios/?ss=ai",
+        "body": "AMD a dévoilé sa nouvelle série d'accélérateurs GPU Instinct MI350, offrant des améliorations significatives en matière d'entraînement et d'inférence IA. La série MI350, basée sur l'architecture CDNA 4, propose un système de refroidissement liquide qui augmente la puissance totale de la carte et la densité des racks. L'architecture utilise un empilement 3D hybride avec un intergiciel Infinity Fabric, deux matrices d'E/S et huit matrices de calcul. La plateforme logicielle ROCm 7 d'AMD permet désormais d'exécuter PyTorch nativement sur Windows et prend en charge tous les principaux frameworks et modèles IA, y compris 1,8 million de modèles sur Hugging Face. ROCm 7 offre également des performances d'entraînement et d'inférence considérablement améliorées. AMD a également annoncé son architecture de rack Helios, prévue pour 2026, qui utilisera le processeur Zen 6 Epyc, l'accélérateur GPU Instinct MI400 et la carte réseau Pensando Vulcano AI NIC. L'événement Advancing AI d'AMD a mis en lumière des partenariats clés, notamment avec Astera Labs, Cohere, Humain, Meta, Microsoft et OpenAI, soulignant l'engagement d'AMD envers des solutions IA compétitives pour les centres de données.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b6497ed0807e6ef6985fd/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : collaboration et curiosité",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/12/are-we-going-to-collaborate-with-ai-and-how/?ss=ai",
+        "body": "L'article explore les complexités et les incertitudes entourant le développement et l'utilisation de l'IA, en particulier les modèles LLM. Il souligne l'idée que, contrairement aux transitions technologiques passées, une partie de l'évolution de l'IA échappera à notre contrôle, car nous ne l' \"ingénierons\" pas tant que nous ne la \"découvrirons\" pas, ainsi que ses capacités. L'auteur présente les différentes façons dont l'IA est perçue et utilisée, notamment par les jeunes, soulignant l'ambiguïté entre les utilisations positives et négatives. Le résumé se concentre ensuite sur les idées présentées par Dharmesh Shah de HubSpot, qui distingue entre « compétition contre l'IA » et « compétition avec l'IA ». Shah révèle que la majorité des gens voient le potentiel de collaboration avec l'IA, contrastant avec la perception commune de la concurrence contre elle. L'article met en évidence l'idée que la nouvelle génération pourrait coexister avec l'IA, en équilibrant les craintes telles que le déplacement des emplois et les préoccupations éthiques avec son potentiel dans des domaines tels que la médecine et la productivité industrielle. Shah encourage une approche curieuse et délibérée de l'IA, soulignant l'importance de la compréhension humaine de la technologie pour une collaboration efficace.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b467ac0bec328b9b732f2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 21:00:00 GMT"
+    },
+    {
         "title": "La montée en puissance d'AMD dans l'IA",
         "link": "https://www.forbes.com/sites/karlfreund/2025/06/12/amd-announces-mi350-gpu-and-future-roadmap-details/?ss=ai",
         "body": "AMD a organisé son événement annuel Advancing AI, présentant ses nouveaux GPU, son architecture à l'échelle du rack et ses avancées en matière de réseau et de logiciel. Bien qu'AMD soit toujours derrière Nvidia en termes de performance GPU et d'écosystème AI, ses derniers produits offrent une meilleure capacité et bande passante mémoire. Le nouveau GPU MI350 offre une performance quatre fois supérieure à la génération précédente et une capacité mémoire de 288 Go, adaptée aux grands modèles d'IA. AMD a également présenté le système AI \"Helios\" à l'échelle du rack pour 2026/27, ainsi que ROCm 7.0 et son programme d'accès au cloud pour développeurs. Oracle a annoncé l'utilisation des GPU AMD Instinct pour un cluster de 27 000 GPU sur Oracle Cloud Compute Infrastructure. Le GPU MI400 à venir offrira une mémoire HBM4 de 423 Go et un support UltraEthernet de 300 Go/s. Les améliorations de ROCm ont également été soulignées, avec une performance triplée pour le traitement de l'inférence.",
@@ -12,6 +26,13 @@
         "body": "L'article met en lumière l'émergence d'un nouveau style d'écriture généré par l'IA, qu'on retrouve dans les communiqués de presse, les publications sur les réseaux sociaux et les essais d'étudiants. Ce style, que l'auteur appelle « le style TED », se caractérise par une rhétorique ampoulée, des contrastes marqués et des punchlines accrocheuses, mais manque souvent de substance et d'insights profonds. Bien que ce style puisse créer de l'engagement, il est facile à repérer et peut sembler artificiel. L'auteur identifie plusieurs caractéristiques de ce style, telles que l'utilisation excessive de questions rhétoriques, de triples, de dashes, ainsi que des pivots inspirants et des affirmations sans sources crédibles. Ces pièges sont courants dans les textes générés par des modèles d'IA comme ChatGPT, Perplexity et Grok. L'article sert d'avertissement aux professionnels de l'IA et aux écrivains pour qu'ils restent vigilants face à ces nouvelles tendances et maintiennent des standards élevés dans leurs contenus.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684b0bc8e4eb0efc3769eb9b/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Jun 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Copilot Vision pour Windows",
+        "link": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch#comments",
+        "body": "Microsoft lance Copilot Vision pour Windows, une extension de son assistant IA qui permet à l'IA d'analyser le contenu de votre écran et de vous assister en temps réel. Copilot Vision peut guider l'utilisateur à travers des applications comme Adobe Photoshop, analyser des photos et des pages web, et fournir des réponses et des insights. L'expérience est optionnelle et l'utilisateur doit spécifiquement partager son écran ou ses applications avec Copilot Vision pour activer la fonctionnalité. La fonctionnalité est désormais disponible gratuitement aux États-Unis pour les utilisateurs de Windows 10 et 11, sans nécessiter un abonnement Copilot Pro.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 16:00:00 GMT"
     },
     {
         "title": "La domination de l'IA",
@@ -61,6 +82,13 @@
         "body": "Bien que les ordinateurs quantiques puissent, en théorie, casser le chiffrement de Bitcoin et détruire la cryptomonnaie du jour au lendemain, mettant en péril les investissements de 500 millions de détenteurs dans le monde et des trillions de dollars de valeur marchande, ce scénario est peu probable. Les ordinateurs quantiques exploitent les propriétés étranges de la mécanique quantique pour effectuer des calculs spécifiques beaucoup plus rapidement que les superordinateurs classiques. Bien qu'ils puissent menacer les fondements cryptographiques des blockchains comme Bitcoin, la technologie quantique est encore à des années, voire des décennies, de pouvoir casser le chiffrement ECDSA de Bitcoin. Des efforts sont déjà en cours pour développer une cryptographie résistante aux attaques quantiques, et la communauté cryptographique se prépare activement à cette éventualité. Bien que la menace soit réelle, le domaine de la cryptographie évolue également pour garantir la sécurité des communications, des transactions financières, des identités numériques et de la sécurité nationale, qui dépendent toutes du chiffrement.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684a74551bbf4e40d723477c/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Jun 2025 06:33:00 GMT"
+    },
+    {
+        "title": "Klarna's AI Hotline",
+        "link": "https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline#comments",
+        "body": "Klarna a mis en place une hotline téléphonique interactive basée sur l'IA, permettant aux utilisateurs de fournir des commentaires à une version IA du PDG de l'entreprise, Sebastian Siemiatkowski. L'IA est formée sur la voix réelle, les idées et les expériences de Siemiatkowski, et vise à recueillir les commentaires des clients et des commerçants sur les fonctionnalités des produits, les problèmes et les suggestions d'amélioration. Les appels sont transcrits et résumés, puis analysés par un grand modèle linguistique qui fournit des informations exploitables aux équipes produit et ingénierie de Klarna. L'entreprise affirme que les problèmes soulevés pourraient se traduire par des améliorations tangibles du produit dès le lendemain. La hotline est actuellement disponible aux États-Unis et en Suède.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/videoframe_10281.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 04:01:00 GMT"
     },
     {
         "title": "La course vers l'AGI et l'ASI",
@@ -173,82 +201,5 @@
         "body": "Résumé : \n\nL'article explore l'idée répandue dans le domaine de l'IA selon laquelle un développeur indépendant et solitaire pourrait un jour réaliser une percée révolutionnaire et faire avancer l'IA conventionnelle vers l'intelligence artificielle générale (AGI). Il examine les motivations des développeurs d'IA, les complexités de la réalisation de l'AGI, et la possibilité qu'un « loup solitaire » puisse réussir là où les grandes équipes ont échoué. L'article soulève également des préoccupations importantes concernant la sécurité et l'éthique si un individu isolé devait réussir à créer de l'AGI, y compris le risque de domination géopolitique et l'utilisation potentielle par des acteurs malveillants. Enfin, il remet en question la nécessité pour le développeur d'être un génie, suggérant que la chance et la persévérance pourraient également jouer un rôle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682d5b6f46cfd4f6936d9fc9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 11 Jun 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'avenir incertain de Siri",
-        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race",
-        "body": "Bien que la WWDC 2025 d'Apple ait présenté de nouveaux logiciels et fonctionnalités, Siri a été largement ignorée, mis à part quelques mentions de mises à jour mineures. Apple a promis des fonctionnalités de personnalisation mais elles ne sont pas encore disponibles. La société a été critiquée pour les lacunes de son intelligence artificielle et pour avoir pris du retard par rapport à ses concurrents dans le domaine de l'IA. Google et Microsoft intègrent rapidement l'IA dans leurs systèmes d'exploitation, offrant des fonctionnalités telles que la traduction en direct et la recherche visuelle. Apple a introduit des fonctionnalités similaires, mais a été ridiculisée pour les problèmes initiaux de son outil de résumé de notifications. Apple a donné aux développeurs accès à son modèle de langage sur l'appareil, et a introduit des fonctionnalités de traduction en direct. Cependant, il n'y a pas eu d'annonce concernant l'expansion des options d'IA au-delà de ChatGPT, comme l'intégration de Gemini de Google.",
-        "image": "",
-        "date": "Wed, 11 Jun 2025 00:14:08 GMT"
-    },
-    {
-        "title": "OpenAI annonce un nouveau modèle linguistique de pointe",
-        "link": "https://www.theverge.com/openai/640073/openai-teases-a-new-open-source-ai-model",
-        "body": "Résumé : OpenAI s'apprête à lancer un nouveau modèle linguistique de pointe accessible à tous. Le PDG Sam Altman a annoncé que la société prévoit de publier un modèle linguistique de poids ouvert avec des capacités de raisonnement dans les prochains mois. Cette annonce fait suite à des indices suggérant que la société s'orientait vers une telle sortie, Altman ayant précédemment déclaré lors d'un AMA sur Reddit que la société avait été \"du mauvais côté de l'histoire\" en matière de modèles de langage ouverts.",
-        "image": "",
-        "date": "Wed, 11 Jun 2025 00:07:56 GMT"
-    },
-    {
-        "title": "Panne de ChatGPT",
-        "link": "https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025",
-        "body": "Le mardi 10 juin, de nombreux utilisateurs ont signalé des problèmes de performance avec le chatbot ChatGPT d'OpenAI. Certains utilisateurs ont connu des temps de réponse lents, tandis que d'autres n'ont pas pu accéder au service du tout. OpenAI a confirmé des « taux d'erreur élevés et de la latence » sur sa page de statut, affectant ChatGPT, son outil Sora text-to-video AI et les API OpenAI. Perplexity, un moteur de recherche basé sur l'IA qui utilise certains modèles OpenAI, a également connu des pannes et des taux d'erreur élevés. Les problèmes ont commencé vers 3 heures du matin, heure de l'Est, et ont touché plusieurs régions dans le monde. Bien qu'OpenAI ait signalé une « récupération complète de l'API » et un fonctionnement normal de la plupart des composants de ChatGPT en fin de journée, le mode vocal a continué de présenter des taux d'erreur élevés.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 23:41:41 GMT"
-    },
-    {
-        "title": "L'avenir de Siri",
-        "link": "https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race#comments",
-        "body": "Résumé : \n\nLors de la WWDC 2025, Apple a présenté de nouveaux logiciels et fonctionnalités, mais Siri a été largement ignoré, mis à part quelques mentions de mises à jour visant à rendre l'assistant plus \"naturel et utile\". Apple a reconnu que certaines fonctionnalités personnalisées promises l'année dernière étaient toujours en cours de développement. La société a introduit des fonctionnalités d'intelligence artificielle dans ses produits, telles que la traduction en direct et l'intégration de ChatGPT, mais l'assistant vocal Siri n'a pas reçu les mêmes mises à niveau importantes que ses concurrents. Apple a été critiqué pour être à la traîne par rapport à des entreprises comme OpenAI, Anthropic et Google dans le domaine de l'IA. La société a introduit des mises à jour fonctionnelles discrètes alimentées par Apple Intelligence et ChatGPT, notamment l'intégration de la technologie OpenAI dans Apple Image Playground. Apple a également donné aux développeurs accès au modèle de langage sur l'appareil derrière Apple Intelligence. Bien que certaines personnes s'attendaient à ce qu'Apple annonce une expansion de ses options d'IA, notamment en permettant à Siri d'utiliser Gemini de Google, cela ne s'est pas produit.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&strip=all&crop=0.171875%2C0%2C99.65625%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 23:23:27 GMT"
-    },
-    {
-        "title": "HP OmniBook X 14-fe1000nf : un PC portable puissant et abordable",
-        "link": "https://www.frandroid.com/bons-plans/2640157_ce-laptop-hp-copilot-dope-a-lia-avec-puce-snapdragon-a-droit-a-une-belle-baisse-de-prix-35",
-        "body": "Le HP OmniBook X 14-fe1000nf est un PC portable fin et léger, doté de l'IA Copilot de Microsoft et d'une puce Snapdragon X Plus performante. Il offre un excellent rapport qualité-prix pour les travailleurs exigeants et nomades, avec un écran 2.2K de 14 pouces, 16 Go de RAM, un SSD de 512 Go et une autonomie pouvant atteindre 26 heures. Le clavier comprend une touche dédiée à l'activation de Copilot, qui simplifie les tâches et améliore la productivité. Le laptop est actuellement en promotion à 649,99 euros, soit une réduction de 150 euros par rapport à son prix initial.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/hp-omnibook-x-14-fe1000nf-768x419.jpg?key=8494680a",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence dévoile ses nouveautés",
-        "link": "https://www.frandroid.com/marques/apple/2641511_ios-26-liquid-glass-et-apple-intelligence-comment-suivre-la-keynote-wwdc-2025-en-direct",
-        "body": "Lors de la WWDC 2025, Apple a présenté les futures mises à jour de ses systèmes d'exploitation, notamment iOS 26, qui introduit un nouveau design \"Liquid Glass\" sur tous les appareils Apple. Apple Intelligence, l'IA de la marque, a été mise en avant avec de nouvelles fonctionnalités : traduction instantanée, reconnaissance d'images, et l'ouverture aux développeurs tiers via le \"Foundation Models framework\". D'autres annonces ont été faites, comme l'amélioration d'Apple Plans, Wallet, Pay, et l'application Téléphone. La bêta publique sera disponible en juillet, et la sortie officielle est prévue pour l'automne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-1200x800.jpg?key=2d5d525b",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA dans l'industrie du divertissement : défis et collaborations",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle",
-        "body": "Résumé : \n\n- Disney et NBC Universal s'opposent à l'IA Midjourney, soulevant des questions éthiques et juridiques.\n- La RATP collabore avec ChatGPT et Nvidia pour innover, démontrant l'adoption croissante de l'IA dans divers secteurs.\n- Apple, malgré son contrôle strict, utilise ChatGPT en raison des limitations de Siri.\n- HP lance un laptop dopé à l'IA avec une puce Snapdragon, désormais à prix réduit.\n- Google Beam, la technologie impressionnante de Google, est désormais disponible à un prix élevé.\n- ChatGPT a connu une panne temporaire, soulignant la nécessité de résilience pour les IA.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/image-32-2.jpg?resize=203,203&key=f9d54678",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Duel inattendu",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2644535_quand-un-processeur-de-1-mhz-bat-chatgpt-aux-echecs",
-        "body": "Dans un duel surprenant, ChatGPT, le modèle omnimodal d'OpenAI, s'est mesuré à une console Atari 2600 émulée aux échecs. Malgré sa technologie de pointe, ChatGPT a été vaincu par l'Atari 2600, démontrant ainsi les limites des modèles de langage en IA. L'ingénieur Robert Jr. Caruso a partagé les détails de ce match inattendu sur LinkedIn, soulignant les difficultés de ChatGPT à reconnaître les pièces et à naviguer sur l'échiquier. Cette expérience remet en perspective la confiance accordée à l'IA, soulignant qu'il s'agit encore de simples modèles avec des imperfections.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/anne-nygard-sl1a0lz-rmk-unsplash-768x512.jpg?resize=200,200&key=470aa1a7",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "HP Dimension avec Google Beam",
-        "link": "https://www.frandroid.com/marques/google/2644343_google-beam-la-technologie-bluffante-de-google-a-enfin-un-prix",
-        "body": "Google, en partenariat avec HP, lance le HP Dimension avec Google Beam, un système de visioconférence 3D immersif et innovant. Cette technologie utilise un téléviseur 65 pouces 8K avec la technologie light field display, offrant une impression de profondeur et de présence de l'interlocuteur. Le système intègre des caméras et un audio spatial pour un rendu 3D fidèle des participants, rendant les réunions virtuelles plus naturelles et favorisant une connexion plus profonde. Le produit est destiné aux entreprises, avec une intégration native de Google Meet et une compatibilité avec d'autres logiciels de visioconférence. Le prix est de 25 000 dollars, et plusieurs grandes entreprises ont déjà manifesté leur intérêt.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/hp-dimension-with-google-beam-lifestyle-hero-resized-768x576.jpeg?resize=225,225&key=a0ee4f6a",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au cœur de l'innovation dans les transports",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2644125_comment-la-ratp-travaille-avec-chatgpt-et-nvidia-pour-ses-prochaines-innovations",
-        "body": "La maison de la RATP, à proximité de la Gare de Lyon, abrite un laboratoire d'innovations, Le Hub, où sont présentées de nouvelles technologies pour le métro parisien et au-delà. L'IA y occupe une place importante, notamment avec ChatGPT, utilisé pour former des agents via des mises en situation virtuelles. La RATP utilise également des machines Nvidia Jetson dans les tunnels du métro pour détecter les graffitis sur les trains et les envoyer au nettoyage. Ces innovations visent à améliorer l'efficacité et la qualité du service de transport, tout en protégeant la vie privée des usagers.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/2025-06-03-point-presse-vivaratp-hamdi-chref-13-resized-768x512.jpeg?resize=200,200&key=c3f077ec",
-        "date": "Tue, 10 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'impact énergétique de ChatGPT",
-        "link": "https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water#comments",
-        "body": "Le PDG d'OpenAI, Sam Altman, a partagé dans un article de blog certaines statistiques sur la consommation énergétique et hydrique de ChatGPT. Selon lui, une requête ChatGPT utilise en moyenne 0,34 watt-heure d'énergie, ce qui équivaut à la consommation d'un four en un peu plus d'une seconde. De plus, il affirme qu'une requête utilise environ 0,000085 gallons d'eau, soit environ un quinzième de cuillère à thé. Ces chiffres soulignent l'efficacité énergétique relative de la technologie ChatGPT, alors que les entreprises d'IA font face à des examens minutieux concernant les coûts énergétiques de leurs technologies. Altman prédit également que le coût de l'intelligence artificielle convergera finalement vers le coût de l'électricité.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431702/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 10 Jun 2025 22:28:49 GMT"
     }
 ]
