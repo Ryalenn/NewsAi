@@ -210,7 +210,7 @@
         "check": "yes"
     },
     {
-        "title": "C’est presque moitié prix pour ce performant laptop dopé à l’IA grâce à sa puce Snapdragon",
+        "title": "C\u2019est presque moiti\u00e9 prix pour ce performant laptop dop\u00e9 \u00e0 l\u2019IA gr\u00e2ce \u00e0 sa puce Snapdragon",
         "link": "https://www.frandroid.com/bons-plans/2640157_ce-performant-laptop-hp-copilot-dope-a-lia-avec-puce-snapdragon-est-a-moitie-prix-chez-la-fnac",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/hp-omnibook-x-14-fe1000nf-768x419.jpg?resize=164,164&key=8494680a",
         "date": "Thu, 12 Jun 2025 23:00:00 GMT",
@@ -320,5 +320,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6848777099901fc7b4631d2c/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Jun 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/06/13/millennium-m2000-steals-the-show-at-cadence-live-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c6bb07f83da8e89708d55/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davidphelan/2025/06/13/wwdc-2025-key-new-upgrades-coming-to-iphone-ipad-and-mac/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c4ac9f3d81a803782e887/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
