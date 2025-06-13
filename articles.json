@@ -173,5 +173,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/684b035ff46881470b56e125/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Jun 2025 20:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/videoframe_10281.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 04:01:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/12/amd-accelerates-ai-data-centers-with-instinct-and-helios/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b6497ed0807e6ef6985fd/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/12/are-we-going-to-collaborate-with-ai-and-how/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b467ac0bec328b9b732f2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 12 Jun 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
