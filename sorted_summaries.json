@@ -1,10 +1,24 @@
 [
     {
+        "title": "L'avenir de la conception de puces : l'IA et l'informatique de pointe",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/06/13/millennium-m2000-steals-the-show-at-cadence-live-2025/?ss=ai",
+        "body": "L'article résume les annonces faites lors de l'événement Cadence Live, où l'entreprise a présenté ses dernières innovations en matière de conception de puces et de solutions technologiques. L'un des points forts a été le nouveau coprocesseur Tensilica NeuroEdge 130 AI, conçu pour compléter les unités de traitement neuronal (NPU) en prenant en charge des tâches plus simples. Ce coprocesseur offre une réduction de la consommation d'énergie et de l'espace, et peut fonctionner avec n'importe quelle NPU. Cadence a également annoncé le superordinateur Millennium M2000, qui, associé aux GPU Nvidia Blackwell, permet d'accélérer considérablement les simulations dans des domaines tels que la conception de puces, la dynamique des fluides et la découverte de médicaments. Jensen Huang, PDG de Nvidia, a exprimé son enthousiasme pour le M2000, allant même jusqu'à passer une commande de dix unités lors de l'événement. Le M2000 est particulièrement impressionnant pour les simulations aérospatiales, réduisant le temps de simulation d'un châssis multi-milliardaire de huit jours à moins de 24 heures. \n\nLe PDG de Cadence, Anirudh Devgan, a souligné l'importance de l'IA dans la conception de puces, prédisant que les outils d'IA joueront un rôle crucial dans la conception de la majorité des puces avancées cette année. Cadence a également annoncé Cerebrus AI Studio, qui utilise l'IA pour optimiser la consommation d'énergie, la densité et le timing dans la conception de puces. Cette approche a permis à Samsung et STMicroelectronics d'améliorer considérablement leur productivité et la performance de leurs systèmes. \n\nL'article conclut en soulignant l'évolution de Cadence vers une entreprise de solutions système, tout en continuant à fournir des outils EDA de pointe, en équilibrant ainsi sa position sur ces deux marchés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c6bb07f83da8e89708d55/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 18:00:00 GMT"
+    },
+    {
         "title": "Siri's Delay",
         "link": "https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025",
         "body": "Apple a retardé la sortie de sa mise à niveau de Siri, initialement prévue pour mars, en raison de problèmes de fiabilité. L'entreprise a déclaré que les fonctionnalités promises de Siri, notamment une meilleure conscience du contexte personnel et la capacité d'effectuer des actions dans les applications, n'avaient pas atteint les normes de qualité attendues. Craig Federighi, responsable logiciel chez Apple, a déclaré que bien qu'ils aient obtenu des résultats prometteurs au début, ils n'étaient pas satisfaits de la fiabilité de Siri. Greg Joswiak, responsable marketing, a ajouté qu'ils ne voulaient pas décevoir les clients et qu'il aurait été plus décevant de lancer un produit qui n'atteignait pas leurs normes de qualité. Apple prévoit désormais de lancer les mises à niveau de Siri en 2026.",
         "image": "",
         "date": "Fri, 13 Jun 2025 17:56:11 GMT"
+    },
+    {
+        "title": "Apple's New Design Language and AI Focus",
+        "link": "https://www.forbes.com/sites/davidphelan/2025/06/13/wwdc-2025-key-new-upgrades-coming-to-iphone-ipad-and-mac/?ss=ai",
+        "body": "Apple a présenté un nouveau langage de design, « Liquid Glass », qui donne aux icônes et aux interfaces un aspect verre subtil et attrayant. Aucune annonce majeure concernant Apple Intelligence n'a été faite, mais l'entreprise considère l'IA comme un outil pour améliorer ses applications et son matériel. De nouvelles fonctionnalités basées sur l'IA ont été introduites, telles que Genmoji, Image Playground amélioré et de nouvelles capacités de Visual Intelligence. L'IA est également utilisée pour identifier les appelants inconnus et gérer les appels en attente. Apple a unifié le numérotation de ses systèmes d'exploitation, avec iOS 18, macOS 15 et watchOS 11 devenant iOS 26, macOS 26 et watchOS 26, respectivement. Enfin, l'iPad a reçu une mise à jour majeure, avec des fenêtres et des fonctionnalités inspirées du Mac, ce qui soulève la question de la nécessité d'un Mac pour de nombreux utilisateurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c4ac9f3d81a803782e887/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 16:00:00 GMT"
     },
     {
         "title": "La méditation, un rempart contre le stress chronique et l'inflammation neurodégénérative",
@@ -299,12 +313,5 @@
         "body": "Google Photos dévoile un nouvel éditeur de photos intelligent, alimenté par l'IA, pour les appareils Android et iOS. L'interface a été repensée et propose désormais des suggestions d'éditions automatiques, accessibles en un seul clic. Les fonctionnalités les plus remarquables incluent la possibilité de sélectionner une partie de l'image pour obtenir des suggestions d'éditions ciblées, ainsi que des outils tels que Focus, Ajouter de la lumière, Affiner et des outils génératifs. L'éditeur est disponible sur les anciens appareils Android (jusqu'à la version 8) et concurrence directement les fonctionnalités d'intelligence artificielle des iPhone et des Samsung Galaxy. La stratégie de Google est de fidéliser les utilisateurs en leur offrant un logiciel photo sophistiqué, les incitant ainsi à faire confiance à Google Photos pour stocker leurs souvenirs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/62e2ab907abf7ce9ec9932d8/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 11 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La stratégie AI-first de Google",
-        "link": "https://www.semafor.com/article/06/11/2025/google-names-new-chief-ai-architect-to-advance-developments",
-        "body": "Google nomme un nouveau responsable pour diriger le développement de ses futurs produits basés sur l'IA. Koray Kavukcuoglu, actuellement CTO de Google DeepMind, devient Chief AI Architect, un poste de vice-président senior rapportant directement au CEO Sundar Pichai. Kavukcuoglu, ancien ingénieur aérospatial et PhD en informatique, a travaillé avec Yann LeCun, pionnier de l'IA, avant de rejoindre DeepMind en 2012. Sous sa direction, Google a pris de l'avance dans certains domaines clés de l'IA, mais doit maintenant transformer ces avancées en produits réussis. Kavukcuoglu sera chargé d'accélérer l'intégration des modèles d'IA de Google dans ses produits, tout en continuant à occuper son poste actuel chez DeepMind. Cette nomination reflète les changements profonds que Google opère depuis l'émergence de ChatGPT, y compris la fusion de DeepMind avec Google Brain et la mise en place de nouvelles méthodes de travail pour accélérer le développement de produits. L'entreprise espère ainsi rattraper son retard en matière d'innovation dans le domaine de l'IA et trouver de nouvelles façons d'utiliser l'IA pour alimenter ses produits, tout en faisant face à la concurrence croissante dans ce domaine.",
-        "image": "",
-        "date": "Wed, 11 Jun 2025 20:51:47 GMT"
     }
 ]
