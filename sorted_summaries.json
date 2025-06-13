@@ -1,10 +1,52 @@
 [
     {
+        "title": "Siri's Delay",
+        "link": "https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025",
+        "body": "Apple a retardé la sortie de sa mise à niveau de Siri, initialement prévue pour mars, en raison de problèmes de fiabilité. L'entreprise a déclaré que les fonctionnalités promises de Siri, notamment une meilleure conscience du contexte personnel et la capacité d'effectuer des actions dans les applications, n'avaient pas atteint les normes de qualité attendues. Craig Federighi, responsable logiciel chez Apple, a déclaré que bien qu'ils aient obtenu des résultats prometteurs au début, ils n'étaient pas satisfaits de la fiabilité de Siri. Greg Joswiak, responsable marketing, a ajouté qu'ils ne voulaient pas décevoir les clients et qu'il aurait été plus décevant de lancer un produit qui n'atteignait pas leurs normes de qualité. Apple prévoit désormais de lancer les mises à niveau de Siri en 2026.",
+        "image": "",
+        "date": "Fri, 13 Jun 2025 17:56:11 GMT"
+    },
+    {
+        "title": "La méditation, un rempart contre le stress chronique et l'inflammation neurodégénérative",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/13/meditate-for-brain-health-ai-research--science-promote-this-solution/?ss=ai",
+        "body": "La recherche suggère que le stress chronique peut avoir des effets négatifs durables sur le cerveau, entraînant une pression sur le système cardiovasculaire et une inflammation neurodégénérative. La méditation, associée à un mode de vie sain, peut atténuer ces effets. Le professeur Balachundhar Subramaniam, expert en anesthésiologie et en neuroinflammation, a étudié l'impact de la méditation sur le « brouillard cérébral » et l'inflammation neurodégénérative. Ses recherches montrent que la méditation régulière réduit les niveaux de stress et améliore l'expérience de vie, luttant contre l'anxiété, la peur et le vieillissement cognitif. L'étude de 5000 personnes pendant la pandémie a révélé que la méditation pratiquée régulièrement réduit les protéines réactives liées au stress et à la gravité des cas de Covid-19. De plus, la méditation Kirtan Kriya yoga a réduit l'expression des gènes pro-inflammatoires chez les aidants stressés. La compréhension de ces liens entre le stress, la méditation et la santé cognitive peut être améliorée grâce à l'agrégation et à l'analyse de données à grande échelle rendues possibles par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c4f2e6846fd71acb5d015/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 16:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des performances accrues et une efficacité énergétique",
+        "link": "https://www.forbes.com/sites/davealtavilla/2025/06/13/amd-surpasses-ai-energy-efficiency-goal-and-sets-critical-industry-bar/?ss=ai",
+        "body": "AMD a dépassé son objectif ambitieux d'efficacité énergétique 30x25, démontrant son engagement envers des solutions durables dans l'informatique accélérée. L'entreprise attribue son succès à une approche holistique de la conception de puces et de l'architecture des systèmes, soulignant l'importance de l'intégration de tous les éléments, de l'architecture à l'infrastructure du centre de données. L'accent est mis sur l'amélioration de l'efficacité à l'échelle du système, avec un objectif de 20x d'ici 2030 pour l'efficacité énergétique à l'échelle du rack, consolidant ainsi 275 racks de serveurs AI en un seul rack. AMD vise également à améliorer la collaboration au sein de l'écosystème grâce à des initiatives logicielles open-source et des partenariats avec des innovateurs de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c44e8e0f957bf7dd18a21/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Transformation numérique",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/06/13/sears-merritt-drives-tech-and-ai-strategy-at-174-year-old-massmutual/?ss=ai",
+        "body": "MassMutual, une compagnie d'assurance-vie de 174 ans, a entrepris une transformation numérique impressionnante sous la direction de Sears Merritt, son directeur de la technologie et de l'expérience. Merritt supervise une équipe mondiale de 3 000 personnes et gère un budget annuel de 650 millions de dollars, avec pour mission de moderniser l'entreprise tout en préservant son héritage. L'entreprise a adopté une approche de simplification et de modernisation, en éliminant progressivement les systèmes hérités et en consolidant les plateformes pour une livraison plus agile. L'investissement dans l'organisation et l'accès aux données est au cœur de cette transformation. MassMutual a rapidement adopté l'IA générative, avec des outils de productivité comme GitHub Copilot et Microsoft Copilot, ainsi que des assistants virtuels pour les clients et les agents. L'entreprise a également expérimenté avec succès des partenaires dans le domaine de la santé et du bien-être, comme la détection précoce du cancer et le soutien à la santé mentale basé sur l'IA. Merritt, avec son parcours académique et professionnel diversifié, apporte une approche unique à la tête de la technologie, combinant rigueur scientifique et application pratique, façonnant ainsi l'avenir de cette institution financière historique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6848777099901fc7b4631d2c/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 16:00:00 GMT"
+    },
+    {
+        "title": "Birth of a Legend",
+        "link": "https://www.theverge.com/film/686729/ancestra-darren-aronofsky-eliza-mcnitt-google-ai-veo#comments",
+        "body": "Le court-métrage de la réalisatrice Eliza McNitt, produit par Primordial Soup de Darren Aronofsky et Google DeepMind, utilise l'IA générative pour raconter l'histoire d'une femme vivant un accouchement difficile. Le projet vise à démontrer le potentiel des modèles de génération vidéo par IA. Le résumé suggère que les résultats peuvent être mitigés, mais qu'ils méritent réflexion dans le domaine de l'IA.",
+        "image": "",
+        "date": "Fri, 13 Jun 2025 15:11:37 GMT"
+    },
+    {
         "title": "L'aube d'une nouvelle ère de recherche : l'optimisation des modèles linguistiques",
         "link": "https://www.forbes.com/sites/michaelashley/2025/06/13/the-end-of-browsing-ai-is-rewriting-the-rules-of-online-visibility/?ss=ai",
         "body": "L'IA transforme fondamentalement la manière dont nous effectuons des recherches sur le Web, rendant obsolètes les moteurs de recherche traditionnels et l'optimisation pour les moteurs de recherche (SEO). Les outils d'IA comme ChatGPT révolutionnent la façon dont les étudiants et les professionnels accèdent à l'information, offrant des réponses directes et pertinentes. Cette évolution rapide rappelle l'expression « Quand une porte se ferme, une autre s'ouvre ». L'expression « Googler » est devenue obsolète, car l'IA peut « scanner et synthétiser » une grande quantité d'informations en un temps record. L'optimisation des modèles linguistiques (LMO) émerge comme une nouvelle approche, se concentrant sur la création de contenu pertinent et utile, non seulement pour les moteurs de recherche, mais aussi pour l'IA. La valeur détermine l'acceptation d'une technologie, et le LMO offre des réponses plus précises et efficaces. Les entreprises doivent se concentrer sur la création de contenu utile et original, qui ne peut pas être trouvé ailleurs, pour rester compétitives dans cette nouvelle ère de recherche.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684ba92abfed821ca3e9436b/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Jun 2025 14:00:00 GMT"
+    },
+    {
+        "title": "The Future of Gaming and AI Innovations",
+        "link": "https://www.theverge.com/the-vergecast/686637/switch-2-xbox-ally-portable-gaming-vergecast",
+        "body": "Bien que l'épisode de *The Vergecast* couvre une variété de sujets, y compris les consoles de jeux portables, les événements de l'industrie et les nouvelles technologies, le résumé suivant se concentrera sur les points pertinents pour le domaine de l'IA :\n\nL'épisode aborde les dernières nouvelles en matière d'IA, notamment une poursuite de Disney contre Midjourney, une plateforme d'IA générative. Google Zero, une initiative d'IA importante, est également en cours de développement, et Alexa Plus, avec des fonctionnalités d'IA améliorées, serait disponible. Le navigateur Dia propose une nouvelle approche des chatbots, et Sam Altman commente l'utilisation de l'IA en termes de consommation d'énergie.\n\nL'épisode couvre également l'avenir du jeu, y compris les développements potentiels vers des appareils de jeu plus modulaires, portables et similaires à des PC. La discussion comprend également une analyse de la Switch 2 de Nintendo et des plans futurs de Microsoft pour Xbox.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/VST_0613_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 13 Jun 2025 13:28:22 GMT"
     },
     {
         "title": "L'avenir des opérations informatiques : l'intelligence artificielle autonome",
@@ -140,6 +182,13 @@
         "date": "Thu, 12 Jun 2025 20:00:00 GMT"
     },
     {
+        "title": "Apple's WWDC 2025: The Future of Siri and Apple Intelligence",
+        "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
+        "body": "Lors de la WWDC 2025, Apple a présenté diverses mises à jour, notamment un nouveau langage de design «Liquid Glass» et des mises à jour de ses systèmes d'exploitation. L'entreprise a également annoncé l'ouverture de son IA Apple Intelligence aux développeurs d'applications et son intégration à Image Playground. Malgré les annonces, l'absence notable de Siri lors de l'événement a suscité des interrogations sur l'avenir des efforts d'IA d'Apple. Bien qu'Apple ait introduit de nouvelles fonctionnalités d'IA, telles que la traduction en direct, Siri a été à peine mentionné et certaines de ses fonctionnalités promises ont été retardées. Malgré tout, Apple a affirmé qu'il continuait à travailler sur Siri, visant à atteindre un niveau élevé de fiabilité. En outre, Apple a introduit de nouvelles fonctionnalités de sécurité pour les enfants, amélioré le système d'avatars flottants de visionOS et présenté des améliorations multitâches pour iPadOS.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Thu, 12 Jun 2025 19:00:00 GMT"
+    },
+    {
         "title": "L'évolution de l'écriture générée par l'IA : les nouveaux pièges à éviter",
         "link": "https://www.forbes.com/sites/charliefink/2025/06/12/the-seven-tells-of-ai-writing/?ss=ai",
         "body": "L'article met en lumière l'émergence d'un nouveau style d'écriture généré par l'IA, qu'on retrouve dans les communiqués de presse, les publications sur les réseaux sociaux et les essais d'étudiants. Ce style, que l'auteur appelle « le style TED », se caractérise par une rhétorique ampoulée, des contrastes marqués et des punchlines accrocheuses, mais manque souvent de substance et d'insights profonds. Bien que ce style puisse créer de l'engagement, il est facile à repérer et peut sembler artificiel. L'auteur identifie plusieurs caractéristiques de ce style, telles que l'utilisation excessive de questions rhétoriques, de triples, de dashes, ainsi que des pivots inspirants et des affirmations sans sources crédibles. Ces pièges sont courants dans les textes générés par des modèles d'IA comme ChatGPT, Perplexity et Grok. L'article sert d'avertissement aux professionnels de l'IA et aux écrivains pour qu'ils restent vigilants face à ces nouvelles tendances et maintiennent des standards élevés dans leurs contenus.",
@@ -257,40 +306,5 @@
         "body": "Google nomme un nouveau responsable pour diriger le développement de ses futurs produits basés sur l'IA. Koray Kavukcuoglu, actuellement CTO de Google DeepMind, devient Chief AI Architect, un poste de vice-président senior rapportant directement au CEO Sundar Pichai. Kavukcuoglu, ancien ingénieur aérospatial et PhD en informatique, a travaillé avec Yann LeCun, pionnier de l'IA, avant de rejoindre DeepMind en 2012. Sous sa direction, Google a pris de l'avance dans certains domaines clés de l'IA, mais doit maintenant transformer ces avancées en produits réussis. Kavukcuoglu sera chargé d'accélérer l'intégration des modèles d'IA de Google dans ses produits, tout en continuant à occuper son poste actuel chez DeepMind. Cette nomination reflète les changements profonds que Google opère depuis l'émergence de ChatGPT, y compris la fusion de DeepMind avec Google Brain et la mise en place de nouvelles méthodes de travail pour accélérer le développement de produits. L'entreprise espère ainsi rattraper son retard en matière d'innovation dans le domaine de l'IA et trouver de nouvelles façons d'utiliser l'IA pour alimenter ses produits, tout en faisant face à la concurrence croissante dans ce domaine.",
         "image": "",
         "date": "Wed, 11 Jun 2025 20:51:47 GMT"
-    },
-    {
-        "title": "Meta AI Video Edits",
-        "link": "https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts#comments",
-        "body": "Meta lance de nouveaux outils d'édition vidéo basés sur l'IA avec plus de 50 modèles prédéfinis. L'outil, disponible gratuitement pour un temps limité, permet aux utilisateurs de modifier leurs vidéos en définissant un thème, en changeant le fond et en ajustant leurs vêtements. Les options sont présentées de manière similaire aux filtres Instagram. L'IA peut transformer une vidéo en jeu vidéo ou en anime, ajouter un décor de désert, ou encore habiller le sujet en smoking généré par IA. Cependant, l'outil ne traite que les 10 premières secondes de la vidéo. Disponible aux États-Unis et dans plus d'une douzaine d'autres pays, l'outil est accessible via l'application Meta AI, le site Web Meta.AI et l'application Edits. Bien que les résultats puissent varier en qualité, les vidéos éditées peuvent être partagées directement sur Facebook, Instagram ou dans le fil Discover de l'application Meta AI. Meta prévoit également d'introduire la possibilité pour les utilisateurs d'utiliser leurs propres invites de texte pour éditer des vidéos plus tard dans l'année.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/ai-desert.png?quality=90&strip=all&crop=0%2C21.628634696031%2C100%2C38.808721172756&w=2400",
-        "date": "Wed, 11 Jun 2025 18:20:36 GMT"
-    },
-    {
-        "title": "Apple's WWDC 2025: The Future of AI",
-        "link": "https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26",
-        "body": "Apple a présenté plusieurs nouveautés lors de la WWDC 2025, notamment l'ouverture de l'accès à Apple Intelligence pour les développeurs d'applications et l'intégration de ChatGPT dans Image Playground. La société a également annoncé des mises à jour de ses systèmes d'exploitation, notamment iOS 26, macOS Tahoe 26, watchOS 26 et visionOS 26, introduisant un nouveau langage de design appelé Liquid Glass. Malgré les retards et les critiques, Apple a mis en avant de nouvelles fonctionnalités d'IA, tout en évitant de mentionner Siri. De plus, l'événement a introduit une nouvelle application Games centralisant les jeux et les fonctionnalités de jeu, et a présenté des améliorations multitâches pour iPadOS.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-        "date": "Wed, 11 Jun 2025 18:18:42 GMT"
-    },
-    {
-        "title": "La fin de l'art tel que nous le connaissons ?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/685433/disney-universal-sue-midjourney-copyright-infringement#comments",
-        "body": "Disney et Universal ont intenté un procès à Midjourney, une plateforme d'IA générative, pour violation du droit d'auteur, l'accusant d'être un « puits sans fond de plagiat ». Le procès, qui demande un procès devant jury, affirme que Midjourney a généré des images de personnages protégés par le droit d'auteur, tels que Shrek, Darth Vader et Buzz L'Éclair, et que la plateforme utilise ces personnages dans sa promotion. Disney et Universal soutiennent que Midjourney a ignoré leurs demandes de cesser toute infraction et s'inquiètent particulièrement de la prochaine fonctionnalité de génération vidéo de Midjourney, qui, selon eux, enfreindra également leurs droits d'auteur. Ce procès est un développement important dans le domaine de l'IA, car il soulève des questions sur l'intersection entre l'IA et le droit d'auteur, et pourrait avoir des implications de grande portée pour l'avenir de la technologie IA générative.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-11-at-12.55.16%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C7.4969021065675%2C100%2C85.006195786865&w=2400",
-        "date": "Wed, 11 Jun 2025 17:05:38 GMT"
-    },
-    {
-        "title": "L'avenir de l'information ?",
-        "link": "https://www.theverge.com/news/685538/taboola-clickbait-chumbox-ai-chatbot#comments",
-        "body": "USA Today et The Independent vont expérimenter un nouveau chatbot développé par Taboola, nommé DeeperDive, qui permettra aux lecteurs de poser des questions et d'obtenir des réponses basées sur les contenus des articles. Ce chatbot utilise l'IA pour fournir des réponses contextuelles et pertinentes, ainsi que des liens vers des articles connexes et des publicités ciblées. DeeperDive est conçu pour améliorer l'engagement des lecteurs et offrir une expérience d'information plus interactive. Lors de son lancement, seuls 1 % des lecteurs de USA Today y auront accès, afin d'évaluer sa qualité et son efficacité. Ce n'est pas la première fois que USA Today expérimente avec l'IA, ayant déjà testé des résumés d'articles générés par IA et des articles de sport, bien que ceux-ci aient suscité des controverses.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/usa-today-deeper-dive.png?quality=90&strip=all&crop=5.1025390625%2C0%2C89.794921875%2C100&w=2400",
-        "date": "Wed, 11 Jun 2025 16:58:16 GMT"
-    },
-    {
-        "title": "L'IA pour les entreprises : promesses et défis",
-        "link": "https://www.forbes.com/sites/davidteich/2025/06/11/artificial-intelligence-for-business-another-good-intro-to-the-issues/?ss=ai",
-        "body": "L'ouvrage \"Artificial Intelligence for Business\" de Kamales Lardi est une introduction accessible à l'IA pour les gestionnaires. Il offre un aperçu de haut niveau de l'IA, mais certains détails sont imprécis ou confus. Bien que l'IA puisse apporter une valeur ajoutée aux entreprises, l'auteur souligne que ce n'est pas une solution miracle et que la gestion doit évaluer la précision nécessaire et le retour sur investissement par rapport aux solutions traditionnelles de business intelligence. Le chapitre sur l'éthique est particulièrement bien traité, ainsi que celui sur l'avenir du travail, bien que l'auteur minimise l'impact potentiel de l'IA sur le chômage. Dans l'ensemble, le livre explique bien ce dont les entreprises ont besoin pour commencer à adopter l'IA, mais il sert également les intérêts de l'auteur en tant que consultante.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 11 Jun 2025 16:00:00 GMT"
     }
 ]
