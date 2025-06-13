@@ -1,5 +1,19 @@
 [
     {
+        "title": "La cybercriminalité évolue : les gens sont désormais la cible privilégiée, et non plus la technologie",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/06/13/how-crime-as-a-service-turned-hacking-into-a-subscription-business/?ss=ai",
+        "body": "Titre : L'évolution de la cybercriminalité : des mots de passe aux personnes",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684bbbe9178bf770ad869ae7/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 05:50:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA et de la XR",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/13/awe-2025-fueled-by-android-xr-snap-specs-and-ai/?ss=ai",
+        "body": "L'Augmented World Expo 2025 a mis en évidence les dernières avancées en matière de réalité augmentée et virtuelle, avec un focus particulier sur le rôle de l'intelligence artificielle. Ori Inbar, co-fondateur de l'événement, a déclaré que la XR est enfin prête pour le grand public, grâce à des matériels et des outils de développement dédiés, ainsi qu'à l'IA qui abaisse les barrières à l'entrée. Google et Snap ont dévoilé de nouvelles technologies, avec Android XR de Google, un système d'exploitation pour l'informatique spatiale, et les nouvelles lunettes Spectacles de Snap, qui intègrent l'IA pour des interactions spatiales et le partage de jeux en réalité augmentée. XREAL a présenté ses nouvelles lunettes Project Aura, conçues pour la pile Android XR, et Qualcomm a dévoilé son nouveau processeur AR1+ Gen1 pour les lunettes intelligentes autonomes. L'événement a également mis en lumière l'importance croissante des applications d'entreprise en XR, qui représentent désormais 71 % du marché, ainsi que des expériences de divertissement immersives, telles que Dream Park de Brent Bushnell. L'IA est considérée comme un complément et un catalyseur pour la XR, permettant des interactions intuitives et naturelles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b74b3df9b4eab954df031/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 04:00:00 GMT"
+    },
+    {
         "title": "Helios AI Rack",
         "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/12/amd-accelerates-ai-data-centers-with-instinct-and-helios/?ss=ai",
         "body": "AMD a dévoilé sa nouvelle série d'accélérateurs GPU Instinct MI350, offrant des améliorations significatives en matière d'entraînement et d'inférence IA. La série MI350, basée sur l'architecture CDNA 4, propose un système de refroidissement liquide qui augmente la puissance totale de la carte et la densité des racks. L'architecture utilise un empilement 3D hybride avec un intergiciel Infinity Fabric, deux matrices d'E/S et huit matrices de calcul. La plateforme logicielle ROCm 7 d'AMD permet désormais d'exécuter PyTorch nativement sur Windows et prend en charge tous les principaux frameworks et modèles IA, y compris 1,8 million de modèles sur Hugging Face. ROCm 7 offre également des performances d'entraînement et d'inférence considérablement améliorées. AMD a également annoncé son architecture de rack Helios, prévue pour 2026, qui utilisera le processeur Zen 6 Epyc, l'accélérateur GPU Instinct MI400 et la carte réseau Pensando Vulcano AI NIC. L'événement Advancing AI d'AMD a mis en lumière des partenariats clés, notamment avec Astera Labs, Cohere, Humain, Meta, Microsoft et OpenAI, soulignant l'engagement d'AMD envers des solutions IA compétitives pour les centres de données.",
@@ -96,6 +110,13 @@
         "body": "L'article examine les récentes déclarations de Sam Altman, PDG de OpenAI, sur l'état actuel et futur de l'IA, y compris l'AGI (intelligence artificielle générale) et l'ASI (super-intelligence artificielle). Altman suggère que nous avons déjà dépassé l'horizon des événements de l'IA, avec le décollage déjà en cours. L'auteur explore les implications, y compris les débats sur la pertinence des modèles linguistiques larges et l'incertitude quant à savoir si nous sommes sur la bonne voie. Altman prédit également une singularité douce, suggérant qu'elle est déjà en cours (ou arrivera en 2030 ou 2035), et qu'elle se produira progressivement plutôt qu'instantanément. L'article souligne l'incertitude quant aux dates d'atteinte de l'AGI et de l'ASI, avec des prédictions allant de 2030 à 2040. Enfin, il aborde le débat entre les «doomers de l'IA» et les «accélérationnistes», soulignant les préoccupations éthiques concernant les conséquences potentielles de l'AGI et de l'ASI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684a25409156aa9db8338193/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 12 Jun 2025 01:01:00 GMT"
+    },
+    {
+        "title": "Apple Intelligence, le futur de l'IA selon Apple",
+        "link": "https://www.frandroid.com/marques/apple/2641511_ios-26-liquid-glass-et-apple-intelligence-comment-suivre-la-keynote-wwdc-2025-en-direct",
+        "body": "Lors de la WWDC 2025, Apple a présenté Apple Intelligence, sa vision de l'IA. Apple Intelligence enrichira l'expérience utilisateur sur divers produits Apple, notamment Vision Pro via visionOS. La fonction Visual Intelligence, qui permet à l'IA de voir à travers la caméra de l'appareil, peut désormais reconnaître les objets sur l'écran du smartphone. Apple Intelligence offrira également une traduction instantanée sur Messages, Téléphone et FaceTime, permettant aux utilisateurs de discuter avec des personnes ne parlant pas leur langue. De plus, Apple Intelligence sera accessible aux développeurs tiers pour améliorer leurs applications.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-1200x800.jpg?key=2d5d525b",
+        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "La révolution de l'édition photo avec l'IA de Google",
