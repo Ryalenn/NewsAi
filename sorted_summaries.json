@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'ascension de l'IA : des assistants virtuels aux compagnons émotionnels",
+        "link": "https://www.forbes.com/sites/martineparis/2025/06/13/can-chatgpt-conquer-loneliness-the-pivot-to-ai-in-therapy-and-dating/?ss=ai",
+        "body": "L'utilisation de l'IA dans la vie quotidienne est en augmentation, avec des applications dans divers secteurs, notamment la technologie, la santé et les médias sociaux. Des assistants virtuels comme ChatGPT, Claude, Grok et Gemini aident les utilisateurs dans diverses tâches, tandis que des entreprises comme Hinge et Tinder utilisent l'IA pour améliorer l'expérience de rencontre en ligne. Cependant, certains craignent que la dépendance croissante à l'IA puisse avoir des conséquences négatives, notamment la possibilité que les individus développent des relations émotionnelles avec des assistants virtuels. Malgré les avantages de l'IA, des experts comme Justin McLeod soulignent l'importance des connexions humaines mutuelles et de la vulnérabilité dans les relations, qui ne peuvent être remplacées par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684c5577a904f458d780964f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 13 Jun 2025 21:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la conception de puces : l'IA et l'informatique de pointe",
         "link": "https://www.forbes.com/sites/moorinsights/2025/06/13/millennium-m2000-steals-the-show-at-cadence-live-2025/?ss=ai",
         "body": "L'article résume les annonces faites lors de l'événement Cadence Live, où l'entreprise a présenté ses dernières innovations en matière de conception de puces et de solutions technologiques. L'un des points forts a été le nouveau coprocesseur Tensilica NeuroEdge 130 AI, conçu pour compléter les unités de traitement neuronal (NPU) en prenant en charge des tâches plus simples. Ce coprocesseur offre une réduction de la consommation d'énergie et de l'espace, et peut fonctionner avec n'importe quelle NPU. Cadence a également annoncé le superordinateur Millennium M2000, qui, associé aux GPU Nvidia Blackwell, permet d'accélérer considérablement les simulations dans des domaines tels que la conception de puces, la dynamique des fluides et la découverte de médicaments. Jensen Huang, PDG de Nvidia, a exprimé son enthousiasme pour le M2000, allant même jusqu'à passer une commande de dix unités lors de l'événement. Le M2000 est particulièrement impressionnant pour les simulations aérospatiales, réduisant le temps de simulation d'un châssis multi-milliardaire de huit jours à moins de 24 heures. \n\nLe PDG de Cadence, Anirudh Devgan, a souligné l'importance de l'IA dans la conception de puces, prédisant que les outils d'IA joueront un rôle crucial dans la conception de la majorité des puces avancées cette année. Cadence a également annoncé Cerebrus AI Studio, qui utilise l'IA pour optimiser la consommation d'énergie, la densité et le timing dans la conception de puces. Cette approche a permis à Samsung et STMicroelectronics d'améliorer considérablement leur productivité et la performance de leurs systèmes. \n\nL'article conclut en soulignant l'évolution de Cadence vers une entreprise de solutions système, tout en continuant à fournir des outils EDA de pointe, en équilibrant ainsi sa position sur ces deux marchés.",
@@ -47,6 +54,13 @@
         "body": "Le court-métrage de la réalisatrice Eliza McNitt, produit par Primordial Soup de Darren Aronofsky et Google DeepMind, utilise l'IA générative pour raconter l'histoire d'une femme vivant un accouchement difficile. Le projet vise à démontrer le potentiel des modèles de génération vidéo par IA. Le résumé suggère que les résultats peuvent être mitigés, mais qu'ils méritent réflexion dans le domaine de l'IA.",
         "image": "",
         "date": "Fri, 13 Jun 2025 15:11:37 GMT"
+    },
+    {
+        "title": "Nouvelles fonctionnalités d'IA pour Google Workspace",
+        "link": "https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features#comments",
+        "body": "Google déploie de nouvelles fonctionnalités d'IA pour Google Workspace, avec l'assistant Gemini, qui facilite la recherche d'informations dans les PDFs et les réponses aux formulaires. Gemini peut désormais résumer les PDFs et Google Forms, extrayant les points clés et les idées principales. Lorsqu'un utilisateur ouvre un PDF, Gemini crée des cartes de résumé et suggère des actions contextuelles, comme \"rédiger une proposition\" ou \"lister des questions d'entretien\". Les utilisateurs peuvent alors demander à Gemini d'effectuer ces tâches dans le panneau latéral de Google Drive. Cette fonctionnalité est disponible en plus de 20 langues. De plus, une fonctionnalité similaire pour Google Forms résume les réponses aux questions ouvertes, identifiant les thèmes et idées principales. Cette option s'affiche lorsque le formulaire reçoit plus de trois réponses. Enfin, une nouvelle fonctionnalité \"aide à la création\" permet à Gemini de créer automatiquement des formulaires Google en se basant sur les descriptions fournies par l'utilisateur et en important les détails à partir de documents, feuilles de calcul, présentations ou PDFs associés. Ces fonctionnalités améliorent l'efficacité des utilisateurs de Google Workspace, en particulier dans la gestion et l'analyse des informations.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Gemini-in-Drive-pdf-summary.jpg?quality=90&strip=all&crop=4.1666666666667%2C0%2C91.666666666667%2C100&w=2400",
+        "date": "Fri, 13 Jun 2025 14:48:19 GMT"
     },
     {
         "title": "L'aube d'une nouvelle ère de recherche : l'optimisation des modèles linguistiques",
@@ -278,40 +292,5 @@
         "body": "Klarna a mis en place une hotline téléphonique interactive basée sur l'IA, permettant aux utilisateurs de fournir des commentaires à une version IA du PDG de l'entreprise, Sebastian Siemiatkowski. L'IA est formée sur la voix réelle, les idées et les expériences de Siemiatkowski, et vise à recueillir les commentaires des clients et des commerçants sur les fonctionnalités des produits, les problèmes et les suggestions d'amélioration. Les appels sont transcrits et résumés, puis analysés par un grand modèle linguistique qui fournit des informations exploitables aux équipes produit et ingénierie de Klarna. L'entreprise affirme que les problèmes soulevés pourraient se traduire par des améliorations tangibles du produit dès le lendemain. La hotline est actuellement disponible aux États-Unis et en Suède.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/videoframe_10281.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
         "date": "Thu, 12 Jun 2025 04:01:00 GMT"
-    },
-    {
-        "title": "La course vers l'AGI et l'ASI",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/06/11/sam-altman-says-ai-has-already-gone-past-the-event-horizon-but-no-worries-since-agi-and-asi-will-be-a-gentle-singularity/?ss=ai",
-        "body": "L'article examine les récentes déclarations de Sam Altman, PDG de OpenAI, sur l'état actuel et futur de l'IA, y compris l'AGI (intelligence artificielle générale) et l'ASI (super-intelligence artificielle). Altman suggère que nous avons déjà dépassé l'horizon des événements de l'IA, avec le décollage déjà en cours. L'auteur explore les implications, y compris les débats sur la pertinence des modèles linguistiques larges et l'incertitude quant à savoir si nous sommes sur la bonne voie. Altman prédit également une singularité douce, suggérant qu'elle est déjà en cours (ou arrivera en 2030 ou 2035), et qu'elle se produira progressivement plutôt qu'instantanément. L'article souligne l'incertitude quant aux dates d'atteinte de l'AGI et de l'ASI, avec des prédictions allant de 2030 à 2040. Enfin, il aborde le débat entre les «doomers de l'IA» et les «accélérationnistes», soulignant les préoccupations éthiques concernant les conséquences potentielles de l'AGI et de l'ASI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684a25409156aa9db8338193/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 12 Jun 2025 01:01:00 GMT"
-    },
-    {
-        "title": "Grève des comédiens du jeu vidéo : accord trouvé",
-        "link": "https://www.frandroid.com/culture-tech/politique/2644733_la-greve-des-comediens-de-doublage-serait-sur-le-point-de-se-terminer",
-        "body": "Le syndicat américain SAG-AFTRA, représentant les acteurs de la télévision et de la radio, a suspendu sa grève de 11 mois après avoir obtenu des garanties pour protéger les comédiens de l'industrie du jeu vidéo de l'impact de l'intelligence artificielle. L'accord de principe, qui sera examiné le 12 juin 2025, vise à protéger les moyens de subsistance des artistes à l'ère de l'IA et a été négocié avec de grands noms de l'industrie comme Activision, Disney, Epic Games et Warner Bros Games.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/09/egs-steelrising-spiders-g1a-03-1920x1080-6e97a56fd1c4-768x432.jpg?resize=169,169&key=d18c89ef",
-        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'utilisation de l'IA sur Wikipédia",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2645655_wikipedia-encadre-lutilisation-de-lia-generative-sur-lencyclopedie",
-        "body": "Wikipédia, l'encyclopédie en ligne collaborative, a récemment publié une déclaration concernant l'utilisation de l'IA générative sur sa plateforme. Bien qu'elle déconseille fortement son utilisation en raison des risques de production de contenus non fiables et de violations potentielles du droit d'auteur, Wikipédia autorise l'IA pour des fonctions de \"maintenance\", telles que la reformulation de texte et la correction orthographique. Les contributeurs utilisant l'IA doivent toutefois le mentionner explicitement, en indiquant le modèle de langage et la tâche précise. Wikipédia met en garde contre les contenus générés par l'IA, qui doivent être réécrits ou supprimés s'ils sont identifiables comme tels. L'encyclopédie prévoit une réponse rapide en cas d'utilisation d'IA sur les biographies de personnes vivantes, afin de limiter les risques de désinformation.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/01/wikipedia-logo-630x354.jpeg?resize=300,300&key=fe27a4bc",
-        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple Intelligence, le futur de l'IA selon Apple",
-        "link": "https://www.frandroid.com/marques/apple/2641511_ios-26-liquid-glass-et-apple-intelligence-comment-suivre-la-keynote-wwdc-2025-en-direct",
-        "body": "Lors de la WWDC 2025, Apple a présenté Apple Intelligence, sa vision de l'IA. Apple Intelligence enrichira l'expérience utilisateur sur divers produits Apple, notamment Vision Pro via visionOS. La fonction Visual Intelligence, qui permet à l'IA de voir à travers la caméra de l'appareil, peut désormais reconnaître les objets sur l'écran du smartphone. Apple Intelligence offrira également une traduction instantanée sur Messages, Téléphone et FaceTime, permettant aux utilisateurs de discuter avec des personnes ne parlant pas leur langue. De plus, Apple Intelligence sera accessible aux développeurs tiers pour améliorer leurs applications.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-1200x800.jpg?key=2d5d525b",
-        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'édition photo avec l'IA de Google",
-        "link": "https://www.forbes.com/sites/paulmonckton/2025/06/11/google-photos-gives-new-ai-photo-editor-to-all-and-its-a-genius-move/?ss=ai",
-        "body": "Google Photos dévoile un nouvel éditeur de photos intelligent, alimenté par l'IA, pour les appareils Android et iOS. L'interface a été repensée et propose désormais des suggestions d'éditions automatiques, accessibles en un seul clic. Les fonctionnalités les plus remarquables incluent la possibilité de sélectionner une partie de l'image pour obtenir des suggestions d'éditions ciblées, ainsi que des outils tels que Focus, Ajouter de la lumière, Affiner et des outils génératifs. L'éditeur est disponible sur les anciens appareils Android (jusqu'à la version 8) et concurrence directement les fonctionnalités d'intelligence artificielle des iPhone et des Samsung Galaxy. La stratégie de Google est de fidéliser les utilisateurs en leur offrant un logiciel photo sophistiqué, les incitant ainsi à faire confiance à Google Photos pour stocker leurs souvenirs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/62e2ab907abf7ce9ec9932d8/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 11 Jun 2025 23:00:00 GMT"
     }
 ]
