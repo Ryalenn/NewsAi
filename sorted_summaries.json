@@ -229,26 +229,5 @@
         "body": "Lors de la WWDC 2025, Apple a présenté diverses mises à jour, notamment un nouveau langage de design «Liquid Glass» et des mises à jour de ses systèmes d'exploitation. L'entreprise a également annoncé l'ouverture de son IA Apple Intelligence aux développeurs d'applications et son intégration à Image Playground. Malgré les annonces, l'absence notable de Siri lors de l'événement a suscité des interrogations sur l'avenir des efforts d'IA d'Apple. Bien qu'Apple ait introduit de nouvelles fonctionnalités d'IA, telles que la traduction en direct, Siri a été à peine mentionné et certaines de ses fonctionnalités promises ont été retardées. Malgré tout, Apple a affirmé qu'il continuait à travailler sur Siri, visant à atteindre un niveau élevé de fiabilité. En outre, Apple a introduit de nouvelles fonctionnalités de sécurité pour les enfants, amélioré le système d'avatars flottants de visionOS et présenté des améliorations multitâches pour iPadOS.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
         "date": "Thu, 12 Jun 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'évolution de l'écriture générée par l'IA : les nouveaux pièges à éviter",
-        "link": "https://www.forbes.com/sites/charliefink/2025/06/12/the-seven-tells-of-ai-writing/?ss=ai",
-        "body": "L'article met en lumière l'émergence d'un nouveau style d'écriture généré par l'IA, qu'on retrouve dans les communiqués de presse, les publications sur les réseaux sociaux et les essais d'étudiants. Ce style, que l'auteur appelle « le style TED », se caractérise par une rhétorique ampoulée, des contrastes marqués et des punchlines accrocheuses, mais manque souvent de substance et d'insights profonds. Bien que ce style puisse créer de l'engagement, il est facile à repérer et peut sembler artificiel. L'auteur identifie plusieurs caractéristiques de ce style, telles que l'utilisation excessive de questions rhétoriques, de triples, de dashes, ainsi que des pivots inspirants et des affirmations sans sources crédibles. Ces pièges sont courants dans les textes générés par des modèles d'IA comme ChatGPT, Perplexity et Grok. L'article sert d'avertissement aux professionnels de l'IA et aux écrivains pour qu'ils restent vigilants face à ces nouvelles tendances et maintiennent des standards élevés dans leurs contenus.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684b0bc8e4eb0efc3769eb9b/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 12 Jun 2025 17:00:00 GMT"
-    },
-    {
-        "title": "Copilot Vision pour Windows",
-        "link": "https://www.theverge.com/news/685963/microsoft-copilot-vision-windows-launch#comments",
-        "body": "Microsoft lance Copilot Vision pour Windows, une extension de son assistant IA qui permet à l'IA d'analyser le contenu de votre écran et de vous assister en temps réel. Copilot Vision peut guider l'utilisateur à travers des applications comme Adobe Photoshop, analyser des photos et des pages web, et fournir des réponses et des insights. L'expérience est optionnelle et l'utilisateur doit spécifiquement partager son écran ou ses applications avec Copilot Vision pour activer la fonctionnalité. La fonctionnalité est désormais disponible gratuitement aux États-Unis pour les utilisateurs de Windows 10 et 11, sans nécessiter un abonnement Copilot Pro.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 12 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La domination de l'IA",
-        "link": "https://www.forbes.com/sites/richardnieva/2025/06/12/scale-ais-business-could-collapse-if-meta-buys-a-stake-and-hires-its-ceo/?ss=ai",
-        "body": "Résumé : La vente surprise d'une participation de 49 % dans Scale AI à Meta pour 15 milliards de dollars soulève des inquiétudes quant à l'accès de Meta aux données de ses concurrents en matière d'IA. Scale AI, qui fournit des services d'étiquetage de données, a travaillé avec des entreprises leaders en IA, et on craint que Meta n'obtienne un aperçu des types de données utilisés par ces entreprises pour former leurs modèles. OpenAI, l'un de ses clients les plus importants, aurait déjà réduit sa collaboration avec Scale. La transaction valorise Scale AI à 28 milliards de dollars, mais soulève des questions sur la confidentialité des données et crée des opportunités pour les concurrents de Scale. Meta, qui cherche à renforcer ses capacités en IA, a recruté le PDG de Scale AI, Alexandr Wang, pour diriger un nouveau laboratoire d'IA, offrant des salaires élevés pour attirer les meilleurs talents. La transaction met en évidence l'importance des données de qualité pour l'entraînement des modèles d'IA et le rôle crucial des travailleurs humains dans ce processus.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684afff770b19a13f5a406bc/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 12 Jun 2025 16:00:00 GMT"
     }
 ]
