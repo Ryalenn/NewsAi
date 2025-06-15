@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir des interfaces avec les modèles IA de pointe",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/15/doing-the-work-with-frontier-models-ill-talk-to-ai/?ss=ai",
+        "body": "Résumé : \n\nLes modèles de pointe en IA, ou « modèles de frontière », représentent l'état de l'art des systèmes IA, caractérisés par leur polyvalence, leur sophistication architecturale et leur capacité à gérer des données massives. Ces modèles, comme ChatGPT, présentent des caractéristiques clés telles que la multimodalité (gestion d'entrées/sorties non textuelles comme les images, vidéos et audio), l'apprentissage zéro-shot (réduction de la dépendance aux prompts) et un comportement agentique. Les entreprises à l'avant-garde de cette recherche incluent OpenAI avec GPT-4o et son interface multimodale en temps réel, ainsi que Gemini 1.5, qui offre un contexte solide. La création de ces modèles exige des ressources importantes et le panel d'experts souligne l'importance de la qualité et de la suffisance, ainsi que de la multimodalité. Ils discutent également des défis de l'évaluation de ces systèmes, de l'utilisation de données synthétiques et de l'évolution vers des interfaces plus intuitives et conversationnelles, marquant la fin des interfaces de type ligne de commande. L'IA de demain sera omniprésente, répondant à la voix, au regard et aux émotions, anticipant nos besoins et offrant une expérience utilisateur fluide et immersive.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65cbbcbd8a87d8d4fc17eeba/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 15 Jun 2025 11:00:00 GMT"
+    },
+    {
+        "title": "L'avenir du travail avec l'IA",
+        "link": "https://www.forbes.com/sites/digital-assets/2025/06/15/every-business-is-becoming-an-ai-company-heres-how-to-do-it-right/?ss=ai",
+        "body": "L'intelligence artificielle (IA) transforme actuellement les entreprises aux États-Unis, et l'adoption de l'IA est essentielle pour rester compétitif. Les dirigeants d'entreprise doivent peser les coûts et les avantages potentiels de l'IA, qui ne sont pas toujours garantis. Les outils d'IA peuvent augmenter la productivité, mais ils peuvent également la diminuer s'ils sont mal implémentés. Les entreprises doivent offrir des initiatives d'IA comme un espace d'expérimentation et d'exploration pour les équipes, plutôt que de simplement chercher à augmenter la production. Il est important de maintenir une dynamique d'équipe positive et de veiller à ce que les employés restent engagés et motivés, en offrant des opportunités de formation et de développement. Les entreprises doivent également investir dans la diversification et le perfectionnement de leurs équipes, en recrutant des talents issus de différents horizons, notamment des experts en IA. L'IA ne doit pas être limitée aux équipes techniques, mais devrait être explorée par toutes les équipes pour différents projets. Les entreprises qui créent une culture d'expérimentation et d'adaptation à l'IA seront les plus résistantes et les plus aptes à tirer parti de son potentiel.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b01422b33334e8c65af9a/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 15 Jun 2025 10:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'investissement dans l'IA : stratégies pour naviguer dans un paysage en évolution",
         "link": "https://www.forbes.com/sites/saharhashmi/2025/06/15/3-game-changing-ai-investment-strategies-for-big-tech-investors-to-save-millions/?ss=ai",
         "body": "Titre : Naviguer dans l'IA : Stratégies d'investissement pour un paysage en évolution",
@@ -54,6 +68,13 @@
         "body": "Apple a retardé la sortie de sa mise à niveau de Siri, initialement prévue pour mars, en raison de problèmes de fiabilité. L'entreprise a déclaré que les fonctionnalités promises de Siri, notamment une meilleure conscience du contexte personnel et la capacité d'effectuer des actions dans les applications, n'avaient pas atteint les normes de qualité attendues. Craig Federighi, responsable logiciel chez Apple, a déclaré que bien qu'ils aient obtenu des résultats prometteurs au début, ils n'étaient pas satisfaits de la fiabilité de Siri. Greg Joswiak, responsable marketing, a ajouté qu'ils ne voulaient pas décevoir les clients et qu'il aurait été plus décevant de lancer un produit qui n'atteignait pas leurs normes de qualité. Apple prévoit désormais de lancer les mises à niveau de Siri en 2026.",
         "image": "",
         "date": "Fri, 13 Jun 2025 17:56:11 GMT"
+    },
+    {
+        "title": "Google Search Audio Overviews",
+        "link": "https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search#comments",
+        "body": "Google teste une nouvelle fonctionnalité qui intègre ses Audio Overviews alimentés par l'IA directement sur la première page des résultats de recherche mobile. Cette expérience, disponible dans Labs, permet aux utilisateurs de générer une discussion de style podcast basée sur l'IA pour certaines requêtes. Par exemple, si vous recherchez « Comment fonctionnent les écouteurs à annulation de bruit ? », Google affichera un bouton « Générer un Audio Overview ». Une fois cliqué, il faudra jusqu'à 40 secondes pour générer un aperçu audio, qui sera présenté dans un petit lecteur intégré aux résultats de recherche, avec des options pour lire, mettre en pause, couper le son et ajuster la vitesse de lecture. L'Audio Overview présente deux « hôtes » générés par l'IA qui discutent avec enthousiasme du sujet recherché, et des liens vers les sources utilisées sont également fournis. Actuellement, cette fonctionnalité n'est disponible qu'en anglais aux États-Unis, mais Google a commencé à intégrer les Audio Overviews dans d'autres produits depuis son lancement l'année dernière, offrant ainsi aux utilisateurs plus d'options pour générer des discussions audio basées sur leurs notes ou des recherches approfondies.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/search-audio-overviews.png?quality=90&strip=all&crop=0%2C1.8743667679838%2C100%2C96.251266464032&w=2400",
+        "date": "Fri, 13 Jun 2025 17:42:48 GMT"
     },
     {
         "title": "Apple's New Design Language and AI Focus",
@@ -131,19 +152,5 @@
         "body": "L'article souligne l'importance de la maîtrise de l'IA dans les entreprises, en particulier pour les entrepreneurs qui souhaitent l'utiliser de manière stratégique. Anthropic, l'entreprise derrière le chatbot Claude AI, a lancé un cours en ligne gratuit intitulé \"AI Fluency: Frameworks and Foundations\", qui propose une feuille de route pratique pour utiliser l'IA dans un contexte professionnel. Le cours, structuré comme un programme universitaire, développe quatre compétences clés : la délégation, la description, le discernement et la diligence. Ces compétences permettent aux utilisateurs de prendre des décisions éclairées sur l'utilisation de l'IA, de fournir des entrées claires et structurées, de réviser de manière critique les sorties de l'IA et de vérifier minutieusement les résultats avant de les partager. Le cours est soutenu par un partenariat unique entre un laboratoire d'IA de premier plan, des professeurs reconnus et une agence gouvernementale, ce qui en fait une ressource crédible et accessible. La maîtrise de ces compétences, connue sous le nom de \"fluency in AI\", devient une compétence professionnelle essentielle, permettant aux dirigeants d'entreprises de transformer l'IA en un moteur fiable de productivité et d'insights.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684c2031becbdd84f9cbbcdc/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 13 Jun 2025 13:00:00 GMT"
-    },
-    {
-        "title": "La bataille juridique pour l'IA",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/06/13/hollywood-sues-ai-firm-for-copying-characters-with-no-license/?ss=ai",
-        "body": "Titre : La bataille juridique pour l'IA",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684b48262edd0b9cba22d4b5/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 13 Jun 2025 12:00:00 GMT"
-    },
-    {
-        "title": "La prochaine vague de l'IA : comprendre le monde physique",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/13/what-is-physical-ai-inside-the-push-to-make-ai-understand-the-real-world/?ss=ai",
-        "body": "L'IA a fait des progrès considérables dans la reconnaissance visuelle, mais sa compréhension du monde physique et de ses interactions complexes reste limitée. C'est là qu'intervient l'IA physique, un nouveau domaine qui vise à enseigner aux machines la cause et l'effet, et à leur permettre de prédire les actions et de repérer les risques dans le monde réel. En fusionnant la vision par ordinateur, la simulation physique et l'apprentissage automatique, l'IA physique donne aux systèmes IA une conscience spatiale et une compréhension des interactions entre les objets et les personnes. L'article met en évidence les cas d'utilisation de l'IA physique, notamment dans la surveillance vidéo, où elle peut détecter les comportements suspects, interpréter les intentions et générer des alertes en temps réel, ainsi que dans l'identification des violations de sécurité et des problèmes de sécurité alimentaire dans les environnements de fabrication. Bien que cette technologie soulève des préoccupations en matière de vie privée et d'éthique, les entreprises comme Lumana, Norwest, Nvidia et Hakimo y voient un potentiel énorme et y investissent massivement. L'IA physique a pour objectif ultime d'améliorer la compréhension des machines et de les aider à raisonner dans le monde physique complexe qui nous entoure.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684c01cf03787f2fe95fbba7/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 13 Jun 2025 10:00:00 GMT"
     }
 ]
