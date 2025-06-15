@@ -140,10 +140,31 @@
         "check": "yes"
     },
     {
-        "title": "Une Barbie dopée à ChatGPT ? Mattel et OpenAI s’allient et l’idée d’un jouet « vivant » apparaît",
+        "title": "Une Barbie dop\u00e9e \u00e0 ChatGPT ? Mattel et OpenAI s\u2019allient et l\u2019id\u00e9e d\u2019un jouet \u00ab vivant \u00bb appara\u00eet",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2649009_une-barbie-dopee-a-chatgpt-mattel-et-openai-sallient-et-lidee-dun-jouet-vivant-apparait",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/jpg-copie.jpg?resize=200,200&key=d324de9e",
         "date": "Sat, 14 Jun 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/search-audio-overviews.png?quality=90&strip=all&crop=0%2C1.8743667679838%2C100%2C96.251266464032&w=2400",
+        "date": "Fri, 13 Jun 2025 17:42:48 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/15/doing-the-work-with-frontier-models-ill-talk-to-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/65cbbcbd8a87d8d4fc17eeba/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 15 Jun 2025 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/digital-assets/2025/06/15/every-business-is-becoming-an-ai-company-heres-how-to-do-it-right/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684b01422b33334e8c65af9a/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 15 Jun 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
