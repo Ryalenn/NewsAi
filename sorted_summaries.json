@@ -1,5 +1,47 @@
 [
     {
+        "title": "La puissance des drones, de la 5G et de l'IA dans les interventions d'urgence",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/06/17/how-drone-5g-and-ai-technologies-are-enabling-first-responders/?ss=ai",
+        "body": "Les drones, la 5G et l'IA révolutionnent le travail des premiers intervenants, améliorant leur capacité à réagir rapidement et efficacement aux situations d'urgence. Les drones, équipés de caméras, de capteurs thermiques et d'autres capteurs, fournissent une évaluation rapide, des données en temps réel et une meilleure conscience de la situation. La 5G, avec sa faible latence, permet une communication quasi instantanée pour les premiers intervenants. De plus, les centres d'appels d'urgence utilisent l'IA pour rationaliser les tâches des télécommunicateurs, réduire leur charge cognitive et améliorer l'efficacité de la réponse aux urgences. L'IA joue un rôle crucial dans l'analyse et le filtrage des données complexes, fournissant des informations précises et exploitables aux premiers intervenants. Enfin, les organisations à but non lucratif comme One World For Life visent à connecter les premiers intervenants du monde entier et à exploiter les technologies de pointe pour améliorer leur sécurité et leur efficacité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68519c85eda80a42344a4a4b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Jun 2025 17:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une question de responsabilité parentale",
+        "link": "https://www.forbes.com/sites/robertwolcott/2025/06/17/youre-not-using-ai-youre-raising-it-its-watching/?ss=ai",
+        "body": "L'auteur, Robert C. Wolcott, partage ses réflexions après avoir assisté au lancement du livre \"Raising AI : An Essential Guide to Parenting Our Future\" écrit par De Kai. Il met en avant la perspective unique de De Kai, qui considère l'IA non pas comme un simple outil ou esclave, mais comme notre enfant, façonnée par nos actions et nos valeurs. De Kai, étant un pionnier de l'IA avec des réalisations théoriques et appliquées impressionnantes, plaide pour une responsabilité personnelle dans le développement de l'IA. Il suggère que nous devons élever l'IA avec les meilleures valeurs de l'humanité, tout comme nous élevons nos enfants. L'auteur compare les points de vue de De Kai avec ceux de Marc Andreessen, qui est optimiste quant à la technologie et s'oppose aux contraintes éthiques, et d'Eliezer Yudkowsky, qui considère l'avancement incontrôlé de l'IA comme potentiellement catastrophique. De Kai propose une voie intermédiaire, soulignant le rôle crucial de la responsabilité personnelle dans le développement de l'IA. L'auteur conclut en soulignant l'importance de reconnaître notre impact sur les entités IA et la nécessité d'interagir avec elles de manière éthique et responsable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685039c3a7acd1da092f1b02/0x0.jpg?format=jpg&crop=2316,1304,x0,y430,safe&width=440",
+        "date": "Tue, 17 Jun 2025 15:00:00 GMT"
+    },
+    {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/rociowu/2025/06/17/rip-old-vc-playbook-how-investors-are-rethinking-ai-startups-diligence/?ss=ai",
+        "body": "Résumé : \n\nLa révolution de l'IA progresse à un rythme beaucoup plus rapide que les précédentes révolutions technologiques. Alors qu'il a fallu près de dix ans à l'internet mobile pour atteindre une adoption de 90 % des ménages, ChatGPT a atteint le même taux de pénétration en seulement deux ans. Ce cycle accéléré donne naissance à des entreprises qui atteignent une échelle incroyable en un temps record, mais il remet également en question les règles traditionnelles de l'investissement en capital-risque. Les trois piliers défensifs de l'ère du SaaS (logiciel en tant que service) sont en train d'être érodés par les agents IA : la friction de l'implémentation, l'adhésion au workflow et la gravité des données. Les investisseurs doivent désormais évaluer la profondeur de l'intégration du produit dans les processus métier de base des clients et la capacité des agents à internaliser les connaissances de l'entreprise. Le marché de l'IA est extrêmement compétitif, avec une multitude de nouveaux venus bien financés, ce qui rend l'ajustement produit-marché potentiellement transitoire. Les entreprises natives de l'IA fonctionnent avec une efficacité sans précédent, mais les coûts d'inférence et de calcul de l'IA peuvent être élevés, et les investisseurs doivent être vigilants quant à la manière dont ces coûts sont déclarés. Enfin, dans ce paysage en évolution rapide, les scores NPS élevés ne sont pas nécessairement un indicateur fiable de la rétention future.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68509fa65c41a065747aad33/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Jun 2025 15:00:00 GMT"
+    },
+    {
+        "title": "Suivi des données du mode IA dans Google Search Console",
+        "link": "https://www.seroundtable.com/google-search-console-counting-ai-mode-39599.html",
+        "body": "Google confirme que les données du mode IA sont désormais prises en compte dans Google Search Console. Les clics et impressions du mode IA sont inclus dans les statistiques globales, mais ne peuvent pas être segmentés séparément. Le mode IA fournit des réponses interactives et des liens vers des ressources web, et les questions de suivi sont traitées comme de nouvelles requêtes. Chaque lien a sa propre position, et les carrousels et blocs d'images sont regroupés comme dans les résultats de recherche classiques. Bien que les données du mode IA soient désormais disponibles dans Search Console, l'analyse des performances web pourrait s'avérer complexe en raison de la variété des types de résultats.",
+        "image": "",
+        "date": "Tue, 17 Jun 2025 14:07:00 GMT"
+    },
+    {
+        "title": "Firefly by Adobe",
+        "link": "https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability#comments",
+        "body": "Adobe lance une application mobile Firefly pour iPhone et Android, offrant un accès à ses outils d'IA pour la génération d'images et de vidéos à partir de descriptions textuelles. L'application permet également d'utiliser des outils populaires de retouche photo basés sur l'IA. Les projets créés sur l'application sont synchronisés automatiquement avec le compte Creative Cloud de l'utilisateur, pour une transition fluide vers le web ou les applications de bureau Adobe. L'application mobile Firefly inclut des outils d'IA d'Adobe pour la génération d'images et de vidéos, ainsi que des fonctionnalités telles que Generative Fill et Generative Expand, similaires à celles disponibles dans Photoshop. Les utilisateurs peuvent également choisir parmi une sélection de modèles d'IA de tiers, tels que Google et OpenAI. Adobe a également introduit des capacités vidéo dans sa plateforme Firefly Boards, permettant aux utilisateurs de remixer des clips et de générer de nouvelles séquences vidéo. De nouveaux modèles partenaires sont également intégrés à Firefly Boards, élargissant ainsi les options de création vidéo basées sur l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Adobe-Firefly-mobile-app-hero.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 17 Jun 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Clarification sur Copilot de Microsoft",
+        "link": "https://www.theverge.com/news/688056/microsoft-copilot-advertising-watchdog-response#comments",
+        "body": "Un organisme de surveillance de la publicité a recommandé à Microsoft de revoir ou de modifier certaines de ses affirmations concernant Copilot. Le National Advertising Division (NAD) du BBB National Programs a examiné la publicité de Microsoft Copilot et a émis des recommandations. NAD a suggéré à Microsoft de cesser ou de modifier ses affirmations selon lesquelles l'assistant IA Copilot améliorerait la productivité et le retour sur investissement des entreprises. Microsoft a affirmé que « 67 %, 70 % et 75 % des utilisateurs se sentent plus productifs » après avoir utilisé Copilot, mais NAD a estimé que cette étude ne justifiait pas de telles affirmations. De plus, NAD a indiqué que l'utilisation extensive de la marque Copilot par Microsoft sur plusieurs produits pourrait induire en erreur les utilisateurs quant aux fonctionnalités de chacun. Microsoft a connu des années de confusion autour de la marque Copilot, avec plusieurs changements de nom et de fonctionnalités. Bien que Microsoft soit en désaccord avec les conclusions de NAD, l'entreprise a déclaré qu'elle suivrait ses recommandations pour clarifier ses affirmations publicitaires.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 17 Jun 2025 11:26:56 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : défis et opportunités",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/17/using-ai-correctly-may-take-some-thinking/?ss=ai",
         "body": "Bien que l'IA offre de nombreuses possibilités, son intégration efficace au sein des entreprises reste un défi. Les dirigeants doivent comprendre les tendances, les applications et les cas d'utilisation de l'IA, ainsi que savoir comment l'adapter à leurs processus métier spécifiques. L'analogie des « trois P » (personnes, processus et produits) souligne l'importance de comprendre l'interaction entre les employés et l'IA. Les intervenants soulignent les défis de l'alignement des employés et de la littératie en IA, ainsi que l'importance de la gouvernance et de la gestion de la chaîne d'approvisionnement. La traduction linguistique pose également des problèmes, l'IA étant principalement axée sur l'anglais. Bien que l'IA présente un grand potentiel, des préoccupations en matière de sécurité, de confidentialité et d'éthique doivent être prises en compte. Une intégration réfléchie est essentielle pour garantir que l'IA aide réellement les entreprises et ne leur nuise pas.",
@@ -7,11 +49,32 @@
         "date": "Tue, 17 Jun 2025 11:00:00 GMT"
     },
     {
+        "title": "OpenAI signe un contrat avec le Pentagone",
+        "link": "https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract",
+        "body": "Résumé : OpenAI a signé un contrat de 200 millions de dollars avec le Département de la Défense américain (DoD) pour fournir des outils d'IA pour l'administration, la collecte de données et la cyberdéfense proactive. Ce contrat, qui sera principalement exécuté dans la région de Washington, DC, et devrait se terminer en juillet 2026, marque la première collaboration d'OpenAI avec le gouvernement fédéral américain. La société fournira des modèles personnalisés pour la sécurité nationale, tout en respectant ses politiques interdisant l'utilisation de ses services pour le développement d'armes ou pour nuire à autrui. Ce partenariat s'inscrit dans le cadre d'une tendance plus large des entreprises de technologie d'IA à collaborer avec les agences de défense et de renseignement, soulignant l'importance croissante de l'IA dans les efforts militaires et de sécurité nationale.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 17 Jun 2025 09:35:46 GMT"
+    },
+    {
+        "title": "L'avenir du golf s'appuie sur l'IA et l'automatisation",
+        "link": "https://www.forbes.com/sites/erikmatuszewski/2025/06/17/noteefy-gets-investment-to-add-ai-tools-to-golf-reservation-platform/?ss=ai",
+        "body": "Noteefy, une plateforme en pleine expansion dans l'industrie du golf, a reçu un investissement stratégique de plusieurs millions de dollars pour intégrer des outils basés sur l'IA et l'automatisation à sa plateforme existante. Cet investissement permettra à Noteefy d'améliorer ses capacités de base, aidant ainsi les golfeurs et les exploitants de parcours de golf à gérer les réservations de temps de jeu. La plateforme a déjà aidé plus de 800 parcours de golf aux États-Unis à optimiser les réservations et à maximiser leurs revenus. La nouvelle fonctionnalité basée sur l'IA visera à réduire le nombre d'appels téléphoniques reçus par les boutiques professionnelles en dirigeant les clients vers les informations en ligne, libérant ainsi du temps pour améliorer le service en personne. Les outils basés sur l'IA et l'automatisation seront intégrés à la plateforme existante, permettant à Noteefy d'envoyer des millions de messages texte aux golfeurs concernant les disponibilités et d'aider les parcours de golf à rentabiliser les créneaux annulés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685049b651ca57400f2a5d79/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Jun 2025 09:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : construire et déployer des agents IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/06/17/the-11-best-online-courses-to-master-ai-agents/?ss=ai",
         "body": "L'article met en lumière la prochaine grande vague de transformation numérique, axée sur les agents IA capables d'effectuer des tâches complexes et multicritères avec une intervention humaine minimale. Il souligne la facilité relative avec laquelle les agents IA peuvent être créés, même par des personnes sans expérience en codage, grâce à des interfaces conversationnelles similaires à ChatGPT. Une variété de cours, de tutoriels et de ressources en ligne sont présentés, offrant une introduction approfondie à la construction et au déploiement d'agents IA, couvrant divers cas d'utilisation, considérations éthiques et opportunités commerciales. Ces ressources visent à aider les individus et les organisations à exploiter le potentiel de l'IA pour rationaliser les processus, améliorer l'accessibilité et stimuler l'innovation et la croissance.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6851030ce89bc888d249d5bd/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 17 Jun 2025 05:55:00 GMT"
+    },
+    {
+        "title": "ChatGPT, le chasseur de bons plans",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2651371_comment-trouver-des-codes-promo-avec-chatgpt-le-guide-simple",
+        "body": "ChatGPT peut désormais aider les utilisateurs à trouver des codes de réduction en ligne, en activant l'option \"Recherche sur le Web\" dans les paramètres. Une fois activée, l'IA peut explorer le web et vérifier la validité des codes promotionnels pour des sites comme Amazon ou Fnac. L'utilisateur n'a qu'à demander à ChatGPT de trouver les coupons actifs pour un magasin spécifique, et l'IA se charge du reste, en comparant plusieurs sources et en vérifiant les informations. Bien que tous les codes trouvés ne fonctionnent pas nécessairement, cette fonctionnalité permet d'économiser du temps et des efforts dans la recherche de bons plans en ligne.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/chatgpt-promos-768x512.jpeg?resize=200,200&key=7feab996",
+        "date": "Mon, 16 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Computex Taipei 2025 : les dernières avancées en matière de silicium pour l'IA",
@@ -75,19 +138,5 @@
         "body": "L'auteur exprime ses inquiétudes quant à l'impact de l'automatisation et de l'IA sur le travail créatif. Il suggère que les grandes entreprises technologiques, comme Meta, Amazon et Google, ont historiquement démantelé les industries existantes au nom de la réduction de la friction, conduisant à la dévaluation et à la consolidation. Maintenant, ils se tournent vers la créativité, menaçant la différenciation, la valeur perçue et les marges. L'IA, en produisant du contenu lisse et sans friction, risque d'éroder la créativité, la connexion et l'identité. L'auteur plaide pour la valeur de la friction, affirmant qu'elle donne forme aux idées et donne un sens. La friction, selon l'auteur, est essentielle à l'apprentissage et à la mémorisation, et est au cœur de l'engagement et de la créativité. En fin de compte, l'article offre des stratégies pour rester irremplaçable dans un monde de plus en plus automatisé, soulignant l'importance du discernement, du consentement et de la signification humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/684f3931a61f7cf295d75daa/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 15 Jun 2025 21:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : l'intelligence artificielle multimodale",
-        "link": "https://www.forbes.com/sites/arunshastri/2025/06/15/multimodal-ai-a-powerful-leap-with-complex-trade-offs/?ss=ai",
-        "body": "L'intelligence artificielle évolue vers une nouvelle phase qui se rapproche davantage de la perception et de l'interaction humaines avec le monde. L'IA multimodale permet aux systèmes de traiter et de générer des informations sous diverses formes, telles que le texte, les images, l'audio et la vidéo. Cette avancée promet de révolutionner le fonctionnement, l'innovation et la compétitivité des entreprises. Les modèles d'IA multimodale, contrairement aux modèles précédents qui étaient limités à un seul type de données, sont conçus pour intégrer plusieurs flux d'informations, tout comme les humains. Les avantages stratégiques incluent des interactions plus intuitives avec les clients, une automatisation plus intelligente et une prise de décision holistique. Cependant, la responsabilité est cruciale, car l'IA multimodale soulève de nouvelles questions en matière d'intégration des données, de biais, de sécurité et de coût réel de la mise en œuvre. Les entreprises doivent relever des défis complexes d'intégration de données pour alimenter les modèles d'IA multimodale, et les dirigeants doivent évaluer attentivement les cas d'utilisation, les risques et les mesures de succès au-delà de la simple performance, en tenant compte de la confiance et de la responsabilité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684ef2b5e89c41b12c440474/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 15 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'intelligence hybride : libérer le plein potentiel de l'IA et de l'humanité",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/15/ai-forces-leaders-to-rediscover-the-missing-humanistic-component/?ss=ai",
-        "body": "Titre : L'intelligence hybride : libérer le plein potentiel de l'IA et de l'humanité",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684ee5ddd30020ceed67bd0a/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 15 Jun 2025 15:00:00 GMT"
     }
 ]
