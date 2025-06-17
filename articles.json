@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment Harry Potter menace l’existence de l’IA de Facebook",
+        "title": "Comment Harry Potter menace l\u2019existence de l\u2019IA de Facebook",
         "link": "https://www.frandroid.com/marques/meta/2649249_comment-hary-potter-menace-lexistence-de-lia-de-facebook",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/harry-potter-harry-potter-and-the-deathly-hallows-part-2-lord-voldemort-wallpaper-preview.jpg?resize=169,169&key=1dd7d19f",
         "date": "Sun, 15 Jun 2025 23:00:00 GMT",
@@ -75,5 +75,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/685030d636d8f6c211cd9aee/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 16 Jun 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.wsj.com/tech/ai/openai-and-microsoft-tensions-are-reaching-a-boiling-point-4981c44f?mod=rss_Technology",
+        "image": "",
+        "date": "Mon, 16 Jun 2025 20:32:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/06/16/computex-2025---ai-hardware-galore-gpus-front-and-center/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685094b56f59f3e5925f5c12/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Jun 2025 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/06/16/metas-scale-ai-bet-hollywood-sues-ai-xr-industry-readies-ar-glasses/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68508bcb1d6f2881c49c8453/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Jun 2025 21:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/16/humphrey-ai-tool-transforms-uk-public-services-amid-global--divide/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68507f625e4ab549c6159b3f/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 16 Jun 2025 20:00:00 GMT",
+        "check": "no"
     }
 ]
