@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment Harry Potter menace l’existence de l’IA de Facebook",
+        "title": "Comment Harry Potter menace l\u2019existence de l\u2019IA de Facebook",
         "link": "https://www.frandroid.com/marques/meta/2649249_comment-hary-potter-menace-lexistence-de-lia-de-facebook",
         "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/06/harry-potter-harry-potter-and-the-deathly-hallows-part-2-lord-voldemort-wallpaper-preview.jpg?resize=169,169&key=1dd7d19f",
         "date": "Sun, 15 Jun 2025 23:00:00 GMT",
@@ -82,5 +82,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6851030ce89bc888d249d5bd/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 17 Jun 2025 05:55:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-13-at-1.52.21%E2%80%AFPM.png?quality=90&strip=all&crop=4.745493107105%2C0%2C90.50901378579%2C100&w=2400",
+        "date": "Mon, 16 Jun 2025 08:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/17/using-ai-correctly-may-take-some-thinking/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684770fec0ee52f0aab53cff/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 17 Jun 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
