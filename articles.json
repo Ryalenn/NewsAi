@@ -194,5 +194,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6852da94a1fdb975075805fa/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 18 Jun 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-header.jpg?quality=90&strip=all&crop=0%2C0.03673769287289%2C100%2C99.926524614254&w=2400",
+        "date": "Wed, 18 Jun 2025 16:15:59 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-game-jams.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 18 Jun 2025 16:05:01 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/06/18/cisco-charts-its-agentic-ai-journey-at-cisco-live-us-2025/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685300c2129e8ff2431155ee/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 18 Jun 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
