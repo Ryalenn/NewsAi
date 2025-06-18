@@ -194,5 +194,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6852c54c9b3bac85af7d312d/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 18 Jun 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/689212/google-search-live-ai-mode-test#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/google-search-live-in-search.png?quality=90&strip=all&crop=0%2C1.6150516150516%2C100%2C96.769896769897&w=2400",
+        "date": "Wed, 18 Jun 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-no-input.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 18 Jun 2025 15:07:30 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/06/18/decentralized-ai-is-watching--and-understanding---everything/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6852e11654fcd9ffbdb8fbce/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 18 Jun 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/18/openais-200m-dod-pilot-faces-big-gains-and-big-risks/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6852da94a1fdb975075805fa/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 18 Jun 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
