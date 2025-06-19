@@ -1,10 +1,45 @@
 [
     {
+        "title": "Le futur du codage",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/19/vibe-coding-its-four-months-old-whats-up/?ss=ai",
+        "body": "Le « vibe coding » est un terme récent décrivant une approche de l'ingénierie logicielle où l'IA génère du code de manière autonome, le développeur se contentant de fournir les entrées. Bien que les LLMs ne soient pas encore tout à fait autonomes dans cette tâche, le « vibe coding » encourage les programmeurs à laisser l'IA travailler seule. Lors d'un panel récent, des experts ont discuté de cette tendance, certains arguant que le « vibe coding » est déjà suffisamment avancé pour que les développeurs puissent s'en remettre entièrement à l'IA, tandis que d'autres soulignent l'importance de comprendre le code généré et les contraintes du système. Le débat met en lumière la nécessité de connaissances en codage pour gérer les complexités du développement de systèmes, l'IA pouvant ne pas toujours produire du code parfaitement adapté aux besoins. Ainsi, le rôle du développeur humain reste pertinent, même avec l'émergence du « vibe coding ».",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/678bb404c01e082e636084bb/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 19 Jun 2025 11:00:00 GMT"
+    },
+    {
+        "title": "La révolution de la recherche AI",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/06/19/these-startups-are-helping-businesses-show-up-in-ai-search-summaries/?ss=ai",
+        "body": "L'article explore l'impact de l'IA sur l'évolution des stratégies de recherche pour les entreprises, en particulier dans le domaine du référencement. Avec l'émergence des moteurs de recherche AI comme ChatGPT et Perplexity, le trafic de recherche pour de nombreuses entreprises diminue, car les utilisateurs obtiennent les réponses dont ils ont besoin directement à partir de l'IA, sans avoir à cliquer sur des liens. Cela a conduit à un changement de paradigme dans le référencement, les entreprises s'adaptant pour comprendre comment leurs marques apparaissent dans les réponses générées par l'IA. Des startups comme Profound, Bluefish AI et Athena aident les entreprises à naviguer dans ce nouvel environnement, en offrant des outils pour analyser leur présence dans les résultats de recherche AI et optimiser leur contenu pour les moteurs de recherche AI. L'article souligne également l'importance croissante de l'optimisation pour les grands modèles linguistiques et la conviction que l'attention des consommateurs sera de plus en plus captée par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685333a39c3307edbb56ea00/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&width=440",
+        "date": "Thu, 19 Jun 2025 10:00:00 GMT"
+    },
+    {
+        "title": "L'adoption de l'IA generative dans les entreprises",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/06/19/from-adoption-to-advantage-10-trends-shaping-enterprise-llms-in-2025/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6853e658082ca3a991f5eed6/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 19 Jun 2025 10:00:00 GMT"
+    },
+    {
         "title": "L'exploration spatiale au service de l'IA et de l'avenir de l'humanité",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/06/19/space-tech-and-ai-what-astronaut-tim-peake-can-teach-us-about-the-future-of-humanity/?ss=ai",
         "body": "L'astronaute Tim Peake, qui a passé six mois à bord de la Station Spatiale Internationale, offre un point de vue unique sur la façon dont l'exploration spatiale peut contribuer à résoudre les problèmes de la Terre, notamment en matière d'IA, de crise climatique et de transition énergétique. Peake souligne l'impact émotionnel et intellectuel de la vue de la Terre depuis l'espace, qui met en évidence l'interdépendance et la dynamique de nos écosystèmes. Il décrit également les avancées dans les domaines de la fabrication, des communications et de l'énergie grâce à l'espace, notamment la fabrication basée dans l'espace et l'énergie solaire spatiale. Il pense que l'IA est cruciale pour gérer les données des satellites et des instruments scientifiques, mais insiste sur le besoin de supervision humaine dans les décisions critiques. Enfin, il souligne l'importance d'inspirer la prochaine génération dans les domaines des STEM et de garantir une utilisation durable de l'espace.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6853a265007615ce9e0b976d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 19 Jun 2025 05:40:00 GMT"
+    },
+    {
+        "title": "Google Search Live",
+        "link": "https://www.frandroid.com/marques/google/2653773_adieu-la-recherche-google-cette-fonction-va-completement-changer-votre-facon-de-chercher",
+        "body": "Google lance une nouvelle fonctionnalité, Search Live, qui utilise l'IA pour offrir une expérience de recherche vocale en temps réel, plus naturelle et intuitive. Les utilisateurs peuvent poser des questions à voix haute et l'IA répond oralement tout en affichant des liens pertinents. La force du système réside dans sa nature conversationnelle, permettant aux utilisateurs d'interrompre et de poser des questions de suivi à tout moment. Search Live décompose les requêtes complexes en plusieurs étapes, guidant ainsi les utilisateurs à travers les options et leur faisant gagner du temps. Cependant, cette avancée soulève également des inquiétudes quant à l'impact potentiel sur les créateurs de contenu et l'écosystème web, ainsi que sur la fiabilité des réponses fournies. La fonctionnalité est actuellement en phase de test aux États-Unis.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/SearchLive_Hero.width-1200.format-webp-768x433.webp?resize=169,169&key=e9d2adbc",
+        "date": "Wed, 18 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Conflit OpenAI-Microsoft",
+        "link": "https://www.frandroid.com/marques/microsoft/2653409_il-y-a-de-leau-dans-le-gaz-entre-openai-et-microsoft-quest-ce-que-ca-signifie-pour-chatgpt",
+        "body": "Résumé : Microsoft a investi massivement dans OpenAI, la startup derrière ChatGPT, mais des tensions surgissent concernant la transition d'OpenAI vers une entreprise à but lucratif. Microsoft exige une part importante des actions, ce à quoi OpenAI s'oppose, craignant une perte de revenus. La rupture de leur collaboration pourrait être désastreuse pour les deux entreprises, OpenAI risquant notamment de perdre sa capacité de calcul et de traitement des données. De plus, un conflit ouvert pourrait nuir à la transition d'OpenAI vers un modèle d'entreprise classique et compliquer ses levées de fonds futures.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/microsoft-openai-768x432.jpg?resize=169,169&key=444242c4",
+        "date": "Wed, 18 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "La course à l'intelligence artificielle s'intensifie",
@@ -194,26 +229,5 @@
         "body": "Adobe lance une application mobile Firefly pour iPhone et Android, offrant un accès à ses outils d'IA pour la génération d'images et de vidéos à partir de descriptions textuelles. L'application permet également d'utiliser des outils populaires de retouche photo basés sur l'IA. Les projets créés sur l'application sont synchronisés automatiquement avec le compte Creative Cloud de l'utilisateur, pour une transition fluide vers le web ou les applications de bureau Adobe. L'application mobile Firefly inclut des outils d'IA d'Adobe pour la génération d'images et de vidéos, ainsi que des fonctionnalités telles que Generative Fill et Generative Expand, similaires à celles disponibles dans Photoshop. Les utilisateurs peuvent également choisir parmi une sélection de modèles d'IA de tiers, tels que Google et OpenAI. Adobe a également introduit des capacités vidéo dans sa plateforme Firefly Boards, permettant aux utilisateurs de remixer des clips et de générer de nouvelles séquences vidéo. De nouveaux modèles partenaires sont également intégrés à Firefly Boards, élargissant ainsi les options de création vidéo basées sur l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Adobe-Firefly-mobile-app-hero.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 17 Jun 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Clarification sur Copilot de Microsoft",
-        "link": "https://www.theverge.com/news/688056/microsoft-copilot-advertising-watchdog-response#comments",
-        "body": "Un organisme de surveillance de la publicité a recommandé à Microsoft de revoir ou de modifier certaines de ses affirmations concernant Copilot. Le National Advertising Division (NAD) du BBB National Programs a examiné la publicité de Microsoft Copilot et a émis des recommandations. NAD a suggéré à Microsoft de cesser ou de modifier ses affirmations selon lesquelles l'assistant IA Copilot améliorerait la productivité et le retour sur investissement des entreprises. Microsoft a affirmé que « 67 %, 70 % et 75 % des utilisateurs se sentent plus productifs » après avoir utilisé Copilot, mais NAD a estimé que cette étude ne justifiait pas de telles affirmations. De plus, NAD a indiqué que l'utilisation extensive de la marque Copilot par Microsoft sur plusieurs produits pourrait induire en erreur les utilisateurs quant aux fonctionnalités de chacun. Microsoft a connu des années de confusion autour de la marque Copilot, avec plusieurs changements de nom et de fonctionnalités. Bien que Microsoft soit en désaccord avec les conclusions de NAD, l'entreprise a déclaré qu'elle suivrait ses recommandations pour clarifier ses affirmations publicitaires.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 17 Jun 2025 11:26:56 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : défis et opportunités",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/17/using-ai-correctly-may-take-some-thinking/?ss=ai",
-        "body": "Bien que l'IA offre de nombreuses possibilités, son intégration efficace au sein des entreprises reste un défi. Les dirigeants doivent comprendre les tendances, les applications et les cas d'utilisation de l'IA, ainsi que savoir comment l'adapter à leurs processus métier spécifiques. L'analogie des « trois P » (personnes, processus et produits) souligne l'importance de comprendre l'interaction entre les employés et l'IA. Les intervenants soulignent les défis de l'alignement des employés et de la littératie en IA, ainsi que l'importance de la gouvernance et de la gestion de la chaîne d'approvisionnement. La traduction linguistique pose également des problèmes, l'IA étant principalement axée sur l'anglais. Bien que l'IA présente un grand potentiel, des préoccupations en matière de sécurité, de confidentialité et d'éthique doivent être prises en compte. Une intégration réfléchie est essentielle pour garantir que l'IA aide réellement les entreprises et ne leur nuise pas.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684770fec0ee52f0aab53cff/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 17 Jun 2025 11:00:00 GMT"
-    },
-    {
-        "title": "OpenAI signe un contrat avec le Pentagone",
-        "link": "https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract",
-        "body": "Résumé : OpenAI a signé un contrat de 200 millions de dollars avec le Département de la Défense américain (DoD) pour fournir des outils d'IA pour l'administration, la collecte de données et la cyberdéfense proactive. Ce contrat, qui sera principalement exécuté dans la région de Washington, DC, et devrait se terminer en juillet 2026, marque la première collaboration d'OpenAI avec le gouvernement fédéral américain. La société fournira des modèles personnalisés pour la sécurité nationale, tout en respectant ses politiques interdisant l'utilisation de ses services pour le développement d'armes ou pour nuire à autrui. Ce partenariat s'inscrit dans le cadre d'une tendance plus large des entreprises de technologie d'IA à collaborer avec les agences de défense et de renseignement, soulignant l'importance croissante de l'IA dans les efforts militaires et de sécurité nationale.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 17 Jun 2025 09:35:46 GMT"
     }
 ]
