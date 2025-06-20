@@ -1,5 +1,54 @@
 [
     {
+        "title": "Une nouvelle ère pour le ciment : l'IA au service de la durabilité",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/20/ai-engineered-cement-formulations-promise-to-cut-co-emissions-in-half/?ss=ai",
+        "body": "Titre : Une nouvelle ère pour le ciment\n\nRésumé : L'article met en lumière une nouvelle application surprenante de l'IA : l'optimisation de la formulation du ciment pour réduire les émissions de CO₂ tout en maintenant la résistance mécanique. L'équipe de recherche de l'Institut Paul Scherrer (PSI) a développé un système sur mesure, combinant des simulations chimiques approfondies et l'apprentissage automatique, pour prédire la résistance de différents mélanges de ciment en quelques millisecondes. Cette approche, qui intègre également des algorithmes génétiques, permet d'identifier rapidement des mélanges optimaux équilibrant performance et durabilité. Les mélanges les plus prometteurs identifiés par l'IA du PSI égalent les normes de performance actuelles tout en réduisant les émissions de CO₂ jusqu'à 50 %. Cette application de l'IA dans le domaine de la construction souligne le potentiel de la technologie pour créer des solutions tangibles et durables, avec un impact significatif sur l'industrie et l'environnement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6855bc82bcf8b04383c46978/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Jun 2025 20:00:00 GMT"
+    },
+    {
+        "title": "La vérification de l'identité dans l'ère de l'IA",
+        "link": "https://www.semafor.com/article/06/20/2025/reddit-considers-iris-scanning-orb-developed-by-a-sam-altman-startup",
+        "body": "Reddit envisage d'utiliser World ID, un système de vérification basé sur la reconnaissance de l'iris, dont la société mère a été co-fondée par le PDG d'OpenAI, Sam Altman. World ID permettrait aux utilisateurs de Reddit de vérifier leur unicité tout en restant anonymes. Cette nouvelle souligne l'urgence croissante de trouver des moyens de vérifier l'identité des utilisateurs en ligne, tout en préservant leur vie privée et leur anonymat, face à l'augmentation de contenus générés par l'IA et aux nouvelles lois sur la vérification de l'âge. La technologie de World ID pourrait être une solution importante dans l'industrie de l'IA, car elle vérifie l'unicité des individus sans stocker d'informations personnelles. Le système crypte et fragmente les données de balayage de l'iris, les stockant sur des serveurs secrets du monde entier, rendant ainsi presque impossible pour les pirates d'accéder aux informations. L'article aborde également les défis liés à la confiance des utilisateurs et à l'adoption de nouvelles technologies de vérification, ainsi que l'ironie de la situation, car l'industrie a largement ignoré ces technologies pendant des années malgré leur potentiel à lutter contre la désinformation en ligne.",
+        "image": "",
+        "date": "Fri, 20 Jun 2025 18:51:11 GMT"
+    },
+    {
+        "title": "La promesse de Cisco pour l'IA",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/06/20/cisco-live-2025-touts-ciscos-platform-advantages-for-enterprise-ai/?ss=ai",
+        "body": "Titre : La promesse de Cisco pour l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685599f3c68c734a38fb9502/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Jun 2025 17:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : une croissance explosive et une innovation accélérée",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/20/the-unstoppable-growth-of-generative-ai-ai-outlook-part-1/?ss=ai",
+        "body": "Titre : L'avenir de l'IA : croissance explosive et innovation accélérée",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68556935e2b44c4a8f996cb7/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Jun 2025 14:00:00 GMT"
+    },
+    {
+        "title": "L'impact de l'IA sur la communication humaine",
+        "link": "https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage#comments",
+        "body": "L'IA influence non seulement notre écriture, mais aussi notre façon de parler et d'interagir avec les autres. Des chercheurs ont constaté que l'utilisation de certains mots favorisés par ChatGPT, comme « delve » ou « prowess », a augmenté, tandis que l'usage de mots moins utilisés par l'IA, comme « bolster », a diminué. Cette influence de l'IA sur notre vocabulaire pourrait s'étendre à notre ton et notre expression émotionnelle, menant à un discours plus structuré et moins expressif. Les réponses intelligentes, la correction automatique et la vérification orthographique sont des fonctions évidentes où l'IA influence notre communication. Bien que l'IA puisse améliorer la coopération et les sentiments de proximité, la suspicion de son utilisation peut nuire à la perception de collaboration. Les chercheurs identifient trois niveaux de signaux humains perdus dans la communication médiée par l'IA : les signaux d'humanité, d'attention/d'effort et de compétence. La perte de ces signaux peut mener à une perte de confiance et d'authenticité, en particulier dans les espaces personnels et émotionnels. L'IA établit également des normes de langage « correct », ce qui peut dévaloriser les dialectes et les idiomes régionaux, et influencer notre pensée en nous persuadant de certaines idées. Pour préserver la confiance et l'authenticité dans la communication, il est important de maintenir une expression personnelle et de reconnaître l'impact de l'IA sur notre langage et notre pensée.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-sound-like-chat-gpt.jpg?quality=90&strip=all&crop=0.073529411764703%2C0%2C99.852941176471%2C100&w=2400",
+        "date": "Fri, 20 Jun 2025 13:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA pour les petites entreprises",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/20/help-for-small-merchants/?ss=ai",
+        "body": "L'IA transforme rapidement le paysage des affaires, et les petites et moyennes entreprises (PME) cherchent des outils pour rester compétitives. MIT expose certaines de ces avancées, notamment via ses programmes Small Business Innovation Research (SBIR) et Small Business Technology Transfer (STTR). Autopilot, par exemple, développe des agents autonomes pour le commerce électronique, aidant les petites entreprises sur Amazon à augmenter leurs ventes de 20 %. De son côté, Heron AI crée des outils d'IA pour aider les entrepreneurs à prendre des décisions basées sur les données. MIT propose également un programme de licence Lincoln Lab pour faciliter les partenariats public-privé, avec des recherches dans des domaines tels que les systèmes autonomes, la robotique et la cybersécurité. Ces initiatives soulignent l'importance croissante de l'IA pour autonomiser les PME et leur permettre de rivaliser avec les grandes entreprises.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6847753a1ab8b76f960db8be/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Jun 2025 12:00:00 GMT"
+    },
+    {
+        "title": "L'IA au service de la confiance client dans le e-commerce",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/20/how-ai-is-reviving-customer-trust-in-ecommerce/?ss=ai",
+        "body": "L'intelligence artificielle (IA) joue un rôle crucial dans le commerce électronique en aidant les marques à gagner la confiance des consommateurs et à réduire les frictions lors de l'achat en ligne. Les outils d'IA, souvent invisibles pour les clients, améliorent l'expérience client à plusieurs niveaux : \n\n- **Recommandation de produits et gestion des stocks en temps réel** : Les moteurs d'IA surveillent les stocks des fournisseurs et recommandent des produits tendance, évitant ainsi les ruptures de stock et les erreurs de prix. \n\n- **Optimisation du processus de paiement** : En ajustant dynamiquement les options de livraison, les offres complémentaires et les promesses de livraison en fonction de signaux en temps réel, les plateformes comme PrettyDamnQuick réduisent l'abandon des paniers d'achat dû à des coûts de livraison inattendus ou à des problèmes techniques. \n\n- **Amélioration de la logistique et de la livraison** : Les outils d'IA logistique, tels que Shipium, optimisent les itinéraires de livraison, l'affectation des entrepôts et le choix des transporteurs, garantissant ainsi des livraisons à l'heure et à faible coût. \n\n- **Personnalisation et adaptation** : L'IA permet une personnalisation en temps réel du processus de paiement et un test simultané de plusieurs hypothèses, améliorant ainsi l'expérience client et la confiance. \n\nLes experts du commerce électronique soulignent l'importance de l'équilibre entre automatisation et intervention humaine. L'automatisation à l'aveugle peut créer des risques, tandis qu'une stratégie réfléchie, associée à une exécution rapide et efficace, renforce la confiance des clients. En conclusion, l'IA améliore l'expérience client dans le commerce électronique, mais la clé est de créer des systèmes fiables et adaptables, garantissant ainsi la satisfaction et la fidélité des clients.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685531a5ae2e7a83f27fbe4b/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 20 Jun 2025 10:00:00 GMT"
+    },
+    {
         "title": "La révolution des moteurs de recherche : l'impact des LLM sur le référencement et l'expérience utilisateur",
         "link": "https://www.forbes.com/sites/lutzfinger/2025/06/19/study-shows-llm-conversion-rate-is-9x-better---aeo-is-coming/?ss=ai",
         "body": "Titre",
@@ -42,6 +91,20 @@
         "date": "Thu, 19 Jun 2025 17:00:00 GMT"
     },
     {
+        "title": "Midjourney lance son outil de génération de vidéos",
+        "link": "https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch#comments",
+        "body": "Midjourney, une plateforme d'IA, a lancé publiquement la première version de son modèle de génération de vidéos. L'outil permet actuellement de créer des vidéos courtes basées sur des images téléchargées par l'utilisateur ou créées sur la plateforme. Midjourney prévoit d'ajouter de nouvelles fonctionnalités à l'avenir. Le service propose un bouton « animer » qui crée une vidéo de 5 secondes à partir d'une image, avec un texte descriptif. Les utilisateurs peuvent également télécharger une image comme « image de départ » pour une vidéo. La plateforme génère automatiquement un texte générique pour animer l'image, mais les utilisateurs peuvent également personnaliser le mouvement grâce à un bouton « manuel ». Les vidéos peuvent être prolongées de 4 secondes, jusqu'à un maximum de 21 secondes. L'outil est disponible sur le web et sur le serveur Discord de Midjourney, moyennant un abonnement à partir de 10 $ par mois. La start-up prévoit de facturer environ 8 fois plus pour la génération de vidéos que pour les images. Midjourney fait actuellement l'objet d'un procès de la part de Disney et Universal, qui s'inquiètent de la possibilité de générer des vidéos à partir de leurs œuvres protégées par copyright. Malgré cela, Midjourney voit cette première version comme une étape vers le développement de modèles capables de simulations en temps réel et en monde ouvert.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/midjourney-video.png?quality=90&strip=all&crop=9.4989561586639%2C0%2C81.002087682672%2C100&w=2400",
+        "date": "Thu, 19 Jun 2025 16:29:42 GMT"
+    },
+    {
+        "title": "L'art de l'IA : exploration et impact",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech#comments",
+        "body": "L'article explore l'impact croissant des résidences artistiques axées sur l'IA sur la perception publique de l'IA. En donnant aux artistes un accès aux outils et aux ressources de l'IA, ces résidences façonnent la façon dont le grand public, les législateurs et les tribunaux perçoivent la technologie. L'auteur souligne que ces programmes offrent un espace d'enquête et de réflexion sur l'IA, permettant aux artistes d'explorer les risques et les avantages de l'IA tout en abordant les préoccupations éthiques entourant l'art généré par l'IA, telles que l'authorship et la compensation. Bien que les résidences offrent un terrain d'expérimentation important, des questions plus larges sur l'art de l'IA, notamment les problèmes juridiques liés à l'authorship et à l'utilisation équitable, restent sans réponse. L'article conclut en soulignant l'importance de ces espaces pour la critique et la construction d'alternatives dans le domaine de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-residencies_3db931.jpg?quality=90&strip=all&crop=0.036764705882348%2C0%2C99.926470588235%2C100&w=2400",
+        "date": "Thu, 19 Jun 2025 13:00:00 GMT"
+    },
+    {
         "title": "Le futur du codage",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/19/vibe-coding-its-four-months-old-whats-up/?ss=ai",
         "body": "Le « vibe coding » est un terme récent décrivant une approche de l'ingénierie logicielle où l'IA génère du code de manière autonome, le développeur se contentant de fournir les entrées. Bien que les LLMs ne soient pas encore tout à fait autonomes dans cette tâche, le « vibe coding » encourage les programmeurs à laisser l'IA travailler seule. Lors d'un panel récent, des experts ont discuté de cette tendance, certains arguant que le « vibe coding » est déjà suffisamment avancé pour que les développeurs puissent s'en remettre entièrement à l'IA, tandis que d'autres soulignent l'importance de comprendre le code généré et les contraintes du système. Le débat met en lumière la nécessité de connaissances en codage pour gérer les complexités du développement de systèmes, l'IA pouvant ne pas toujours produire du code parfaitement adapté aux besoins. Ainsi, le rôle du développeur humain reste pertinent, même avec l'émergence du « vibe coding ».",
@@ -82,110 +145,5 @@
         "body": "Résumé : Microsoft a investi massivement dans OpenAI, la startup derrière ChatGPT, mais des tensions surgissent concernant la transition d'OpenAI vers une entreprise à but lucratif. Microsoft exige une part importante des actions, ce à quoi OpenAI s'oppose, craignant une perte de revenus. La rupture de leur collaboration pourrait être désastreuse pour les deux entreprises, OpenAI risquant notamment de perdre sa capacité de calcul et de traitement des données. De plus, un conflit ouvert pourrait nuir à la transition d'OpenAI vers un modèle d'entreprise classique et compliquer ses levées de fonds futures.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/microsoft-openai-768x432.jpg?resize=169,169&key=444242c4",
         "date": "Wed, 18 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La course à l'intelligence artificielle s'intensifie",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/18/the-ai-race-is-now-about-databases---not-just-big-models/?ss=ai",
-        "body": "La course à l'IA ne porte plus sur des modèles plus intelligents, mais sur la capacité à fournir rapidement des données fiables pour alimenter les agents IA, les copilotes et la prise de décision en temps réel. Les acquisitions récentes de startups spécialisées dans les bases de données par des entreprises comme Snowflake, Databricks et Salesforce le confirment. La demande pour des plateformes capables de gérer des interactions continues et en temps réel avec les données augmente, et l'enjeu crucial est désormais la couche de base de données, qui passe de l'arrière-plan à la ligne de front dans l'écosystème de l'IA d'entreprise.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68532ef6b7e1fc4489a078c9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 21:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une collaboration consciente entre l'humain et la machine",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/18/new-gallup-report-ai-culture-readiness-demands-new-mindsets/?ss=ai",
-        "body": "L'article explore l'évolution de la place de l'IA dans nos vies et nos lieux de travail, et la nécessité d'une adaptation culturelle pour une cohabitation efficace. La réglementation de l'UE sur l'IA, entrée en vigueur en 2024, souligne l'importance de la transparence et de la conscience de l'interaction avec les systèmes d'IA. La puissance informatique croissante et l'adoption généralisée d'outils algorithmiques soulignent un écart entre l'utilisation et la préparation émotionnelle, révélant un besoin de littératie algorithmique et humaine. L'équilibre délicat entre la confiance et le scepticisme sain est essentiel pour une collaboration efficace, évitant une dépendance excessive ou une méfiance rigide. L'éducation, la gestion et les pratiques culturelles doivent évoluer pour favoriser la pensée critique et l'exploration de l'IA en tant que partenaire cognitif, plutôt que simplement un outil puissant. Le cadre CREATE propose une feuille de route pour une collaboration algorithmique consciente, mettant l'accent sur la sélection délibérée de la technologie, le maintien des relations humaines et de l'intelligence émotionnelle, l'évaluation continue et l'adaptation, la transparence et l'éthique. L'avenir appartient à une collaboration consciente entre l'humain et la machine, tirant parti des forces uniques de chacun.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/685217aac39d70d5f0af8fab/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 21:00:00 GMT"
-    },
-    {
-        "title": "La promesse trompeuse de l'IA générative",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/688448/ancestra-primordial-soup-google-deepmind#comments",
-        "body": "Résumé : \n\nLe court-métrage *Ancestra* de Primordial Soup, réalisé en collaboration avec Google DeepMind, met en lumière les possibilités de l'IA générative dans la création cinématographique. Bien qu'impressionnant, le film soulève des inquiétudes quant à l'avenir de l'industrie cinématographique et des emplois créatifs. L'utilisation de l'IA pour créer des images et des scènes sentimentales mais clichées, ainsi que la dépendance aux limitations techniques de l'IA, comme les clips de huit secondes, soulignent les limites de la technologie actuelle. Bien que l'IA puisse réduire les coûts et le temps de production, elle ne semble pas encore capable de produire de l'art engageant. De plus, le film soulève des inquiétudes quant à l'élimination potentielle d'emplois dans l'industrie cinématographique, tels que les VFX specialists, concept artists et storyboarders. Malgré l'enthousiasme de certains pour l'IA générative, le film sert de rappel aux défis et aux compromis actuels de la technologie.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-17-at-1.29.43%E2%80%AFPM.png?quality=90&strip=all&crop=8.203125%2C0%2C83.59375%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 19:30:00 GMT"
-    },
-    {
-        "title": "Cisco Live 2025 : Dévoilement de l'intégration de l'IA agentique",
-        "link": "https://www.forbes.com/sites/moorinsights/2025/06/18/cisco-charts-its-agentic-ai-journey-at-cisco-live-us-2025/?ss=ai",
-        "body": "Lors de l'événement Cisco Live à San Diego, l'entreprise a présenté ses avancées en matière d'intégration de l'IA agentique dans ses offres de mise en réseau, de cybersécurité et d'observabilité, en mettant l'accent sur l'expérience client. Les principales annonces comprenaient : \n\n- Une approche pragmatique axée sur les centres de données prêts pour l'IA, des environnements de travail à l'épreuve du futur et une résilience numérique grâce à l'intégration de contrôles de sécurité dans l'infrastructure réseau. \n- Une nouvelle stratégie d'expérience client (CX), simplifiant la navigation pour les partenaires et les clients grâce à une intégration produit et solution plus étroite, soutenue par un agent d'adoption de l'IA et un modèle de langage de grande envergure. \n- La plateforme AgenticOps, comprenant un tableau de bord de gestion, AI Canvas, offrant une vue dynamique et en temps réel de l'infrastructure des clients, ainsi qu'un modèle de réseau profond pour alimenter AI Canvas avec des données du lac de données de Cisco. \n- L'équipe AI Software and Platform de Cisco, dirigée par DJ Sampath, a mis en évidence le cycle de développement rapide qui a permis de lancer AgenticOps en moins d'un an. \n- D'autres annonces incluent l'accent mis par Cisco sur une approche de plateforme à grande échelle, ainsi que sur la duplication de fonctionnalités à travers ses efforts d'acquisition et de feuille de route organique. \n\nL'événement a souligné l'engagement de Cisco à fournir une infrastructure prête pour l'IA, simplifiant les opérations de réseau et de sécurité et transformant l'expérience client.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/685300c2129e8ff2431155ee/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 19:00:00 GMT"
-    },
-    {
-        "title": "Veo 3 sur YouTube Shorts",
-        "link": "https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts",
-        "body": "Google va intégrer son nouveau modèle de génération de vidéos par IA, Veo 3, à YouTube Shorts cet été. Veo 3 offre une qualité vidéo améliorée et peut intégrer de l'audio. Les créateurs de Shorts peuvent déjà utiliser le modèle Veo 2 pour générer des arrière-plans et des clips autonomes. Il n'est pas précisé si l'utilisation de Veo 3 sur Shorts sera payante, comme c'est actuellement le cas pour les abonnements Google AI Pro et AI Ultra. Shorts enregistre désormais plus de 200 milliards de vues par jour.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 18:35:35 GMT"
-    },
-    {
-        "title": "L'art de l'IA par les artistes",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai",
-        "body": "Les outils d'IA inondent l'écosystème culturel, impactant tous les domaines artistiques. Cet article explore la relation complexe entre les artistes et l'IA, mettant en lumière des exemples de collaboration, de résistance et d'adaptation. Les artistes interrogés incluent des parfumeurs, des écrivains de fanfiction et des illustrateurs, chacun abordant l'IA à sa manière. L'article souligne également le rôle crucial des humains dans la maîtrise de l'IA, comme en témoigne le succès d'un jeu de puzzle basé sur l'IA, qui n'aurait pas été possible sans l'intervention humaine.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-header.jpg?quality=90&strip=all&crop=0%2C0.03673769287289%2C100%2C99.926524614254&w=2400",
-        "date": "Wed, 18 Jun 2025 16:15:59 GMT"
-    },
-    {
-        "title": "The AI-Assisted Evolution of Gaming",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement#comments",
-        "body": "L'article explore l'impact de l'IA sur le développement de jeux vidéo, en se concentrant sur le jeu de puzzle \"The Roottrees are Dead\". Initialement créé avec des illustrations générées par IA, le jeu a été repensé avec des illustrations humaines pour sa sortie sur Steam. L'IA a joué un rôle crucial dans la création initiale du jeu, mais sa version finale doit son succès à une combinaison d'efforts humains et d'IA. L'article soulève des questions éthiques sur l'utilisation de l'IA dans l'art, tout en reconnaissant son potentiel pour stimuler la créativité et l'innovation dans le domaine du jeu.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-game-jams.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 16:05:01 GMT"
-    },
-    {
-        "title": "Google Search Live avec mode AI",
-        "link": "https://www.theverge.com/news/689212/google-search-live-ai-mode-test#comments",
-        "body": "Google intègre Search Live à AI Mode, permettant aux utilisateurs d'avoir une conversation vocale avec l'IA de l'entreprise directement depuis son moteur de recherche. La fonctionnalité, actuellement en test pour les utilisateurs de Labs aux États-Unis, ne prend pas encore en charge le partage de caméra, mais Google prévoit d'ajouter cette option dans les prochains mois. Search Live permet aux utilisateurs d'interagir avec la version « personnalisée » de Gemini de Google et d'effectuer des recherches sur le Web en temps réel. Les utilisateurs peuvent déjà pointer leur caméra vers un objet et poser des questions à ce sujet à haute voix via l'application Google sur Android et iOS. La fonctionnalité Search Live dans AI Mode peut être testée en s'inscrivant à l'expérience AI Mode dans Google Labs. Les utilisateurs peuvent ensuite poser des questions à haute voix et obtenir des réponses audio de l'IA, tout en recevant des liens pertinents. La conversation vocale peut également être consultée sous forme de texte et les échanges sont enregistrés dans l'historique AI Mode.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/google-search-live-in-search.png?quality=90&strip=all&crop=0%2C1.6150516150516%2C100%2C96.769896769897&w=2400",
-        "date": "Wed, 18 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA dans les paris sportifs",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/06/18/decentralized-ai-is-watching--and-understanding---everything/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6852e11654fcd9ffbdb8fbce/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Art sans données",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing#comments",
-        "body": "L'artiste Terence Broad explore un nouveau territoire dans le domaine de l'IA en créant des images sans utiliser de données d'entraînement. En piratant un réseau neuronal et en créant une boucle récursive, Broad a réussi à induire l'IA à produire des images à partir de zéro, sans aucune entrée ni influence externe. Son œuvre, intitulée « (un)stable equilibrium », présente des images en constante évolution, rappelant les premières œuvres du peintre Mark Rothko. Broad remet en question l'éthique de l'entraînement de l'IA sur le travail d'autrui et propose une approche plus créative et éthique de l'IA générative. Son processus artistique met en lumière les complexités de l'IA générative et soulève des questions sur la compréhension humaine de son fonctionnement interne. Les explorations de Broad éclairent les processus internes de l'IA, démystifiant ainsi la perception d'une IA quasi mystique et toute-puissante.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-no-input.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 15:07:30 GMT"
-    },
-    {
-        "title": "OpenAI signe un contrat majeur avec le DoD",
-        "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/18/openais-200m-dod-pilot-faces-big-gains-and-big-risks/?ss=ai",
-        "body": "OpenAI a annoncé un nouveau contrat avec le département américain de la Défense (DoD) dans le cadre de son initiative « OpenAI for Government ». Ce contrat, d'une valeur de 200 millions de dollars, vise à explorer les applications de l'IA dans l'administration, les soins de santé militaires et la cybersécurité proactive. OpenAI fournira au DoD des modèles d'IA de pointe dans un environnement sécurisé, hébergé sur le cloud gouvernemental Azure de Microsoft. Bien que cette collaboration souligne l'importance stratégique de l'IA pour le gouvernement américain, elle soulève également des préoccupations concernant les biais, les hallucinations, la souveraineté des données et le verrouillage du fournisseur. Le contrat sera testé sur des formulaires, des dossiers médicaux militaires et des avertissements de cyberattaque, avec l'objectif ultime d'améliorer l'efficacité et la sécurité des opérations du DoD. Cependant, les experts en IA du Pentagone mettent en garde contre les hallucinations de l'IA, les dépendances aux données et la nécessité d'une supervision humaine continue. En parallèle, d'autres pays investissent dans leurs propres initiatives d'IA souveraine, soulignant l'importance croissante de l'équilibre entre les avantages de l'IA et les exigences de contrôle, d'ouverture et de confiance.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6852da94a1fdb975075805fa/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La révolution des taxis robots",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/06/18/forget-tesla-amazons-zoox-is-on-track-to-be-waymos-biggest-robotaxi-rival/?ss=ai",
-        "body": "Zoox, une filiale d'Amazon, se prépare à lancer son service de taxis robot à Las Vegas d'ici la fin de l'année, avec une expansion prévue dans d'autres villes américaines. Les taxis robot Zoox se distinguent par leur conception unique, ressemblant à une camionnette, sans volant ni pédales, avec des portes coulissantes et une vitesse de pointe de 120 km/h. La société vise à offrir une expérience de conduite améliorée, avec un intérieur spacieux et des sièges style carriage. Le véhicule est conçu pour fonctionner jusqu'à 16 heures par jour et a une durée de vie prévue de 5 ans ou 100 000 miles. Zoox investit fortement dans son usine de Hayward, en Californie, et prévoit de produire initialement 1 véhicule par jour, avec un objectif de 5 000 véhicules par an d'ici l'année prochaine. La société estime qu'elle aura besoin de 500 à 1 000 véhicules pour une ville de taille moyenne. En ce qui concerne la technologie de conduite autonome, Zoox adopte une approche similaire à Waymo, en utilisant une variété de capteurs, notamment des lidars, des radars, des caméras et des microphones. Zoox se concentre sur la sécurité maximale, contrairement à Tesla, qui promeut un système de conduite autonome basé uniquement sur des caméras. Le CTO de Zoox, Jesse Levinson, souligne que la priorité de l'entreprise est de maximiser la sécurité, car elle n'est pas un constructeur automobile traditionnel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6852c54c9b3bac85af7d312d/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 15:00:00 GMT"
-    },
-    {
-        "title": "OpenAI sous la loupe",
-        "link": "https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works#comments",
-        "body": "Un rapport intitulé *The OpenAI Files* examine l'évolution d'OpenAI, passant d'un laboratoire de recherche à but non lucratif à une entreprise lucrative, ainsi que les préoccupations en matière de sécurité et les conflits d'intérêts potentiels qui ont surgi en cours de route. Le rapport, fruit d'une collaboration entre deux organisations de surveillance du secteur technologique, se base sur des sources publiques telles que des divulgations d'entreprises, des plaintes juridiques et des rapports médiatiques. Il met en lumière les gains directs et indirects que les cadres et membres du conseil d'administration d'OpenAI pourraient tirer des succès de l'entreprise, y compris les investissements du PDG Sam Altman dans des entreprises ayant des liens commerciaux avec OpenAI. Les créateurs du rapport affirment qu'il s'agit d'un projet indépendant, sans financement ou influence de la part de concurrents d'OpenAI. OpenAI a refusé de commenter.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431702/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 13:40:53 GMT"
-    },
-    {
-        "title": "La jeunesse dans l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/18/our-new-ai-native-generation/?ss=ai",
-        "body": "L'article explore l'idée de la jeunesse dans un monde façonné par l'IA, en se demandant comment la génération qui a grandi avec l'IA, la génération « native de l'IA », se distingue de ses prédécesseurs. Il souligne que cette génération a une relation unique avec la technologie, ce qui pourrait se traduire par une plus grande littératie technologique et une meilleure adaptabilité à la coexistence avec des machines intelligentes. L'article cite des enquêtes indiquant que les jeunes font largement confiance à l'IA et ont une vision positive de son impact, contrastant avec l'attitude de générations plus anciennes. Il souligne également l'optimisme des jeunes face à l'avenir, ainsi que l'émergence de jeunes entrepreneurs qui bouleversent les industries traditionnelles. La discussion met en évidence l'importance de l'adaptabilité et de la transparence dans les modèles économiques, ainsi que de la reconnaissance de la nécessité de coexister avec des entités dotées de capacités cognitives uniques. Enfin, il lance un appel à l'humilité face au rythme rapide du changement et suggère que les générations plus âgées peuvent apprendre de la génération native de l'IA pour mieux naviguer dans cette nouvelle ère.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/684772349de0c796293ed5a7/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Gemini analyse vidéo",
-        "link": "https://9to5google.com/2025/06/17/gemini-app-video-upload/",
-        "body": "Google Gemini, une application d'IA, propose désormais une fonctionnalité d'analyse vidéo en plus de ses capacités existantes de navigation et de traitement des documents et images. Les utilisateurs peuvent télécharger leurs propres fichiers vidéo et poser des questions sur leur contenu. L'IA fournit des réponses détaillées, comme le montre l'exemple d'une description de scène d'automne. La fonctionnalité est disponible sur Android et iOS, pour les comptes gratuits et payants, mais pas encore sur le web. La mise à jour inclut également un lecteur vidéo complet pour revoir les clips.",
-        "image": "",
-        "date": "Wed, 18 Jun 2025 09:50:10 GMT"
     }
 ]
