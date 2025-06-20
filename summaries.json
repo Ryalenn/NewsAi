@@ -42,13 +42,6 @@
         "date": "Wed, 18 Jun 2025 19:30:00 GMT"
     },
     {
-        "title": "OpenAI sous la loupe",
-        "link": "https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works#comments",
-        "body": "Un rapport intitulé *The OpenAI Files* examine l'évolution d'OpenAI, passant d'un laboratoire de recherche à but non lucratif à une entreprise lucrative, ainsi que les préoccupations en matière de sécurité et les conflits d'intérêts potentiels qui ont surgi en cours de route. Le rapport, fruit d'une collaboration entre deux organisations de surveillance du secteur technologique, se base sur des sources publiques telles que des divulgations d'entreprises, des plaintes juridiques et des rapports médiatiques. Il met en lumière les gains directs et indirects que les cadres et membres du conseil d'administration d'OpenAI pourraient tirer des succès de l'entreprise, y compris les investissements du PDG Sam Altman dans des entreprises ayant des liens commerciaux avec OpenAI. Les créateurs du rapport affirment qu'il s'agit d'un projet indépendant, sans financement ou influence de la part de concurrents d'OpenAI. OpenAI a refusé de commenter.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431702/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 13:40:53 GMT"
-    },
-    {
         "title": "L'innovation collaborative chez Ecolab",
         "link": "https://www.forbes.com/sites/peterhigh/2025/06/19/ecolab-builds-the-future-with-data-and-ai/?ss=ai",
         "body": "L'article présente Kevin Doyle, Chief Digital Officer chez Ecolab, une entreprise dont la mission est de rendre le monde plus propre, plus sûr et plus sain. Doyle supervise une équipe chargée de soutenir les employés et les clients d'Ecolab grâce à des solutions numériques et des applications IoT. La récente fusion des équipes commerciales numériques et informatiques a donné naissance à « Ecolab Digital », qui propose des innovations commerciales telles que des jumeaux numériques, des diagnostics de lave-vaisselle assistés par l'IA et des analyses prédictives pour détecter les pathogènes dans l'eau. \n\nEcolab met l'accent sur l'autonomisation de ses employés avec des outils intelligents, notamment en utilisant l'IA pour partager les connaissances entre les équipes sur le terrain dans le monde entier. L'entreprise a également développé de nouvelles façons de monétiser ses actifs numériques, notamment des offres basées sur des abonnements intégrant logiciels, matériels et services de support. \n\nLes opérations internes d'Ecolab ont également été transformées par la numérisation, en particulier la chaîne d'approvisionnement, avec une réflexion sur la façon dont les systèmes ERP, de transport et de qualité peuvent être améliorés grâce aux données et à l'IA. L'entreprise applique de nombreuses innovations développées pour ses clients à ses propres installations, tirant parti de son expérience centenaire. \n\nAu cœur de la stratégie d'innovation se trouve un modèle hautement collaboratif, rassemblant des experts techniques et des experts métiers pour développer rapidement de nouvelles solutions. L'équipe de Doyle utilise l'IA générative et agentive pour lancer des applications en quelques jours seulement, adoptant une approche agile tout en tirant parti de l'expertise centenaire d'Ecolab dans son domaine.",
@@ -147,31 +140,10 @@
         "date": "Wed, 18 Jun 2025 16:00:00 GMT"
     },
     {
-        "title": "Art sans données",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing#comments",
-        "body": "L'artiste Terence Broad explore un nouveau territoire dans le domaine de l'IA en créant des images sans utiliser de données d'entraînement. En piratant un réseau neuronal et en créant une boucle récursive, Broad a réussi à induire l'IA à produire des images à partir de zéro, sans aucune entrée ni influence externe. Son œuvre, intitulée « (un)stable equilibrium », présente des images en constante évolution, rappelant les premières œuvres du peintre Mark Rothko. Broad remet en question l'éthique de l'entraînement de l'IA sur le travail d'autrui et propose une approche plus créative et éthique de l'IA générative. Son processus artistique met en lumière les complexités de l'IA générative et soulève des questions sur la compréhension humaine de son fonctionnement interne. Les explorations de Broad éclairent les processus internes de l'IA, démystifiant ainsi la perception d'une IA quasi mystique et toute-puissante.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-no-input.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 18 Jun 2025 15:07:30 GMT"
-    },
-    {
         "title": "La révolution de l'IA dans les paris sportifs",
         "link": "https://www.forbes.com/sites/torconstantino/2025/06/18/decentralized-ai-is-watching--and-understanding---everything/?ss=ai",
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6852e11654fcd9ffbdb8fbce/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 18 Jun 2025 16:00:00 GMT"
-    },
-    {
-        "title": "OpenAI signe un contrat majeur avec le DoD",
-        "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/18/openais-200m-dod-pilot-faces-big-gains-and-big-risks/?ss=ai",
-        "body": "OpenAI a annoncé un nouveau contrat avec le département américain de la Défense (DoD) dans le cadre de son initiative « OpenAI for Government ». Ce contrat, d'une valeur de 200 millions de dollars, vise à explorer les applications de l'IA dans l'administration, les soins de santé militaires et la cybersécurité proactive. OpenAI fournira au DoD des modèles d'IA de pointe dans un environnement sécurisé, hébergé sur le cloud gouvernemental Azure de Microsoft. Bien que cette collaboration souligne l'importance stratégique de l'IA pour le gouvernement américain, elle soulève également des préoccupations concernant les biais, les hallucinations, la souveraineté des données et le verrouillage du fournisseur. Le contrat sera testé sur des formulaires, des dossiers médicaux militaires et des avertissements de cyberattaque, avec l'objectif ultime d'améliorer l'efficacité et la sécurité des opérations du DoD. Cependant, les experts en IA du Pentagone mettent en garde contre les hallucinations de l'IA, les dépendances aux données et la nécessité d'une supervision humaine continue. En parallèle, d'autres pays investissent dans leurs propres initiatives d'IA souveraine, soulignant l'importance croissante de l'équilibre entre les avantages de l'IA et les exigences de contrôle, d'ouverture et de confiance.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6852da94a1fdb975075805fa/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La révolution des taxis robots",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/06/18/forget-tesla-amazons-zoox-is-on-track-to-be-waymos-biggest-robotaxi-rival/?ss=ai",
-        "body": "Zoox, une filiale d'Amazon, se prépare à lancer son service de taxis robot à Las Vegas d'ici la fin de l'année, avec une expansion prévue dans d'autres villes américaines. Les taxis robot Zoox se distinguent par leur conception unique, ressemblant à une camionnette, sans volant ni pédales, avec des portes coulissantes et une vitesse de pointe de 120 km/h. La société vise à offrir une expérience de conduite améliorée, avec un intérieur spacieux et des sièges style carriage. Le véhicule est conçu pour fonctionner jusqu'à 16 heures par jour et a une durée de vie prévue de 5 ans ou 100 000 miles. Zoox investit fortement dans son usine de Hayward, en Californie, et prévoit de produire initialement 1 véhicule par jour, avec un objectif de 5 000 véhicules par an d'ici l'année prochaine. La société estime qu'elle aura besoin de 500 à 1 000 véhicules pour une ville de taille moyenne. En ce qui concerne la technologie de conduite autonome, Zoox adopte une approche similaire à Waymo, en utilisant une variété de capteurs, notamment des lidars, des radars, des caméras et des microphones. Zoox se concentre sur la sécurité maximale, contrairement à Tesla, qui promeut un système de conduite autonome basé uniquement sur des caméras. Le CTO de Zoox, Jesse Levinson, souligne que la priorité de l'entreprise est de maximiser la sécurité, car elle n'est pas un constructeur automobile traditionnel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6852c54c9b3bac85af7d312d/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 18 Jun 2025 15:00:00 GMT"
     }
 ]
