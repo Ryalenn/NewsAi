@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : concevoir des expériences clients disruptives et éthiques",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/06/21/ai-the-customer-and-the-worker/?ss=ai",
+        "body": "Titre : L'avenir de la conception d'expériences client avec l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/684775bdaae707285de1a650/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 21 Jun 2025 11:59:00 GMT"
+    },
+    {
         "title": "Une nouvelle ère pour le ciment : l'IA au service de la durabilité",
         "link": "https://www.forbes.com/sites/ronschmelzer/2025/06/20/ai-engineered-cement-formulations-promise-to-cut-co-emissions-in-half/?ss=ai",
         "body": "Titre : Une nouvelle ère pour le ciment\n\nRésumé : L'article met en lumière une nouvelle application surprenante de l'IA : l'optimisation de la formulation du ciment pour réduire les émissions de CO₂ tout en maintenant la résistance mécanique. L'équipe de recherche de l'Institut Paul Scherrer (PSI) a développé un système sur mesure, combinant des simulations chimiques approfondies et l'apprentissage automatique, pour prédire la résistance de différents mélanges de ciment en quelques millisecondes. Cette approche, qui intègre également des algorithmes génétiques, permet d'identifier rapidement des mélanges optimaux équilibrant performance et durabilité. Les mélanges les plus prometteurs identifiés par l'IA du PSI égalent les normes de performance actuelles tout en réduisant les émissions de CO₂ jusqu'à 50 %. Cette application de l'IA dans le domaine de la construction souligne le potentiel de la technologie pour créer des solutions tangibles et durables, avec un impact significatif sur l'industrie et l'environnement.",
@@ -12,6 +19,13 @@
         "body": "Reddit envisage d'utiliser World ID, un système de vérification basé sur la reconnaissance de l'iris, dont la société mère a été co-fondée par le PDG d'OpenAI, Sam Altman. World ID permettrait aux utilisateurs de Reddit de vérifier leur unicité tout en restant anonymes. Cette nouvelle souligne l'urgence croissante de trouver des moyens de vérifier l'identité des utilisateurs en ligne, tout en préservant leur vie privée et leur anonymat, face à l'augmentation de contenus générés par l'IA et aux nouvelles lois sur la vérification de l'âge. La technologie de World ID pourrait être une solution importante dans l'industrie de l'IA, car elle vérifie l'unicité des individus sans stocker d'informations personnelles. Le système crypte et fragmente les données de balayage de l'iris, les stockant sur des serveurs secrets du monde entier, rendant ainsi presque impossible pour les pirates d'accéder aux informations. L'article aborde également les défis liés à la confiance des utilisateurs et à l'adoption de nouvelles technologies de vérification, ainsi que l'ironie de la situation, car l'industrie a largement ignoré ces technologies pendant des années malgré leur potentiel à lutter contre la désinformation en ligne.",
         "image": "",
         "date": "Fri, 20 Jun 2025 18:51:11 GMT"
+    },
+    {
+        "title": "L'IA au menu",
+        "link": "https://www.theverge.com/news/690458/applebees-ihop-ai-restaraunt-recommendations#comments",
+        "body": "Applebee's et IHOP prévoient d'utiliser l'IA pour proposer des recommandations et des offres personnalisées à leurs clients, basées sur leurs commandes précédentes ou celles de clients similaires. L'objectif est d'augmenter la fidélité des clients et de promouvoir des produits supplémentaires. D'autres chaînes de restaurants comme Wendy's, McDonald's et Taco Bell adoptent également l'IA, que ce soit à travers des chatbots, des systèmes de commande vocale ou des outils d'assistance pour le personnel. Dine Brands, la société mère d'Applebee's et IHOP, envisage également d'utiliser l'IA pour détecter les tables à nettoyer et pour fournir une application aux gestionnaires.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1473556339.jpg?quality=90&strip=all&crop=0.0096153846153868%2C0%2C99.980769230769%2C100&w=2400",
+        "date": "Fri, 20 Jun 2025 17:21:52 GMT"
     },
     {
         "title": "La promesse de Cisco pour l'IA",
@@ -117,26 +131,5 @@
         "body": "L'article explore l'impact croissant des résidences artistiques axées sur l'IA sur la perception publique de l'IA. En donnant aux artistes un accès aux outils et aux ressources de l'IA, ces résidences façonnent la façon dont le grand public, les législateurs et les tribunaux perçoivent la technologie. L'auteur souligne que ces programmes offrent un espace d'enquête et de réflexion sur l'IA, permettant aux artistes d'explorer les risques et les avantages de l'IA tout en abordant les préoccupations éthiques entourant l'art généré par l'IA, telles que l'authorship et la compensation. Bien que les résidences offrent un terrain d'expérimentation important, des questions plus larges sur l'art de l'IA, notamment les problèmes juridiques liés à l'authorship et à l'utilisation équitable, restent sans réponse. L'article conclut en soulignant l'importance de ces espaces pour la critique et la construction d'alternatives dans le domaine de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-residencies_3db931.jpg?quality=90&strip=all&crop=0.036764705882348%2C0%2C99.926470588235%2C100&w=2400",
         "date": "Thu, 19 Jun 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Le futur du codage",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/06/19/vibe-coding-its-four-months-old-whats-up/?ss=ai",
-        "body": "Le « vibe coding » est un terme récent décrivant une approche de l'ingénierie logicielle où l'IA génère du code de manière autonome, le développeur se contentant de fournir les entrées. Bien que les LLMs ne soient pas encore tout à fait autonomes dans cette tâche, le « vibe coding » encourage les programmeurs à laisser l'IA travailler seule. Lors d'un panel récent, des experts ont discuté de cette tendance, certains arguant que le « vibe coding » est déjà suffisamment avancé pour que les développeurs puissent s'en remettre entièrement à l'IA, tandis que d'autres soulignent l'importance de comprendre le code généré et les contraintes du système. Le débat met en lumière la nécessité de connaissances en codage pour gérer les complexités du développement de systèmes, l'IA pouvant ne pas toujours produire du code parfaitement adapté aux besoins. Ainsi, le rôle du développeur humain reste pertinent, même avec l'émergence du « vibe coding ».",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/678bb404c01e082e636084bb/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 19 Jun 2025 11:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la recherche AI",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/06/19/these-startups-are-helping-businesses-show-up-in-ai-search-summaries/?ss=ai",
-        "body": "L'article explore l'impact de l'IA sur l'évolution des stratégies de recherche pour les entreprises, en particulier dans le domaine du référencement. Avec l'émergence des moteurs de recherche AI comme ChatGPT et Perplexity, le trafic de recherche pour de nombreuses entreprises diminue, car les utilisateurs obtiennent les réponses dont ils ont besoin directement à partir de l'IA, sans avoir à cliquer sur des liens. Cela a conduit à un changement de paradigme dans le référencement, les entreprises s'adaptant pour comprendre comment leurs marques apparaissent dans les réponses générées par l'IA. Des startups comme Profound, Bluefish AI et Athena aident les entreprises à naviguer dans ce nouvel environnement, en offrant des outils pour analyser leur présence dans les résultats de recherche AI et optimiser leur contenu pour les moteurs de recherche AI. L'article souligne également l'importance croissante de l'optimisation pour les grands modèles linguistiques et la conviction que l'attention des consommateurs sera de plus en plus captée par l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/685333a39c3307edbb56ea00/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&width=440",
-        "date": "Thu, 19 Jun 2025 10:00:00 GMT"
-    },
-    {
-        "title": "L'adoption de l'IA generative dans les entreprises",
-        "link": "https://www.forbes.com/sites/janakirammsv/2025/06/19/from-adoption-to-advantage-10-trends-shaping-enterprise-llms-in-2025/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6853e658082ca3a991f5eed6/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 19 Jun 2025 10:00:00 GMT"
     }
 ]
