@@ -28,6 +28,13 @@
         "date": "Fri, 20 Jun 2025 14:00:00 GMT"
     },
     {
+        "title": "Meta annonce de nouvelles lunettes de réalité augmentée avec Oakley",
+        "link": "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date#comments",
+        "body": "Meta et Oakley s'associent pour lancer une nouvelle paire de lunettes de soleil intelligentes, les Meta HSTN, au prix de 499 $. Ces lunettes, destinées aux athlètes, offrent une résistance à l'eau IPX4, une autonomie de batterie prolongée (8 heures) et une caméra capable de capturer des vidéos en 3K. Les lunettes sont équipées d'un assistant IA, permettant aux utilisateurs d'obtenir des réponses à leurs questions et des traductions de langues en temps réel. Les lunettes seront disponibles à la précommande à partir du 11 juillet et seront vendues dans 15 pays, avec l'objectif de vendre 10 millions d'unités par an d'ici 2026.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-19-at-10.01.32%E2%80%AFPM.png?quality=90&strip=all&crop=7.9151943462898%2C0%2C84.16961130742%2C100&w=2400",
+        "date": "Fri, 20 Jun 2025 13:02:56 GMT"
+    },
+    {
         "title": "L'impact de l'IA sur la communication humaine",
         "link": "https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage#comments",
         "body": "L'IA influence non seulement notre écriture, mais aussi notre façon de parler et d'interagir avec les autres. Des chercheurs ont constaté que l'utilisation de certains mots favorisés par ChatGPT, comme « delve » ou « prowess », a augmenté, tandis que l'usage de mots moins utilisés par l'IA, comme « bolster », a diminué. Cette influence de l'IA sur notre vocabulaire pourrait s'étendre à notre ton et notre expression émotionnelle, menant à un discours plus structuré et moins expressif. Les réponses intelligentes, la correction automatique et la vérification orthographique sont des fonctions évidentes où l'IA influence notre communication. Bien que l'IA puisse améliorer la coopération et les sentiments de proximité, la suspicion de son utilisation peut nuire à la perception de collaboration. Les chercheurs identifient trois niveaux de signaux humains perdus dans la communication médiée par l'IA : les signaux d'humanité, d'attention/d'effort et de compétence. La perte de ces signaux peut mener à une perte de confiance et d'authenticité, en particulier dans les espaces personnels et émotionnels. L'IA établit également des normes de langage « correct », ce qui peut dévaloriser les dialectes et les idiomes régionaux, et influencer notre pensée en nous persuadant de certaines idées. Pour préserver la confiance et l'authenticité dans la communication, il est important de maintenir une expression personnelle et de reconnaître l'impact de l'IA sur notre langage et notre pensée.",
@@ -131,19 +138,5 @@
         "body": "L'astronaute Tim Peake, qui a passé six mois à bord de la Station Spatiale Internationale, offre un point de vue unique sur la façon dont l'exploration spatiale peut contribuer à résoudre les problèmes de la Terre, notamment en matière d'IA, de crise climatique et de transition énergétique. Peake souligne l'impact émotionnel et intellectuel de la vue de la Terre depuis l'espace, qui met en évidence l'interdépendance et la dynamique de nos écosystèmes. Il décrit également les avancées dans les domaines de la fabrication, des communications et de l'énergie grâce à l'espace, notamment la fabrication basée dans l'espace et l'énergie solaire spatiale. Il pense que l'IA est cruciale pour gérer les données des satellites et des instruments scientifiques, mais insiste sur le besoin de supervision humaine dans les décisions critiques. Enfin, il souligne l'importance d'inspirer la prochaine génération dans les domaines des STEM et de garantir une utilisation durable de l'espace.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6853a265007615ce9e0b976d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 19 Jun 2025 05:40:00 GMT"
-    },
-    {
-        "title": "Google Search Live",
-        "link": "https://www.frandroid.com/marques/google/2653773_adieu-la-recherche-google-cette-fonction-va-completement-changer-votre-facon-de-chercher",
-        "body": "Google lance une nouvelle fonctionnalité, Search Live, qui utilise l'IA pour offrir une expérience de recherche vocale en temps réel, plus naturelle et intuitive. Les utilisateurs peuvent poser des questions à voix haute et l'IA répond oralement tout en affichant des liens pertinents. La force du système réside dans sa nature conversationnelle, permettant aux utilisateurs d'interrompre et de poser des questions de suivi à tout moment. Search Live décompose les requêtes complexes en plusieurs étapes, guidant ainsi les utilisateurs à travers les options et leur faisant gagner du temps. Cependant, cette avancée soulève également des inquiétudes quant à l'impact potentiel sur les créateurs de contenu et l'écosystème web, ainsi que sur la fiabilité des réponses fournies. La fonctionnalité est actuellement en phase de test aux États-Unis.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/SearchLive_Hero.width-1200.format-webp-768x433.webp?resize=169,169&key=e9d2adbc",
-        "date": "Wed, 18 Jun 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Conflit OpenAI-Microsoft",
-        "link": "https://www.frandroid.com/marques/microsoft/2653409_il-y-a-de-leau-dans-le-gaz-entre-openai-et-microsoft-quest-ce-que-ca-signifie-pour-chatgpt",
-        "body": "Résumé : Microsoft a investi massivement dans OpenAI, la startup derrière ChatGPT, mais des tensions surgissent concernant la transition d'OpenAI vers une entreprise à but lucratif. Microsoft exige une part importante des actions, ce à quoi OpenAI s'oppose, craignant une perte de revenus. La rupture de leur collaboration pourrait être désastreuse pour les deux entreprises, OpenAI risquant notamment de perdre sa capacité de calcul et de traitement des données. De plus, un conflit ouvert pourrait nuir à la transition d'OpenAI vers un modèle d'entreprise classique et compliquer ses levées de fonds futures.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/microsoft-openai-768x432.jpg?resize=169,169&key=444242c4",
-        "date": "Wed, 18 Jun 2025 23:00:00 GMT"
     }
 ]
