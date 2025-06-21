@@ -42,6 +42,13 @@
         "date": "Fri, 20 Jun 2025 13:00:00 GMT"
     },
     {
+        "title": "La riposte du BBC contre Perplexity",
+        "link": "https://www.ft.com/content/b743d401-dc5d-44b8-9987-825a4ffcf4ca",
+        "body": "Le texte traite de la menace légale du BBC contre la start-up américaine Perplexity, spécialisée dans l'IA, accusée d'utiliser illégalement du contenu du BBC pour entraîner ses modèles d'IA. Le BBC, financé par le public, cherche à protéger son contenu et à générer de nouvelles sources de revenus. Perplexity, valorisée à 14 milliards de dollars, compte parmi ses investisseurs Jeff Bezos. Le BBC affirme que Perplexity a reproduit son contenu textuellement et que ses liens sont apparus dans les résultats de recherche de Perplexity, y compris pour du contenu récemment publié. La réponse de Perplexity qualifie les accusations du BBC de \"manipulatrices et opportunistes\", reflétant un manque de compréhension de la technologie et des lois sur la propriété intellectuelle. Le BBC s'inquiète de la réputation de son journalisme impartial et neutre, et souligne que 17 % des réponses de Perplexity présentaient des problèmes factuels ou de contexte. La dispute met en lumière les tensions entre les organisations médiatiques traditionnelles et les start-ups d'IA, ainsi que les opportunités de monétisation des contenus pour les diffuseurs publics.",
+        "image": "",
+        "date": "Fri, 20 Jun 2025 12:01:12 GMT"
+    },
+    {
         "title": "L'avenir de l'IA pour les petites entreprises",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/20/help-for-small-merchants/?ss=ai",
         "body": "L'IA transforme rapidement le paysage des affaires, et les petites et moyennes entreprises (PME) cherchent des outils pour rester compétitives. MIT expose certaines de ces avancées, notamment via ses programmes Small Business Innovation Research (SBIR) et Small Business Technology Transfer (STTR). Autopilot, par exemple, développe des agents autonomes pour le commerce électronique, aidant les petites entreprises sur Amazon à augmenter leurs ventes de 20 %. De son côté, Heron AI crée des outils d'IA pour aider les entrepreneurs à prendre des décisions basées sur les données. MIT propose également un programme de licence Lincoln Lab pour faciliter les partenariats public-privé, avec des recherches dans des domaines tels que les systèmes autonomes, la robotique et la cybersécurité. Ces initiatives soulignent l'importance croissante de l'IA pour autonomiser les PME et leur permettre de rivaliser avec les grandes entreprises.",
@@ -131,12 +138,5 @@
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6853e658082ca3a991f5eed6/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 19 Jun 2025 10:00:00 GMT"
-    },
-    {
-        "title": "L'exploration spatiale au service de l'IA et de l'avenir de l'humanité",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/06/19/space-tech-and-ai-what-astronaut-tim-peake-can-teach-us-about-the-future-of-humanity/?ss=ai",
-        "body": "L'astronaute Tim Peake, qui a passé six mois à bord de la Station Spatiale Internationale, offre un point de vue unique sur la façon dont l'exploration spatiale peut contribuer à résoudre les problèmes de la Terre, notamment en matière d'IA, de crise climatique et de transition énergétique. Peake souligne l'impact émotionnel et intellectuel de la vue de la Terre depuis l'espace, qui met en évidence l'interdépendance et la dynamique de nos écosystèmes. Il décrit également les avancées dans les domaines de la fabrication, des communications et de l'énergie grâce à l'espace, notamment la fabrication basée dans l'espace et l'énergie solaire spatiale. Il pense que l'IA est cruciale pour gérer les données des satellites et des instruments scientifiques, mais insiste sur le besoin de supervision humaine dans les décisions critiques. Enfin, il souligne l'importance d'inspirer la prochaine génération dans les domaines des STEM et de garantir une utilisation durable de l'espace.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6853a265007615ce9e0b976d/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 19 Jun 2025 05:40:00 GMT"
     }
 ]
