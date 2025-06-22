@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution des taxis robots",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/06/22/tesla-misses-robotaxi-launch-date-goes-with-safety-drivers/?ss=ai",
+        "body": "Résumé : \n\nLe lancement très attendu du service de taxis robots de Tesla à Austin, Texas, prévu pour le 22 juin, est reporté. Tesla a informé ses passagers invités qu'il proposera un service limité avec des employés à bord pour assurer la sécurité. Cette approche, déjà utilisée par d'autres entreprises de taxis robots, permet à Tesla de tester la complexité de la gestion des passagers et de s'assurer que le système est prêt pour une utilisation sans supervision. La question clé est de savoir si Tesla peut offrir un service de taxis robots sûr et fiable, surtout avec ses capteurs limités par rapport à la concurrence. L'entreprise fait face à des défis techniques et à la pression de tenir les promesses de son PDG, Elon Musk. La sécurité est primordiale, car des erreurs pourraient avoir des conséquences désastreuses.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685801c3fb643db49881afb6/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 22 Jun 2025 13:00:00 GMT"
+    },
+    {
         "title": "La révolution de l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/06/22/preventing-skynet-and-safeguarding-ai-relationships/?ss=ai",
         "body": "Bien que l'on évoque souvent Skynet, l'antagoniste des films Terminator, comme une possible conséquence effrayante de l'IA, les experts en informatique s'efforcent de garantir une intégration harmonieuse de l'IA dans nos vies. Lors d'un panel intitulé \"Imagination in Action\", les participants ont discuté de la création de systèmes d'IA dignes de confiance, soulignant l'importance d'un juste équilibre entre innovation et responsabilité. Ra'ad Siraj d'Amazon suggère un niveau \"goldilocks\" pour les LLM, où les structures et procédures responsables sont en place sans entraver l'innovation. Ayush Khandelwal de Google met en garde contre les problèmes de fuite et d'hallucination de données dans les systèmes à haute performance. La discussion a également porté sur la cybersécurité, avec des idées telles que le traçage de circuits et l'audit de LLM pour surveiller l'évolution de l'IA. Angel An de Morgan Stanley souligne l'importance de la vérification humaine, tandis que Gil Zimmerman de FXP suggère une approche de \"main-d'œuvre numérique\", où l'IA peut finalement fonctionner de manière autonome mais reste responsable devant les humains. L'IA change la donne en matière de cybersécurité, les humains étant désormais la cible principale des attaques. Zimmerman souligne l'importance de comprendre les intentions des utilisateurs pour sécuriser les systèmes, un défi qui ne fera que croître à mesure que l'IA évolue.",
@@ -40,26 +47,5 @@
         "body": "Titre : La promesse de Cisco pour l'IA",
         "image": "https://imageio.forbes.com/specials-images/imageserve/685599f3c68c734a38fb9502/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 20 Jun 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une croissance explosive et une innovation accélérée",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/06/20/the-unstoppable-growth-of-generative-ai-ai-outlook-part-1/?ss=ai",
-        "body": "Titre : L'avenir de l'IA : croissance explosive et innovation accélérée",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68556935e2b44c4a8f996cb7/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 20 Jun 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Meta annonce de nouvelles lunettes de réalité augmentée avec Oakley",
-        "link": "https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date#comments",
-        "body": "Meta et Oakley s'associent pour lancer une nouvelle paire de lunettes de soleil intelligentes, les Meta HSTN, au prix de 499 $. Ces lunettes, destinées aux athlètes, offrent une résistance à l'eau IPX4, une autonomie de batterie prolongée (8 heures) et une caméra capable de capturer des vidéos en 3K. Les lunettes sont équipées d'un assistant IA, permettant aux utilisateurs d'obtenir des réponses à leurs questions et des traductions de langues en temps réel. Les lunettes seront disponibles à la précommande à partir du 11 juillet et seront vendues dans 15 pays, avec l'objectif de vendre 10 millions d'unités par an d'ici 2026.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-19-at-10.01.32%E2%80%AFPM.png?quality=90&strip=all&crop=7.9151943462898%2C0%2C84.16961130742%2C100&w=2400",
-        "date": "Fri, 20 Jun 2025 13:02:56 GMT"
-    },
-    {
-        "title": "L'impact de l'IA sur la communication humaine",
-        "link": "https://www.theverge.com/openai/686748/chatgpt-linguistic-impact-common-word-usage#comments",
-        "body": "L'IA influence non seulement notre écriture, mais aussi notre façon de parler et d'interagir avec les autres. Des chercheurs ont constaté que l'utilisation de certains mots favorisés par ChatGPT, comme « delve » ou « prowess », a augmenté, tandis que l'usage de mots moins utilisés par l'IA, comme « bolster », a diminué. Cette influence de l'IA sur notre vocabulaire pourrait s'étendre à notre ton et notre expression émotionnelle, menant à un discours plus structuré et moins expressif. Les réponses intelligentes, la correction automatique et la vérification orthographique sont des fonctions évidentes où l'IA influence notre communication. Bien que l'IA puisse améliorer la coopération et les sentiments de proximité, la suspicion de son utilisation peut nuire à la perception de collaboration. Les chercheurs identifient trois niveaux de signaux humains perdus dans la communication médiée par l'IA : les signaux d'humanité, d'attention/d'effort et de compétence. La perte de ces signaux peut mener à une perte de confiance et d'authenticité, en particulier dans les espaces personnels et émotionnels. L'IA établit également des normes de langage « correct », ce qui peut dévaloriser les dialectes et les idiomes régionaux, et influencer notre pensée en nous persuadant de certaines idées. Pour préserver la confiance et l'authenticité dans la communication, il est important de maintenir une expression personnelle et de reconnaître l'impact de l'IA sur notre langage et notre pensée.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-sound-like-chat-gpt.jpg?quality=90&strip=all&crop=0.073529411764703%2C0%2C99.852941176471%2C100&w=2400",
-        "date": "Fri, 20 Jun 2025 13:00:00 GMT"
     }
 ]
