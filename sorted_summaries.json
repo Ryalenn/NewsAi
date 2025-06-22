@@ -1,5 +1,12 @@
 [
     {
+        "title": "La conduite autonome et l'évolution de la supervision à distance",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/06/22/safety-drivers-remote-diving-and-assistthe-long-tail-of-robotaxis/?ss=ai",
+        "body": "L'article retrace l'évolution des technologies de conduite autonome, en se concentrant sur le rôle du superviseur de sécurité, depuis les premiers jours des voitures robotisées jusqu'aux systèmes actuels de supervision à distance. Il explore les différentes approches utilisées pour surmonter les défis de la conduite autonome, y compris l'utilisation de superviseurs à distance qui peuvent prendre le contrôle virtuellement si nécessaire. L'article souligne également l'importance de la redondance des communications et des capacités de base de sécurité pour la conduite à distance, ainsi que l'évolution vers des systèmes d'assistance à distance plus autonomes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68583712840dce8509c2ee89/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 22 Jun 2025 17:00:00 GMT"
+    },
+    {
         "title": "La révolution des taxis robots",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/06/22/tesla-misses-robotaxi-launch-date-goes-with-safety-drivers/?ss=ai",
         "body": "Résumé : \n\nLe lancement très attendu du service de taxis robots de Tesla à Austin, Texas, prévu pour le 22 juin, est reporté. Tesla a informé ses passagers invités qu'il proposera un service limité avec des employés à bord pour assurer la sécurité. Cette approche, déjà utilisée par d'autres entreprises de taxis robots, permet à Tesla de tester la complexité de la gestion des passagers et de s'assurer que le système est prêt pour une utilisation sans supervision. La question clé est de savoir si Tesla peut offrir un service de taxis robots sûr et fiable, surtout avec ses capteurs limités par rapport à la concurrence. L'entreprise fait face à des défis techniques et à la pression de tenir les promesses de son PDG, Elon Musk. La sécurité est primordiale, car des erreurs pourraient avoir des conséquences désastreuses.",
@@ -33,19 +40,5 @@
         "body": "Reddit envisage d'utiliser World ID, un système de vérification basé sur la reconnaissance de l'iris, dont la société mère a été co-fondée par le PDG d'OpenAI, Sam Altman. World ID permettrait aux utilisateurs de Reddit de vérifier leur unicité tout en restant anonymes. Cette nouvelle souligne l'urgence croissante de trouver des moyens de vérifier l'identité des utilisateurs en ligne, tout en préservant leur vie privée et leur anonymat, face à l'augmentation de contenus générés par l'IA et aux nouvelles lois sur la vérification de l'âge. La technologie de World ID pourrait être une solution importante dans l'industrie de l'IA, car elle vérifie l'unicité des individus sans stocker d'informations personnelles. Le système crypte et fragmente les données de balayage de l'iris, les stockant sur des serveurs secrets du monde entier, rendant ainsi presque impossible pour les pirates d'accéder aux informations. L'article aborde également les défis liés à la confiance des utilisateurs et à l'adoption de nouvelles technologies de vérification, ainsi que l'ironie de la situation, car l'industrie a largement ignoré ces technologies pendant des années malgré leur potentiel à lutter contre la désinformation en ligne.",
         "image": "",
         "date": "Fri, 20 Jun 2025 18:51:11 GMT"
-    },
-    {
-        "title": "L'IA au menu",
-        "link": "https://www.theverge.com/news/690458/applebees-ihop-ai-restaraunt-recommendations#comments",
-        "body": "Applebee's et IHOP prévoient d'utiliser l'IA pour proposer des recommandations et des offres personnalisées à leurs clients, basées sur leurs commandes précédentes ou celles de clients similaires. L'objectif est d'augmenter la fidélité des clients et de promouvoir des produits supplémentaires. D'autres chaînes de restaurants comme Wendy's, McDonald's et Taco Bell adoptent également l'IA, que ce soit à travers des chatbots, des systèmes de commande vocale ou des outils d'assistance pour le personnel. Dine Brands, la société mère d'Applebee's et IHOP, envisage également d'utiliser l'IA pour détecter les tables à nettoyer et pour fournir une application aux gestionnaires.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1473556339.jpg?quality=90&strip=all&crop=0.0096153846153868%2C0%2C99.980769230769%2C100&w=2400",
-        "date": "Fri, 20 Jun 2025 17:21:52 GMT"
-    },
-    {
-        "title": "La promesse de Cisco pour l'IA",
-        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/06/20/cisco-live-2025-touts-ciscos-platform-advantages-for-enterprise-ai/?ss=ai",
-        "body": "Titre : La promesse de Cisco pour l'IA",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/685599f3c68c734a38fb9502/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 20 Jun 2025 17:00:00 GMT"
     }
 ]
