@@ -1,5 +1,12 @@
 [
     {
+        "title": "Le futur du marketing : l'avènement des agents IA",
+        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/06/24/ai-is-ending-marketing-as-we-know-itso-what-comes-next/?ss=ai",
+        "body": "Titre : Le futur du marketing : l'avènement des agents IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685adac34e68599d5d4dd504/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 24 Jun 2025 17:00:00 GMT"
+    },
+    {
         "title": "La promesse non tenue de Tesla",
         "link": "https://www.forbes.com/sites/bradtempleton/2025/06/24/understanding-why-tesla-didnt-launch-their-robotaxi-this-week/?ss=ai",
         "body": "Bien que Tesla ait promis un système de taxi robot \"sans supervision\", leur démonstration récente a montré qu'un superviseur était toujours nécessaire dans le véhicule. Bien qu'il ne s'agisse pas d'un \"conducteur de sécurité\" traditionnel, assis sur le siège passager, cette personne supervise toujours le véhicule et peut intervenir en cas de problème. La promesse d'Elon Musk de retirer complètement l'humain de l'équation n'a pas été tenue, et la technologie de Tesla n'a pas encore atteint le niveau de fiabilité nécessaire pour un déploiement sûr. Bien que leur approche basée sur l'apprentissage automatique soit audacieuse, elle nécessite encore un niveau de précision 100 fois supérieur pour atteindre l'objectif de sécurité. Tesla n'a pas publié de statistiques détaillées, ce qui rend difficile l'évaluation de leurs progrès réels.",
@@ -40,6 +47,13 @@
         "body": "Résumé : \n\nL'article explore le concept de « modèles frontières » dans le domaine de l'IA, décrivant ces systèmes comme étant à la pointe de la technologie, avec des capacités multimodales, un apprentissage zéro-shot et un comportement agentique. Il met en évidence les caractéristiques clés, y compris la capacité à traiter les entrées et sorties non textuelles, telles que les images, les vidéos et l'audio. Le texte souligne également l'importance des ressources massives, qu'il s'agisse de jeux de données, de puissance de calcul ou d'architectures sophistiquées, pour le développement de ces modèles. Il présente les réflexions d'un panel d'experts sur les défis et les opportunités dans la création de ces systèmes, y compris les discussions sur la qualité par rapport à la suffisance, la multimodalité et le benchmarking. L'article se termine en envisageant l'avenir des interfaces IA, suggérant que les modèles frontières évolueront vers des agents ubiquistes capables de répondre aux signaux vocaux, visuels et émotionnels, offrant une expérience utilisateur plus personnelle et intuitive.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6848ce38a1c6c625d73a5367/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 24 Jun 2025 09:00:00 GMT"
+    },
+    {
+        "title": "La nouvelle aventure de Jony Ive et OpenAI",
+        "link": "https://www.theverge.com/openai/691737/openai-jony-ive-chatgpt-io-ai-device-wearable-headphone-lyo-lawsuit#comments",
+        "body": "Titre",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1421760684.jpg?quality=90&strip=all&crop=20.3837890625%2C13.363014308851%2C56.0400390625%2C56.033147642661&w=2400",
+        "date": "Tue, 24 Jun 2025 02:01:54 GMT"
     },
     {
         "title": "Comment protéger vos données dans un monde régi par l'IA",
@@ -152,26 +166,5 @@
         "body": "Résumé : \n\nOpenAI a supprimé toute mention de sa collaboration avec Jony Ive, le célèbre designer d'Apple, en raison d'un litige judiciaire. L'entreprise d'IA a récemment annoncé son acquisition de la startup io, cofondée par Jony Ive, pour près de 6,5 milliards de dollars, avec l'intention de développer du matériel informatique dédié à l'IA. Cependant, à la suite d'une plainte pour violation de marque déposée par la startup Iyo (une entreprise dérivée de Google spécialisée dans les appareils auditifs), OpenAI a retiré de son site Web et de ses réseaux sociaux toutes les références à cette collaboration. Malgré cela, OpenAI affirme que l'accord est toujours en cours. Le blog annonçant le partenariat, ainsi qu'une vidéo mettant en vedette Jony Ive et le PDG d'OpenAI, Sam Altman, ne sont plus disponibles.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Sun, 22 Jun 2025 21:44:27 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une collaboration humaine et machine efficace",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/06/22/from-cognitive-debt-to-cognitive-dividend-4-factors/?ss=ai",
-        "body": "L'article met en garde contre les dangers de la dépendance excessive aux grands modèles linguistiques, illustrant comment une utilisation intensive peut entraîner une « dette cognitive » se manifestant par une baisse de la connectivité neuronale, de la mémoire et de la créativité. Pour contrer cela, l'auteur propose une « formation par intervalles de haute intensité cognitive », suggérant quatre facteurs-clés (les 4 A) pour s'assurer que l'IA améliore plutôt qu'inhibe l'intelligence humaine : Attitude, Approche, Capacité et Ambition. En alignant les valeurs, en comprenant la logique de la machine et de l'homme, et en plaçant l'humain au centre, nous pouvons exploiter les avantages de l'IA tout en préservant et en améliorant nos capacités cognitives.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68584af1e134c5e4dbf96267/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 22 Jun 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La conduite autonome et l'évolution de la supervision à distance",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/06/22/safety-drivers-remote-diving-and-assistthe-long-tail-of-robotaxis/?ss=ai",
-        "body": "L'article retrace l'évolution des technologies de conduite autonome, en se concentrant sur le rôle du superviseur de sécurité, depuis les premiers jours des voitures robotisées jusqu'aux systèmes actuels de supervision à distance. Il explore les différentes approches utilisées pour surmonter les défis de la conduite autonome, y compris l'utilisation de superviseurs à distance qui peuvent prendre le contrôle virtuellement si nécessaire. L'article souligne également l'importance de la redondance des communications et des capacités de base de sécurité pour la conduite à distance, ainsi que l'évolution vers des systèmes d'assistance à distance plus autonomes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68583712840dce8509c2ee89/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 22 Jun 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'IA et l'accessibilité numérique : des alliés stratégiques",
-        "link": "https://www.forbes.com/sites/gusalexiou/2025/06/22/what-the-june-28-european-accessibility-act-deadline-means-for-brands/?ss=ai",
-        "body": "Bien que l'intelligence artificielle (IA) ait été accueillie avec scepticisme dans le domaine de l'accessibilité numérique il y a quelques années, elle est désormais considérée comme un allié stratégique pour les entreprises. L'article souligne l'importance croissante de l'IA dans la conformité aux réglementations en matière d'accessibilité, telles que l'European Accessibility Act (EAA), qui entre en vigueur le 28 juin 2025. L'EAA ne concerne pas seulement les entreprises européennes, mais également toutes les organisations vendant des produits numériques dans l'UE. La législation va au-delà de l'accessibilité web de base et du commerce électronique, couvrant une large gamme de produits et services numériques. Les entreprises doivent intégrer des engagements et des meilleures pratiques en matière d'accessibilité à leur niveau organisationnel fondamental. \n\nL'article cite des experts en accessibilité numérique qui encouragent les organisations à agir dès maintenant pour se conformer à l'EAA, soulignant que l'intégration de l'accessibilité dans les processus d'approvisionnement et la demande de preuves documentées aux fournisseurs sont essentielles. Bien que la date limite approche, il n'est pas trop tard pour commencer à progresser vers une conformité totale. L'IA est présentée comme une solution efficace pour gérer l'ampleur, le coût et la complexité opérationnelle de la conformité. Le rapport de AAAnow, une société de benchmarking de conformité numérique basée à Londres, souligne l'importance de l'IA dans la réduction des coûts et du temps nécessaires pour remédier aux problèmes d'accessibilité sur les sites Web. \n\nLes réglementations de l'UE sont considérées comme un catalyseur positif, offrant une feuille de route claire vers la conformité technique, et les marques devraient les accueillir favorablement. L'accessibilité évolue d'un simple problème de conformité à un investissement stratégique, élargissant la portée du marché et améliorant la compétitivité. La conclusion suggère que la date limite du 28 juin marquera le début d'un nouveau chapitre, où l'intention humaine et la technologie avancée de l'IA travailleront ensemble pour créer une expérience numérique équitable pour tous.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6858280f785344b12bec4b6c/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 22 Jun 2025 16:00:00 GMT"
     }
 ]
