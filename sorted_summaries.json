@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir de l'IA d'entreprise est multi-agents",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/06/25/key-tech-firms-unite-as-google-donates-a2a-to-linux-foundation/?ss=ai",
+        "body": "Les principaux fournisseurs de technologies s'unissent autour d'un protocole unique pour la communication entre agents d'IA, résolvant ainsi la fragmentation qui limitait auparavant les déploiements d'IA en entreprise. Le protocole a2a, désormais soutenu par plus de 100 entreprises technologiques, permet aux agents d'IA de découvrir les capacités des autres agents, d'échanger des informations en toute sécurité et de coordonner des tâches complexes, indépendamment de leur pile technologique sous-jacente. Cette normalisation ouvre la voie à des stratégies d'IA modulaires, où des agents spécialisés de différents fournisseurs peuvent collaborer sur des flux de travail complexes. Par exemple, un flux de travail de service client pourrait combiner des agents Salesforce pour les interactions CRM, des agents ServiceNow pour la gestion des incidents et des agents AWS pour l'analyse de données, tous coordonnés via les protocoles a2a. Cependant, une mise en œuvre réussie nécessite une planification architecturale minutieuse, y compris des cadres de gouvernance des agents, des capacités de surveillance et des politiques de partage des données inter-agents. Bien que le protocole a2a réduise les obstacles techniques à l'interopérabilité des agents, il reste essentiel de disposer de solides cadres de gouvernance des données, de gestion des identités et de conformité pour les déploiements d'IA d'entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685c96b31ac9565617944f94/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 26 Jun 2025 00:00:00 GMT"
+    },
+    {
+        "title": "WhatsApp AI Message Summaries",
+        "link": "https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta#comments",
+        "body": "WhatsApp, détenu par Meta, lance une nouvelle fonctionnalité utilisant l'IA de Meta pour fournir des résumés de discussions personnelles. Les utilisateurs peuvent accéder à ces résumés en cliquant sur un bouton pour afficher tous les messages non lus dans une conversation. La fonctionnalité, actuellement disponible en anglais aux États-Unis, utilise la technologie Private Processing de Meta pour protéger la confidentialité des messages. Les résumés sont facultatifs et désactivés par défaut. WhatsApp offre également un paramètre de confidentialité avancé pour empêcher l'utilisation de fonctionnalités d'IA dans les discussions de groupe. Cette fonctionnalité s'ajoute à d'autres intégrations récentes de l'IA de Meta dans WhatsApp, telles que la possibilité de poser des questions à l'IA directement dans une conversation. Bien que la protection de la vie privée soit mise en avant, certains utilisateurs se sont montrés frustrés par l'ajout continu de fonctionnalités d'IA et par la présence d'une icône d'IA inamovible dans l'interface de l'application.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/meta-ai-summary-screenshot.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 25 Jun 2025 22:02:07 GMT"
+    },
+    {
         "title": "L'avenir de l'IA et de la main-d'œuvre",
         "link": "https://www.forbes.com/sites/peterhigh/2025/06/25/inside-kelly-services-tech-and-ai-journey-with-cio-sean-perry/?ss=ai",
         "body": "Titre",
@@ -12,6 +26,20 @@
         "body": "**L'emprise de la Silicon Valley sur l'esthétique mondiale**",
         "image": "",
         "date": "Wed, 25 Jun 2025 18:40:35 GMT"
+    },
+    {
+        "title": "L'art de l'IA critique",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work#comments",
+        "body": "L'artiste Almagul Menlibayeva utilise l'IA pour explorer les biais et les pouvoirs qui façonnent la mémoire collective. Son installation \"Posthuman Matter: The Map of Nomadizing Reimaginings #3\" combine artisanat et code, en présentant une cartographie alternative de l'Asie centrale. Menlibayeva utilise l'IA pour infuser des rituels féministes, des traditions orales nomades et des langues en voie de disparition dans ses vidéos, remettant ainsi en question les récits historiques effacés. Son œuvre \"AI Realism: Qantar 2022\", créée en réponse aux manifestations réprimées au Kazakhstan, utilise des récits et des messages vocaux collectés pour générer des images. L'artiste voit l'IA comme un outil complexe, reflétant les codes cachés et les limites de ses créateurs. Elle insère ses propres mythes et archives pour ouvrir un dialogue entre les systèmes algorithmiques et l'histoire humaine, humanisant ainsi l'IA avec des histoires et des mémoires humaines.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257666_futureproofing_jgibbs-Almagul-Menlibayeva.jpg?quality=90&strip=all&crop=0.074962518740634%2C0%2C99.850074962519%2C100&w=2400",
+        "date": "Wed, 25 Jun 2025 17:00:00 GMT"
+    },
+    {
+        "title": "OpenAI dans une bataille juridique",
+        "link": "https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails#comments",
+        "body": "Le PDG d'OpenAI, Sam Altman, a publié des captures d'écran d'e-mails échangés avec Jason Rugolo, fondateur de la startup Iyo, qui poursuit en justice OpenAI pour un appareil concurrent. Les e-mails révèlent un échange amical, Rugolo sollicitant l'investissement d'Altman ou une collaboration, ce que ce dernier refuse, citant un projet concurrent. Iyo a ensuite poursuivi OpenAI pour une violation de marque, affirmant qu'OpenAI connaissait leur technologie et a choisi un nom similaire. Altman a répondu publiquement, qualifiant la poursuite de « ridicule », et OpenAI a demandé le rejet de l'affaire.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 25 Jun 2025 16:12:46 GMT"
     },
     {
         "title": "Le projet de loi sur les données, l'IA et la gouvernance numérique",
@@ -152,12 +180,5 @@
         "body": "Titre",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-1421760684.jpg?quality=90&strip=all&crop=20.3837890625%2C13.363014308851%2C56.0400390625%2C56.033147642661&w=2400",
         "date": "Tue, 24 Jun 2025 02:01:54 GMT"
-    },
-    {
-        "title": "Comment protéger vos données dans un monde régi par l'IA",
-        "link": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia",
-        "body": "Résumé : \n\n- Le texte fournit un ensemble de tutoriels et de nouvelles liées à l'intelligence artificielle (IA). \n\n- Il couvre divers sujets, notamment l'installation de modèles LLM, la désactivation de Copilot, et la protection de ses données lors de l'utilisation d'outils d'IA comme ChatGPT. \n\n- L'article de Meta sur l'utilisation des données des utilisateurs pour entraîner son IA est particulièrement pertinent, soulignant l'importance de la confidentialité des données dans le domaine de l'IA. \n\n- Le résumé met également en évidence un tutoriel sur l'activation/désactivation d'Apple Intelligence et l'accès au meilleur modèle d'IA de Google. \n\n- Enfin, il mentionne un guide amusant sur l'utilisation de ChatGPT pour transformer les photos en différents styles artistiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/image-1200x800-1-768x512.jpg?resize=200,200&key=5c8661ff",
-        "date": "Mon, 23 Jun 2025 23:00:00 GMT"
     }
 ]
