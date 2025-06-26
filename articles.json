@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Ring déploie l’IA descriptive sur ses caméras : « un chien déchire du sopalin sur le tapis du salon »",
+        "title": "Ring d\u00e9ploie l\u2019IA descriptive sur ses cam\u00e9ras : \u00ab un chien d\u00e9chire du sopalin sur le tapis du salon \u00bb",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2709651_ring-deploie-lia-descriptive-sur-ses-cameras-un-chien-dechire-du-sopalin-sur-le-tapis-du-salon",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/image-79-5-768x461.jpg?resize=180,180&key=d218d40a",
         "date": "Tue, 24 Jun 2025 23:00:00 GMT",
@@ -166,5 +166,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/685cf80b69cf469eca5e236f/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 26 Jun 2025 08:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Claude-Create-Artifacts-MBP.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 25 Jun 2025 22:33:29 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/06/26/venture-capitalists-are-done-with-ai-hype---now-they-want-real-results/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685cff9549da8812321d4db4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 26 Jun 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
