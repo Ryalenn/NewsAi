@@ -1,6 +1,6 @@
 [
     {
-        "title": "DeepSeek fait face à une mesure de retrait en Europe : voici ce que cela signifie",
+        "title": "DeepSeek fait face \u00e0 une mesure de retrait en Europe : voici ce que cela signifie",
         "link": "https://www.frandroid.com/culture-tech/2714651_deepseek-fait-face-a-une-mesure-de-retrait-en-europe-voici-ce-que-cela-signifie",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/deepseek-smartphone-768x480.jpg?resize=188,188&key=ea096fdc",
         "date": "Sun, 29 Jun 2025 23:00:00 GMT",
@@ -91,7 +91,7 @@
         "check": "yes"
     },
     {
-        "title": "Et si le « nouveau » Siri n’était en fait que ChatGPT avec une fausse moustache ?",
+        "title": "Et si le \u00ab nouveau \u00bb Siri n\u2019\u00e9tait en fait que ChatGPT avec une fausse moustache ?",
         "link": "https://www.frandroid.com/marques/apple/2715733_et-si-le-nouveau-siri-netait-en-fait-que-chatgpt-avec-une-fausse-moustache",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/siri-jpg-1600x900-crop-q85-1-768x432.jpg?resize=169,169&key=744fce92",
         "date": "Mon, 30 Jun 2025 23:00:00 GMT",
@@ -187,5 +187,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68633862c78c889fe46c2e75/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Jul 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257760_Music_copyright_might_actually_tame_AI_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 01 Jul 2025 12:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/porn_pixels_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 30 Jun 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/01/2025-halftime-ais-four-forceswhat-happened-whats-coming/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686442d81135d9f460f92ed1/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Jul 2025 21:04:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/01/are-we-speaking-to-sentient-ai-and-is-that-good/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68643187c3a275762f8baf97/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Jul 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/07/01/senate-kills-10-year-state-level-ai-ban-tucked-in-trumps-budget-bill/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68642999c844e298d78e26d9/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Jul 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
