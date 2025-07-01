@@ -1,5 +1,12 @@
 [
     {
+        "title": "Démocratiser l'accès aux essais cliniques grâce à l'IA",
+        "link": "https://www.forbes.com/sites/amyfeldman/2025/07/01/startup-pi-health-built-a-cancer-hospital-in-india-to-test-its-ai-software-clinical-trials/?ss=ai",
+        "body": "Résumé : \n\nPi Health, une startup fondée par deux médecins spécialistes du cancer, a construit son propre hôpital de cancérologie en Inde pour accélérer le processus d'essais cliniques. Leur logiciel basé sur l'IA rationalise et réduit les erreurs dans les données des essais cliniques, depuis la conception jusqu'à la soumission réglementaire. L'hôpital Pi Health Cancer a participé à huit essais cliniques, dont un qui a conduit à l'approbation d'un médicament contre le cancer de l'œsophage en Inde en un temps record. La société a levé 40 millions de dollars, a des contrats signés de plus de 70 millions de dollars et travaille sur près de 20 études cliniques pour cinq compagnies pharmaceutiques mondiales. L'objectif est de démocratiser l'accès aux essais cliniques et aux traitements expérimentaux, en particulier dans les régions sous-desservies.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6862a445e16647f38826f281/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 01 Jul 2025 10:00:00 GMT"
+    },
+    {
         "title": "La quête de l'AGI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/07/01/future-forecasting-a-massive-intelligence-explosion-on-the-path-from-ai-to-agi/?ss=ai",
         "body": "Résumé : \n\nL'article explore les voies possibles pour évoluer de l'IA conventionnelle vers l'AGI (intelligence artificielle générale). Il se concentre sur l'idée d'une « explosion d'intelligence », un événement hypothétique qui pourrait déclencher une progression rapide vers l'AGI. L'auteur présente les controverses et les incertitudes entourant ce concept, y compris la vitesse et la contrôlabilité d'une telle explosion. Le résumé suggère un calendrier spéculatif pour atteindre l'AGI, en utilisant l'idée d'une explosion d'intelligence comme catalyseur. Enfin, il souligne l'importance de guider le développement de l'AGI avec de bonnes intentions pour bénéficier à l'humanité.",
@@ -12,6 +19,13 @@
         "body": "Résumé : \n\nLes investisseurs en IA sont confrontés à un choix crucial : acheter, construire ou s'associer pour réussir. Avec l'explosion des investissements, les fonds de capital-risque axés sur l'IA doivent agir rapidement et stratégiquement. Les questions clés à considérer sont les suivantes : votre fonds a-t-il besoin d'une échelle ou d'une propriété intellectuelle immédiate ? Disposez-vous de données ou de talents uniques à exploiter ? Pouvez-vous partager les risques tout en profitant des avantages ? Acheter apporte une échelle, construire différencie, et s'associer réduit les risques. La pire décision est de ne pas bouger alors que les autres agissent, car la course à l'IA récompense la vitesse et l'audace stratégique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686359bcf425c49ee8489fe5/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 01 Jul 2025 03:58:00 GMT"
+    },
+    {
+        "title": "La guerre des talents en IA",
+        "link": "https://www.frandroid.com/marques/meta/2715791_meta-et-openai-sont-en-guerre-ouverte-et-veulent-de-lintelligence-non-artificielle",
+        "body": "La course à l'intelligence artificielle ne se limite pas qu'à la technologie, mais aussi aux talents qui la développent. Meta, dans sa quête de rejoindre la course à la super-intelligence, a récemment débauché quatre chercheurs seniors d'OpenAI en leur offrant des primes de signature substantielles. Cette vague de recrutement a suscité une réaction de la part de Mark Chen, directeur de la recherche chez OpenAI, qui entend revaloriser la rémunération de ses employés clés tout en veillant à l'équité au sein de l'entreprise. La guerre des talents dans le domaine de l'IA s'intensifie, et les entreprises sont prêtes à tout pour attirer les meilleurs profils, même à offrir des salaires élevés.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/mariia-shalabaieva-wr6qhgdws-y-unsplash-768x548.jpg?resize=214,214&key=623fc64a",
+        "date": "Mon, 30 Jun 2025 23:00:00 GMT"
     },
     {
         "title": "Apple et le DMA : un déploiement complexe en Europe",
@@ -33,6 +47,20 @@
         "body": "La page d'accueil d'un site web perd de son importance, tout comme les plateformes de vente au détail en ligne traditionnelles. Les assistants numériques alimentés par l'IA et les LLM (Large Language Models) deviennent la nouvelle interface pour les achats en ligne, offrant des réponses et des liens vers des produits spécifiques. Cette évolution rend obsolètes les sites web de vente au détail en ligne tels qu'Amazon, Walmart et Best Buy, qui doivent désormais se réinventer. Les stratégies pour survivre dans ce nouveau paysage comprennent la spécialisation, la personnalisation et l'offre de conseils experts. Les entreprises qui maîtriseront la logistique, la vitesse et la commodité, ou qui fourniront des conseils et des sélections personnalisés, prospéreront dans cette nouvelle ère. Les marques doivent également se concentrer sur la création de contenus authentiques et uniques pour être remarquées par les LLM. L'avenir du commerce de détail en ligne est en train d'être redéfini par l'IA, offrant de nouvelles opportunités aux entreprises capables de s'adapter.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68631fb151d896dd7a4c6533/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 30 Jun 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Apple explore de nouvelles options pour améliorer Siri",
+        "link": "https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered#comments",
+        "body": "Apple envisage de faire appel à des entreprises externes, telles qu'OpenAI ou Anthropic, pour améliorer les capacités de son assistant vocal Siri basé sur l'IA. L'entreprise a demandé à ces sociétés de créer des versions de leurs modèles linguistiques volumineux pour les tester sur son infrastructure cloud privée, alors qu'elle cherche à rattraper son retard dans le domaine de l'IA après des retards dans le lancement de la version améliorée de Siri. Apple a également nommé un nouveau responsable pour l'IA et Siri, et explore des options potentielles, y compris l'utilisation de modèles tiers ou de ses propres modèles internes.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_K.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 30 Jun 2025 21:01:03 GMT"
+    },
+    {
+        "title": "Meta Superintelligence Labs",
+        "link": "https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs#comments",
+        "body": "Mark Zuckerberg a annoncé la création d'un nouveau groupe « Meta Superintelligence Labs » qui dirigera les efforts de l'entreprise en matière d'IA. Ce groupe sera dirigé par Alexandr Wang, ancien PDG de Scale AI, qui a rejoint Meta dans le cadre d'un accord de plusieurs milliards de dollars. Nat Friedman, ancien PDG de GitHub, collaborera avec Wang pour diriger la division. Meta a également recruté 11 nouveaux employés spécialisés en IA, provenant de sociétés telles qu'Anthropic, Google DeepMind et OpenAI. Zuckerberg a fait des offres importantes, atteignant des montants à huit chiffres, pour attirer des talents en IA, car Meta cherche à rattraper ses concurrents dans ce domaine. L'entreprise a également entamé des discussions pour acquérir des sociétés spécialisées en IA, telles que Thinking Machines Lab, Perplexity et Safe Superintelligence, bien que ces discussions n'aient pas abouti à des offres formelles. Enfin, Meta prévoit de lancer des recherches sur la prochaine génération de modèles d'IA dans l'année à venir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 30 Jun 2025 19:23:43 GMT"
     },
     {
         "title": "La décision de l'affaire Bartz c. Anthropic",
