@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "Et si le « nouveau » Siri n’était en fait que ChatGPT avec une fausse moustache ?",
+        "title": "Et si le \u00ab nouveau \u00bb Siri n\u2019\u00e9tait en fait que ChatGPT avec une fausse moustache ?",
         "link": "https://www.frandroid.com/marques/apple/2715733_et-si-le-nouveau-siri-netait-en-fait-que-chatgpt-avec-une-fausse-moustache",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/siri-jpg-1600x900-crop-q85-1-768x432.jpg?resize=169,169&key=744fce92",
         "date": "Mon, 30 Jun 2025 23:00:00 GMT",
@@ -187,5 +187,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68645b6364b37f44f9f1277d/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Jul 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2222154603.jpg?quality=90&strip=all&crop=0.0056548292241558%2C0%2C99.988690341552%2C100&w=2400",
+        "date": "Tue, 01 Jul 2025 13:15:48 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/02/premier-league-makes-an-ai-play-to-enhance-the-fan-experience/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686576e67b8cfd0636a9f240/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 18:16:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/02/no-time-out-for-ai-decoding-washingtons-moratorium-flip/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686569712ae74ad8331bccde/0x0.jpg?format=jpg&crop=1557,876,x0,y1,safe&width=440",
+        "date": "Wed, 02 Jul 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/brucemartin/2025/07/02/chip-ganassi-racing-announces-openai-as-mid-ohio-indycar-sponsor/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686546fb89cb862102297ad0/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
