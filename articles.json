@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Et si le « nouveau » Siri n’était en fait que ChatGPT avec une fausse moustache ?",
+        "title": "Et si le \u00ab nouveau \u00bb Siri n\u2019\u00e9tait en fait que ChatGPT avec une fausse moustache ?",
         "link": "https://www.frandroid.com/marques/apple/2715733_et-si-le-nouveau-siri-netait-en-fait-que-chatgpt-avec-une-fausse-moustache",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/siri-jpg-1600x900-crop-q85-1-768x432.jpg?resize=169,169&key=744fce92",
         "date": "Mon, 30 Jun 2025 23:00:00 GMT",
@@ -180,5 +180,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/670f01d712e7e9207c8c8cab/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Jul 2025 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/02/beyond-computer-vision-brains-in-jars-and-how-they-see/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/679a5d9bb8e9823c0c29bc6f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 15:06:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2025/07/02/are-we-finally-ceding-control-to-the-machine-the-human-costs-of-ai-transformation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68652e3fc099a593a5586e80/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/07/02/jennifer-hartsock-reshapes-cargills-technology-operating-model/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68645b6364b37f44f9f1277d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 13:00:00 GMT",
+        "check": "no"
     }
 ]
