@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'avenir du sport avec l'IA",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/02/premier-league-makes-an-ai-play-to-enhance-the-fan-experience/?ss=ai",
+        "body": "La Premier League anglaise s'associe à Microsoft pour créer un assistant virtuel alimenté par l'IA, offrant aux fans des interactions et des mises à jour personnalisées. Nommé « Premier League Companion », il sera intégré à l'application officielle de la ligue et permettra aux fans d'accéder à des décennies de données, de vidéos et d'analyses de matchs via une interface de chat. Cette tendance à utiliser l'IA pour améliorer l'expérience des fans est de plus en plus adoptée par les ligues sportives et les industries du divertissement dans le monde entier. Wimbledon, LaLiga, Major League Soccer, et Major League Baseball déploient des outils similaires. Ces technologies ne se limitent pas à des fonctionnalités supplémentaires, mais constituent des stratégies pour fidéliser les fans au sein des applications officielles, tout en collectant des données précieuses et en améliorant l'engagement des sponsors. Microsoft, par exemple, utilise non seulement l'IA pour alimenter l'assistant virtuel, mais fournit également des services cloud pour gérer les données des fans, automatiser les flux de travail et personnaliser le contenu à grande échelle. Bien que ces outils offrent de nombreux avantages, il existe des préoccupations concernant la précision des données et les possibles erreurs de traduction. La ligue et Microsoft affirment qu'ils s'attaquent à ces risques en utilisant un système de génération augmentée par récupération (RAG) qui extrait les réponses de sources vérifiées de la Premier League. De plus, l'utilisation de l'IA dans le sport soulève des questions sur l'équité potentielle, car certains craignent qu'elle n'élargisse l'écart entre les clubs disposant de personnel technique compétent et ceux qui n'en disposent pas. La ligue envisage des mises à jour futures, notamment des superpositions de données en direct dans les stades, des commentaires audio en plusieurs langues et des replays de matchs générés par l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686576e67b8cfd0636a9f240/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 18:16:00 GMT"
+    },
+    {
+        "title": "Réglementation de l'IA aux États-Unis",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/02/no-time-out-for-ai-decoding-washingtons-moratorium-flip/?ss=ai",
+        "body": "Le Sénat américain a récemment voté pour supprimer une partie de la proposition de loi « One Big, Beautiful Bill » qui imposait un moratoire de 10 ans sur la réglementation de l'IA au niveau des États. La suppression de cette disposition a été menée en partie par Marsha Blackburn du Tennessee, qui a déclaré que si ni les États ni le gouvernement fédéral ne réglementent l'IA, il n'y aura aucune réglementation. Le projet de loi modifié a été rejeté par le Sénat, mais a mis en lumière la nécessité d'une réglementation de l'IA, notamment pour protéger les enfants et les données personnelles des divertisseurs. Bien que les dirigeants du secteur technologique n'aient pas publiquement soutenu la réglementation, des personnalités comme Elon Musk ont auparavant souligné la nécessité de recherches et de directives éthiques en matière d'IA. Le rejet du moratoire donne maintenant aux responsables des 50 États une plus grande marge de manœuvre pour protéger les citoyens, affiner les systèmes et se concentrer sur la sécurité et l'équité de l'IA. Les législateurs des États envisagent déjà une variété de projets de loi sur l'IA, ce qui indique que la réglementation de l'IA au niveau des États est une question importante qui mérite d'être étudiée de près.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686569712ae74ad8331bccde/0x0.jpg?format=jpg&crop=1557,876,x0,y1,safe&width=440",
+        "date": "Wed, 02 Jul 2025 17:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA et de la neuroscience",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/02/beyond-computer-vision-brains-in-jars-and-how-they-see/?ss=ai",
         "body": "Titre : L'avenir de l'IA et de la neuroscience",
         "image": "https://imageio.forbes.com/specials-images/imageserve/679a5d9bb8e9823c0c29bc6f/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 02 Jul 2025 15:06:00 GMT"
+    },
+    {
+        "title": "La révolution de l'IA en course automobile",
+        "link": "https://www.forbes.com/sites/brucemartin/2025/07/02/chip-ganassi-racing-announces-openai-as-mid-ohio-indycar-sponsor/?ss=ai",
+        "body": "OpenAI, l'une des principales organisations d'intelligence artificielle au monde, s'associe à Chip Ganassi Racing pour sponsoriser la voiture Honda No. 10 pilotée par Alex Palou lors de la course IndyCar Series Honda Indy 200 à Mid-Ohio. OpenAI a déjà collaboré avec succès avec l'équipe, aidant à améliorer leur efficacité et leur performance grâce à leur technologie de pointe. Cette association marque une étape importante dans l'utilisation de l'IA dans le sport automobile, offrant des insights stratégiques et contribuant à la prise de décision. Alex Palou connaît déjà une saison historique avec 6 victoires sur les 9 premières courses, et la voiture No. 10 affiche une livrée mate noire distinctive. La course aura lieu le dimanche 6 juillet et sera diffusée en direct sur FOX.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686546fb89cb862102297ad0/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 02 Jul 2025 14:00:00 GMT"
     },
     {
         "title": "L'impact de l'IA sur l'éducation et l'emploi",
@@ -98,6 +119,13 @@
         "date": "Tue, 01 Jul 2025 14:00:00 GMT"
     },
     {
+        "title": "Le Sénat américain et l'IA",
+        "link": "https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill#comments",
+        "body": "Le Sénat américain a voté pour supprimer un moratoire sur la réglementation de l'IA par les États, inclus dans un projet de loi budgétaire omnibus. La proposition controversée a été rejetée par 99 voix contre 1, après des tentatives infructueuses pour la réviser et apaiser les opposants, notamment la sénatrice Marsha Blackburn. Un compromis pour réduire le moratoire à cinq ans et autoriser les États à appliquer des lois sur la sécurité des enfants en ligne et la protection des noms, images et similitudes des individus a été abandonné suite à une forte opposition de la droite populiste. La suppression du moratoire a été soutenue par presque tous les sénateurs, à l'exception d'un seul, citant des préoccupations concernant l'empiétement fédéral et la nécessité de protéger les citoyens des abus potentiels de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2222154603.jpg?quality=90&strip=all&crop=0.0056548292241558%2C0%2C99.988690341552%2C100&w=2400",
+        "date": "Tue, 01 Jul 2025 13:15:48 GMT"
+    },
+    {
         "title": "L'IA musicale sous tension juridique",
         "link": "https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa#comments",
         "body": "Résumé : \n\nL'industrie musicale s'appuie sur des années de jurisprudence en matière de droit d'auteur, un système de licences réglementé et quelques entreprises puissantes. Les maisons de disques s'opposent à plusieurs entreprises d'IA sur la question du droit d'auteur, avec un avantage certain. L'IA menace les musiciens qui créent de la musique de fond ou de la musique pour la publicité, plutôt que les stars comme Taylor Swift. Les entreprises d'IA musicale Suno et Udio sont poursuivies par les grandes maisons de disques pour utilisation de données protégées par le droit d'auteur pour entraîner leurs modèles. La décision de l'affaire influera sur d'autres industries créatives confrontées à des problèmes similaires avec l'IA. Les entreprises d'IA musicale qui ne paient pas pour les licences de musique sont en difficulté, car l'industrie musicale et les tribunaux prennent des mesures fermes pour protéger les droits d'auteur.",
@@ -180,19 +208,5 @@
         "body": "Mark Zuckerberg a annoncé la création d'un nouveau groupe « Meta Superintelligence Labs » qui dirigera les efforts de l'entreprise en matière d'IA. Ce groupe sera dirigé par Alexandr Wang, ancien PDG de Scale AI, qui a rejoint Meta dans le cadre d'un accord de plusieurs milliards de dollars. Nat Friedman, ancien PDG de GitHub, collaborera avec Wang pour diriger la division. Meta a également recruté 11 nouveaux employés spécialisés en IA, provenant de sociétés telles qu'Anthropic, Google DeepMind et OpenAI. Zuckerberg a fait des offres importantes, atteignant des montants à huit chiffres, pour attirer des talents en IA, car Meta cherche à rattraper ses concurrents dans ce domaine. L'entreprise a également entamé des discussions pour acquérir des sociétés spécialisées en IA, telles que Thinking Machines Lab, Perplexity et Safe Superintelligence, bien que ces discussions n'aient pas abouti à des offres formelles. Enfin, Meta prévoit de lancer des recherches sur la prochaine génération de modèles d'IA dans l'année à venir.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546251/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 30 Jun 2025 19:23:43 GMT"
-    },
-    {
-        "title": "La décision de l'affaire Bartz c. Anthropic",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/06/30/ai-gets-a-pass-on-copyright-as-judge-favors-transformative-tech/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6862d2979e3d21a441be1bc8/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 30 Jun 2025 18:00:00 GMT"
-    },
-    {
-        "title": "L'adoption de l'IA par les employés : le défi du changement",
-        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/06/30/your-boss-will-soon-grade-you-on-ai-usageheres-why/?ss=ai",
-        "body": "Titre : L'adoption de l'IA par les employés : le plus grand défi est de changer les habitudes de travail \n\nRésumé : \n\nBien que l'IA ait le potentiel de révolutionner les entreprises, son adoption par les employés reste faible, avec seulement 8 % l'utilisant quotidiennement. Satya Nadella, PDG de Microsoft, souligne que le plus grand défi de l'IA n'est pas la technologie, mais la résistance au changement des habitudes de travail. Les données de PwC et McKinsey révèlent que la productivité a augmenté dans les industries fortement exposées à l'IA, mais que la majorité des employés ne l'utilisent pas régulièrement. Moderna, en revanche, a réussi à atteindre une adoption volontaire de près de 100 % en enseignant plutôt qu'en imposant. Les clés du succès incluent une stratégie claire, l'expérience pratique, l'utilisation par les leaders et un programme de transformation personnalisé. Le manque de leadership et de formation sont les principales raisons de l'échec de l'adoption de l'IA. Pour réussir, les entreprises doivent se concentrer sur la création de valeur, l'impact et le changement de mentalité plutôt que sur des mandats stricts.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6862b91300e8f9b77c8b5ff8/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 30 Jun 2025 17:00:00 GMT"
     }
 ]
