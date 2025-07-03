@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette extension désactive le doublage approximatif de YouTube",
+        "title": "Cette extension d\u00e9sactive le doublage approximatif de YouTube",
         "link": "https://www.frandroid.com/marques/google/2718843_cette-extension-desactive-le-doublage-approximatif-de-youtube",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4-768x431.png?resize=168,168&key=a79ec420",
         "date": "Wed, 02 Jul 2025 23:00:00 GMT",
@@ -180,5 +180,26 @@
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/veo-3-france-gemini-google-croissant-1200x675.jpg?key=31691219",
         "date": "Wed, 02 Jul 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/697129/rfk-jr-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKP216_RFJ_JR_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 03 Jul 2025 12:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Gemini-Gems-workspace.png?quality=90&strip=all&crop=2.796875%2C0%2C94.40625%2C100&w=2400",
+        "date": "Thu, 03 Jul 2025 09:30:41 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/members-only-events/2025/07/03/members-only-event-how-to-ai-proof-your-job/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686683f22e0c832419631792/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 03 Jul 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
