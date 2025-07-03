@@ -7,6 +7,13 @@
         "date": "Thu, 03 Jul 2025 07:00:00 GMT"
     },
     {
+        "title": "Protection des mineurs et confidentialité",
+        "link": "https://www.frandroid.com/marques/apple/2719217_ios-26-peut-couper-facetime-si-vous-vous-deshabillez",
+        "body": "Apple met l'accent sur la protection des enfants avec la prochaine mise à jour iOS 26, introduisant un outil qui bloque la nudité sur FaceTime. Cette fonctionnalité, destinée aux mineurs, est également disponible pour les adultes dans la version bêta actuelle. Apple assure que l'analyse est effectuée localement sur l'iPhone, garantissant ainsi la confidentialité des appels.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/veo-3-france-gemini-google-croissant-1200x675.jpg?key=31691219",
+        "date": "Wed, 02 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "La traduction automatique de YouTube : un échec de l'IA ?",
         "link": "https://www.frandroid.com/marques/google/2718843_cette-extension-desactive-le-doublage-approximatif-de-youtube",
         "body": "En septembre 2024, YouTube a introduit une fonctionnalité de doublage de vidéos par IA. Bien qu'elle soit destinée à améliorer l'accessibilité, la mise en œuvre a été critiquée pour son manque de précision. Un développeur a créé une extension pour désactiver cette fonctionnalité, soulignant la nécessité d'une traduction et d'un doublage de qualité. L'extension \"YouTube no Translation\" permet aux utilisateurs de conserver les titres, descriptions et sous-titres dans leur langue d'origine, tout en offrant la possibilité de définir une langue préférée. Cet épisode met en lumière les défis éthiques et techniques de l'utilisation de l'IA dans la traduction et le doublage, et souligne l'importance de solutions alternatives pour garantir une expérience utilisateur précise et de qualité.",
@@ -187,26 +194,5 @@
         "body": "Le Sénat américain a voté pour supprimer un moratoire sur la réglementation de l'IA par les États, inclus dans un projet de loi budgétaire omnibus. La proposition controversée a été rejetée par 99 voix contre 1, après des tentatives infructueuses pour la réviser et apaiser les opposants, notamment la sénatrice Marsha Blackburn. Un compromis pour réduire le moratoire à cinq ans et autoriser les États à appliquer des lois sur la sécurité des enfants en ligne et la protection des noms, images et similitudes des individus a été abandonné suite à une forte opposition de la droite populiste. La suppression du moratoire a été soutenue par presque tous les sénateurs, à l'exception d'un seul, citant des préoccupations concernant l'empiétement fédéral et la nécessité de protéger les citoyens des abus potentiels de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2222154603.jpg?quality=90&strip=all&crop=0.0056548292241558%2C0%2C99.988690341552%2C100&w=2400",
         "date": "Tue, 01 Jul 2025 13:15:48 GMT"
-    },
-    {
-        "title": "L'IA musicale sous tension juridique",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa#comments",
-        "body": "Résumé : \n\nL'industrie musicale s'appuie sur des années de jurisprudence en matière de droit d'auteur, un système de licences réglementé et quelques entreprises puissantes. Les maisons de disques s'opposent à plusieurs entreprises d'IA sur la question du droit d'auteur, avec un avantage certain. L'IA menace les musiciens qui créent de la musique de fond ou de la musique pour la publicité, plutôt que les stars comme Taylor Swift. Les entreprises d'IA musicale Suno et Udio sont poursuivies par les grandes maisons de disques pour utilisation de données protégées par le droit d'auteur pour entraîner leurs modèles. La décision de l'affaire influera sur d'autres industries créatives confrontées à des problèmes similaires avec l'IA. Les entreprises d'IA musicale qui ne paient pas pour les licences de musique sont en difficulté, car l'industrie musicale et les tribunaux prennent des mesures fermes pour protéger les droits d'auteur.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257760_Music_copyright_might_actually_tame_AI_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 01 Jul 2025 12:30:00 GMT"
-    },
-    {
-        "title": "La fin des robots gratuits",
-        "link": "https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default#comments",
-        "body": "Le fournisseur d'architecture Internet Cloudflare bloque désormais les robots d'IA connus par défaut pour empêcher l'accès non autorisé aux contenus. Cloudflare propose également un programme \"Pay Per Crawl\" permettant aux éditeurs de fixer un prix pour l'accès des robots d'IA à leurs contenus. Les entreprises d'IA peuvent choisir d'accepter le tarif ou de refuser. Cloudflare a déjà aidé les propriétaires de domaines à lutter contre les robots d'IA, en leur permettant de les bloquer depuis 2023, mais uniquement pour ceux qui respectent le fichier robots.txt, qui n'est pas contraignant. La nouvelle configuration est désormais activée par défaut pour tous les nouveaux clients Cloudflare, leur permettant de bloquer tous les robots d'IA, qu'ils respectent ou non le fichier robots.txt. Cloudflare collabore également avec des entreprises d'IA pour vérifier leurs robots et clarifier leur objectif, permettant ainsi aux propriétaires de sites web de déterminer quels robots autoriser.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKB326_CLOUDFLARE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 01 Jul 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Démocratiser l'accès aux essais cliniques grâce à l'IA",
-        "link": "https://www.forbes.com/sites/amyfeldman/2025/07/01/startup-pi-health-built-a-cancer-hospital-in-india-to-test-its-ai-software-clinical-trials/?ss=ai",
-        "body": "Résumé : \n\nPi Health, une startup fondée par deux médecins spécialistes du cancer, a construit son propre hôpital de cancérologie en Inde pour accélérer le processus d'essais cliniques. Leur logiciel basé sur l'IA rationalise et réduit les erreurs dans les données des essais cliniques, depuis la conception jusqu'à la soumission réglementaire. L'hôpital Pi Health Cancer a participé à huit essais cliniques, dont un qui a conduit à l'approbation d'un médicament contre le cancer de l'œsophage en Inde en un temps record. La société a levé 40 millions de dollars, a des contrats signés de plus de 70 millions de dollars et travaille sur près de 20 études cliniques pour cinq compagnies pharmaceutiques mondiales. L'objectif est de démocratiser l'accès aux essais cliniques et aux traitements expérimentaux, en particulier dans les régions sous-desservies.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6862a445e16647f38826f281/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 01 Jul 2025 10:00:00 GMT"
     }
 ]
