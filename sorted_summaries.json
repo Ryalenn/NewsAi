@@ -1,5 +1,19 @@
 [
     {
+        "title": "Tesla dans le collimateur des écologistes",
+        "link": "https://www.theverge.com/2024/8/28/24230395/xai-faces-accusations-its-data-center-is-polluting-the-air",
+        "body": "Résumé : \n\nTesla est accusé d'exploiter des turbines à gaz sans permis valide dans un centre de données à Memphis, TN. Les groupes écologistes locaux s'inquiètent des émissions de polluants, notamment les oxydes d'azote (NOx), qui peuvent aggraver les maladies respiratoires et former du smog. Ils exhortent les régulateurs à enquêter sur la question. L'incident soulève des questions sur les pratiques environnementales de Tesla et met en évidence les défis auxquels sont confrontées les entreprises du domaine de l'IA en matière de durabilité et de responsabilité environnementale.",
+        "image": "",
+        "date": "Fri, 04 Jul 2025 09:18:00 GMT"
+    },
+    {
+        "title": "Le futur de l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/04/is-the-obsession-with-attaining-agi-and-ai-superintelligence-actually-derailing-progress-in-ai/?ss=ai",
+        "body": "Titre : Les pièges de la course à l'AGI et à l'ASI",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67df90e189640a143a346fc5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 04 Jul 2025 07:00:00 GMT"
+    },
+    {
         "title": "La menace croissante du cybercrime",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/07/04/5-lessons-we-must-learn-from-the-worlds-biggest-cyber-heists/?ss=ai",
         "body": "Le cybercrime a coûté 10 000 milliards de dollars à l'économie mondiale en 2024, avec des violations majeures comme Equifax, WannaCry, etc. L'article souligne l'augmentation alarmante de la cybercriminalité et son impact sur les particuliers, les petites entreprises et les grandes entreprises. Il met en évidence plusieurs incidents majeurs, notamment le vol de données sensibles de millions de clients, la propagation du ransomware WannaCry et le vol de bitcoins. Les leçons importantes incluent la nécessité de maintenir les logiciels à jour, de sécuriser le stockage des données et des crypto-monnaies, de promouvoir une culture de sensibilisation à la cybersécurité et de se méfier des attaques de deepfake. Les entreprises et les particuliers doivent apprendre de ces scénarios du pire pour renforcer leur résilience face à l'évolution des menaces cybernétiques.",
@@ -77,6 +91,13 @@
         "date": "Wed, 02 Jul 2025 23:00:00 GMT"
     },
     {
+        "title": "Des vidéos racistes générées par l'IA de Google",
+        "link": "https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok",
+        "body": "Des vidéos contenant des stéréotypes racistes visant les Noirs et d'autres minorités, créées apparemment avec l'outil de génération vidéo Veo 3 de Google, ont été découvertes sur TikTok par l'organisme de surveillance des médias Media Matters. Ces vidéos, dont l'une a atteint 14,2 millions de vues, présentent le filigrane \"Veo\" et durent huit secondes, ce qui correspond à la limite de Veo 3. Google, TikTok et YouTube, où certaines de ces vidéos ont également été trouvées, ont des politiques interdisant les discours et contenus haineux, mais ces vidéos soulignent les défis de modération lorsque l'IA est impliquée.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 02 Jul 2025 22:01:44 GMT"
+    },
+    {
         "title": "The AI Arms Race",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/02/the-prompt-can-meta-hire-its-way-to-superintelligence/?ss=ai",
         "body": "Cloudflare bloque désormais, par défaut, les robots d'exploration des entreprises d'IA, ce qui pourrait avoir un impact significatif sur la collecte de données pour l'entraînement des modèles d'IA. Microsoft prétend que son système d'IA peut diagnostiquer les maladies avec une précision quatre fois supérieure à celle des médecins expérimentés. Meta entre dans une guerre des talents en IA, offrant des salaires à sept chiffres pour attirer les meilleurs chercheurs et ingénieurs. Anysphere, la société derrière l'outil de codage AI Cursor, embauche des ingénieurs d'Anthropic. Genesis AI lève 105 millions de dollars pour développer un modèle d'IA pour la robotique. Enfin, des inquiétudes éthiques surgissent concernant l'utilisation d'outils d'IA comme ChatGPT pour accompagner les personnes sous l'influence de psychédéliques.",
@@ -89,6 +110,13 @@
         "body": "Résumé : \n\nL'article explore les récents échecs au box-office du studio Blumhouse, connu pour ses films d'horreur à petit budget. Le plus notable est l'échec de *M3GAN 2.0*, la suite d'un film à succès sur une poupée AI qui prend vie. Blumhouse a décidé de changer le genre de la suite, passant de l'horreur à la science-fiction, ce qui n'a pas plu au public. Cet échec a conduit à une introspection au sein de Blumhouse, remettant en question leur stratégie de sortie de nombreux films d'horreur par an et soulignant la nécessité de s'adapter à l'évolution du marché. L'article mentionne également le succès passé de Blumhouse avec des films comme *Paranormal Activity* et leur partenariat avec Universal. Il conclut en disant que malgré les récents échecs, personne chez Universal ne panique en raison des budgets modestes des films Blumhouse, et que le studio reste optimiste pour les prochains films du studio, *Black Phone 2* et *Five Nights at Freddy's 2*.",
         "image": "",
         "date": "Wed, 02 Jul 2025 19:45:08 GMT"
+    },
+    {
+        "title": "Crunchyroll's AI Subtitles Fiasco",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/696819/crunchyroll-ran-embarrassingly-bad-chatgpt-subtitles-on-its-new-anime-series#comments",
+        "body": "Crunchyroll, un service de streaming d'anime, a récemment sorti une nouvelle série, \"Necronomico and the Cosmic Horror Show\", dont les sous-titres étaient remplis de fautes de frappe, d'erreurs grammaticales et de références explicites à ChatGPT, suggérant fortement que les sous-titres ont été générés par une IA. Bien que Crunchyroll ait exprimé par le passé son désir d'utiliser l'IA pour améliorer la découvrabilité, les recommandations et la personnalisation, cette situation est en contradiction avec les commentaires précédents du président de Crunchyroll, Rahul Purini, qui avait déclaré que la société n'envisageait pas d'utiliser l'IA dans le processus créatif pour préserver l'authenticité de ses séries et films. Cet incident met en lumière le rôle crucial des traducteurs et des équipes de localisation dans la production de contenu de qualité, ainsi que les pièges de l'adoption précipitée de l'IA par l'industrie du divertissement, qui pourrait mettre en péril les emplois de véritables professionnels.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/GuykGKRW4AEwqzV.jpeg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 02 Jul 2025 18:17:35 GMT"
     },
     {
         "title": "L'avenir du sport avec l'IA",
