@@ -84,7 +84,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette extension désactive le doublage approximatif de YouTube",
+        "title": "Cette extension d\u00e9sactive le doublage approximatif de YouTube",
         "link": "https://www.frandroid.com/marques/google/2718843_cette-extension-desactive-le-doublage-approximatif-de-youtube",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4-768x431.png?resize=168,168&key=a79ec420",
         "date": "Wed, 02 Jul 2025 23:00:00 GMT",
@@ -159,5 +159,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68676d1069828ca23a98db36/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 04 Jul 2025 05:58:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2024/8/28/24230395/xai-faces-accusations-its-data-center-is-polluting-the-air",
+        "image": "",
+        "date": "Fri, 04 Jul 2025 09:18:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 02 Jul 2025 22:01:44 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/696819/crunchyroll-ran-embarrassingly-bad-chatgpt-subtitles-on-its-new-anime-series#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/GuykGKRW4AEwqzV.jpeg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 02 Jul 2025 18:17:35 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/04/is-the-obsession-with-attaining-agi-and-ai-superintelligence-actually-derailing-progress-in-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67df90e189640a143a346fc5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 04 Jul 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
