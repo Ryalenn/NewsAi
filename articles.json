@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Grok a été « amélioré » : l’IA d’Elon Musk est maintenant clairement antisémite",
+        "title": "Grok a \u00e9t\u00e9 \u00ab am\u00e9lior\u00e9 \u00bb : l\u2019IA d\u2019Elon Musk est maintenant clairement antis\u00e9mite",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2723423_grok-a-ete-ameliore-lia-delon-musk-est-maintenant-clairement-antisemite",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/grok-768x378.jpeg?resize=300,300&key=e877f3c9",
         "date": "Sun, 06 Jul 2025 23:00:00 GMT",
@@ -89,5 +89,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/686b9b5e7fbe1a1efacfc9e1/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 07 Jul 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/07/deep-research-and-more-from-new-ai-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686c03ebfa284c7059f783f1/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/07/07/a-double-edged-sword-ais-janus-face-in-the-sweltering-climate-crisis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686c1095dc2c11c09cd08b58/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/07/07/5-chatgpt-hacks-to-help-lose-20-pounds-by-labor-day/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686bcb47238babd97bb7a99b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
