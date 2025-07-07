@@ -1,5 +1,33 @@
 [
     {
+        "title": "La révolution des robots d'entrepôt",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/07/amazons-millionth-warehouse-robot-is-here-and-its-getting-smarter/?ss=ai",
+        "body": "Amazon Robotics a récemment atteint un jalon important avec plus d'un million de robots déployés dans ses entrepôts. La société a également présenté DeepFleet, un nouveau modèle de fondation IA qui agit comme un régulateur de trafic pour ses machines, les aidant à se déplacer plus efficacement et à éviter les goulots d'étranglement. DeepFleet est construit sur l'infrastructure AWS d'Amazon et utilise des données d'entrepôt en direct pour rediriger les robots en temps réel, réduisant ainsi les temps de trajet des robots d'environ 10 %. Plutôt que de remplacer les employés, les robots ont créé de nouveaux emplois dans les domaines de la fiabilité, de la maintenance et de l'ingénierie. Amazon prévoit également d'utiliser les données de DeepFleet pour réduire la consommation d'énergie dans ses entrepôts et expérimenter des centres de micro-exécution plus petits et plus agiles. À terme, l'IA ne se contentera pas de diriger le trafic, mais aidera également à décider quels produits stocker et quand, transformant ainsi les entrepôts en systèmes capables de s'adapter en temps réel.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686bdde65022365d5f2b2b0b/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 14:56:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : ouvert ou fermé ?",
+        "link": "https://www.forbes.com/sites/sylvainduranton/2025/07/07/what-leaders-need-to-know-about-open-source-vs-proprietary-models/?ss=ai",
+        "body": "Les entreprises doivent décider si elles veulent développer leurs capacités d'IA à l'aide de modèles open source ou propriétaires. L'article explore les implications de ce choix, soulignant que très peu de modèles d'IA sont véritablement ouverts selon la définition de l'OSI. Il examine les compromis entre la transparence complète des modèles open source et la protection de la propriété intellectuelle des modèles propriétaires. Les modèles open source offrent plus de flexibilité et de personnalisation, mais nécessitent des investissements importants dans l'infrastructure et l'expertise. Les modèles propriétaires ont des avantages en termes de coût et de latence grâce à des infrastructures à grande échelle, mais soulèvent des questions de sécurité et de conformité réglementaire. La Chine adopte une stratégie open source agressive, ce qui soulève des questions sur la viabilité financière des modèles propriétaires. Les entreprises doivent définir leurs objectifs en matière d'IA et choisir les modèles en conséquence, en trouvant un équilibre entre les avantages de l'ouverture et du caractère propriétaire.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686bab9ab0e700d47970f925/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 11:00:00 GMT"
+    },
+    {
+        "title": "Révolution dans la maintenance des flottes de véhicules",
+        "link": "https://www.forbes.com/sites/ganeskesari/2025/07/07/the-future-of-fleets-ai-predictive-maintenance-prevents-breakdowns/?ss=ai",
+        "body": "La maintenance prédictive basée sur l'IA révolutionne l'industrie de la gestion des déchets, en particulier pour les flottes de camions. L'article souligne l'impact financier des temps d'arrêt des véhicules et la manière dont l'IA peut aider à les réduire. Les capteurs et l'analyse en temps réel permettent une maintenance proactive, évitant ainsi des réparations coûteuses et imprévues. L'IA améliore également la gestion des pièces de rechange, optimisant les stocks et réduisant les achats d'urgence. En prédisant les pannes et en guidant les techniciens, l'IA améliore l'efficacité et la confiance des mécaniciens. La maintenance prédictive offre des économies annuelles importantes et un service plus fiable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686ad0c702667f97726c9284/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 11:00:00 GMT"
+    },
+    {
+        "title": "L'ombre de l'IA : un risque émergent",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/07/07/shining-a-light-on-shadow-ai/?ss=ai",
+        "body": "Bien que l'utilisation d'outils d'IA non sanctionnés puisse être perçue comme une quête d'innovation, elle est généralement considérée comme un risque pour la sécurité et la conformité. L'IA en étant encore à ses débuts, de nombreux utilisateurs ne la connaissent qu'à travers des outils grand public comme ChatGPT, et son adoption à grande échelle en entreprise n'est pas encore la norme. Cependant, le développement rapide des applications met les développeurs sous pression et les pousse à utiliser des outils d'IA pour accélérer leurs processus. Cette situation a entraîné une augmentation massive du trafic d'IA générative en entreprise, ainsi qu'une hausse des incidents de perte de données, soulignant l'importance d'une gouvernance efficace. Les développeurs doivent trouver un équilibre entre vitesse et sécurité, en intégrant une gouvernance et une surveillance claires de l'IA dans leur pipeline de livraison continu. L'utilisation d'outils d'IA non approuvés peut compromettre l'intégrité de la chaîne d'approvisionnement et introduire des dépendances opaques et des vulnérabilités. Les organisations doivent adopter une approche de plateforme unifiée pour consolider la gouvernance de l'IA, les contrôles système et les flux de travail des développeurs, afin de garantir une visibilité en temps réel et de réduire les risques d'exploitation par des acteurs malveillants. L'ombre de l'IA peut également conduire à un « empoisonnement du modèle », où un attaquant manipule les sorties d'un modèle d'IA ou d'apprentissage automatique en modifiant ses données d'entraînement. Les organisations doivent combler les lacunes politiques et assurer une gouvernance globale de l'IA pour prévenir ces risques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686b9b5e7fbe1a1efacfc9e1/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 07 Jul 2025 10:00:00 GMT"
+    },
+    {
         "title": "La simulation de l'AGI : avantages et inconvénients",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/07/07/the-use-of-scenario-driven-simulations-wont-protect-us-from-agi-and-ai-superintelligence-going-rogue/?ss=ai",
         "body": "Titre : La simulation de l'AGI : avantages et inconvénients",
