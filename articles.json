@@ -35,7 +35,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT s’invite dans le monde de la recherche, et c’est un problème",
+        "title": "ChatGPT s\u2019invite dans le monde de la recherche, et c\u2019est un probl\u00e8me",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2725593_chatgpt-sinvite-dans-le-monde-de-la-recherche-et-cest-un-probleme",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/05/chatgpt-frandroid-chatgpt-768x432.jpg?resize=169,169&key=cbeaba42",
         "date": "Mon, 07 Jul 2025 23:00:00 GMT",
@@ -215,5 +215,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/686e091c853ca9323181e398/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Jul 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://huggingface.co/blog/reachy-mini",
+        "image": "",
+        "date": "Wed, 09 Jul 2025 12:55:50 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/701447/zoom-meta-quest-app-video-calls-vr#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/quest-vr-video-calls.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Tue, 08 Jul 2025 19:07:07 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/07/09/ai-and-data-help-mars-balance-scale-with-personalization/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686b2e846d83e2baef81d8f1/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Jul 2025 13:00:00 GMT",
+        "check": "no"
     }
 ]
