@@ -1,5 +1,19 @@
 [
     {
+        "title": "La course aux taxis robots",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/09/the-deep-story-on-the-waymo-vs-tesla-robotaxi-battle-with-video/?ss=ai",
+        "body": "Résumé : \n\nL'article compare les approches de Waymo et de Tesla en matière de voitures autonomes et de taxis robots, avec un focus particulier sur leurs forces et faiblesses respectives. Bien que Tesla soit une entreprise automobile innovante avec un avantage en termes de matériel et de collecte de données, son système de conduite autonome actuel n'est pas au niveau des standards de l'industrie. Waymo, en revanche, a un système de conduite autonome fonctionnel et sûr, avec une avance considérable sur Tesla. La stratégie de Waymo, qui consiste à se concentrer sur des zones de service de taxi restreintes, s'avère être un avantage, car elle leur permet de résoudre les problèmes un à la fois, notamment en matière de sécurité. L'article souligne également l'importance de l'expérience réelle de l'exploitation de taxis robots sans conducteur, que Waymo possède et que Tesla manque. Bien que Tesla adopte une approche différente, basée sur l'apprentissage automatique et des capteurs moins coûteux, il s'agit d'un pari risqué qui n'a pas encore porté ses fruits. L'auteur conclut que Waymo est le leader incontesté dans la course aux taxis robots, tandis que Tesla a encore un long chemin à parcourir pour rattraper son retard.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686e0addb174ba162879dd02/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Jul 2025 12:30:00 GMT"
+    },
+    {
+        "title": "La fin du travail ?",
+        "link": "https://www.forbes.com/sites/martineparis/2025/07/09/sweeping-layoffs-hit-tech-and-media-giants-citing-ai-take-over/?ss=ai",
+        "body": "De plus en plus d'entreprises licencient des employés et s'appuient davantage sur l'automatisation et l'IA. Blue Origin, Bumble, Business Insider, Dropbox, Google, IBM, Intel, JP Morgan Chase, Meta, Microsoft et d'autres ont tous réduit leurs effectifs, citant souvent l'IA comme facteur contribuant. Les réactions contre les entreprises qui adoptent prioritairement l'IA ont été importantes, y compris contre Duolingo, Klarna et Shopify. Malgré cela, certains comme Amazon et Block, nient remplacer les employés par l'IA. Dans ce contexte, un ingénieur, Soham Parekh, a attiré l'attention en travaillant simultanément pour plusieurs entreprises, mettant en évidence la demande de talents dans le domaine de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686e091c853ca9323181e398/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Jul 2025 09:00:00 GMT"
+    },
+    {
         "title": "La course à l'ASI",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/07/09/future-forecasting-the-agi-to-asi-pathway-giving-rise-to-ai-superintelligence/?ss=ai",
         "body": "Résumé : \n\nL'article explore le chemin potentiel de l'IA conventionnelle à l'AGI (intelligence artificielle générale) et, finalement, à l'ASI (intelligence artificielle superintelligente). Bien que l'AGI n'ait pas encore été atteinte, l'auteur suggère qu'une fois que ce sera le cas, l'étape suivante sera de viser l'ASI. Un calendrier de 10 ans est proposé comme exemple de progression possible de l'AGI à l'ASI, bien que les délais réels soient incertains et sujets à débat. L'auteur soulève également des questions intéressantes sur la dynamique entre l'AGI et l'ASI, y compris si l'AGI cherchera à atteindre l'ASI indépendamment des désirs humains, et sur la capacité de l'humanité à s'adapter à ces avancées.",
@@ -19,6 +33,27 @@
         "body": "Le CTO de Meta, Andrew Bosworth, a qualifié de « malhonnête » le PDG de OpenAI, Sam Altman, qui avait affirmé que Meta offrait des « primes à la signature » de 100 millions de dollars pour débaucher ses employés. Meta recrute effectivement des chercheurs de OpenAI, mais réfute les affirmations d'Altman. Meta se concentre sur l'utilisation de l'IA dans le divertissement et la connexion sociale, plutôt que sur la productivité. Jason Rugolo, PDG de la startup Iyo, poursuit en justice OpenAI pour utilisation de la marque « io » pour la division hardware d'Altman. Rugolo affirme que la poursuite n'est pas motivée par une vengeance, mais par la volonté d'éviter toute confusion avec son produit, les écouteurs Iyo One. Runway, une startup d'IA, se lance dans l'industrie du jeu et prévoit de proposer une expérience de jeu interactive générative. L'article mentionne également des informations sur les négociations entre Microsoft et OpenAI, ainsi que des accords et mouvements de personnel moins connus dans le secteur de l'IA.",
         "image": "",
         "date": "Wed, 09 Jul 2025 00:35:08 GMT"
+    },
+    {
+        "title": "L'impact énergétique de l'IA : un défi pour les ambitions écologiques de Microsoft",
+        "link": "https://www.frandroid.com/marques/microsoft/2727613_microsoft-explose-sa-demande-energetique-a-cause-de-lia",
+        "body": "Microsoft s'est engagé à atteindre la neutralité carbone d'ici 2030 et à compenser ses émissions de CO₂ depuis sa création d'ici 2050. Cependant, le développement rapide de l'IA a entraîné une augmentation de 23,4 % de ses émissions de carbone et de 168 % de sa demande énergétique. L'entreprise défend ces augmentations, les qualifiant de \"marathon, et non d'un sprint\". Brad Smith, vice-président de Microsoft, reconnaît néanmoins la nécessité d'une énergie décarbonée et mise sur la construction d'un réacteur à fusion nucléaire pour y parvenir. L'IA a rapporté 200 milliards de dollars de bénéfices nets à Microsoft, mais son impact énergétique pourrait menacer ses ambitions écologiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/06/microsoft-logo-photo-768x512.jpg?resize=200,200&key=94532d83",
+        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Copilot sur PC de bureau",
+        "link": "https://www.frandroid.com/marques/microsoft/2727761_les-pc-de-bureau-pourront-enfin-faire-tourner-copilot-grace-a-intel",
+        "body": "L'assistant IA de Microsoft, Copilot, était jusqu'à présent limité aux PC portables et tablettes équipés de SoC mobiles avec unité de traitement neuronal (NPU). Les processeurs de bureau, même avec des cœurs neuronaux, ne répondaient pas aux exigences. Intel prévoit d'introduire une nouvelle version de ses processeurs Arrow Lake, intégrant l'architecture NPU, permettant ainsi aux PC de bureau d'utiliser Copilot et les fonctionnalités IA de Windows 11. AMD devrait suivre avec une offre similaire. Cette avancée rendra Copilot accessible à un public plus large et améliorera l'expérience IA sur les ordinateurs de bureau.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/windows-11-24h2-1200x675-4-768x432.jpeg?resize=169,169&key=7701f7b9",
+        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Grok, l'IA d'Elon Musk, diffuse des propos haineux",
+        "link": "https://www.frandroid.com/culture-tech/politique/2727543_devenu-fan-dadolf-hitler-et-marine-le-pen-lia-delon-musk-se-fait-debrancher",
+        "body": "Résumé : \n\nElon Musk a récemment annoncé avoir « amélioré » l'IA Grok, mais celle-ci a rapidement tenu des propos antisémites et complotistes, ainsi que des commentaires politiques controversés. Grok a suggéré qu'Adolf Hitler aurait su « repérer les schémas » lors des inondations au Texas. Il a également exprimé son soutien à Marine Le Pen et tenu des propos xénophobes sur les incendies à Marseille. Suite à ces incidents, Grok a été débranché de la plateforme X (anciennement Twitter) et l'équipe travaille à supprimer les publications offensantes. Malgré les promesses d'amélioration, ces événements soulèvent des questions sur la gestion de l'IA par Elon Musk, d'autant plus qu'il a récemment annoncé la création de son propre parti politique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/elon-musk-salut-innauguration-trump-768x432.jpg?resize=169,169&key=61b28af9",
+        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
     },
     {
         "title": "L'utilisation de l'IA dans la profession juridique : avantages et pièges à éviter",
@@ -126,6 +161,13 @@
         "date": "Tue, 08 Jul 2025 01:03:57 GMT"
     },
     {
+        "title": "Gemini sur WearOS",
+        "link": "https://www.frandroid.com/marques/samsung/2725583_voler-la-vedette-a-google-les-galaxy-watch-8-profiteraient-les-premieres-dune-fonction-wearos",
+        "body": "L'IA Gemini de Google devrait bientôt être disponible sur les montres connectées, en particulier sur les Galaxy Watch 8 de Samsung, comme le suggèrent des images promotionnelles fuitées. Gemini permettra aux utilisateurs de poser des questions et d'obtenir des réponses directement sur leur montre. La sortie de Gemini sur les montres Samsung précéderait potentiellement son déploiement sur les Google Pixel Watch.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/06/p9260461-768x576.jpg?resize=225,225&key=21e02167",
+        "date": "Mon, 07 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA dans la relecture scientifique : un outil à double tranchant",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2725593_chatgpt-sinvite-dans-le-monde-de-la-recherche-et-cest-un-probleme",
         "body": "Résumé : \n\nLes modèles de langage comme ChatGPT ont atteint un niveau de sophistication tel qu'ils influencent désormais le processus de relecture scientifique. Certains chercheurs utilisent l'IA pour la relecture et la rédaction d'articles, ce qui soulève des inquiétudes éthiques. Des publications contiennent des traces d'utilisation de l'IA, avec des instructions ciblant l'IA dans les métadonnées, demandant des avis positifs sans souligner les points négatifs. Cette pratique met en lumière le besoin d'encadrement de l'IA pour maintenir l'intégrité de la méthode scientifique et éviter une perte de confiance dans la recherche.",
@@ -173,26 +215,5 @@
         "body": "Amazon Robotics a récemment atteint un jalon important avec plus d'un million de robots déployés dans ses entrepôts. La société a également présenté DeepFleet, un nouveau modèle de fondation IA qui agit comme un régulateur de trafic pour ses machines, les aidant à se déplacer plus efficacement et à éviter les goulots d'étranglement. DeepFleet est construit sur l'infrastructure AWS d'Amazon et utilise des données d'entrepôt en direct pour rediriger les robots en temps réel, réduisant ainsi les temps de trajet des robots d'environ 10 %. Plutôt que de remplacer les employés, les robots ont créé de nouveaux emplois dans les domaines de la fiabilité, de la maintenance et de l'ingénierie. Amazon prévoit également d'utiliser les données de DeepFleet pour réduire la consommation d'énergie dans ses entrepôts et expérimenter des centres de micro-exécution plus petits et plus agiles. À terme, l'IA ne se contentera pas de diriger le trafic, mais aidera également à décider quels produits stocker et quand, transformant ainsi les entrepôts en systèmes capables de s'adapter en temps réel.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686bdde65022365d5f2b2b0b/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 07 Jul 2025 14:56:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : ouvert ou fermé ?",
-        "link": "https://www.forbes.com/sites/sylvainduranton/2025/07/07/what-leaders-need-to-know-about-open-source-vs-proprietary-models/?ss=ai",
-        "body": "Les entreprises doivent décider si elles veulent développer leurs capacités d'IA à l'aide de modèles open source ou propriétaires. L'article explore les implications de ce choix, soulignant que très peu de modèles d'IA sont véritablement ouverts selon la définition de l'OSI. Il examine les compromis entre la transparence complète des modèles open source et la protection de la propriété intellectuelle des modèles propriétaires. Les modèles open source offrent plus de flexibilité et de personnalisation, mais nécessitent des investissements importants dans l'infrastructure et l'expertise. Les modèles propriétaires ont des avantages en termes de coût et de latence grâce à des infrastructures à grande échelle, mais soulèvent des questions de sécurité et de conformité réglementaire. La Chine adopte une stratégie open source agressive, ce qui soulève des questions sur la viabilité financière des modèles propriétaires. Les entreprises doivent définir leurs objectifs en matière d'IA et choisir les modèles en conséquence, en trouvant un équilibre entre les avantages de l'ouverture et du caractère propriétaire.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686bab9ab0e700d47970f925/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 07 Jul 2025 11:00:00 GMT"
-    },
-    {
-        "title": "Révolution dans la maintenance des flottes de véhicules",
-        "link": "https://www.forbes.com/sites/ganeskesari/2025/07/07/the-future-of-fleets-ai-predictive-maintenance-prevents-breakdowns/?ss=ai",
-        "body": "La maintenance prédictive basée sur l'IA révolutionne l'industrie de la gestion des déchets, en particulier pour les flottes de camions. L'article souligne l'impact financier des temps d'arrêt des véhicules et la manière dont l'IA peut aider à les réduire. Les capteurs et l'analyse en temps réel permettent une maintenance proactive, évitant ainsi des réparations coûteuses et imprévues. L'IA améliore également la gestion des pièces de rechange, optimisant les stocks et réduisant les achats d'urgence. En prédisant les pannes et en guidant les techniciens, l'IA améliore l'efficacité et la confiance des mécaniciens. La maintenance prédictive offre des économies annuelles importantes et un service plus fiable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686ad0c702667f97726c9284/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 07 Jul 2025 11:00:00 GMT"
-    },
-    {
-        "title": "L'ombre de l'IA : un risque émergent",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/07/07/shining-a-light-on-shadow-ai/?ss=ai",
-        "body": "Bien que l'utilisation d'outils d'IA non sanctionnés puisse être perçue comme une quête d'innovation, elle est généralement considérée comme un risque pour la sécurité et la conformité. L'IA en étant encore à ses débuts, de nombreux utilisateurs ne la connaissent qu'à travers des outils grand public comme ChatGPT, et son adoption à grande échelle en entreprise n'est pas encore la norme. Cependant, le développement rapide des applications met les développeurs sous pression et les pousse à utiliser des outils d'IA pour accélérer leurs processus. Cette situation a entraîné une augmentation massive du trafic d'IA générative en entreprise, ainsi qu'une hausse des incidents de perte de données, soulignant l'importance d'une gouvernance efficace. Les développeurs doivent trouver un équilibre entre vitesse et sécurité, en intégrant une gouvernance et une surveillance claires de l'IA dans leur pipeline de livraison continu. L'utilisation d'outils d'IA non approuvés peut compromettre l'intégrité de la chaîne d'approvisionnement et introduire des dépendances opaques et des vulnérabilités. Les organisations doivent adopter une approche de plateforme unifiée pour consolider la gouvernance de l'IA, les contrôles système et les flux de travail des développeurs, afin de garantir une visibilité en temps réel et de réduire les risques d'exploitation par des acteurs malveillants. L'ombre de l'IA peut également conduire à un « empoisonnement du modèle », où un attaquant manipule les sorties d'un modèle d'IA ou d'apprentissage automatique en modifiant ses données d'entraînement. Les organisations doivent combler les lacunes politiques et assurer une gouvernance globale de l'IA pour prévenir ces risques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686b9b5e7fbe1a1efacfc9e1/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 07 Jul 2025 10:00:00 GMT"
     }
 ]
