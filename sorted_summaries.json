@@ -1,5 +1,12 @@
 [
     {
+        "title": "Elon Musk Protesté",
+        "link": "https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk",
+        "body": "Des manifestations anti-Elon Musk ont eu lieu dans plusieurs villes américaines, avec des centaines de participants protestant contre son implication dans l'administration Trump en tant que chef du Département de l'Efficacité Gouvernementale (DOGE). Le mouvement \"Tesla Takedown\", qui encourage à vendre les actions et les voitures Tesla, a pris de l'ampleur, entraînant des arrestations et des actes de vandalisme. Les manifestants ont critiqué le rôle de Musk dans les licenciements massifs de fonctionnaires et la promotion de la politique de droite. Les ventes de Tesla ont chuté et sa valeur boursière a plongé, tandis que la fortune de Musk a diminué. Musk a accusé des milliardaires de financer les manifestations.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-10-122133.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 10 Jul 2025 11:37:10 GMT"
+    },
+    {
         "title": "L'illusion de l'IA sentiente",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/07/10/people-astonishingly-believe-that-they-have-brought-ai-to-life-such-as-miraculously-making-chatgpt-sentient/?ss=ai",
         "body": "Bien que l'IA génère de l'enthousiasme et des attentes, il est important de garder un esprit critique et de ne pas confondre fluidité et intelligence. \n\nRésumé : \n\nMalgré les progrès de l'IA, les affirmations selon lesquelles l'IA a atteint la sentience restent infondées. Les gens confondent souvent la fluidité et l'intelligence de l'IA avec la sentience, en particulier avec les IA génératives et les LLM. Les affirmations de sentience sont souvent le résultat du biais de confirmation, où les gens voient ce qu'ils veulent voir, influencés par les prédictions des experts sur l'AGI et l'ASI imminentes. Le manque de tests concluants pour évaluer la sentience ajoute à la confusion. La sentience est un concept complexe, entouré de questions philosophiques, et notre compréhension de son émergence dans le cerveau humain reste limitée. Les gens peuvent projeter leurs désirs et leurs attentes sur l'IA, cherchant la gloire ou un sens de la connexion. Les experts en IA doivent faire preuve d'empathie et de prudence face à ces affirmations, tout en reconnaissant les pièges mentaux et les problèmes de santé mentale potentiels associés.",
@@ -19,6 +26,13 @@
         "body": "Titre : L'avenir de l'automatisation : une collaboration entre humains, robots et IA \n\nRésumé : L'article explore les différences entre l'automatisation robotisée des processus (RPA) et les agents d'IA, et comment ils peuvent être utilisés ensemble pour améliorer l'efficacité des entreprises. La RPA est idéale pour les tâches répétitives basées sur des règles, tandis que les agents d'IA, grâce à l'apprentissage, peuvent gérer des tâches complexes et prendre des décisions. Les projets d'automatisation peuvent bénéficier d'une approche hybride, combinant la RPA pour des tâches routinières et l'IA pour la prise de décision intelligente. L'exemple d'un système RH montre comment la RPA et l'IA peuvent travailler ensemble pour une expérience d'intégration efficace et personnalisée.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686f61561c5d71db0a951cd7/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 10 Jul 2025 06:00:00 GMT"
+    },
+    {
+        "title": "SuperIntelligence",
+        "link": "https://www.frandroid.com/marques/meta/2729777_adieu-meta-bonjour-superintelligence-mark-zuckerberg-chamboule-une-nouvelle-fois-son-entreprise",
+        "body": "Mark Zuckerberg annonce un changement de cap majeur pour Meta, désormais axé sur l'IA. L'entreprise recrute agressivement des talents de l'IA, débauchant des experts d'Apple, OpenAI et d'autres sociétés leaders. Meta investit massivement dans l'IA, avec des compensations atteignant des centaines de millions de dollars. L'entreprise possède déjà une présence quotidienne omniprésente avec Facebook, WhatsApp, Instagram et Messenger, ce qui lui donne un avantage considérable pour toucher un grand nombre d'utilisateurs avec ses outils d'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/11/mark-zuckerberg-768x432.jpg?resize=169,169&key=59cb2e8c",
+        "date": "Wed, 09 Jul 2025 23:00:00 GMT"
     },
     {
         "title": "La révolution de la navigation web avec l'IA",
@@ -54,6 +68,13 @@
         "body": "LangChain, une startup spécialisée dans l'IA, a levé 100 millions de dollars et est désormais valorisée à 1,1 milliard de dollars. La société, qui figurait dans la liste Forbes AI 50 de 2025, propose des outils d'IA pour aider les développeurs à créer des applications basées sur des modèles comme GPT-4 d'OpenAI. Leur premier produit, LangSmith, aide les développeurs à évaluer, surveiller et déboguer du code, garantissant ainsi la précision et la pertinence des réponses fournies par les modèles d'IA. LangChain a également introduit LangGraph, un outil permettant aux entreprises de créer des agents IA capables d'effectuer des tâches spécifiques de manière autonome. Avec plus de 20 millions de téléchargements mensuels, LangChain est bien positionnée sur le marché, mais doit faire face à la concurrence d'autres outils d'IA et de développement de sites Web.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686eacf6d7553ce96d7cde7c/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Jul 2025 18:12:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : fusion de la technologie et du matériel",
+        "link": "https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware#comments",
+        "body": "L'acquisition par OpenAI de la startup io Products Inc., co-fondée par l'ancien designer d'Apple, Jony Ive, pour un montant de 6,5 milliards de dollars, marque une étape importante dans la fusion de la technologie IA de ChatGPT et de nouveaux dispositifs matériels. Bien que la vidéo d'annonce originale ait été supprimée en raison d'un litige sur les marques, l'équipe io collaborera désormais étroitement avec les équipes de recherche, d'ingénierie et de produit d'OpenAI à San Francisco. Cette fusion souligne l'importance croissante de l'intégration de l'IA dans le matériel dédié, indiquant une direction passionnante pour l'avenir de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Ive-and-Altman.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+        "date": "Wed, 09 Jul 2025 17:40:05 GMT"
     },
     {
         "title": "La convergence de l'IA et du matériel",
@@ -264,12 +285,5 @@
         "body": "Bien que l'IA puisse automatiser et parfois remplacer des tâches humaines, elle peut également offrir des alternatives aux licenciements, telles que la reconversion professionnelle et la rotation des emplois. L'IA peut améliorer le processus de licenciement, le rendant plus efficace et plus équitable pour les employés. Cependant, il est important d'éviter certains écueils, tels que des décisions basées sur des données inexactes ou incomplètes, la supposition que les outils d'IA sont complètement objectifs, une confiance excessive dans l'IA et le manque de transparence. Les bonnes pratiques incluent l'identification d'alternatives aux licenciements, l'automatisation des processus de cessation d'emploi, l'amélioration du départ des employés et le suivi des résultats post-licenciement. Bien que l'IA ait des limites dans l'accompagnement post-licenciement, elle peut soutenir les chercheurs d'emploi en les aidant à construire et à affiner leurs CV.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686d2810838297c3a5cc6470/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 08 Jul 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Le futur de la conduite autonome : responsabilités et défis",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/07/08/elon-musks-robotaxi-dream-could-be-a-liability-nightmare-for-tesla-and-its-owners/?ss=ai",
-        "body": "Le programme robotaxi de Tesla à Austin, contrôlé de près par Elon Musk, a connu 16 jours sans accident majeur. Cependant, des questions surgissent quant à la responsabilité légale en cas de défaillance de la technologie de conduite autonome. Les propriétaires de Tesla qui souhaitent rentabiliser leurs véhicules en les louant à travers un service de robotaxis doivent prendre en compte les risques potentiels. Les avocats pourraient poursuivre à la fois Tesla et les propriétaires en cas d'accident, en alléguant une mauvaise maintenance ou une représentation erronée de l'état du véhicule. La question de la responsabilité reste floue, et la technologie de Tesla n'est pas encore considérée comme prête pour une utilisation commerciale par de nombreux experts. De plus, la couverture d'assurance pour les véhicules autonomes loués pourrait s'avérer difficile à obtenir. Elon Musk affirme que Tesla a un avantage financier grâce à sa technologie peu coûteuse, mais cela pourrait également être un risque supplémentaire en cas d'accident. L'article explore les défis et les incertitudes entourant le programme robotaxi de Tesla, soulignant les préoccupations en matière de sécurité et de responsabilité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686c73a1e8c5277643a86272/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 08 Jul 2025 10:00:00 GMT"
     }
 ]
