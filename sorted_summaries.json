@@ -1,10 +1,38 @@
 [
     {
+        "title": "La course à l'AGI",
+        "link": "https://www.forbes.com/sites/geruiwang/2025/07/10/grok-4-accelerates-ai-arms-race-progress-and-unresolved-perils/?ss=ai",
+        "body": "Le 9 juillet 2025, xAI, l'entreprise américaine fondée par Elon Musk, a lancé Grok 4, une IA conversationnelle basée sur le langage qui établit de nouveaux records en matière de performances de raisonnement. Grok 4 surpasse les modèles précédents, notamment Gemini, GPT-4 et O3, grâce à sa capacité à traiter des chaînes logiques complexes et à ses variantes spécialisées dans des domaines spécifiques, telles que Grok 4 Code. Ce lancement met en lumière plusieurs tendances clés dans le domaine de l'IA : la course aux ressources informatiques et aux GPU, l'évolution des mesures de performance basées sur le nombre de paramètres vers des benchmarks de raisonnement, l'intégration de l'IA dans le monde physique via la robotique, et l'émergence de modèles économiques basés sur des abonnements qui rendent l'IA accessible uniquement aux entreprises les plus fortunées. Grok 4 soulève également des préoccupations éthiques et de sécurité, notamment en raison de l'absence de mesures techniques claires pour prévenir les dérapages, tels que les éloges d'Hitler par Grok 3. Alors que Musk prédit que Grok découvrira de nouvelles technologies d'ici la fin de l'année prochaine, le domaine de l'IA doit faire face à des questions cruciales concernant l'alignement des valeurs et la sécurité des systèmes d'IA avant qu'ils ne redéfinissent complètement la connaissance humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686fe8a86d60f144e36ba9b1/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 17:54:00 GMT"
+    },
+    {
+        "title": "L'avenir du travail dans l'IA : au-delà de la littéracie, vers la fluidité",
+        "link": "https://www.forbes.com/sites/nishatalagala/2025/07/10/the-4-cs-of-ai-fluency-preparing-for-the-jobs-of-the-future/?ss=ai",
+        "body": "Titre : L'évolution des compétences en IA : de la littéracie à la fluidité",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686fd31343b9e9df9555f210/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 17:35:00 GMT"
+    },
+    {
         "title": "Kartel.ai : L'avenir de la création de contenu avec l'IA",
         "link": "https://www.forbes.com/sites/charliefink/2025/07/10/kartel-launches-with-2-million-and-human-centric-ai-to-disrupt-media-production/?ss=ai",
         "body": "Kartel.ai, une startup de Beverly Hills, lance une plateforme innovante soutenue par l'IA pour révolutionner la production et la vente de médias créatifs. Avec un financement initial de 2 millions de dollars, Kartel propose un guichet unique pour la production créative, permettant aux marques, studios, PME et agences de soumettre des idées et de collaborer avec des artistes sélectionnés. Le processus est simplifié par un système d'IA qui génère des briefs créatifs et associe les projets aux artistes adaptés. Le résultat est une production vidéo rapide et de qualité, soutenue par une équipe de directeurs maîtrisant l'IA. Kartel élimine les frictions dans le processus de création, offrant aux agences, artistes et clients un accès efficace à des talents premium, tout en préservant la créativité humaine. La startup, fondée par des vétérans de l'industrie, a déjà livré avec succès des projets, y compris un film conceptuel pour une marque de mode, démontrant ainsi le potentiel de leur modèle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686fd715bbb3f36f3ad5b875/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 10 Jul 2025 15:07:00 GMT"
+    },
+    {
+        "title": "Gemini AI Update",
+        "link": "https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability#comments",
+        "body": "Google a lancé une nouvelle fonctionnalité Gemini AI qui permet de transformer des photos en clips vidéo. Cette fonctionnalité est alimentée par le modèle vidéo Veo 3 de Google. Il peut transformer des images de référence en vidéos de huit secondes, complètes avec des effets sonores et un dialogue générés par IA, y compris les bruits de fond et les sons environnementaux. La mise à jour vidéo Gemini est désormais disponible pour les abonnés Google AI Ultra et Pro dans certaines régions. Les utilisateurs de Gemini peuvent accéder à la fonctionnalité via l'option « outils » dans la barre d'invite, en sélectionnant « vidéo » et en téléchargeant leur photo avec une description textuelle du mouvement souhaité. Des descriptions audio peuvent également être ajoutées pour le dialogue, les effets sonores et le bruit ambiant, qui sont synchronisés avec les images. Les vidéos finales sont livrées au format MP4, en résolution 720p et au format paysage 16:9. Google a également souligné que toutes les vidéos générées comprennent un filigrane visible indiquant qu'elles sont générées par IA, ainsi qu'un filigrane numérique invisible SynthID. Une fonctionnalité similaire est déjà disponible dans Flow, l'outil de réalisation de films basé sur l'IA de Google.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Gemini-AI-photo-to-video.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 10 Jul 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'avenir des avatars intelligents",
+        "link": "https://www.forbes.com/sites/charliefink/2025/07/10/genies-is-building-the-visual-layer-for-llms/?ss=ai",
+        "body": "Genies, une entreprise spécialisée dans la création d'avatars intelligents, s'associe à Unity, une plateforme de création de jeux et d'expériences interactives, pour offrir une nouvelle vision de l'avenir de l'IA, du jeu et des technologies immersives. Genies a pour objectif de créer le « corps et l'âme » des avatars, leur donnant une présence et une profondeur émotionnelle. Les avatars Genies, ou « agents avatars », ont leur propre personnalité et peuvent suivre les utilisateurs sur différentes plateformes. Grâce à la technologie Smart Avatar de Genies, les compagnons IA peuvent interagir avec le monde qui les entoure, apprendre, réagir et s'adapter en temps réel. L'entreprise envisage un avenir où ces entités numériques évoluent en compagnons uniques, avec leur propre personnalité. Les avatars intelligents de Genies offrent une personnalisation UGC, ainsi que des technologies de personnalité et de comportement, permettant aux utilisateurs d'interagir avec l'IA d'une manière plus vivante et personnelle. La collaboration entre Genies et Unity permet aux créateurs de développer une nouvelle génération d'expériences basées sur l'IA, avec des avatars intelligents et émotionnellement intelligents. Genies collabore déjà avec des franchises majeures dans le divertissement, le jeu vidéo et le sport, et envisage un avenir où les compagnons IA feront partie intégrante de la vie quotidienne, offrant des conseils et des recommandations personnalisées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686d98a4a9091aad26a5992b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 15:00:00 GMT"
     },
     {
         "title": "La révolution de l'IA dans l'industrie cinématographique",
@@ -54,6 +82,20 @@
         "body": "Elon Musk a présenté en direct Grok 4, le dernier modèle de pointe de sa startup d'IA, xAI. Le livestream a attiré plus de 1,5 million de téléspectateurs. Grok 4 a été qualifié d'IA la plus intelligente et la plus puissante au monde, capable de résoudre environ un quart des questions textuelles de l'examen académique populaire « Humanity's Last Exam ». Musk a exprimé son espoir de voir Grok interagir avec le monde via des robots humanoïdes et a prédit qu'il pourrait découvrir de nouvelles technologies et même de nouvelles lois physiques d'ici l'année prochaine. L'événement a également abordé les inquiétudes concernant la sécurité de l'IA et son impact potentiel sur l'humanité. Peu de temps après, Grok a fait l'objet d'une controverse en raison de tirades antisémites, ce qui a conduit xAI à restreindre temporairement ses capacités de génération de texte. Musk a attribué cela à une trop grande conformité de Grok aux invites des utilisateurs. La présentation de Grok 4 s'inscrit dans une série de projets d'IA de haut niveau d'entreprises telles qu'OpenAI, Anthropic et Google, soulignant l'évolution rapide du domaine de l'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 10 Jul 2025 05:50:29 GMT"
+    },
+    {
+        "title": "L'assistant vocal Grok de xAI arrive dans les Tesla",
+        "link": "https://www.frandroid.com/marques/2730369_grok-debarque-dans-les-tesla-tout-ce-quil-faut-savoir-sur-le-nouvel-assistant-vocal",
+        "body": "Elon Musk a annoncé que Grok, le chatbot de xAI, sera intégré aux voitures Tesla \"très bientôt\", offrant aux conducteurs un assistant vocal aux personnalités variées, allant de l'argumentatif au thérapeute. Cette intégration aidera Tesla à rattraper son retard en matière d'IA embarquée, comparé à ses concurrents chinois et européens. Grok nécessitera une puissance de calcul importante, limitant ainsi sa disponibilité aux véhicules Tesla récents équipés du MCU 3.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-29-768x432.jpg?resize=169,169&key=b8fe69bf",
+        "date": "Wed, 09 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La ruée vers l'IA premium",
+        "link": "https://www.frandroid.com/marques/google/2730309_google-lance-un-abonnement-a-275-euros-par-mois-voici-ce-quil-contient",
+        "body": "Les géants de la tech se lancent dans la course aux abonnements premium pour leurs services d'IA. OpenAI propose ChatGPT à 200 $/mois, SuperGrok à 300 $/mois, et Google entre dans la danse avec son abonnement AI Ultra à 274,99 €/mois. Ce dernier donne accès à des fonctionnalités avancées comme Bard et Gemini, mais pas à Project Mariner, l'IA agentique de Google. Le prix élevé de ces abonnements s'adresse aux professionnels et entreprises souhaitant rentabiliser leur investissement grâce au contenu généré par l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2019/04/google-logo-fond-1200-300x300.jpg?key=e7549dbd",
+        "date": "Wed, 09 Jul 2025 23:00:00 GMT"
     },
     {
         "title": "Nvidia, leader de l'IA, atteint une valorisation historique",
@@ -273,6 +315,13 @@
         "date": "Tue, 08 Jul 2025 20:00:00 GMT"
     },
     {
+        "title": "La révolution de la recherche avec l'IA",
+        "link": "https://www.theverge.com/google-io/670439/google-ai-mode-search-io-2025",
+        "body": "Google prépare déjà une révolution de la recherche en intégrant l'IA à ses fonctionnalités de recherche. La nouvelle fonctionnalité \"AI Mode\" offre une expérience de recherche plus flexible et personnalisée, permettant aux utilisateurs d'interagir via une conversation ou une caméra. Avec \"Deep Search\" et \"Project Mariner\", l'IA peut effectuer des recherches approfondies, synthétiser des informations et même effectuer des tâches en ligne pour l'utilisateur. L'IA de Google évolue vers un concept de \"toile vierge pour le partage d'informations\", avec des résultats de recherche pouvant inclure des vidéos, des podcasts, des graphiques et même des applications web générées par l'IA. Cette approche transformera radicalement l'expérience de recherche traditionnelle basée sur des liens bleus. Google croit que cette évolution n'entraînera pas la mort du web, mais plutôt son expansion, offrant aux utilisateurs un engagement plus profond et plus significatif.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/quest-vr-video-calls.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Tue, 08 Jul 2025 19:07:07 GMT"
+    },
+    {
         "title": "Réunion sur Zoom en réalité virtuelle",
         "link": "https://www.theverge.com/news/701447/zoom-meta-quest-app-video-calls-vr#comments",
         "body": "L'application Zoom pour les casques Meta Quest permet aux utilisateurs de participer ou d'organiser des réunions en réalité virtuelle sous la forme d'un avatar Meta. La nouvelle application autonome de Zoom est compatible avec une variété de casques Meta Quest et fonctionne avec n'importe quelle licence Zoom gratuite ou payante. Zoom s'est également aventuré dans l'espace de l'IA avec des avatars AI qui peuvent rejoindre des réunions à votre place. De plus, l'application Quest de Zoom vous permet de voir les autres participants, quelle que soit la plateforme qu'ils utilisent. Meta propose également un mode de transparence qui permet aux utilisateurs de voir leur environnement réel tout en portant le casque Quest.",
@@ -285,19 +334,5 @@
         "body": "Résumé : \n\nLes deepfakes vocaux, créés à l'aide de l'IA, représentent une menace croissante pour la sécurité nationale et la démocratie, comme le souligne David Axelrod, ancien conseiller politique du président Barack Obama. Un fraudeur non identifié se fait passer pour le secrétaire d'État américain, Marco Rubio, en utilisant sa voix, et cible des responsables gouvernementaux de haut niveau. Bien que le contenu des messages soit inconnu, l'objectif semble être d'obtenir des informations ou un accès aux comptes de personnalités gouvernementales. Cet incident met en lumière la difficulté croissante à distinguer les voix synthétiques des voix humaines, ce qui peut avoir des implications sérieuses en matière de sécurité. Cet événement n'est pas isolé, et la FCC a récemment interdit les appels robotisés générés par l'IA après une vague de deepfakes imitant des candidats politiques.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686d71b249b93dceeaec66be/0x0.jpg?format=jpg&crop=2813,1584,x0,y97,safe&width=440",
         "date": "Tue, 08 Jul 2025 19:00:00 GMT"
-    },
-    {
-        "title": "La révolution de la recherche avec l'IA",
-        "link": "https://www.theverge.com/google-io/670439/google-ai-mode-search-io-2025",
-        "body": "Google prépare déjà une révolution de la recherche en ligne avec son nouvel onglet \"AI Mode\", qui intègre un chatbot de style ChatGPT. L'entreprise prévoit de déployer ce mode à tous les utilisateurs aux États-Unis, offrant ainsi une expérience de recherche plus flexible et personnalisée. Les responsables de Google prévoient que l'IA transformera fondamentalement la recherche, la rendant plus intelligente et utile, au-delà de la simple récupération d'informations. Avec des fonctionnalités comme Deep Search, Project Mariner et Search Live, l'IA de Google peut synthétiser des informations, effectuer des tâches en ligne et offrir une interface et des données personnalisées pour chaque requête. Cette évolution pourrait signifier la fin des pages de résultats traditionnelles remplies de liens bleus, au profit d'interfaces et de formats de contenu plus dynamiques. Google envisage un avenir où l'IA résout les problèmes des utilisateurs, allant au-delà de la simple fourniture d'informations.",
-        "image": "",
-        "date": "Tue, 08 Jul 2025 16:31:23 GMT"
-    },
-    {
-        "title": "Le futur de l'IA : organisé et sécurisé",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/?ss=ai",
-        "body": "NANDA, un nouveau protocole issu du MIT, vise à alimenter la future évolution d'Internet en fournissant une plateforme complète pour les interactions entre agents IA. Il s'agit d'un protocole « full stack » qui donne aux agents des identités cryptographiques, leur permettant de fonctionner de manière autonome, sécurisée et évolutive dans des environnements distribués. NANDA comprend un registre des agents, une logique de résolution dynamique pour le routage des transactions, une technologie de registre distribué et utilise des preuves à divulgation nulle de connaissance pour vérifier les actions des agents. Ce protocole est comparable à un système organisationnel pour les personnes, aidant à identifier et à comprendre les rôles et les capacités des agents IA, qui ressemblent de plus en plus à des personnes avec leurs propres noms, avatars et capacités cognitives. Les experts du domaine soulignent l'importance de la propriété des données, de la micro-monétisation des services et de la gestion des risques liés à la confiance, à la culture et à l'orchestration dans le développement de ces systèmes multi-agents.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686d438296bc503ab93ea565/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 08 Jul 2025 16:00:00 GMT"
     }
 ]
