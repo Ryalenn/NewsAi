@@ -1,5 +1,33 @@
 [
     {
+        "title": "L'illusion de l'IA sentiente",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/10/people-astonishingly-believe-that-they-have-brought-ai-to-life-such-as-miraculously-making-chatgpt-sentient/?ss=ai",
+        "body": "Bien que l'IA génère de l'enthousiasme et des attentes, il est important de garder un esprit critique et de ne pas confondre fluidité et intelligence. \n\nRésumé : \n\nMalgré les progrès de l'IA, les affirmations selon lesquelles l'IA a atteint la sentience restent infondées. Les gens confondent souvent la fluidité et l'intelligence de l'IA avec la sentience, en particulier avec les IA génératives et les LLM. Les affirmations de sentience sont souvent le résultat du biais de confirmation, où les gens voient ce qu'ils veulent voir, influencés par les prédictions des experts sur l'AGI et l'ASI imminentes. Le manque de tests concluants pour évaluer la sentience ajoute à la confusion. La sentience est un concept complexe, entouré de questions philosophiques, et notre compréhension de son émergence dans le cerveau humain reste limitée. Les gens peuvent projeter leurs désirs et leurs attentes sur l'IA, cherchant la gloire ou un sens de la connexion. Les experts en IA doivent faire preuve d'empathie et de prudence face à ces affirmations, tout en reconnaissant les pièges mentaux et les problèmes de santé mentale potentiels associés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686da9d4257beef8ccf9e815/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 07:00:00 GMT"
+    },
+    {
+        "title": "La révolution de l'IA pour les développeurs",
+        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/07/10/google-cloud-creates-3-levels-of-agentic-software-coding/?ss=ai",
+        "body": "Les développeurs disposent désormais d'un nouvel ensemble d'outils d'IA pour améliorer leur codage. Google Cloud est à l'avant-garde de cette évolution avec Firebase Studio, un environnement de développement logiciel basé sur l'IA et le cloud. Firebase Studio, issu de la fusion de Google Project IDX et de Gemini, l'assistant chatbot basé sur l'IA de Google, permet aux développeurs d'utiliser des invites en langage naturel pour accéder à des modèles et des fonctions pour créer des applications, des interfaces utilisateur et des API. Gemini CLI, l'interface en ligne de commande, offre une expérience basée sur l'IA sans quitter la fenêtre de chat. Jeanine Banks de Google Cloud explique que ces outils aident les développeurs à résoudre des problèmes et à exécuter des tâches spécifiques, tout en garantissant que les développeurs restent impliqués dans le processus, en particulier en matière de sécurité et de gestion de projet. Oliver Parker, de Google Cloud, souligne que le plus grand défi de l'IA est l'infrastructure, et c'est pourquoi Google Cloud a créé la plateforme de développement Vertex.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686f5ec9dbc222bcc7f6de60/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'automatisation : humains, robots et IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/07/10/ai-agents-vs-rpa-what-every-business-leader-needs-to-know/?ss=ai",
+        "body": "Titre : L'avenir de l'automatisation : une collaboration entre humains, robots et IA \n\nRésumé : L'article explore les différences entre l'automatisation robotisée des processus (RPA) et les agents d'IA, et comment ils peuvent être utilisés ensemble pour améliorer l'efficacité des entreprises. La RPA est idéale pour les tâches répétitives basées sur des règles, tandis que les agents d'IA, grâce à l'apprentissage, peuvent gérer des tâches complexes et prendre des décisions. Les projets d'automatisation peuvent bénéficier d'une approche hybride, combinant la RPA pour des tâches routinières et l'IA pour la prise de décision intelligente. L'exemple d'un système RH montre comment la RPA et l'IA peuvent travailler ensemble pour une expérience d'intégration efficace et personnalisée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686f61561c5d71db0a951cd7/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 10 Jul 2025 06:00:00 GMT"
+    },
+    {
+        "title": "La révolution de la navigation web avec l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2729241_chrome-menace-openai-va-lancer-son-navigateur-chatgpt",
+        "body": "OpenAI s'apprête à lancer son propre navigateur web, intégrant son agent IA Operator, dans le but de défier Google Chrome. L'idée est de repenser l'expérience web en utilisant l'IA pour répondre directement aux questions des utilisateurs, sans avoir à visiter plusieurs sites web. Cette approche, similaire à celle de Perplexity, permet à l'IA de synthétiser et de présenter les informations, éliminant ainsi le besoin de naviguer sur différents sites. OpenAI vise à créer un écosystème fermé, comme les GAFAM, où les utilisateurs peuvent effectuer des tâches telles que la réservation d'un restaurant sans quitter la plateforme. Cependant, cela soulève des questions sur la diversité des sources et la neutralité de l'information. L'enjeu pour OpenAI est de récupérer directement les données des utilisateurs, en les gardant dans son écosystème, plutôt que de les voir utiliser Google ou d'autres sites pour vérifier les informations. Cette annonce marque une course pour réinventer le web avec l'IA comme arme principale, menaçant le modèle économique de Google basé sur la publicité.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-28-768x432.jpg?resize=169,169&key=0be38743",
+        "date": "Wed, 09 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "McDonald's AI Recruiter Data Breach",
         "link": "https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/",
         "body": "Des chercheurs en sécurité ont découvert une faille de sécurité majeure dans la plateforme de chatbot AI utilisée par McDonald's pour le recrutement. La plateforme, développée par Paradox.ai, a exposé les données personnelles de millions de candidats, y compris leurs conversations avec le chatbot. Les chercheurs ont pu accéder aux données en devinant un mot de passe faible, soulignant la nécessité d'une sécurité robuste dans les systèmes d'IA, en particulier lorsque des données sensibles sont impliquées. McDonald's a blâmé Paradox.ai pour la violation, qui a depuis été corrigée.",
@@ -243,19 +271,5 @@
         "body": "Le programme robotaxi de Tesla à Austin, contrôlé de près par Elon Musk, a connu 16 jours sans accident majeur. Cependant, des questions surgissent quant à la responsabilité légale en cas de défaillance de la technologie de conduite autonome. Les propriétaires de Tesla qui souhaitent rentabiliser leurs véhicules en les louant à travers un service de robotaxis doivent prendre en compte les risques potentiels. Les avocats pourraient poursuivre à la fois Tesla et les propriétaires en cas d'accident, en alléguant une mauvaise maintenance ou une représentation erronée de l'état du véhicule. La question de la responsabilité reste floue, et la technologie de Tesla n'est pas encore considérée comme prête pour une utilisation commerciale par de nombreux experts. De plus, la couverture d'assurance pour les véhicules autonomes loués pourrait s'avérer difficile à obtenir. Elon Musk affirme que Tesla a un avantage financier grâce à sa technologie peu coûteuse, mais cela pourrait également être un risque supplémentaire en cas d'accident. L'article explore les défis et les incertitudes entourant le programme robotaxi de Tesla, soulignant les préoccupations en matière de sécurité et de responsabilité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686c73a1e8c5277643a86272/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 08 Jul 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Arrow Lake Refresh",
-        "link": "https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features#comments",
-        "body": "Les prochaines puces Intel Arrow Lake Refresh pourraient inclure une unité de traitement neuronal (NPU) capable de prendre en charge les fonctionnalités IA de Copilot Plus. Bien que les dernières fonctionnalités IA de Windows de Microsoft soient arrivées l'année dernière sur une gamme spéciale d'ordinateurs portables, la mise à jour des puces de bureau Arrow Lake d'Intel pourrait les rendre disponibles sur les PC de bureau pour la première fois. La NPU intégrée aux dernières puces de bureau Core Ultra d'Intel n'était pas assez puissante pour atteindre les 40 TOPS requis par Microsoft pour Copilot Plus. La mise à jour devrait inclure des vitesses d'horloge plus élevées et une NPU plus avancée, correspondant à l'architecture \"NPU 4\" trouvée sur les puces Lunar Lake pour ordinateurs portables, qui prennent en charge Copilot Plus. Cela permettrait aux PC de bureau d'avoir une NPU dédiée, plutôt que de compter sur les processeurs pour ordinateurs portables. Bien que la mise à jour Arrow Lake Refresh soit principalement axée sur l'amélioration de la NPU, elle pourrait décevoir les joueurs qui attendent qu'Intel améliore ses performances dans l'espace des processeurs de bureau.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/copilotpluspc.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 08 Jul 2025 08:48:19 GMT"
-    },
-    {
-        "title": "La menace du vol d'AGI",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/08/stealing-of-agi-and-ai-superintelligence-is-an-entirely-enticing-option/?ss=ai",
-        "body": "Titre : La menace du vol d'AGI",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6840ad949894ac4430c1bdcb/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 08 Jul 2025 07:00:00 GMT"
     }
 ]
