@@ -42,6 +42,13 @@
         "date": "Wed, 09 Jul 2025 17:00:00 GMT"
     },
     {
+        "title": "Perplexity lance son navigateur web avec un assistant IA intégré",
+        "link": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch#comments",
+        "body": "Perplexity, la startup derrière le moteur de recherche IA, a lancé son propre navigateur web, Comet. Celui-ci intègre les outils de recherche et l'assistant IA de Perplexity, offrant une expérience de navigation fluide et cohérente. Comet est basé sur Chromium et est actuellement disponible uniquement pour les utilisateurs du forfait Perplexity Max, avant un lancement plus large sur invitation. Le navigateur utilise Perplexity comme moteur de recherche principal, fournissant des réponses générées par l'IA aux requêtes des utilisateurs. L'assistant IA intégré peut également effectuer des tâches comme réserver une réunion, envoyer un e-mail ou acheter un produit. Perplexity défie ainsi la domination de Google dans la recherche et exprime même son intérêt pour l'achat de Chrome si la cour force Google à s'en séparer.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/perplexity-comet-assistant.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+        "date": "Wed, 09 Jul 2025 16:53:31 GMT"
+    },
+    {
         "title": "La collaboration entre Microsoft et OpenAI",
         "link": "https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad",
         "body": "Résumé : La relation complexe entre Microsoft et OpenAI est sur le point d'évoluer, avec la sortie imminente d'un modèle linguistique open source par OpenAI. Ce modèle, similaire à o3 mini, sera disponible sur différentes plateformes cloud, y compris Azure de Microsoft, mais également sur celles de ses concurrents. Cela pourrait affecter l'accord exclusif entre Microsoft et OpenAI, qui donne à Microsoft un accès privilégié aux modèles d'OpenAI en échange d'un partage des revenus. La sortie de ce modèle open source pourrait inciter les clients Azure à opter pour des solutions moins coûteuses ou à migrer vers d'autres fournisseurs de cloud. L'article explore également la dynamique de la relation Microsoft-OpenAI, y compris les récents assouplissements de leur accord, et soulève des questions sur le niveau de transparence du nouveau modèle \"ouvert\" d'OpenAI.",
@@ -250,12 +257,5 @@
         "body": "Titre : La menace du vol d'AGI",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6840ad949894ac4430c1bdcb/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 08 Jul 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail avec l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/07/08/microsoft-makes-ai-mandatory-for-employees-what-it-means-for-your-career/?ss=ai",
-        "body": "Titre : L'avenir du travail : l'humain et l'IA, main dans la main",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686c391bfbe2727ab2bac4c8/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 08 Jul 2025 06:30:00 GMT"
     }
 ]
