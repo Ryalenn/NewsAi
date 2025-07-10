@@ -257,5 +257,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/686ec2c8e8d0f434974ac0f9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Jul 2025 19:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/",
+        "image": "",
+        "date": "Wed, 09 Jul 2025 22:12:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.bloomberg.com/news/articles/2025-07-09/nvidia-hits-4-trillion-value-as-rally-notches-another-milestone",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Nvidias-4-trillion-day_.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 09 Jul 2025 21:49:01 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/09/danones-academy-wants-to-train-20000-ai-ready-workers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686ee6b8cc60626ffc26c1b2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 09 Jul 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
