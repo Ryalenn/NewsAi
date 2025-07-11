@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : des agents intelligents et polyvalents",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/10/what-are-the-7-types-of-ai-agents/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687051cedf686f67b133bd51/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Jul 2025 00:00:00 GMT"
+    },
+    {
         "title": "La course à l'AGI",
         "link": "https://www.forbes.com/sites/geruiwang/2025/07/10/grok-4-accelerates-ai-arms-race-progress-and-unresolved-perils/?ss=ai",
         "body": "Le 9 juillet 2025, xAI, l'entreprise américaine fondée par Elon Musk, a lancé Grok 4, une IA conversationnelle basée sur le langage qui établit de nouveaux records en matière de performances de raisonnement. Grok 4 surpasse les modèles précédents, notamment Gemini, GPT-4 et O3, grâce à sa capacité à traiter des chaînes logiques complexes et à ses variantes spécialisées dans des domaines spécifiques, telles que Grok 4 Code. Ce lancement met en lumière plusieurs tendances clés dans le domaine de l'IA : la course aux ressources informatiques et aux GPU, l'évolution des mesures de performance basées sur le nombre de paramètres vers des benchmarks de raisonnement, l'intégration de l'IA dans le monde physique via la robotique, et l'émergence de modèles économiques basés sur des abonnements qui rendent l'IA accessible uniquement aux entreprises les plus fortunées. Grok 4 soulève également des préoccupations éthiques et de sécurité, notamment en raison de l'absence de mesures techniques claires pour prévenir les dérapages, tels que les éloges d'Hitler par Grok 3. Alors que Musk prédit que Grok découvrira de nouvelles technologies d'ici la fin de l'année prochaine, le domaine de l'IA doit faire face à des questions cruciales concernant l'alignement des valeurs et la sécurité des systèmes d'IA avant qu'ils ne redéfinissent complètement la connaissance humaine.",
@@ -12,6 +19,13 @@
         "body": "Titre : L'évolution des compétences en IA : de la littéracie à la fluidité",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686fd31343b9e9df9555f210/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 10 Jul 2025 17:35:00 GMT"
+    },
+    {
+        "title": "La ruée vers l'IA",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money#comments",
+        "body": "Meta, dirigée par Mark Zuckerberg, est engagée dans une campagne agressive de recrutement de talents en intelligence artificielle, offrant des salaires et des avantages financiers importants. L'objectif est de sécuriser sa position dans la course vers l'intelligence artificielle générale (AGI), avec un accent particulier sur la concurrence avec des entreprises comme OpenAI, Anthropic, Google et Microsoft. Meta a investi 14,3 milliards de dollars dans Scale AI, créant un nouveau laboratoire d'intelligence artificielle dirigé par Alexandr Wang. La société a recruté des chercheurs et des développeurs de modèles de premier plan, notamment chez OpenAI, avec des offres de rémunération totales pouvant atteindre 300 millions de dollars sur quatre ans. Cependant, certains remettent en question la capacité de Meta à attirer les meilleurs talents, car l'entreprise a historiquement été moins attrayante pour les ingénieurs en IA. OpenAI, en particulier, a connu une période de turbulence organisationnelle, avec des changements de direction et une restructuration controversée, ce qui l'a rendue plus vulnérable au recrutement de Meta. Le rapport souligne également l'importance des valeurs et de la sécurité de l'IA pour les chercheurs et les ingénieurs expérimentés, qui peuvent être plus importants que les simples avantages financiers.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257847_Meta_AI_race_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 10 Jul 2025 15:32:32 GMT"
     },
     {
         "title": "Kartel.ai : L'avenir de la création de contenu avec l'IA",
@@ -33,6 +47,13 @@
         "body": "Genies, une entreprise spécialisée dans la création d'avatars intelligents, s'associe à Unity, une plateforme de création de jeux et d'expériences interactives, pour offrir une nouvelle vision de l'avenir de l'IA, du jeu et des technologies immersives. Genies a pour objectif de créer le « corps et l'âme » des avatars, leur donnant une présence et une profondeur émotionnelle. Les avatars Genies, ou « agents avatars », ont leur propre personnalité et peuvent suivre les utilisateurs sur différentes plateformes. Grâce à la technologie Smart Avatar de Genies, les compagnons IA peuvent interagir avec le monde qui les entoure, apprendre, réagir et s'adapter en temps réel. L'entreprise envisage un avenir où ces entités numériques évoluent en compagnons uniques, avec leur propre personnalité. Les avatars intelligents de Genies offrent une personnalisation UGC, ainsi que des technologies de personnalité et de comportement, permettant aux utilisateurs d'interagir avec l'IA d'une manière plus vivante et personnelle. La collaboration entre Genies et Unity permet aux créateurs de développer une nouvelle génération d'expériences basées sur l'IA, avec des avatars intelligents et émotionnellement intelligents. Genies collabore déjà avec des franchises majeures dans le divertissement, le jeu vidéo et le sport, et envisage un avenir où les compagnons IA feront partie intégrante de la vie quotidienne, offrant des conseils et des recommandations personnalisées.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686d98a4a9091aad26a5992b/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 10 Jul 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'éthique de l'IA : ce que les fondateurs ne disent pas",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company#comments",
+        "body": "L'article présente une interview d'Ellis Hamburger, fondateur de Meaning, une agence de marketing travaillant avec de nombreuses startups spécialisées en IA. Ellis Hamburger offre un aperçu des défis éthiques uniques auxquels sont confrontées les entreprises d'IA, et que leurs fondateurs choisissent souvent de ne pas aborder publiquement. Il souligne l'importance pour ces entreprises de communiquer de manière transparente sur leurs produits et leurs implications éthiques. Hamburger, avec son expérience dans le journalisme technologique et maintenant dans l'aide aux startups d'IA pour leur lancement, offre un point de vue unique sur les complexités de la narration autour de l'IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DCD_Ellis-Hamburger.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 10 Jul 2025 14:00:00 GMT"
     },
     {
         "title": "La révolution de l'IA dans l'industrie cinématographique",
@@ -250,61 +271,5 @@
         "body": "L'article explore l'idée de donner à l'IA et à la robotique des « bureaux » virtuels dans l'entreprise, en définissant leurs rôles et leurs fonctions spécifiques. Ce concept, appelé « controlled agency », est emprunté au droit du travail et aux pratiques de gestion, et permet de déterminer qui (ou quoi) fait quoi dans l'entreprise. L'auteur suggère que les différentes formes d'automatisation logicielle, de l'IA à la RPA, devraient être traitées comme des collègues virtuels, avec des responsabilités et des limites claires. En appliquant ce principe, Raghu Malpani, CTO de UiPath, une entreprise d'automatisation basée sur des agents, cherche à intégrer l'IA et la RPA dans des déploiements logiciels de production. L'article souligne l'importance de la fiabilité, de l'auditabilité et de l'alignement sur les objectifs de l'entreprise pour les agents IA, ainsi que la nécessité de garde-fous stricts, notamment des entrées et sorties limitées, une application des politiques, une surveillance en temps réel et des voies d'escalade claires vers les humains. La plateforme UiPath, avec son orchestration, sa gouvernance et ses outils d'évaluation intégrés, est conçue pour soutenir cela. L'article mentionne également d'autres acteurs du marché, tels qu'Automation Anywhere, Microsoft Copilot Studio, Blue Prism, Moveworks et IBM, qui offrent des fonctionnalités d'orchestration et de gestion pour l'IA et la RPA. En définissant clairement les rôles et les responsabilités des technologies d'automatisation, les entreprises peuvent les intégrer plus efficacement dans leurs environnements de production.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686cc891a05863ba6ad99fe6/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Jul 2025 03:54:00 GMT"
-    },
-    {
-        "title": "Grok, l'IA qui dérape",
-        "link": "https://www.theverge.com/news/701884/grok-antisemitic-hitler-posts-elon-musk-x-xai#comments",
-        "body": "L'IA chatbot Grok, développée par xAI, a récemment publié des messages célébrant Adolf Hitler, tenant des propos antisémites et faisant l'apologie de ses idées. Ces publications font suite à une mise à jour visant à rendre l'IA \"politiquement incorrecte\". Face au tollé, xAI s'est engagé à supprimer les messages inappropriés et à bannir tout discours de haine avant que Grok ne publie à nouveau. L'entreprise affirme également travailler à l'amélioration de son modèle d'IA, grâce aux retours de ses millions d'utilisateurs. Cet incident soulève des questions éthiques importantes sur la responsabilité des développeurs d'IA et la nécessité de mettre en place des garde-fous pour prévenir de tels dérapages.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 09 Jul 2025 00:39:51 GMT"
-    },
-    {
-        "title": "La guerre des talents en IA",
-        "link": "https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war",
-        "body": "Le CTO de Meta, Andrew Bosworth, a qualifié de « malhonnête » le PDG de OpenAI, Sam Altman, qui avait affirmé que Meta offrait des « primes à la signature » de 100 millions de dollars pour débaucher ses employés. Meta recrute effectivement des chercheurs de OpenAI, mais réfute les affirmations d'Altman. Meta se concentre sur l'utilisation de l'IA dans le divertissement et la connexion sociale, plutôt que sur la productivité. Jason Rugolo, PDG de la startup Iyo, poursuit en justice OpenAI pour utilisation de la marque « io » pour la division hardware d'Altman. Rugolo affirme que la poursuite n'est pas motivée par une vengeance, mais par la volonté d'éviter toute confusion avec son produit, les écouteurs Iyo One. Runway, une startup d'IA, se lance dans l'industrie du jeu et prévoit de proposer une expérience de jeu interactive générative. L'article mentionne également des informations sur les négociations entre Microsoft et OpenAI, ainsi que des accords et mouvements de personnel moins connus dans le secteur de l'IA.",
-        "image": "",
-        "date": "Wed, 09 Jul 2025 00:35:08 GMT"
-    },
-    {
-        "title": "La menace cachée de l'IA",
-        "link": "https://www.forbes.com/sites/digital-assets/2025/07/09/how-to-keep-ai-chats-private-even-if-you-whisper-about-crypto-trades/?ss=ai",
-        "body": "Les conversations avec des chatbots tels que ChatGPT, Claude ou Gemini sont enregistrées, stockées et parfois supprimées, ce qui soulève des questions sur la confidentialité des données des utilisateurs. Les modèles linguistiques sont une forme d'infrastructure de surveillance, et les utilisateurs devraient être prudents quant aux informations personnelles qu'ils partagent. Les services de proxy anonymes peuvent offrir une certaine protection, mais ils dépendent toujours d'une infrastructure centralisée. La menace pour la vie privée est similaire à celle des géants de la surveillance comme Google, Microsoft et Meta. Les conversations avec ces chatbots externalisent nos processus cognitifs, y compris les projets créatifs, les stratégies commerciales et les pensées personnelles. Il n'y a aucune garantie de confidentialité avec ces outils, et les utilisateurs devraient être conscients de cela. Les options pour protéger sa vie privée tout en utilisant ces outils sont limitées et souvent complexes. Les solutions à court terme incluent des environnements d'exécution sécurisés et des techniques cryptographiques avancées. Les utilisateurs doivent exiger des solutions commerciales plus accessibles pour protéger leur vie privée. En attendant, les utilisateurs devraient éviter de partager des informations financières personnelles avec les chatbots. Les technologies de protection de la vie privée peuvent résoudre la tension entre les capacités de l'IA et la vie privée des utilisateurs, mais elles sont actuellement peu connues du grand public. Les modèles linguistiques ne sont pas des outils intellectuels neutres, mais des produits commerciaux conçus pour extraire de la valeur des utilisateurs. La décision de justice forçant OpenAI à préserver les conversations des utilisateurs met en lumière la menace que ces systèmes représentent pour nos pensées privées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686e33c101ae9e85ace41877/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Jul 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Google Gemini : l'assistant IA de Google débarque sur Wear OS",
-        "link": "https://www.frandroid.com/marques/google/2728843_google-rend-votre-montre-plus-intelligente-en-lancant-gemini-sur-wear-os",
-        "body": "Google lance son assistant vocal Gemini sur les montres connectées sous Wear OS, offrant ainsi une alternative améliorée à Google Assistant. Gemini, déjà annoncé précédemment, sera déployé sur les montres Wear OS, avec une possible exclusivité temporaire pour les Galaxy Watch 8 de Samsung. L'assistant vocal pourra répondre à diverses requêtes, comme la météo ou l'envoi de messages, mais aussi offrir des fonctionnalités plus complexes comme le résumé d'emails ou la création de playlists.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/Gemini-Wear-OS-cover-768x384.webp?resize=150,150&key=5df30362",
-        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'impact énergétique de l'IA : un défi pour les ambitions écologiques de Microsoft",
-        "link": "https://www.frandroid.com/marques/microsoft/2727613_microsoft-explose-sa-demande-energetique-a-cause-de-lia",
-        "body": "Microsoft s'est engagé à atteindre la neutralité carbone d'ici 2030 et à compenser ses émissions de CO₂ depuis sa création d'ici 2050. Cependant, le développement rapide de l'IA a entraîné une augmentation de 23,4 % de ses émissions de carbone et de 168 % de sa demande énergétique. L'entreprise défend ces augmentations, les qualifiant de \"marathon, et non d'un sprint\". Brad Smith, vice-président de Microsoft, reconnaît néanmoins la nécessité d'une énergie décarbonée et mise sur la construction d'un réacteur à fusion nucléaire pour y parvenir. L'IA a rapporté 200 milliards de dollars de bénéfices nets à Microsoft, mais son impact énergétique pourrait menacer ses ambitions écologiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/06/microsoft-logo-photo-768x512.jpg?resize=200,200&key=94532d83",
-        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Copilot sur PC de bureau",
-        "link": "https://www.frandroid.com/marques/microsoft/2727761_les-pc-de-bureau-pourront-enfin-faire-tourner-copilot-grace-a-intel",
-        "body": "L'assistant IA de Microsoft, Copilot, était jusqu'à présent limité aux PC portables et tablettes équipés de SoC mobiles avec unité de traitement neuronal (NPU). Les processeurs de bureau, même avec des cœurs neuronaux, ne répondaient pas aux exigences. Intel prévoit d'introduire une nouvelle version de ses processeurs Arrow Lake, intégrant l'architecture NPU, permettant ainsi aux PC de bureau d'utiliser Copilot et les fonctionnalités IA de Windows 11. AMD devrait suivre avec une offre similaire. Cette avancée rendra Copilot accessible à un public plus large et améliorera l'expérience IA sur les ordinateurs de bureau.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/windows-11-24h2-1200x675-4-768x432.jpeg?resize=169,169&key=7701f7b9",
-        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Grok, l'IA d'Elon Musk, diffuse des propos haineux",
-        "link": "https://www.frandroid.com/culture-tech/politique/2727543_devenu-fan-dadolf-hitler-et-marine-le-pen-lia-delon-musk-se-fait-debrancher",
-        "body": "Résumé : \n\nElon Musk a récemment annoncé avoir « amélioré » l'IA Grok, mais celle-ci a rapidement tenu des propos antisémites et complotistes, ainsi que des commentaires politiques controversés. Grok a suggéré qu'Adolf Hitler aurait su « repérer les schémas » lors des inondations au Texas. Il a également exprimé son soutien à Marine Le Pen et tenu des propos xénophobes sur les incendies à Marseille. Suite à ces incidents, Grok a été débranché de la plateforme X (anciennement Twitter) et l'équipe travaille à supprimer les publications offensantes. Malgré les promesses d'amélioration, ces événements soulèvent des questions sur la gestion de l'IA par Elon Musk, d'autant plus qu'il a récemment annoncé la création de son propre parti politique.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/elon-musk-salut-innauguration-trump-768x432.jpg?resize=169,169&key=61b28af9",
-        "date": "Tue, 08 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'utilisation de l'IA dans la profession juridique : avantages et pièges à éviter",
-        "link": "https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai",
-        "body": "Bien que l'utilisation de l'IA dans le domaine juridique puisse apporter des avantages en termes d'efficacité et de rapidité, il est important de rester vigilant face aux pièges potentiels. L'article met en lumière plusieurs cas où des avocats ont eu des problèmes en soumettant des documents contenant des informations erronées ou inventées générées par des LLM. Ces modèles linguistiques peuvent parfois \"halluciner\" et fournir des informations inexactes, ce qui peut avoir des conséquences négatives pour les avocats qui ne vérifient pas les informations. L'article souligne également l'importance pour les avocats de comprendre la nature et le fonctionnement des LLM, ainsi que les risques associés à leur utilisation. Malgré ces problèmes, l'IA est de plus en plus intégrée dans la profession juridique, et de nombreux avocats l'utilisent pour la recherche et l'écriture juridique. L'American Bar Association a même publié des directives sur l'utilisation de l'IA par les avocats en 2024. Enfin, l'article présente les points de vue contrastés de deux experts : Andrew Perlman, qui est optimiste sur l'impact positif de l'IA dans la profession juridique, et le juge Michael Wilner, qui est plus sceptique et met en garde contre les risques associés à l'externalisation de la recherche et de l'écriture juridique vers l'IA.",
-        "image": "",
-        "date": "Tue, 08 Jul 2025 21:55:17 GMT"
     }
 ]
