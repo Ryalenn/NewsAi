@@ -1,48 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple",
-        "image": "",
-        "date": "Wed, 09 Jul 2025 17:12:31 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A_0a5ae3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 09 Jul 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/09/ai-startup-langchain-is-in-talks-to-raise-100-million/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686eacf6d7553ce96d7cde7c/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Jul 2025 18:12:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/09/nvidia-just-hit-4-trillion-but-the-real-ai-boom-hasnt-started-yet/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686e8b9a3cb11f00ede039ae/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Jul 2025 17:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/chasefeiger/2025/07/09/four-keys-to-successfully-launching-ai-in-life-sciences/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686df364a4d46dacec21acea/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Jul 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/07/09/why-we-need-double-literacy-to-life-in-a-hybrid-world/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686e953497ab93c3a5af9126/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 09 Jul 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/09/why-is-retrieval-augmented-generation-or-rag-popular-today/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/686ec2c8e8d0f434974ac0f9/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 09 Jul 2025 19:00:00 GMT",
@@ -70,14 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "",
-        "link": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/perplexity-comet-assistant.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
-        "date": "Wed, 09 Jul 2025 16:53:31 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "Chrome menac\u00e9 ? OpenAI va lancer son navigateur ChatGPT",
+        "title": "Chrome menacé ? OpenAI va lancer son navigateur ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2729241_chrome-menace-openai-va-lancer-son-navigateur-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-28-768x432.jpg?resize=169,169&key=0be38743",
         "date": "Wed, 09 Jul 2025 23:00:00 GMT",
@@ -116,13 +67,6 @@
         "link": "https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-10-122133.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Thu, 10 Jul 2025 11:37:10 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Ive-and-Altman.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
-        "date": "Wed, 09 Jul 2025 17:40:05 GMT",
         "check": "yes"
     },
     {
@@ -168,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Grok d\u00e9barque dans les Tesla : tout ce qu\u2019il faut savoir sur ce nouvel assistant vocal",
+        "title": "Grok débarque dans les Tesla : tout ce qu’il faut savoir sur ce nouvel assistant vocal",
         "link": "https://www.frandroid.com/marques/2730369_grok-debarque-dans-les-tesla-tout-ce-quil-faut-savoir-sur-le-nouvel-assistant-vocal",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-29-768x432.jpg?resize=169,169&key=b8fe69bf",
         "date": "Wed, 09 Jul 2025 23:00:00 GMT",
