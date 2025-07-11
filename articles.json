@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "Chrome menacé ? OpenAI va lancer son navigateur ChatGPT",
+        "title": "Chrome menac\u00e9 ? OpenAI va lancer son navigateur ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2729241_chrome-menace-openai-va-lancer-son-navigateur-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-28-768x432.jpg?resize=169,169&key=0be38743",
         "date": "Wed, 09 Jul 2025 23:00:00 GMT",
@@ -168,7 +168,7 @@
         "check": "yes"
     },
     {
-        "title": "Grok débarque dans les Tesla : tout ce qu’il faut savoir sur ce nouvel assistant vocal",
+        "title": "Grok d\u00e9barque dans les Tesla : tout ce qu\u2019il faut savoir sur ce nouvel assistant vocal",
         "link": "https://www.frandroid.com/marques/2730369_grok-debarque-dans-les-tesla-tout-ce-quil-faut-savoir-sur-le-nouvel-assistant-vocal",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-29-768x432.jpg?resize=169,169&key=b8fe69bf",
         "date": "Wed, 09 Jul 2025 23:00:00 GMT",
@@ -229,5 +229,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/687051cedf686f67b133bd51/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 11 Jul 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2186528697.jpg?quality=90&strip=all&crop=0%2C0.0052460392403759%2C100%2C99.989507921519&w=2400",
+        "date": "Thu, 10 Jul 2025 23:48:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 10 Jul 2025 15:33:07 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/11/a-greek-specific-llm-kiefer-works-on-domestic-intelligence-platform/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6871145c1bffaa982f27952c/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/07/11/why-business-needs-a-hybrid-moral-codex-for-human-ai-cohabitation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68710f6ac055418aec116a42/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/11/people-will-perilously-assume-that-agi-and-ai-superintelligence-are-supreme-oracles-and-majestic-prophets/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/686f12ae5b88120fdda0b450/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Jul 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/07/11/what-is-ai-agent-washing-and-why-is-it-a-risk-to-businesses/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68702f789d408d6d7713e466/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 11 Jul 2025 05:00:00 GMT",
+        "check": "no"
     }
 ]
