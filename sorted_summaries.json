@@ -1,5 +1,19 @@
 [
     {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/12/cloudflare-gives-ai-bot-companies-ultimatum/?ss=ai",
+        "body": "Le 1er juillet, Cloudflare, un fournisseur de services Internet, a lancé un défi aux entreprises d'IA en changeant le paramètre par défaut pour les robots d'IA qui récupèrent des données sur le Web, passant de « oui » à « non ». Cet événement, appelé « Content Independence Day », vise à garantir que les éditeurs et les créateurs de contenu soient rémunérés pour leur travail. Matthew Prince, PDG de Cloudflare, a déclaré que l'avenir d'un Internet libre et dynamique dépend de la création d'un nouveau modèle économique qui profite à tous, y compris aux créateurs et aux futurs fondateurs d'IA. Bien que cette décision ne soit pas juridiquement contraignante, elle met en lumière l'importance de récompenser les créateurs de contenu à l'ère de l'IA. ChatGPT admet que l'IA peut accélérer les tendances qui nuisent aux médias locaux, tout en offrant des suggestions pour atténuer les dommages, telles que la conception de modèles de licence pour protéger le travail des créateurs. Cloudflare prévoit de créer un marché où les créateurs de contenu et les entreprises d'IA peuvent collaborer, en mettant l'accent sur la création de contenu original et de valeur. Cet événement marque potentiellement un tournant dans la bataille pour la publication à l'ère de l'IA, soulevant des questions sur la façon dont les entreprises d'IA et les créateurs de contenu peuvent coexister et prospérer.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687123c03481170762ce64b6/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 12 Jul 2025 09:00:00 GMT"
+    },
+    {
+        "title": "L'ONU publie un rapport important sur l'AGI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/12/united-nations-considering-these-four-crucial-actions-to-save-the-world-from-dire-agi-and-killer-ai-superintelligence/?ss=ai",
+        "body": "L'ONU a publié un rapport soulignant quatre recommandations clés pour préparer l'avènement de l'intelligence artificielle générale (AGI) et potentiellement de l'intelligence artificielle super-intelligente (ASI). Le rapport met en garde contre les risques graves pour la société si l'AGI n'est pas correctement supervisé. Les recommandations incluent :\n\n1. Établir un observatoire mondial de l'AGI pour suivre les développements de l'AGI et fournir des informations fiables.\n\n2. Développer des meilleures pratiques pour la gouvernance de l'AGI, aidant les nations à mettre en place des structures de supervision efficaces.\n\n3. Envisager des certifications pour l'AGI, encourageant l'adoption de normes importantes.\n\n4. Entreprendre une étude de faisabilité pour une nouvelle agence de l'ONU dédiée à l'AGI, similaire à l'Agence internationale de l'énergie atomique (IAEA).\n\nLe rapport souligne l'urgence de ces mesures, alors que certains craignent que l'AGI et l'ASI ne soient imminents et ne présentent des risques importants pour l'humanité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68719bc5ef85ab7c3009cda4/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 12 Jul 2025 06:00:00 GMT"
+    },
+    {
         "title": "Google Workspace Updates",
         "link": "https://workspaceupdates.googleblog.com/2025/07/release-notes-07-11-2025.html",
         "body": "Ce texte met en évidence l'importance de la communauté Google Cloud pour les administrateurs Google Workspace. Il s'agit d'un espace où les utilisateurs peuvent se connecter, discuter des produits, découvrir des articles et astuces, et rester informés des dernières nouveautés de Google Workspace. La page « What's new in Google Workspace ? » du centre d'aide fournit des informations sur les nouveaux produits, fonctionnalités et mises à jour mineures. Cette source est particulièrement pertinente pour ceux qui travaillent dans le domaine de l'IA, car elle leur permet de rester informés des dernières avancées de Google dans ce domaine et de comprendre comment celles-ci peuvent être appliquées dans le cadre de Google Workspace.",
@@ -138,33 +152,5 @@
         "body": "La startup d'IA Luma a récemment dévoilé Dream Machine, un outil de génération de vidéos basé sur un modèle de transformer. L'un des exemples présentés, un trailer pour un film d'animation intitulé \"Monster Camp\", a attiré l'attention en raison de sa ressemblance avec le film \"Monsters, Inc.\" de Pixar. Bien que Luma ait affirmé que l'utilisateur avait téléchargé une image contenant les personnages, cela soulève des questions sur la transparence des modèles d'IA et leur formation. L'industrie cinématographique, y compris Disney, doit maintenant faire face à la réalité de l'IA capable de créer du contenu visuel, remettant en question les notions traditionnelles de droits d'auteur et de propriété intellectuelle.",
         "image": "",
         "date": "Thu, 10 Jul 2025 13:20:12 GMT"
-    },
-    {
-        "title": "Elon Musk Protesté",
-        "link": "https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk",
-        "body": "Des manifestations anti-Elon Musk ont eu lieu dans plusieurs villes américaines, avec des centaines de participants protestant contre son implication dans l'administration Trump en tant que chef du Département de l'Efficacité Gouvernementale (DOGE). Le mouvement \"Tesla Takedown\", qui encourage à vendre les actions et les voitures Tesla, a pris de l'ampleur, entraînant des arrestations et des actes de vandalisme. Les manifestants ont critiqué le rôle de Musk dans les licenciements massifs de fonctionnaires et la promotion de la politique de droite. Les ventes de Tesla ont chuté et sa valeur boursière a plongé, tandis que la fortune de Musk a diminué. Musk a accusé des milliardaires de financer les manifestations.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-10-122133.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 10 Jul 2025 11:37:10 GMT"
-    },
-    {
-        "title": "YouTube clarifie ses règles de monétisation concernant les contenus générés par l'IA",
-        "link": "https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam#comments",
-        "body": "YouTube a récemment annoncé une mise à jour de ses directives de monétisation, visant à renforcer les restrictions sur les contenus « inauthentiques ». Cette annonce a suscité des inquiétudes chez les créateurs de contenu en ligne, qui craignaient que la plateforme ne démonétise une plus large gamme de vidéos, y compris celles utilisant des contenus générés par l'IA, des clips et des réactions. En réponse, YouTube a clarifié sa position, affirmant que la mise à jour vise à mieux identifier les contenus massivement produits et répétitifs, tout en soulignant que les contenus « originaux » et « authentiques » ont toujours été une exigence pour la monétisation. La plateforme a également précisé que l'utilisation de l'IA pour améliorer le contenu est toujours éligible à la monétisation, tant que toutes les autres exigences politiques sont respectées. Ces clarifications visent à lutter contre la prolifération de vidéos de faible qualité générées par l'IA sur la plateforme, tout en offrant une guidance plus claire aux créateurs de contenu.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 10 Jul 2025 10:42:25 GMT"
-    },
-    {
-        "title": "L'illusion de l'IA sentiente",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/10/people-astonishingly-believe-that-they-have-brought-ai-to-life-such-as-miraculously-making-chatgpt-sentient/?ss=ai",
-        "body": "Bien que l'IA génère de l'enthousiasme et des attentes, il est important de garder un esprit critique et de ne pas confondre fluidité et intelligence. \n\nRésumé : \n\nMalgré les progrès de l'IA, les affirmations selon lesquelles l'IA a atteint la sentience restent infondées. Les gens confondent souvent la fluidité et l'intelligence de l'IA avec la sentience, en particulier avec les IA génératives et les LLM. Les affirmations de sentience sont souvent le résultat du biais de confirmation, où les gens voient ce qu'ils veulent voir, influencés par les prédictions des experts sur l'AGI et l'ASI imminentes. Le manque de tests concluants pour évaluer la sentience ajoute à la confusion. La sentience est un concept complexe, entouré de questions philosophiques, et notre compréhension de son émergence dans le cerveau humain reste limitée. Les gens peuvent projeter leurs désirs et leurs attentes sur l'IA, cherchant la gloire ou un sens de la connexion. Les experts en IA doivent faire preuve d'empathie et de prudence face à ces affirmations, tout en reconnaissant les pièges mentaux et les problèmes de santé mentale potentiels associés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686da9d4257beef8ccf9e815/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 10 Jul 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA pour les développeurs",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/07/10/google-cloud-creates-3-levels-of-agentic-software-coding/?ss=ai",
-        "body": "Les développeurs disposent désormais d'un nouvel ensemble d'outils d'IA pour améliorer leur codage. Google Cloud est à l'avant-garde de cette évolution avec Firebase Studio, un environnement de développement logiciel basé sur l'IA et le cloud. Firebase Studio, issu de la fusion de Google Project IDX et de Gemini, l'assistant chatbot basé sur l'IA de Google, permet aux développeurs d'utiliser des invites en langage naturel pour accéder à des modèles et des fonctions pour créer des applications, des interfaces utilisateur et des API. Gemini CLI, l'interface en ligne de commande, offre une expérience basée sur l'IA sans quitter la fenêtre de chat. Jeanine Banks de Google Cloud explique que ces outils aident les développeurs à résoudre des problèmes et à exécuter des tâches spécifiques, tout en garantissant que les développeurs restent impliqués dans le processus, en particulier en matière de sécurité et de gestion de projet. Oliver Parker, de Google Cloud, souligne que le plus grand défi de l'IA est l'infrastructure, et c'est pourquoi Google Cloud a créé la plateforme de développement Vertex.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/686f5ec9dbc222bcc7f6de60/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 10 Jul 2025 07:00:00 GMT"
     }
 ]
