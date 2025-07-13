@@ -63,13 +63,6 @@
         "date": "Fri, 11 Jul 2025 20:33:00 GMT"
     },
     {
-        "title": "Le Procès des Chatbots",
-        "link": "https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking#comments",
-        "body": "Le procureur général du Missouri, Andrew Bailey, menace de poursuivre Google, Microsoft, OpenAI et Meta pour pratiques commerciales trompeuses, car leurs chatbots AI ont classé Donald Trump dernier lorsqu'on leur a demandé de classer les cinq derniers présidents du mieux au pire en termes d'antisémitisme. Bailey accuse les chatbots de fournir des réponses trompeuses et subjectives, et exige des informations sur la formation et la modération de ces modèles linguistiques. L'un des chatbots, Copilot de Microsoft, a été faussement accusé, car il a en fait refusé de fournir un classement. Malgré cela, Bailey poursuit son enquête, suggérant que le classement de Trump par les chatbots pourrait constituer une forme de censure et une violation de la loi sur la décence des communications. Cet incident soulève des questions importantes sur la responsabilité légale des chatbots et la subjectivité de leurs réponses.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2186528697.jpg?quality=90&strip=all&crop=0%2C0.0052460392403759%2C100%2C99.989507921519&w=2400",
-        "date": "Thu, 10 Jul 2025 23:48:38 GMT"
-    },
-    {
         "title": "La Grèce se lance dans l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/11/a-greek-specific-llm-kiefer-works-on-domestic-intelligence-platform/?ss=ai",
         "body": "La start-up grecque Kiefer se lance dans le développement d'un modèle LLM spécifiquement pour la Grèce, un pays avec ses propres particularités linguistiques et culturelles. L'objectif est de créer un modèle performant et adapté aux besoins locaux, avec une compréhension approfondie de la langue grecque et du contexte culturel grec. L'équipe de Kiefer, dirigée par Christos, souligne l'importance de la propriété des données et de l'indépendance technologique, tout en reconnaissant les défis liés au traitement d'une grande quantité de données à partir de livres, de PDF et de sources en ligne. Le projet utilise plusieurs modèles, dont DeepSeek, Nemotron et une démo de Google, avec un plan futur de tarification par abonnement. Kiefer collabore également avec Unitree pour le développement de robots humanoïdes, en utilisant l'omniverse Nvidia, et prévoit de construire ses propres centres de données IA avec un refroidissement liquide. L'objectif final est de créer un modèle de langue grecque avancé, intégré aux universités grecques et à d'autres participants, en utilisant une technologie de jeton écologique et une infrastructure durable.",
@@ -96,12 +89,5 @@
         "body": "L'agent washing, une nouvelle forme de tromperie dans le domaine de l'IA, consiste à présenter des outils d'automatisation de base, comme des chatbots ou la RPA, comme des agents IA avancés. Sur des milliers de produits testés, seuls 130 sont de véritables agents IA selon Gartner. Les agents IA sont la prochaine génération d'outils IA, capables de traiter l'information, de générer du contenu et de prendre des actions. Pour être considérés comme agents, les systèmes doivent pouvoir accomplir des tâches complexes et planifier à long terme avec une intervention humaine minimale. La supercherie réside dans le fait que les vendeurs étiquettent leurs produits comme des agents IA alors qu'ils ne disposent pas des capacités requises. Cette pratique est dangereuse car elle peut induire en erreur les entreprises et le public quant aux véritables capacités de l'IA, entraînant une perte de confiance dans l'industrie de l'IA et dans la technologie elle-même. De plus, elle nuit à l'innovation en rendant plus difficile pour les développeurs et les startups travaillant sur de véritables avancées dans le domaine des agents IA d'obtenir le soutien et le financement nécessaires. Pour éviter de tomber dans ce piège, il est essentiel de développer la littératie numérique, à la fois au niveau individuel et organisationnel, afin de pouvoir distinguer les véritables agents IA de l'automatisation simple. Les vendeurs doivent également faire preuve de transparence et d'honnêteté quant aux forces et aux limites de leurs produits.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68702f789d408d6d7713e466/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 11 Jul 2025 05:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : des agents intelligents et polyvalents",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/07/10/what-are-the-7-types-of-ai-agents/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/687051cedf686f67b133bd51/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 11 Jul 2025 00:00:00 GMT"
     }
 ]
