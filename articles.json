@@ -75,5 +75,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67c7847bd2eb4d131cd55bd1/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 13 Jul 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/daveywinder/2025/07/13/from-vibe-coding-to-vibe-hacking---ai-in-a-hoodie/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68738e6ec2c1d03576e0f8be/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 13 Jul 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/martineparis/2025/07/13/amazon-making-40m-movie-about-openai-meltdown-chatgpt-ai-safety/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68732e0c43c24f861354c8e0/0x0.jpg?format=jpg&crop=3000,1687,x0,y93,safe&width=440",
+        "date": "Sun, 13 Jul 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
