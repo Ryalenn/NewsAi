@@ -1,5 +1,33 @@
 [
     {
+        "title": "La sécurité de l'IA",
+        "link": "https://www.forbes.com/sites/noahbarsky/2025/07/14/mcdonalds-123456-password-scare-reframes-responsible-ai-debate/?ss=ai",
+        "body": "Un défaut de sécurité sur la plateforme McHire a compromis les données de 64 millions de candidats. Cet article met de côté la rhétorique de l'IA, les discours alarmistes des consultants et le charabia technologique, et se concentre sur les facteurs clés de succès de l'IA : les incitations, l'incompétence et l'indifférence. Il illustre ces points par l'exemple de McDonald's, dont la plateforme de recrutement a été accessible en utilisant « 123456 » comme nom d'utilisateur et mot de passe, exposant les données personnelles de millions de candidats. Cet incident soulève des questions importantes sur la gouvernance technologique et la responsabilité de l'IA, en particulier dans le contexte de partenariats avec des startups axées sur la croissance et la rentabilité. L'article souligne l'importance d'évaluer les incitations et les compétences des partenaires, ainsi que d'aborder l'indifférence à l'égard de la sécurité de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687257fcad878b2ff03f0179/0x0.jpg?format=jpg&crop=1524,857,x0,y310,safe&width=440",
+        "date": "Mon, 14 Jul 2025 12:30:00 GMT"
+    },
+    {
+        "title": "L'illusion de l'agentic AI",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/07/14/agentic-ai-is-the-new-vaporware/?ss=ai",
+        "body": "L'article remet en question le terme « agentic AI », qui est selon l'auteur un simple mot à la mode utilisé pour décrire des ambitions lointaines en matière d'IA, sans faire référence à des avancées techniques spécifiques pour les réaliser. Bien que l'autonomie accrue soit un objectif louable, l'auteur soutient que le terme « agentic » ne décrit aucune méthodologie technique novatrice et exagère les attentes, ce qui pourrait conduire à une désillusion coûteuse. L'auteur souligne que l'objectif ultime de l'automatisation totale est un objectif évident et de longue date, et que la popularité du terme « agentic AI » ne fait qu'institutionnaliser cette idée, suggérant à tort des progrès révolutionnaires. Bien que les capacités de l'IA générative soient impressionnantes, l'auteur suggère que la limite de l'automatisation du travail humain ne bougera que très lentement. L'article met en garde contre la vente et l'achat de l'idée d'une IA « agentic », la qualifiant de mot creux qui, dans la plupart des cas, en promet trop.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687410c7baa31d8a44903ba0/0x0.png?format=png&crop=1280,720,x0,y0,safe&width=440",
+        "date": "Mon, 14 Jul 2025 12:14:00 GMT"
+    },
+    {
+        "title": "Révolution de la formation en réalité virtuelle",
+        "link": "https://www.forbes.com/sites/cortneyharding/2025/07/14/how-ai-virtual-reality-gaming-is-solving-the-factory-worker-shortage/?ss=ai",
+        "body": "La pénurie de main-d'œuvre dans les usines aux États-Unis est un problème critique, exacerbé par le manque de travailleurs qualifiés et la tendance à encourager les étudiants à poursuivre des études universitaires plutôt que des formations professionnelles. Pour y remédier, deux technologies émergentes, la réalité virtuelle (RV) et l'intelligence artificielle (IA), peuvent jouer un rôle crucial. La formation en RV s'est avérée efficace pour former rapidement les travailleurs et améliorer leurs compétences, tout en étant particulièrement attrayante pour les jeunes générations habituées aux contenus interactifs et aux jeux vidéo. De plus, la RV permet une formation à distance et à grande échelle, tout en offrant un environnement sûr pour apprendre et faire des erreurs sans conséquences réelles. L'IA, quant à elle, rend la création de programmes de formation en RV plus accessible et économique. Ensemble, la RV et l'IA peuvent révolutionner la formation professionnelle et contribuer à la revitalisation des communautés en favorisant l'accès à des emplois manufacturiers de qualité.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68727249bd0d4d9c3da2dedf/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Jul 2025 11:59:00 GMT"
+    },
+    {
+        "title": "L'avenir de la musique est-il l'IA ?",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/07/14/is-that-even-a-real-band-how-ai-created-a-viral-music-sensation/?ss=ai",
+        "body": "La controverse autour de Velvet Sundown pourrait être un tournant pour la musique générée par l'IA. L'article explore les implications de l'utilisation de l'IA dans l'industrie musicale, en comparant la situation actuelle au scandale Milli Vanilli de 1989. Il soulève des questions sur l'authenticité et l'impact émotionnel de la musique générée par l'IA, et examine comment l'IA pourrait influencer l'avenir de l'industrie musicale et des relations humaines.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6874633d165d57ae95d073dd/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Jul 2025 11:00:00 GMT"
+    },
+    {
         "title": "La tension monte entre Microsoft et OpenAI",
         "link": "https://www.theverge.com/notepad-microsoft-newsletter/702848/openai-open-language-model-o3-mini-notepad",
         "body": "Le partenariat complexe entre Microsoft et OpenAI est sur le point de prendre un tournant intéressant. Alors que les deux entités renégocient un contrat pour permettre à OpenAI de devenir une entreprise à but lucratif, OpenAI s'apprête à lancer un modèle linguistique open source qui pourrait creuser un fossé entre elles. Ce modèle, similaire à o3 mini, sera disponible sur Azure, Hugging Face et d'autres plateformes cloud, permettant aux entreprises et aux gouvernements de l'exécuter eux-mêmes. Cela pourrait avoir un impact sur les activités d'IA de Microsoft, car certains clients Azure pourraient ne plus avoir besoin d'options plus coûteuses ou même migrer vers des fournisseurs de cloud concurrents. De plus, la relation de partage des revenus entre Microsoft et OpenAI ajoute une couche de complexité à leur dynamique. Malgré tout, la date de sortie du modèle open source d'OpenAI est incertaine, car les dates de sortie d'OpenAI ont tendance à changer en fonction des défis de développement, de la capacité du serveur et même des fuites.",
