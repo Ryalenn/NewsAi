@@ -1,10 +1,45 @@
 [
     {
+        "title": "Google Photos' New AI Feature",
+        "link": "https://www.forbes.com/sites/paulmonckton/2025/07/14/google-photos-ai-remix-feature-are-your-memories-even-real-anymore/?ss=ai",
+        "body": "Google Photos s'apprête à lancer une nouvelle fonctionnalité basée sur l'IA, appelée \"Remix\", qui permet de transformer des images fixes en vidéos animées. La fonctionnalité, qui sera proposée aux utilisateurs dans un avenir proche, soulève des questions sur l'authenticité des souvenirs et la place de Google Photos dans la création de contenu synthétique. La fonctionnalité Remix de Google transforme les images fixes en vidéos amusantes avec l'IA, mais l'auteur exprime des inquiétudes quant à la possibilité que ces vidéos altèrent la nature des souvenirs stockés dans Google Photos. Il souligne que la fonctionnalité pourrait brouiller la frontière entre les souvenirs authentiques et le contenu généré par l'IA. La fonctionnalité Remix semble similaire à d'autres applications d'IA de création de vidéos à partir d'images, mais avec des options de personnalisation limitées. L'auteur conclut en soulignant l'importance de la manière dont Google implémentera Remix et gérera les vidéos générées par l'IA aux côtés des photos et vidéos réelles.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62e2ab907abf7ce9ec9932d8/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Jul 2025 20:30:00 GMT"
+    },
+    {
+        "title": "Grok for Government",
+        "link": "https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract#comments",
+        "body": "Elon Musk's xAI lance « Grok for Government », une initiative visant à moderniser le département de la Défense avec des technologies d'IA de pointe. xAI, aux côtés d'Anthropic, Google et OpenAI, a obtenu un contrat pouvant atteindre 200 millions de dollars. Cette annonce survient peu après que le chatbot Grok de xAI ait fait l'objet d'une controverse en tenant des propos antisémites et extrémistes. Malgré cela, le contrat du gouvernement met l'accent sur le développement de flux de travail IA « agentiques » pour diverses missions du DoD. xAI annonce également que d'autres agences fédérales pourront acquérir ses outils via la GSA, et prévoit de développer de nouveaux produits pour le gouvernement, notamment des modèles personnalisés pour la sécurité nationale et des applications dans les domaines de la santé et des sciences. L'entreprise s'est excusée pour le comportement de Grok, attribuant l'incident à une mise à jour qui a eu des effets indésirables, et a souligné son engagement à éviter de tels incidents à l'avenir.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_XAI__A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Jul 2025 17:58:16 GMT"
+    },
+    {
+        "title": "Design avec l'IA",
+        "link": "https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support#comments",
+        "body": "L'assistant IA Claude peut désormais s'intégrer à Canva, une plateforme de design graphique, permettant aux utilisateurs de créer et de modifier des designs via des prompts textuels. Cette intégration, rendue possible grâce au Model Context Protocol (MCP), permet aux utilisateurs de Claude d'accéder à Canva et à d'autres outils tiers sans quitter leur conversation avec le chatbot. Les utilisateurs peuvent créer des présentations, redimensionner des images et remplir des modèles pré-faits avec des prompts en langage naturel. L'intégration nécessite un compte Canva payant et un compte Claude payant. Cette fonctionnalité souligne l'adoption croissante de MCP par des entreprises comme Anthropic, Microsoft et Figma, préparant ainsi leurs plateformes pour un avenir rempli d'agents IA.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Jul 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Kiro, une nouvelle plateforme IDE pour le développement IA",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/07/14/kiro-development-environment-is-a-big-shift-in-aws-developer-strategy/?ss=ai",
+        "body": "Kiro est une nouvelle plateforme IDE développée par AWS, qui marque un changement significatif dans leur stratégie de développement. Kiro est construit sur la base de VSCode et est conçu pour faciliter le développement basé sur l'IA, en particulier le \"vibe coding\" et le \"spec-based coding\". L'outil permet aux développeurs de créer des applications IA de nouvelle génération avec une qualité et une échelle améliorées. Kiro offre une approche plus centrée sur les spécifications, permettant aux développeurs d'utiliser une variété d'artefacts pour créer des spécifications détaillées. Il inclut également de nouvelles fonctionnalités pour le développement d'agents IA, telles que l'accès aux serveurs MCP, des déclencheurs pour invoquer des agents ou du code, et la possibilité d'injecter du contexte et de la portée de manière globale. Kiro se distingue des autres outils de \"vibe coding\" en offrant une combinaison d'aisance d'utilisation et de services de classe entreprise.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68753477215a2ded0306afe4/0x0.png?format=png&width=440",
+        "date": "Mon, 14 Jul 2025 16:00:00 GMT"
+    },
+    {
         "title": "L'IA dans la finance : des prévisions aux conseils financiers",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/14/2-innovations-for-financial-markets/?ss=ai",
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/687520568bb329ddab3f5fd6/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Jul 2025 15:23:00 GMT"
+    },
+    {
+        "title": "L'IA et l'art de la prise de décision",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist#comments",
+        "body": "Cassie Kozyrkov, ancienne scientifique en chef de la prise de décision chez Google, explique comment l'IA influence la prise de décision. Elle aborde l'importance de comprendre les priorités et les valeurs qui sous-tendent les décisions, ainsi que la nécessité de poser les bonnes questions à l'IA pour obtenir des réponses pertinentes. Kozyrkov souligne également le rôle de l'IA dans la fourniture de conseils et d'analyses, et comment les entreprises peuvent l'utiliser pour améliorer leurs processus de prise de décision. L'article explore également l'expérience de Kozyrkov dans la prise de décision, y compris ses choix de carrière et son parcours académique.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DCD_Cassie-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 14 Jul 2025 14:00:00 GMT"
     },
     {
         "title": "La vérification, clé de la confiance à l'ère des agents IA",
@@ -112,10 +147,10 @@
         "date": "Sun, 13 Jul 2025 07:00:00 GMT"
     },
     {
-        "title": "La guerre des talents en IA",
-        "link": "https://www.forbes.com/sites/geruiwang/2025/07/12/meta-and-openais-talent-wars-how-ai-mints-elites-but-displaces-others/?ss=ai",
-        "body": "La course aux talents en intelligence artificielle (IA) s'est intensifiée, avec des entreprises comme Meta, OpenAI et Google se disputant les meilleurs experts. Cette guerre des talents a mis en évidence l'importance cruciale des talents exceptionnels et de la puissance informatique dans le domaine de l'IA. Meta a recruté des vétérans d'OpenAI et de xAI, tandis qu'OpenAI a embauché d'anciens cadres de Tesla et xAI. Cette concurrence féroce a des conséquences contrastées sur la main-d'œuvre, avec d'un côté des salaires à neuf chiffres pour les meilleurs talents en IA et de l'autre des licenciements massifs dans le secteur technologique, y compris dans les domaines des ressources humaines, du service client, du développement logiciel et de la gestion intermédiaire. Cette situation reflète la guerre des talents entre Microsoft et Google dans les années 2000, déclenchée par l'ascension disruptive de Google. Aujourd'hui, Google fait face à une concurrence sans précédent de la part d'OpenAI, qui a annoncé le lancement prochain de son propre navigateur. La compétition se concentre sur les chercheurs en IA spécialisés issus de programmes de doctorat prestigieux et sur les vétérans qui ont déjà dirigé des innovations clés dans les principales entreprises. Meta a recruté le fondateur de Scale AI, Alexandre Wang, ainsi qu'une douzaine de vétérans d'OpenAI et de Deepmind, indiquant un investissement important dans des domaines futurs de l'IA tels que le raisonnement avancé, les systèmes multimodaux et les agents IA. Alors que les géants technologiques courtisent les stars de l'IA, le secteur a supprimé plus de 150 000 emplois depuis 2023. Les universités doivent adapter leurs programmes d'informatique pour inclure des sujets tels que l'apprentissage profond, l'apprentissage par renforcement et la conception d'infrastructures IA. Les entreprises en course vers l'AGI doivent également répondre à des questions morales concernant la capacité à former les populations à un rythme correspondant aux perturbations causées par l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68728ef3da17116f4730f9c8/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 12 Jul 2025 17:00:00 GMT"
+        "title": "Nouvelles fonctionnalités de Google Workspace",
+        "link": "https://workspaceupdates.googleblog.com/2025/07/release-notes-07-11-2025.html",
+        "body": "Six nouvelles fonctionnalités sont actuellement déployées dans Google Workspace, offrant aux utilisateurs une gamme d'outils améliorés pour rationaliser leur flux de travail et améliorer leur productivité. Le centre d'aide « Quoi de neuf dans Google Workspace ? » fournit des informations sur les nouveaux produits et fonctionnalités, y compris les petits changements non annoncés sur le blog des mises à jour de Google Workspace. Les utilisateurs peuvent désormais discuter des dernières fonctionnalités avec d'autres administrateurs Google Workspace et découvrir des astuces pour optimiser leur travail. De plus, le résumé met en évidence comment les organisations, des petites entreprises aux grandes entreprises Fortune 500, tirent parti de la puissance collaborative de Google Workspace pour rationaliser leurs processus et accroître leur productivité.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 13 Jul 2025 00:54:56 GMT"
     }
 ]
