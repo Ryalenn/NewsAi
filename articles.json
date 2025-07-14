@@ -82,5 +82,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6874a745389a852d6a586953/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 14 Jul 2025 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/noahbarsky/2025/07/14/mcdonalds-123456-password-scare-reframes-responsible-ai-debate/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687257fcad878b2ff03f0179/0x0.jpg?format=jpg&crop=1524,857,x0,y310,safe&width=440",
+        "date": "Mon, 14 Jul 2025 12:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ericsiegel/2025/07/14/agentic-ai-is-the-new-vaporware/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687410c7baa31d8a44903ba0/0x0.png?format=png&crop=1280,720,x0,y0,safe&width=440",
+        "date": "Mon, 14 Jul 2025 12:14:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/cortneyharding/2025/07/14/how-ai-virtual-reality-gaming-is-solving-the-factory-worker-shortage/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68727249bd0d4d9c3da2dedf/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Jul 2025 11:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/07/14/is-that-even-a-real-band-how-ai-created-a-viral-music-sensation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6874633d165d57ae95d073dd/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 14 Jul 2025 11:00:00 GMT",
+        "check": "no"
     }
 ]
