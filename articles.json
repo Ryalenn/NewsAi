@@ -229,5 +229,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68767c9ba1354fad55deea74/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Jul 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulbaier/2025/07/15/will-45-of-work-at-moderna-be-completed-by-ai-by-2030-yes/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6876f03231073184f730d599/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Jul 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/07/15/ai-for-private-equity---the-future-of-b2b-distribution/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6876d6a7a5c6ad3a65af59e4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Jul 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johanmoreno/2025/07/15/meta-cracks-down-on-ai-generated-facebook-spam/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6876ca25a68fd983d4bf3811/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 15 Jul 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
