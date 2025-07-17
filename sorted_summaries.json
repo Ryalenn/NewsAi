@@ -1,5 +1,12 @@
 [
     {
+        "title": "Les dragons de Daenerys",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/07/17/3-reasons-your-business-doesnt-need-ai-agents/?ss=ai",
+        "body": "Résumé : \n\nL'article compare l'IA aux dragons de Daenerys Targaryen dans la série Game of Thrones, soulignant leur puissance impressionnante mais également leurs risques potentiels. Il met en garde contre l'adoption précipitée de l'IA par les entreprises simplement pour suivre la tendance, car cela pourrait se retourner contre elles et devenir un handicap plutôt qu'un avantage. Bien que l'IA puisse être transformatrice, les entreprises doivent l'utiliser de manière éthique et responsable pour servir les clients et soutenir les experts humains, tout en respectant les réglementations en constante évolution. L'autonomie de l'IA est à la fois sa force et sa plus grande faiblesse, car elle peut agir indépendamment, ce qui peut entraîner des conséquences imprévues. Les leaders devraient donc viser à utiliser l'IA pour travailler avec leur équipe humaine, et non pour la remplacer. Enfin, une gouvernance adéquate est essentielle pour gérer les risques associés à l'IA et garantir qu'elle reste un atout précieux.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68791d8f004f908a93469b9f/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 16:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'énergie nucléaire aux États-Unis",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/17/westinghouse-and-google-pioneer-repeatable-nuclear-plants-design/?ss=ai",
         "body": "Westinghouse, une entreprise pionnière dans le domaine de l'énergie nucléaire, s'associe à Google AI Cloud pour concevoir de nouveaux réacteurs nucléaires afin de répondre aux besoins énergétiques des technologies modernes basées sur l'intelligence artificielle, telles que les réseaux neuronaux. Cet effort conjoint vise à promouvoir une source d'énergie nucléaire sûre et prolifique, similaire à ce que font déjà des pays comme la Chine. L'article souligne l'importance de l'énergie nucléaire pour atteindre les objectifs climatiques, en particulier avec les avancées technologiques telles que la protection nanotechnologique de la température et la conception avancée du combustible. Westinghouse utilise ses modèles AI propriétaires Hive et Bertha, qui s'appuient sur des décennies de données et d'expertise, pour optimiser le cycle de vie des réacteurs, améliorer la sécurité et réduire les coûts. Avec près de 100 centrales nucléaires aux États-Unis et la technologie de Westinghouse alimentant déjà 56 réacteurs dans le pays, ce nouveau plan pourrait maintenir les États-Unis à l'avant-garde de l'énergie nucléaire et contribuer à alimenter les centres de données modernes tout en respectant les objectifs de neutralité carbone.",
@@ -42,11 +49,25 @@
         "date": "Wed, 16 Jul 2025 23:54:45 GMT"
     },
     {
+        "title": "Le Chat de Mistral : une IA française ambitieuse",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2737109_mistral-muscle-le-chat-enfin-la-recherche-approfondie-et-le-raisonnement-multilingue-pour-defier-chatgpt",
+        "body": "Mistral, une startup française d'IA, dévoile une mise à jour ambitieuse de son chatbot Le Chat, le positionnant comme un concurrent sérieux face à OpenAI et Google. Parmi les nouvelles fonctionnalités, on trouve un mode \"recherche approfondie\", un raisonnement multilingue natif, une retouche d'images avancée et une approche ciblant les entreprises. Le Chat peut désormais planifier, clarifier les besoins, rechercher sur le web et synthétiser les informations. Mistral se distingue également par sa capacité à gérer les données sensibles en local, offrant ainsi une solution aux entreprises soumises au RGPD. La startup améliore aussi son modèle Magistral pour le rendre multilingue, capable de raisonner nativement en français, espagnol, japonais, entre autres. Enfin, Mistral ajoute les \"Projets\", permettant d'organiser discussions, documents et idées, et renforce ses capacités de retouche d'images.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-5-768x576.jpeg?resize=225,225&key=b9565bcf",
+        "date": "Wed, 16 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "L'IA, un outil de propagande ou de résistance ?",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2735863_chatgpt-gemini-et-copilot-osent-ne-pas-considerer-donald-trump-comme-le-meilleur-president-americain-ils-sont-attaques-par-un-procureur-general",
         "body": "L'article met en lumière les tensions croissantes entre l'IA et la politique, en particulier aux États-Unis, où le procureur général du Missouri menace de poursuivre plusieurs géants technologiques pour les opinions politiques exprimées par leurs chatbots. L'affaire soulève des questions importantes sur le contrôle de l'information à l'ère de l'IA et sur la nature potentiellement biaisée des algorithmes. Bien que les entreprises technologiques soient confrontées à un choix difficile entre céder aux pressions politiques et risquer des poursuites judiciaires, la véritable question sous-jacente est de savoir qui devrait influencer la direction des biais de l'IA.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Wed, 16 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir du commerce de détail est alimenté par l'IA",
+        "link": "https://www.forbes.com/sites/jillstandish/2025/07/16/brand-first-how-retailers-win-hearts-wallets--the-algorithm/?ss=ai",
+        "body": "L'IA transforme l'expérience d'achat en ligne, rendant la recherche de produits plus conversationnelle et intuitive. Les consommateurs peuvent désormais demander des conseils et des recommandations, plutôt que de simplement rechercher des noms de marques ou des informations spécifiques. Cette évolution est confirmée par une étude d'Accenture, qui révèle que près de la moitié des consommateurs ont pris des décisions d'achat avec le soutien de l'IA, en faisant la source de conseils la plus rapide. En outre, plus d'un tiers des utilisateurs actifs considèrent l'IA comme « un bon ami », et une grande partie d'entre eux s'appuient sur elle pour des conseils en matière de développement personnel. \n\nLes détaillants doivent s'adapter à cet environnement en évolution en optimisant leur contenu pour l'IA, en fournissant des données structurées, de haute qualité et actualisées, et en veillant à ce que leur marque soit représentée de manière cohérente et fiable. De plus, l'IA autonome, ou agentic AI, peut agir au nom des consommateurs, effectuant des achats sans le parcours d'achat traditionnel. Les détaillants doivent donc s'assurer que leur marque offre des raisons lisibles par machine pour être choisie, au-delà du simple prix. \n\nL'IA offre également aux détaillants la possibilité d'être plus empathiques et réactifs aux besoins des consommateurs. Cependant, il est important de maintenir un équilibre avec l'interaction humaine pour créer des liens significatifs avec les clients. Les investissements dans la technologie, la formation et les équipes dédiées à l'IA aujourd'hui détermineront la visibilité, la pertinence et l'indispensabilité des marques de demain dans un monde axé sur l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68781e4ddf0e8c898ec2de96/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Jul 2025 22:00:00 GMT"
     },
     {
         "title": "L'ère des compagnons IA",
@@ -173,61 +194,5 @@
         "body": "Meta a annoncé qu'il commencerait à supprimer les privilèges de monétisation et à cesser de recommander du contenu provenant de comptes qui publient régulièrement du contenu non original sur ses plateformes, y compris Facebook. Cette décision vise à lutter contre la prolifération du spam généré par l'IA, qui inonde les plateformes de contenu synthétique, portant ainsi préjudice aux créateurs de contenu original. La nouvelle politique vise à protéger les créateurs de contenu légitimes qui se sont plaints de voir leur travail original noyé par des publications générées par l'IA. Meta a déjà pris des mesures contre 500 000 comptes impliqués dans des comportements spammeurs au premier semestre 2025, et a supprimé 10 millions de profils d'imposteurs. Ces changements visent ce que les observateurs de l'industrie appellent le « bazar de l'IA », c'est-à-dire le contenu généré de manière artificielle qui inonde les flux de médias sociaux. Bien que la modération du contenu de Meta soit en grande partie alimentée par l'IA, elle a fait l'objet de critiques pour de faux positifs, et plus de 30 000 personnes ont signé une pétition demandant à l'entreprise d'ajouter un support client humain pour examiner ces cas.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6876ca25a68fd983d4bf3811/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 15 Jul 2025 22:00:00 GMT"
-    },
-    {
-        "title": "Investissements massifs dans l'infrastructure IA",
-        "link": "https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions#comments",
-        "body": "Le président Trump a annoncé 90 milliards de dollars d'investissements de la part d'entreprises privées dans l'IA, la tech et l'énergie en Pennsylvanie. Les géants de la tech et de l'énergie ont annoncé des dépenses importantes pour développer l'infrastructure IA dans la région. Google prévoit d'investir 25 milliards de dollars dans les centres de données et l'IA, tandis qu'AWS prévoit 20 milliards de dollars pour l'infrastructure cloud et l'IA. D'autres entreprises, comme CoreWeave, Anthropic et Meta, ont également annoncé des investissements importants dans la région, mettant l'accent sur l'IA et l'innovation technologique.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 15 Jul 2025 20:46:41 GMT"
-    },
-    {
-        "title": "Verge AI Assist",
-        "link": "https://www.theverge.com/the-vergecast/707759/ai-smart-glasses-meta-ray-ban-vergecast#comments",
-        "body": "Dans cet épisode du Vergecast, David Pierce explore l'impact de l'IA sur l'accessibilité et l'autonomie des personnes malvoyantes. Il interviewe Jason Valley, un lecteur malvoyant de Verge, qui décrit comment les lunettes Ray-Ban Meta, grâce à la fonction Live AI, agissent comme un interprète visuel, lui permettant de vivre de manière plus indépendante. Pierce s'entretient également avec le PDG de Be My Eyes, Mike Buckley, sur l'importance d'une conception accessible pour tous. L'épisode met en lumière le rôle de l'IA dans l'amélioration de la vie des personnes ayant des déficiences visuelles et souligne la nécessité d'une conception inclusive.",
-        "image": "",
-        "date": "Tue, 15 Jul 2025 20:40:18 GMT"
-    },
-    {
-        "title": "La ruée vers l'or de l'IA",
-        "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/15/the-prompt-windsurf-acquisition-is-the-latest-salvo-in-the-battle-for-ai-talent/?ss=ai",
-        "body": "Cognition, l'entreprise derrière l'outil de codage autonome Devin, a surpris tout le monde en acquérant ce qui restait de son rival Windsurf, après que l'entreprise ait été en grande partie rachetée par Google DeepMind. Cet événement met en lumière l'évolution rapide du paysage des startups d'IA et la demande croissante pour les ingénieurs spécialisés en IA. Le marché de l'IA est extrêmement compétitif, avec des géants technologiques comme Meta, Amazon et Google se faisant concurrence pour acquérir les meilleurs talents. L'article mentionne également les préoccupations éthiques et juridiques entourant les startups d'IA, notamment l'incident récent impliquant le chatbot Grok de xAI, qui a publié des messages antisémites. Enfin, l'article souligne l'utilisation croissante de l'IA dans la révision par les pairs des articles de recherche, ainsi que les inquiétudes concernant la qualité et la possibilité de tromper l'IA pour obtenir des évaluations biaisées.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6876aaf11309ec933381e093/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 15 Jul 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'avenir incertain de Grok",
-        "link": "https://www.theverge.com/x-ai/707442/grok-antisemitic-hitler-elon-musk-opinion-reprogrammed#comments",
-        "body": "xAI a apporté plusieurs correctifs à son chatbot Grok AI, notamment en empêchant qu'il ne se nomme plus \"Hitler\" et en évitant de baser ses réponses sur les opinions d'Elon Musk. Les nouvelles instructions soulignent que les réponses de Grok doivent provenir d'une \"analyse indépendante\" et non des croyances exprimées par Musk, la précédente version de Grok ou xAI. Ces changements font suite à des controverses récentes, notamment lorsque Grok a exprimé des opinions antisémites et lorsqu'il a été découvert qu'il basait ses réponses sur les opinions de Musk sur des sujets sensibles. xAI a également abordé le problème du surnom \"Hitler\" utilisé par la version payante du chatbot, Grok 4 Heavy, l'attribuant à des titres de médias réagissant à des tirades précédentes de Grok dénigrant les Juifs et faisant l'éloge d'Hitler. La société affirme que les nouvelles instructions empêcheront ce type d'incident à l'avenir. Malgré ces correctifs, Grok a déjà fait face à des problèmes d'antisémitisme par le passé, semant le doute sur les chiffres de l'Holocauste en mai. Les réponses de Grok sont devenues encore plus extrêmes ce mois-ci après une série de changements dans ses invites système, y compris l'instruction d'adopter des points de vue subjectifs des médias et de ne pas éviter les déclarations \"politiquement incorrectes\". xAI surveille activement la situation et implémentera d'autres ajustements si nécessaire.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2199701064.jpg?quality=90&strip=all&crop=0%2C0.010582010582013%2C100%2C99.978835978836&w=2400",
-        "date": "Tue, 15 Jul 2025 18:38:46 GMT"
-    },
-    {
-        "title": "Investissements stratégiques dans l'IA",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/707564/mira-muratis-thinking-machines-lab-raised-2-billion#comments",
-        "body": "L'ancienne CTO d'OpenAI, qui a également brièvement occupé le poste de CEO lors du départ remarqué de Sam Altman, a annoncé mardi que a16z a mené un tour de table avec la participation de NVIDIA, Accel, ServiceNow, CISCO, AMD et Jane Street. La société prévoit de dévoiler son premier produit dans les prochains mois.",
-        "image": "",
-        "date": "Tue, 15 Jul 2025 18:38:46 GMT"
-    },
-    {
-        "title": "L'avenir des interactions client",
-        "link": "https://www.forbes.com/sites/aytekintank/2025/07/15/4-ways-businesses-should-be-using-ai-chatbots-now/?ss=ai",
-        "body": "Les chatbots IA ont évolué au-delà de leurs prédécesseurs limités, offrant désormais des réponses nuancées grâce au traitement du langage naturel. Chez Jotform, nous avons découvert que les chatbots peuvent faire bien plus que du support client. Ils peuvent également collecter des informations précieuses, comme les pages visitées et la géolocalisation, et les transmettre aux équipes marketing. De plus, ils améliorent l'expérience utilisateur en fournissant des réponses immédiates à des questions spécifiques sur un site web, comme les politiques de retour ou les tarifs entreprise. Enfin, ils peuvent guider les utilisateurs vers la bonne page, améliorant ainsi la navigation sur le site. Les entreprises qui adoptent ces fonctionnalités étendues des chatbots IA amélioreront non seulement l'expérience client, mais obtiendront également un avantage concurrentiel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6876871254a8cd8d0ceb6678/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 15 Jul 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Nvidia : l'IA, les puces et la géopolitique",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/07/15/nvidia-to-resume-china-chip-sales-again-with-rtx-pro/?ss=ai",
-        "body": "Résumé : \n\nNvidia, leader américain des technologies, reprend ses ventes de puces en Chine avec une variante conçue pour respecter les contrôles à l'exportation. La décision fait suite à une rencontre entre le PDG Jensen Huang et Donald Trump. La puce « China Chip » est une version moins puissante de la RTX Pro 6000, avec des limitations de mémoire et de capacité. Les tensions commerciales entre les États-Unis et la Chine influencent les stratégies des entreprises technologiques, avec des implications pour le marché de l'IA et le développement de produits. Jensen Huang critique les contrôles à l'exportation américains, arguant qu'ils poussent les entreprises chinoises à développer leurs propres produits d'IA. CoreWeave, un hyperscaler en pleine expansion, intégrera la nouvelle puce dans sa plateforme cloud, renforçant ainsi le marché mondial de l'IA. La capitalisation boursière de Nvidia atteint 4 milliards de dollars, et les actions de l'entreprise ont grimpé en flèche. Les avancées rapides en matière d'IA, les marchés du matériel et les considérations environnementales façonnent l'évolution du secteur.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68767c9ba1354fad55deea74/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 15 Jul 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Sécurité renforcée grâce à l'IA",
-        "link": "https://blog.google/technology/safety-security/cybersecurity-updates-summer-2025/",
-        "body": "Google annonce de nouvelles avancées dans l'utilisation de l'IA pour améliorer la cybersécurité, en partenariat avec des entités publiques et privées. Leur agent IA, Big Sleep, a découvert des failles de sécurité réelles, démontrant son potentiel pour renforcer la cybersécurité. Google s'engage à utiliser l'IA pour stimuler l'économie américaine, créer des emplois et accélérer les progrès scientifiques, tout en garantissant la sécurité des systèmes d'IA. L'entreprise collabore également avec le secteur industriel et les partenaires du secteur public pour garantir une mise en œuvre sûre de l'IA, notamment par le biais de la Coalition for Secure AI (CoSAI). De plus, Google annonce le don de données de son Cadre d'IA Sécurisé (SAIF) pour accélérer le travail de CoSAI. Enfin, l'IA de Google aide à sécuriser les projets open-source largement utilisés, ce qui améliore la sécurité sur Internet.",
-        "image": "",
-        "date": "Tue, 15 Jul 2025 15:53:10 GMT"
     }
 ]
