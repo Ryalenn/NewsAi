@@ -140,14 +140,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT, Gemini et Copilot osent ne pas considérer Donald Trump comme le meilleur président américain : ils sont attaqués par un procureur général",
+        "title": "ChatGPT, Gemini et Copilot osent ne pas consid\u00e9rer Donald Trump comme le meilleur pr\u00e9sident am\u00e9ricain : ils sont attaqu\u00e9s par un procureur g\u00e9n\u00e9ral",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2735863_chatgpt-gemini-et-copilot-osent-ne-pas-considerer-donald-trump-comme-le-meilleur-president-americain-ils-sont-attaques-par-un-procureur-general",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Wed, 16 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "WeTransfer fait marche arrière : vos fichiers n’entraîneront pas l’IA",
+        "title": "WeTransfer fait marche arri\u00e8re : vos fichiers n\u2019entra\u00eeneront pas l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/securite-applications/2734113_wetransfer-fait-marche-arriere-vos-fichiers-nentraineront-pas-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/wetransfer-300x300.jpg?key=00323905",
         "date": "Tue, 15 Jul 2025 23:00:00 GMT",
@@ -194,5 +194,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6878904df1d099315b6cd970/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 17 Jul 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Mistral muscle Le Chat : enfin la recherche approfondie et le raisonnement multilingue pour d\u00e9fier ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2737109_mistral-muscle-le-chat-enfin-la-recherche-approfondie-et-le-raisonnement-multilingue-pour-defier-chatgpt",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-5-768x576.jpeg?resize=225,225&key=b9565bcf",
+        "date": "Wed, 16 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.bloomberg.com/news/articles/2025-07-16/amazon-s-emissions-climbed-6-in-2024-on-data-center-buildout",
+        "image": "",
+        "date": "Thu, 17 Jul 2025 18:57:48 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DCD_Aravind.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 17 Jul 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Generate-Sound-Effects.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Thu, 17 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/07/17/3-reasons-your-business-doesnt-need-ai-agents/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68791d8f004f908a93469b9f/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jillstandish/2025/07/16/brand-first-how-retailers-win-hearts-wallets--the-algorithm/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68781e4ddf0e8c898ec2de96/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 16 Jul 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
