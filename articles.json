@@ -196,14 +196,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT, Gemini et Copilot osent ne pas considérer Donald Trump comme le meilleur président américain : ils sont attaqués par un procureur général",
+        "title": "ChatGPT, Gemini et Copilot osent ne pas consid\u00e9rer Donald Trump comme le meilleur pr\u00e9sident am\u00e9ricain : ils sont attaqu\u00e9s par un procureur g\u00e9n\u00e9ral",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2735863_chatgpt-gemini-et-copilot-osent-ne-pas-considerer-donald-trump-comme-le-meilleur-president-americain-ils-sont-attaques-par-un-procureur-general",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Wed, 16 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "WeTransfer fait marche arrière : vos fichiers n’entraîneront pas l’IA",
+        "title": "WeTransfer fait marche arri\u00e8re : vos fichiers n\u2019entra\u00eeneront pas l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/securite-applications/2734113_wetransfer-fait-marche-arriere-vos-fichiers-nentraineront-pas-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/wetransfer-300x300.jpg?key=00323905",
         "date": "Tue, 15 Jul 2025 23:00:00 GMT",
@@ -222,5 +222,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6878e393f7dbc38fdb36bcdf/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 17 Jul 2025 12:49:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Slack-explain-this-message-ai.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 17 Jul 2025 12:00:34 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Screenshot-2025-07-16-at-3.27.09%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C17.217630853994%2C100%2C65.564738292011&w=2400",
+        "date": "Wed, 16 Jul 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/17/westinghouse-and-google-pioneer-repeatable-nuclear-plants-design/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6879015a20b133f060cc788e/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/marksparrow/2025/07/17/adobe-announces-ai-partnership-for--commercially-safe-ai-generated-video-with-moonvalley/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6878904df1d099315b6cd970/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 13:00:00 GMT",
+        "check": "no"
     }
 ]
