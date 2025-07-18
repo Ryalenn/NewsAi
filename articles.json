@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT, Gemini et Copilot osent ne pas considérer Donald Trump comme le meilleur président américain : ils sont attaqués par un procureur général",
+        "title": "ChatGPT, Gemini et Copilot osent ne pas consid\u00e9rer Donald Trump comme le meilleur pr\u00e9sident am\u00e9ricain : ils sont attaqu\u00e9s par un procureur g\u00e9n\u00e9ral",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2735863_chatgpt-gemini-et-copilot-osent-ne-pas-considerer-donald-trump-comme-le-meilleur-president-americain-ils-sont-attaques-par-un-procureur-general",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/donald-trump-1-768x486.jpg?resize=190,190&key=2d231730",
         "date": "Wed, 16 Jul 2025 23:00:00 GMT",
@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Mistral muscle Le Chat : enfin la recherche approfondie et le raisonnement multilingue pour défier ChatGPT",
+        "title": "Mistral muscle Le Chat : enfin la recherche approfondie et le raisonnement multilingue pour d\u00e9fier ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2737109_mistral-muscle-le-chat-enfin-la-recherche-approfondie-et-le-raisonnement-multilingue-pour-defier-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/mistral-ai-application-illustration-le-chat-by-mistral-5-768x576.jpeg?resize=225,225&key=b9565bcf",
         "date": "Wed, 16 Jul 2025 23:00:00 GMT",
@@ -105,14 +105,14 @@
         "check": "no"
     },
     {
-        "title": "ChatGPT peut devenir votre assistant de réunion",
+        "title": "ChatGPT peut devenir votre assistant de r\u00e9union",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2737677_chatgpt-peut-devenir-votre-assistant-de-reunion",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/ilgmyzin-agfmimwypso-unsplash-768x432.jpg?resize=169,169&key=137f6508",
         "date": "Thu, 17 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Voici ChatGPT Agent : cette IA d’OpenAI contrôle tout votre PC (et les premiers bugs font peur)",
+        "title": "Voici ChatGPT Agent : cette IA d\u2019OpenAI contr\u00f4le tout votre PC (et les premiers bugs font peur)",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2737413_chatgpt-agent-cette-ia-dopenai-controle-votre-pc-et-les-premiers-bugs-font-peur",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/chatgpt-agent-0-26-screenshot-768x432.jpg?resize=169,169&key=2a77c679",
         "date": "Thu, 17 Jul 2025 23:00:00 GMT",
@@ -173,5 +173,75 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6879da2007363320d1f97b56/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 18 Jul 2025 05:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2019/9/19/20870858/jeffrey-epstein-science-philanthropy-donation-prestige-mit",
+        "image": "",
+        "date": "Fri, 18 Jul 2025 17:24:29 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2222154315.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 18 Jul 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/VRg-screenshot-best-scifi.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 18 Jul 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0%2C0.0096394833236957%2C100%2C99.980721033353&w=2400",
+        "date": "Fri, 18 Jul 2025 10:50:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/marcochiappetta/2025/07/18/synopsys-finalizes-ansys-acquisition-to-enable-leading-simulation-enhanced-design/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687a9b04b37b84f404ad204a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Jul 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/18/nsf-backed-mavila-ai-brings-factory-floors-into-the-llm-era/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687a9509dbe4eb3ff8613aa4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Jul 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/18/from-tools-to-teammates-how-ai-agents-will-become-digital-labor/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687a8f8b2617e395b6b7fa09/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Jul 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/07/18/the-prototype-the-cool-tech-hiding-in-your-dentists-office/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68798d37dc4bafde2719d6d8/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 18 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/dbloom/2025/07/17/netflix-cruises-but-will-live-sports-events-drive-more-growth/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6879843512e26748eb3618d5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rogerdooley/2025/07/17/will-delta-airlines-ai-pricing-trigger-a-customer-trust-crisis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687957f3fbc7bd4faea55e8b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 17 Jul 2025 00:00:00 GMT",
+        "check": "no"
     }
 ]
