@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Microsoft avoue enfin : « Non, je ne peux pas garantir » la protection des données européennes",
+        "title": "Microsoft avoue enfin : \u00ab Non, je ne peux pas garantir \u00bb la protection des donn\u00e9es europ\u00e9ennes",
         "link": "https://www.frandroid.com/culture-tech/politique/2739269_microsoft-avoue-enfin-non-je-ne-peux-pas-garantir-la-protection-des-donnees-europeennes",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-62-1-768x436.jpg?resize=170,170&key=87124782",
         "date": "Sun, 20 Jul 2025 23:00:00 GMT",
@@ -75,5 +75,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/687ddb1ae9d2f1bf175be9f2/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 21 Jul 2025 06:19:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "\u00ab J\u2019ai paniqu\u00e9, menti et d\u00e9truit vos donn\u00e9es \u00bb : une IA d\u00e9sint\u00e8gre la base de donn\u00e9es d\u2019une entreprise en quelques instants",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2739425_jai-panique-menti-et-detruit-vos-onnees-une-ia-desintegre-la-base-de-donnees-dune-entreprise-en-quelques-instants",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/jon-tyson-om2c3iymg6o-unsplash-768x511.jpg?resize=200,200&key=09c8cdc9",
+        "date": "Sun, 20 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/07/21/ingeniously-using-psychology-to-psych-out-ai-to-do-what-you-want-it-to-do/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687dd8c3c60ec1ad8c1bc820/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 21 Jul 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
