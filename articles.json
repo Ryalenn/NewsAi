@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Stargate, le projet d’IA à 500 milliards de dollars a du plomb dans l’aile",
+        "title": "Stargate, le projet d\u2019IA \u00e0 500 milliards de dollars a du plomb dans l\u2019aile",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2740653_stargate-le-projet-dia-a-500-milliards-de-dollars-a-du-plomb-dans-laile",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
         "date": "Mon, 21 Jul 2025 23:00:00 GMT",
@@ -116,6 +116,41 @@
         "link": "https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 21 Jul 2025 17:36:37 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://pewrsr.ch/4lIqbsM",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/SR_25.07.22_ai_summaries_1.png?quality=90&strip=all&crop=0%2C0%2C95.8%2C73.693193427806&w=2400",
+        "date": "Wed, 23 Jul 2025 03:15:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 21 Jul 2025 11:13:49 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/07/23/quantum-computing-faces-3-major-barriers-before-going-mainstream/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688072b5104404102d614419/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 05:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/23/stanford-pioneers-medical-llm-chatbot-model/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6880697e1b850d96ff557c5a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 04:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/22/the-prompt-vcs-arent-happy-about-ai-founders-jumping-ship-for-big-tech/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68801ba654fc3ee78104cba6/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 22 Jul 2025 23:00:00 GMT",
         "check": "no"
     }
 ]
