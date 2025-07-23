@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "Stargate, le projet d’IA à 500 milliards de dollars a du plomb dans l’aile",
+        "title": "Stargate, le projet d\u2019IA \u00e0 500 milliards de dollars a du plomb dans l\u2019aile",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2740653_stargate-le-projet-dia-a-500-milliards-de-dollars-a-du-plomb-dans-laile",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
         "date": "Mon, 21 Jul 2025 23:00:00 GMT",
@@ -98,14 +98,14 @@
         "check": "yes"
     },
     {
-        "title": "Ce smartphone IA promet l’internet gratuit dans le monde entier",
+        "title": "Ce smartphone IA promet l\u2019internet gratuit dans le monde entier",
         "link": "https://www.frandroid.com/produits-android/smartphone/2742497_ce-smartphone-ia-promet-linternet-gratuit-dans-le-monde-entier",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-69-2-768x432.jpg?resize=169,169&key=a12c5e28",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Proton présente Lumo, son assistant IA aux promesses éthiques",
+        "title": "Proton pr\u00e9sente Lumo, son assistant IA aux promesses \u00e9thiques",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2736725_proton-presente-lumo-son-assistant-ia-aux-promesses-ethiques",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/lumo-4-768x432.jpg?resize=169,169&key=8df3b468",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
@@ -140,7 +140,7 @@
         "check": "yes"
     },
     {
-        "title": "Copilot vous aide enfin à paramétrer Windows dans sa dernière mise à jour",
+        "title": "Copilot vous aide enfin \u00e0 param\u00e9trer Windows dans sa derni\u00e8re mise \u00e0 jour",
         "link": "https://www.frandroid.com/marques/microsoft/2742261_copilot-vous-aide-enfin-a-parametrer-windows-dans-sa-derniere-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pc-copilot-microsoft-768x384.jpeg?resize=150,150&key=af9f9886",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
@@ -159,5 +159,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/688022c92a0c0ba34e67928f/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 23 Jul 2025 14:37:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-ai-photo-to-video.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Jul 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/711975/a-new-study-just-upended-ai-safety#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 23 Jul 2025 14:27:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulocarvao/2025/07/23/what-trumps-ai-action-plan-means-for-us-tech-leadership/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68811e127b69b7b7ec4d38d4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 18:25:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/07/23/innovationrx-sarepta-blinks-in-showdown-with-fda/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687e4cd634723a2fa421807e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
