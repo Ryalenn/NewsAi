@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'ère de l'accélération matérielle",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/23/hardware-acceleration-drives-the-future/?ss=ai",
+        "body": "L'article retrace l'évolution incroyable du matériel informatique depuis les années 1950 jusqu'à aujourd'hui, en mettant en évidence les progrès exponentiels qui ont été réalisés, notamment grâce à la loi de Moore. Il mentionne également la contribution des jeux vidéo à cette évolution, ainsi que le rôle de l'intelligence artificielle dans la création de nouvelles opportunités pour l'innovation matérielle. L'orateur de la conférence TED, Caleb Sirak, souligne l'importance de repenser entièrement le système et mentionne des outils tels que la quantification et des puces AI comme Cerebras pour améliorer l'efficacité et déverrouiller de nouvelles possibilités. L'interconnexion mondiale est également soulignée, avec l'exemple d'une seule puce traversant de nombreuses frontières nationales avant la production, mettant en évidence la complexité de la chaîne d'approvisionnement mondiale. L'article conclut que nous sommes à un moment passionnant de l'accélération matérielle, avec des implications profondes pour l'avenir de l'IA et de l'innovation technologique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6712953a7342c1f14da300fc/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 20:55:00 GMT"
+    },
+    {
+        "title": "Déploiement d'applications IA en un éclair",
+        "link": "https://github.blog/changelog/2025-07-23-github-spark-in-public-preview-for-copilot-pro-subscribers/?utm_source=Twitter/X&utm_medium=Social&utm_campaign=CL-Spark-X",
+        "body": "GitHub Spark est un nouvel outil qui permet aux développeurs, notamment ceux travaillant dans le domaine de l'IA, de passer rapidement de l'idée à l'application déployée. Spark offre la possibilité de créer et de déployer des applications full-stack intelligentes en utilisant le langage naturel, avec un accès complet à la plateforme GitHub. L'outil est actuellement disponible en prévisualisation publique pour les utilisateurs de Copilot Pro+, et sera bientôt accessible à d'autres clients. Les abonnés à Copilot Pro+ peuvent accéder à Spark dans le cadre de leur forfait, et peuvent commencer à créer des applications sur github.com/spark. L'outil utilise des requêtes premium incluses dans les forfaits GitHub Copilot.",
+        "image": "",
+        "date": "Wed, 23 Jul 2025 20:24:33 GMT"
+    },
+    {
+        "title": "L'intelligence artificielle dans les agences de santé américaines",
+        "link": "https://www.cnn.com/2025/07/23/politics/fda-ai-elsa-drug-regulation-makary",
+        "body": "Résumé : \n\nL'administration Trump vante les mérites de l'IA pour révolutionner le secteur de la santé, accélérant l'approbation de médicaments et rationalisant le travail des agences de santé. Le secrétaire à la Santé, Robert F. Kennedy Jr., a déclaré que l'IA était déjà utilisée pour gérer les données de santé en toute sécurité et accélérer les approbations de médicaments. La FDA a dévoilé Elsa, un outil d'IA destiné à accélérer les approbations de médicaments et d'appareils médicaux. Cependant, en interne, Elsa est accueillie avec scepticisme et inquiétude. Bien qu'elle soit utile pour les tâches administratives, elle invente parfois des études inexistantes ou en interprète mal d'autres. De plus, elle n'a pas accès à de nombreux documents pertinents pour les évaluations de sécurité et d'efficacité. Malgré les affirmations du commissaire de la FDA, Dr Marty Makary, sur la transformation de l'approbation des médicaments, Elsa est principalement utilisée pour des tâches organisationnelles. Les employés de la FDA ont constaté des problèmes sérieux, notamment l'incapacité à représenter fidèlement les études et à fournir des réponses précises. La vérification de son travail est chronophage, remettant en question les gains d'efficacité annoncés. L'absence de réglementation fédérale sur l'utilisation de l'IA dans le domaine médical soulève des inquiétudes, alors que l'Europe a mis en place des protections et des normes. Les efforts pour réglementer l'IA aux États-Unis sont en suspens, alors que le président Trump donne la priorité au développement et aux investissements dans l'IA.",
+        "image": "",
+        "date": "Wed, 23 Jul 2025 19:07:26 GMT"
+    },
+    {
         "title": "Assurer la domination américaine dans le domaine de l'IA",
         "link": "https://www.forbes.com/sites/paulocarvao/2025/07/23/what-trumps-ai-action-plan-means-for-us-tech-leadership/?ss=ai",
         "body": "Titre : Assurer la domination américaine dans le domaine de l'IA",
@@ -131,12 +152,5 @@
         "body": "L'AI Act de l'Union européenne, un ensemble de règles encadrant les pratiques de l'IA, suscite des réactions mitigées de la part des industriels. Meta, la société mère de Facebook, Instagram et WhatsApp, refuse de signer le code de bonne conduite proposé, le jugeant juridiquement incertain et susceptible de freiner l'innovation en Europe. Ce code, bien que non contraignant, s'ajoute à l'AI Act qui entrera en vigueur en 2025, et vise à encourager les entreprises à adopter des pratiques transparentes et éthiques en matière d'IA. La position de Meta contraste avec celle d'OpenAI (ChatGPT), qui a annoncé son intention de signer le code. L'article souligne également les différences d'approche entre l'UE, qui cherche à protéger la confidentialité et la sécurité des utilisateurs, et les États-Unis, favorables à une dérégulation du secteur.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/mariia-shalabaieva-wr6qhgdws-y-unsplash-768x548.jpg?resize=214,214&key=623fc64a",
         "date": "Mon, 21 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le crépuscule de la presse écrite",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/07/21/ai-lacks-full-capability-to-replace-journalism/?ss=ai",
-        "body": "Le texte aborde le déclin de la presse écrite, en particulier des journaux, face aux avancées de l'ère numérique et à l'émergence de l'IA. L'auteur souligne comment les salles de rédaction ont été réduites, affectant la capacité des journalistes à s'exprimer librement. L'article de Politico mentionné décrit le changement de ton et de contenu dans le journalisme, passant d'une attitude audacieuse à une posture défensive, ce que l'auteur résume par une perte de « conviction ». L'IA, comme ChatGPT, a désormais la capacité d'écrire des articles standards, remplaçant ainsi le travail minutieux des journalistes. Bien que l'IA offre de nouvelles possibilités, elle a également contribué à la perte de certains rôles clés de la société, comme le journalisme d'investigation. L'auteur conclut en soulignant l'impact profond de l'IA sur nos vies et la nécessité de nous préparer à naviguer dans cette nouvelle ère de transformation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/687e9fd8f636e894e3681b90/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 21 Jul 2025 20:00:00 GMT"
     }
 ]
