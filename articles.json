@@ -49,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "Stargate, le projet d’IA à 500 milliards de dollars a du plomb dans l’aile",
+        "title": "Stargate, le projet d\u2019IA \u00e0 500 milliards de dollars a du plomb dans l\u2019aile",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2740653_stargate-le-projet-dia-a-500-milliards-de-dollars-a-du-plomb-dans-laile",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
         "date": "Mon, 21 Jul 2025 23:00:00 GMT",
@@ -131,5 +131,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68801ba654fc3ee78104cba6/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Ce smartphone IA promet l\u2019internet gratuit dans le monde entier",
+        "link": "https://www.frandroid.com/produits-android/smartphone/2742497_ce-smartphone-ia-promet-linternet-gratuit-dans-le-monde-entier",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-69-2-768x432.jpg?resize=169,169&key=a12c5e28",
+        "date": "Tue, 22 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "Proton pr\u00e9sente Lumo, son assistant IA aux promesses \u00e9thiques",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2736725_proton-presente-lumo-son-assistant-ia-aux-promesses-ethiques",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/lumo-4-768x432.jpg?resize=169,169&key=8df3b468",
+        "date": "Tue, 22 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://mirage.app/state-of-deepfakes-2025",
+        "image": "",
+        "date": "Wed, 23 Jul 2025 00:00:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK071_apple_K_Radtke_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Jul 2025 18:32:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257568_Bee_AI_AKrales_0032.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 22 Jul 2025 17:50:56 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/iainmartin/2025/07/23/vibe-coding-turned-this-swedish-ai-unicorn-into-the-fastest-growing-software-startup-ever/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687fed979ab5264d777c357d/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 23 Jul 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
