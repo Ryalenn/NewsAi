@@ -28,14 +28,14 @@
         "check": "yes"
     },
     {
-        "title": "Ce smartphone IA promet l’internet gratuit dans le monde entier",
+        "title": "Ce smartphone IA promet l\u2019internet gratuit dans le monde entier",
         "link": "https://www.frandroid.com/produits-android/smartphone/2742497_ce-smartphone-ia-promet-linternet-gratuit-dans-le-monde-entier",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/image-69-2-768x432.jpg?resize=169,169&key=a12c5e28",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Proton présente Lumo, son assistant IA aux promesses éthiques",
+        "title": "Proton pr\u00e9sente Lumo, son assistant IA aux promesses \u00e9thiques",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2736725_proton-presente-lumo-son-assistant-ia-aux-promesses-ethiques",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/lumo-4-768x432.jpg?resize=169,169&key=8df3b468",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Copilot vous aide enfin à paramétrer Windows dans sa dernière mise à jour",
+        "title": "Copilot vous aide enfin \u00e0 param\u00e9trer Windows dans sa derni\u00e8re mise \u00e0 jour",
         "link": "https://www.frandroid.com/marques/microsoft/2742261_copilot-vous-aide-enfin-a-parametrer-windows-dans-sa-derniere-mise-a-jour",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pc-copilot-microsoft-768x384.jpeg?resize=150,150&key=af9f9886",
         "date": "Tue, 22 Jul 2025 23:00:00 GMT",
@@ -257,5 +257,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68762df72303b0607c7ae1a8/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 24 Jul 2025 08:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/24/chan-zuckerberg-initiative-introduces-new-gremln-model-for-genetics/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/687ea1d1ea52a13bbf8cc261/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Jul 2025 17:56:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/24/nuro-uber-and-lucid-join-robotaxi-race--will-luxury-be-key/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68818a50c8283151c647e16b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Jul 2025 17:52:00 GMT",
+        "check": "no"
     }
 ]
