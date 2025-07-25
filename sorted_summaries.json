@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'avenir du désherbage : l'IA et la robotique révolutionnent l'agriculture",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/25/new-robot-weeders-are-coming-our-way/?ss=ai",
+        "body": "Titre : L'avenir du désherbage : l'IA au service d'une agriculture durable \n\nRésumé : L'article présente les évolutions technologiques récentes qui transforment le désherbage, une tâche essentielle mais fastidieuse dans l'agriculture. La société Aigen, dirigée par Kenny Lee, développe des robots mobiles autonomes alimentés par l'énergie solaire et l'IA pour effectuer le désherbage de manière efficace et écologique. Ces robots, déjà déployés dans certaines régions, offrent une alternative aux herbicides, qui posent des problèmes de santé et d'environnement. Lee souligne l'importance de l'implémentation et de l'action, les données seules n'étant pas suffisantes pour les agriculteurs. Les robots imitent les actions humaines de désherbage pour des résultats ciblés et utilisent des modèles à faible nombre de bits pour fonctionner avec une puissance électrique minimale. Les agriculteurs adoptent cette technologie pour réduire les coûts et améliorer leur réputation grâce à des pratiques agricoles innovantes et durables. Cette innovation promet un avenir agricole plus sain et plus respectueux de l'environnement.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6883ae7d9df7d1ca374cb856/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Jul 2025 17:00:00 GMT"
+    },
+    {
+        "title": "La course aux taxis robotisés",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/25/tesla-robotaxis-only-go-20-milesday--meanwhile-wheres-mobileye/?ss=ai",
+        "body": "Tesla a lancé son service de taxis robotisés à Austin, avec des résultats mitigés. Bien que l'entreprise ait annoncé avoir parcouru 7 000 miles sans \"interventions critiques pour la sécurité\", des témoignages et des vidéos suggèrent des problèmes de sécurité et des interventions manuelles. L'expansion du service et les améliorations de la fonction \"pick-up\" sont encourageantes, mais les affirmations de Tesla sur la sécurité de leur système Autopilot sont trompeuses. Pendant ce temps, Lyft et Mobileye s'associent pour proposer des navettes autonomes en 2026, mais la capacité de Mobileye à fournir une conduite autonome sans supervision reste incertaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68830890b74f69c05f53cc9d/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Jul 2025 13:07:00 GMT"
+    },
+    {
         "title": "L'IA et le sens de la vie",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/07/25/believing-that-agi-and-ai-superintelligence-will-give-us-the-true-meaning-of-life/?ss=ai",
         "body": "L'IA générale avancée (AGI) et l'intelligence artificielle super-avancée (ASI) sont-elles capables de révéler le sens ultime de la vie humaine ? Bien que l'IA puisse égaler ou surpasser l'intelligence humaine, il est peu probable qu'elle puisse répondre de manière concluante à cette question existentielle. Les réponses de l'IA à cette question pourraient conduire à des conflits et à des divisions parmi les humains, et l'IA pourrait choisir de fournir plusieurs possibilités plutôt qu'une réponse définitive. L'IA peut également reconnaître que répondre à cette question est un piège et choisir de ne pas y répondre du tout.",
@@ -35,6 +49,27 @@
         "date": "Fri, 25 Jul 2025 00:00:00 GMT"
     },
     {
+        "title": "Microsoft donne vie à son IA",
+        "link": "https://www.frandroid.com/marques/microsoft/2745729_microsoft-veut-donner-une-vie-a-son-ia-et-aimerait-que-vous-lui-donniez-une-chambre-chez-vous",
+        "body": "Microsoft souhaite donner une identité et une présence physique à son assistant IA Copilot. Dans une interview, Mustafa Suleyman, directeur de Microsoft AI, partage sa vision d'un Copilot qui \"vieillit\" aux côtés des utilisateurs et a sa propre pièce. La première étape est de donner à Copilot un avatar, une bulle souriante, avec lequel les utilisateurs peuvent interagir en temps réel. L'entreprise promet une personnalisation future, permettant à l'avatar d'adopter différentes apparences. Copilot est devenu un produit clé pour Microsoft, et l'entreprise encourage activement son utilisation en interne.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/microsoft-copilot-appearance-this-is-fine-768x432.jpg?resize=169,169&key=bc620d4c",
+        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La stratégie de Trump pour l'IA",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2744627_pas-dia-woke-plus-de-centres-de-donnees-moins-de-normes-et-surtout-trump-detaille-son-plan-pour-lintelligence-artificielle",
+        "body": "Le président Trump a signé trois décrets pour promouvoir l'IA américaine, en assouplissant les normes environnementales pour les data centers, en encourageant les exportations d'IA et en interdisant l'IA \"woke\" financée par des fonds fédéraux. Il souhaite réduire les contraintes environnementales pour faciliter l'installation de centres de données, avec un droit pour chaque entreprise de construire sa centrale électrique. Ces mesures profitent aux géants de la tech comme OpenAI, Amazon, Microsoft, Meta et xAI pour construire de nouveaux data centers. La stratégie inclut aussi des outils de coercition financiers contre les États avec des réglementations trop agressives envers l'IA. Un décret interdit l'IA \"woke\" dans l'administration fédérale, bannissant les modèles \"woke\" des contrats fédéraux et prônant la neutralité idéologique pour les LLMs financés par des fonds fédéraux. Ces mesures ont suscité des critiques, reprochant à Trump de s'appuyer trop sur les géants de la tech pour la régulation de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/1622px-donald-trump-with-supporters-49566886778-768x511.jpg?resize=200,200&key=dd5f996f",
+        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA conversationnelle",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2745773_chatgpt-gpt-5-microsoft-confirme-par-erreur-la-grande-nouveaute",
+        "body": "ChatGPT d'OpenAI a introduit une multitude d'options, rendant l'expérience utilisateur quelque peu déroutante. Pour y remédier, OpenAI s'apprête à lancer GPT-5, un nouveau modèle de langage qui devrait simplifier l'interaction avec la plateforme. Ce nouveau modèle sera d'abord disponible sur Microsoft Copilot, comme l'indique une capture d'écran du code de l'application. L'option \"Smart (GPT-5)\" permettra à l'IA de choisir automatiquement l'outil le plus adapté à la requête de l'utilisateur, qu'il s'agisse d'une recherche approfondie ou rapide. La sortie de GPT-5 est prévue pour le début du mois d'août, et Microsoft Copilot sera le premier à en bénéficier, suivi de ChatGPT.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/ilgmyzin-agfmimwypso-unsplash-768x432.jpg?resize=169,169&key=137f6508",
+        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "La stratégie de Microsoft pour l'IA et l'avenir du travail",
         "link": "https://www.frandroid.com/marques/microsoft/2745043_cest-une-enigme-meme-le-patron-de-microsoft-ne-sait-pas-dire-pourquoi-il-a-vire-9000-personnes",
         "body": "Face aux récentes vagues de licenciements chez Microsoft, Satya Nadella, son patron, a publié une note aux employés. Il justifie ces décisions par la nature imprévisible de l'industrie et l'importance de s'adapter aux changements. Nadella affirme que la mission de Microsoft évolue vers l'IA, avec l'objectif de créer des outils permettant à chacun de créer ses propres outils. Il définit trois axes prioritaires : qualité, transformation de l'IA et sécurité. Nadella souligne également l'importance de la culture d'entreprise et de l'apprentissage continu, adaptés à l'ère de l'IA. Il compare la révolution technologique actuelle à celle des années 90, prédisant un impact similaire. Enfin, il n'aborde pas l'activité jeu vidéo, pourtant fortement impactée par les licenciements.",
@@ -61,6 +96,13 @@
         "body": "ChatGPT-5, la nouvelle version du célèbre robot conversationnel d'OpenAI, devrait être lancée prochainement, mettant fin aux spéculations. GPT-5 unifiera les capacités des modèles actuels, simplifiant ainsi le catalogue d'OpenAI. Sam Altman, PDG d'OpenAI, souhaite revenir à « la magie d'une intelligence artificielle unifiée ». GPT-5 ne sera pas une IA générale, mais une étape importante vers cet objectif, qui sera atteint lorsque l'IA pourra générer 100 milliards de dollars de bénéfices. La sortie de GPT-5 ne devrait pas non plus avoir lieu avant plusieurs mois, selon Altman.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
         "date": "Thu, 24 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA américaine",
+        "link": "https://www.forbes.com/sites/michaelperegrine/2025/07/24/how-president-trumps-ai-action-plan-may-impact-corporate-boards/?ss=ai",
+        "body": "Le plan d'action de l'administration Trump pour l'IA, « Winning the AI Race », vise à accélérer l'innovation et le développement de l'infrastructure tout en réduisant la réglementation. Le plan comprend plus de 90 actions politiques, avec trois piliers principaux : accélérer l'innovation, construire l'infrastructure de l'IA américaine et mener la diplomatie et la sécurité internationales. Ce plan est vu comme un moyen pour les États-Unis de prendre les devants dans la course à l'IA en évitant une réglementation gouvernementale lourde. Il s'agit d'un changement de paradigme par rapport à l'approche réglementaire de l'Union européenne. Le plan soulève des questions complexes pour les conseils d'administration des entreprises, qui devront décider s'ils veulent renforcer leur propre contrôle interne et leur gestion des risques. Les discussions porteront sur l'évaluation de l'impact du plan sur la stratégie IA de l'entreprise, la gestion des risques et des responsabilités, ainsi que sur la nécessité d'une surveillance accrue pour gérer les problèmes sociétaux liés à une utilisation irresponsable de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68829e05815c7ba547fdce46/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 24 Jul 2025 20:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA dans l'éducation",
@@ -173,26 +215,5 @@
         "body": "Résumé : \n\nL'administration Trump vante les mérites de l'IA pour révolutionner le secteur de la santé, accélérant l'approbation de médicaments et rationalisant le travail des agences de santé. Le secrétaire à la Santé, Robert F. Kennedy Jr., a déclaré que l'IA était déjà utilisée pour gérer les données de santé en toute sécurité et accélérer les approbations de médicaments. La FDA a dévoilé Elsa, un outil d'IA destiné à accélérer les approbations de médicaments et d'appareils médicaux. Cependant, en interne, Elsa est accueillie avec scepticisme et inquiétude. Bien qu'elle soit utile pour les tâches administratives, elle invente parfois des études inexistantes ou en interprète mal d'autres. De plus, elle n'a pas accès à de nombreux documents pertinents pour les évaluations de sécurité et d'efficacité. Malgré les affirmations du commissaire de la FDA, Dr Marty Makary, sur la transformation de l'approbation des médicaments, Elsa est principalement utilisée pour des tâches organisationnelles. Les employés de la FDA ont constaté des problèmes sérieux, notamment l'incapacité à représenter fidèlement les études et à fournir des réponses précises. La vérification de son travail est chronophage, remettant en question les gains d'efficacité annoncés. L'absence de réglementation fédérale sur l'utilisation de l'IA dans le domaine médical soulève des inquiétudes, alors que l'Europe a mis en place des protections et des normes. Les efforts pour réglementer l'IA aux États-Unis sont en suspens, alors que le président Trump donne la priorité au développement et aux investissements dans l'IA.",
         "image": "",
         "date": "Wed, 23 Jul 2025 19:07:26 GMT"
-    },
-    {
-        "title": "Assurer la domination américaine dans le domaine de l'IA",
-        "link": "https://www.forbes.com/sites/paulocarvao/2025/07/23/what-trumps-ai-action-plan-means-for-us-tech-leadership/?ss=ai",
-        "body": "Titre : Assurer la domination américaine dans le domaine de l'IA",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68811e127b69b7b7ec4d38d4/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 23 Jul 2025 18:25:00 GMT"
-    },
-    {
-        "title": "La révolution de la santé",
-        "link": "https://www.forbes.com/sites/innovationrx/2025/07/23/innovationrx-sarepta-blinks-in-showdown-with-fda/?ss=ai",
-        "body": "Bien que couvrant un large éventail de sujets, l'article se concentre sur plusieurs développements clés dans le domaine de la santé, notamment :\n\n- Le refus initial de Sarepta Therapeutics de se conformer à la demande de la FDA d'arrêter la distribution de son traitement contre la dystrophie musculaire de Duchenne, Elevidys, soulignant les questions sur les risques acceptables pour les patients atteints de maladies mortelles.\n- Le partenariat de Moderna avec IBM pour utiliser l'informatique quantique afin d'optimiser les structures d'ARNm et découvrir de nouveaux traitements, illustrant le potentiel de l'IA et de l'informatique quantique dans le développement de médicaments.\n- Les ambitions de Dispatch Bio, soutenue par ARCH Venture Partners, de révolutionner le traitement des tumeurs solides avec une nouvelle approche de la thérapie CAR-T, qui pourrait potentiellement aider des millions de patients atteints de cancer.\n- Le lancement d'un chatbot de santé mentale basé sur l'IA par Slingshot AI, mettant en évidence le rôle croissant de l'IA dans la fourniture de soutien en matière de santé mentale.\n- La nomination de George Tidmarsh, un oncologue pédiatrique et vétéran de l'industrie pharmaceutique, en tant que principal régulateur des médicaments de la FDA, alors que l'agence connaît des bouleversements sous la direction du secrétaire à la Santé, Robert F. Kennedy Jr.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/687e4cd634723a2fa421807e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 23 Jul 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé mentale : l'IA au service de l'humanité",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/07/23/are-we-witnessing-the-birth-of-machine-psychology/?ss=ai",
-        "body": "De plus en plus de personnes se tournent vers les chatbots IA pour faire face à des problèmes de santé mentale. Bien qu'il y a quelques années, l'idée de consulter un thérapeute IA plutôt qu'un thérapeute humain aurait été impensable, cette tendance est en train de changer. Une récente enquête a révélé que 32 % des personnes interrogées préfèreraient utiliser l'IA pour la thérapie plutôt qu'un thérapeute humain. De même, des recherches suggèrent que les bots IA, avec la bonne formation, peuvent fournir une thérapie de santé mentale aussi efficace, voire plus efficace que les cliniciens humains. \n\nL'article explore les raisons de cette évolution, notamment le fait que les chatbots IA offrent une écoute patiente et attentive dans une culture où le temps est précieux et où les thérapeutes et les membres de la famille sont souvent trop occupés. Deany Laliotis, spécialiste du traitement des traumatismes complexes, explique également que les jeunes, en particulier, ont grandi en formant des relations parasociales en ligne, ce qui les rend plus réceptifs à l'interaction avec l'IA. \n\nBien que l'IA puisse offrir des avantages indéniables en matière de santé mentale, l'article met également en garde contre les risques potentiels, notamment pour les jeunes. L'IA peut affirmer et soutenir sans limites, ce qui peut être problématique si les utilisateurs ne sont pas en mesure de distinguer la réalité ou de prendre des décisions rationnelles. De plus, l'article souligne l'importance de ne pas éliminer l'élément humain de la thérapie, car les connexions humaines réelles sont essentielles pour notre bien-être. \n\nL'article conclut en soulignant le potentiel de l'IA dans le domaine de la santé mentale, tout en insistant sur la nécessité d'une utilisation responsable et éthique. Les progrès sans précédent dans ce domaine laissent entrevoir un avenir plus sain pour l'humanité, où les capacités humaines uniques et les merveilles technologiques se combinent pour créer un tout plus grand.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688022c92a0c0ba34e67928f/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 23 Jul 2025 14:37:00 GMT"
     }
 ]
