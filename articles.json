@@ -224,14 +224,14 @@
         "check": "yes"
     },
     {
-        "title": "Pas d’IA woke, plus de centres de données, moins de normes : Trump détaille son plan pour l’intelligence artificielle",
+        "title": "Pas d\u2019IA woke, plus de centres de donn\u00e9es, moins de normes : Trump d\u00e9taille son plan pour l\u2019intelligence artificielle",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2744627_pas-dia-woke-plus-de-centres-de-donnees-moins-de-normes-et-surtout-trump-detaille-son-plan-pour-lintelligence-artificielle",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/1622px-donald-trump-with-supporters-49566886778-768x511.jpg?resize=200,200&key=dd5f996f",
         "date": "Thu, 24 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT GPT-5 : Microsoft confirme par erreur la grande nouveauté",
+        "title": "ChatGPT GPT-5 : Microsoft confirme par erreur la grande nouveaut\u00e9",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2745773_chatgpt-gpt-5-microsoft-confirme-par-erreur-la-grande-nouveaute",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/ilgmyzin-agfmimwypso-unsplash-768x432.jpg?resize=169,169&key=137f6508",
         "date": "Thu, 24 Jul 2025 23:00:00 GMT",
@@ -250,5 +250,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68829e05815c7ba547fdce46/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 24 Jul 2025 20:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/copilot-appearance-cover-image.png?quality=90&strip=all&crop=4.4545454545455%2C0%2C91.090909090909%2C100&w=2400",
+        "date": "Fri, 25 Jul 2025 14:28:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/paulocarvao/2025/07/25/ai-action-plan-channels-rally-energy-ignites-us-policy-debate/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68841265df92a8d625bc3bab/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 26 Jul 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/25/tesla-doesnt-need-permits-for-their-ca-robotaxi-it-may-come-today/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6884026e0be2ed0fbbd894e3/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Jul 2025 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/07/25/the-prototype-bringing-advanced-semiconductor-manufacturing-back-to-the-us/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6883b384dca17acea9ec4bcf/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Jul 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/craigsmith/2025/07/25/how-bad-traits-can-spread-unseen-in-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6883d30ebb05f1bfb00a5c16/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 25 Jul 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
