@@ -180,12 +180,5 @@
         "body": "L'architecture RISC-V, initialement développée à l'UC Berkeley, est en train de devenir une alternative sérieuse aux architectures dominantes x86 et Arm. Son approche open-source et sa flexibilité en font un choix de plus en plus populaire pour les puces dédiées à l'IA, notamment chez les géants de la tech comme Nvidia, Google et Red Hat. L'article souligne l'importance de RISC-V dans l'évolution de l'IA, offrant une personnalisation, une efficacité et une liberté de contraintes de licence uniques. Bien que RISC-V doive encore faire face à certains défis, tels que l'optimisation logicielle et la fragmentation, il est déjà largement adopté dans des domaines clés comme la défense, l'automobile et l'informatique de bord, indiquant son rôle crucial dans l'avenir de l'informatique et de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68823a152c30166ee855e8fe/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 24 Jul 2025 14:48:00 GMT"
-    },
-    {
-        "title": "L'impact de la politesse sur l'efficacité et la durabilité des modèles linguistiques IA",
-        "link": "https://www.forbes.com/sites/adrianbridgwater/2025/07/24/why-we-need-to-be-rude-to-ai/?ss=ai",
-        "body": "Bien que la politesse dans les interactions avec les services d'IA puisse sembler naturelle, elle a un coût caché en termes d'efficacité et de durabilité. Chaque jeton supplémentaire, comme « s'il vous plaît » ou « merci », augmente la longueur de l'invite, ce qui entraîne une augmentation de la consommation d'énergie, des coûts d'exploitation et des émissions de carbone. Les experts suggèrent que les utilisateurs soient précis et concis dans leurs demandes, en éliminant les mots superflus pour améliorer l'efficacité et réduire l'impact environnemental. Cette approche est comparable à l'optimisation du code pour améliorer les performances, en utilisant des outils pour nettoyer et optimiser automatiquement les jetons. L'article explore également le débat sur la sentience de l'IA et souligne que les entreprises qui traitent les interactions avec l'IA avec la même rigueur que leurs processus de fabrication auront un avantage en termes de rapidité et de durabilité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68762df72303b0607c7ae1a8/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 24 Jul 2025 08:00:00 GMT"
     }
 ]
