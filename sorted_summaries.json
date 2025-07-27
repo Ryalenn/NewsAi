@@ -1,5 +1,12 @@
 [
     {
+        "title": "Des villes plus intelligentes grâce à l'IA",
+        "link": "https://www.forbes.com/sites/kathleenwalch/2025/07/26/how-ai-is-quietly-revolutionizing-the-cities-we-live-in/?ss=ai",
+        "body": "L'IA transforme discrètement la façon dont les villes fonctionnent, se déplacent et se connectent. Des feux de circulation à la sécurité publique, l'IA optimise divers aspects de la vie urbaine. Les bâtiments deviennent plus intelligents, ajustant leur consommation d'énergie et leur climatisation automatiquement. L'éclairage public s'adapte à la présence de piétons et à l'activité de la rue, améliorant la sécurité et réduisant les coûts énergétiques. L'IA optimise également la circulation routière, prédisant et réduisant les embouteillages. Des villes comme Pittsburgh utilisent des systèmes de contrôle de la circulation basés sur l'IA, réduisant les temps d'attente et les émissions. Les transports en commun s'adaptent à la demande en temps réel, et l'IA améliore la sécurité publique en identifiant les risques potentiels grâce à l'analyse des caméras de surveillance, des médias sociaux, etc. L'IA gère également l'enlèvement des ordures de manière plus efficace et économique. Enfin, l'IA améliore l'accessibilité des services municipaux grâce à des chatbots et des assistants virtuels. L'IA rend les villes plus intelligentes, plus réactives et plus humaines.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6885413365cbc0add332edba/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 26 Jul 2025 21:00:00 GMT"
+    },
+    {
         "title": "Réinventer les entreprises avec l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/07/26/7-business-lessons-for-ai/?ss=ai",
         "body": "L'article offre un aperçu des réflexions de Lidiane Jones, ancienne dirigeante de Slack et PDG de Bumble, sur la mise en œuvre de l'IA dans les entreprises. Jones souligne que malgré les défis liés à la nouveauté de la technologie, à la rareté des feuilles de route et à la méfiance instinctive envers les grands modèles linguistiques, une stratégie omnicanal peut aider à surmonter les silos de données. Elle met l'accent sur l'importance de la protection des données financières critiques et de la conformité réglementaire, ainsi que sur l'exploitation des connaissances humaines au sein des organisations. Jones suggère également que les outils de flux de travail et les ressources de plateforme peuvent contenir des données structurées précieuses pour la formation des LLM. Abordant l'utilisation des agents IA, elle note leur capacité à optimiser les flux de travail et à générer des idées de manière autonome. En citant la montée en puissance de ChatGPT, Jones raconte la collaboration de Slack avec OpenAI et d'autres entreprises de LLM pour améliorer la productivité des utilisateurs. Elle présente également des outils tels que Slack Canvas et met en évidence l'importance de créer une culture axée sur l'IA avec des projets adaptés à l'IA. Enfin, Jones propose des idées pratiques pour les dirigeants qui envisagent des déploiements IA, notamment en restant impliqués, en collaborant avec des partenaires, en créant une culture axée sur l'IA et en trouvant la valeur de l'IA pour leur entreprise.",
@@ -82,68 +89,5 @@
         "body": "L'IA générative, notamment des outils tels que ChatGPT et des plateformes spécialisées, révolutionne la création de présentations en automatisant les tâches fastidieuses de mise en forme. Cet article fournit des conseils et des exemples de prompts pour tirer le meilleur parti de l'IA lors de la création de présentations, pitch decks et slides. Il souligne l'importance de fournir à l'IA des informations claires sur les objectifs, le public cible, la structure et les directives de marque. Des exemples de prompts sont fournis pour la création d'un storyboard, la visualisation de données, la rédaction de notes de conférencier et l'application de directives de marque. L'article conclut en encourageant les utilisateurs à exploiter l'IA pour améliorer leur créativité et leur efficacité dans la création de présentations percutantes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6883158017689e91fcea426b/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 25 Jul 2025 05:00:00 GMT"
-    },
-    {
-        "title": "L'ascension des interfaces IA",
-        "link": "https://www.forbes.com/sites/lutzfinger/2025/07/24/ai-agentsthe-internet-is-being-rewrittensurvey-users-vs-brands/?ss=ai",
-        "body": "Résumé : \n\nL'article explore l'ambition d'OpenAI de devenir l'interface dominante pour tout sur Internet, y compris le commerce, la santé et la finance. L'auteur, un investisseur actif dans les startups d'IA, examine comment l'IA remodèle les habitudes numériques et comment les utilisateurs et les entreprises s'adaptent à cette évolution. Il souligne que les modèles linguistiques larges (LLM) ne sont pas une véritable AGI, mais plutôt une nouvelle interface utilisateur, créant de nouvelles opportunités pour les marques. L'auteur donne l'exemple d'un utilisateur qui a téléchargé ses résultats d'analyse dans ChatGPT, qui a ensuite analysé les résultats, recommandé des suppléments et suggéré un magasin en ligne, illustrant ainsi l'influence croissante de ChatGPT dans divers domaines. L'article discute également de la vision de Sam Altman pour OpenAI et de son désir d'être l'agent pour divers secteurs. Enfin, l'auteur lance une enquête pour comprendre comment les utilisateurs, les organisations et l'écosystème évoluent dans cette nouvelle ère de l'IA, en se concentrant sur les domaines du développement logiciel, de la finance et du commerce électronique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6882b9370a1ad848a9f7ed51/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 25 Jul 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA",
-        "link": "https://www.forbes.com/sites/charliefink/2025/07/24/trumps-ai-orders-gixels-ar-optics-big-tech-spends-on-nvidia/?ss=ai",
-        "body": "Le président Trump a signé un décret sur l'IA, mettant l'accent sur la concurrence avec la Chine et l'assouplissement des réglementations pour accélérer le développement des centres de données et des usines de puces. OpenAI et Oracle ont réduit leur projet Stargate de 30 GW à 4,5 GW, avec un seul centre de données. xAI, la société d'IA d'Elon Musk, cherche à lever jusqu'à 12 milliards de dollars pour acquérir des puces Nvidia pour l'entraînement de Grok. Gixel, une startup de lunettes AR, a levé 5 millions d'euros, avec un design innovant utilisant des lentilles courbes. UC Riverside et Google ont développé un modèle d'IA capable de détecter les deepfakes en identifiant les incohérences. Adobe Firefly a lancé une nouvelle version de son modèle vidéo, améliorant le réalisme et la narration. Runway, une startup d'IA, est utilisée discrètement par Disney et Netflix pour générer des effets visuels. Animal Company est un jeu VR social qui connaît un grand succès, avec plus de 500 000 utilisateurs actifs quotidiennement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6882c03d82d775cd1fe825d9/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 25 Jul 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Microsoft donne vie à son IA",
-        "link": "https://www.frandroid.com/marques/microsoft/2745729_microsoft-veut-donner-une-vie-a-son-ia-et-aimerait-que-vous-lui-donniez-une-chambre-chez-vous",
-        "body": "Microsoft souhaite donner une identité et une présence physique à son assistant IA Copilot. Dans une interview, Mustafa Suleyman, directeur de Microsoft AI, partage sa vision d'un Copilot qui \"vieillit\" aux côtés des utilisateurs et a sa propre pièce. La première étape est de donner à Copilot un avatar, une bulle souriante, avec lequel les utilisateurs peuvent interagir en temps réel. L'entreprise promet une personnalisation future, permettant à l'avatar d'adopter différentes apparences. Copilot est devenu un produit clé pour Microsoft, et l'entreprise encourage activement son utilisation en interne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/microsoft-copilot-appearance-this-is-fine-768x432.jpg?resize=169,169&key=bc620d4c",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La stratégie de Trump pour l'IA",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2744627_pas-dia-woke-plus-de-centres-de-donnees-moins-de-normes-et-surtout-trump-detaille-son-plan-pour-lintelligence-artificielle",
-        "body": "Le président Trump a signé trois décrets pour promouvoir l'IA américaine, en assouplissant les normes environnementales pour les data centers, en encourageant les exportations d'IA et en interdisant l'IA \"woke\" financée par des fonds fédéraux. Il souhaite réduire les contraintes environnementales pour faciliter l'installation de centres de données, avec un droit pour chaque entreprise de construire sa centrale électrique. Ces mesures profitent aux géants de la tech comme OpenAI, Amazon, Microsoft, Meta et xAI pour construire de nouveaux data centers. La stratégie inclut aussi des outils de coercition financiers contre les États avec des réglementations trop agressives envers l'IA. Un décret interdit l'IA \"woke\" dans l'administration fédérale, bannissant les modèles \"woke\" des contrats fédéraux et prônant la neutralité idéologique pour les LLMs financés par des fonds fédéraux. Ces mesures ont suscité des critiques, reprochant à Trump de s'appuyer trop sur les géants de la tech pour la régulation de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/1622px-donald-trump-with-supporters-49566886778-768x511.jpg?resize=200,200&key=dd5f996f",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA conversationnelle",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2745773_chatgpt-gpt-5-microsoft-confirme-par-erreur-la-grande-nouveaute",
-        "body": "ChatGPT d'OpenAI a introduit une multitude d'options, rendant l'expérience utilisateur quelque peu déroutante. Pour y remédier, OpenAI s'apprête à lancer GPT-5, un nouveau modèle de langage qui devrait simplifier l'interaction avec la plateforme. Ce nouveau modèle sera d'abord disponible sur Microsoft Copilot, comme l'indique une capture d'écran du code de l'application. L'option \"Smart (GPT-5)\" permettra à l'IA de choisir automatiquement l'outil le plus adapté à la requête de l'utilisateur, qu'il s'agisse d'une recherche approfondie ou rapide. La sortie de GPT-5 est prévue pour le début du mois d'août, et Microsoft Copilot sera le premier à en bénéficier, suivi de ChatGPT.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/ilgmyzin-agfmimwypso-unsplash-768x432.jpg?resize=169,169&key=137f6508",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La stratégie de Microsoft pour l'IA et l'avenir du travail",
-        "link": "https://www.frandroid.com/marques/microsoft/2745043_cest-une-enigme-meme-le-patron-de-microsoft-ne-sait-pas-dire-pourquoi-il-a-vire-9000-personnes",
-        "body": "Face aux récentes vagues de licenciements chez Microsoft, Satya Nadella, son patron, a publié une note aux employés. Il justifie ces décisions par la nature imprévisible de l'industrie et l'importance de s'adapter aux changements. Nadella affirme que la mission de Microsoft évolue vers l'IA, avec l'objectif de créer des outils permettant à chacun de créer ses propres outils. Il définit trois axes prioritaires : qualité, transformation de l'IA et sécurité. Nadella souligne également l'importance de la culture d'entreprise et de l'apprentissage continu, adaptés à l'ère de l'IA. Il compare la révolution technologique actuelle à celle des années 90, prédisant un impact similaire. Enfin, il n'aborde pas l'activité jeu vidéo, pourtant fortement impactée par les licenciements.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2020/08/microsoft-satya-nadella-768x432.jpg?resize=300,300&key=fc6a72cf",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gemini, l'IA de Google, débarque sur les montres connectées",
-        "link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/2744807_gemini-debarque-sur-toutes-les-montres-wear-os-pour-un-assistant-vocal-plus-intelligent",
-        "body": "Google lance son IA générative, Gemini, sur les montres connectées fonctionnant sous Wear OS 4 et versions ultérieures. Cette mise à jour de l'application Google Assistant permet aux utilisateurs d'interagir avec l'IA en utilisant des commandes vocales ou des raccourcis. Gemini peut répondre à des requêtes complexes, fournir des itinéraires, interagir avec d'autres applications et comprendre des questions indirectes, améliorant ainsi l'expérience globale des utilisateurs de montres connectées. La mise à jour est disponible pour les montres Samsung, Google, OnePlus et Xiaomi.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/samsung-galaxy-watch-8-classic-25-768x512.jpg?resize=200,200&key=7b98f4f5",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google Web Guide",
-        "link": "https://www.frandroid.com/marques/google/2744489_google-tente-de-moderniser-sa-page-de-recherche-avec-encore-plus-dia",
-        "body": "Google introduit une nouvelle fonctionnalité, Web Guide, qui utilise l'IA Gemini et une technique de \"requête en éventail\" pour segmenter les résultats de recherche en grands thèmes, offrant ainsi plusieurs perspectives complémentaires. Cette innovation fractionne les résultats en catégories, permettant aux utilisateurs de choisir la catégorie qui correspond le mieux à leur recherche. Par exemple, une recherche sur \"Voyage en solo au Japon\" propose des liens classés sous des étiquettes telles que \"Guide complet\", \"Récit d'expérience\" ou \"Recommandations touristiques\". Bien que n'étant pas encore activé par défaut, Web Guide représente une évolution significative dans la présentation des résultats de recherche, offrant une expérience plus interactive et personnalisée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/WebGuide_Hero.width-1200.format-webp-768x433.webp?resize=169,169&key=972b1050",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT 5 : l'unification",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2744455_la-nouvelle-version-de-chatgpt-pourrait-arriver-tres-bientot",
-        "body": "ChatGPT-5, la nouvelle version du célèbre robot conversationnel d'OpenAI, devrait être lancée prochainement, mettant fin aux spéculations. GPT-5 unifiera les capacités des modèles actuels, simplifiant ainsi le catalogue d'OpenAI. Sam Altman, PDG d'OpenAI, souhaite revenir à « la magie d'une intelligence artificielle unifiée ». GPT-5 ne sera pas une IA générale, mais une étape importante vers cet objectif, qui sera atteint lorsque l'IA pourra générer 100 milliards de dollars de bénéfices. La sortie de GPT-5 ne devrait pas non plus avoir lieu avant plusieurs mois, selon Altman.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
-        "date": "Thu, 24 Jul 2025 23:00:00 GMT"
     }
 ]
