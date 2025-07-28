@@ -96,5 +96,26 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/unnamed.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 28 Jul 2025 17:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_7546.jpeg?quality=90&strip=all&crop=0,0,100,100",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_7546.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 28 Jul 2025 18:14:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/28/what-all-is-jensen-huang-really-saying-about-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6887c5fc294aa3b6129c8098/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Jul 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/jodiecook/2025/07/28/ai-will-replace-coaches-and-most-dont-know-why/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68876945560a0cf390e548d2/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 28 Jul 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
