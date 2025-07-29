@@ -14,6 +14,20 @@
         "date": "Tue, 29 Jul 2025 00:23:22 GMT"
     },
     {
+        "title": "L'IA générative : un défi pour l'œil humain",
+        "link": "https://www.frandroid.com/marques/microsoft/2747037_reel-ou-non-ces-images-generees-par-ia-trompent-trop-de-monde",
+        "body": "Une étude de Microsoft AI for Good Lab révèle que les humains ont du mal à distinguer les images générées par l'IA de celles réelles, avec un taux de réussite d'à peine 62 %. Les participants identifient mieux les visages humains (65 %) que les photos de nature (59 %). Les outils de détection de l'IA sont plus fiables, avec un taux de réussite de 95 % pour le détecteur développé par les chercheurs. L'évolution rapide de l'IA générative rend la distinction encore plus difficile, et les humains pourraient bientôt être incapables de faire la différence.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/vrai-ou-pas-768x432.png?resize=169,169&key=2c31b3fe",
+        "date": "Mon, 28 Jul 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA qui déjoue les CAPTCHAs",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2747035_chatgpt-peut-maintenant-resoudre-des-captchas-sans-probleme",
+        "body": "La nouvelle version de ChatGPT, surnommée \"Agent\", peut résoudre les CAPTCHAs de Cloudflare, remettant en question l'efficacité de ces tests dans la distinction entre humains et robots. L'IA d'OpenAI a réussi à cocher la case du CAPTCHA tout en expliquant ses actions, démontrant ainsi sa capacité à naviguer sur le web de manière autonome. Bien que ce CAPTCHA en particulier utilise des signaux passifs, l'incident souligne la nécessité de développer de nouveaux moyens de vérification humaine. Cet événement s'ajoute à d'autres exemples d'IA résolvant des CAPTCHAs, comme l'IA de Bing en 2023. Bien que ces systèmes ne soient pas complètement obsolètes, leur efficacité diminue face aux avancées de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/a83a2a38c059162477ab0302be553eb0c41369d8-768x526.jpg?resize=205,205&key=772ced44",
+        "date": "Mon, 28 Jul 2025 23:00:00 GMT"
+    },
+    {
         "title": "Microsoft Edge se met à l'IA",
         "link": "https://www.frandroid.com/marques/microsoft/2746993_microsoft-veut-faire-dedge-un-navigateur-dope-a-lia-avec-son-mode-copilot",
         "body": "Microsoft a introduit un « Mode Copilot » dans son navigateur Edge, intégrant une IA omniprésente pour moderniser l'expérience de navigation web. Ce mode inclut un bouton dédié dans la barre de recherche, transforme les nouveaux onglets en interface de discussion avec un chatbot, et peut scanner et comparer les contenus des onglets. Copilot pourra aussi effectuer des actions en ligne pour l'utilisateur et accéder à son historique de navigation et ses mots de passe. Bien que Microsoft assure que les données seront protégées, la fonctionnalité soulève des questions de confidentialité. Actuellement gratuit, Copilot pourrait être inclus dans l'abonnement Copilot Pro. Microsoft vise à faire d'Edge un navigateur IA de premier plan, concurrençant Chrome de Google et Comet de Perplexity.",
