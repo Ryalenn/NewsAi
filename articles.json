@@ -154,17 +154,73 @@
         "check": "yes"
     },
     {
-        "title": "« Réel ou Non ? » : ces images générées par IA trompent trop de monde",
+        "title": "\u00ab R\u00e9el ou Non ? \u00bb : ces images g\u00e9n\u00e9r\u00e9es par IA trompent trop de monde",
         "link": "https://www.frandroid.com/marques/microsoft/2747037_reel-ou-non-ces-images-generees-par-ia-trompent-trop-de-monde",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/vrai-ou-pas-768x432.png?resize=169,169&key=2c31b3fe",
         "date": "Mon, 28 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT peut maintenant résoudre des captchas sans problème",
+        "title": "ChatGPT peut maintenant r\u00e9soudre des captchas sans probl\u00e8me",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2747035_chatgpt-peut-maintenant-resoudre-des-captchas-sans-probleme",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/a83a2a38c059162477ab0302be553eb0c41369d8-768x526.jpg?resize=205,205&key=772ced44",
         "date": "Mon, 28 Jul 2025 23:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/google/2747115_google-chrome-veut-simplifier-vos-achats-en-ligne-avec-cette-nouveaute",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/copy-of-logo-simple-f-768x432.jpg?resize=169,169&key=12ffff10",
+        "date": "Mon, 28 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2016/3/18/11261586/bragi-dash-review-wireless-bluetooth-earbuds",
+        "image": "",
+        "date": "Tue, 29 Jul 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.wsj.com/business/energy-oil/ai-data-center-power-costs-bbfcd862",
+        "image": "",
+        "date": "Tue, 29 Jul 2025 11:28:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 28 Jul 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DCD-Richard-Robinson.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
+        "date": "Mon, 28 Jul 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/07/29/ai-is-acting-like-it-has-a-mind-of-its-own/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68865e5c3ac50c1096faf5d2/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Jul 2025 14:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/marksparrow/2025/07/29/powerful-new-ai-tools-coming-to-photoshop-for-content-creators-and-creative-professionals/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68876dbcd96098b92b082f27/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Jul 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/29/fargo-north-dakota-a-new-ai-hub/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6888c35a8553c4bc0868fca8/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Jul 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
