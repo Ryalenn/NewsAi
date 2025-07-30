@@ -1,5 +1,33 @@
 [
     {
+        "title": "Google AI pour la cartographie mondiale et la surveillance de la Terre",
+        "link": "https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+        "body": "Google présente ses derniers développements en matière d'IA pour la cartographie et la surveillance de la Terre. AlphaEarth Foundations est un modèle d'IA qui fonctionne comme un satellite virtuel, intégrant des données de télédétection pour fournir une représentation numérique unifiée de la Terre. Ce modèle permet de surmonter les défis liés à la complexité et à la disparité des ensembles de données de télédétection, offrant ainsi une image plus complète et cohérente de l'évolution de la planète. AlphaEarth Foundations combine des données optiques de satellite, des images radar, des cartes laser 3D, des simulations climatiques et plus encore, avec une résolution de 10x10 mètres, permettant un suivi précis des changements dans le temps. De plus, il crée des résumés compacts, réduisant l'espace de stockage nécessaire et rendant les analyses à l'échelle planétaire plus accessibles. Le modèle a été testé avec succès et s'est avéré plus précis que les méthodes traditionnelles et d'autres systèmes d'IA pour diverses tâches, y compris l'identification de l'utilisation des terres et l'estimation des propriétés de surface. L'ensemble de données Satellite Embedding, alimenté par AlphaEarth Foundations, est mis à disposition via Google Earth Engine, aidant les organisations à créer des cartes personnalisées et à prendre des décisions éclairées sur des questions critiques telles que la sécurité alimentaire, la déforestation et les ressources en eau.",
+        "image": "",
+        "date": "Wed, 30 Jul 2025 14:37:59 GMT"
+    },
+    {
+        "title": "La domination d'Excel par ChatGPT",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/30/chatgpt-is-coming-for-excel/?ss=ai",
+        "body": "ChatGPT d'OpenAI peut désormais interagir avec Microsoft Excel, marquant une étape importante dans la course à l'intelligence artificielle. Alors qu'auparavant, ChatGPT était capable d'agréger des données et d'écrire des fonctions Excel de base, il peut désormais effectuer des tâches cognitivement complexes, comme un humain. Cette nouvelle capacité de ChatGPT menace de rendre obsolètes les travailleurs de bureau qui effectuaient auparavant ces tâches manuellement. Les médias technologiques couvrent cette évolution avec enthousiasme, suggérant que ChatGPT pourrait être la prochaine étape de l'automatisation des tâches de bureau. Les utilisateurs de GitHub ont noté que si ChatGPT-4 excelle dans la gestion des feuilles de calcul Excel, il rencontre encore des difficultés avec les fonctionnalités Excel plus complexes. Malgré cela, la capacité de ChatGPT à « utiliser » une feuille de calcul de manière humaine illustre le pouvoir troublant des LLM. Cette évolution soulève des questions sur la concurrence future entre les humains et les agents IA pour l'utilisation de logiciels.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688a262039fec88399d07962/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Jul 2025 14:00:00 GMT"
+    },
+    {
+        "title": "L'avènement de la superintelligence",
+        "link": "https://www.meta.com/superintelligence/",
+        "body": "Le texte présente la vision de Meta en matière d'intelligence artificielle et son évolution future. Meta prévoit que l'IA améliorera considérablement nos systèmes existants et permettra de créer et de découvrir des choses inimaginables aujourd'hui. L'accent est mis sur le potentiel de l'IA à initier une nouvelle ère d'autonomisation personnelle, aidant les individus à atteindre leurs objectifs et à créer le monde qu'ils souhaitent voir. Meta croit en la mise à disposition de cette technologie pour tous, afin que les gens puissent l'orienter vers ce qui est important pour eux. L'entreprise diffère ainsi des autres acteurs du secteur qui pensent que la superintelligence devrait être centralisée pour automatiser tout le travail précieux. Meta envisage un avenir où la technologie et la vie des gens se croisent, avec des appareils personnels tels que des lunettes qui comprennent notre contexte et nous aident à atteindre nos objectifs. Bien que la superintelligence soulève de nouvelles préoccupations en matière de sécurité, Meta estime que les avantages devraient être partagés avec le monde aussi largement que possible, tout en atténuant rigoureusement les risques.",
+        "image": "",
+        "date": "Wed, 30 Jul 2025 13:47:53 GMT"
+    },
+    {
+        "title": "L'ascension de l'IA : de l'exploration prudente à l'intégration stratégique",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/07/30/you-can-buy-ai-but-you-cant-fake-capability-why-most-firms-will-never-catch-up/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68893c342a6855b9e373c574/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Jul 2025 13:00:00 GMT"
+    },
+    {
         "title": "AI-Native Enterprise",
         "link": "https://www.forbes.com/sites/solrashidi/2025/07/30/the-four-ai-business-models-reshaping-the-future-of-enterprise/?ss=ai",
         "body": "L'article explore l'évolution des entreprises d'IA, passant d'une simple utilisation de l'IA à une intégration complète de celle-ci dans leurs modèles économiques. Il identifie quatre modèles économiques émergents basés sur l'IA : les produits collants, les systèmes co-développés, les services full-stack et la mise à niveau des opérations. Plutôt que de vendre simplement des « outils alimentés par l'IA », les entreprises les plus performantes conçoivent des systèmes axés sur le débit, testés en production et ancrés dans la réalité des clients. Le succès dépend de l'alignement de la structure de l'entreprise avec la dynamique de l'IA, en adoptant des itérations de commentaires, la proximité de l'utilisateur et la propriété des résultats. Alors que les entreprises natives de l'IA mûrissent, des modèles hybrides, des jeux écosystémiques et des créateurs de catégories émergeront, offrant une orientation claire pour naviguer dans le paysage en évolution rapide de l'IA.",
@@ -133,6 +161,13 @@
         "date": "Tue, 29 Jul 2025 00:23:22 GMT"
     },
     {
+        "title": "Déverrouiller les opportunités commerciales mondiales",
+        "link": "https://www.forbes.com/sites/josipamajic/2025/07/29/how-ai-is-finally-tackling-americas-unclaimed-duty-crisis/?ss=ai",
+        "body": "L'article explore l'émergence de startups spécialisées dans la gestion du commerce international, soutenues par l'intelligence artificielle, qui visent à aider les entreprises à récupérer les droits de douane payés sur les biens importés qui sont ensuite réexportés. Ce processus, connu sous le nom de « drawback », est complexe et souvent négligé par les entreprises, laissant des milliards de dollars non réclamés chaque année. Les startups, comme Caspian, iCustoms.AI et Revenir AI, proposent des solutions basées sur l'IA pour simplifier le processus de drawback et concurrencer les courtiers en douane et les cabinets de conseil traditionnels. L'auteur souligne la complexité des opérations commerciales, les défis réglementaires et l'opportunité massive que représentent les droits non réclamés. Les startups doivent offrir une expérience utilisateur supérieure et des temps de traitement plus rapides tout en naviguant dans les réglementations commerciales complexes. L'adoption de l'IA dans ce domaine pourrait révolutionner la gestion des coûts commerciaux internationaux, mais la réussite dépendra de la confiance des clients et des régulateurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6888c706b12e491e12bae857/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 29 Jul 2025 00:00:00 GMT"
+    },
+    {
         "title": "Améliorer la confiance dans les boutiques en ligne avec Google Chrome",
         "link": "https://www.frandroid.com/marques/google/2747115_google-chrome-veut-simplifier-vos-achats-en-ligne-avec-cette-nouveaute",
         "body": "Google annonce un nouvel outil intégré à Google Chrome, utilisant Google Gemini, qui permet aux utilisateurs d'évaluer la fiabilité d'une boutique en ligne. Situé en haut à gauche de la barre de recherche, la fonctionnalité \"Avis boutiques\" donne accès à des informations telles que le service client, les retours des utilisateurs, la qualité des produits et les délais de livraison. Ces recommandations centralisées visent à aider les acheteurs en ligne à prendre des décisions éclairées et à gagner du temps lors de leurs achats. La fonctionnalité est actuellement en cours de déploiement aux États-Unis, uniquement sur la version web de Google Chrome.",
@@ -201,26 +236,5 @@
         "body": "Google Chrome lance les avis de magasin aux États-Unis, une fonctionnalité qui utilise l'IA pour fournir aux utilisateurs un résumé des avis sur les sites de commerce électronique. L'outil affiche un résumé des avis sur des thèmes tels que le service client, la qualité des produits, l'expédition, les prix et les retours, aidant ainsi les utilisateurs à prendre des décisions d'achat éclairées. Cette fonctionnalité, basée sur les données de Google Shopping et d'autres sites d'avis populaires, vise à améliorer l'expérience de shopping en ligne en la rendant plus sûre et plus efficace.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/unnamed.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 28 Jul 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'avenir appartient aux marques qui s'adaptent à l'IA",
-        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/07/28/why-your-brand-is-your-only-defense-against-ais-sea-of-sameness/?ss=ai",
-        "body": "Dans un monde où l'IA génère de plus en plus de contenus, la différenciation des marques devient encore plus cruciale. Les modèles linguistiques massifs développent des préférences pour les marques établies et fiables, et c'est sur ces marques que l'IA se concentrera lorsqu'elle fera des recommandations. Les entreprises doivent donc adapter leurs stratégies de construction de marque à cette nouvelle réalité, en mettant en place un schéma de balisage complet et en créant des représentants IA incarnant leur marque. Les marques qui négligeront cette adaptation risquent de devenir invisibles, car l'IA pourrait très bien les ignorer au profit de leurs concurrentes. Il est donc essentiel d'investir dans la domination de sa niche par l'IA dès maintenant pour établir des relations durables avec les clients de demain.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688791a0f080d9738854ab3f/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 28 Jul 2025 15:16:00 GMT"
-    },
-    {
-        "title": "L'IA au service des coachs",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/07/28/ai-will-replace-coaches-and-most-dont-know-why/?ss=ai",
-        "body": "L'intelligence artificielle ne remplacera pas les coachs qui l'utilisent, mais ceux qui la négligent. Les coachs doivent intégrer l'IA pour amplifier leur impact, créer des produits numériques, automatiser les tâches et analyser les données. L'IA peut aider les coachs à offrir des résultats supérieurs et à se concentrer sur une connexion humaine profonde. Les clients recherchent des résultats rapides et faciles, et l'IA peut aider les coachs à les fournir. Les coachs doivent combiner leur génie avec l'IA pour avoir un impact plus important, gagner plus d'argent et avoir plus de temps libre. Ils peuvent utiliser l'IA pour créer des cours, des guides et des outils d'évaluation basés sur leurs méthodes et offrir ainsi des résultats plus rapides et un soutien continu à leurs clients. L'IA peut également analyser les données des séances de coaching pour identifier les tendances et améliorer les méthodes. Enfin, l'automatisation des tâches administratives permet aux coachs de se concentrer sur le travail de transformation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68876945560a0cf390e548d2/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 28 Jul 2025 14:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA dans le Midwest",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/07/28/americas-heartland-responds-to-ai/?ss=ai",
-        "body": "Bien qu'on l'associe souvent à la côte ouest américaine, l'intelligence artificielle (IA) connaît un essor surprenant dans le Midwest, une région traditionnellement considérée comme en retard sur le plan technologique. Des investissements massifs dans des usines automatisées, comme celles de John Deere dans le Michigan, l'Ohio et l'Indiana, témoignent de l'adoption croissante de l'IA dans la région. De plus, des universités comme celles du Michigan et de Purdue forment une main-d'œuvre qualifiée en IA. La construction de centres de données hyperscale, comme ceux d'AWS dans l'Ohio, pour un investissement de 7,8 milliards de dollars, transforme l'économie régionale. Les entreprises sont attirées par des facteurs tels que des sources d'énergie nucléaire et hydroélectrique fiables, des terrains et de l'eau abondants pour les infrastructures, et un climat tempéré. Cincinnati, en particulier, est devenue un hub pour les données nationales grâce à sa localisation centrale et à ses infrastructures Internet existantes. Les études montrent un intérêt croissant pour l'IA dans le Midwest, avec une acceptation positive passant de 34 % à 68 % entre juin 2024 et avril 2025, bien que les travailleurs expriment également de l'anxiété face à l'IA dans leur milieu de travail. Cette révolution de l'IA dans le Midwest pourrait transformer des villes comme Cleveland, Cincinnati et Youngstown, améliorant ainsi la qualité de vie de millions d'Américains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688785b0ac72bd6ad2fbb96c/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 28 Jul 2025 14:00:00 GMT"
     }
 ]
