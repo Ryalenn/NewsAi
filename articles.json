@@ -42,14 +42,14 @@
         "check": "yes"
     },
     {
-        "title": "« Réel ou Non ? » : ces images générées par IA trompent trop de monde",
+        "title": "\u00ab R\u00e9el ou Non ? \u00bb : ces images g\u00e9n\u00e9r\u00e9es par IA trompent trop de monde",
         "link": "https://www.frandroid.com/marques/microsoft/2747037_reel-ou-non-ces-images-generees-par-ia-trompent-trop-de-monde",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/vrai-ou-pas-768x432.png?resize=169,169&key=2c31b3fe",
         "date": "Mon, 28 Jul 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "ChatGPT peut maintenant résoudre des captchas sans problème",
+        "title": "ChatGPT peut maintenant r\u00e9soudre des captchas sans probl\u00e8me",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2747035_chatgpt-peut-maintenant-resoudre-des-captchas-sans-probleme",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/a83a2a38c059162477ab0302be553eb0c41369d8-768x526.jpg?resize=205,205&key=772ced44",
         "date": "Mon, 28 Jul 2025 23:00:00 GMT",
@@ -278,5 +278,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6888c706b12e491e12bae857/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Jul 2025 00:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/715730/youtube-jump-ahead-premium-feature-tv-rollout#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 30 Jul 2025 11:00:05 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/calumchace/2025/07/30/publishers-brace-for-a-shock-wave-as-search-referrals-slow/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688a59a0052c874cc15ec19e/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Jul 2025 17:45:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/charliefink/2025/07/30/amazon-backs-showrunners-ai-streaming-platform-as-it-launches-satirical-series-exit-valley/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688a536f6f2a73afd52467a5/0x0.png?format=png&width=440",
+        "date": "Wed, 30 Jul 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/07/30/innovationrx-trumps-eu-tariff-deal-will-add-13-billion-to-drug-costs/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68890018d1463ec9421f7da8/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 30 Jul 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
