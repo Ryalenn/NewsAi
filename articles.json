@@ -210,7 +210,7 @@
         "check": "yes"
     },
     {
-        "title": "J’ai essayé Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
+        "title": "J\u2019ai essay\u00e9 Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2749935_jai-essaye-perplexity-comet-le-navigateur-ia-qui-veut-tuer-google-chrome",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/perplexity-comet-image-une-768x448.jpg?resize=175,175&key=eda94d35",
         "date": "Wed, 30 Jul 2025 23:00:00 GMT",
@@ -222,5 +222,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/688b6ec5221a0b8b71b14101/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/tech-accessory-review/716360/oakley-meta-hstn-limited-edition-review-smart-glasses-wearables#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257856_Meta_Oakley_HSTN_AKrales_0080.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 12:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Uber-Eats-AI-Photo-menu-items.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/31/cline-has-raised-27-million-to-help-developers-control-their-ai-spend/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688aabdc92346afb16b5cdf1/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 15:10:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/07/31/exploring-the-human-side-of-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688b8f4b5eabe78127b7e601/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
