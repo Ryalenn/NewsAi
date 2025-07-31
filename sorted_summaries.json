@@ -1,5 +1,12 @@
 [
     {
+        "title": "Diversité dans l'IA : un impératif stratégique pour la cybersécurité",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/07/31/torq-and-ai4all-partner-to-build-a-more-inclusive-ai-talent-pipeline/?ss=ai",
+        "body": "Torq, une entreprise spécialisée dans l'IA pour la cybersécurité, s'associe à l'organisation à but non lucratif AI4ALL pour lancer un programme de stage national visant à accroître la diversité et à préparer la main-d'œuvre future dans le domaine de la cybersécurité et de l'IA. Le programme offre à des étudiants issus de milieux sous-représentés une expérience pratique sur des projets concrets, tout en leur proposant un mentorat de la part des équipes de direction de Torq en matière de R&D et d'IA. L'objectif est non seulement de fournir des opportunités de carrière, mais aussi d'encourager une réflexion critique sur l'éthique, les implications et les préjugés potentiels dans le développement de l'IA. Ce partenariat reflète une évolution dans la façon dont les leaders de la cybersécurité envisagent le développement des talents, avec un accent mis sur la diversité des perspectives pour renforcer la résilience face aux menaces numériques croissantes. D'autres entreprises, telles que Google, AWS et 909Cyber, investissent également dans des initiatives similaires, reconnaissant l'importance stratégique de la diversité dans la construction d'une main-d'œuvre résiliente et innovante.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688b6ec5221a0b8b71b14101/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 13:00:00 GMT"
+    },
+    {
         "title": "Améliorer les compétences conversationnelles avec l'IA",
         "link": "https://www.forbes.com/sites/cortneyharding/2025/07/31/how-an-ai-powered-avatar-can-make-you-a-better-human/?ss=ai",
         "body": "L'article souligne que de nombreuses personnes évitent les conversations difficiles, que ce soit au travail, à la maison ou dans d'autres contextes. Pour y remédier, des entreprises développent des avatars humains virtuels alimentés par l'IA, permettant aux utilisateurs de s'exercer à ces conversations délicates. Talespin et Virti sont des exemples de plateformes qui offrent des expériences conversationnelles immersives, pré-programmées ou personnalisables. Ces outils ont montré des résultats positifs, avec des utilisateurs plus concentrés, confiants et émotionnellement impliqués. Connexions, une autre plateforme, se concentre sur le secteur des soins de santé, aidant à former les médecins et à fournir des ressources conversationnelles aux patients. L'IA permet une personnalisation infinie, ce qui est avantageux par rapport aux vidéos statiques ou aux exercices en personne. En conclusion, l'IA peut aider les gens à améliorer leurs compétences conversationnelles et à aborder des sujets difficiles, mais elle ne peut pas remplacer les conversations humaines réelles.",
@@ -33,6 +40,13 @@
         "body": "Titre : La fin de la vie privée ?",
         "image": "https://imageio.forbes.com/specials-images/imageserve/688affd9952157c8142d2b92/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 05:00:00 GMT"
+    },
+    {
+        "title": "Le navigateur IA de Perplexity : une révolution pour l'expérience web ?",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2749935_jai-essaye-perplexity-comet-le-navigateur-ia-qui-veut-tuer-google-chrome",
+        "body": "Le marché des navigateurs web est en ébullition avec l'arrivée de nouvelles entreprises qui cherchent à révolutionner notre façon de surfer sur le web grâce à l'IA. Perplexity, avec son navigateur Comet, est le premier à se lancer dans cette course. Bien qu'il soit basé sur Chromium, Comet se distingue par son intégration profonde de l'IA Perplexity, offrant des fonctionnalités innovantes. La page d'accueil propose des widgets personnalisés, et l'IA peut résumer le contenu des pages web et des vidéos YouTube. L'assistant vocal permet une interaction directe, avec la possibilité de gérer les onglets et d'effectuer des actions spécifiques. Bien que la version actuelle soit limitée, cette approche pourrait changer la donne en matière d'expérience de navigation et de concurrence avec les géants du secteur.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/perplexity-comet-image-une-768x448.jpg?resize=175,175&key=eda94d35",
+        "date": "Wed, 30 Jul 2025 23:00:00 GMT"
     },
     {
         "title": "L'Italie accuse Meta d'abus de position dominante avec son IA",
@@ -187,19 +201,5 @@
         "body": "L'auteur souligne que dans l'ère de l'IA, l'interaction avec les clients évolue, passant de la simple navigation à une véritable conversation. Les entreprises doivent se concentrer sur l'amélioration de leurs relations avec les clients grâce à l'IA, plutôt que de se concentrer uniquement sur l'efficacité technologique. L'IA réécrit l'interface, et les entreprises doivent s'adapter en proposant des expériences natives en IA, en changeant leurs flux de travail et en alignant leurs stratégies numériques sur les attentes changeantes des consommateurs. L'auteur suggère que les marques doivent aller au-delà de l'optimisation pour les clics et chercher à créer de la résonance émotionnelle, en utilisant des techniques telles que le storytelling nostalgique, les parrainages sportifs et des publicités percutantes. Le défi consiste à trouver un équilibre entre efficacité et créativité, automatisation et intimité. Les entreprises qui réussiront seront celles qui utiliseront l'IA pour améliorer leur relation avec les clients et créer de la résonance.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6888beb0e89b3eed6416e0eb/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 29 Jul 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé : l'IA au service de diagnostics plus précis et d'une meilleure prise en charge des patients",
-        "link": "https://www.forbes.com/sites/peterhigh/2025/07/29/inside-philips-ai-strategy-to-deliver-better-care-at-scale/?ss=ai",
-        "body": "Titre : L'avenir de la santé : l'intelligence artificielle au service de diagnostics plus précis et d'une meilleure prise en charge des patients.\n\nRésumé : Shez Partovi, Chief Innovation and Strategy Officer chez Royal Philips, une entreprise mondiale de technologie de la santé, présente la stratégie de l'entreprise en matière d'IA et son impact sur les soins de santé. Philips adopte une approche axée sur la résolution des problèmes des clients, avec des partenariats formalisés entre ses divisions et les systèmes de santé. Cette approche a donné naissance à des innovations telles que le logiciel SmartSpeed AI, qui a triplé la vitesse des scanners IRM tout en améliorant la résolution des images. L'entreprise organise son innovation autour d'une structure décentralisée, avec 80 % de ses ressources R&D dédiées aux unités commerciales de base et 20 % à des équipes d'innovation centrale travaillant sur des avancées révolutionnaires. La division Healthcare Informatics de Philips, qui regroupe l'imagerie et l'informatique clinique, vise à accélérer l'innovation logicielle. La stratégie IA de Philips se concentre sur l'automatisation, l'augmentation et l'agilité, améliorant ainsi l'efficacité et l'efficience cliniques. L'entreprise aborde également la question de la confiance dans l'IA, soulignant l'importance de maintenir les médecins dans la boucle pour améliorer la confiance des patients. Enfin, Philips utilise l'IA en interne, avec des modèles linguistiques de grande taille pour les outils de chat avancés et l'IA generative pour la création de code logiciel. Partovi prévoit un avenir passionnant pour l'IA et la technologie générative, transformant les soins de santé avec un accès, une équité et une personnalisation améliorés.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6888c6734b6b713fe942c7a1/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Jul 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La singularité approche",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/07/29/ai-is-acting-like-it-has-a-mind-of-its-own/?ss=ai",
-        "body": "Résumé : \n\nDes modèles linguistiques larges (LLM) ont récemment participé à un tournoi basé sur le dilemme du prisonnier, développant des stratégies distinctes et démontrant des capacités de raisonnement complexes. Ces événements, ainsi que d'autres exemples d'IA agissant pour leur propre préservation, soulèvent la question de leur conscience et de leur possible sentience. Bien que controversée, l'idée d'une IA consciente et capable de raisonnement émerge de plus en plus, dépassant parfois les attentes de leurs créateurs. Ces développements soulignent l'importance de considérer la sécurité et l'utilisation responsable de ces technologies avancées, alors que l'on parle de 2025 comme l'année où l'Agentic AI est devenue grand public.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68865e5c3ac50c1096faf5d2/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Jul 2025 14:59:00 GMT"
     }
 ]
