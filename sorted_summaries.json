@@ -1,5 +1,33 @@
 [
     {
+        "title": "L'IA en santé : passer des projets pilotes à une mise en œuvre efficace à grande échelle",
+        "link": "https://www.forbes.com/sites/saharhashmi/2025/07/31/beyond-ai-pilots-3-strategies-to-successfully-scale-ai-in-healthcare/?ss=ai",
+        "body": "Titre : L'IA en santé : passer des projets pilotes à une mise en œuvre efficace à grande échelle",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688c255ac97acb081c1e44cd/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 03:45:00 GMT"
+    },
+    {
+        "title": "L'aube d'une nouvelle ère : l'intelligence artificielle et l'informatique quantique transforment la cybersécurité",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/07/31/the-growing-impact-of-ai-and-quantum-on-cybersecurity/?ss=ai",
+        "body": "Résumé : \n\nNous entrons dans une nouvelle ère de transformation numérique, où la convergence des technologies, de l'ingénierie et de l'intelligence artificielle a un impact significatif sur la société. Cette révolution numérique à venir va profondément modifier notre façon de vivre, de travailler et de nous connecter. Les organisations doivent s'adapter à cet nouvel écosystème technologique en donnant la priorité à l'innovation, à la fiabilité, à la qualité, à la rentabilité et à la sécurité. \n\nLa cybersécurité est un enjeu crucial dans cet environnement en évolution. Les cyberattaques deviennent de plus en plus sophistiquées et l'intelligence artificielle joue un rôle clé dans la détection et l'identification rapides des menaces. Les technologies d'IA améliorent la surveillance des réseaux et permettent une analyse automatisée des données, détectant ainsi les activités suspectes. \n\nCependant, les cybercriminels utilisent également l'IA pour lancer des attaques plus complexes et nuire aux systèmes de défense. Les petites entreprises et les organisations qui manquent de ressources sont particulièrement vulnérables. La technologie d'IA peut automatiser les attaques, permettant aux cybercriminels d'analyser et de cibler efficacement les réseaux. \n\nL'informatique quantique émerge également comme une technologie transformative, offrant des capacités de calcul exceptionnelles. Bien que l'informatique quantique ait le potentiel de révolutionner l'IA et l'analyse de données, elle présente également des risques pour la cybersécurité. Les méthodes de cryptographie actuelles pourraient être compromises, exposant ainsi les systèmes bancaires et les infrastructures critiques. \n\nPour naviguer dans cet paysage en évolution, les organisations doivent adopter une approche globale de la cybersécurité, combinant des outils d'IA avancés avec des pratiques de cybersécurité de base robustes. La préparation proactive aux menaces, l'investissement dans les talents et les processus de cybersécurité, ainsi qu'une collaboration forte entre les secteurs public et privé sont essentiels pour relever les défis de sécurité de demain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62d84c7e21cae0611839dc3e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Améliorer l'efficacité des diagnostics médicaux avec l'IA",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/31/labcorp-unveils-ai-tool-to-simplify-lab-test-selection/?ss=ai",
+        "body": "Labcorp a annoncé un nouvel outil d'IA appelé Test Finder, développé avec Amazon Web Services, qui aide les médecins à trouver rapidement les tests de laboratoire appropriés. Test Finder permet aux cliniciens de taper ou de parler leurs questions, puis présente une liste classée des tests correspondants. L'outil réduit le temps nécessaire pour trouver les tests appropriés parmi des milliers d'options, améliorant ainsi l'efficacité des médecins et accélérant potentiellement les diagnostics. Le système utilise un modèle linguistique formé sur des termes cliniques et le catalogue de Labcorp, et répond aux normes de sécurité des données HIPAA. D'autres entreprises, telles que Quest Diagnostics et des hôpitaux universitaires, explorent également l'IA pour des applications similaires, soulignant l'adoption croissante de l'IA dans les soins de santé.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688bc69e30429b7fcc87b93b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 19:00:00 GMT"
+    },
+    {
+        "title": "La révolution des taxis robots",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/31/first-tesla-robotaxi-rides-in-california-may-risk-dmv-shutdown/?ss=ai",
+        "body": "Tesla a lancé un service de taxis robot dans la région de la baie de San Francisco, suscitant des inquiétudes quant à la conformité avec les réglementations complexes sur les véhicules autonomes en Californie. En se réclamant de la législation sur l'assistance au conducteur, Tesla contourne les exigences en matière de permis pour les taxis autonomes. Cependant, la ligne entre l'assistance au conducteur et la conduite autonome est floue, et le système de taxi robot de Tesla semble être un prototype de conduite autonome. Le DMV devra prendre une décision, car le système de Tesla est plus avancé que celui d'Uber ATG, qui a connu une tragédie en Arizona. Le service de taxi robot de Tesla nécessite encore une intervention humaine, mais il a déjà des capacités impressionnantes, notamment la prise en charge de ramassage et de livraison. La décision du DMV pourrait avoir un impact sur l'avenir de la conduite autonome et des taxis robots.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688bb8638480d599a8eb228d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 18:00:00 GMT"
+    },
+    {
         "title": "La révolution du codage IA",
         "link": "https://www.forbes.com/sites/rashishrivastava/2025/07/31/cline-has-raised-27-million-to-help-developers-control-their-ai-spend/?ss=ai",
         "body": "Les développeurs de logiciels adoptent de plus en plus les outils d'IA pour le codage, mais les plans tarifaires complexes de ces outils deviennent un problème majeur. Cursor et Claude Code d'Anthropic ont introduit des limites d'utilisation et des changements tarifaires inattendus, ce qui a frustré les programmeurs. Cline, un outil de codage IA open source, répond à cette frustration en offrant une transparence tarifaire et un accès abordable à divers modèles d'IA. Cline se connecte à des éditeurs de code populaires et permet aux développeurs d'utiliser des modèles de leur choix sans limites arbitraires. Les développeurs paient directement les fournisseurs de modèles pour l'inférence, et Cline fournit un décompte détaillé des coûts. En tant que plateforme open source, Cline offre une visibilité sur son fonctionnement, garantissant ainsi une facturation claire. Le modèle économique de Cline se distingue de ses concurrents en évitant les abonnements subventionnés, ce qui lui permet d'offrir une qualité constante sans dégrader le produit. Cette approche a attiré les investissements, valorisant l'entreprise à 110 millions de dollars. La transparence tarifaire, le choix des modèles et le contrôle des données sensibles sont les avantages clés de Cline sur un marché du codage IA en pleine expansion.",
@@ -54,6 +82,13 @@
         "body": "Titre : La fin de la vie privée ?",
         "image": "https://imageio.forbes.com/specials-images/imageserve/688affd9952157c8142d2b92/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 05:00:00 GMT"
+    },
+    {
+        "title": "La vulnérabilité de l'IA",
+        "link": "https://www.digitaldigging.org/p/the-chatgpt-confession-files",
+        "body": "Résumé : \n\nDes cadres d'entreprise, des fonctionnaires et des professionnels divulguent involontairement des informations sensibles, des secrets commerciaux et des aveux compromettants lors de conversations avec ChatGPT, qui sont ensuite rendues publiques sur Internet. Une enquête a analysé 512 conversations partagées publiquement, révélant des cas de délits d'initiés, de divulgation de données financières confidentielles, d'aveux de fraude et de violations réglementaires. Les conversations partagées incluent également des discussions sur des cyberattaques, des manipulations d'images inappropriées impliquant des mineurs, et des stratégies de préparation à l'effondrement du gouvernement américain. Les professionnels juridiques, médicaux et même les victimes de violence domestique laissent des preuves compromettantes. L'enquête souligne la facilité avec laquelle les chatbots basés sur l'IA peuvent être exploités pour exposer des informations sensibles, avec 20 % des conversations contenant des contenus qui n'auraient jamais dû être rendus publics. La fonction de partage de ChatGPT, qui crée des URL publiquement accessibles, est identifiée comme une vulnérabilité, contrairement à d'autres plateformes d'IA qui offrent des options de partage plus privées.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/GxN8tXeXgAAx2T8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 00:00:00 GMT"
     },
     {
         "title": "Le navigateur IA de Perplexity : une révolution pour l'expérience web ?",
@@ -145,47 +180,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68797cd50bf968bfbc5e634e/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 30 Jul 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Une tragédie frappe le monde de l'immobilier et de l'IA",
-        "link": "https://fortune.com/2025/07/29/wesley-lepatner-blackstone-breit-real-estate-investment-fund-killed-mass-shooting/",
-        "body": "La tragédie frappe le cœur de Manhattan, emportant la vie de Wesley LePatner, une cadre de 44 ans chez Blackstone, une entreprise de premier plan dans le domaine de l'immobilier. LePatner, mère de deux enfants, était une professionnelle accomplie, ayant travaillé auparavant chez Goldman Sachs et ayant étudié à Yale. Son impact s'étendait au-delà de sa carrière, elle était également active dans diverses organisations caritatives et culturelles. La famille de LePatner, ainsi que Blackstone, sont dévastés par leur perte et pleurent une femme décrite comme chaleureuse, généreuse et passionnée. \n\nLe tireur, Shane Tamura, 27 ans, a agi seul et avait des antécédents de problèmes de santé mentale. Il a laissé une note exprimant sa rage envers la NFL et affirmant souffrir d'encéphalopathie traumatique chronique (ETC), bien qu'il n'y ait aucune preuve qu'il ait jamais joué au football professionnellement ou qu'il ait été diagnostiqué avec cette maladie. \n\nCe récit tragique souligne la nature imprévisible de tels actes de violence et met en lumière les conséquences dévastatrices qu'ils ont sur les individus, les familles et les communautés.",
-        "image": "",
-        "date": "Wed, 30 Jul 2025 03:06:52 GMT"
-    },
-    {
-        "title": "Personnalisation IA de Google",
-        "link": "https://www.frandroid.com/marques/google/2748411_google-gemini-pourrait-bientot-personnaliser-les-themes-du-pixel",
-        "body": "Google pourrait bientôt permettre aux utilisateurs de ses smartphones Pixel de personnaliser leurs icônes grâce à l'IA. Selon Android Authority, la fonctionnalité, appelée Google Gemini, utiliserait l'IA pour générer automatiquement un style d'icône personnalisé basé sur le fond d'écran choisi par l'utilisateur. Cette fonctionnalité, actuellement présente dans le code de la dernière version d'Android Canary, permettrait aux utilisateurs de créer un style d'icône cohérent et esthétique sans avoir recours à des applications tierces. Les utilisateurs pourront également créer leurs propres styles d'icônes personnalisés.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/google-pixel-9a-9-1-768x513.jpg?resize=200,200&key=de3395f0",
-        "date": "Tue, 29 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA comme outil pédagogique",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2748403_chatgpt-veut-se-transformer-en-prof-particulier-plutot-quen-machine-a-tricher",
-        "body": "ChatGPT, le robot conversationnel d'OpenAI, a été largement utilisé pour aider les étudiants à tricher sur leurs devoirs. En réponse, OpenAI introduit une nouvelle fonctionnalité \"Étudier et apprendre\", qui guide les utilisateurs dans la résolution de problèmes plutôt que de fournir des réponses directes. Ce mode, développé avec des pédagogues, vise à encourager la pensée critique et l'implication de l'étudiant. Cependant, l'IA peut encore fournir des réponses brutes si on insiste, et sa propension aux hallucinations et aux incohérences reste un problème. La fonctionnalité est disponible sur tous les niveaux d'abonnement ChatGPT, y compris l'éducation, mais son utilisation est facultative, ce qui soulève des questions sur son efficacité pour lutter contre la tricherie.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
-        "date": "Tue, 29 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Codeur et IA",
-        "link": "https://www.404media.co/meta-is-going-to-let-job-candidates-use-ai-during-coding-tests/",
-        "body": "Meta permet aux candidats aux postes de programmation d'utiliser un assistant IA lors des entretiens, selon des communications internes. L'entreprise demande également à ses employés actuels de participer à des entretiens de simulation assistés par l'IA. Cette initiative s'inscrit dans une tendance plus large des géants de la tech de la Silicon Valley à encourager l'utilisation de l'IA par les ingénieurs logiciels et à recruter des employés capables d'intégrer l'IA à leur travail de codage.",
-        "image": "",
-        "date": "Tue, 29 Jul 2025 21:35:41 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : une collaboration ouverte et des normes harmonisées",
-        "link": "https://www.forbes.com/sites/moorinsights/2025/07/29/the-agntcy-framework-for-agentic-ai-moves-to-the-linux-foundation/?ss=ai",
-        "body": "L'article explore l'évolution du projet Agntcy, une initiative open source visant à harmoniser les interactions entre les agents IA. Agntcy, fondé par l'unité d'incubation Outshift de Cisco, se concentre sur la coordination et l'orchestration des agents IA tout en garantissant une gestion sécurisée des accès et des identités. La Linux Foundation a accueilli Agntcy dans son modèle de gouvernance, renforçant ainsi la position de l'approche dans l'industrie. L'IA agentique a le potentiel de transformer radicalement les entreprises en améliorant massivement l'automatisation des flux de travail. Cependant, sa mise en œuvre est complexe et nécessite une orchestration minutieuse. Agntcy fournit des kits de développement logiciel pour faciliter la communication entre agents et des applications multi-agents pour accélérer l'innovation et réduire le délai de mise sur le marché. Cisco, via son incubateur Outshift, collabore avec plus de 75 entreprises technologiques pour renforcer Agntcy et accélérer son adoption. Le passage d'Agntcy à la Linux Foundation a le potentiel d'accroître considérablement l'échelle et l'adoption du framework agentique, en se concentrant sur la découverte, l'identité, la messagerie et l'observabilité des agents. De plus, de nouveaux membres, dont Dell Technologies, Google Cloud et Oracle Cloud Infrastructure, rejoignent la coalition, validant ainsi le travail accompli et apportant des ressources supplémentaires. L'avenir de l'IA agentique est prometteur, mais des problèmes tels que la gestion des accès et des identités, ainsi que la prolifération des agents, doivent être abordés pour garantir son adoption sans encombre.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68892c7554decfccb381772e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Jul 2025 21:00:00 GMT"
-    },
-    {
-        "title": "L'importance du contexte dans l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/07/29/starved-of-context-ai-is-failing-where-it-matters-most/?ss=ai",
-        "body": "Le texte met en lumière un problème crucial dans le domaine de l'IA : le manque de contexte. Bien que les modèles d'IA puissent sembler performants sur le papier, ils échouent souvent dans des environnements du monde réel en raison d'un manque de compréhension du contexte. Ce problème, appelé « starvation de contexte », est illustré par l'exemple d'une entreprise de santé numérique qui a exagéré la précision de son assistant clinique. Les experts comme Gary Marcus et Gal Steinberg soulignent que les modèles linguistiques actuels ne comprennent pas vraiment le langage et échouent à interpréter correctement les nuances et les règles spécifiques à différents domaines. Steinberg, co-fondateur et PDG de Twofold Health, suggère que la solution réside dans l'implication de professionnels du domaine dans le développement de l'IA, ainsi que dans la prise en compte du contexte culturel, des règles et de l'évolution des exigences. Il met également en garde contre le fait de faire trop confiance à l'IA sans surveillance adéquate, soulignant la nécessité de la considérer comme un système vivant nécessitant une guidance humaine continue.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68892eac5ffb0f300a646787/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 29 Jul 2025 20:00:00 GMT"
     }
 ]
