@@ -161,7 +161,7 @@
         "check": "yes"
     },
     {
-        "title": "J’ai essayé Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
+        "title": "J\u2019ai essay\u00e9 Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2749935_jai-essaye-perplexity-comet-le-navigateur-ia-qui-veut-tuer-google-chrome",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/perplexity-comet-image-une-768x448.jpg?resize=175,175&key=eda94d35",
         "date": "Wed, 30 Jul 2025 23:00:00 GMT",
@@ -201,5 +201,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/688b8f4b5eabe78127b7e601/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.digitaldigging.org/p/the-chatgpt-confession-files",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/GxN8tXeXgAAx2T8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/716633/ai-talent-war-meta-mark-zuckerberg-openai-nba-all-stars#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DCD_0731_AI_recruit_war.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/saharhashmi/2025/07/31/beyond-ai-pilots-3-strategies-to-successfully-scale-ai-in-healthcare/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688c255ac97acb081c1e44cd/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 03:45:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/07/31/the-growing-impact-of-ai-and-quantum-on-cybersecurity/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/62d84c7e21cae0611839dc3e/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/31/labcorp-unveils-ai-tool-to-simplify-lab-test-selection/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688bc69e30429b7fcc87b93b/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/07/31/first-tesla-robotaxi-rides-in-california-may-risk-dmv-shutdown/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688bb8638480d599a8eb228d/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 31 Jul 2025 18:00:00 GMT",
+        "check": "no"
     }
 ]
