@@ -147,7 +147,7 @@
         "check": "yes"
     },
     {
-        "title": "J’ai essayé Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
+        "title": "J\u2019ai essay\u00e9 Perplexity Comet : le navigateur IA qui veut tuer Google Chrome",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2749935_jai-essaye-perplexity-comet-le-navigateur-ia-qui-veut-tuer-google-chrome",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/perplexity-comet-image-une-768x448.jpg?resize=175,175&key=eda94d35",
         "date": "Wed, 30 Jul 2025 23:00:00 GMT",
@@ -229,5 +229,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/688bb8638480d599a8eb228d/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Des milliers d\u2019\u00e9changes avec ChatGPT se sont retrouv\u00e9s index\u00e9s publiquement sur Google",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2750717_des-milliers-dechanges-avec-chatgpt-se-sont-retrouves-indexes-publiquement-sur-google",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pxl-20240511-065728099portrait-768x577.jpg?resize=225,225&key=95256e9c",
+        "date": "Thu, 31 Jul 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/01/are-ai-agents-the-future-of-customer-service/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688c6ac170e07d4bbea83ee1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/01/how-ai-companions-manage-to-tug-at-your-heartfelt-emotional-strings/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688c5e205b75645da6bb5810/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/01/eu-nature-credits-show-the-path-to-market-driven-prosocial-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6880d0946bf7a64b569d25df/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
