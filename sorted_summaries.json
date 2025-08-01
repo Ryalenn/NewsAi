@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir incertain d'Optimus, le robot humanoïde de Tesla",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/01/is-tesla-falling-behind-on-its-robots/?ss=ai",
+        "body": "Bien que les informations sur la conception d'Optimus soient déjà disponibles en ligne, Tesla semble rencontrer des difficultés pour atteindre ses objectifs de production. À ce jour, seules quelques centaines d'unités auraient été construites, et selon certaines sources, la production pourrait même être interrompue en raison de problèmes liés à l'intégration hardware-software et à la durée de vie limitée de la batterie. Bien que l'IA puisse aider à optimiser la planification des mouvements et l'efficacité énergétique, des problèmes fondamentaux persistent avec les composants hardware, tels que les moteurs des articulations et les systèmes de transmission. De plus, la conception des mains du robot et certains aspects de son comportement nécessiteraient plus de temps de développement. Avec ses nombreux projets en cours, dont les voitures autonomes, Tesla semble avoir du mal à tout gérer, d'autant plus que ses ventes de voitures électriques sont en baisse. Les experts soulignent également que d'autres entreprises, telles que Boston Dynamics, sont plus avancées dans la conception de robots humanoïdes. L'avenir d'Optimus reste donc incertain, et il est difficile de savoir si les chiffres de production annoncés par Tesla sont exagérés ou non.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688cdfd60d4650267dd399e0/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 01 Aug 2025 15:00:00 GMT"
+    },
+    {
         "title": "Deep Think : Déblocage de la puissance de l'IA pour la résolution créative de problèmes",
         "link": "https://blog.google/products/gemini/gemini-2-5-deep-think/",
         "body": "Google annonce le lancement de Deep Think, une nouvelle fonctionnalité de l'application Gemini destinée aux abonnés de Google AI Ultra. Deep Think est un modèle d'IA avancé qui améliore la résolution de problèmes créatifs, la planification stratégique et l'amélioration progressive. Il utilise des techniques de pensée parallèle, permettant à Gemini de générer et d'explorer simultanément de multiples idées, de les réviser et de les combiner pour trouver la meilleure solution. Deep Think surpasse les autres modèles dans des benchmarks exigeants évaluant les capacités de codage, les connaissances scientifiques et la résolution de problèmes complexes. Google partage également le modèle Gemini 2.5 Deep Think, qui a obtenu une médaille d'or à l'Olympiade internationale de mathématiques, avec des mathématiciens et des universitaires sélectionnés. L'entreprise s'engage à améliorer la sécurité et la responsabilité de Gemini tout au long de son cycle de vie, en évaluant continuellement les risques associés à ses capacités avancées.",
@@ -159,26 +166,5 @@
         "body": "Amazon investit dans Fable, une start-up de San Francisco qui lance Showrunner, une plateforme permettant aux utilisateurs de créer des scènes et des épisodes de séries TV animées grâce à l'IA. Edward Saatchi, PDG et cofondateur de Fable, considère l'IA comme un nouveau média de divertissement, comparable aux jeux vidéo. Il prévoit que les services de streaming pourront proposer à leurs utilisateurs de créer de nouveaux épisodes de leurs séries préférées. Showrunner utilise un modèle d'IA propriétaire, SHOW-2, et propose deux séries originales, \"Exit Valley\" et \"Everything Is Fine\". La plateforme permet également aux utilisateurs de s'insérer eux-mêmes dans les histoires, une fonctionnalité appréciée des testeurs alpha. Bien que Showrunner soit actuellement axé sur les contenus animés, Saatchi reconnaît que l'IA a des limites en termes de narration à long terme, convenant mieux aux formats épisodiques.",
         "image": "",
         "date": "Wed, 30 Jul 2025 22:51:37 GMT"
-    },
-    {
-        "title": "La fin de l'ère du clic",
-        "link": "https://www.forbes.com/sites/calumchace/2025/07/30/publishers-brace-for-a-shock-wave-as-search-referrals-slow/?ss=ai",
-        "body": "L'émergence de modèles linguistiques massifs basés sur l'IA, tels que ChatGPT, Claude et Mistral, ainsi que les outils d'IA de Google, menace le modèle économique des organisations médiatiques qui dépendent des revenus publicitaires générés par les clics et du trafic organique provenant des moteurs de recherche. Ces outils d'IA interceptent les utilisateurs, répondent directement à leurs questions et réduisent ainsi le nombre de clics et d'impressions nécessaires pour générer des revenus publicitaires. Les éditeurs sont confrontés à un dilemme : bloquer l'accès à leur contenu pour les outils d'IA ou conclure des accords de licence, mais cela pourrait les exclure des opportunités de formation de données et de monétisation future. La monétisation de l'IA pourrait bénéficier aux entreprises d'IA plutôt qu'aux éditeurs, ce qui inverserait le modèle actuel. Les éditeurs doivent repenser la valeur de leur travail et envisager de nouveaux modèles économiques, tels que la publication de contenus exclusifs pour lesquels les gens sont prêts à payer directement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688a59a0052c874cc15ec19e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 30 Jul 2025 17:45:00 GMT"
-    },
-    {
-        "title": "La révolution de la narration interactive",
-        "link": "https://www.forbes.com/sites/charliefink/2025/07/30/amazon-backs-showrunners-ai-streaming-platform-as-it-launches-satirical-series-exit-valley/?ss=ai",
-        "body": "Amazon investit dans Showrunner, une startup de San Francisco qui a créé des épisodes de South Park générés par IA. Showrunner lance ce que son PDG, Edward Saatchi, appelle \"le Netflix de l'IA\" : une plateforme de streaming qui permet aux utilisateurs de générer leurs propres épisodes de séries télévisées, de créer de nouveaux épisodes à partir de séries existantes et même de s'insérer eux-mêmes dans les scènes. La vision de Saatchi pour l'avenir du streaming implique une participation active des téléspectateurs, qui pourront créer de nouveaux contenus à partir de leurs émissions préférées. La première offre de Showrunner, \"Exit Valley\", est une satire animée de l'élite de la Silicon Valley. Showrunner est basé sur le modèle SHOW-2 de Fable, qui a été utilisé pour créer les épisodes de South Park générés par IA qui sont devenus viraux. La plateforme introduit un modèle économique qui place les créateurs au premier plan, leur permettant de gagner des parts de revenus lorsque d'autres utilisateurs créent de nouveaux contenus à partir de leurs propriétés intellectuelles. Showrunner est en discussion avec des studios majeurs, dont Disney, pour créer des modèles génératifs personnalisés basés sur des propriétés intellectuelles existantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688a536f6f2a73afd52467a5/0x0.png?format=png&width=440",
-        "date": "Wed, 30 Jul 2025 17:00:00 GMT"
-    },
-    {
-        "title": "L'impact des tarifs douaniers sur les médicaments et les avancées dans le domaine de la santé",
-        "link": "https://www.forbes.com/sites/innovationrx/2025/07/30/innovationrx-trumps-eu-tariff-deal-will-add-13-billion-to-drug-costs/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68890018d1463ec9421f7da8/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 30 Jul 2025 16:00:00 GMT"
     }
 ]
