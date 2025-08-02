@@ -70,6 +70,13 @@
         "date": "Thu, 31 Jul 2025 23:00:00 GMT"
     },
     {
+        "title": "ChatGPT : Les dangers de la fonction de partage",
+        "link": "https://www.digitaldigging.org/p/the-chatgpt-confession-files",
+        "body": "Résumé : \n\nUne enquête a révélé que des conversations sensibles sur ChatGPT sont accessibles au public, exposant des secrets commerciaux, des admissions compromettantes et des confessions criminelles. Les conversations partagées incluent des discussions sur des projets de fusion-acquisition, des informations financières confidentielles, des admissions de fraude et des plans de cyberattaques. Les utilisateurs partagent également des informations personnelles, exposant ainsi leurs vulnérabilités financières et leur sécurité. L'enquête a mis en évidence que 20 % des 512 conversations analysées contenaient des informations sensibles qui n'auraient jamais dû être rendues publiques. Ce problème est spécifique à la fonction de partage de ChatGPT, qui crée des URL publiques indexées par les moteurs de recherche. D'autres plateformes d'IA, comme Claude, Bing Chat et Google Gemini, offrent des options de partage plus privées. L'article souligne l'ironie de la situation, où l'IA elle-même expose les vulnérabilités des utilisateurs, et met en garde contre les implications en matière de sécurité et de confidentialité.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24435317/STK150_Bing_AI_Chatbot_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 22:54:00 GMT"
+    },
+    {
         "title": "Améliorer l'efficacité des diagnostics médicaux avec l'IA",
         "link": "https://www.forbes.com/sites/ronschmelzer/2025/07/31/labcorp-unveils-ai-tool-to-simplify-lab-test-selection/?ss=ai",
         "body": "Labcorp a annoncé un nouvel outil d'IA appelé Test Finder, développé avec Amazon Web Services, qui aide les médecins à trouver rapidement les tests de laboratoire appropriés. Test Finder permet aux cliniciens de taper ou de parler leurs questions, puis présente une liste classée des tests correspondants. L'outil réduit le temps nécessaire pour trouver les tests appropriés parmi des milliers d'options, améliorant ainsi l'efficacité des médecins et accélérant potentiellement les diagnostics. Le système utilise un modèle linguistique formé sur des termes cliniques et le catalogue de Labcorp, et répond aux normes de sécurité des données HIPAA. D'autres entreprises, telles que Quest Diagnostics et des hôpitaux universitaires, explorent également l'IA pour des applications similaires, soulignant l'adoption croissante de l'IA dans les soins de santé.",
@@ -138,33 +145,5 @@
         "body": "Titre : La fin de la vie privée ?",
         "image": "https://imageio.forbes.com/specials-images/imageserve/688affd9952157c8142d2b92/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 31 Jul 2025 05:00:00 GMT"
-    },
-    {
-        "title": "La vulnérabilité de l'IA",
-        "link": "https://www.digitaldigging.org/p/the-chatgpt-confession-files",
-        "body": "Résumé : \n\nDes cadres d'entreprise, des fonctionnaires et des professionnels divulguent involontairement des informations sensibles, des secrets commerciaux et des aveux compromettants lors de conversations avec ChatGPT, qui sont ensuite rendues publiques sur Internet. Une enquête a analysé 512 conversations partagées publiquement, révélant des cas de délits d'initiés, de divulgation de données financières confidentielles, d'aveux de fraude et de violations réglementaires. Les conversations partagées incluent également des discussions sur des cyberattaques, des manipulations d'images inappropriées impliquant des mineurs, et des stratégies de préparation à l'effondrement du gouvernement américain. Les professionnels juridiques, médicaux et même les victimes de violence domestique laissent des preuves compromettantes. L'enquête souligne la facilité avec laquelle les chatbots basés sur l'IA peuvent être exploités pour exposer des informations sensibles, avec 20 % des conversations contenant des contenus qui n'auraient jamais dû être rendus publics. La fonction de partage de ChatGPT, qui crée des URL publiquement accessibles, est identifiée comme une vulnérabilité, contrairement à d'autres plateformes d'IA qui offrent des options de partage plus privées.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/GxN8tXeXgAAx2T8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Thu, 31 Jul 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Le navigateur IA de Perplexity : une révolution pour l'expérience web ?",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2749935_jai-essaye-perplexity-comet-le-navigateur-ia-qui-veut-tuer-google-chrome",
-        "body": "Le marché des navigateurs web est en ébullition avec l'arrivée de nouvelles entreprises qui cherchent à révolutionner notre façon de surfer sur le web grâce à l'IA. Perplexity, avec son navigateur Comet, est le premier à se lancer dans cette course. Bien qu'il soit basé sur Chromium, Comet se distingue par son intégration profonde de l'IA Perplexity, offrant des fonctionnalités innovantes. La page d'accueil propose des widgets personnalisés, et l'IA peut résumer le contenu des pages web et des vidéos YouTube. L'assistant vocal permet une interaction directe, avec la possibilité de gérer les onglets et d'effectuer des actions spécifiques. Bien que la version actuelle soit limitée, cette approche pourrait changer la donne en matière d'expérience de navigation et de concurrence avec les géants du secteur.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/perplexity-comet-image-une-768x448.jpg?resize=175,175&key=eda94d35",
-        "date": "Wed, 30 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'Italie accuse Meta d'abus de position dominante avec son IA",
-        "link": "https://www.frandroid.com/marques/meta/2749717_whatsapp-et-lia-un-passage-en-force-qui-peut-couter-cher-a-meta",
-        "body": "L'autorité de la concurrence italienne (AGCM) reproche à Meta d'avoir intégré son IA, Meta AI, aux milliards de comptes WhatsApp sans le consentement des utilisateurs, ce qui pourrait constituer un abus de position dominante. L'AGCM souligne que Meta semble diriger ses clients vers son IA, faussant ainsi la concurrence. Meta se défend en affirmant que l'utilisation de son IA est facultative et offre un avantage aux utilisateurs. L'affaire est prise au sérieux, avec des perquisitions au siège de Meta Italie, et pourrait entraîner des amendes salées selon les règles européennes sur la concurrence.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/meta-ai-768x512.jpg?resize=200,200&key=365efd87",
-        "date": "Wed, 30 Jul 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du divertissement avec l'IA",
-        "link": "https://variety.com/2025/digital/news/netflix-of-ai-amazon-invests-fable-showrunner-launch-1236471989/",
-        "body": "Amazon investit dans Fable, une start-up de San Francisco qui lance Showrunner, une plateforme permettant aux utilisateurs de créer des scènes et des épisodes de séries TV animées grâce à l'IA. Edward Saatchi, PDG et cofondateur de Fable, considère l'IA comme un nouveau média de divertissement, comparable aux jeux vidéo. Il prévoit que les services de streaming pourront proposer à leurs utilisateurs de créer de nouveaux épisodes de leurs séries préférées. Showrunner utilise un modèle d'IA propriétaire, SHOW-2, et propose deux séries originales, \"Exit Valley\" et \"Everything Is Fine\". La plateforme permet également aux utilisateurs de s'insérer eux-mêmes dans les histoires, une fonctionnalité appréciée des testeurs alpha. Bien que Showrunner soit actuellement axé sur les contenus animés, Saatchi reconnaît que l'IA a des limites en termes de narration à long terme, convenant mieux aux formats épisodiques.",
-        "image": "",
-        "date": "Wed, 30 Jul 2025 22:51:37 GMT"
     }
 ]
