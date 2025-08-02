@@ -119,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Des milliers d’échanges avec ChatGPT se sont retrouvés indexés publiquement sur Google",
+        "title": "Des milliers d\u2019\u00e9changes avec ChatGPT se sont retrouv\u00e9s index\u00e9s publiquement sur Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2750717_des-milliers-dechanges-avec-chatgpt-se-sont-retrouves-indexes-publiquement-sur-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pxl-20240511-065728099portrait-768x577.jpg?resize=225,225&key=95256e9c",
         "date": "Thu, 31 Jul 2025 23:00:00 GMT",
@@ -187,5 +187,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/688cdfd60d4650267dd399e0/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 01 Aug 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 01 Aug 2025 23:35:39 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Alexa-Plus-Echo-devices.jpeg?quality=90&strip=all&crop=7.7840909090909%2C0%2C84.431818181818%2C100&w=2400",
+        "date": "Fri, 01 Aug 2025 22:29:18 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.digitaldigging.org/p/the-chatgpt-confession-files",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24435317/STK150_Bing_AI_Chatbot_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 31 Jul 2025 22:54:00 GMT",
+        "check": "no"
     }
 ]
