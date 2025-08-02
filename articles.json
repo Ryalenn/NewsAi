@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Des milliers d’échanges avec ChatGPT se sont retrouvés indexés publiquement sur Google",
+        "title": "Des milliers d\u2019\u00e9changes avec ChatGPT se sont retrouv\u00e9s index\u00e9s publiquement sur Google",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2750717_des-milliers-dechanges-avec-chatgpt-se-sont-retrouves-indexes-publiquement-sur-google",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/pxl-20240511-065728099portrait-768x577.jpg?resize=225,225&key=95256e9c",
         "date": "Thu, 31 Jul 2025 23:00:00 GMT",
@@ -124,5 +124,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/67ce5c598ecc976e6525859b/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 02 Aug 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/02/investigating-weather-with-new-satellites/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688ce060af3c34c9d31c9a10/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 02 Aug 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/martineparis/2025/08/02/ai-boom-fuels-san-francisco-party-scene-as-people-seek-connection/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688d3b980745a789b01558ed/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 02 Aug 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
