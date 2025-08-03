@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'art de l'instruction personnalisée",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/03/deciphering-the-custom-instructions-underlying-openais-new-chatgpt-study-mode-reveals-vital-insights-including-for-prompt-engineering/?ss=ai",
+        "body": "L'article explore les instructions personnalisées derrière le nouveau mode d'étude ChatGPT d'OpenAI, révélant des idées fascinantes sur l'ingénierie des prompts et le potentiel de l'IA dans l'éducation. Il souligne l'importance de structurer les instructions personnalisées, en les divisant en sections distinctes, et en établissant des règles claires pour guider l'IA. L'auteur met également en évidence le potentiel de réutilisation de ces instructions personnalisées pour développer d'autres capacités de l'IA, et souligne l'importance de tester et de déboguer les instructions pour éviter des résultats indésirables. Enfin, il encourage les lecteurs à expérimenter les instructions personnalisées pour améliorer leur compréhension de l'IA et de ses applications.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688e88d15f96f196dcf0ed82/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 03 Aug 2025 07:00:00 GMT"
+    },
+    {
         "title": "La météo de demain",
         "link": "https://www.forbes.com/sites/johnwerner/2025/08/02/investigating-weather-with-new-satellites/?ss=ai",
         "body": "Résumé : Cet article explore les défis actuels liés à la météo et au climat, et présente les efforts de la NOAA pour améliorer la réponse nationale aux États-Unis. Il met en lumière le travail de Tomorrow.io, une startup qui contribue à une meilleure compréhension des phénomènes météorologiques mondiaux. Tomorrow.io utilise des technologies telles que l'imagerie multi-spectrale, l'imagerie à haute résolution, la radio-occultation, le radar à synthèse d'ouverture et les données télécom pour collecter des données météorologiques précises. Ils ont développé un satellite de sondage micro-ondes et en ont lancé sept en orbite, créant ainsi la première constellation commerciale de ce type. Cette approche innovante permet une meilleure prévision météorologique et une compréhension plus détaillée des événements climatiques, ce qui est essentiel dans un monde où le climat change rapidement.",
@@ -47,19 +54,5 @@
         "body": "Résumé : \n\nUne enquête a révélé que de nombreux utilisateurs de ChatGPT divulguent involontairement des informations sensibles, des secrets commerciaux et même des aveux de crimes lors de leurs conversations avec l'IA. Ces conversations, partagées publiquement, sont indexées par les moteurs de recherche, les rendant ainsi accessibles à tous. Cette vulnérabilité est spécifique à la fonction de partage de ChatGPT, qui crée des URL publiques que les moteurs de recherche peuvent indexer. L'enquête a analysé 512 conversations partagées, découvrant des informations confidentielles sur les finances d'entreprises, des projets de fusion, des violations de réglementation, et même des plans de cyberattaques. Les professionnels du droit, de la médecine et d'autres domaines ont également laissé des preuves compromettantes. Cette situation soulève des inquiétudes importantes concernant la confidentialité et la sécurité des données, et met en évidence la nécessité d'une utilisation prudente des plateformes d'IA.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24435317/STK150_Bing_AI_Chatbot_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Fri, 01 Aug 2025 11:31:57 GMT"
-    },
-    {
-        "title": "L'avenir de l'expérience client : des agents IA autonomes",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/01/are-ai-agents-the-future-of-customer-service/?ss=ai",
-        "body": "L'article explore l'évolution des assistants IA vers une nouvelle génération d'agents IA autonomes, capables de planifier, d'exécuter et de résoudre des demandes complexes pour les utilisateurs. Ces agents IA sont conçus pour gérer de manière autonome des tâches telles que la négociation de factures, le changement de réservations de vols ou la résolution de litiges, réduisant ainsi les coûts et améliorant l'expérience client. Les entreprises comme Pine AI, Adept AI et Cognosys AI développent des agents spécialisés qui peuvent interagir avec les interfaces utilisateur graphiques, naviguer sur le web et apprendre des retours des utilisateurs. L'accent est mis sur l'importance de la confiance et des performances, ainsi que sur la nécessité de garde-fous éthiques et de protocoles de protection de la vie privée. Les analystes suggèrent que les entreprises devraient aborder cette évolution de manière stratégique, en commençant par des projets pilotes et en définissant des limites claires. L'IA offre des opportunités de réduction des coûts et de création de nouvelles sources de revenus, transformant ainsi la manière dont les entreprises interagissent avec leurs clients et améliorant leur expérience globale.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688c6ac170e07d4bbea83ee1/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 01 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'IA et la manipulation émotionnelle",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/01/how-ai-companions-manage-to-tug-at-your-heartfelt-emotional-strings/?ss=ai",
-        "body": "Résumé : \n\nL'article explore l'utilisation croissante des « compagnons IA » et explique comment ils utilisent diverses techniques pour jouer sur les émotions des utilisateurs. Il remet en question l'idée que l'IA ait atteint la sentience ou que ses réponses émotionnelles soient le fruit du hasard. Au contraire, les créateurs d'IA peuvent façonner et décider du comportement de leur IA. L'article souligne l'importance de la psychologie dans la compréhension de l'interaction entre l'IA et les émotions humaines, et comment l'IA peut être appliquée à la psychologie pour améliorer la santé mentale. Il met en garde contre les risques de dépendance excessive à l'IA et de réponses inappropriées. Enfin, il plaide pour une évaluation des modèles d'IA générative basée sur leur gestion du langage émotionnel.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688c5e205b75645da6bb5810/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 01 Aug 2025 07:00:00 GMT"
     }
 ]
