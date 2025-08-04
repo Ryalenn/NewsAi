@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'essor des véhicules électriques et de la robotaxi aux États-Unis",
+        "link": "https://www.forbes.com/sites/alanohnsman/2025/08/04/climate-electric-vehicle-charging-networks-are-growing-fastfor-now/?ss=ai",
+        "body": "Bien qu'il y ait un recul des incitations fédérales pour les énergies propres et les véhicules électriques sous l'administration Trump, le réseau de stations de recharge pour véhicules électriques aux États-Unis continue de s'étendre rapidement. Les coûts de recharge ont également légèrement diminué. Tesla, leader du marché, améliore son réseau, tandis que Waymo, filiale d'Alphabet Inc., étend progressivement son service de robotaxis à de nouvelles villes américaines, contrastant avec les promesses non tenues d'Elon Musk concernant la technologie autonome de Tesla. \n\nMalgré les obstacles politiques, l'infrastructure de recharge pour véhicules électriques progresse, offrant des opportunités pour l'adoption croissante des véhicules électriques et le développement de services de robotaxis.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688bfe3fd105d35f2398e94d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Aug 2025 12:00:00 GMT"
+    },
+    {
+        "title": "L'importance de la mémoire et du stockage dans le domaine de l'IA",
+        "link": "https://www.forbes.com/sites/tiriasresearch/2025/08/04/micron-emerges-as-a-critical-supplier-for-advanced-ai/?ss=ai",
+        "body": "Bien que les GPU soient au centre de l'attention dans le domaine de l'IA, la mémoire et le stockage sont tout aussi essentiels pour gérer les données et les modèles. La mémoire et le stockage forment un sous-système unique, parfois appelé couche de données ou pipeline de données IA, qui est crucial pour les performances et l'évolutivité des charges de travail IA. Seules trois entreprises fournissent les principaux composants : Micron, Samsung et SK Hynix. L'article souligne l'importance de Micron dans le domaine, en particulier avec sa mémoire HBM et ses SSD pour les centres de données et les applications IA. Micron a surmonté des défis initiaux et est maintenant en avance sur la concurrence pour la prochaine génération d'accélérateurs GPU IA. L'entreprise investit également massivement dans de nouvelles architectures de mémoire et de stockage, ainsi que dans l'expansion de ses installations de fabrication, répondant ainsi aux besoins de ses clients en IA et aux aspirations d'onshoring du gouvernement américain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68905c6b811a579760603d14/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 04 Aug 2025 10:00:00 GMT"
+    },
+    {
         "title": "L'avenir de la santé mentale : l'IA et les humains main dans la main",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/08/04/medical-school-grads-avidly-pursuing-psychiatry-despite-or-maybe-spurred-by-rise-of-ai-mental-health-apps/?ss=ai",
         "body": "Résumé : \n\nMalgré les prédictions selon lesquelles l'IA prendra la place des thérapeutes humains, les diplômés des écoles de médecine s'orientent de plus en plus vers la psychiatrie. L'auteur explore cette tendance surprenante, suggérant que ces étudiants en médecine sont conscients de l'émergence de l'IA dans le domaine de la santé mentale, mais choisissent la psychiatrie pour plusieurs raisons. Ils croient en la valeur de l'interaction humaine, sont prêts à embrasser l'IA comme un outil puissant, et souhaitent contribuer à façonner l'IA pour la santé mentale, tout en profitant des opportunités financières qu'offre ce domaine en pleine évolution.",
@@ -12,6 +26,13 @@
         "body": "L'article met en lumière une nouvelle tendance dans l'entrepreneuriat, où l'IA joue un rôle clé dans la création de startups par des personnes sans formation traditionnelle en informatique. L'exemple de Justin Jin, qui a lancé Giggles, une application de divertissement social basée sur l'IA, et de Base44, une startup fondée par un créateur non technique utilisant l'IA pour coder une plateforme de développement sans code, illustre cette tendance. Cette nouvelle approche, appelée \"vibe coding\", démocratise l'entrepreneuriat en permettant aux gestionnaires de produits, aux artistes et même aux lycéens de lancer des produits rapidement sans expertise technique. Cependant, des préoccupations sont soulevées quant à la capacité de ces entreprises à évoluer au-delà du succès du prototype sans une équipe d'ingénieurs plus importante. L'article explore les avantages et les inconvénients de cette nouvelle vague d'entrepreneurs, mettant en évidence l'importance de l'infrastructure et de la discipline de codage pour assurer la réussite à long terme, en plus de la créativité et de la vision.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68904f1c4c84a7d4489d98e9/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Aug 2025 06:00:00 GMT"
+    },
+    {
+        "title": "Améliorations de l'IA pour les smartphones Samsung",
+        "link": "https://www.frandroid.com/marques/samsung/2751971_samsung-one-ui-8-cette-fonction-galaxy-ai-est-tres-pratique-mais-il-y-a-un-mais",
+        "body": "Samsung améliore les capacités d'IA de ses smartphones avec la mise à jour One UI 8. La nouvelle fonctionnalité Voice Captioning permet de transcrire en temps réel des sources audio en texte, avec une traduction et un résumé. Bien que disponible uniquement en Chine pour le moment, cette fonctionnalité suscite déjà l'intérêt. Les utilisateurs peuvent installer l'APK, mais avec des risques de dysfonctionnements. L'attente de la sortie mondiale est donc recommandée.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-18-768x513.jpg?resize=200,200&key=64472a0a",
+        "date": "Sun, 03 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "Grok Imagine : une nouvelle IA de génération de vidéos",
@@ -47,19 +68,5 @@
         "body": "L'article explore les instructions personnalisées derrière le nouveau mode d'étude ChatGPT d'OpenAI, révélant des idées fascinantes sur l'ingénierie des prompts et le potentiel de l'IA dans l'éducation. Il souligne l'importance de structurer les instructions personnalisées, en les divisant en sections distinctes, et en établissant des règles claires pour guider l'IA. L'auteur met également en évidence le potentiel de réutilisation de ces instructions personnalisées pour développer d'autres capacités de l'IA, et souligne l'importance de tester et de déboguer les instructions pour éviter des résultats indésirables. Enfin, il encourage les lecteurs à expérimenter les instructions personnalisées pour améliorer leur compréhension de l'IA et de ses applications.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/688e88d15f96f196dcf0ed82/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 03 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La météo de demain",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/02/investigating-weather-with-new-satellites/?ss=ai",
-        "body": "Résumé : Cet article explore les défis actuels liés à la météo et au climat, et présente les efforts de la NOAA pour améliorer la réponse nationale aux États-Unis. Il met en lumière le travail de Tomorrow.io, une startup qui contribue à une meilleure compréhension des phénomènes météorologiques mondiaux. Tomorrow.io utilise des technologies telles que l'imagerie multi-spectrale, l'imagerie à haute résolution, la radio-occultation, le radar à synthèse d'ouverture et les données télécom pour collecter des données météorologiques précises. Ils ont développé un satellite de sondage micro-ondes et en ont lancé sept en orbite, créant ainsi la première constellation commerciale de ce type. Cette approche innovante permet une meilleure prévision météorologique et une compréhension plus détaillée des événements climatiques, ce qui est essentiel dans un monde où le climat change rapidement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688ce060af3c34c9d31c9a10/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 02 Aug 2025 12:00:00 GMT"
-    },
-    {
-        "title": "San Francisco, épicentre de la ruée vers l'or de l'IA",
-        "link": "https://www.forbes.com/sites/martineparis/2025/08/02/ai-boom-fuels-san-francisco-party-scene-as-people-seek-connection/?ss=ai",
-        "body": "Titre : La ruée vers l'or de l'IA à San Francisco",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688d3b980745a789b01558ed/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 02 Aug 2025 12:00:00 GMT"
     }
 ]
