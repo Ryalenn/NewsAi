@@ -1,5 +1,33 @@
 [
     {
+        "title": "Music Generation Service Terms and Conditions",
+        "link": "https://elevenlabs.io/eleven-music-v1-terms",
+        "body": "Résumé : \n\nLes conditions d'utilisation du service de génération musicale d'ElevenLabs définissent les restrictions d'utilisation basées sur les différents abonnements proposés. L'utilisateur (« Customer ») doit respecter les limites de génération et de téléchargement audio, ainsi que les restrictions d'utilisation commerciale, qui varient selon le plan choisi (Free, Starter, Creator, Pro, Scale, Business ou Enterprise). L'utilisation commerciale est interdite dans le cadre du plan gratuit, tandis qu'elle est autorisée avec des limitations pour les autres plans. Les « Contextes commerciaux interdits » incluent les programmes télévisuels, les films, les publicités, les diffusions en direct, les jeux vidéo commerciaux et les événements publics de grande affluence. Les entités commerciales doivent respecter ces conditions, qui régissent la distribution de contenu audio via des plateformes de streaming telles que Spotify, Apple Music, Amazon Music et Pandora.",
+        "image": "",
+        "date": "Tue, 05 Aug 2025 23:11:41 GMT"
+    },
+    {
+        "title": "AI Advances with Amazon Bedrock and SageMaker",
+        "link": "https://www.aboutamazon.com/news/aws/openai-models-amazon-bedrock-sagemaker",
+        "body": "Amazon a annoncé des avancées importantes dans le domaine de l'IA, avec Amazon Bedrock AgentCore comme produit phare. Amazon Bedrock et Amazon SageMaker AI offriront aux clients un accès à des modèles de poids ouverts avancés, combinant la puissance d'OpenAI et de l'infonuagique. L'entreprise a également annoncé de nouvelles inscriptions sur AWS Marketplace et un investissement de 100 millions de dollars pour stimuler le développement de l'IA agentique. Ces annonces ont été faites lors du Sommet de l'énergie et de l'innovation de Pennsylvanie, qui a réuni les dirigeants d'Amazon, les décideurs politiques et les dirigeants de l'énergie et de l'IA pour promouvoir le leadership technologique américain.",
+        "image": "",
+        "date": "Tue, 05 Aug 2025 21:31:52 GMT"
+    },
+    {
+        "title": "La menace quantique",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/05/the-clock-is-ticking-on-ai-security-in-a-quantum-world/?ss=ai",
+        "body": "L'IA est désormais présente dans les tribunaux, les hôpitaux, les aéroports, les banques et de nombreuses industries, devenant un atout essentiel pour de nombreuses entreprises modernes. Cependant, la protection de ces systèmes d'IA dans un avenir quantique devient de plus en plus difficile. Alors que beaucoup s'inquiètent des prompts adverses et des hallucinations des modèles, les experts affirment qu'il s'agit du moindre de nos problèmes. David Harding, PDG d'Entrokey Labs, met en garde contre le risque réel lié à la gestion des données sensibles par les systèmes d'IA. À mesure que les machines quantiques deviendront plus puissantes, elles pourraient déchiffrer rétroactivement des quantités massives de secrets d'entreprise, de communications de défense et de données médicales, y compris toutes les données transmises via les modèles d'IA actuels. Les entreprises sous-estiment largement cette menace, la considérant comme un problème futur à résoudre d'ici 2030. Cependant, selon Harding, cette ligne de temps ne reflète pas la rapidité avec laquelle les capacités en IA et en informatique quantique évoluent. La sécurité de l'IA dépend non seulement du chiffrement, mais également de l'anticipation de la fragilité de l'écosystème dans son ensemble lorsque ce chiffrement échoue. Si les attaquants peuvent déchiffrer, rerouter ou manipuler rétroactivement ces systèmes, le coup porté à la confiance du public pourrait rivaliser avec, ou dépasser, tout événement cybernétiquement précédent.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689256ae845c502cc88b9f9f/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 05 Aug 2025 21:00:00 GMT"
+    },
+    {
+        "title": "La sécurité des données à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/08/05/the-wiretap-lack-of-ai-oversight-increases-data-breach-risks/?ss=ai",
+        "body": "Le rapport annuel d'IBM sur les violations de données met en lumière les risques de sécurité associés à l'adoption non réglementée de l'IA par les entreprises. 16 % des violations de données de l'année dernière impliquaient l'utilisation d'outils IA, souvent sans contrôle d'accès ni politique de gouvernance. Les coûts associés à ces violations sont élevés, avec une moyenne de 10,22 millions de dollars par incident aux États-Unis. De plus, les employeurs utilisent de plus en plus des outils IA pour filtrer les candidats, rendant obsolète la pratique consistant à dissimuler ses opinions politiques ou ses activités sur les réseaux sociaux. Enfin, le rapport met en garde contre les pirates nord-coréens infiltrant les entreprises et les moteurs de recherche IA contournant les blocs de sites Web, soulignant l'importance croissante de la cybersécurité et de la gouvernance de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689255dececefd22db64fb7b/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 05 Aug 2025 21:00:00 GMT"
+    },
+    {
         "title": "Google Pixel 10 Series et les défis de la chaîne d'approvisionnement",
         "link": "https://www.forbes.com/sites/prakharkhanna/2025/08/05/google-pixel-10-pro-fold-release-date-new-leak-hints-at-a-delay/?ss=ai",
         "body": "Google s'apprête à dévoiler sa série de smartphones Pixel 10 lors de son événement annuel \"Made by Google\" le 20 août 2025. La gamme de produits comprend les modèles Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL et Pixel 10 Pro Fold. Cependant, des problèmes dans la chaîne d'approvisionnement pourraient retarder la disponibilité de certains appareils. Selon un rapport de WinFuture, Google rencontre des difficultés d'approvisionnement pour plusieurs produits à venir, notamment le Pixel 10 Pro Fold, la Pixel Watch 4 et les Pixel Buds 2a. Ces appareils ne seront pas disponibles immédiatement après leur lancement, avec une date de sortie prévue pour le 9 octobre, soit un retard de sept semaines. Le rapport suggère que ces retards sont dus à des problèmes d'approvisionnement de composants, notamment pour le Pixel 10 Pro Fold qui offre une résistance améliorée à la poussière et à l'eau, et pour la Pixel Watch 4 qui présente des modifications au niveau du matériel interne et du système de chargement. Bien que les détails spécifiques ne soient pas mentionnés, les Pixel Buds 2a pourraient également être affectés par des problèmes similaires. On s'attend à ce que les smartphones Pixel 10, Pixel 10 Pro et Pixel 10 Pro XL soient disponibles dès le 28 août, peu après leur annonce. L'événement \"Made by Google\" devrait également mettre en lumière de nouvelles fonctionnalités d'IA et des améliorations logicielles pour ces appareils.",
@@ -131,40 +159,5 @@
         "body": "L'article met en lumière une nouvelle tendance dans l'entrepreneuriat, où l'IA joue un rôle clé dans la création de startups par des personnes sans formation traditionnelle en informatique. L'exemple de Justin Jin, qui a lancé Giggles, une application de divertissement social basée sur l'IA, et de Base44, une startup fondée par un créateur non technique utilisant l'IA pour coder une plateforme de développement sans code, illustre cette tendance. Cette nouvelle approche, appelée \"vibe coding\", démocratise l'entrepreneuriat en permettant aux gestionnaires de produits, aux artistes et même aux lycéens de lancer des produits rapidement sans expertise technique. Cependant, des préoccupations sont soulevées quant à la capacité de ces entreprises à évoluer au-delà du succès du prototype sans une équipe d'ingénieurs plus importante. L'article explore les avantages et les inconvénients de cette nouvelle vague d'entrepreneurs, mettant en évidence l'importance de l'infrastructure et de la discipline de codage pour assurer la réussite à long terme, en plus de la créativité et de la vision.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68904f1c4c84a7d4489d98e9/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Aug 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Fuite de données sensibles sur ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2752123_vos-conversations-privees-avec-chatgpt-ne-seront-plus-publiees-sur-google",
-        "body": "Une fonctionnalité de partage de conversation sur ChatGPT a conduit à une fuite massive de données personnelles. Les utilisateurs pouvaient cocher une option pour rendre leurs conversations accessibles via des moteurs de recherche, sans en comprendre les implications. Des informations sensibles, comme des données de santé et bancaires, ont été exposées en ligne, suscitant l'indignation. OpenAI a supprimé l'option et travaille à la suppression des résultats de recherche, tandis que les utilisateurs peuvent gérer leurs paramètres de confidentialité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
-        "date": "Sun, 03 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de l'IA pour les smartphones Samsung",
-        "link": "https://www.frandroid.com/marques/samsung/2751971_samsung-one-ui-8-cette-fonction-galaxy-ai-est-tres-pratique-mais-il-y-a-un-mais",
-        "body": "Samsung améliore les capacités d'IA de ses smartphones avec la mise à jour One UI 8. La nouvelle fonctionnalité Voice Captioning permet de transcrire en temps réel des sources audio en texte, avec une traduction et un résumé. Bien que disponible uniquement en Chine pour le moment, cette fonctionnalité suscite déjà l'intérêt. Les utilisateurs peuvent installer l'APK, mais avec des risques de dysfonctionnements. L'attente de la sortie mondiale est donc recommandée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/samsung-galaxy-z-fold-7-18-768x513.jpg?resize=200,200&key=64472a0a",
-        "date": "Sun, 03 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Grok Imagine : une nouvelle IA de génération de vidéos",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2751915_35-euros-par-mois-pour-generer-des-videos-voici-le-nouveau-projet-grok-delon-musk",
-        "body": "Elon Musk dévoile Grok Imagine, une nouvelle fonctionnalité de son IA maison Grok, déployée sur X (ex-Twitter). Grok Imagine permet de générer des vidéos de 6 secondes pour 35 € par mois. La qualité des vidéos est inférieure à celle de la concurrence, mais Grok Imagine se distingue par un mode « osé » générant des contenus suggestifs, et un faible respect du droit d'auteur et du droit à l'image, ouvrant la porte à des deepfakes. Seuls les abonnés SuperGrok ou Premium+ sur X y ont accès.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/copie-de-logo-pattern-f-768x432.jpg?resize=169,169&key=1218fdd8",
-        "date": "Sun, 03 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple développe son moteur de réponse IA",
-        "link": "https://www.frandroid.com/marques/apple/2751827_apple-veut-construire-son-propre-chatgpt-perplexity-pour-pallier-la-debacle-de-google",
-        "body": "Résumé : Apple travaille sur un moteur de réponse IA nommé AKI, capable de répondre aux questions et de rechercher des informations pertinentes sur le web. Cette initiative intervient alors qu'Apple réévalue sa collaboration avec Google, dont le contrat pour fournir le moteur de recherche par défaut sur les iPhone est remis en question par le ministère américain de la Justice. Apple souhaite également concurrencer ChatGPT et éviter de dépendre de services tiers pour des fonctionnalités clés de son écosystème. Cependant, la firme fait face à des défis, notamment le départ de ses ingénieurs vers Meta.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/wwdc-2024-june-10-apple-1-39-53-screenshot-768x432.jpg?resize=169,169&key=ce08ebb5",
-        "date": "Sun, 03 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA au travail",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/03/office-hellscapes-and-ai-process-mapping/?ss=ai",
-        "body": "L'article explore l'idée que les lieux de travail humains sont souvent désorganisés et examine le rôle potentiel de l'IA pour y remédier. Il mentionne Ethan Mollick et son idée de principe du \"garbage can\", suggérant que les entreprises sont souvent un ensemble de processus disparates. L'auteur compare cela à la \"DLL hell\" des premiers jours d'Internet, où l'application des bibliothèques numériques (DLL) était chaotique et compliquée. Mollick souligne que si 43 % des employés utilisent l'IA, ils le font de manière individuelle et non coordonnée à l'échelle de l'organisation. Malgré cela, l'IA gagne du terrain, en particulier dans le développement de produits. L'article mentionne la \"Leçon amère\", l'idée que l'IA surpassera cognitivement les humains sans une intervention importante. Mollick utilise l'exemple de l'évolution des machines d'échecs, montrant que l'IA peut apprendre par elle-même à partir de données massives ou en étant programmée avec des règles innombrables. L'article explore ensuite la supervision de l'apprentissage de l'IA, en se demandant si une supervision humaine est nécessaire ou si l'IA peut tirer ses propres conclusions à partir de vastes ensembles de données. Il mentionne également l'idée de \"brute force programming\" et suggère que les entreprises utilisent l'IA pour la logique ou pour la classification et la programmation intensive. Enfin, l'article souligne que la réflexion sur l'IA va au-delà de son impact sur les emplois, mais aussi sur la façon dont elle pourrait surpasser les humains.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/688fb4df8d68fd61ac4d951d/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 03 Aug 2025 19:00:00 GMT"
     }
 ]
