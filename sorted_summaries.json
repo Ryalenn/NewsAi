@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'avenir de l'IA en santé mentale",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/06/illinois-enacts-ai-mental-health-law-that-shakes-up-ai-makers-and-is-the-starting-wave-of-a-regulatory-tsunami-on-ai-therapy/?ss=ai",
+        "body": "L'Illinois a récemment adopté une loi sur l'utilisation de l'IA en santé mentale, qui pourrait servir de modèle pour d'autres États et pour la législation fédérale. La loi, intitulée Wellness and Oversight for Psychological Resources Act, vise à réglementer l'utilisation de l'IA en santé mentale par les thérapeutes et les entreprises de technologie. La loi soulève des questions importantes sur la responsabilité juridique, la réputation et l'éthique de l'utilisation de l'IA dans ce domaine. Bien que l'IA puisse améliorer l'accessibilité des services de santé mentale, des préoccupations subsistent quant à la qualité des conseils fournis et aux risques potentiels pour la santé des patients. Les thérapeutes qui adoptent l'IA doivent naviguer avec prudence, car la loi interdit l'utilisation de l'IA pour prendre des décisions thérapeutiques indépendantes ou interagir directement avec les clients. L'auteur plaide en faveur d'une approche équilibrée de la réglementation, reconnaissant les avantages potentiels de l'IA en santé mentale tout en gérant les risques associés.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68929c89b9e98da937a74de7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 06 Aug 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la santé : l'autonomie de l'IA",
+        "link": "https://www.forbes.com/sites/saharhashmi/2025/08/06/doctor-jekyll-or-mr-hyde-the-dual-nature-of-agentic-ai-in-healthcare/?ss=ai",
+        "body": "Titre : L'avenir de la santé : l'autonomie de l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688f0bf513cb74643a62379a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 06 Aug 2025 06:00:00 GMT"
+    },
+    {
         "title": "Music Generation Service Terms and Conditions",
         "link": "https://elevenlabs.io/eleven-music-v1-terms",
         "body": "Résumé : \n\nLes conditions d'utilisation du service de génération musicale d'ElevenLabs définissent les restrictions d'utilisation basées sur les différents abonnements proposés. L'utilisateur (« Customer ») doit respecter les limites de génération et de téléchargement audio, ainsi que les restrictions d'utilisation commerciale, qui varient selon le plan choisi (Free, Starter, Creator, Pro, Scale, Business ou Enterprise). L'utilisation commerciale est interdite dans le cadre du plan gratuit, tandis qu'elle est autorisée avec des limitations pour les autres plans. Les « Contextes commerciaux interdits » incluent les programmes télévisuels, les films, les publicités, les diffusions en direct, les jeux vidéo commerciaux et les événements publics de grande affluence. Les entités commerciales doivent respecter ces conditions, qui régissent la distribution de contenu audio via des plateformes de streaming telles que Spotify, Apple Music, Amazon Music et Pandora.",
         "image": "",
         "date": "Tue, 05 Aug 2025 23:11:41 GMT"
+    },
+    {
+        "title": "OpenAI libère des modèles de langage",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2753951_openai-sort-un-nouveau-modele-de-chatgpt-ouvert-quest-ce-que-ca-veut-dire-exactement",
+        "body": "OpenAI a récemment publié deux nouveaux modèles de langage, gpt-oss-20b et gt-oss-120b, qui peuvent être exécutés localement sur des machines puissantes. Ces modèles offrent des fonctionnalités similaires à ChatGPT, avec la possibilité de générer du texte et des images, de naviguer sur le Web et de contrôler un ordinateur. La publication de ces modèles « ouverts » marque un retour aux sources pour OpenAI, qui n'avait pas partagé de code depuis GPT-2 en 2019. Le code de poids, qui détaille les connexions et leur importance, est également rendu public, offrant une transparence sur le fonctionnement des modèles et permettant aux développeurs d'intégrer des chatbots avec plus de clarté. Bien que les modèles soient sous licence libre, ils ne sont pas entièrement open source, car les données d'entraînement et le code généré ne sont pas disponibles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/gpt-scaled-cogs-768x432.jpg?resize=169,169&key=5973cb10",
+        "date": "Tue, 05 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "AI Advances with Amazon Bedrock and SageMaker",
@@ -145,12 +166,5 @@
         "body": "Bien que les GPU soient au centre de l'attention dans le domaine de l'IA, la mémoire et le stockage sont tout aussi essentiels pour gérer les données et les modèles. La mémoire et le stockage forment un sous-système unique, parfois appelé couche de données ou pipeline de données IA, qui est crucial pour les performances et l'évolutivité des charges de travail IA. Seules trois entreprises fournissent les principaux composants : Micron, Samsung et SK Hynix. L'article souligne l'importance de Micron dans le domaine, en particulier avec sa mémoire HBM et ses SSD pour les centres de données et les applications IA. Micron a surmonté des défis initiaux et est maintenant en avance sur la concurrence pour la prochaine génération d'accélérateurs GPU IA. L'entreprise investit également massivement dans de nouvelles architectures de mémoire et de stockage, ainsi que dans l'expansion de ses installations de fabrication, répondant ainsi aux besoins de ses clients en IA et aux aspirations d'onshoring du gouvernement américain.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68905c6b811a579760603d14/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 04 Aug 2025 10:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé mentale : l'IA et les humains main dans la main",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/04/medical-school-grads-avidly-pursuing-psychiatry-despite-or-maybe-spurred-by-rise-of-ai-mental-health-apps/?ss=ai",
-        "body": "Résumé : \n\nMalgré les prédictions selon lesquelles l'IA prendra la place des thérapeutes humains, les diplômés des écoles de médecine s'orientent de plus en plus vers la psychiatrie. L'auteur explore cette tendance surprenante, suggérant que ces étudiants en médecine sont conscients de l'émergence de l'IA dans le domaine de la santé mentale, mais choisissent la psychiatrie pour plusieurs raisons. Ils croient en la valeur de l'interaction humaine, sont prêts à embrasser l'IA comme un outil puissant, et souhaitent contribuer à façonner l'IA pour la santé mentale, tout en profitant des opportunités financières qu'offre ce domaine en pleine évolution.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/685c2a7f22c10295b04cd5f5/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 04 Aug 2025 07:00:00 GMT"
     }
 ]
