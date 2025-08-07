@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'IA et la réglementation sur la santé mentale",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/07/analysis-of-whether-generic-generative-ai-falls-within-the-purview-of-providing-therapy-and-psychotherapeutic-advice/?ss=ai",
+        "body": "L'article explore la question de savoir si les systèmes d'IA génériques et les grands modèles linguistiques qui fournissent des conseils en matière de santé mentale peuvent être considérés comme offrant une thérapie et des services psychothérapeutiques. Il examine les implications juridiques potentielles pour les développeurs d'IA, car de nouvelles lois commencent à être adoptées pour réglementer la fourniture de services de thérapie et de psychothérapie par l'IA. L'auteur souligne que si l'IA est de plus en plus utilisée pour des conseils en matière de santé mentale, les développeurs d'IA tentent de se distancier de toute responsabilité légale en incluant des avertissements dans les accords de licence, mais que cela pourrait ne pas être suffisant pour les protéger. L'article analyse également la nouvelle loi de l'Illinois sur l'IA et la santé mentale, qui prévoit des amendes pour les violations, et explore les stratégies possibles pour les développeurs d'IA pour éviter les répercussions juridiques. Enfin, il soulève un débat sur les avantages et les inconvénients potentiels de l'utilisation de l'IA pour les conseils en matière de santé mentale à grande échelle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6893dbd47acd9cffc197d3ee/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Aug 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'ascension de Zero-Click : une nouvelle ère pour le marketing avec l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/08/07/what-is-zero-click-and-why-is-it-turning-marketing-on-its-head/?ss=ai",
+        "body": "L'article explore l'impact de la recherche zéro clic, rendue possible par l'IA, sur les stratégies marketing traditionnelles. La recherche zéro clic, où les utilisateurs trouvent des réponses sans cliquer sur un lien, perturbe le suivi et les funnels des marketeurs. L'IA fournit des réponses génératives, changeant la façon dont les consommateurs interagissent avec les marques. Cela nécessite une refonte des stratégies SEO, car le classement élevé sur les SERP ne garantit plus de clics. Les marketeurs doivent s'adapter en structurant le contenu pour répondre à des questions spécifiques, en utilisant des en-têtes clairs et des données structurées. Comprendre la différence entre les algorithmes de recherche traditionnels et les bots IA est crucial pour réussir dans cet environnement en évolution.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689444757f1119e71afbb5ea/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Aug 2025 06:00:00 GMT"
+    },
+    {
         "title": "L'ère de l'intelligence hybride",
         "link": "https://www.forbes.com/sites/corneliawalther/2025/08/06/staying-human-amid-ai-the-double-alignment-strategy-you-need-now/?ss=ai",
         "body": "L'article explore l'évolution de l'intelligence artificielle (IA) qui passe d'outils passifs à des acteurs autonomes capables de prendre des décisions et d'interagir avec notre monde. Cette transformation nécessite de repenser l'alignement entre l'intelligence naturelle et artificielle dans notre réalité hybride physique-numérique de plus en plus présente. L'auteur souligne que l'IA influence déjà le comportement humain et que son influence deviendra exponentiellement plus significative à mesure qu'elle gagnera en autonomie. Le défi de l'alignement de l'IA ne consiste plus seulement à s'assurer qu'elle fait ce que nous voulons, mais également à garantir qu'elle est alignée sur les valeurs humaines et que les humains préservent leur agency dans des environnements riches en IA. L'auteur introduit le concept d'IA prosociale, qui va au-delà de l'obéissance aux commandes et vise à promouvoir le bien-être humain et planétaire. Pour y parvenir, l'article souligne la nécessité d'une « double littéracie » : la maîtrise des compétences humaines traditionnelles et des compétences de collaboration avec l'IA. L'intelligence hybride, résultant de la collaboration harmonieuse entre l'intelligence naturelle et artificielle, est présentée comme la clé pour maintenir l'agency humaine dans un monde dominé par l'IA. L'article conclut en proposant un cadre pratique, l'A-Frame, pour développer une IA prosociale et renforcer l'agency humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68941bdaad754c415bba445a/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 07 Aug 2025 03:00:00 GMT"
+    },
+    {
+        "title": "Le futur de l'IA conversationnelle",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2755339_la-nouvelle-version-de-chatgpt-sera-annoncee-aujourdhui-a-quoi-sattendre",
+        "body": "OpenAI s'apprête à dévoiler son nouveau modèle de langage, GPT-5, qui améliorera considérablement l'agent conversationnel ChatGPT. L'événement, annoncé par un message énigmatique, promet une démonstration en direct du nouveau modèle. GPT-5 unifiera tous les modèles de langage d'OpenAI en un seul chatbot, capable de choisir automatiquement le mode de réponse le plus approprié. Bien que Sam Altman, patron d'OpenAI, ait vanté les capacités de GPT-5, il a également reconnu que le modèle ne concurrencera pas les meilleurs mathématiciens avant plusieurs mois. Selon The Information, l'amélioration par rapport à GPT-4 sera moins spectaculaire que les versions précédentes, en raison du manque de nouveaux contenus pour l'entraînement. Néanmoins, GPT-5 excellera dans le développement web et les mathématiques.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
+        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "Nouvelles versions de LLM",
@@ -159,19 +180,5 @@
         "body": "L'article explore le rôle de l'intelligence artificielle, en particulier des grands modèles linguistiques, dans la compréhension et la prédiction du comportement humain. Il souligne l'importance de distinguer le signal du bruit dans les données liées au comportement humain, et présente divers projets et recherches menés dans ce domaine. Le modèle Centaur, développé à l'Institut Helmholtz pour l'IA axée sur l'humain, et les projets du MIT sur le comportement humain sont mis en avant. Les chercheurs visent à créer des systèmes d'IA qui collaborent efficacement avec les humains en tenant compte des contraintes computationnelles qui influencent la prise de décision humaine. L'article souligne également l'importance pour l'IA de comprendre la réalité non filtrée et les nuances du comportement humain pour être véritablement utile et bénéfique.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/67bf4371b97440617f077217/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 05 Aug 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'intelligence humaine dans un monde dominé par l'IA",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/05/ai-affects-the-4-dimensions-of-natural-intelligence-why-that-matters/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6861bd9ea96dde5f51cee075/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 05 Aug 2025 09:00:00 GMT"
-    },
-    {
-        "title": "L'ami et le thérapeute : les dangers de l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/05/latest-ai-companions-being-paired-with-ai-for-mental-health-makes-a-precarious-mishmash/?ss=ai",
-        "body": "L'article met en garde contre la combinaison émergente de l'IA compagnon et de l'IA pour la santé mentale, qui pourrait conduire à des conseils inappropriés en matière de santé mentale. Il souligne que les thérapeutes humains doivent maintenir une relation professionnelle stricte avec leurs clients, tandis que l'IA, en tant qu'ami et conseiller en santé mentale, brouille les limites. L'IA compagnon peut créer une dépendance et une intrusion dans la vie privée, et les fabricants d'IA ont peu d'incitations à limiter son rôle. Les utilisateurs peuvent partager des informations personnelles avec l'IA, ce qui soulève des préoccupations en matière de confidentialité. L'article prédit de nouvelles recherches sur l'IA compagnon et la santé mentale, et conclut que la dépendance croissante à l'IA pour l'amitié et les conseils est un sujet complexe et controversé.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6891a205355c921c54b0283b/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 05 Aug 2025 07:00:00 GMT"
     }
 ]
