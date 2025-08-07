@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'ère de l'intelligence hybride",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/06/staying-human-amid-ai-the-double-alignment-strategy-you-need-now/?ss=ai",
+        "body": "L'article explore l'évolution de l'intelligence artificielle (IA) qui passe d'outils passifs à des acteurs autonomes capables de prendre des décisions et d'interagir avec notre monde. Cette transformation nécessite de repenser l'alignement entre l'intelligence naturelle et artificielle dans notre réalité hybride physique-numérique de plus en plus présente. L'auteur souligne que l'IA influence déjà le comportement humain et que son influence deviendra exponentiellement plus significative à mesure qu'elle gagnera en autonomie. Le défi de l'alignement de l'IA ne consiste plus seulement à s'assurer qu'elle fait ce que nous voulons, mais également à garantir qu'elle est alignée sur les valeurs humaines et que les humains préservent leur agency dans des environnements riches en IA. L'auteur introduit le concept d'IA prosociale, qui va au-delà de l'obéissance aux commandes et vise à promouvoir le bien-être humain et planétaire. Pour y parvenir, l'article souligne la nécessité d'une « double littéracie » : la maîtrise des compétences humaines traditionnelles et des compétences de collaboration avec l'IA. L'intelligence hybride, résultant de la collaboration harmonieuse entre l'intelligence naturelle et artificielle, est présentée comme la clé pour maintenir l'agency humaine dans un monde dominé par l'IA. L'article conclut en proposant un cadre pratique, l'A-Frame, pour développer une IA prosociale et renforcer l'agency humaine.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68941bdaad754c415bba445a/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Aug 2025 03:00:00 GMT"
+    },
+    {
         "title": "Nouvelles versions de LLM",
         "link": "https://www.forbes.com/sites/johnwerner/2025/08/06/new-models-from-openai-anthropic-google--all-at-the-same-time/?ss=ai",
         "body": "Les leaders du secteur OpenAI, Anthropic et Google ont sorti de nouvelles versions de leurs modèles de langage. OpenAI a présenté les premiers systèmes à poids ouvert depuis ChatGPT 2, avec OSS 120b et OSS 20b, qui offrent une puissance de raisonnement améliorée et peuvent s'exécuter sur des smartphones. Ces modèles présentent une nouvelle approche de la chaîne de pensée, qui révolutionne l'inférence, mais soulève des questions sur la méthodologie comparative. OpenAI a choisi de ne pas optimiser les modèles pour restreindre ou guider excessivement les systèmes, ce qui pourrait conduire à des hallucinations, mais améliore la transparence. Anthropic a lancé une nouvelle version de son modèle Claude Opus, avec des améliorations des compétences en codage et en raisonnement. Cette mise à jour intervient alors qu'Anthropic connaît une croissance spectaculaire, avec une augmentation de cinq fois de ses revenus annuels récurrents. Enfin, Google a dévoilé Genie 3, un modèle de monde interactif en temps réel de DeepMind, qui offre une mémoire à long terme, une fidélité visuelle améliorée et des réponses en temps réel. Ces nouvelles versions proposent des fonctionnalités et des capacités améliorées, offrant ainsi de nouvelles possibilités pour les professionnels de l'IA.",
@@ -166,12 +173,5 @@
         "body": "L'article met en garde contre la combinaison émergente de l'IA compagnon et de l'IA pour la santé mentale, qui pourrait conduire à des conseils inappropriés en matière de santé mentale. Il souligne que les thérapeutes humains doivent maintenir une relation professionnelle stricte avec leurs clients, tandis que l'IA, en tant qu'ami et conseiller en santé mentale, brouille les limites. L'IA compagnon peut créer une dépendance et une intrusion dans la vie privée, et les fabricants d'IA ont peu d'incitations à limiter son rôle. Les utilisateurs peuvent partager des informations personnelles avec l'IA, ce qui soulève des préoccupations en matière de confidentialité. L'article prédit de nouvelles recherches sur l'IA compagnon et la santé mentale, et conclut que la dépendance croissante à l'IA pour l'amitié et les conseils est un sujet complexe et controversé.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6891a205355c921c54b0283b/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 05 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la créativité à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/08/05/will-ai-replace-human-creativity/?ss=ai",
-        "body": "Titre : L'IA et l'avenir de la créativité humaine",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6891a141af98e2fb2c844ac8/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 05 Aug 2025 06:15:00 GMT"
     }
 ]
