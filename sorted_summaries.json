@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nouvelles versions de LLM",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/06/new-models-from-openai-anthropic-google--all-at-the-same-time/?ss=ai",
+        "body": "Les leaders du secteur OpenAI, Anthropic et Google ont sorti de nouvelles versions de leurs modèles de langage. OpenAI a présenté les premiers systèmes à poids ouvert depuis ChatGPT 2, avec OSS 120b et OSS 20b, qui offrent une puissance de raisonnement améliorée et peuvent s'exécuter sur des smartphones. Ces modèles présentent une nouvelle approche de la chaîne de pensée, qui révolutionne l'inférence, mais soulève des questions sur la méthodologie comparative. OpenAI a choisi de ne pas optimiser les modèles pour restreindre ou guider excessivement les systèmes, ce qui pourrait conduire à des hallucinations, mais améliore la transparence. Anthropic a lancé une nouvelle version de son modèle Claude Opus, avec des améliorations des compétences en codage et en raisonnement. Cette mise à jour intervient alors qu'Anthropic connaît une croissance spectaculaire, avec une augmentation de cinq fois de ses revenus annuels récurrents. Enfin, Google a dévoilé Genie 3, un modèle de monde interactif en temps réel de DeepMind, qui offre une mémoire à long terme, une fidélité visuelle améliorée et des réponses en temps réel. Ces nouvelles versions proposent des fonctionnalités et des capacités améliorées, offrant ainsi de nouvelles possibilités pour les professionnels de l'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6893d844ad661267f9287c13/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 06 Aug 2025 22:00:00 GMT"
+    },
+    {
         "title": "La peur de l'AGI",
         "link": "https://www.forbes.com/sites/victoriafeng/2025/08/06/fear-of-super-intelligent-ai-is-driving-harvard-and-mit-students-to-drop-out/?ss=ai",
         "body": "La crainte d'une intelligence artificielle générale (AGI) capable d'effectuer des tâches aussi bien que les humains et de potentiellement causer leur extinction, pousse certains étudiants à abandonner leurs études pour travailler dans le domaine de la sécurité de l'IA. Bien que controversée, l'idée d'un risque d'extinction a gagné du terrain, motivant les jeunes à poursuivre des carrières dans la mitigation des risques liés à l'IA. Les étudiants craignent également que l'AGI n'affecte négativement leurs perspectives d'emploi, accélérant ainsi leur entrée sur le marché du travail. Cette tendance a conduit à la création de startups axées sur l'IA, certaines connaissant un succès considérable. Cependant, abandonner l'université implique des risques, notamment la perte des avantages associés à l'obtention d'un diplôme universitaire.",
@@ -166,47 +173,5 @@
         "body": "Titre : L'IA et l'avenir de la créativité humaine",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6891a141af98e2fb2c844ac8/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 05 Aug 2025 06:15:00 GMT"
-    },
-    {
-        "title": "L'IA, un outil puissant pour les managers et les leaders",
-        "link": "https://www.forbes.com/sites/starlasampaco/2025/08/05/3-chatgpt-prompts-every-manager-or-ceo-should-use/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68767f7fed478be079385233/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 05 Aug 2025 00:00:00 GMT"
-    },
-    {
-        "title": "La domination de l'IA",
-        "link": "https://www.frandroid.com/marques/google/2753525_pixel-10-google-prouve-une-nouvelle-fois-que-vendre-des-smartphones-nest-pas-sa-priorite",
-        "body": "Google met en avant son avance en matière d'intelligence artificielle par rapport à Apple, avec sa technologie Gemini, qui sera intégrée aux futurs Pixel 10. L'IA est devenue la priorité de Google, qui souhaite s'imposer comme leader dans ce domaine. La vente de smartphones, y compris les Pixel 10, n'est qu'un moyen d'atteindre cet objectif, en déployant l'IA de Google auprès du plus grand nombre. L'entreprise mise également sur son partenariat avec Samsung, leader mondial des smartphones, pour promouvoir Gemini. Sergey Brin, cofondateur de Google, vise l'intelligence artificielle générale (AGI) d'ici 2030.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/google-pixel-10-objectif-768x432.jpg?resize=169,169&key=2db15244",
-        "date": "Mon, 04 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google contre-attaque Apple avec l'IA",
-        "link": "https://www.frandroid.com/marques/google/2753529_dans-la-premiere-pub-du-pixel-10-google-attaque-apple-la-ou-ca-fait-mal",
-        "body": "Google s'apprête à dévoiler son Pixel 10 le 20 août 2025, mettant l'accent sur l'intelligence artificielle (IA) et son assistant Gemini. Dans une publicité, Google s'en prend à Apple, qui avait promis une refonte de Siri avec Apple Intelligence en 2024, mais qui a connu un fiasco. Google suggère aux utilisateurs déçus de changer pour le Pixel 10, qui intégrera profondément l'IA. Cette stratégie offensive de Google rappelle celle de Samsung, qui se moquait auparavant des annonces d'Apple. Bien que Google soit un petit acteur dans le marché des smartphones par rapport à Apple, il mise sur l'IA comme argument de vente clé pour son nouveau Pixel 10.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/google-pixel-10-teasing-768x432.jpg?resize=169,169&key=6ada5be5",
-        "date": "Mon, 04 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le scraping éthique en question",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2753169_perplexity-volerait-des-donnees-pour-alimenter-son-moteur-de-recherche",
-        "body": "L'article met en lumière les pratiques controversées de certaines entreprises d'IA, notamment Perplexity, qui ignorent les restrictions mises en place par les sites web pour empêcher l'accès à leurs données. Cette pratique, connue sous le nom de scraping, soulève des questions éthiques et a été dénoncée par plusieurs acteurs du secteur, dont iFixit et le PDG de Reddit. Face aux accusations, Perplexity a nié son implication, mais l'étude de Cloudfare suggère le contraire. Ce problème est d'autant plus pertinent que Perplexity ambitionne de remplacer Google Chrome, soulignant ainsi l'importance de l'éthique dans le développement de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/logo-perplexity-768x432.png?resize=169,169&key=59e7d9df",
-        "date": "Mon, 04 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Reddit s'impose dans la recherche en ligne",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2752937_comment-reddit-veut-devenir-le-moteur-de-recherche-de-reference-et-ruiner-google",
-        "body": "Reddit souhaite améliorer son système de recherche en ligne pour concurrencer les moteurs de recherche traditionnels. Son PDG, Steve Huffman, annonce l'unification de Reddit Answers, son système de réponse par IA, et de sa fonction de recherche principale. Cette décision fait suite à l'observation que de nombreux utilisateurs ajoutent « reddit » à leurs requêtes pour obtenir des réponses plus précises issues de la communauté. Avec plus de 70 millions d'utilisateurs hebdomadaires et une croissance financière positive, Reddit a les moyens de ses ambitions et souhaite mettre ce nouveau système de recherche au premier plan de son application.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/07/reddit-logo-630x336.jpg?resize=300,300&key=1a12d905",
-        "date": "Mon, 04 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir financier incertain de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2752935_chatgpt-continue-dattirer-de-plus-en-plus-dutilisateurs-a-ses-propres-depens",
-        "body": "Malgré sa popularité croissante, avec 700 millions d'utilisateurs hebdomadaires, ChatGPT d'OpenAI fait face à des difficultés financières. L'entreprise perd de l'argent malgré les revenus des abonnements, car les coûts de fonctionnement augmentent avec le nombre d'utilisateurs. Les pertes nettes d'OpenAI pourraient atteindre 14 milliards de dollars d'ici 2026, et les abonnements Pro à 200 $ par mois ne sont pas rentables. L'entreprise dépend des injections de fonds de capital-risqueurs, mais la question de la viabilité à long terme reste sans réponse.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
-        "date": "Mon, 04 Aug 2025 23:00:00 GMT"
     }
 ]
