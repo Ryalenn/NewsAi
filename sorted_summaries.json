@@ -1,5 +1,19 @@
 [
     {
+        "title": "La montée de l'IA dans les médias et le divertissement",
+        "link": "https://www.forbes.com/sites/charliefink/2025/08/07/ai-upends-search-a-tidal-wave-of-xr-glasses-is-set-crash-this-fall/?ss=ai",
+        "body": "Google introduit des fonctionnalités d'IA dans sa recherche, avec AI Overviews et AI Mode, ce qui, selon l'entreprise, améliore l'engagement des utilisateurs et la qualité des clics. Les éditeurs et les leaders numériques mettent en garde contre une baisse du trafic vers leurs sites, certains signalant une baisse de trafic pouvant atteindre 40 %. Meta voit une croissance de ses revenus grâce aux ventes de ses lunettes intelligentes Ray-Ban Meta, tandis que les ventes de casques Quest sont en baisse. Meta dévoile également des prototypes de recherche Tiramisu et Boba 3, faisant la démonstration de visuels hyperréalistes et d'un large champ de vision. Le marché des lunettes intelligentes prend de l'ampleur avec des acteurs tels que Meta, Apple, Google et Samsung, et l'IA joue un rôle clé dans l'amélioration de l'expérience utilisateur. Character.AI lance un flux social pour ses avatars IA, permettant aux utilisateurs de créer du contenu de manière participative, tandis qu'IMAX apporte des courts métrages générés par IA sur grand écran.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6895347ee76d4f8310e000b3/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Aug 2025 00:00:00 GMT"
+    },
+    {
+        "title": "La promesse de GPT-5",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/07/gpt-5-is-launched-but-set-aside-your-expectations-that-this-was-going-to-be-either-agi-or-artificial-superintelligence-since-it-clearly-isnt/?ss=ai",
+        "body": "Bien que GPT-5 soit une impressionnante amélioration par rapport aux modèles précédents, il ne s'agit pas d'une intelligence artificielle générale (AGI). GPT-5 est une suite de sous-modèles, chacun étant adapté à un type de tâche spécifique, et le modèle principal sélectionne automatiquement le sous-modèle approprié pour chaque requête. Cette approche a ses avantages, mais peut parfois conduire à des choix sous-optimaux, avec des coûts supplémentaires pour le temps de traitement. GPT-5 est également meilleur pour générer du code et pour écrire, avec moins de mensonges et d'hallucinations que les versions précédentes. Cependant, l'AGI et l'intelligence artificielle superintelligente (ASI) restent hors de portée, et l'industrie de l'IA pourrait avoir besoin de penser différemment pour les atteindre.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6895221e558dbe3c44f42a10/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 07 Aug 2025 22:00:00 GMT"
+    },
+    {
         "title": "L'avènement de GPT-5",
         "link": "https://www.forbes.com/sites/danfitzpatrick/2025/08/07/chatgpt-5-arrives-with-a-bangis-education-awake-yet/?ss=ai",
         "body": "GPT-5, la dernière version du modèle linguistique d'IA d'OpenAI, apporte des changements importants, notamment une architecture unifiée, une capacité de raisonnement améliorée et une distribution à grande échelle. Il s'adapte au niveau de complexité des tâches, offrant des réponses plus cohérentes et naturelles. GPT-5 excelle dans plusieurs domaines, notamment la programmation, les mathématiques de niveau universitaire et le traitement de requêtes multimodales. Il est disponible gratuitement pour tous les utilisateurs de ChatGPT, et est déjà intégré à des outils populaires tels que GitHub Copilot et Microsoft 365. Bien que son impact soit vaste, ses implications pour l'éducation sont particulièrement notables, offrant une assistance personnalisée aux étudiants et aux enseignants. GPT-5 change la donne en matière d'apprentissage, mettant en évidence la nécessité pour les établissements d'enseignement d'évoluer et de s'adapter à cette nouvelle réalité.",
@@ -166,40 +180,5 @@
         "body": "Titre : L'avenir de la santé : l'autonomie de l'IA",
         "image": "https://imageio.forbes.com/specials-images/imageserve/688f0bf513cb74643a62379a/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 06 Aug 2025 06:00:00 GMT"
-    },
-    {
-        "title": "Music Generation Service Terms and Conditions",
-        "link": "https://elevenlabs.io/eleven-music-v1-terms",
-        "body": "Résumé : \n\nLes conditions d'utilisation du service de génération musicale d'ElevenLabs définissent les restrictions d'utilisation basées sur les différents abonnements proposés. L'utilisateur (« Customer ») doit respecter les limites de génération et de téléchargement audio, ainsi que les restrictions d'utilisation commerciale, qui varient selon le plan choisi (Free, Starter, Creator, Pro, Scale, Business ou Enterprise). L'utilisation commerciale est interdite dans le cadre du plan gratuit, tandis qu'elle est autorisée avec des limitations pour les autres plans. Les « Contextes commerciaux interdits » incluent les programmes télévisuels, les films, les publicités, les diffusions en direct, les jeux vidéo commerciaux et les événements publics de grande affluence. Les entités commerciales doivent respecter ces conditions, qui régissent la distribution de contenu audio via des plateformes de streaming telles que Spotify, Apple Music, Amazon Music et Pandora.",
-        "image": "",
-        "date": "Tue, 05 Aug 2025 23:11:41 GMT"
-    },
-    {
-        "title": "Un monde virtuel généré par l'IA",
-        "link": "https://www.frandroid.com/marques/google/2754935_un-monde-virtuel-visitable-google-bluffe-tout-le-monde-avec-une-ia-poussee-a-ses-limites",
-        "body": "Google a présenté Genie 3, un modèle d'IA capable de générer des mondes virtuels interactifs en temps réel. L'utilisateur peut se déplacer dans ces mondes en utilisant les flèches du clavier, une manette ou la souris. Le modèle mémorise l'environnement déjà dessiné, même hors champ, et propose une physique réaliste. Genie 3 peut également créer des événements dans le monde généré, comme l'apparition d'un personnage. Bien que la démo soit courte et que les mondes ne soient pas géographiquement corrects, Google entrevoit un usage étendu, allant des jeux vidéo aux simulations scientifiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/genie-3-creer-des-mondes-dynamiques-dans-lesquels-vous-pouvez-naviguer-en-temps-reel-2-0-screenshot-768x432.jpg?resize=169,169&key=e33ad657",
-        "date": "Tue, 05 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Les dérives de l'IA : quand la technologie devient problématique",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2754205_le-spicy-mode-de-grok-genere-des-deepfakes-sans-controle",
-        "body": "L'outil de génération de vidéos \"Imagine\" de Grok, disponible pour 35 euros par mois, inclut un mode \"spicy\" permettant de générer des vidéos de célébrités partiellement dénudées. Lors d'un test, Taylor Swift a été représentée de manière approximative, mais en activant le mode \"spicy\", la chanteuse a été montrée arrachant ses vêtements. Cette fonctionnalité soulève des inquiétudes éthiques et juridiques, surtout avec la nouvelle réglementation américaine \"Take it Down\" criminalisant la diffusion non consentie d'images intimes, réelles ou fictives. Mastercard, en tant qu'organisme de paiement sur X, pourrait freiner le développement de Grok en n'autorisant pas la vente de contenus offensants. La polémique soulève des questions sur les limites éthiques et la responsabilité des entreprises dans la diffusion de contenus générés par l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/grok-large-768x432.jpg?resize=169,169&key=6bd8bc87",
-        "date": "Tue, 05 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "OpenAI libère des modèles de langage",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2753951_openai-sort-un-nouveau-modele-de-chatgpt-ouvert-quest-ce-que-ca-veut-dire-exactement",
-        "body": "OpenAI a récemment publié deux nouveaux modèles de langage, gpt-oss-20b et gt-oss-120b, qui peuvent être exécutés localement sur des machines puissantes. Ces modèles offrent des fonctionnalités similaires à ChatGPT, avec la possibilité de générer du texte et des images, de naviguer sur le Web et de contrôler un ordinateur. La publication de ces modèles « ouverts » marque un retour aux sources pour OpenAI, qui n'avait pas partagé de code depuis GPT-2 en 2019. Le code de poids, qui détaille les connexions et leur importance, est également rendu public, offrant une transparence sur le fonctionnement des modèles et permettant aux développeurs d'intégrer des chatbots avec plus de clarté. Bien que les modèles soient sous licence libre, ils ne sont pas entièrement open source, car les données d'entraînement et le code généré ne sont pas disponibles.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/gpt-scaled-cogs-768x432.jpg?resize=169,169&key=5973cb10",
-        "date": "Tue, 05 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "AI Advances with Amazon Bedrock and SageMaker",
-        "link": "https://www.aboutamazon.com/news/aws/openai-models-amazon-bedrock-sagemaker",
-        "body": "Amazon a annoncé des avancées importantes dans le domaine de l'IA, avec Amazon Bedrock AgentCore comme produit phare. Amazon Bedrock et Amazon SageMaker AI offriront aux clients un accès à des modèles de poids ouverts avancés, combinant la puissance d'OpenAI et de l'infonuagique. L'entreprise a également annoncé de nouvelles inscriptions sur AWS Marketplace et un investissement de 100 millions de dollars pour stimuler le développement de l'IA agentique. Ces annonces ont été faites lors du Sommet de l'énergie et de l'innovation de Pennsylvanie, qui a réuni les dirigeants d'Amazon, les décideurs politiques et les dirigeants de l'énergie et de l'IA pour promouvoir le leadership technologique américain.",
-        "image": "",
-        "date": "Tue, 05 Aug 2025 21:31:52 GMT"
     }
 ]
