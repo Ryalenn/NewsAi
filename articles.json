@@ -1,20 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 06 Aug 2025 10:55:57 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/719617/microsoft-nlweb-security-flaw-agentic-web#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 06 Aug 2025 10:30:33 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/victordey/2025/08/06/how-tech-giants-are-reinventing-cybersecurity-for-the-ai-agent-era/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689366e59a30bf8447c0644b/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 06 Aug 2025 14:39:00 GMT",
@@ -29,13 +15,6 @@
     },
     {
         "title": "",
-        "link": "https://www.forbes.com/sites/bradtempleton/2025/08/06/judging-tesla-robotaxi-on-what-it-does-rather-than-what-musk-says/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6892cb9207ab49268d4f40a3/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 06 Aug 2025 10:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://sites.google.com/view/invitation-is-all-you-need",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 06 Aug 2025 17:31:47 GMT",
@@ -46,13 +25,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-583785208.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 06 Aug 2025 13:30:00 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/719697/nvidia-ai-gpu-chips-denies-backdoors-kill-switches-spyware#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728972/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Wed, 06 Aug 2025 11:27:18 GMT",
         "check": "no"
     },
     {
@@ -98,7 +70,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : la nouvelle version GPT-5 sera annonc\u00e9e aujourd\u2019hui. \u00c0 quoi s\u2019attendre ?",
+        "title": "ChatGPT : la nouvelle version GPT-5 sera annoncée aujourd’hui. À quoi s’attendre ?",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2755339_la-nouvelle-version-de-chatgpt-sera-annoncee-aujourdhui-a-quoi-sattendre",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
         "date": "Wed, 06 Aug 2025 23:00:00 GMT",
@@ -126,14 +98,14 @@
         "check": "yes"
     },
     {
-        "title": "\u00ab Ne pas utiliser pour entrainer l\u2019IA \u00bb : Universal avertit les entreprises volant ses films",
+        "title": "« Ne pas utiliser pour entrainer l’IA » : Universal avertit les entreprises volant ses films",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2755613_ne-pas-utiliser-pour-entrainer-lia-universal-avertit-les-entreprises-volant-ses-films",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/guneet-jassal-zfm3hpmcs68-unsplash-768x540.jpg?resize=211,211&key=77917ce0",
         "date": "Wed, 06 Aug 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Face \u00e0 Gemini, ChatGPT int\u00e8gre mieux les services Google (Gmail, Agenda et Contacts)",
+        "title": "Face à Gemini, ChatGPT intègre mieux les services Google (Gmail, Agenda et Contacts)",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2755899_face-a-gemini-chatgpt-integre-mieux-les-services-google-gmail-agenda-et-contacts",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/chatgpt-gpt-5-google-768x432.jpg?resize=169,169&key=1bc245f5",
         "date": "Wed, 06 Aug 2025 23:00:00 GMT",
@@ -147,7 +119,7 @@
         "check": "yes"
     },
     {
-        "title": "Une refonte majeure de ChatGPT : GPT-5 est l\u00e0, plus simple, plus malin, voici les nouveaut\u00e9s \u00e0 retenir",
+        "title": "Une refonte majeure de ChatGPT : GPT-5 est là, plus simple, plus malin, voici les nouveautés à retenir",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2756021_chatgpt-gpt-5-est-la-plus-simple-plus-malin-voici-les-nouveautes-a-retenir",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/gpt-5-flagship-hero-768x430.png?resize=168,168&key=f17f6899",
         "date": "Wed, 06 Aug 2025 23:00:00 GMT",
