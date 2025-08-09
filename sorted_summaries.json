@@ -1,5 +1,26 @@
 [
     {
+        "title": "Le Web des Agents",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/08/getting-closer-to-ai-internet-protocols/?ss=ai",
+        "body": "Le texte met en lumière l'importance croissante de la connectivité dans le domaine de l'IA, en particulier avec l'émergence d'agents IA de plus en plus déployables et déployés. L'auteur souligne que 2024 a été une année marquante pour la découverte des capacités agentiques de l'IA, suscitant des questions sur la manière dont ces agents interagiront et se connecteront les uns aux autres. Le protocole NANDA (Networked Agents and Decentralized AI), développé par le MIT avec la contribution de Tata Consultancy Services et Mitsubishi Electric, vise à répondre à ce besoin en créant un cadre pour gérer le trafic Internet généré par les systèmes IA décentralisés. L'article présente également les idées d'Abhishek Singh, qui compare l'évolution de l'IA à celle des primates sociaux, et suggère que des concepts tels que les \"coupons\" peuvent servir de \"hyperliens\" pour les agents IA, leur permettant d'interagir et d'échanger de la valeur. Les intervenants, dont Andrea Ridi et Ramesh Raskar, soulignent l'importance de doter les agents des outils nécessaires à leur fonctionnement, tandis que Cameron Dennis présente le travail de NEAR, une entreprise explorant des concepts liés à NANDA. L'auteur conclut en soulignant l'impact potentiel de ces développements sur le web mondial, laissant entrevoir un avenir passionnant pour Internet.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68969cf3f96fd6d804d981f6/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 09 Aug 2025 00:58:00 GMT"
+    },
+    {
+        "title": "La nouvelle génération de chatbots GPT-5",
+        "link": "https://www.forbes.com/sites/johnbbrandon/2025/08/08/with-openai-gpt-5-social-media-users-have-an-all-in-one-ai-creation-tool/?ss=ai",
+        "body": "Le dernier modèle de chatbot GPT-5, développé par OpenAI, présente des avancées significatives par rapport à ses prédécesseurs, notamment en termes de tonalité et de structure langagière. Le texte souligne que le chatbot adopte un style plus décontracté et personnel, s'éloignant de la rigidité robotique associée aux versions précédentes. Cette évolution est particulièrement intéressante pour les créateurs de contenu sur les réseaux sociaux, car elle permet de produire des publications plus engageantes et adaptées au ton informel de plateformes comme Instagram et TikTok. De plus, GPT-5 excelle dans la planification de contenu, offrant des suggestions de calendrier et des appels à l'action (CTA) de manière intuitive. Bien que la qualité des graphiques générés ne soit pas exceptionnelle, l'amélioration globale du ton et du rythme du texte suggère que GPT-5 pourrait devenir un outil polyvalent pour les créateurs de contenu en ligne.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68964fb31dd3409a9218cc08/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Aug 2025 19:00:00 GMT"
+    },
+    {
+        "title": "Qualcomm's Evolution Beyond Mobile Chips",
+        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/08/08/qualcomm-execs-discuss-plans-for-growth-in-automotive-iot-and-beyond/?ss=ai",
+        "body": "Qualcomm, célébrant son 40e anniversaire, a diversifié ses activités au-delà des puces pour téléphones mobiles, se lançant dans l'automobile, l'IoT, les PC, les centres de données et la robotique. Malgré des succès, Wall Street reste sceptique. L'article explore la stratégie de diversification de Qualcomm à travers des interviews avec ses dirigeants, soulignant son approche écosystémique, son expertise en connectivité, gestion de l'énergie et miniaturisation. L'IA est un axe clé, avec des applications dans les expériences utilisateur, l'informatique décentralisée et les centres de données. Qualcomm s'appuie sur ses forces pour entrer dans l'automobile et l'IoT, et cible les centres de données et la robotique. Son succès dans l'IA et la diversification dépendront de l'exécution et de la reconnaissance de sa valeur unique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689625cd78189f4e136c6a05/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 08 Aug 2025 18:00:00 GMT"
+    },
+    {
         "title": "La nature fictive des excuses des chatbots",
         "link": "https://www.aiweirdness.com/chatgpt-will-apologize-for-anything/?ref=ai-weirdness-newsletter",
         "body": "Bien que les chatbots comme ChatGPT puissent fournir des réponses et des excuses élaborées, il est important de se rappeler que ces réponses sont fictives et improvisées. L'article souligne comment les gens, y compris les journalistes, peuvent être induits en erreur par les explications et les excuses des chatbots, en leur attribuant une signification qu'ils n'ont pas. L'auteur donne des exemples de demandes d'excuses absurdes, comme libérer des dinosaures dans Central Park ou échanger une vache contre des haricots magiques, et montre comment ChatGPT improvise des réponses détaillées, allant même jusqu'à suggérer des stratégies de restitution. L'auteur souligne que les chatbots ne consultent aucune donnée ou historique de conversation, et que leurs « excuses » ne devraient pas être prises pour une véritable réflexion ou une promesse de changement de comportement.",
@@ -131,54 +152,5 @@
         "body": "L'article explore l'évolution de l'intelligence artificielle (IA) qui passe d'outils passifs à des acteurs autonomes capables de prendre des décisions et d'interagir avec notre monde. Cette transformation nécessite de repenser l'alignement entre l'intelligence naturelle et artificielle dans notre réalité hybride physique-numérique de plus en plus présente. L'auteur souligne que l'IA influence déjà le comportement humain et que son influence deviendra exponentiellement plus significative à mesure qu'elle gagnera en autonomie. Le défi de l'alignement de l'IA ne consiste plus seulement à s'assurer qu'elle fait ce que nous voulons, mais également à garantir qu'elle est alignée sur les valeurs humaines et que les humains préservent leur agency dans des environnements riches en IA. L'auteur introduit le concept d'IA prosociale, qui va au-delà de l'obéissance aux commandes et vise à promouvoir le bien-être humain et planétaire. Pour y parvenir, l'article souligne la nécessité d'une « double littéracie » : la maîtrise des compétences humaines traditionnelles et des compétences de collaboration avec l'IA. L'intelligence hybride, résultant de la collaboration harmonieuse entre l'intelligence naturelle et artificielle, est présentée comme la clé pour maintenir l'agency humaine dans un monde dominé par l'IA. L'article conclut en proposant un cadre pratique, l'A-Frame, pour développer une IA prosociale et renforcer l'agency humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68941bdaad754c415bba445a/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 07 Aug 2025 03:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT amélioré avec GPT-5",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2755899_face-a-gemini-chatgpt-integre-mieux-les-services-google-gmail-agenda-et-contacts",
-        "body": "OpenAI a lancé GPT-5, améliorant ainsi les capacités de ChatGPT. Les utilisateurs payants peuvent désormais accéder à de meilleurs connecteurs pour les applications Google, notamment Gmail, Google Agenda et Google Contacts. Ces connecteurs permettent à l'IA d'accéder aux données de ces applications, améliorant ainsi la pertinence des interactions et la productivité des utilisateurs. De plus, ChatGPT peut désormais sélectionner automatiquement le modèle de langage le plus approprié pour répondre aux requêtes, éliminant ainsi le besoin de choisir manuellement entre les différentes options. Même les utilisateurs gratuits pourront accéder à GPT-5, bien que de manière limitée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/chatgpt-gpt-5-google-768x432.jpg?resize=169,169&key=1bc245f5",
-        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT se met à jour avec GPT-5",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2756081_chatgpt-vous-pourrez-essayer-gpt-5-sans-payer",
-        "body": "ChatGPT intègre désormais le modèle linguistique GPT-5, offrant une expérience améliorée aux utilisateurs. OpenAI a créé un engouement autour de cette nouvelle version, qui est désormais accessible à tous, même aux utilisateurs gratuits, bien que ceux-ci soient soumis à des limites d'utilisation. Les utilisateurs payants de ChatGPT pourront profiter pleinement des capacités de GPT-5, tandis que les utilisateurs gratuits auront un accès limité, similaire à l'expérience actuelle avec GPT-4. La mise à jour apporte des réponses plus fluides et pertinentes, améliorant ainsi l'expérience globale de l'outil d'IA conversationnelle.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/prix-gpt-5-768x432.jpg?resize=169,169&key=a0cc5487",
-        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Une Majeure Refonte de ChatGPT : GPT-5",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2756021_chatgpt-gpt-5-est-la-plus-simple-plus-malin-voici-les-nouveautes-a-retenir",
-        "body": "OpenAI lance GPT-5, une nouvelle version de son modèle LLM, avec l'objectif de simplifier l'expérience utilisateur et d'améliorer les capacités de l'IA. GPT-5 propose une interface unifiée, éliminant la complexité du choix du modèle. La précision est améliorée, réduisant les hallucinations de l'IA. OpenAI met l'accent sur le raisonnement, la programmation et l'écriture, tout en clarifiant les limites du logiciel, notamment dans le domaine de la santé. Le mode conversation vocal évolue vers Advanced Voice, comprenant nativement la voix de l'utilisateur. GPT-5 est disponible pour tous, avec des options payantes pour les développeurs et les utilisateurs Pro.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/gpt-5-flagship-hero-768x430.png?resize=168,168&key=f17f6899",
-        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA sous surveillance",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2755613_ne-pas-utiliser-pour-entrainer-lia-universal-avertit-les-entreprises-volant-ses-films",
-        "body": "Dreamworks et Universal prennent position contre l'utilisation non autorisée de leurs contenus par les entreprises d'intelligence artificielle. Dans les génériques de fin de leurs films, les studios affichent désormais un avertissement explicite interdisant l'utilisation de leurs œuvres pour entraîner des IA. Cette décision fait suite à des dérives constatées, comme la citation de passages de Harry Potter par une IA de Meta ou la génération d'images dans le style Ghibli par ChatGPT. Universal espère ainsi endiguer la pratique de l'utilisation gratuite de contenus protégés par le droit d'auteur par les industriels.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/guneet-jassal-zfm3hpmcs68-unsplash-768x540.jpg?resize=211,211&key=77917ce0",
-        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Le futur de l'IA conversationnelle",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2755339_la-nouvelle-version-de-chatgpt-sera-annoncee-aujourdhui-a-quoi-sattendre",
-        "body": "OpenAI s'apprête à dévoiler son nouveau modèle de langage, GPT-5, qui améliorera considérablement l'agent conversationnel ChatGPT. L'événement, annoncé par un message énigmatique, promet une démonstration en direct du nouveau modèle. GPT-5 unifiera tous les modèles de langage d'OpenAI en un seul chatbot, capable de choisir automatiquement le mode de réponse le plus approprié. Bien que Sam Altman, patron d'OpenAI, ait vanté les capacités de GPT-5, il a également reconnu que le modèle ne concurrencera pas les meilleurs mathématiciens avant plusieurs mois. Selon The Information, l'amélioration par rapport à GPT-4 sera moins spectaculaire que les versions précédentes, en raison du manque de nouveaux contenus pour l'entraînement. Néanmoins, GPT-5 excellera dans le développement web et les mathématiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/openai-logo-768x432.jpg?resize=169,169&key=37167f1c",
-        "date": "Wed, 06 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Nouvelles versions de LLM",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/06/new-models-from-openai-anthropic-google--all-at-the-same-time/?ss=ai",
-        "body": "Les leaders du secteur OpenAI, Anthropic et Google ont sorti de nouvelles versions de leurs modèles de langage. OpenAI a présenté les premiers systèmes à poids ouvert depuis ChatGPT 2, avec OSS 120b et OSS 20b, qui offrent une puissance de raisonnement améliorée et peuvent s'exécuter sur des smartphones. Ces modèles présentent une nouvelle approche de la chaîne de pensée, qui révolutionne l'inférence, mais soulève des questions sur la méthodologie comparative. OpenAI a choisi de ne pas optimiser les modèles pour restreindre ou guider excessivement les systèmes, ce qui pourrait conduire à des hallucinations, mais améliore la transparence. Anthropic a lancé une nouvelle version de son modèle Claude Opus, avec des améliorations des compétences en codage et en raisonnement. Cette mise à jour intervient alors qu'Anthropic connaît une croissance spectaculaire, avec une augmentation de cinq fois de ses revenus annuels récurrents. Enfin, Google a dévoilé Genie 3, un modèle de monde interactif en temps réel de DeepMind, qui offre une mémoire à long terme, une fidélité visuelle améliorée et des réponses en temps réel. Ces nouvelles versions proposent des fonctionnalités et des capacités améliorées, offrant ainsi de nouvelles possibilités pour les professionnels de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6893d844ad661267f9287c13/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 06 Aug 2025 22:00:00 GMT"
-    },
-    {
-        "title": "La peur de l'AGI",
-        "link": "https://www.forbes.com/sites/victoriafeng/2025/08/06/fear-of-super-intelligent-ai-is-driving-harvard-and-mit-students-to-drop-out/?ss=ai",
-        "body": "La crainte d'une intelligence artificielle générale (AGI) capable d'effectuer des tâches aussi bien que les humains et de potentiellement causer leur extinction, pousse certains étudiants à abandonner leurs études pour travailler dans le domaine de la sécurité de l'IA. Bien que controversée, l'idée d'un risque d'extinction a gagné du terrain, motivant les jeunes à poursuivre des carrières dans la mitigation des risques liés à l'IA. Les étudiants craignent également que l'AGI n'affecte négativement leurs perspectives d'emploi, accélérant ainsi leur entrée sur le marché du travail. Cette tendance a conduit à la création de startups axées sur l'IA, certaines connaissant un succès considérable. Cependant, abandonner l'université implique des risques, notamment la perte des avantages associés à l'obtention d'un diplôme universitaire.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6893ae95bb93f5f837cc677e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 06 Aug 2025 19:00:00 GMT"
     }
 ]
