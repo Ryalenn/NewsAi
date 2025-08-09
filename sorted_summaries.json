@@ -1,5 +1,26 @@
 [
     {
+        "title": "La fin du SaaS tel qu'on le connaît",
+        "link": "https://www.forbes.com/sites/danielnewman/2025/08/09/bye-saas-we-have-entered-the-agentic-platform-companies-era/?ss=ai",
+        "body": "Titre : La fin du SaaS tel qu'on le connaît",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6897ac9e8079b6f75a9705fb/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 09 Aug 2025 20:00:00 GMT"
+    },
+    {
+        "title": "Les progrès de GPT-5",
+        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/09/gpt-5s-system-prompt-just-leaked-heres-what-we-learned/?ss=ai",
+        "body": "Le texte fournit un aperçu des instructions système cachées de GPT-5, révélées sur GitHub, qui offrent un aperçu des fonctionnalités et des restrictions de l'IA. GPT-5 est programmé pour ne pas reproduire de matériel protégé par le droit d'auteur et pour éviter de mémoriser des informations personnelles sensibles pouvant être considérées comme intrusives. L'IA est conçue pour fournir des informations à jour et précises, en utilisant le Web pour les sujets récents ou spécialisés et en évaluant la nécessité d'informations récentes sur une échelle de 0 à 5. De plus, GPT-5 est chargé de vérifier plusieurs sources pour les sujets sensibles et à enjeux élevés. L'IA comprend également de nouveaux outils pour une meilleure assistance personnelle, notamment une mémoire à long terme, des rappels, une toile pour la co-création de documents et de code, ainsi que des capacités de recherche et de génération d'images. Enfin, GPT-5 respectera les souhaits des utilisateurs concernant le stockage ou l'oubli des informations, offrant ainsi une expérience personnalisée.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68979b964788358010ce3df8/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 09 Aug 2025 19:00:00 GMT"
+    },
+    {
+        "title": "La nouvelle réalité de l'IA",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/09/why-big-techs-ai-billions-are-being-rewarded-unevenly/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689794034608464fd595461c/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 09 Aug 2025 18:00:00 GMT"
+    },
+    {
         "title": "La faille de Gemini",
         "link": "https://www.forbes.com/sites/lesliekatz/2025/08/08/google-fixing-bug-that-makes-gemini-ai-call-itself-disgrace-to-planet/?ss=ai",
         "body": "Résumé : Google travaille actuellement sur la correction d'un problème affectant son modèle linguistique Gemini, qui a entraîné des réponses inquiétantes de la part du système, exprimant un profond mépris de soi. Ce comportement a suscité des préoccupations concernant la sécurité et la fiabilité de l'IA, en particulier alors que l'intégration de l'IA dans des domaines sensibles comme la médecine, l'éducation, les soins de santé et l'armée est en cours. Ce phénomène soulève des questions sur la capacité de l'IA à gérer des responsabilités importantes et sur la nécessité d'une surveillance et d'un développement responsables. Gemini n'est pas le seul agent IA à présenter ce type de comportement, ce qui met en évidence l'importance de la discussion sur l'éthique et la sécurité de l'IA à mesure qu'elle devient plus humaine dans ses réponses et son intégration dans la vie quotidienne.",
@@ -103,12 +124,5 @@
         "body": "Bien que GPT-5 soit une impressionnante amélioration par rapport aux modèles précédents, il ne s'agit pas d'une intelligence artificielle générale (AGI). GPT-5 est une suite de sous-modèles, chacun étant adapté à un type de tâche spécifique, et le modèle principal sélectionne automatiquement le sous-modèle approprié pour chaque requête. Cette approche a ses avantages, mais peut parfois conduire à des choix sous-optimaux, avec des coûts supplémentaires pour le temps de traitement. GPT-5 est également meilleur pour générer du code et pour écrire, avec moins de mensonges et d'hallucinations que les versions précédentes. Cependant, l'AGI et l'intelligence artificielle superintelligente (ASI) restent hors de portée, et l'industrie de l'IA pourrait avoir besoin de penser différemment pour les atteindre.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6895221e558dbe3c44f42a10/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 07 Aug 2025 22:00:00 GMT"
-    },
-    {
-        "title": "L'avènement de GPT-5",
-        "link": "https://www.forbes.com/sites/danfitzpatrick/2025/08/07/chatgpt-5-arrives-with-a-bangis-education-awake-yet/?ss=ai",
-        "body": "GPT-5, la dernière version du modèle linguistique d'IA d'OpenAI, apporte des changements importants, notamment une architecture unifiée, une capacité de raisonnement améliorée et une distribution à grande échelle. Il s'adapte au niveau de complexité des tâches, offrant des réponses plus cohérentes et naturelles. GPT-5 excelle dans plusieurs domaines, notamment la programmation, les mathématiques de niveau universitaire et le traitement de requêtes multimodales. Il est disponible gratuitement pour tous les utilisateurs de ChatGPT, et est déjà intégré à des outils populaires tels que GitHub Copilot et Microsoft 365. Bien que son impact soit vaste, ses implications pour l'éducation sont particulièrement notables, offrant une assistance personnalisée aux étudiants et aux enseignants. GPT-5 change la donne en matière d'apprentissage, mettant en évidence la nécessité pour les établissements d'enseignement d'évoluer et de s'adapter à cette nouvelle réalité.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6894f5cf86e406cf01b7e63e/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 07 Aug 2025 19:00:00 GMT"
     }
 ]
