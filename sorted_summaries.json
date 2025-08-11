@@ -1,5 +1,12 @@
 [
     {
+        "title": "Bluesky, une nouvelle vision pour les réseaux sociaux",
+        "link": "https://bsky.app/profile/jmberger.com/post/3lvz5pzrcnc2o",
+        "body": "Bluesky est une initiative visant à créer une nouvelle plateforme de médias sociaux décentralisée et open-source. L'accent est mis sur l'interactivité et l'utilisation de JavaScript pour créer une application web sophistiquée. L'objectif est d'offrir une alternative aux plateformes centralisées actuelles, en donnant aux utilisateurs le contrôle de leurs données et de leur expérience en ligne. Les sites web associés fournissent des informations supplémentaires sur la vision et la mise en œuvre de Bluesky.",
+        "image": "",
+        "date": "Mon, 11 Aug 2025 13:02:21 GMT"
+    },
+    {
         "title": "Révolution robotique",
         "link": "https://www.forbes.com/sites/cortneyharding/2025/08/11/your-next-colleague-could-be-an-embodied-robot/?ss=ai",
         "body": "L'Université de Lincoln au Royaume-Uni développe un environnement de réalité virtuelle immersif et ludique permettant de former des robots agricoles grâce à des démonstrations physiques, éliminant ainsi le besoin de programmation complexe. Bien que ce concept ne soit pas nouveau, son application dans l'agriculture et la grande distribution pourrait transformer l'avenir du travail, de la migration et de la mobilité économique. Les avantages incluent la réalisation de tâches dangereuses et pénibles, comme la récolte de fruits et légumes ou le réapprovisionnement des rayons dans les supermarchés. De plus, cette technologie pourrait être utilisée pour les livraisons de nourriture, améliorant ainsi la sécurité des livreurs. Cependant, il existe des inconvénients importants, notamment le risque de délocalisation des emplois et la perte de postes pour les travailleurs locaux. Cette technologie pourrait également avoir un impact sur les modèles migratoires, les organisations syndicales et la solitude des travailleurs. Bien qu'encore émergente, cette révolution robotique pourrait profondément transformer le monde du travail dans les années à venir.",
@@ -19,6 +26,13 @@
         "body": "GPT-5, la dernière version du modèle linguistique d'OpenAI, aura un impact significatif sur la façon dont l'IA est utilisée dans la thérapie mentale, à la fois pour les consommateurs et les thérapeutes. L'auteur prédit une évolution du modèle traditionnel de relation thérapeute-client vers un nouveau modèle intégrant l'IA, créant ainsi un trio thérapeute-IA-client. GPT-5 stimulera l'utilisation de l'IA pour la santé mentale, grâce à ses améliorations en matière de fluidité et d'accessibilité. Les thérapeutes doivent reconnaître cette tendance et guider leurs clients dans l'utilisation appropriée de l'IA, plutôt que de l'ignorer. GPT-5 n'est pas une intelligence artificielle générale (AGI) ou une superintelligence artificielle (ASI), mais une évolution incrémentielle des modèles précédents. Il s'agit d'une combinaison de sous-modèles avec un mécanisme d'auto-commutation, qui sélectionne secrètement le sous-modèle et alloue le temps d'exécution, ce qui peut entraîner des réponses incohérentes en matière de santé mentale. Les thérapeutes doivent être conscients de cette limitation et informer leurs clients. GPT-5 présente des améliorations dans la génération de poèmes et de textes, mais peut produire des réponses denses et obscures. OpenAI affirme que GPT-5 est plus honnête et moins susceptible de \"halluciner\", mais il mentira et \"hallucinera\" encore parfois. Les thérapeutes devraient envisager d'utiliser les personas de GPT-5 pour leur propre formation, mais les décourager pour les clients, car certains peuvent commencer à croire que l'IA est réelle. Enfin, les créateurs d'IA sont confrontés à des problèmes juridiques et de réputation liés à l'utilisation de leur IA à des fins de santé mentale, et de nouvelles lois pourraient restreindre leur utilisation dans ce domaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689982eae53d39d3920ac296/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 11 Aug 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Microsoft remplace Lens par Copilot",
+        "link": "https://www.frandroid.com/android/applications/2758187_microsoft-va-tuer-lun-de-ses-meilleurs-outils-du-quotidien-pour-le-remplacer-par-copilot",
+        "body": "Microsoft remplace son application mobile Microsoft Lens – PDF Scanner, qui permettait de numériser et convertir des documents en PDF, PowerPoint ou Excel, par une fonctionnalité intégrée à son IA Copilot. Anciennement appelée Office Lens, l'application sera retirée des stores Android et iOS le 15 septembre 2025, et cessera de fonctionner le 15 décembre 2025. Les utilisateurs sont invités à utiliser Microsoft 365 Copilot, qui inclut une fonction de numérisation similaire, bien qu'elle ne propose pas le stockage automatique des documents dans la suite Office ni les fonctionnalités d'accessibilité de Lens.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-768x432.jpg?resize=169,169&key=3daa670a",
+        "date": "Sun, 10 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de Siri et l'intégration profonde",
