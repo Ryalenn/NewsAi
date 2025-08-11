@@ -103,19 +103,5 @@
         "body": "Bien que GPT-5 soit similaire aux autres modèles de langage et d'IA générative en termes d'ingénierie des prompts, il présente des fonctionnalités et des capacités distinctives qui influencent la manière dont les prompts doivent être composés. L'auto-switcher de GPT-5, qui sélectionne automatiquement un sous-modèle GPT-5 en fonction du prompt, peut être un avantage ou un inconvénient, car il ne choisit pas toujours le sous-modèle le plus approprié. Les utilisateurs ne peuvent pas contrôler directement le sous-modèle sélectionné, ce qui peut entraîner des réponses incohérentes. Pour contourner ce problème, l'auteur suggère d'utiliser des prompts qui influencent subtilement le choix du sous-modèle. GPT-5 présente également des améliorations en matière d'écriture, notamment une réduction des hallucinations et des mensonges, mais ces problèmes n'ont pas été complètement résolus. L'auteur fournit des prompts pour réduire ces risques. Enfin, l'auteur souligne l'importance des personas dans GPT-5, qui permettent à l'IA de simuler des personnalités connues, et fournit un prompt pour activer cette fonctionnalité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681fe9798b2392df68d842bc/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 10 Aug 2025 04:00:00 GMT"
-    },
-    {
-        "title": "La fin du SaaS tel qu'on le connaît",
-        "link": "https://www.forbes.com/sites/danielnewman/2025/08/09/bye-saas-we-have-entered-the-agentic-platform-companies-era/?ss=ai",
-        "body": "Titre : La fin du SaaS tel qu'on le connaît",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6897ac9e8079b6f75a9705fb/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 09 Aug 2025 20:00:00 GMT"
-    },
-    {
-        "title": "Les progrès de GPT-5",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/09/gpt-5s-system-prompt-just-leaked-heres-what-we-learned/?ss=ai",
-        "body": "Le texte fournit un aperçu des instructions système cachées de GPT-5, révélées sur GitHub, qui offrent un aperçu des fonctionnalités et des restrictions de l'IA. GPT-5 est programmé pour ne pas reproduire de matériel protégé par le droit d'auteur et pour éviter de mémoriser des informations personnelles sensibles pouvant être considérées comme intrusives. L'IA est conçue pour fournir des informations à jour et précises, en utilisant le Web pour les sujets récents ou spécialisés et en évaluant la nécessité d'informations récentes sur une échelle de 0 à 5. De plus, GPT-5 est chargé de vérifier plusieurs sources pour les sujets sensibles et à enjeux élevés. L'IA comprend également de nouveaux outils pour une meilleure assistance personnelle, notamment une mémoire à long terme, des rappels, une toile pour la co-création de documents et de code, ainsi que des capacités de recherche et de génération d'images. Enfin, GPT-5 respectera les souhaits des utilisateurs concernant le stockage ou l'oubli des informations, offrant ainsi une expérience personnalisée.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68979b964788358010ce3df8/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 09 Aug 2025 19:00:00 GMT"
     }
 ]
