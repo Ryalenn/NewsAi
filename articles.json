@@ -35,7 +35,7 @@
         "check": "yes"
     },
     {
-        "title": "Sous le feu des critiques, ChatGPT GPT-5 est déjà modifié par OpenAI",
+        "title": "Sous le feu des critiques, ChatGPT GPT-5 est d\u00e9j\u00e0 modifi\u00e9 par OpenAI",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2757579_sous-le-feu-des-critiques-chatgpt-gpt-5-est-deja-modifie-par-openai",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/05/chatgpt-frandroid-chatgpt-768x432.jpg?resize=169,169&key=cbeaba42",
         "date": "Sat, 09 Aug 2025 23:00:00 GMT",
@@ -110,5 +110,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/689982eae53d39d3920ac296/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 11 Aug 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/cortneyharding/2025/08/11/your-next-colleague-could-be-an-embodied-robot/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6894ef1737d73c4bb7d0ddbc/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Aug 2025 11:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/08/11/biotech-startup-tahoe-therapeutics-raised-30-million-to-build-ai-models-of-living-cells/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689667377e26eae8a76fcb2d/0x0.png?format=png&width=440",
+        "date": "Mon, 11 Aug 2025 10:23:00 GMT",
+        "check": "no"
     }
 ]
