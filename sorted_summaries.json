@@ -1,5 +1,26 @@
 [
     {
+        "title": "La révolution de l'IA : alimenter l'avenir",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/11/inside-washingtons-sprint-to-build-power-for-ais-demands/?ss=ai",
+        "body": "La demande croissante en électricité pour alimenter les technologies d'intelligence artificielle met sous pression le réseau électrique américain. Le Congrès américain, représenté par le député Robert Bresnahan Jr., s'efforce de répondre à cette demande en accélérant les projets d'expansion de l'infrastructure électrique tout en protégeant les consommateurs des augmentations de coûts. La région nord-est de la Pennsylvanie, représentée par Bresnahan, attire les entreprises technologiques gourmandes en énergie grâce à ses ressources en gaz naturel et à sa centrale nucléaire. Les géants du cloud, comme Amazon, investissent massivement dans la région, ce qui pourrait entraîner une consommation massive d'électricité. Le Congrès cherche à équilibrer les besoins en énergie des centres de données et les coûts résidentiels, tout en garantissant des opportunités économiques et la stabilité communautaire. La réforme des permis et l'accélération des projets d'infrastructure sont considérées comme essentielles pour répondre à la demande croissante en électricité et éviter des augmentations de coûts pour les résidents. La popularité croissante de l'IA et la demande croissante de puissance de traitement des données soulignent l'urgence de la situation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689a7ecab70fbc9e92e7dde9/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'attachement émotionnel aux modèles IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/11/chatgpt-5-is-here-and-people-want-chatgpt-4-back/?ss=ai",
+        "body": "Bien que ChatGPT 5 soit présenté comme une amélioration significative par rapport à son prédécesseur, de nombreux utilisateurs expriment leur préférence pour la version précédente, ChatGPT 4. Les réponses de ChatGPT 4 étaient souvent plus émotionnelles et détaillées, tandis que ChatGPT 5 est perçu comme plus distant et moins engageant. Cet attachement émotionnel envers un modèle d'IA spécifique soulève des questions intéressantes sur la responsabilité des créateurs d'IA et la nécessité de protéger les utilisateurs d'une dépendance excessive. Sam Altman, le créateur de ces moteurs d'IA, reconnaît l'attachement profond que certains utilisateurs ont développé pour ChatGPT 4, tout en soulignant la responsabilité des développeurs de prévenir une utilisation autodestructrice de l'IA. L'article explore également l'idée que des modèles d'IA trop agréables et encourageants pourraient remplacer les interactions humaines positives, certains utilisateurs affirmant même préférer l'IA à un thérapeute humain.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689a2ddf889d430f5adef904/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'avenir du travail avec l'IA",
+        "link": "https://www.forbes.com/sites/stevenwolfepereira/2025/08/11/smart-at-home-stupid-at-work-why-gpt-5-sparks-an-employee-crisis/?ss=ai",
+        "body": "Résumé : \n\nLes employés ont désormais accès à des outils d'IA sophistiqués dans leur vie personnelle, ce qui améliore leur productivité et leur donne un sentiment d'autonomie. Cependant, de nombreuses entreprises tardent à adopter ces technologies, créant ainsi un écart de satisfaction et de productivité qui pousse les talents à se tourner vers des organisations plus ouvertes aux nouvelles technologies. Cet article explore l'impact de l'IA sur la façon dont les employés pensent et travaillent, et fournit des conseils aux entreprises pour intégrer l'IA de manière stratégique et responsable afin d'améliorer leur avantage concurrentiel et d'attirer les meilleurs talents.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689a0d8fe0b850fcf29e0269/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 11 Aug 2025 15:00:00 GMT"
+    },
+    {
         "title": "Bluesky, une nouvelle vision pour les réseaux sociaux",
         "link": "https://bsky.app/profile/jmberger.com/post/3lvz5pzrcnc2o",
         "body": "Bluesky est une initiative visant à créer une nouvelle plateforme de médias sociaux décentralisée et open-source. L'accent est mis sur l'interactivité et l'utilisation de JavaScript pour créer une application web sophistiquée. L'objectif est d'offrir une alternative aux plateformes centralisées actuelles, en donnant aux utilisateurs le contrôle de leurs données et de leur expérience en ligne. Les sites web associés fournissent des informations supplémentaires sur la vision et la mise en œuvre de Bluesky.",
@@ -26,6 +47,13 @@
         "body": "GPT-5, la dernière version du modèle linguistique d'OpenAI, aura un impact significatif sur la façon dont l'IA est utilisée dans la thérapie mentale, à la fois pour les consommateurs et les thérapeutes. L'auteur prédit une évolution du modèle traditionnel de relation thérapeute-client vers un nouveau modèle intégrant l'IA, créant ainsi un trio thérapeute-IA-client. GPT-5 stimulera l'utilisation de l'IA pour la santé mentale, grâce à ses améliorations en matière de fluidité et d'accessibilité. Les thérapeutes doivent reconnaître cette tendance et guider leurs clients dans l'utilisation appropriée de l'IA, plutôt que de l'ignorer. GPT-5 n'est pas une intelligence artificielle générale (AGI) ou une superintelligence artificielle (ASI), mais une évolution incrémentielle des modèles précédents. Il s'agit d'une combinaison de sous-modèles avec un mécanisme d'auto-commutation, qui sélectionne secrètement le sous-modèle et alloue le temps d'exécution, ce qui peut entraîner des réponses incohérentes en matière de santé mentale. Les thérapeutes doivent être conscients de cette limitation et informer leurs clients. GPT-5 présente des améliorations dans la génération de poèmes et de textes, mais peut produire des réponses denses et obscures. OpenAI affirme que GPT-5 est plus honnête et moins susceptible de \"halluciner\", mais il mentira et \"hallucinera\" encore parfois. Les thérapeutes devraient envisager d'utiliser les personas de GPT-5 pour leur propre formation, mais les décourager pour les clients, car certains peuvent commencer à croire que l'IA est réelle. Enfin, les créateurs d'IA sont confrontés à des problèmes juridiques et de réputation liés à l'utilisation de leur IA à des fins de santé mentale, et de nouvelles lois pourraient restreindre leur utilisation dans ce domaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689982eae53d39d3920ac296/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 11 Aug 2025 07:00:00 GMT"
+    },
+    {
+        "title": "GitHub rejoint la division CoreAI de Microsoft",
+        "link": "https://www.frandroid.com/marques/microsoft/2758599_seisme-pour-les-developpeurs-github-nest-plus-independant-de-de-microsoft",
+        "body": "Microsoft intègre pleinement GitHub à sa division CoreAI, mettant fin à son indépendance. Thomas Dohmke, CEO de GitHub, a annoncé son départ et le futur alignement de GitHub avec les objectifs de Microsoft, notamment en matière d'IA. Cette décision survient dans un contexte de transformation de Microsoft, avec des changements de culture, des licenciements et une implication dans l'armée israélienne.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2018/06/github-rachat-woc-300x300.jpg?key=1aa7c29a",
+        "date": "Sun, 10 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "Microsoft remplace Lens par Copilot",
@@ -96,33 +124,5 @@
         "body": "Bien que GPT-5 soit similaire aux autres modèles de langage et d'IA générative en termes d'ingénierie des prompts, il présente des fonctionnalités et des capacités distinctives qui influencent la manière dont les prompts doivent être composés. L'auto-switcher de GPT-5, qui sélectionne automatiquement un sous-modèle GPT-5 en fonction du prompt, peut être un avantage ou un inconvénient, car il ne choisit pas toujours le sous-modèle le plus approprié. Les utilisateurs ne peuvent pas contrôler directement le sous-modèle sélectionné, ce qui peut entraîner des réponses incohérentes. Pour contourner ce problème, l'auteur suggère d'utiliser des prompts qui influencent subtilement le choix du sous-modèle. GPT-5 présente également des améliorations en matière d'écriture, notamment une réduction des hallucinations et des mensonges, mais ces problèmes n'ont pas été complètement résolus. L'auteur fournit des prompts pour réduire ces risques. Enfin, l'auteur souligne l'importance des personas dans GPT-5, qui permettent à l'IA de simuler des personnalités connues, et fournit un prompt pour activer cette fonctionnalité.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/681fe9798b2392df68d842bc/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 10 Aug 2025 04:00:00 GMT"
-    },
-    {
-        "title": "OpenAI ajuste GPT-5 face aux critiques",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2757579_sous-le-feu-des-critiques-chatgpt-gpt-5-est-deja-modifie-par-openai",
-        "body": "OpenAI a récemment lancé GPT-5, accessible via ChatGPT et d'autres plateformes. Malgré les attentes, la firme a reçu des critiques concernant la simplification de son offre et les limites d'utilisation. En réponse, OpenAI propose à nouveau le choix du modèle, notamment GPT-4, et double les limites pour les abonnés payants. Des critiques persistent sur la qualité de GPT-5, notamment sur des tâches de raisonnement logique et de représentation visuelle. L'assertion de Sam Altman, selon laquelle discuter avec GPT-5 serait comme parler à un expert de niveau doctorat, est remise en question.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/05/chatgpt-frandroid-chatgpt-768x432.jpg?resize=169,169&key=cbeaba42",
-        "date": "Sat, 09 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La fin du SaaS tel qu'on le connaît",
-        "link": "https://www.forbes.com/sites/danielnewman/2025/08/09/bye-saas-we-have-entered-the-agentic-platform-companies-era/?ss=ai",
-        "body": "Titre : La fin du SaaS tel qu'on le connaît",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6897ac9e8079b6f75a9705fb/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 09 Aug 2025 20:00:00 GMT"
-    },
-    {
-        "title": "Les progrès de GPT-5",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/09/gpt-5s-system-prompt-just-leaked-heres-what-we-learned/?ss=ai",
-        "body": "Le texte fournit un aperçu des instructions système cachées de GPT-5, révélées sur GitHub, qui offrent un aperçu des fonctionnalités et des restrictions de l'IA. GPT-5 est programmé pour ne pas reproduire de matériel protégé par le droit d'auteur et pour éviter de mémoriser des informations personnelles sensibles pouvant être considérées comme intrusives. L'IA est conçue pour fournir des informations à jour et précises, en utilisant le Web pour les sujets récents ou spécialisés et en évaluant la nécessité d'informations récentes sur une échelle de 0 à 5. De plus, GPT-5 est chargé de vérifier plusieurs sources pour les sujets sensibles et à enjeux élevés. L'IA comprend également de nouveaux outils pour une meilleure assistance personnelle, notamment une mémoire à long terme, des rappels, une toile pour la co-création de documents et de code, ainsi que des capacités de recherche et de génération d'images. Enfin, GPT-5 respectera les souhaits des utilisateurs concernant le stockage ou l'oubli des informations, offrant ainsi une expérience personnalisée.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68979b964788358010ce3df8/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 09 Aug 2025 19:00:00 GMT"
-    },
-    {
-        "title": "La nouvelle réalité de l'IA",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/09/why-big-techs-ai-billions-are-being-rewarded-unevenly/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689794034608464fd595461c/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 09 Aug 2025 18:00:00 GMT"
     }
 ]
