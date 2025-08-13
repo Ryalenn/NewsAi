@@ -21,7 +21,7 @@
         "check": "yes"
     },
     {
-        "title": "« Priorité à l’IA » chez Duolingo : malgré les protestations, l’argent coule à flots",
+        "title": "\u00ab Priorit\u00e9 \u00e0 l\u2019IA \u00bb chez Duolingo : malgr\u00e9 les protestations, l\u2019argent coule \u00e0 flots",
         "link": "https://www.frandroid.com/produits-android/2757979_priorite-a-lia-chez-duolingo-malgre-les-protestations-largent-coule-a-flots",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/appshunter-io-rwkxk0zwxdi-unsplash-768x512.jpg?resize=200,200&key=9bd1bbbe",
         "date": "Mon, 11 Aug 2025 23:00:00 GMT",
@@ -49,14 +49,14 @@
         "check": "yes"
     },
     {
-        "title": "« Je lui enlèverais 30 à 50 % de ses capacités » : Trump veut dégrader la meilleure carte de Nvidia pour la Chine",
+        "title": "\u00ab Je lui enl\u00e8verais 30 \u00e0 50 % de ses capacit\u00e9s \u00bb : Trump veut d\u00e9grader la meilleure carte de Nvidia pour la Chine",
         "link": "https://www.frandroid.com/produits-android/hardware/2759169_je-lui-enleverais-30-a-50-de-ses-capacites-trump-veut-degrader-la-meilleure-carte-de-nvidia-pour-la-chine",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2020/03/nvidia-logo-1280x680-1-768x408.jpg?resize=300,300&key=833d8609",
         "date": "Mon, 11 Aug 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Pourquoi Reddit veut bloquer ce site essentiel à Internet",
+        "title": "Pourquoi Reddit veut bloquer ce site essentiel \u00e0 Internet",
         "link": "https://www.frandroid.com/culture-tech/web/2759003_pourquoi-reddit-veut-bloquer-ce-site-essentiel-a-internet",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/07/reddit-logo-630x336.jpg?resize=300,300&key=1a12d905",
         "date": "Mon, 11 Aug 2025 23:00:00 GMT",
@@ -210,7 +210,7 @@
         "check": "yes"
     },
     {
-        "title": "WhatsApp : c’est quoi cette fonction expérimentale qui veut transformer vos messages ?",
+        "title": "WhatsApp : c\u2019est quoi cette fonction exp\u00e9rimentale qui veut transformer vos messages ?",
         "link": "https://www.frandroid.com/android/applications/2760159_whatsapp-cest-quoi-cette-fonction-experimentale-qui-veut-transformer-vos-messages",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/whatsapp-lettres-768x432.jpg?resize=169,169&key=bc3dce05",
         "date": "Tue, 12 Aug 2025 23:00:00 GMT",
@@ -243,5 +243,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6893c3e0aba423a18988f355/0x0.jpg?format=jpg&crop=1524,857,x0,y22,safe&width=440",
         "date": "Wed, 13 Aug 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/games/757816/hidden-door-early-access-ai-story#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/key_art_banner.avif?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 13 Aug 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/13/fei-fei-li-challenges-silicon-valleys-obsession-with-agi/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689cc894723be15e7caa6bc6/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 13 Aug 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/13/chatgpt-5-uses-language-like-a-sword/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67092e3a9c898ed86b8bf608/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 13 Aug 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/08/13/innovationrx-shooting-at-the-cdc-highlights-the-perils-of-health-misinformation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689a0165c2fd0664e06b9130/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 13 Aug 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
