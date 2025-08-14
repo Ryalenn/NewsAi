@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "WhatsApp : c’est quoi cette fonction expérimentale qui veut transformer vos messages ?",
+        "title": "WhatsApp : c\u2019est quoi cette fonction exp\u00e9rimentale qui veut transformer vos messages ?",
         "link": "https://www.frandroid.com/android/applications/2760159_whatsapp-cest-quoi-cette-fonction-experimentale-qui-veut-transformer-vos-messages",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/whatsapp-lettres-768x432.jpg?resize=169,169&key=bc3dce05",
         "date": "Tue, 12 Aug 2025 23:00:00 GMT",
@@ -215,5 +215,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/689dbb54e23b432d75291214/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Aug 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/os/windows/2761537_avec-windows-12-microsoft-aimerait-chambouler-lexperience-utilisateur-a-grand-renfort-dia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-768x432.jpg?resize=169,169&key=3daa670a",
+        "date": "Wed, 13 Aug 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/flight-deals-suggestions-1.png?quality=90&strip=all&crop=3.4023668639053%2C0%2C93.195266272189%2C100&w=2400",
+        "date": "Thu, 14 Aug 2025 16:05:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://x.com/jpineau1/status/1955995736895594838?s=46&t=fRkDIqgNCkTkvg8ZBiLA9A",
+        "image": "",
+        "date": "Thu, 14 Aug 2025 15:59:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/759140/openai-chatgpt-ads-nick-turley-decoder#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
+        "date": "Thu, 14 Aug 2025 14:17:02 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/758873/chatgpt-nick-turley-openai-ai-gpt-5-interview",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nick_Turley.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 14 Aug 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/14/two-dozen-signs-of-ai-acceleration/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67361f1d578f760fac866979/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/emilsteiner/2025/08/14/ai-demand-shaping-and-the-frictionless-rub-of-solipsistic-efficiency/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6864335964e77777900a22c2/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
