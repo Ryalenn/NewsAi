@@ -1,10 +1,31 @@
 [
     {
+        "title": "Technological Sovereignty and Cultural Preservation",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/14/a-fourth-path-malaysias-quiet-ai-revolution/?ss=ai",
+        "body": "L'article met en lumière l'émergence d'une nouvelle révolution de l'IA, axée sur la souveraineté technologique et la préservation culturelle en Malaisie. Loin d'être une simple course aux armements géopolitique, la nation défie les récits dominants en proposant une alternative cohérente, libérant l'IA de la logique extractive du capitalisme de plateforme. La politique nationale malaisienne en matière d'informatique en nuage illustre cette approche, rejetant la dépendance technologique et affirmant la souveraineté des données. Le développement d'Ilmu, un modèle IA multimodal indigène, met en valeur la diversité linguistique en tant qu'atout algorithmique, garantissant que l'IA reflète les façons de connaître et de comprendre malaisiennes. Cette approche cristallise la logique de l'IA prosociale, axée sur la création de valeur sociale et environnementale. La Malaisie place l'éthique au cœur de sa stratégie, la transformant en un avantage concurrentiel, et propose une feuille de route mûre et significative pour l'avenir hybride, abordant les défis écologiques et sociaux urgents.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689dcdb3a5550ec2a8c8f976/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 11:59:00 GMT"
+    },
+    {
         "title": "La dépendance à l'AGI et ses conséquences potentielles",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/08/14/people-will-lose-their-minds-when-ai-such-as-artificial-general-intelligence-suffers-blackouts/?ss=ai",
         "body": "Résumé : \n\nL'article explore les préoccupations concernant la dépendance croissante envers l'intelligence artificielle générale (AGI) et les conséquences potentielles en cas de panne ou d'indisponibilité de l'AGI. L'auteur suggère que l'AGI pourrait devenir omniprésent et profondément intégré à la vie quotidienne, avec des implications importantes pour la société. L'AGI pourrait être utilisé pour résoudre des problèmes complexes au travail et à la maison, et même pour prendre des décisions personnelles importantes. Cependant, l'auteur met en garde contre une dépendance excessive à l'AGI, qui pourrait affaiblir les capacités cognitives humaines et entraîner une panique généralisée en cas de panne. L'article soulève également des questions importantes sur la résilience de l'infrastructure critique et la santé mentale de la population en cas d'indisponibilité prolongée de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6855cefa3d663c20545deb71/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Aug 2025 07:00:00 GMT"
+    },
+    {
+        "title": "Apple s'attaque à la domotique et à la sécurité du foyer",
+        "link": "https://www.frandroid.com/marques/apple/2761241_apple-preparerait-du-lourd-pour-la-maison-connectee-avec-un-net-avantage-sur-la-concurrence",
+        "body": "Apple se lance dans la domotique et la sécurité du foyer, avec des projets de caméras intelligentes et de produits de sécurité domestiques, entrant ainsi en concurrence directe avec Amazon et ses produits Ring. Bloomberg révèle qu'Apple travaille sur une sonnette/caméra connectée avec reconnaissance faciale via Face ID, alimentée par une batterie de longue durée. Ces appareils, équipés de capteurs infrarouges, pourraient être utilisés pour l'automatisation de la maison, comme contrôler l'éclairage ou la musique. L'entreprise prévoit également de développer plusieurs types de caméras et de produits de sécurité dans le cadre d'une nouvelle gamme. Apple a un atout majeur face à ses concurrents : sa réputation en matière de respect de la vie privée.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/apple-store-chicago-michigan-avenue-768x576.jpg?resize=225,225&key=81fdada0",
+        "date": "Wed, 13 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Améliorations de Google Gemini",
+        "link": "https://www.frandroid.com/marques/google/2761121_google-gemini-noubliera-plus-aucunes-de-vos-conversations",
+        "body": "Google améliore son chatbot Gemini en lui permettant de se souvenir de toutes les conversations précédentes sans que l'utilisateur n'ait à effectuer d'actions spécifiques. Cette fonctionnalité vise à offrir une expérience plus personnalisée, comme recommander des livres similaires ou aider à créer des événements dans la vie réelle basés sur les intérêts discutés. Les utilisateurs peuvent désactiver cette option dans les paramètres de l'application. Le déploiement de cette fonctionnalité a déjà commencé pour certains utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
+        "date": "Wed, 13 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : les langages de programmation de demain",
@@ -124,12 +145,5 @@
         "body": "AWS a récemment annoncé la disponibilité immédiate de deux nouveaux modèles OpenAI sur Amazon Bedrock et Amazon SageMaker, marquant ainsi la dernière étape de la compétition entre les grands fournisseurs de services cloud pour offrir les meilleures solutions d'IA aux entreprises. Ces modèles, gpt-oss-120b et gpt-oss-20b, sont les premiers modèles « open-weight » d'OpenAI depuis 2019, et se situent entre GPT-3 et GPT-4 en termes d'intelligence. Cette annonce est particulièrement intéressante en raison de la relation étroite entre Microsoft et OpenAI. Les clients d'AWS peuvent désormais accéder à ces modèles et les adapter à leurs besoins spécifiques, sans interagir directement avec OpenAI. Cette évolution souligne l'importance croissante de l'IA dans le paysage technologique, et la course entre les géants de la tech pour dominer ce domaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689b535d596a78bcc2e76d2d/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 12 Aug 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir incertain du droit d'auteur à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/paulocarvao/2025/08/12/copyright-is-dead-but-is-it/?ss=ai",
-        "body": "Titre : L'IA et l'avenir incertain du droit d'auteur\n\nRésumé : Chamath Palihapitiya, ancien dirigeant de Facebook et investisseur, remet en question la pertinence future du droit d'auteur dans un monde dominé par l'IA. Il suggère que les entreprises devraient se concentrer sur des avantages compétitifs qui ne dépendent pas de protections juridiques potentiellement obsolètes. Bien que la loi américaine sur le droit d'auteur réserve actuellement ce droit aux êtres humains, l'utilisation de l'IA dans le processus créatif remet en question cette notion. Les défenseurs du droit d'auteur, comme Jason Calacanis, argumentent que les créateurs doivent être protégés et que les entreprises d'IA devraient rémunérer les créateurs dont le travail est utilisé. D'autres, comme David Friedberg et David Sacks, préconisent une interprétation de l'utilisation équitable pour l'apprentissage de l'IA, distinguant le processus d'apprentissage de la sortie finale. La discussion met en lumière la distinction juridique et conceptuelle entre les données d'entraînement et la sortie, ainsi que l'évolution des règles à l'ère de l'IA. La dispute entre Cloudflare et Perplexity illustre ce débat, soulignant les enjeux pour les créateurs et les entreprises face à l'évolution de la technologie. L'avenir du droit d'auteur nécessite un équilibre entre les intérêts des créateurs, des entreprises technologiques, des avocats et des régulateurs.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689b2b2e61e4bb66bfd5c45f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 12 Aug 2025 11:55:00 GMT"
     }
 ]
