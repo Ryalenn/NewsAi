@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "WhatsApp : c’est quoi cette fonction expérimentale qui veut transformer vos messages ?",
+        "title": "WhatsApp : c\u2019est quoi cette fonction exp\u00e9rimentale qui veut transformer vos messages ?",
         "link": "https://www.frandroid.com/android/applications/2760159_whatsapp-cest-quoi-cette-fonction-experimentale-qui-veut-transformer-vos-messages",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/whatsapp-lettres-768x432.jpg?resize=169,169&key=bc3dce05",
         "date": "Tue, 12 Aug 2025 23:00:00 GMT",
@@ -201,5 +201,54 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/689dcdb3a5550ec2a8c8f976/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Aug 2025 11:59:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/htc-vive-eagle.png?quality=90&strip=all&crop=5.5309734513274%2C0%2C88.938053097345%2C100&w=2400",
+        "date": "Thu, 14 Aug 2025 13:40:44 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/759160/ally-solos-smart-glasses-ai-envision-low-vision#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Copy-of-IG-POST-2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 14 Aug 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK255_Google_Gemini_A.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 13 Aug 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257892_dr_deskill_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 13 Aug 2025 14:48:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/08/14/voice-ai-is-changing-how-we-do-business-starting-with-loans/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689d5b355900910b190ba7cf/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/14/ai-and-the-future-of-work-andrew-yangs-caution-vs-labors-optimism/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689deec4dc058786c9fe44a3/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/08/14/ai-agents-are-joining-your-team-are-you-ready-to-manage-them/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689dbb54e23b432d75291214/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 14 Aug 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
