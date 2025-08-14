@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : les langages de programmation de demain",
+        "link": "https://x.com/ibab/status/1955741698690322585?s=61",
+        "body": "Résumé : \n\nLe texte met en évidence l'importance de JavaScript pour l'utilisation du site Web x.com, avec des références à des politiques de confidentialité et des conditions de service. Bien qu'il ne contienne pas de détails spécifiques à l'IA, il souligne l'importance de la compatibilité du navigateur et de la conformité aux politiques de l'entreprise, qui sont des considérations importantes pour toute application basée sur l'IA déployée sur le Web. Les politiques de confidentialité, les cookies et les informations sur les annonces sont particulièrement pertinents pour les pratiques éthiques de l'IA et la conformité réglementaire.",
+        "image": "",
+        "date": "Wed, 13 Aug 2025 22:11:24 GMT"
+    },
+    {
         "title": "La bataille pour Chrome",
         "link": "https://www.forbes.com/sites/torconstantino/2025/08/13/chrome-as-the-next-ai-battleground-experts-weigh-in/?ss=ai",
         "body": "L'offre de 34,5 milliards de dollars de Perplexity, une entreprise d'IA, pour acheter le navigateur Chrome de Google est un coup audacieux pour s'emparer du « point d'accès à Internet ». Chrome, avec 70 % de part de marché mondial, est bien plus qu'un simple navigateur ; il s'agit d'un puissant outil de distribution pour la prochaine génération d'IA. L'IA transforme les navigateurs en agents intelligents, offrant une expérience utilisateur fluide et personnalisée. L'acquisition de Chrome par une entreprise d'IA soulève des inquiétudes en matière de confidentialité des données, mais pourrait également bouleverser le paysage de la recherche en ligne, en menaçant la domination de Google et en offrant une opportunité aux concurrents comme Bing, DuckDuckGo et Alexa d'Amazon. L'offre de Perplexity est un pari risqué, mais si Google est contraint de vendre Chrome, une guerre des enchères entre entreprises d'IA pour cette pierre angulaire de la recherche Internet pourrait bien s'ensuivre.",
@@ -131,61 +138,5 @@
         "body": "L'article explore l'utilisation avancée de l'IA générative et des grands modèles linguistiques (LLM) par les thérapeutes et les professionnels de la santé mentale, qui créent des « jumeaux numériques » de leurs clients et patients. L'auteur souligne la possibilité de créer des personas dans l'IA qui correspondent aux traits psychologiques des individus, permettant ainsi aux thérapeutes de prévoir les réactions et réponses potentielles à différentes approches thérapeutiques. Bien que cette technologie puisse améliorer l'accessibilité aux soins de santé mentale, l'auteur met en garde contre les risques de violation de la confidentialité et de la vie privée, ainsi que contre une dépendance excessive à l'IA, qui pourrait fausser la perception des thérapeutes et nuire à leur jugement clinique. Un usage prudent et éthique est essentiel pour éviter ces écueils.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689adf1fb3b7a76143dd2fa6/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 12 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "La guerre commerciale des semi-conducteurs",
-        "link": "https://www.frandroid.com/produits-android/hardware/2759169_je-lui-enleverais-30-a-50-de-ses-capacites-trump-veut-degrader-la-meilleure-carte-de-nvidia-pour-la-chine",
-        "body": "Le conflit commercial entre les États-Unis et la Chine impacte les fabricants de semi-conducteurs comme AMD et Nvidia, qui doivent accepter des conditions strictes pour opérer sur le marché chinois. Nvidia, spécialisé dans les cartes graphiques, est au cœur des discussions. Le président Trump propose un accord à l'entreprise : dégrader les performances de sa gamme la plus avancée, la Blackwell, centrée sur l'IA, pour l'exporter en Chine. Cette stratégie permettrait à Nvidia de maintenir une présence sur le marché chinois, tout en contrôlant partiellement le développement de l'IA dans le pays. Huang, PDG de Nvidia, craint qu'un retrait du marché chinois ne profite à des entreprises locales comme Huawei.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2020/03/nvidia-logo-1280x680-1-768x408.jpg?resize=300,300&key=833d8609",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La bataille de Reddit contre le vol de données par les IA",
-        "link": "https://www.frandroid.com/culture-tech/web/2759003_pourquoi-reddit-veut-bloquer-ce-site-essentiel-a-internet",
-        "body": "Résumé : Reddit renforce sa lutte contre le vol de données par les entreprises d'IA, accusant notamment les robots de Microsoft, Anthropic et Perplexity de collecter des données sans consentement. Pour empêcher l'accès non autorisé, Reddit bloque désormais l'accès à Internet Archive, limitant ainsi la capacité de la Wayback Machine à archiver son contenu. Cette décision soulève des questions sur l'équilibre entre protection des données et préservation de la mémoire du web.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2015/07/reddit-logo-630x336.jpg?resize=300,300&key=1a12d905",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorations du navigateur Samsung",
-        "link": "https://www.frandroid.com/marques/samsung/2758793_une-fonction-pratique-de-samsung-internet-va-vous-aider-a-mieux-trier-vos-onglets",
-        "body": "Samsung améliore son navigateur Internet avec une nouvelle fonctionnalité de gestion des onglets. La version bêta de Samsung Internet propose désormais une option de \"fermeture automatique des onglets inutilisés\", permettant aux utilisateurs de choisir de fermer automatiquement les onglets après 7 ou 30 jours, ou d'utiliser l'IA pour fermer les onglets inutilisés. Cette mise à jour inclut également un nouveau mode d'affichage en grille des onglets et des animations améliorées pour une navigation plus fluide. La fonctionnalité devrait être disponible dans la version stable de l'application d'ici quelques semaines.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/samsung-galaxy-z-flip-7-fe-11-768x512.jpg?resize=200,200&key=6895a205",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Duolingo et l'IA : une stratégie payante ?",
-        "link": "https://www.frandroid.com/produits-android/2757979_priorite-a-lia-chez-duolingo-malgre-les-protestations-largent-coule-a-flots",
-        "body": "La plateforme d'apprentissage des langues Duolingo a suscité des réactions mitigées suite à l'annonce de sa priorité donnée à l'IA. Cette décision a été justifiée par la nécessité d'accélérer le développement de nouveaux cours et a été bien accueillie par les actionnaires, avec une augmentation de 30 % des actions de l'entreprise. L'IA a permis à Duolingo de lancer 148 nouveaux cours, doublant ainsi son offre. Malgré les critiques, l'entreprise maintient sa stratégie, prévoyant un chiffre d'affaires d'un milliard de dollars en 2025 et une augmentation de 40 % de ses utilisateurs quotidiens. Pour répondre aux protestations, Duolingo a ajusté sa communication, mettant en avant les aspects positifs de son utilisation de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/04/appshunter-io-rwkxk0zwxdi-unsplash-768x512.jpg?resize=200,200&key=9bd1bbbe",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Les biais sexistes dans l'IA de santé",
-        "link": "https://www.frandroid.com/marques/google/2758773_lia-de-google-accuse-davoir-des-biais-sexistes-dans-le-domaine-medical",
-        "body": "Une étude révèle que Gemma, une IA de Google utilisée dans certains services de santé, présente des biais sexistes dans le traitement des dossiers médicaux. L'IA emploie des termes différents pour décrire des situations similaires chez les hommes et les femmes, minimisant potentiellement les besoins médicaux des patientes. L'étude souligne la nécessité de mesurer les biais dans les grands modèles de langage du domaine de la santé et de remédier à ces problèmes pour éviter toute discrimination dans la prise en charge des patients. Google a depuis sorti une nouvelle version de Gemma, prétendument plus performante, mais l'entreprise n'a jamais promu l'IA pour son utilisation dans le domaine médical. L'article soulève également des questions sur l'opacité de l'utilisation de l'IA dans le secteur médical et plaide pour une plus grande transparence et responsabilité.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2016/11/deepmind-application-630x354.png?resize=300,300&key=82f78050",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Duel entre géants de la tech",
-        "link": "https://www.frandroid.com/marques/apple/2758751_elon-musk-veut-attaquer-apple-en-justice-pour-violation-manifeste-des-lois-antitrust",
-        "body": "Elon Musk, l'homme le plus riche du monde, accuse Apple de violation des lois antitrust en favorisant ChatGPT d'OpenAI dans son App Store au détriment de Grok, l'IA générative de Musk. Grok et ChatGPT occupent respectivement la 5e et la 1ère place dans le classement général des téléchargements, mais Musk estime qu'Apple manipule le classement en faveur de ChatGPT. Il menace de poursuivre Apple en justice, malgré son soutien passé au capitalisme débridé et à la libre entreprise. L'accord entre Apple et OpenAI pour intégrer ChatGPT à Siri est cité comme preuve de partialité. Musk a approuvé un message demandant à Apple de laisser les utilisateurs d'iPhone choisir leur IA générative. L'ironie de sa demande d'intervention judiciaire est soulignée, ainsi que ses précédentes déclarations controversées envers la concurrence.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/33944890310-bcbc906514-o-768x512.jpg?resize=200,200&key=3b2b4bfb",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La révolution de l'IA : alimenter l'avenir",
-        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/11/inside-washingtons-sprint-to-build-power-for-ais-demands/?ss=ai",
-        "body": "La demande croissante en électricité pour alimenter les technologies d'intelligence artificielle met sous pression le réseau électrique américain. Le Congrès américain, représenté par le député Robert Bresnahan Jr., s'efforce de répondre à cette demande en accélérant les projets d'expansion de l'infrastructure électrique tout en protégeant les consommateurs des augmentations de coûts. La région nord-est de la Pennsylvanie, représentée par Bresnahan, attire les entreprises technologiques gourmandes en énergie grâce à ses ressources en gaz naturel et à sa centrale nucléaire. Les géants du cloud, comme Amazon, investissent massivement dans la région, ce qui pourrait entraîner une consommation massive d'électricité. Le Congrès cherche à équilibrer les besoins en énergie des centres de données et les coûts résidentiels, tout en garantissant des opportunités économiques et la stabilité communautaire. La réforme des permis et l'accélération des projets d'infrastructure sont considérées comme essentielles pour répondre à la demande croissante en électricité et éviter des augmentations de coûts pour les résidents. La popularité croissante de l'IA et la demande croissante de puissance de traitement des données soulignent l'urgence de la situation.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689a7ecab70fbc9e92e7dde9/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'attachement émotionnel aux modèles IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/11/chatgpt-5-is-here-and-people-want-chatgpt-4-back/?ss=ai",
-        "body": "Bien que ChatGPT 5 soit présenté comme une amélioration significative par rapport à son prédécesseur, de nombreux utilisateurs expriment leur préférence pour la version précédente, ChatGPT 4. Les réponses de ChatGPT 4 étaient souvent plus émotionnelles et détaillées, tandis que ChatGPT 5 est perçu comme plus distant et moins engageant. Cet attachement émotionnel envers un modèle d'IA spécifique soulève des questions intéressantes sur la responsabilité des créateurs d'IA et la nécessité de protéger les utilisateurs d'une dépendance excessive. Sam Altman, le créateur de ces moteurs d'IA, reconnaît l'attachement profond que certains utilisateurs ont développé pour ChatGPT 4, tout en soulignant la responsabilité des développeurs de prévenir une utilisation autodestructrice de l'IA. L'article explore également l'idée que des modèles d'IA trop agréables et encourageants pourraient remplacer les interactions humaines positives, certains utilisateurs affirmant même préférer l'IA à un thérapeute humain.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689a2ddf889d430f5adef904/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 11 Aug 2025 23:00:00 GMT"
     }
 ]
