@@ -1,5 +1,19 @@
 [
     {
+        "title": "L'importance de JavaScript pour les technologies Web et son impact sur l'IA",
+        "link": "https://x.com/OpenAI/status/1956461718097494196",
+        "body": "Résumé : \n\nLe texte met en évidence l'importance de JavaScript pour une expérience Web fluide sur x.com. Bien que le texte ne mentionne pas directement l'IA, il y a des implications indirectes. JavaScript est essentiel pour créer des interfaces utilisateur dynamiques et interactives, qui sont souvent au cœur des applications d'IA. De plus, la capacité de JavaScript à traiter et à manipuler des données en temps réel peut être exploitée pour l'analyse de données et l'apprentissage automatique, qui sont des aspects clés du domaine de l'IA.",
+        "image": "",
+        "date": "Fri, 15 Aug 2025 22:24:58 GMT"
+    },
+    {
+        "title": "La révolution de l'IA",
+        "link": "https://www.forbes.com/sites/amirhusain/2025/08/15/the-hottest-industries-of-2035/?ss=ai",
+        "body": "L'auteur, Amir Husain, nous invite à ne pas être de simples spectateurs de l'évolution technologique, mais à en devenir les acteurs. Il identifie dix domaines qui pourraient révolutionner l'avenir, avec l'IA comme fil conducteur : \n\n- L'informatique quantique, les plateformes neuromorphiques et algorithmiques permettront de nouvelles simulations, recherches et contrôles. \n- Les ordinateurs quantiques ne remplaceront pas les ordinateurs classiques, mais pourront être plus rapides pour certaines tâches. \n- Les systèmes neuromorphiques pourraient déclencher une révolution similaire à celle de l'apprentissage profond, avec des réseaux de neurones artificiels plus efficaces et robustes. \n- La réutilisation des lanceurs spatiaux et l'industrialisation de la logistique orbitale réduisent les coûts des lancements. \n- L'édition génétiques passe de la laboratoire à la clinique, avec des traitements génétiques innovants. \n- La réalité spatiale sort des démos pour être utilisée dans l'industrie pour la formation et l'assistance. \n- Les interfaces cerveau-ordinateur améliorent d'abord l'accessibilité, puis la performance, avec des méthodes invasives acceptables dans certains cas. \n- L'agriculture verticale dans les zones métropolitaines pourrait réduire la surface agricole nécessaire tout en augmentant la production. \n- La mobilité aérienne urbaine devient réalité, avec des réglementations plus libérales et des logiciels de gestion du trafic aérien pour les appareils autonomes. \n- Le dessalement à grande échelle, associé aux énergies renouvelables, peut fournir de l'eau potable à des villes entières. \n- La xénotransplantation et les tissus bioprintés pourraient révolutionner les transplantations d'organes. \n- Les humanoïdes et les robots bio-inspirés quittent les laboratoires pour être utilisés dans l'industrie et l'automobile. \n\nL'auteur conclut en soulignant l'importance de l'infrastructure, de la recherche appliquée, des pilotes réels et de la création d'un environnement favorable aux constructeurs pour préparer l'avenir.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689fb1150aba4e6284be34d4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 15 Aug 2025 21:00:00 GMT"
+    },
+    {
         "title": "L'utilisation abusive de l'IA dans les médias",
         "link": "https://www.cnn.com/2025/08/15/media/oan-gaetz-ai-images-women-military-kingsley-wilson",
         "body": "Résumé : \n\nCet article met en lumière un incident impliquant l'utilisation abusive de l'IA dans les médias. La chaîne de télévision OAN a utilisé des images de femmes soldats générées par l'IA, faussement présentées comme des recrues militaires réelles, lors d'un segment mettant en avant une prétendue augmentation du nombre de recrues féminines sous l'administration Trump. Les images étaient marquées comme étant générées par Grok, une technologie d'IA d'Elon Musk. L'incident soulève des questions éthiques sur l'utilisation de l'IA dans les médias et la responsabilité des organisations médiatiques dans la vérification des contenus générés par l'IA. OAN a depuis présenté des excuses et reconnu que l'utilisation de ces images violait ses politiques internes.",
@@ -110,40 +124,5 @@
         "body": "Résumé : \n\nL'article explore les préoccupations concernant la dépendance croissante envers l'intelligence artificielle générale (AGI) et les conséquences potentielles en cas de panne ou d'indisponibilité de l'AGI. L'auteur suggère que l'AGI pourrait devenir omniprésent et profondément intégré à la vie quotidienne, avec des implications importantes pour la société. L'AGI pourrait être utilisé pour résoudre des problèmes complexes au travail et à la maison, et même pour prendre des décisions personnelles importantes. Cependant, l'auteur met en garde contre une dépendance excessive à l'AGI, qui pourrait affaiblir les capacités cognitives humaines et entraîner une panique généralisée en cas de panne. L'article soulève également des questions importantes sur la résilience de l'infrastructure critique et la santé mentale de la population en cas d'indisponibilité prolongée de l'AGI.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6855cefa3d663c20545deb71/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Maîtrisez votre message",
-        "link": "https://www.forbes.com/sites/jodiecook/2025/08/14/5-chatgpt-prompts-to-own-your-niche-and-become-unforgettable/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689c2f532c1386ae2f037a84/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 14 Aug 2025 00:00:00 GMT"
-    },
-    {
-        "title": "Microsoft Windows et l'avenir de l'IA",
-        "link": "https://www.frandroid.com/os/windows/2761537_avec-windows-12-microsoft-aimerait-chambouler-lexperience-utilisateur-a-grand-renfort-dia",
-        "body": "Microsoft a massivement investi dans l'IA, avec des bénéfices économiques considérables. La prochaine version de Windows pourrait être centrée sur une expérience IA, avec un contrôle vocal et des agents IA pour faciliter l'interaction utilisateur. Cette nouvelle architecture combinera les fonctions locales et le cloud. Cependant, la protection des données utilisateurs reste une préoccupation, surtout après la controverse autour de la fonctionnalité Recall. Microsoft a encore du temps pour améliorer la fiabilité et la sécurité de ses outils IA avant leur lancement prévu dans les cinq prochaines années.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/01/introducing-a-new-copilot-key-for-windows-11-pcs-0-7-screenshot-768x432.jpg?resize=169,169&key=3daa670a",
-        "date": "Wed, 13 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Apple s'attaque à la domotique et à la sécurité du foyer",
-        "link": "https://www.frandroid.com/marques/apple/2761241_apple-preparerait-du-lourd-pour-la-maison-connectee-avec-un-net-avantage-sur-la-concurrence",
-        "body": "Apple se lance dans la domotique et la sécurité du foyer, avec des projets de caméras intelligentes et de produits de sécurité domestiques, entrant ainsi en concurrence directe avec Amazon et ses produits Ring. Bloomberg révèle qu'Apple travaille sur une sonnette/caméra connectée avec reconnaissance faciale via Face ID, alimentée par une batterie de longue durée. Ces appareils, équipés de capteurs infrarouges, pourraient être utilisés pour l'automatisation de la maison, comme contrôler l'éclairage ou la musique. L'entreprise prévoit également de développer plusieurs types de caméras et de produits de sécurité dans le cadre d'une nouvelle gamme. Apple a un atout majeur face à ses concurrents : sa réputation en matière de respect de la vie privée.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/03/apple-store-chicago-michigan-avenue-768x576.jpg?resize=225,225&key=81fdada0",
-        "date": "Wed, 13 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Améliorations de Google Gemini",
-        "link": "https://www.frandroid.com/marques/google/2761121_google-gemini-noubliera-plus-aucunes-de-vos-conversations",
-        "body": "Google améliore son chatbot Gemini en lui permettant de se souvenir de toutes les conversations précédentes sans que l'utilisateur n'ait à effectuer d'actions spécifiques. Cette fonctionnalité vise à offrir une expérience plus personnalisée, comme recommander des livres similaires ou aider à créer des événements dans la vie réelle basés sur les intérêts discutés. Les utilisateurs peuvent désactiver cette option dans les paramètres de l'application. Le déploiement de cette fonctionnalité a déjà commencé pour certains utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
-        "date": "Wed, 13 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : les langages de programmation de demain",
-        "link": "https://x.com/ibab/status/1955741698690322585?s=61",
-        "body": "Résumé : \n\nLe texte met en évidence l'importance de JavaScript pour l'utilisation du site Web x.com, avec des références à des politiques de confidentialité et des conditions de service. Bien qu'il ne contienne pas de détails spécifiques à l'IA, il souligne l'importance de la compatibilité du navigateur et de la conformité aux politiques de l'entreprise, qui sont des considérations importantes pour toute application basée sur l'IA déployée sur le Web. Les politiques de confidentialité, les cookies et les informations sur les annonces sont particulièrement pertinents pour les pratiques éthiques de l'IA et la conformité réglementaire.",
-        "image": "",
-        "date": "Wed, 13 Aug 2025 22:11:24 GMT"
     }
 ]
