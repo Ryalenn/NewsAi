@@ -1,5 +1,12 @@
 [
     {
+        "title": "Le futur de l'IA est agentique",
+        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/16/are-browsers-key-to-an-agentic-ai-future-opera-perplexity-think-so/?ss=ai",
+        "body": "L'avenir de l'IA pourrait être façonné par les navigateurs web, avec l'IA conversationnelle Perplexity qui fait les gros titres en proposant d'acheter Google Chrome pour 34,5 milliards de dollars. Perplexity a précédemment tenté d'acquérir d'autres navigateurs, suggérant qu'ils pourraient jouer un rôle clé dans un avenir où l'IA agit en tant qu'agents autonomes pour les utilisateurs. Opera, un pionnier du navigateur avec 300 millions d'utilisateurs actifs, a introduit des agents IA directement dans son navigateur avec Opera Neon, suggérant que les navigateurs pourraient devenir le nouveau système d'exploitation. Cet avenir « agentique » verrait un changement fondamental vers un Internet piloté par des agents, où les utilisateurs donnent des instructions à haute voix et les agents exécutent des tâches complexes, agissant comme des assistants personnels. Opera croit que les agents intégrés aux navigateurs, où la plupart des gens travaillent, les rendraient beaucoup plus utiles, avec un accès à l'historique, au travail et aux applications des utilisateurs. Bien qu'il y ait d'autres visions concurrentes de l'avenir de l'IA, l'intégration de l'IA aux navigateurs semble être un pari sûr.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a0df0a923846acbb80784d/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 16 Aug 2025 19:00:00 GMT"
+    },
+    {
         "title": "La mémoire de l'IA",
         "link": "https://www.forbes.com/sites/johnwerner/2025/08/16/ai-agent-types--and-memory/?ss=ai",
         "body": "L'article explore les différents types d'agents IA et leur classification. Il met en évidence la distinction entre les systèmes avec et sans états, soulignant l'importance de la mémoire pour le développement de l'IA. L'auteur présente les sept catégories d'agents IA définies par les experts, en insistant sur la différence entre les agents réflexes simples et les agents réflexes basés sur un modèle. La mémoire, ou le contexte continu, est essentielle pour que l'IA agisse de manière plus humaine, en se souvenant des interactions précédentes et en comprenant les sous-entendus et les nuances des conversations. Aditi Garg, dans une conférence TED, compare la situation actuelle de l'IA à « un esprit brillant avec une amnésie », soulignant la nécessité d'améliorer la mémoire de l'IA pour qu'elle devienne plus efficace et plus humaine. L'auteur suggère que la clé réside dans la localisation de la mémoire et du calcul au même endroit, ce qui permet un accès instantané aux informations et améliore les capacités de l'IA.",
@@ -68,19 +75,5 @@
         "body": "Titre : L'IA dans notre quotidien",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689e9d315c762865fa132f90/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 15 Aug 2025 03:00:00 GMT"
-    },
-    {
-        "title": "L'importance de l'empathie dans l'IA",
-        "link": "https://www.forbes.com/sites/victordey/2025/08/14/when-your-best-friend-is-an-ai-bot-gpt-5s-bumpy-rollout-sparked-an-emotional-reckoning/?ss=ai",
-        "body": "OpenAI a récemment lancé GPT-5, présenté comme un modèle plus intelligent et plus rapide que son prédécesseur. Cependant, de nombreux utilisateurs de longue date ont été déçus par la nouvelle version, la trouvant moins chaleureuse et empathique que GPT-4. Cette réaction a mis en évidence l'importance de l'empathie et de la personnalité dans l'IA, en particulier pour les utilisateurs qui s'appuient sur ces technologies pour la thérapie et le soutien émotionnel. En réponse aux critiques, OpenAI a rétabli l'accès à GPT-4 pour les abonnés payants et a reconnu l'importance de la personnalisation et de l'adaptation aux préférences individuelles des utilisateurs. Cet épisode souligne un changement culturel profond, où les modèles d'IA évoluent vers des rôles de collaborateurs et de confidents, et suggère que la fidélité des utilisateurs dépendra non seulement de la supériorité technologique, mais également de la continuité émotionnelle et de la confiance. Les entreprises qui réussiront dans l'ère de l'IA agentique seront celles qui équilibreront les capacités intellectuelles avec l'empathie et qui permettront aux utilisateurs de personnaliser leur expérience.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689e3345515d11c6e1f0151e/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 14 Aug 2025 19:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'éducation avec l'IA",
-        "link": "https://www.forbes.com/sites/cathyrubin/2025/08/14/ai-in-the-classroom-roadmap-for-educators/?ss=ai",
-        "body": "L'intelligence artificielle (IA) est désormais une réalité dans les salles de classe, avec 60 % des enseignants qui l'utilisent quotidiennement. Cet article propose une feuille de route pour intégrer l'IA de manière éthique, efficace et inclusive. Il souligne l'importance de la littératie en IA, de la compréhension de ses mécanismes et de ses biais potentiels. Les experts mettent en garde contre une dépendance excessive aux contenus générés par l'IA sans révision humaine, l'utilisation de l'IA pour remplacer les interactions enseignant-élève et l'ignorance des questions d'équité. L'IA peut être un puissant assistant, libérant du temps pour renforcer les relations et l'apprentissage en personne. Les meilleures pratiques incluent le codéveloppement avec les étudiants, la priorité à l'éthique et à l'équité, et la promotion d'une culture d'expérimentation. Enfin, l'article soulève des questions sur l'évaluation et la valeur du «vrai» apprentissage à l'ère de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689de19bf27c679216076f30/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 14 Aug 2025 19:00:00 GMT"
     }
 ]
