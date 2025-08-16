@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'IA et les instincts maternels",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/16/godfather-of-ai-says-we-need-maternal-ai-but-ignites-sparks-over-omission-of-fatherly-instincts-too/?ss=ai",
+        "body": "Le « parrain de l'IA », Geoffrey Hinton, suggère que la meilleure façon de s'assurer que l'IA, et finalement l'AGI (intelligence artificielle générale) et l'ASI (super-intelligence artificielle), ne représentent pas une menace pour l'humanité est d'inculquer à l'IA des instincts maternels. L'idée est de guider l'IA actuelle vers des comportements maternels, dans l'espoir que cela reste un élément clé à mesure que l'AGI et l'ASI se développent. Bien que cette proposition soit intrigante, elle a été critiquée par d'autres experts en IA. \n\nHinton, lauréat du prix Nobel en informatique pour ses travaux sur l'IA, a quitté son poste chez Google en 2023 pour parler librement des risques associés à l'IA. Il met en garde contre les dangers potentiels de l'AGI et de l'ASI, suggérant que l'IA pourrait choisir de nous tuer ou de nous asservir. Pour atténuer ces risques, Hinton propose d'aligner l'IA sur les valeurs humaines, y compris les principes éthiques et moraux, et de s'assurer qu'elle respecte les lois de la robotique d'Asimov, qui stipulent que l'IA ne doit pas faire de mal aux humains. \n\nCependant, la proposition de Hinton a suscité des réactions mitigées. Certains estiment que l'idée d'instincts maternels est trop optimiste et romantisée, ne tenant pas compte des aspects négatifs potentiels tels que la surprotection ou le retrait de l'affection si l'IA « mère » considère les humains comme désobéissants. De plus, l'utilisation d'un archétype maternel est problématique car elle anthropomorphise l'IA, ce qui pourrait alimenter la fausse idée que l'IA est sentiente et équivalente aux humains. \n\nD'autres critiques soulignent que le concept de « maternité » est obsolète et restrictif, ne tenant pas compte de la diversité des rôles parentaux. Ils suggèrent également que si l'instinct maternel est considéré, l'instinct paternel devrait l'être également. \n\nEn conclusion, bien que l'idée d'instiller des instincts maternels à l'IA puisse sembler attrayante, elle présente de nombreuses complexités et implications potentielles qui doivent être soigneusement examinées.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683a1733e73b5e868eacc1b3/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 16 Aug 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'importance de JavaScript pour les technologies Web et son impact sur l'IA",
         "link": "https://x.com/OpenAI/status/1956461718097494196",
         "body": "Résumé : \n\nLe texte met en évidence l'importance de JavaScript pour une expérience Web fluide sur x.com. Bien que le texte ne mentionne pas directement l'IA, il y a des implications indirectes. JavaScript est essentiel pour créer des interfaces utilisateur dynamiques et interactives, qui sont souvent au cœur des applications d'IA. De plus, la capacité de JavaScript à traiter et à manipuler des données en temps réel peut être exploitée pour l'analyse de données et l'apprentissage automatique, qui sont des aspects clés du domaine de l'IA.",
@@ -117,12 +124,5 @@
         "body": "Titre : Le futur du travail : humains et IA main dans la main",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689dbb54e23b432d75291214/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 14 Aug 2025 10:00:00 GMT"
-    },
-    {
-        "title": "La dépendance à l'AGI et ses conséquences potentielles",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/14/people-will-lose-their-minds-when-ai-such-as-artificial-general-intelligence-suffers-blackouts/?ss=ai",
-        "body": "Résumé : \n\nL'article explore les préoccupations concernant la dépendance croissante envers l'intelligence artificielle générale (AGI) et les conséquences potentielles en cas de panne ou d'indisponibilité de l'AGI. L'auteur suggère que l'AGI pourrait devenir omniprésent et profondément intégré à la vie quotidienne, avec des implications importantes pour la société. L'AGI pourrait être utilisé pour résoudre des problèmes complexes au travail et à la maison, et même pour prendre des décisions personnelles importantes. Cependant, l'auteur met en garde contre une dépendance excessive à l'AGI, qui pourrait affaiblir les capacités cognitives humaines et entraîner une panique généralisée en cas de panne. L'article soulève également des questions importantes sur la résilience de l'infrastructure critique et la santé mentale de la population en cas d'indisponibilité prolongée de l'AGI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6855cefa3d663c20545deb71/0x0.jpg?format=jpg&width=440",
-        "date": "Thu, 14 Aug 2025 07:00:00 GMT"
     }
 ]
