@@ -187,5 +187,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/689f58fcc5066293f428e7d4/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 15 Aug 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://x.com/OpenAI/status/1956461718097494196",
+        "image": "",
+        "date": "Fri, 15 Aug 2025 22:24:58 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+        "image": "",
+        "date": "Fri, 15 Aug 2025 21:55:20 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/amirhusain/2025/08/15/the-hottest-industries-of-2035/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/689fb1150aba4e6284be34d4/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 15 Aug 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
