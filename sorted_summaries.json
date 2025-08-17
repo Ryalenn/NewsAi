@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'aube d'une nouvelle conscience",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/17/metas-chatbot-controversy-exposes-the-cracks-in-our-social-contract-with-ai/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a15fb546855eb2efa466d3/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 17 Aug 2025 05:00:00 GMT"
+    },
+    {
         "title": "Le futur de l'IA est agentique",
         "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/16/are-browsers-key-to-an-agentic-ai-future-opera-perplexity-think-so/?ss=ai",
         "body": "L'avenir de l'IA pourrait être façonné par les navigateurs web, avec l'IA conversationnelle Perplexity qui fait les gros titres en proposant d'acheter Google Chrome pour 34,5 milliards de dollars. Perplexity a précédemment tenté d'acquérir d'autres navigateurs, suggérant qu'ils pourraient jouer un rôle clé dans un avenir où l'IA agit en tant qu'agents autonomes pour les utilisateurs. Opera, un pionnier du navigateur avec 300 millions d'utilisateurs actifs, a introduit des agents IA directement dans son navigateur avec Opera Neon, suggérant que les navigateurs pourraient devenir le nouveau système d'exploitation. Cet avenir « agentique » verrait un changement fondamental vers un Internet piloté par des agents, où les utilisateurs donnent des instructions à haute voix et les agents exécutent des tâches complexes, agissant comme des assistants personnels. Opera croit que les agents intégrés aux navigateurs, où la plupart des gens travaillent, les rendraient beaucoup plus utiles, avec un accès à l'historique, au travail et aux applications des utilisateurs. Bien qu'il y ait d'autres visions concurrentes de l'avenir de l'IA, l'intégration de l'IA aux navigateurs semble être un pari sûr.",
@@ -61,12 +68,5 @@
         "body": "L'article explore la quête continue de la psychologie pour développer une théorie unifiée de la cognition, et comment l'IA, en particulier l'IA générative et les grands modèles linguistiques, pourrait jouer un rôle crucial dans cette quête. L'auteur discute de la relation entre l'IA et la psychologie, soulignant comment l'IA peut être appliquée à la psychologie, et vice versa. L'article aborde également la définition de la cognition par l'American Psychological Association et les différentes approches utilisées pour développer une théorie unifiée. Une idée clé est d'utiliser des LLMs pour modéliser la cognition, mais l'auteur souligne un problème important : les LLMs sont basés sur des réseaux de neurones artificiels, qui sont très différents des réseaux de neurones biologiques. Malgré cela, l'auteur soutient l'utilisation de LLMs pour explorer la cognition, suggérant qu'ils peuvent être améliorés en les formant sur des données de traces de pensées humaines réelles, telles que des transcriptions de séances thérapeute-patient et des expériences psychologiques classiques. Enfin, l'article présente une étude récente qui a utilisé cette approche, en utilisant un LLM amélioré avec des données psychologiques pour prédire et capturer la cognition humaine.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/682533dbbfb8643d9ddc325e/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 15 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'IA en tant que soutien émotionnel",
-        "link": "https://www.forbes.com/sites/bernardmarr/2025/08/15/3-ai-prompts-that-turn-chatgpt-into-your-friend-and-therapist/?ss=ai",
-        "body": "L'IA occupe une place croissante en tant qu'outil de soutien émotionnel et de compagnie, comme le révèle une étude de Harvard Business Review. L'article explore le rôle de l'IA dans la fourniture d'une thérapie et d'une amitié, soulignant son accessibilité et son écoute non-jugementale. Il aborde les préoccupations en matière de confidentialité et d'éthique, tout en reconnaissant les opportunités qu'offre l'IA pour lutter contre la solitude et améliorer la santé mentale. \n\nLe résumé fournit des conseils pour interagir efficacement avec l'IA dans ce contexte, y compris en définissant clairement ses attentes, en partageant des données personnelles pertinentes et en comprenant différentes approches thérapeutiques. Il met en garde contre la désactivation des fonctions de sécurité de l'IA et fournit des exemples d'invitations pour guider l'IA dans des rôles thérapeutiques, d'accompagnement et de réflexion sur l'humeur. \n\nL'article conclut en soulignant le potentiel de l'IA pour aider les individus à structurer leurs pensées et à faire face au stress quotidien, tout en reconnaissant la nécessité d'une utilisation réfléchie et sûre.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689ec736292871a938b3c513/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 15 Aug 2025 05:37:00 GMT"
     }
 ]
