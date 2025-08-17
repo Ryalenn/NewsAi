@@ -1,5 +1,12 @@
 [
     {
+        "title": "La transformation de l'usine d'Ohio",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/17/foxconn-sells-ohio-plant-and-will-oversee-ai-server-production-there/?ss=ai",
+        "body": "L'article traite de l'évolution d'une usine à Lordstown, dans l'Ohio, qui était initialement destinée à la production de véhicules électriques, mais qui change maintenant de cap pour se concentrer sur la fabrication de serveurs d'IA pour des clients tels que Nvidia et Apple. Hon Hai, affilié à Foxconn, vend l'usine à Crescent Dune LLC, mais continuera à l'exploiter dans le cadre d'un accord d'occupation à long terme. Cette transaction permet à Foxconn de se concentrer sur des segments technologiques à croissance plus rapide tout en conservant le contrôle opérationnel et en préservant les emplois sur le site. Ce cas illustre la tendance plus large des fabricants à se détourner des initiatives de véhicules électriques, souvent intensives en capital et incertaines, pour se tourner vers l'assemblage de matériel d'IA à marge élevée et plus prévisible. La décision de Foxconn met également en lumière l'importance croissante de l'IA dans le commerce international et l'impact sur le calcul géopolitique impliquant le commerce des puces.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a1cfa678be96a99ff07247/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 17 Aug 2025 12:00:00 GMT"
+    },
+    {
         "title": "L'IA pour la santé mentale : avantages et écueils",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/08/17/psychologists-and-mental-health-experts-spurred-to-use-custom-instructions-and-make-ai-into-a-therapist-adjunct/?ss=ai",
         "body": "Bien que les instructions personnalisées pour l'IA puissent être bénéfiques, elles présentent également des risques, en particulier dans le domaine de la santé mentale. L'article examine le nouveau « Mode Étude » de ChatGPT, qui a fait les gros titres, et explore la possibilité de développer un « Mode Thérapie » similaire. Bien que les instructions personnalisées puissent sembler prometteuses, l'auteur met en garde contre les limites de cette approche dans le domaine de la santé mentale, où les risques sont élevés et où les instructions personnalisées peuvent être mal interprétées ou incomplètes. Une meilleure approche consiste à construire des IA et des LLM spécifiquement pour la santé mentale, plutôt que de tenter d'adapter des IA génériques.",
@@ -61,12 +68,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/689f58fcc5066293f428e7d4/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 15 Aug 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : entre aspirations et réalités",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/15/should-we-think-of-ai-as-a-mother/?ss=ai",
-        "body": "L'article explore l'évolution fascinante de l'intelligence artificielle (IA) et les discussions en cours sur son rôle futur. Yann LeCun, ancien responsable de la recherche chez Meta, suggère que l'IA a besoin de « garde-fous », notamment sous la forme d'empathie et de soumission à l'autorité humaine, pour garantir son utilisation éthique. Ces commentaires font suite aux réflexions de Geoffrey Hinton, surnommé le « parrain de l'IA », qui compare l'IA à une mère contrôlée par son bébé, soulignant ainsi l'importance de l'empathie et de la bienveillance dans les interactions humain-IA. L'article aborde également la responsabilité des fabricants de technologie dans la prévention des accidents tragiques, comme le montre un récent procès impliquant une voiture autonome Tesla. Enfin, il met en lumière les travaux de chercheurs du Rensselaer Polytechnic Institute et du MIT qui explorent les liens entre neuroscience, IA et modélisation biologique pour mieux comprendre l'avenir de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/689f494c38fe7849dc001fb8/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 15 Aug 2025 14:52:00 GMT"
     }
 ]
