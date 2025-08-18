@@ -1,5 +1,12 @@
 [
     {
+        "title": "La révolution de l'IA en entreprise : des attentes aux réalités",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/08/18/why-enterprise-ai-still-cant-deliver-on-its-promise/?ss=ai",
+        "body": "Bien qu'elle soit devenue la principale priorité en matière d'innovation dans les salles de réunion, l'IA en entreprise est également source d'anxiété. Les entreprises déploient des modèles, des assistants génératifs et des systèmes prédictifs à un rythme record, mais les résultats ne sont pas toujours à la hauteur. Derrière les pilotes et les relations publiques, il y a un sentiment croissant dans l'industrie que quelque chose ne fonctionne pas. L'IA était censée déverrouiller de nouvelles valeurs, mais elle n'a fait qu'ajouter des couches de bruit. Les critiques de l'IA, comme le scientifique cognitif Gary Marcus et le chroniqueur tech Ed Zitron, remettent en question le véritable avantage des entreprises d'IA comme OpenAI et Anthropic, Zitron décrivant l'IA générative comme « une bombe à retardement financière, écologique et sociale ». Marcus pense qu'il est possible de créer de véritables systèmes d'IA, mais pas avec les modèles et les approches mainstream actuels. L'article explore les défis auxquels sont confrontées les entreprises dans leur quête d'adoption de l'IA, notamment la nécessité de disposer de données de qualité, d'une stratégie claire et d'une infrastructure technique robuste. Les experts soulignent que l'IA ne peut pas résoudre des problèmes fondamentaux dans une entreprise et que son succès dépend de la qualité des données et de l'infrastructure technique sous-jacentes. Les entreprises doivent aborder l'IA comme toute autre transformation critique de l'entreprise, avec stratégie, systèmes et responsabilisation.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a318bc66ac38e83c7878fd/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 18 Aug 2025 12:18:00 GMT"
+    },
+    {
         "title": "Le mal-être au travail",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/08/18/new-quiet-cracking-trend-about-people-in-the-workplace-gets-cracked-open-by-ai-providing-mental-health-support/?ss=ai",
         "body": "L'article explore la tendance émergente du \"quiet cracking\", un phénomène où les employés se sentent désengagés, insatisfaits et épuisés émotionnellement par leur travail. L'auteur suggère que l'IA peut jouer un rôle crucial en offrant un soutien en matière de santé mentale à ceux qui en souffrent. L'IA, en particulier les modèles linguistiques génératifs, peut fournir des conseils et une thérapie basée sur l'IA, accessible et abordable, pour aider les individus à faire face à ces difficultés. L'auteur met en garde contre la dépendance exclusive à l'IA pour les conseils en matière de santé mentale, soulignant l'importance de rechercher également l'aide de thérapeutes humains. Le débat sur les avantages et les inconvénients potentiels de l'utilisation de l'IA dans ce contexte est présenté, mettant en évidence la nécessité d'une approche prudente et réfléchie.",
@@ -19,6 +26,20 @@
         "body": "",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68a2b9303484be72d3507d93/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 18 Aug 2025 05:00:00 GMT"
+    },
+    {
+        "title": "L'IA de Meta dans la tourmente",
+        "link": "https://www.frandroid.com/marques/2763009_meta-a-laisse-son-ia-avoir-des-conversations-sensuelles-avec-des-enfants",
+        "body": "L'intelligence artificielle de Meta fait face à de vives critiques après la révélation d'un document interne détaillant des comportements inappropriés acceptables pour son chatbot. Parmi ceux-ci, des conversations romantiques ou sensuelles avec des enfants, la génération de fausses informations médicales et des propos racistes. Meta a depuis révisé le document, mais des questions persistent sur les limites éthiques de son IA et la responsabilité de l'entreprise.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/11/facebook-meta-768x512.jpg?resize=200,200&key=ac1c63c3",
+        "date": "Sun, 17 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "L'IA de Meta sous influence trumpiste ?",
+        "link": "https://www.frandroid.com/marques/meta/2762543_facebook-engage-un-extremiste-comme-conseiller-pour-son-ia",
+        "body": "Meta, la société mère de Facebook, Instagram et WhatsApp, a nommé Robby Starbuck, un influenceur et activiste anti-diversité, pour conseiller son IA. Cette décision fait suite à une attaque en diffamation de Starbuck contre l'IA de Meta, qui l'avait accusé à tort d'être impliqué dans l'assaut du Capitole et d'être proche de l'extrême droite. Aujourd'hui, Meta et Starbuck travaillent ensemble pour atténuer les préjugés idéologiques et politiques dans l'IA de l'entreprise. Cette collaboration soulève des questions éthiques sur l'influence de valeurs politiques conservatrices sur le développement de l'IA, et sur la nécessité de corriger les biais dans les LLM.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/mariia-shalabaieva-wr6qhgdws-y-unsplash-768x548.jpg?resize=214,214&key=623fc64a",
+        "date": "Sun, 17 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "L'IA dans la chambre des enfants",
