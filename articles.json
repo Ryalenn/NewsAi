@@ -194,5 +194,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68a532c493d35ec5edcd06d3/0x0.jpg?format=jpg&crop=1110,623,x266,y196,safe&width=440",
         "date": "Wed, 20 Aug 2025 15:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/236676_05_How_to_start_a_smart_home_using_Google_Home_SHaddad.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 20 Aug 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lutzfinger/2025/08/20/generative-engine-optimization-geo-a-playbook-for-online-retailers/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a64e09922266d4a3b3e14f/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Aug 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/tonybradley/2025/08/20/ai-hype-and-fear-miss-the-point-reality-is-in-the-middle/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a63a839722e6000e3f93b6/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Aug 2025 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/noahbarsky/2025/08/20/3-uncomfortable-questions-for-targets-new-ceo/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a5b55ab099963556155937/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 20 Aug 2025 15:00:00 GMT",
+        "check": "no"
     }
 ]
