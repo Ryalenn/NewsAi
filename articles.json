@@ -98,7 +98,7 @@
         "check": "yes"
     },
     {
-        "title": "Ce robot plie votre linge tout seul et à votre place",
+        "title": "Ce robot plie votre linge tout seul et \u00e0 votre place",
         "link": "https://www.frandroid.com/produits-android/robots/2766719_ce-robot-plie-votre-linge-tout-seul-et-a-votre-place",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/robot-pliant-linge-768x432.jpg?resize=169,169&key=83a2de86",
         "date": "Wed, 20 Aug 2025 23:00:00 GMT",
@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Google révèle enfin combien consomme vraiment un chatbot IA… et ce n’est pas ce que vous croyez",
+        "title": "Google r\u00e9v\u00e8le enfin combien consomme vraiment un chatbot IA\u2026 et ce n\u2019est pas ce que vous croyez",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2767069_google-revele-enfin-combien-consomme-vraiment-un-chatbot-ia-et-ce-nest-pas-ce-que-vous-croyez",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/photo-1738107450281-45c52f7d06d0-768x512.jpeg?resize=200,200&key=3c09d489",
         "date": "Wed, 20 Aug 2025 23:00:00 GMT",
@@ -243,5 +243,96 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68a7ffe70d442aeccac3b230/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 22 Aug 2025 05:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "Google Docs va se mettre \u00e0 parler gr\u00e2ce \u00e0 Gemini",
+        "link": "https://www.frandroid.com/android/applications/google-apps/2768547_google-docs-va-se-mettre-a-parler-grace-a-gemini",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
+        "date": "Thu, 21 Aug 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.wsj.com/tech/openai-elon-musk-mark-zuckerberg-meta-be2ee198?mod=rss_Technology",
+        "image": "",
+        "date": "Fri, 22 Aug 2025 14:49:24 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/DCD-David-Luan.png?quality=90&strip=all&crop=0.027173913043484%2C0%2C99.945652173913%2C100&w=2400",
+        "date": "Thu, 21 Aug 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI-Mode-Global-English-Expansion.png?quality=90&strip=all&crop=5.6498194945848%2C0%2C88.70036101083%2C100&w=2400",
+        "date": "Thu, 21 Aug 2025 13:23:09 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25276810/247017_Google_Gemini_AKrales_0004.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 21 Aug 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gemini-live-highlight.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+        "date": "Wed, 20 Aug 2025 21:58:03 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/236676_05_How_to_start_a_smart_home_using_Google_Home_SHaddad.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 20 Aug 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 20 Aug 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/08/22/artificial-intelligence-and-the-next-great-transformation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a86e834cbbe867fc226c07/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Aug 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/22/social-support-software-with-ai-might-help-keep-families-together/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a86f4c9b67fbb64d90c18d/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Aug 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/08/22/jll-cto-yao-morin-on-the-future-of-ai-in-commercial-real-estate/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a782f22673383af0e20ea7/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Aug 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/22/humanoid-robots-infusing-ai-for-mental-health-begets-walking-talking-robot-therapists/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/688fc6232f6868fb0b53d5ae/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Aug 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/08/22/plastics-oil-and-ai--malaysias-choice-at-the-crossroads/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a802975f26352593b5c845/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 22 Aug 2025 06:00:00 GMT",
+        "check": "no"
     }
 ]
