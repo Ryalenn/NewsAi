@@ -112,7 +112,7 @@
         "check": "yes"
     },
     {
-        "title": "Google Docs va se mettre à parler grâce à Gemini",
+        "title": "Google Docs va se mettre \u00e0 parler gr\u00e2ce \u00e0 Gemini",
         "link": "https://www.frandroid.com/android/applications/google-apps/2768547_google-docs-va-se-mettre-a-parler-grace-a-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
         "date": "Thu, 21 Aug 2025 23:00:00 GMT",
@@ -229,5 +229,12 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68a899dcea8c69b1b774a27a/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 22 Aug 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Fidji-Simo-CL-site-wide.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 22 Aug 2025 20:30:05 GMT",
+        "check": "no"
     }
 ]
