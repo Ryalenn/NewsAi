@@ -28,7 +28,7 @@
         "check": "yes"
     },
     {
-        "title": "Google Docs va se mettre à parler grâce à Gemini",
+        "title": "Google Docs va se mettre \u00e0 parler gr\u00e2ce \u00e0 Gemini",
         "link": "https://www.frandroid.com/android/applications/google-apps/2768547_google-docs-va-se-mettre-a-parler-grace-a-gemini",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/05/gemini-logo-768x432.png?resize=169,169&key=bf40347d",
         "date": "Thu, 21 Aug 2025 23:00:00 GMT",
@@ -126,7 +126,7 @@
         "check": "no"
     },
     {
-        "title": "Testez Veo 3, l’IA vidéo de Google est temporairement gratuit",
+        "title": "Testez Veo 3, l\u2019IA vid\u00e9o de Google est temporairement gratuit",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2769417_google-gemini-ouvre-temporairement-veo-3-aux-utilisateurs-gratuits",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/veo-3-france-gemini-google-croissant-768x432.jpg?resize=169,169&key=80167047",
         "date": "Fri, 22 Aug 2025 23:00:00 GMT",
@@ -138,5 +138,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/685f22fae24463baeb7c88c5/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 23 Aug 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 22 Aug 2025 21:22:47 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 22 Aug 2025 21:07:04 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot-2025-08-20-at-1.39.38%E2%80%AFPM.png?quality=90&strip=all&crop=4.3218085106383%2C0%2C91.356382978723%2C100&w=2400",
+        "date": "Fri, 22 Aug 2025 11:52:22 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Device-in-Use-1024x682-1.jpg?quality=90&strip=all&crop=0.048828125%2C0%2C99.90234375%2C100&w=2400",
+        "date": "Thu, 21 Aug 2025 20:59:31 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/23/6-things-to-know-about-the-metagoogle-cloud-ai-deal/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf594f756aae409e3b7e1/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 23 Aug 2025 14:35:00 GMT",
+        "check": "no"
     }
 ]
