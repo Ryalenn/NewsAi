@@ -1,5 +1,26 @@
 [
     {
+        "title": "La révolution optique de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/26/nvidia-bets-big-on-optics/?ss=ai",
+        "body": "La course à l'amélioration des performances de l'IA se concentre désormais sur l'utilisation de la lumière pour le transfert de données à la place des impulsions électriques. Nvidia, leader américain de l'industrie, développe de nouveaux systèmes de transfert de données optiques, Quantum-X et Spectrum-X, qui offrent une vitesse et une efficacité énergétique supérieures. Cette tendance coïncide avec l'émergence de LLM plus puissants et d'un coût de calcul réduit. Nvidia pourrait s'inspirer du plan COUPE de TSMC, qui vise à atteindre une vitesse de transfert de données de 12,8 Tbps. D'autres entreprises comme Broadcom, IBM et AMD investissent également dans l'optique et la photonique pour améliorer les performances de leurs systèmes. La photonique est considérée comme l'avenir de l'IA, offrant des avantages en termes de vitesse, d'efficacité énergétique et de transformation dans divers domaines. Les chercheurs de l'UPenn explorent déjà ces technologies à l'échelle de la nanotechnologie, ouvrant la voie à de nouvelles interfaces pour les réseaux distribués.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68acd15f5f8370f26f682d61/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 26 Aug 2025 09:03:00 GMT"
+    },
+    {
+        "title": "Google Nest : une nouvelle gamme d'appareils connectés",
+        "link": "https://www.frandroid.com/marques/google/2770909_google-preparerait-une-refonte-complete-de-sa-gamme-domotique-nest",
+        "body": "Google s'apprête à lancer une nouvelle gamme d'appareils connectés sous la marque Nest, comprenant une enceinte, deux caméras de surveillance et une sonnette connectée. Ces appareils seront équipés de l'assistant Gemini, qui remplacera l'assistant Google actuel. L'enceinte offrira un son 360 degrés de qualité, un design compact et symétrique, et intégrera Gemini Live avec détection de sons. Les caméras, quant à elles, pourront filmer en 2K HDR, offrant un zoom sans perte de qualité. Enfin, la sonnette connectée embarquera les mêmes fonctionnalités que les caméras, avec un design épuré. Ces nouveaux appareils renforcent la position de Google sur le marché de l'intelligence artificielle et de la domotique.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/05/google-nest-hub-768x384.jpg?resize=150,150&key=325e8e76",
+        "date": "Mon, 25 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La convergence des géants de la tech",
+        "link": "https://www.frandroid.com/android/2770907_android-copie-ios-ios-copie-android-la-verite-qui-derange",
+        "body": "Vingt ans après leur naissance, Android et iOS convergent de plus en plus, notamment sur les aspects de sécurité, de personnalisation et d'intelligence artificielle. Google adopte des pratiques de contrôle des applications similaires à celles d'Apple, ce qui soulève des questions sur l'avenir de la concurrence mobile et la diversité technologique. Apple, quant à lui, intègre des fonctionnalités autrefois distinctives d'Android, comme le placement libre des icônes et l'écranage d'appels. L'Union européenne pousse également à l'homogénéisation avec des exigences d'interopérabilité. La compétition se joue désormais sur l'intégration, l'IA utile et les contraintes réglementaires régionales.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/image-49-2-768x576.jpg?resize=225,225&key=f36b1054",
+        "date": "Mon, 25 Aug 2025 23:00:00 GMT"
+    },
+    {
         "title": "La guerre de l'IA",
         "link": "https://www.frandroid.com/marques/apple/2770829_elon-musk-part-en-guerre-contre-apple-et-chatgpt-peut-il-gagner",
         "body": "Elon Musk attaque en justice Apple et OpenAI pour abus de position dominante, accusant les deux entreprises de verrouiller le marché et d'étouffer la concurrence. Musk affirme qu'Apple, en intégrant ChatGPT sur ses iPhone, et OpenAI, avec leur IA propriétaire, menacent son entreprise X et son IA Grok. Il critique également Apple pour avoir enfoui X et Grok dans les classements de l'App Store. Bien qu'Apple refuse de commenter, OpenAI dénonce le harcèlement de Musk. L'environnement juridique actuel et l'administration Trump pourraient être favorables à Musk, mais le succès de son offensive reste incertain.",
@@ -96,12 +117,5 @@
         "body": "L'IA transforme l'espace domestique, de la literie à la sécurité, en passant par la cuisine et la qualité de l'air. Eight Sleep a développé un matelas intelligent qui surveille le sommeil grâce à des capteurs et ajuste la température pour améliorer le confort. D'autres innovations incluent le système de préparation des repas Suvie 3.0, le mélangeur GE Profile Smart, la caméra drone Ring Always Home, et le hub de sécurité Vivint avec IA comportementale. L'IA améliore également la qualité de l'air avec Aura Air, et la détection d'incendie avec Glance. Les robots Ecovacs Deebot X2 Omni et LG Washtower révolutionnent les tâches ménagères. Ces technologies, autrefois de la science-fiction, offrent un confort et une automatisation sans précédent.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68ab2a39492961e6912c6db3/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 24 Aug 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La vérité sur les mensonges de l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/24/outsized-hype-about-chatgpt-gpt-5-being-totally-honest-ai-is-basically-a-big-fib/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6854579ab343515b4ba853f5/0x0.jpg?format=jpg&width=440",
-        "date": "Sun, 24 Aug 2025 07:00:00 GMT"
     }
 ]
