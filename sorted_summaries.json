@@ -1,5 +1,33 @@
 [
     {
+        "title": "L'avenir de la XR et de l'IA à Siggraph 2025",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/08/25/xr-and-ai-dominate-the-future-of-graphics-at-siggraph-2025/?ss=ai",
+        "body": "Siggraph 2025, qui s'est tenu à Vancouver, a mis en lumière les dernières avancées en matière de graphiques informatiques et leur intersection avec l'IA. Nvidia a dominé l'événement avec ses annonces, notamment de nouveaux serveurs RTX PRO équipés de puces graphiques Blackwell, offrant des performances améliorées pour le rendu en temps réel et l'inférence LLM. Les nouvelles cartes graphiques RTX PRO 4000 et 2000 de Nvidia, basées sur l'architecture Blackwell, offrent une efficacité énergétique impressionnante pour les applications d'IA. Meta a présenté ses casques Tiramisu et Boba 3, qui repoussent les limites de la résolution et du champ de vision dans la réalité virtuelle. Arm a également dévoilé ses plans pour intégrer la technologie neuronale à ses puces graphiques mobiles, réduisant ainsi la charge de travail du GPU. L'événement a également mis en évidence l'importance du groupe Khronos et de son format glTF pour les expériences XR, avec l'annonce d'une intégration des splats gaussiens dans la norme glTF. L'IA et la XR continuent de converger, ouvrant la voie à des expériences informatiques encore plus immersives et puissantes.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68acc33734ea7eb153e132a8/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 25 Aug 2025 20:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'emploi à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/paulocarvao/2025/08/25/ai-and-jobs-the-fed-is-weighing-inflation-fears-and-labor-market-risk/?ss=ai",
+        "body": "",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68aca05491f32fe9820b2365/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 25 Aug 2025 18:00:00 GMT"
+    },
+    {
+        "title": "La ruée vers l'or de l'IA",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/25/a-tale-of-3-ai-ipos/?ss=ai",
+        "body": "Bien que l'on parle souvent des progrès technologiques de l'IA, il est également important d'examiner le contexte du marché pour comprendre son impact sur le monde. En 2025, il y a eu trois introductions en bourse (IPO) notables dans le domaine de l'IA : CoreWeave aux États-Unis, LightOn en Europe et Cerebras, qui est en cours. CoreWeave, valorisée à environ 23 milliards de dollars, a vu son cours de bourse grimper jusqu'à 200 dollars avant de redescendre aux environs de 90 dollars, et bénéficie du soutien de Nvidia. LightOn, la première entreprise européenne cotée en bourse spécialisée dans l'IA, a fixé son prix d'introduction à 10 euros par action, avec une capitalisation boursière d'environ 62 millions d'euros. Enfin, Cerebras, connue pour son processeur GPU « dinner chip », a déposé son dossier d'introduction en bourse en septembre 2024. Ces introductions en bourse reflètent l'intérêt intense pour le secteur de l'IA de la part des investisseurs et du grand public, alors que nous nous dirigeons vers l'intelligence artificielle générale et ce que certains appellent « la singularité ».",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68ac7734d203cfc46b0d95f8/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 25 Aug 2025 14:00:00 GMT"
+    },
+    {
+        "title": "L'aube d'une nouvelle ère : l'impact de l'IA sur la société",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/08/25/top-5-ai-leaders-bringing-artificial-intelligence-to-everyone/?ss=ai",
+        "body": "Titre : L'aube d'une nouvelle ère",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a8d51a51166f5d9bde725d/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 25 Aug 2025 14:00:00 GMT"
+    },
+    {
         "title": "La bulle de l'IA va-t-elle exploser ?",
         "link": "https://www.forbes.com/sites/cortneyharding/2025/08/25/ai-is-about-to-have-its-dot-com-bubble-moment-thats-a-good-thing/?ss=ai",
         "body": "Bien que les gros titres aient annoncé l'échec de 95 % des projets pilotes d'IA, la réalité est plus nuancée. L'échec est souvent dû à un manque de compétences et de compréhension, plutôt qu'à la technologie elle-même. Tout comme les technologies surmédiatisées du passé sont devenues grand public, l'IA continuera probablement à s'améliorer et à s'intégrer à notre quotidien. Malgré les prédictions de crash, la technologie progresse rarement en arrière et l'IA est là pour durer. Des réglementations et des lignes directrices réalistes peuvent être mises en place pour protéger la propriété intellectuelle, la vie privée des données et l'efficacité énergétique des centres de données.",
@@ -61,19 +89,5 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6854579ab343515b4ba853f5/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 24 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "Apple cherche de l'aide pour Siri",
-        "link": "https://www.frandroid.com/os/ios/2769537_apple-negocierait-avec-google-pour-sauver-siri-de-lembarras",
-        "body": "Face au retard de Siri par rapport à ses concurrents, Apple envisage de collaborer avec Google pour intégrer Gemini dans son assistant vocal. Apple, conscient du retard de Siri, explore de nouvelles options pour améliorer ses capacités conversationnelles. L'entreprise collabore déjà avec des partenaires externes comme Google pour la fonction Visual Intelligence et OpenAI pour intégrer ChatGPT dans iOS. Ces partenariats indiquent un changement de stratégie pour Apple, qui préfère habituellement tout développer en interne.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/05/google-gemini-astra-1-768x432.jpg?resize=169,169&key=b89b164c",
-        "date": "Sat, 23 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Un mariage de titans de la tech",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/23/6-things-to-know-about-the-metagoogle-cloud-ai-deal/?ss=ai",
-        "body": "Google et Meta ont conclu un accord de 10 milliards de dollars pour l'hébergement d'IA dans le cloud, ce qui représente un investissement important de la part de Meta dans le domaine de l'IA. Cet accord, qui durera jusqu'en 2031, reflète la stratégie de Meta consistant à investir massivement dans l'IA tout en réduisant sa main-d'œuvre humaine. L'accord donne à Google un avantage dans le marché du cloud IA, rivalisant ainsi avec AWS, le leader du marché. L'accord souligne également le débat « construire ou acheter » auquel sont confrontées les grandes entreprises en matière de développement de l'IA, ainsi que la position de Google en tant que fournisseur de services cloud fiables. Enfin, l'accord met en lumière les offres d'IA de Google, notamment Vertex AI, Generative AI Studio et Vision AI, qui contribuent à solidifier sa position dans le paysage concurrentiel du cloud AI.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bdf594f756aae409e3b7e1/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 23 Aug 2025 14:35:00 GMT"
     }
 ]
