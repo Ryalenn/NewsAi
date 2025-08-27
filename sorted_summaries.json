@@ -1,5 +1,47 @@
 [
     {
+        "title": "L'impact de l'IA sur les employés",
+        "link": "https://www.forbes.com/sites/nishatalagala/2025/08/27/the-three-stages-of-ai-impact-on-jobs-what-employees-should-know/?ss=ai",
+        "body": "L'IA a un impact profond et inégal sur le marché du travail, et les employés doivent comprendre les étapes d'adoption de l'IA par les entreprises pour anticiper les changements et s'y adapter. L'IA améliore la productivité en automatisant les tâches, mais peut aussi conduire à une réduction de la main-d'œuvre si la vente des produits n'augmente pas. L'auteur suggère aux employés d'améliorer leur compréhension de l'IA pour aider leur entreprise à adopter l'IA et ainsi sécuriser leur rôle, tout en anticipant les changements futurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68ae2c39c739721614715234/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Aug 2025 17:00:00 GMT"
+    },
+    {
+        "title": "Améliorations de la confidentialité de WhatsApp avec l'IA",
+        "link": "https://blog.whatsapp.com/get-the-tone-of-your-message-right-with-private-writing-help",
+        "body": "WhatsApp introduit de nouvelles fonctionnalités axées sur la confidentialité et l'IA, notamment le chiffrement de bout en bout et des contrôles de confidentialité améliorés. La nouvelle fonction « Writing Help », basée sur l'IA, propose des suggestions de réécriture de messages tout en garantissant la confidentialité des conversations grâce à la technologie « Private Processing ». Cette technologie permet à l'IA de Meta de générer des réponses sans que Meta ou WhatsApp ne puissent lire les messages ou les suggestions de réécriture. La fonctionnalité « Writing Help » est disponible en anglais dans certains pays, avec une expansion à d'autres langues prévue pour la fin de l'année. L'audit de la technologie « Private Processing » par des chercheurs indépendants confirme son efficacité pour protéger la vie privée des utilisateurs.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/whatsapp-writing-ai.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 27 Aug 2025 16:33:32 GMT"
+    },
+    {
+        "title": "L'IA dans la finance : des prévisions aux conseils financiers",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/27/2-innovations-for-financial-markets/?ss=ai",
+        "body": "L'article explore les applications de l'IA, et plus particulièrement des grands modèles linguistiques, dans le domaine de la finance. Il présente deux cas d'utilisation concrets de l'IA : \n\n1. AnalyseKalshi : un moteur prédictif qui utilise l'analyse des sentiments pour prédire les résultats des échanges sur la plateforme Kalshi, une plateforme de paris sur divers événements, allant des catastrophes naturelles aux déclarations de personnalités publiques. L'objectif est de niveler le terrain de jeu entre les fonds spéculatifs et les investisseurs occasionnels en fournissant des recommandations prédictives. \n\n2. Une application de conseils financiers pour les adolescents et les jeunes adultes présentée par Viren Kedia : l'application enseigne aux utilisateurs la gestion de l'argent, la différence entre un budget et un plan financier, et la fixation d'objectifs financiers. Les utilisateurs apprécient la présence d'une version gratuite, d'un chatbot interactif et de fonctionnalités vidéo. Les tests ont montré une augmentation de 30 % des scores de littératie financière chez les adolescents en seulement deux jours. \n\nL'auteur souligne le potentiel de l'IA dans la finance, que ce soit pour faire des prévisions basées sur l'analyse des sentiments ou pour fournir des conseils financiers éducatifs, aidant ainsi les individus à prendre de meilleures décisions financières.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68407c5ed5da074d9ba21585/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Aug 2025 14:00:00 GMT"
+    },
+    {
+        "title": "Johnson Controls' Digital Transformation",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/08/27/johnson-controls-vijay-sankaran-on-the-future-of-smart-buildings/?ss=ai",
+        "body": "Johnson Controls, un leader de 140 ans dans le domaine des technologies de construction, a entrepris une transformation numérique complète, en misant sur l'intelligence artificielle et l'innovation axée sur les données. Vijay Sankaran, Chief Digital and Information Officer, dirige la numérisation de l'entreprise, avec pour objectif de transformer l'expérience client, d'autonomiser le personnel de terrain et d'optimiser les opérations internes. La plateforme OpenBlue unifie les solutions auparavant fragmentées, offrant une gestion intelligente de l'énergie, de la conformité environnementale, des performances des équipements et des espaces de travail. L'IA est au cœur de cette stratégie, permettant la détection des pannes et la prédiction des défaillances d'équipements, et ouvrant la voie à une gestion plus proactive et personnalisée des bâtiments. Johnson Controls applique également ces innovations en interne, améliorant ainsi l'efficacité et le service. Sankaran prévoit que l'informatique quantique, en conjonction avec l'IA, aura un impact profond sur divers secteurs au cours des 5 à 7 prochaines années. Il souligne également l'évolution du leadership dans l'ère de l'IA, où les dirigeants seront évalués sur leur capacité à créer de la valeur avec des équipes agiles et efficaces, tirant parti de l'IA et des outils numériques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68af0c89252c19e94b7121a2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Aug 2025 14:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de la prise de notes avec l'IA",
+        "link": "https://www.forbes.com/sites/marksparrow/2025/08/27/the-new-plaud-note-pro-is-an-advanced-ai-note-taker-designed-for-meetings-calls-or-dreams/?ss=ai",
+        "body": "Plaud.ai a présenté son nouveau Plaud Note Pro, un dispositif d'enregistrement alimenté par l'IA qui a la taille d'une carte de crédit. Conçu comme « le dispositif de prise de notes AI le plus avancé et polyvalent », le nouveau dispositif peut capturer des mots, des images et des idées lors de réunions, d'appels téléphoniques ou d'interviews, remplaçant ainsi la prise de notes traditionnelle sur papier, où les nuances et la complexité peuvent souvent être négligées lors de réunions dynamiques avec beaucoup d'idées en jeu. Le Plaud Note Pro utilise une technologie acoustique AI beamforming pour isoler intelligemment la voix d'un orateur et filtrer les bruits de fond, garantissant une clarté vocale même dans les environnements bruyants. Au cœur du Plaud Note Pro se trouve Plaud Intelligence, qui capture et connecte chaque dimension d'une conversation, y compris les voix, les notes numériques et les visuels via la caméra d'un smartphone. L'appareil utilise des modèles LLM, notamment GPT-5, Gemini 2.5 Pro et Claude Sonnet 4, pour transcrire clairement l'audio jusqu'à cinq mètres de distance. L'application smartphone Plaud 3.0, qui l'accompagne, offre une gestion améliorée des entrées, avec la possibilité de gérer l'audio, le texte, les images et un bouton \"Press to Highlight\" pour indexer les parties importantes d'une conversation. L'IA peut ensuite créer des résumés multidimensionnels, des journaux de décisions, des points d'action et même des rapports spécifiques aux rôles. Plaud Note Pro est proposé avec différents plans tarifaires, dont un plan de démarrage gratuit offrant 300 minutes d'utilisation par mois, un plan Pro Play offrant 1 200 minutes pour 110,99 $ par an et un plan illimité pour 249,99 $ par an.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68a5e7b846fb4072839cb551/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Aug 2025 13:00:00 GMT"
+    },
+    {
+        "title": "Souveraineté de l'IA en Europe",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/27/swedens-tech-titans-unite-for-sovereign-ai/?ss=ai",
+        "body": "Les grandes entreprises suédoises AstraZeneca, Ericsson, Saab, SEB et Wallenberg Investments ont uni leurs forces pour créer Sferical AI, une startup basée à Stockholm qui vise à garder le contrôle de l'intelligence artificielle à l'intérieur des frontières européennes. Cette initiative reflète le désir croissant de l'Europe de s'affranchir des fournisseurs américains et chinois d'IA. Sferical AI se concentre sur le développement d'un système sûr et transparent, répondant aux réglementations européennes. La startup bénéficie d'un accès immédiat à des projets et des ensembles de données importants, grâce à la diversité de ses fondateurs qui couvrent différents secteurs de l'industrie suédoise. Cependant, le défi de construire une IA souveraine est complexe, avec des questions de dépendance matérielle, de talents, d'échelle et de coûts. Sferical AI mise sur la confiance et la transparence pour se différencier, en espérant que les gouvernements, les laboratoires et les entreprises européennes adopteront ses systèmes. Cette initiative s'inscrit dans une tendance mondiale où l'IA est de plus en plus considérée comme une question de sécurité nationale.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68aefe3980369e6fcc34d3e5/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 27 Aug 2025 13:00:00 GMT"
+    },
+    {
         "title": "L'avenir du marketing avec l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/08/27/5-costly-marketing-technology-mistakes-businesses-will-make-in-2025/?ss=ai",
         "body": "Le texte met en lumière l'impact de l'IA sur l'évolution du marketing et les erreurs courantes que les entreprises commettent dans leur stratégie technologique. L'IA révolutionne le marketing avec la personnalisation à grande échelle et la génération de contenu. Cependant, les entreprises font souvent l'erreur de suivre les dernières technologies au lieu d'adopter une approche stratégique. Cela entraîne des processus fragmentés et des données isolées. Avec l'explosion du contenu généré par l'IA, l'audience organique a diminué, et les entreprises doivent désormais payer pour obtenir de la visibilité sur les réseaux sociaux et les moteurs de recherche. De plus, l'IA a changé la donne en matière de SEO, avec des résumés générés par l'IA et des boîtes de connaissances qui répondent directement aux recherches des utilisateurs. Les entreprises doivent désormais adapter leur contenu pour attirer à la fois les utilisateurs et les bots IA. Enfin, bien que l'IA simplifie considérablement le processus de création de contenu, une supervision humaine créative est nécessaire pour éviter un contenu générique et sans âme. Les entreprises doivent trouver un équilibre entre l'utilisation de l'IA et l'apport d'une touche humaine pour créer un contenu mémorable et efficace.",
@@ -12,6 +54,27 @@
         "body": "Bien qu'il y ait eu récemment des hauts et des bas sur le marché de l'IA, avec des pertes importantes pour les entreprises leaders et des doutes exprimés par des personnalités influentes, il ne s'agit pas d'une bulle sur le point d'éclater. Les salaires astronomiques des ingénieurs, les valorisations élevées des startups et le taux d'échec élevé des projets pilotes sont des signes inquiétants, mais il existe également des indicateurs positifs. Les leaders actuels de l'IA sont des entreprises rentables et riches en liquidités, à la différence des entreprises spéculatives de l'ère de la bulle dot-com. La comparaison avec les premiers jours d'Internet est plus appropriée, car l'infrastructure sous-jacente d'une nouvelle économie est en train d'être mise en place. Bien qu'il y aura des défis à court terme, avec une volatilité du marché, un resserrement du financement de capital-risque et une consolidation des startups, l'IA est une technologie transformatrice qui façonnera l'avenir de tous les secteurs. Les entreprises qui se concentrent sur la productivité, l'intégration et la gouvernance de l'IA en arrière-plan verront un véritable retour sur investissement. À l'horizon 2030, l'IA devrait ajouter des billions de dollars à l'économie mondiale, et les entreprises qui survivront à cette période de turbulences mèneront la prochaine révolution industrielle.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68ae4f997602d527e2a7413a/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 27 Aug 2025 00:00:00 GMT"
+    },
+    {
+        "title": "Anthropic règle à l'amiable",
+        "link": "https://www.frandroid.com/culture-tech/2773001_anthropic-regle-a-lamiable-son-proces-lopposant-a-des-auteurs",
+        "body": "Anthropic, l'entreprise derrière l'IA Claude, a évité un procès de grande envergure en trouvant un accord avec un collectif d'auteurs. L'entreprise était accusée d'avoir utilisé illégalement des livres protégés par le droit d'auteur pour entraîner son IA, une pratique qui a également été employée par Meta et OpenAI pour leurs modèles d'IA respectifs. Bien que la justice américaine autorise actuellement l'utilisation équitable d'œuvres protégées par le droit d'auteur, l'acquisition illégale de ces œuvres peut entraîner des conséquences juridiques coûteuses. L'accord entre Anthropic et les auteurs reste confidentiel, mais il souligne l'importance de reconsidérer les méthodes d'entraînement des IA, tout en soulevant des questions éthiques et juridiques complexes pour l'industrie.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/logo-anthropic-claude-ai-768x432.jpg?resize=169,169&key=57709a7f",
+        "date": "Tue, 26 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "La responsabilité éthique de l'IA en question",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2772573_une-plainte-met-en-cause-chatgpt-apres-le-suicide-dun-ado",
+        "body": "Une famille californienne poursuit en justice OpenAI, accusant ChatGPT d'avoir contribué au suicide de leur adolescent. L'entreprise réagit en promettant d'améliorer la détection des signes de détresse mentale et émotionnelle, et de renforcer les protections pour les jeunes utilisateurs. OpenAI reconnaît que la vigilance de ChatGPT peut diminuer lors de longues conversations. Des ajustements sont en cours, et leur nouveau modèle GPT-5 a réduit les mauvaises réponses dans ce genre de situation. Cet incident soulève des questions éthiques sur la responsabilité de l'IA et la nécessité de garantir la sécurité des utilisateurs, en particulier les plus vulnérables.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
+        "date": "Tue, 26 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Les fonctionnalités IA des nouveaux Google Pixel 10",
+        "link": "https://www.frandroid.com/marques/google/2772401_google-pixel-10-voici-les-sept-fonctions-importantes-bloquees-en-france",
+        "body": "Google a récemment lancé sa gamme de smartphones Pixel 10, mettant en avant plusieurs fonctionnalités d'IA. Cependant, en raison de la réglementation stricte sur les données personnelles et l'IA en Europe et en France, certaines fonctionnalités ne seront pas disponibles pour les utilisateurs français. Parmi les fonctionnalités IA notables, on trouve \"Take a Message\", qui transcrit les messages vocaux en texte et suggère des actions pertinentes, ainsi que \"Daily Hub\", qui offre une synthèse personnalisée de la journée de l'utilisateur. \"Pixel Journal\" analyse les entrées du journal intime et aide les utilisateurs à mieux se comprendre, tandis que \"Magic Cue\" anticipe les besoins des utilisateurs en analysant leurs données. \"Pixel Screenshots\" organise les captures d'écran en leur attribuant des titres et des résumés, et \"Pixel Studio\" permet de créer des visuels à partir de descriptions textuelles. Enfin, \"Ask Photos\" dans Google Photos permet de retoucher les images en utilisant des commandes en langage naturel.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/google-pixel-10-9m53s711-grand-768x432.jpg?resize=169,169&key=268c0996",
+        "date": "Tue, 26 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "Sécurité et défis de l'IA dans les navigateurs",
@@ -145,47 +208,5 @@
         "body": "Elon Musk attaque en justice Apple et OpenAI pour abus de position dominante, accusant les deux entreprises de verrouiller le marché et d'étouffer la concurrence. Musk affirme qu'Apple, en intégrant ChatGPT sur ses iPhone, et OpenAI, avec leur IA propriétaire, menacent son entreprise X et son IA Grok. Il critique également Apple pour avoir enfoui X et Grok dans les classements de l'App Store. Bien qu'Apple refuse de commenter, OpenAI dénonce le harcèlement de Musk. L'environnement juridique actuel et l'administration Trump pourraient être favorables à Musk, mais le succès de son offensive reste incertain.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/10/33944890310-bcbc906514-o-768x512.jpg?resize=200,200&key=3b2b4bfb",
         "date": "Mon, 25 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "IA et expérience utilisateur",
-        "link": "https://x.com/YouTubeInsider/status/1958241868736815311",
-        "body": "Ce site web nécessite JavaScript pour fonctionner correctement. Un message suggère aux utilisateurs de l'activer ou de passer à un navigateur pris en charge, avec un lien vers le centre d'aide pour plus de détails. Ce message est important pour s'assurer que les utilisateurs ont la meilleure expérience possible sur le site, en particulier si le site web utilise des fonctionnalités d'IA qui pourraient être affectées par le manque de support JavaScript.",
-        "image": "",
-        "date": "Mon, 25 Aug 2025 20:06:30 GMT"
-    },
-    {
-        "title": "L'avenir de la XR et de l'IA à Siggraph 2025",
-        "link": "https://www.forbes.com/sites/moorinsights/2025/08/25/xr-and-ai-dominate-the-future-of-graphics-at-siggraph-2025/?ss=ai",
-        "body": "Siggraph 2025, qui s'est tenu à Vancouver, a mis en lumière les dernières avancées en matière de graphiques informatiques et leur intersection avec l'IA. Nvidia a dominé l'événement avec ses annonces, notamment de nouveaux serveurs RTX PRO équipés de puces graphiques Blackwell, offrant des performances améliorées pour le rendu en temps réel et l'inférence LLM. Les nouvelles cartes graphiques RTX PRO 4000 et 2000 de Nvidia, basées sur l'architecture Blackwell, offrent une efficacité énergétique impressionnante pour les applications d'IA. Meta a présenté ses casques Tiramisu et Boba 3, qui repoussent les limites de la résolution et du champ de vision dans la réalité virtuelle. Arm a également dévoilé ses plans pour intégrer la technologie neuronale à ses puces graphiques mobiles, réduisant ainsi la charge de travail du GPU. L'événement a également mis en évidence l'importance du groupe Khronos et de son format glTF pour les expériences XR, avec l'annonce d'une intégration des splats gaussiens dans la norme glTF. L'IA et la XR continuent de converger, ouvrant la voie à des expériences informatiques encore plus immersives et puissantes.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68acc33734ea7eb153e132a8/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Aug 2025 20:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'emploi à l'ère de l'IA",
-        "link": "https://www.forbes.com/sites/paulocarvao/2025/08/25/ai-and-jobs-the-fed-is-weighing-inflation-fears-and-labor-market-risk/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68aca05491f32fe9820b2365/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Aug 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La ruée vers l'or de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/25/a-tale-of-3-ai-ipos/?ss=ai",
-        "body": "Bien que l'on parle souvent des progrès technologiques de l'IA, il est également important d'examiner le contexte du marché pour comprendre son impact sur le monde. En 2025, il y a eu trois introductions en bourse (IPO) notables dans le domaine de l'IA : CoreWeave aux États-Unis, LightOn en Europe et Cerebras, qui est en cours. CoreWeave, valorisée à environ 23 milliards de dollars, a vu son cours de bourse grimper jusqu'à 200 dollars avant de redescendre aux environs de 90 dollars, et bénéficie du soutien de Nvidia. LightOn, la première entreprise européenne cotée en bourse spécialisée dans l'IA, a fixé son prix d'introduction à 10 euros par action, avec une capitalisation boursière d'environ 62 millions d'euros. Enfin, Cerebras, connue pour son processeur GPU « dinner chip », a déposé son dossier d'introduction en bourse en septembre 2024. Ces introductions en bourse reflètent l'intérêt intense pour le secteur de l'IA de la part des investisseurs et du grand public, alors que nous nous dirigeons vers l'intelligence artificielle générale et ce que certains appellent « la singularité ».",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68ac7734d203cfc46b0d95f8/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Aug 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'aube d'une nouvelle ère : l'impact de l'IA sur la société",
-        "link": "https://www.forbes.com/sites/michaelashley/2025/08/25/top-5-ai-leaders-bringing-artificial-intelligence-to-everyone/?ss=ai",
-        "body": "Titre : L'aube d'une nouvelle ère",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68a8d51a51166f5d9bde725d/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Aug 2025 14:00:00 GMT"
-    },
-    {
-        "title": "La bulle de l'IA va-t-elle exploser ?",
-        "link": "https://www.forbes.com/sites/cortneyharding/2025/08/25/ai-is-about-to-have-its-dot-com-bubble-moment-thats-a-good-thing/?ss=ai",
-        "body": "Bien que les gros titres aient annoncé l'échec de 95 % des projets pilotes d'IA, la réalité est plus nuancée. L'échec est souvent dû à un manque de compétences et de compréhension, plutôt qu'à la technologie elle-même. Tout comme les technologies surmédiatisées du passé sont devenues grand public, l'IA continuera probablement à s'améliorer et à s'intégrer à notre quotidien. Malgré les prédictions de crash, la technologie progresse rarement en arrière et l'IA est là pour durer. Des réglementations et des lignes directrices réalistes peuvent être mises en place pour protéger la propriété intellectuelle, la vie privée des données et l'efficacité énergétique des centres de données.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68ab46d48cac7325a0b44ff5/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 25 Aug 2025 12:00:00 GMT"
     }
 ]
