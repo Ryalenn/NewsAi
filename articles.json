@@ -70,14 +70,14 @@
         "check": "yes"
     },
     {
-        "title": "Anthropic règle à l’amiable son procès l’opposant à des auteurs",
+        "title": "Anthropic r\u00e8gle \u00e0 l\u2019amiable son proc\u00e8s l\u2019opposant \u00e0 des auteurs",
         "link": "https://www.frandroid.com/culture-tech/2773001_anthropic-regle-a-lamiable-son-proces-lopposant-a-des-auteurs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/logo-anthropic-claude-ai-768x432.jpg?resize=169,169&key=57709a7f",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Une plainte met en cause ChatGPT après le suicide d’un ado",
+        "title": "Une plainte met en cause ChatGPT apr\u00e8s le suicide d\u2019un ado",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2772573_une-plainte-met-en-cause-chatgpt-apres-le-suicide-dun-ado",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
@@ -175,7 +175,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT accompagne un ado au suicide, OpenAI réagit avec un contrôle parental",
+        "title": "ChatGPT accompagne un ado au suicide, OpenAI r\u00e9agit avec un contr\u00f4le parental",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
         "date": "Wed, 27 Aug 2025 23:00:00 GMT",
@@ -201,5 +201,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68af771b42953002c4bdefa4/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 28 Aug 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
+        "date": "Wed, 27 Aug 2025 16:19:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/michaelashley/2025/08/28/ai-is-powering-a-hidden-exit-strategy-to-help-businesses-actually-sell/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68afa1b8db33e98ff12ac031/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 14:45:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/aytekintank/2025/08/28/how-to-build-an-emotionally-intelligent-team-with-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b0626f85a6139113069231/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 14:00:00 GMT",
+        "check": "no"
     }
 ]
