@@ -91,14 +91,14 @@
         "check": "yes"
     },
     {
-        "title": "Anthropic règle à l’amiable son procès l’opposant à des auteurs",
+        "title": "Anthropic r\u00e8gle \u00e0 l\u2019amiable son proc\u00e8s l\u2019opposant \u00e0 des auteurs",
         "link": "https://www.frandroid.com/culture-tech/2773001_anthropic-regle-a-lamiable-son-proces-lopposant-a-des-auteurs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/logo-anthropic-claude-ai-768x432.jpg?resize=169,169&key=57709a7f",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Une plainte met en cause ChatGPT après le suicide d’un ado",
+        "title": "Une plainte met en cause ChatGPT apr\u00e8s le suicide d\u2019un ado",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2772573_une-plainte-met-en-cause-chatgpt-apres-le-suicide-dun-ado",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
@@ -194,5 +194,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68afde6c78d87b1f509de3ba/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 28 Aug 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "ChatGPT accompagne un ado au suicide, OpenAI r\u00e9agit avec un contr\u00f4le parental",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
+        "date": "Wed, 27 Aug 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/microsoft/2774185_lia-de-microsoft-arrive-sur-les-teles-et-les-moniteurs-samsung",
+        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/08/copilot-tv-samsung.webp?resize=200,200&key=e1f5eb59",
+        "date": "Wed, 27 Aug 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/solrashidi/2025/08/28/modernas-game-changing-reorg-merging-hr-and-it-under-one-umbrella/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68aa38bd8ed713ecbc8cc137/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 11:59:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/28/anthropic-and-perplexity-mired-in-copyright-cases/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68af771b42953002c4bdefa4/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 09:00:00 GMT",
+        "check": "no"
     }
 ]
