@@ -1,5 +1,12 @@
 [
     {
+        "title": "La surveillance des entrées par les créateurs d'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/08/28/lawsuit-against-openai-and-chatgpt-raises-hard-questions-about-when-ai-makers-should-be-reporting-user-prompts/?ss=ai",
+        "body": "Titre : La surveillance des entrées par les créateurs d'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68afde6c78d87b1f509de3ba/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'impact de l'IA sur les employés",
         "link": "https://www.forbes.com/sites/nishatalagala/2025/08/27/the-three-stages-of-ai-impact-on-jobs-what-employees-should-know/?ss=ai",
         "body": "L'IA a un impact profond et inégal sur le marché du travail, et les employés doivent comprendre les étapes d'adoption de l'IA par les entreprises pour anticiper les changements et s'y adapter. L'IA améliore la productivité en automatisant les tâches, mais peut aussi conduire à une réduction de la main-d'œuvre si la vente des produits n'augmente pas. L'auteur suggère aux employés d'améliorer leur compréhension de l'IA pour aider leur entreprise à adopter l'IA et ainsi sécuriser leur rôle, tout en anticipant les changements futurs.",
@@ -159,12 +166,5 @@
         "body": "IBM et AMD s'associent pour développer des architectures informatiques de prochaine génération basées sur l'informatique quantique et l'informatique haute performance, appelées supercalculateurs quantiques. L'objectif est de créer des plateformes open source évolutives qui repoussent les limites de l'informatique traditionnelle. L'informatique quantique, grâce à ses qubits, offre un espace de calcul beaucoup plus riche que les bits des ordinateurs classiques, ce qui permet de résoudre des problèmes complexes dans des domaines tels que la découverte de médicaments, les matériaux, l'optimisation et la logistique. IBM Quantum System Two, le premier ordinateur quantique modulaire d'IBM, est au cœur de cette approche. Arvind Krishna, PDG d'IBM, souligne que l'informatique quantique simule le monde naturel et représente l'information d'une manière entièrement nouvelle. En combinant les ordinateurs quantiques d'IBM et les technologies de calcul haute performance d'AMD, les entreprises espèrent créer un puissant modèle hybride qui dépasse les limites de l'informatique traditionnelle. De son côté, la PDG d'AMD, Dr. Lisa Su, souligne l'importance du calcul haute performance pour résoudre les défis mondiaux les plus critiques. La collaboration entre AMD et IBM vise à intégrer les CPU, GPU et FPGA d'AMD aux ordinateurs quantiques d'IBM pour accélérer une nouvelle classe d'algorithmes. Cet effort pourrait également contribuer à la réalisation de l'objectif d'IBM de fournir des ordinateurs quantiques tolérants aux pannes d'ici la fin de la décennie. Les technologies AMD offrent des capacités de correction d'erreurs en temps réel, essentielles à l'informatique quantique tolérant aux pannes. Les équipes prévoient une démonstration initiale plus tard dans l'année pour montrer comment les ordinateurs quantiques d'IBM peuvent fonctionner en tandem avec les technologies AMD pour déployer des flux de travail quantiques hybrides.",
         "image": "",
         "date": "Tue, 26 Aug 2025 10:00:00 GMT"
-    },
-    {
-        "title": "La révolution optique de l'IA",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/26/nvidia-bets-big-on-optics/?ss=ai",
-        "body": "La course à l'amélioration des performances de l'IA se concentre désormais sur l'utilisation de la lumière pour le transfert de données à la place des impulsions électriques. Nvidia, leader américain de l'industrie, développe de nouveaux systèmes de transfert de données optiques, Quantum-X et Spectrum-X, qui offrent une vitesse et une efficacité énergétique supérieures. Cette tendance coïncide avec l'émergence de LLM plus puissants et d'un coût de calcul réduit. Nvidia pourrait s'inspirer du plan COUPE de TSMC, qui vise à atteindre une vitesse de transfert de données de 12,8 Tbps. D'autres entreprises comme Broadcom, IBM et AMD investissent également dans l'optique et la photonique pour améliorer les performances de leurs systèmes. La photonique est considérée comme l'avenir de l'IA, offrant des avantages en termes de vitesse, d'efficacité énergétique et de transformation dans divers domaines. Les chercheurs de l'UPenn explorent déjà ces technologies à l'échelle de la nanotechnologie, ouvrant la voie à de nouvelles interfaces pour les réseaux distribués.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68acd15f5f8370f26f682d61/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Aug 2025 09:03:00 GMT"
     }
 ]
