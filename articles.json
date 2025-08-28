@@ -1,34 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
-        "image": "",
-        "date": "Tue, 26 Aug 2025 15:30:17 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68adea8b233d0439d7167e1f/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Aug 2025 17:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/moorinsights/2025/08/26/ai-and-open-source-redefine-enterprise-data-platforms-in-2025/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68ade6a62c63c31edc4329ff/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Aug 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/26/ai-kills-jobs-says-stanford-study-at-least-in-these-circumstances/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68ade28e8b130ccdb5ae65e7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Aug 2025 16:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.anthropic.com/news/claude-for-chrome",
         "image": "",
         "date": "Tue, 26 Aug 2025 19:29:18 GMT",
@@ -43,23 +15,9 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/google-translate-learning.png?quality=90&strip=all&crop=7.2046109510086%2C0%2C85.590778097983%2C100&w=2400",
-        "date": "Tue, 26 Aug 2025 16:00:00 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/markminevich/2025/08/26/ais-1-trillion-shakeout-bubble-correction-or-market-reset/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68ae4f997602d527e2a7413a/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 27 Aug 2025 00:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/08/26/vcf-and-private-ai-take-center-stage-at-vmware-explore-2025/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68adfca0dd0266d80284085e/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 26 Aug 2025 18:00:00 GMT",
         "check": "yes"
     },
     {
@@ -70,14 +28,14 @@
         "check": "yes"
     },
     {
-        "title": "Anthropic r\u00e8gle \u00e0 l\u2019amiable son proc\u00e8s l\u2019opposant \u00e0 des auteurs",
+        "title": "Anthropic règle à l’amiable son procès l’opposant à des auteurs",
         "link": "https://www.frandroid.com/culture-tech/2773001_anthropic-regle-a-lamiable-son-proces-lopposant-a-des-auteurs",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/logo-anthropic-claude-ai-768x432.jpg?resize=169,169&key=57709a7f",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Une plainte met en cause ChatGPT apr\u00e8s le suicide d\u2019un ado",
+        "title": "Une plainte met en cause ChatGPT après le suicide d’un ado",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2772573_une-plainte-met-en-cause-chatgpt-apres-le-suicide-dun-ado",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/08/chatgpt-frandroid-chatgpt-1200x675-1-768x432.jpg?resize=169,169&key=51fda3ca",
         "date": "Tue, 26 Aug 2025 23:00:00 GMT",
@@ -175,7 +133,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT accompagne un ado au suicide, OpenAI r\u00e9agit avec un contr\u00f4le parental",
+        "title": "ChatGPT accompagne un ado au suicide, OpenAI réagit avec un contrôle parental",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
         "date": "Wed, 27 Aug 2025 23:00:00 GMT",
