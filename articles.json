@@ -7,7 +7,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT accompagne un ado au suicide, OpenAI réagit avec un contrôle parental",
+        "title": "ChatGPT accompagne un ado au suicide, OpenAI r\u00e9agit avec un contr\u00f4le parental",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
         "date": "Wed, 27 Aug 2025 23:00:00 GMT",
@@ -124,5 +124,68 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68afaf7f0db341a97a2157fc/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 28 Aug 2025 16:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 29 Aug 2025 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 28 Aug 2025 21:13:04 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/08/29/after-earnings-nvidia-powers-ahead-on-robotics-and-automation/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b212cfec300f4816e427ba/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 20:52:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/peterhigh/2025/08/29/jennifer-charters-on-ai-and-the-human-side-of-tech/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671922cfef261b5809ec6582/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/chuckbrooks/2025/08/29/the-coming-inflection-point-for-quantum-technology/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b1f6f7ebf3b0c48ca7707b/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/08/29/this-team-is-rethinking-ais-core-perforated-ai-bets-on-dendrites/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b1f5a60546cadb935e306f/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 18:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/davealtavilla/2025/08/29/google-pixel-10-series-puts-ai-at-the-core-of-smartphone-evolution/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b1c43d185b3b91c2cab154/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/08/29/new-report-finds-ai-agents-are-already-rewriting-work-itself/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b1d6c283c391a8f5d04347/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 17:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/alexknapp/2025/08/29/the-prototype-what-starships-success-means-for-spacexs-future/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b1d000d3d2160a2d68bc4a/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 29 Aug 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
