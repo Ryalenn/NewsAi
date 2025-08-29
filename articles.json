@@ -77,7 +77,7 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT accompagne un ado au suicide, OpenAI réagit avec un contrôle parental",
+        "title": "ChatGPT accompagne un ado au suicide, OpenAI r\u00e9agit avec un contr\u00f4le parental",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
         "date": "Wed, 27 Aug 2025 23:00:00 GMT",
@@ -130,6 +130,27 @@
         "link": "https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/copilot-tv-samsung.png?quality=90&strip=all&crop=8.3914863921842%2C0%2C83.217027215632%2C100&w=2400",
         "date": "Wed, 27 Aug 2025 18:48:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-1945793217.jpg?quality=90&strip=all&crop=0.0065789473684248%2C0%2C99.986842105263%2C100&w=2400",
+        "date": "Thu, 28 Aug 2025 14:16:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/hessiejones/2025/08/28/two-thirds-of-canadians-are-divided-on-whether-ai-is-good-for-society/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b0bc4fca43bdf84a597e75/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 20:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnsviokla/2025/08/28/stanford-study-warns-ai-is-already-costing-young-workers-13-of-their-jobs/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b09fb00145de1c37d30ec5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 28 Aug 2025 19:00:00 GMT",
         "check": "no"
     }
 ]
