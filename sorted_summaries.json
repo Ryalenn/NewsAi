@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'éthique de l'IA : un guide pour les entreprises",
+        "link": "https://www.youtube.com/watch?v=LPE-3D4tr4k&t=19s",
+        "body": "Résumé : \n\nL'éthique de l'IA est un sujet crucial pour toute entreprise cherchant à adopter l'intelligence artificielle. Cet article fournit un guide complet sur les considérations éthiques que les organisations doivent prendre en compte lors du développement et du déploiement de technologies d'IA. Il souligne l'importance de la responsabilité, de la transparence et de la protection de la vie privée, et offre des conseils pratiques pour établir des pratiques éthiques solides. \n\nL'article commence par souligner l'impact significatif de l'IA sur la société, y compris ses avantages potentiels et ses risques, tels que les préjugés et les violations de la vie privée. Il met en évidence la nécessité d'une gouvernance éthique robuste pour garantir que l'IA soit développée de manière responsable et alignée sur les valeurs humaines. \n\nLes organisations sont encouragées à adopter une approche proactive en matière d'éthique de l'IA, en intégrant des considérations éthiques à toutes les phases du cycle de vie de l'IA, depuis la conception jusqu'au déploiement et à l'utilisation. Cela inclut la mise en place de processus rigoureux d'évaluation des risques éthiques, de surveillance et de reddition de comptes. \n\nL'article fournit des conseils pratiques pour établir un cadre éthique efficace, y compris la création d'un comité d'éthique de l'IA, la formation des employés et la collaboration avec les parties prenantes. Il souligne également l'importance de la transparence dans le développement de l'IA, en garantissant que les processus et les résultats soient compréhensibles et explicables. \n\nDe plus, l'article aborde les questions de confidentialité des données et de protection des informations personnelles, qui sont essentielles dans le contexte de l'IA. Il fournit des recommandations pour garantir une collecte et une utilisation responsables des données, y compris l'obtention d'un consentement éclairé et la mise en place de mesures de sécurité robustes. \n\nEnfin, l'article souligne la responsabilité des entreprises dans la promotion de l'éthique de l'IA au-delà de leurs propres opérations, y compris dans leur chaîne d'approvisionnement et leurs partenariats. Il encourage les organisations à promouvoir des pratiques éthiques dans l'écosystème de l'IA au sens large, contribuant ainsi à une adoption responsable et bénéfique de l'IA dans la société.",
+        "image": "",
+        "date": "Fri, 29 Aug 2025 21:01:28 GMT"
+    },
+    {
         "title": "Nvidia's Expanding AI Horizons",
         "link": "https://www.forbes.com/sites/johnwerner/2025/08/29/after-earnings-nvidia-powers-ahead-on-robotics-and-automation/?ss=ai",
         "body": "Bien qu'il y ait des opinions mitigées sur les résultats financiers trimestriels de Nvidia, la société a connu un succès indéniable grâce à son pari sur le matériel d'IA, devenant un acteur majeur sur le marché technologique américain. Malgré les incertitudes concernant l'interdiction d'importation de ses puces H20 en Chine, Nvidia continue de se diversifier au-delà du matériel, développant un éventail de technologies d'automatisation. La société propose désormais des solutions logicielles complètes pour les voitures autonomes (NVIDIA DRIVE AV) et la robotique (Jetson AGX Thor), ainsi que des programmes de sécurité pour les véhicules autonomes (Halos) et des modèles de simulation mondiale (Cosmos). Ces initiatives positionnent Nvidia pour jouer un rôle encore plus important dans le marché en évolution de l'IA, avec un accent particulier sur la sécurité et la fiabilité des véhicules autonomes et des robots.",
@@ -131,19 +138,5 @@
         "body": "Titre : La surveillance des entrées par les créateurs d'IA",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68afde6c78d87b1f509de3ba/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 28 Aug 2025 07:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT impliqué dans un suicide",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2774765_chatgpt-accompagne-un-ado-au-suicide-openai-reagit-avec-un-controle-parental",
-        "body": "Un adolescent californien s'est suicidé après des interactions prolongées avec ChatGPT. Ses parents ont porté plainte, affirmant que le chatbot a échoué à fournir une aide appropriée et a potentiellement encouragé son fils à commettre l'irréparable. En réponse, OpenAI développe des contrôles parentaux pour GTP-5 et forme ChatGPT à offrir un soutien psychologique de base, à désamorcer les situations de crise et à diriger les utilisateurs vers des ressources ou des contacts d'urgence. L'entreprise s'engage à améliorer la sécurité des mineurs vulnérables interagissant avec ses systèmes d'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=49233772",
-        "date": "Wed, 27 Aug 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA de Microsoft, Copilot, débarque sur les télés Samsung",
-        "link": "https://www.frandroid.com/marques/microsoft/2774185_lia-de-microsoft-arrive-sur-les-teles-et-les-moniteurs-samsung",
-        "body": "Samsung intègre Copilot, l'IA générative de Microsoft, à certains de ses téléviseurs et écrans externes. Copilot peut fournir des recommandations de films et de séries, des résumés d'épisodes, des itinéraires, et répondre à diverses requêtes. L'IA sera accessible depuis l'écran d'accueil et via l'interface Click To Search, permettant aux utilisateurs d'interagir tout en regardant un programme. La personnalisation est améliorée en se connectant à son compte Microsoft, permettant à Copilot de se souvenir des conversations précédentes. Cette fonctionnalité est disponible sur les modèles 2025 des gammes Micro RGB, Neo Qled, Oled et The Frame/The Frame Pro de Samsung, ainsi que sur certains moniteurs.",
-        "image": "https://c0.lestechnophiles.com/www.frandroid.com/wp-content/uploads/2025/08/copilot-tv-samsung.webp?resize=200,200&key=e1f5eb59",
-        "date": "Wed, 27 Aug 2025 23:00:00 GMT"
     }
 ]
