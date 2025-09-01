@@ -61,5 +61,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b4b453fe860381ec7caea1/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 31 Aug 2025 20:54:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/JARVIS.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Sun, 31 Aug 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/stevemcdowell/2025/08/31/why-gsis-are-winning-the-enterprise-ai-race/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b4c766f908ae40830e6c40/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 31 Aug 2025 22:00:00 GMT",
+        "check": "no"
     }
 ]
