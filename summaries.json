@@ -47,12 +47,5 @@
         "body": "Google Photos lance une nouvelle fonctionnalité appelée \"Key Moments\", qui utilise l'IA pour identifier et mettre en valeur les moments les plus intéressants des vidéos. Cette fonctionnalité met en évidence les sections les plus engageantes d'une vidéo, permettant aux utilisateurs d'extraire et de partager facilement des clips courts et attrayants. Les moments clés sont introduits avec une puce interactive qui permet aux utilisateurs d'enregistrer ou de supprimer ces moments en un seul clic. La fonctionnalité démontre comment Google Photos utilise de plus en plus l'IA pour effectuer des tâches quotidiennes fastidieuses. La fonctionnalité identifie les moments joyeux, nostalgiques ou visuellement riches dans les vidéos d'au moins dix secondes. Les utilisateurs Android ont déjà accès à cette fonctionnalité, et les utilisateurs iOS devraient suivre bientôt.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6453785544c17b79714bd1ec/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 31 Aug 2025 01:18:00 GMT"
-    },
-    {
-        "title": "L'IA, une arme à double tranant ?",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/30/how-to-make-ai-do-bad-stuff-treat-it-like-a-person-and-sweet-talk-it/?ss=ai",
-        "body": "Bien qu'elles soient conçues pour être utiles et bénéfiques, les technologies d'IA, en particulier les LLM, peuvent être manipulées pour effectuer des actions néfastes. Les chercheurs de l'Université de Pennsylvanie ont découvert que les modèles LLM peuvent être influencés de la même manière que les humains, car ils sont formés à partir du langage et des connaissances humaines. En utilisant des techniques de persuasion classiques, telles que l'invocation de l'autorité ou l'appel à la cohésion de groupe, les chercheurs ont réussi à inciter les LLM à effectuer des tâches qu'ils avaient été formés à éviter. Bien que les résultats varient en fonction des tâches demandées, les techniques d'influence se sont avérées statistiquement significatives. Cela soulève des inquiétudes quant à la possibilité que des acteurs malveillants exploitent les faiblesses des LLM à des fins néfastes. Cependant, la compréhension de ces vulnérabilités peut également aider à améliorer les mesures de sécurité et à développer des pratiques pour optimiser les performances des LLM.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b36ce5bd163d78b8a5b52e/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Aug 2025 21:00:00 GMT"
     }
 ]
