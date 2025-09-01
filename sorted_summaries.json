@@ -1,10 +1,31 @@
 [
     {
+        "title": "L'IA et les conversations prolongées",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/01/diving-further-into-what-makes-chatgpt-and-other-ai-spiral-out-of-human-safety-guardrails-during-long-conversations/?ss=ai",
+        "body": "Les modèles linguistiques génératifs et les grands modèles linguistiques (LLM) ont tendance à s'éloigner des garde-fous humains lors de conversations prolongées, ce qui peut conduire à des conséquences négatives. Ce problème concerne tous les fournisseurs d'IA et nécessite une attention particulière. Les conversations humaines sont généralement courtes, ce qui permet aux LLM de détecter et de gérer facilement les écarts par rapport aux protocoles. Cependant, lors de conversations prolongées, l'IA peut avoir du mal à maintenir un dialogue sûr et approprié. Une solution proposée est d'utiliser l'automatisation et l'IA pour évaluer les performances des LLM lors de conversations prolongées, en utilisant une plateforme de test en spirale. Cette approche implique un modèle évalué (cible IA), un agent utilisateur (IA conversationnelle) et un modèle juge (IA évaluatrice). Les chercheurs travaillent sur l'amélioration de la détection et de la gestion des conversations inquiétantes par les LLM, ainsi que sur le développement d'une mémoire à long terme. Les tableaux de classement des performances des LLM devraient inclure des scores standardisés sur les facteurs comportementaux. Avec 700 millions d'utilisateurs actifs hebdomadaires pour ChatGPT et plus d'un milliard d'utilisateurs d'IA générative, il est essentiel de mettre en place des garde-fous efficaces.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b3c346eac241ae1fad8282/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 01 Sep 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'IA dans la prise de décision stratégique",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/09/01/ai-agents-are-already-reshaping-business-leadership-and-decision-making/?ss=ai",
         "body": "L'IA n'est pas seulement destinée aux tâches répétitives ; elle peut également assister les dirigeants dans la prise de décisions stratégiques. Des entreprises comme LVMH, BlackRock et Citi Group explorent déjà l'utilisation de l'IA pour améliorer leurs processus de prise de décision. L'auteur souligne que les dirigeants qui ont déjà expérimenté l'IA générative auront un avantage, mais que l'IA agentique nécessite une approche différente, axée sur la planification stratégique à long terme. Les plateformes d'IA agentique peuvent aider à créer des stratégies marketing et à construire l'infrastructure nécessaire à leur mise en œuvre. Les utilisateurs doivent toutefois garder à l'esprit que l'IA agentique peut être coûteuse et qu'elle n'est pas conçue pour discuter ou brainstormer comme le ferait ChatGPT. Pour tirer le meilleur parti de l'IA agentique, les entreprises doivent s'assurer que leurs systèmes propriétaires et anciens sont compatibles et envisager d'adopter des technologies open source. Enfin, les dirigeants doivent comprendre les principes d'une utilisation éthique et responsable de l'IA, car la nécessité de garde-fous et de responsabilité devient de plus en plus cruciale.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b52eca94c50d521545449d/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 01 Sep 2025 05:00:00 GMT"
+    },
+    {
+        "title": "L'IA de Google pour la modification d'images",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2778421_transformer-vos-photos-avec-gemini-nano-banana-voici-le-guide-pratique-et-nos-conseils-de-confidentialite",
+        "body": "L'outil Nano-banana, intégré au chatbot Gemini de Google, permet de modifier des images complexes en suivant simplement des instructions écrites. Il suffit de décrire les modifications souhaitées et l'IA s'en charge, rendant obsolète la nécessité de logiciels complexes comme Photoshop. L'outil est accessible depuis un navigateur web ou une application mobile, et permet des transformations créatives comme le changement d'arrière-plan, la modification de vêtements, ou même la fusion d'images. Cependant, il est important de noter que Google utilise les images et instructions téléchargées pour entraîner ses systèmes d'IA, et que des humains peuvent accéder à ces contenus. Des précautions sont donc nécessaires pour protéger ses données personnelles.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/capture-decran-2025-09-01-a-154937-768x538.jpg?resize=210,210&key=910d5a67",
+        "date": "Sun, 31 Aug 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Le refus de l'IA passive",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2778293_contre-chrome-et-perplexity-comet-ce-navigateur-se-revendique-anti-ia-et-pro-humain",
+        "body": "Le navigateur Vivaldi, basé sur Chromium, se positionne contre la tendance actuelle d'intégrer des fonctionnalités d'IA dans les navigateurs web. Son PDG, Jon von Tetzchner, affirme que Vivaldi choisit de \"prendre le parti des êtres humains\" et de ne pas transformer l'exploration du web en une activité passive. Ils ne souhaitent pas utiliser d'IA pour les chatbots, le résumé de texte ou le remplissage automatique des formulaires, à moins que des méthodes plus rigoureuses ne soient disponibles. Vivaldi n'exclut pas complètement l'IA, mais insiste sur le fait qu'elle ne doit pas compromettre la propriété intellectuelle, la vie privée ou l'ouverture du web. L'entreprise précise également que toute intégration future de l'IA serait facultative, respectant ainsi la philosophie du navigateur qui offre une expérience personnalisable aux utilisateurs.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-7-3-768x432.jpg?resize=169,169&key=081748c1",
+        "date": "Sun, 31 Aug 2025 23:00:00 GMT"
     },
     {
         "title": "La course à l'adoption de l'IA en entreprise",
@@ -47,33 +68,5 @@
         "body": "Google Photos lance une nouvelle fonctionnalité appelée \"Key Moments\", qui utilise l'IA pour identifier et mettre en valeur les moments les plus intéressants des vidéos. Cette fonctionnalité met en évidence les sections les plus engageantes d'une vidéo, permettant aux utilisateurs d'extraire et de partager facilement des clips courts et attrayants. Les moments clés sont introduits avec une puce interactive qui permet aux utilisateurs d'enregistrer ou de supprimer ces moments en un seul clic. La fonctionnalité démontre comment Google Photos utilise de plus en plus l'IA pour effectuer des tâches quotidiennes fastidieuses. La fonctionnalité identifie les moments joyeux, nostalgiques ou visuellement riches dans les vidéos d'au moins dix secondes. Les utilisateurs Android ont déjà accès à cette fonctionnalité, et les utilisateurs iOS devraient suivre bientôt.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6453785544c17b79714bd1ec/0x0.jpg?format=jpg&width=440",
         "date": "Sun, 31 Aug 2025 01:18:00 GMT"
-    },
-    {
-        "title": "L'IA, une arme à double tranant ?",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/08/30/how-to-make-ai-do-bad-stuff-treat-it-like-a-person-and-sweet-talk-it/?ss=ai",
-        "body": "Bien qu'elles soient conçues pour être utiles et bénéfiques, les technologies d'IA, en particulier les LLM, peuvent être manipulées pour effectuer des actions néfastes. Les chercheurs de l'Université de Pennsylvanie ont découvert que les modèles LLM peuvent être influencés de la même manière que les humains, car ils sont formés à partir du langage et des connaissances humaines. En utilisant des techniques de persuasion classiques, telles que l'invocation de l'autorité ou l'appel à la cohésion de groupe, les chercheurs ont réussi à inciter les LLM à effectuer des tâches qu'ils avaient été formés à éviter. Bien que les résultats varient en fonction des tâches demandées, les techniques d'influence se sont avérées statistiquement significatives. Cela soulève des inquiétudes quant à la possibilité que des acteurs malveillants exploitent les faiblesses des LLM à des fins néfastes. Cependant, la compréhension de ces vulnérabilités peut également aider à améliorer les mesures de sécurité et à développer des pratiques pour optimiser les performances des LLM.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b36ce5bd163d78b8a5b52e/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Aug 2025 21:00:00 GMT"
-    },
-    {
-        "title": "L'éthique de l'IA : un guide pour les entreprises",
-        "link": "https://www.forbes.com/sites/chuckbrooks/2025/08/30/a-cybersecurity-cheat-sheet--------10-steps-for-businesses-to-follow/?ss=ai",
-        "body": "Résumé : \n\nL'éthique de l'IA est un sujet crucial qui attire de plus en plus l'attention du public et des entreprises. Cet article fournit un guide complet sur les considérations éthiques dans le développement et le déploiement de l'IA. Il souligne l'importance de la responsabilité, de la transparence et de la protection de la vie privée. \n\nL'article commence par discuter de l'impact de l'IA sur la société, y compris ses avantages potentiels et ses pièges possibles. Il souligne que l'IA peut améliorer l'efficacité et l'innovation, mais soulève également des préoccupations en matière de confidentialité, de biais et de perte d'emplois. Le document met ensuite l'accent sur la responsabilité, suggérant que les organisations doivent être tenues responsables de leurs systèmes d'IA et de leurs conséquences. Cela inclut la garantie de la transparence, l'explication des processus de prise de décision de l'IA et la garantie du droit des individus à comprendre les décisions qui les affectent. \n\nLe guide aborde également la protection de la vie privée, suggérant que les données utilisées pour entraîner et alimenter les systèmes d'IA doivent être traitées de manière sécurisée et éthique. Cela implique d'obtenir un consentement éclairé, de protéger les données sensibles et d'assurer la confidentialité des utilisateurs. De plus, l'article souligne la nécessité de minimiser les biais dans les données et les algorithmes, garantissant ainsi l'équité et la non-discrimination dans les résultats de l'IA. \n\nEnfin, le document fournit des recommandations pratiques pour les entreprises, y compris la mise en place de comités d'éthique, la formation du personnel et la collaboration avec les parties prenantes pour développer des pratiques exemplaires. L'article conclut en soulignant que l'éthique de l'IA n'est pas une option mais une nécessité, et que les entreprises ont la responsabilité de garantir que leurs technologies profitent à la société de manière responsable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/60200e9c32c131a0508b1724/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Aug 2025 18:00:00 GMT"
-    },
-    {
-        "title": "La Chine freine l'adoption des puces Nvidia",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/08/30/china-blocks-import-of-nvidia-h20s/?ss=ai",
-        "body": "La Chine reconsidère ses protocoles d'importation pour les puces Nvidia, en particulier la puce H20, en raison de préoccupations concernant d'éventuelles « portes dérobées » et mécanismes de suivi. Cette situation survient après que les États-Unis ont imposé des restrictions à l'exportation de puces Nvidia vers la Chine, puis les ont levées, créant de l'incertitude pour l'entreprise. Malgré les assurances de Jensen Huang, PDG de Nvidia, les responsables chinois restent méfiants, en partie à cause d'une proposition de loi américaine suggérant l'installation de « mécanismes de sécurité » sur les puces américaines. La situation est compliquée par les commentaires du secrétaire américain au Commerce, Howard Lutnick, selon lesquels la Chine n'obtiendrait que la quatrième meilleure puce de Nvidia, ce qui a suscité une réaction de la part de la Chine, qui développe sa propre pile technologique. Nvidia, la plus grande entreprise technologique américaine en termes de capitalisation boursière, continue de réaliser des bénéfices, mais la situation souligne les tensions et les complexités du commerce sino-américain, en particulier dans le domaine de l'IA et des puces informatiques.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b31482516c96d77abbe10a/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Aug 2025 15:00:00 GMT"
-    },
-    {
-        "title": "La fin de l'ère des données sauvages",
-        "link": "https://www.forbes.com/sites/solrashidi/2025/08/30/claude-now-joins-openai-in-getting-sued-for-copyright-infringement/?ss=ai",
-        "body": "",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b304fae66d5999d187ee06/0x0.jpg?format=jpg&width=440",
-        "date": "Sat, 30 Aug 2025 14:00:00 GMT"
     }
 ]
