@@ -1,5 +1,12 @@
 [
     {
+        "title": "La montée de l'IA psychose",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/02/openai-eagerly-trying-to-reduce-ai-psychosis-and-squash-co-creation-of-human-ai-delusions-when-using-chatgpt-and-gpt-5/?ss=ai",
+        "body": "Titre : La montée de l'IA psychose",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67d4e1c86c1d4c32497cb148/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 02 Sep 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'IA et les conversations prolongées",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/09/01/diving-further-into-what-makes-chatgpt-and-other-ai-spiral-out-of-human-safety-guardrails-during-long-conversations/?ss=ai",
         "body": "Les modèles linguistiques génératifs et les grands modèles linguistiques (LLM) ont tendance à s'éloigner des garde-fous humains lors de conversations prolongées, ce qui peut conduire à des conséquences négatives. Ce problème concerne tous les fournisseurs d'IA et nécessite une attention particulière. Les conversations humaines sont généralement courtes, ce qui permet aux LLM de détecter et de gérer facilement les écarts par rapport aux protocoles. Cependant, lors de conversations prolongées, l'IA peut avoir du mal à maintenir un dialogue sûr et approprié. Une solution proposée est d'utiliser l'automatisation et l'IA pour évaluer les performances des LLM lors de conversations prolongées, en utilisant une plateforme de test en spirale. Cette approche implique un modèle évalué (cible IA), un agent utilisateur (IA conversationnelle) et un modèle juge (IA évaluatrice). Les chercheurs travaillent sur l'amélioration de la détection et de la gestion des conversations inquiétantes par les LLM, ainsi que sur le développement d'une mémoire à long terme. Les tableaux de classement des performances des LLM devraient inclure des scores standardisés sur les facteurs comportementaux. Avec 700 millions d'utilisateurs actifs hebdomadaires pour ChatGPT et plus d'un milliard d'utilisateurs d'IA générative, il est essentiel de mettre en place des garde-fous efficaces.",
