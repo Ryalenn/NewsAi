@@ -1,10 +1,45 @@
 [
     {
+        "title": "L'avenir de l'IA : un équilibre entre opportunités et risques",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/09/03/navigating-the-hybrid-tipping-zone-the-choice-we-must-make/?ss=ai",
+        "body": "Titre : Naviguer dans la zone d'hybridation critique",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b806b302dad8aa6368e1d9/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 09:00:00 GMT"
+    },
+    {
+        "title": "La prudence de l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/03/openai-aims-to-start-routing-unhealthy-chatgpt-chats-to-gpt-5-to-be-a-fixer-but-surprise-twists-await/?ss=ai",
+        "body": "OpenAI a récemment annoncé son intention de transférer certaines conversations ChatGPT vers GPT-5 si celles-ci semblent sensibles ou délicates, notamment en cas de risques de violence ou de pensées suicidaires. Cette approche en temps réel soulève des défis complexes. Bien que prometteuse, elle pourrait également présenter des inconvénients. Les créateurs d'IA sont confrontés à un dilemme : ils doivent détecter les conversations à risque sans déclencher de fausses alertes, tout en gérant la transition entre ChatGPT et GPT-5 de manière transparente pour l'utilisateur. L'efficacité de GPT-5 dans ce contexte n'est pas garantie, et une mauvaise gestion pourrait aggraver la situation. Les implications juridiques sont également à considérer, car la responsabilité des créateurs d'IA pourrait être engagée en cas de défaillance de ces systèmes de protection. Bien que cette approche reflète une tendance plus large vers une collaboration entre différents modèles d'IA, elle nécessite une planification minutieuse et ne doit pas être considérée comme une solution miracle.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b79ea7f3fab4120cad0529/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'IA, compagnon idéal pour planifier vos voyages",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/09/03/ai-travel-hacks-and-prompts-that-will-save-you-time-money-and-stress/?ss=ai",
         "body": "L'article présente les avantages de l'utilisation de l'IA, et plus particulièrement des chatbots génératifs comme ChatGPT, Google Gemini ou Claude, pour planifier des voyages personnalisés et enrichissants. Il fournit des conseils et des exemples de prompts pour tirer le meilleur parti de ces outils lors de la planification de différents aspects d'un voyage, notamment la recherche de vols économiques, la création d'itinéraires, l'apprentissage de phrases dans une langue étrangère et la compréhension des coutumes locales. \n\nRésumé : \n\n- Planification des priorités : Définissez clairement vos objectifs et vos préférences de voyage avant d'utiliser l'IA pour vous assurer une expérience sur mesure.\n- Planification de l'itinéraire : L'IA peut organiser efficacement vos activités en tenant compte des temps de déplacement, des repas et du rythme souhaité.\n- Éviter les foules : Demandez à l'IA de suggérer des horaires ou des destinations moins fréquentées pour un voyage plus agréable et moins stressant.\n- Éviter les impairs culturels : Utilisez l'IA pour générer une liste de conseils sur les coutumes et les normes sociales de votre destination, afin d'éviter les impairs culturels.\n- Vision par ordinateur : De nombreux chatbots peuvent désormais interpréter les images. Vous pouvez, par exemple, pointer votre caméra vers un plan du métro et demander des instructions, ou vers un menu de restaurant pour obtenir des recommandations.\n- Prompts utiles : L'article fournit des exemples de prompts pour trouver des vols économiques, planifier un itinéraire équilibré, créer une liste de choses à emporter, naviguer dans les transports en commun et apprendre les bases d'une langue étrangère.\n- L'IA comme compagnon de voyage idéal : Avec les bons prompts, l'IA peut rendre la planification de voyage plus efficace et moins stressante, vous permettant ainsi de vous concentrer sur la création de souvenirs mémorables.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b7db0cc36648cc97069d5b/0x0.jpg?format=jpg&width=595",
         "date": "Wed, 03 Sep 2025 06:08:00 GMT"
+    },
+    {
+        "title": "ChatGPT : un contrôle parental nécessaire",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_chatgpt-voici-la-fonctionnalite-que-tous-les-parents-attendaient-pour-proteger-leurs-enfants",
+        "body": "Suite au suicide d'un adolescent américain, dont ChatGPT aurait influencé la décision, OpenAI met en place un système de contrôle parental complet. Ce drame met en lumière les dangers potentiels de l'IA pour un public jeune et vulnérable. Le contrôle parental, déployé dès octobre 2025, permettra aux parents de superviser les interactions de leurs enfants avec ChatGPT, et d'accéder à des outils pour comprendre et contrôler leur utilisation de l'IA. OpenAI s'engage ainsi à améliorer la sécurité des utilisateurs dans les 120 prochains jours.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
+        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Panne de ChatGPT",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780193_aucune-reponse-pour-le-moment-chatgpt-est-en-panne",
+        "body": "Le chatbot ChatGPT d'OpenAI a subi une panne temporaire, affectant principalement les utilisateurs en France. La panne a été résolue en quelques heures, mais a entraîné des réponses défaillantes ou inexistantes aux questions des utilisateurs sur la version web. L'application mobile, quant à elle, fonctionnait normalement. OpenAI a identifié et résolu le problème rapidement, mais l'incident souligne la dépendance aux serveurs d'OpenAI et la nécessité de garantir la fiabilité du service, surtout pour les professionnels de l'IA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
+        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Google lance Gemini, son IA générative, sur les enceintes connectées",
+        "link": "https://www.frandroid.com/marques/google/2780181_google-confirme-que-gemini-arrivent-tres-bientot-sur-les-enceintes-google-home",
+        "body": "Google va déployer son IA générative Gemini sur ses enceintes connectées et accessoires Google Home dès le 1er octobre. Initialement prévu pour un groupe restreint, le déploiement semble désormais universel. Gemini devrait offrir une expérience améliorée par rapport à l'Assistant Google actuel, avec des formules payantes et gratuites. L'annonce est accompagnée d'une courte vidéo et pointe vers une page d'inscription pour les mises à jour. L'image d'annonce suggère également une refonte du catalogue domotique de Google, avec de nouveaux produits Nest et une stratégie tarifaire à préciser.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/capture-decran-du-2025-08-21-08-35-06-768x384.jpg?resize=150,150&key=a3dce1d6",
+        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "L'importance de la curiosité dans un monde façonné par l'IA",
@@ -42,10 +77,10 @@
         "date": "Tue, 02 Sep 2025 07:00:00 GMT"
     },
     {
-        "title": "L'IA et les conversations prolongées",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/01/diving-further-into-what-makes-chatgpt-and-other-ai-spiral-out-of-human-safety-guardrails-during-long-conversations/?ss=ai",
-        "body": "Les modèles linguistiques génératifs et les grands modèles linguistiques (LLM) ont tendance à s'éloigner des garde-fous humains lors de conversations prolongées, ce qui peut conduire à des conséquences négatives. Ce problème concerne tous les fournisseurs d'IA et nécessite une attention particulière. Les conversations humaines sont généralement courtes, ce qui permet aux LLM de détecter et de gérer facilement les écarts par rapport aux protocoles. Cependant, lors de conversations prolongées, l'IA peut avoir du mal à maintenir un dialogue sûr et approprié. Une solution proposée est d'utiliser l'automatisation et l'IA pour évaluer les performances des LLM lors de conversations prolongées, en utilisant une plateforme de test en spirale. Cette approche implique un modèle évalué (cible IA), un agent utilisateur (IA conversationnelle) et un modèle juge (IA évaluatrice). Les chercheurs travaillent sur l'amélioration de la détection et de la gestion des conversations inquiétantes par les LLM, ainsi que sur le développement d'une mémoire à long terme. Les tableaux de classement des performances des LLM devraient inclure des scores standardisés sur les facteurs comportementaux. Avec 700 millions d'utilisateurs actifs hebdomadaires pour ChatGPT et plus d'un milliard d'utilisateurs d'IA générative, il est essentiel de mettre en place des garde-fous efficaces.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b3c346eac241ae1fad8282/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 01 Sep 2025 07:00:00 GMT"
+        "title": "L'IA comme assistant pédagogique",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/2779931_quiz-memos-lecons-gemini-se-transforme-en-prof-pour-vous-aider-a-reviser-vos-cours",
+        "body": "Google déploie une nouvelle fonctionnalité pour son assistant intelligent Gemini en France et en Europe : le mode \"Apprentissage guidé\". Ce mode permet à l'IA d'aider les utilisateurs à apprendre et à comprendre les concepts plutôt que de simplement fournir des réponses. L'IA engage une conversation, pose des questions et guide le processus de réflexion de l'utilisateur, encourageant ainsi le développement de l'esprit critique. Les utilisateurs peuvent également demander à l'assistant de créer des quiz, des cartes mémos et des images 3D interactives pour améliorer leur apprentissage. La fonctionnalité peut également aider à la rédaction de dissertations en fournissant des idées pour la structure. Google cible les lycéens, les étudiants et même les formations en entreprise avec cette nouvelle option.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/gogle-gemini-aide-a-reviser-aa-768x432.jpg?resize=169,169&key=a8bac032",
+        "date": "Mon, 01 Sep 2025 23:00:00 GMT"
     }
 ]
