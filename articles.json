@@ -84,14 +84,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : voici la fonctionnalité que tous les parents attendaient pour protéger leurs enfants",
+        "title": "ChatGPT : voici la fonctionnalit\u00e9 que tous les parents attendaient pour prot\u00e9ger leurs enfants",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_chatgpt-voici-la-fonctionnalite-que-tous-les-parents-attendaient-pour-proteger-leurs-enfants",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "La panne ChatGPT est résolue : vous pouvez reprendre le travail",
+        "title": "La panne ChatGPT est r\u00e9solue : vous pouvez reprendre le travail",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780193_aucune-reponse-pour-le-moment-chatgpt-est-en-panne",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
@@ -124,5 +124,61 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b79ea7f3fab4120cad0529/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 03 Sep 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/google/2772401_google-pixel-10-voici-les-sept-fonctions-importantes-bloquees-en-france",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-1200x675.jpg?key=05702f2f",
+        "date": "Tue, 02 Sep 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.businessinsider.com/marc-benioff-says-salesforce-cut-4000-roles-because-of-agents-2025-9",
+        "image": "",
+        "date": "Wed, 03 Sep 2025 13:26:13 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-ai-video-trash-bag.html",
+        "image": "",
+        "date": "Wed, 03 Sep 2025 12:51:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 02 Sep 2025 18:02:08 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/09/03/hubspot-bets-big-that-hybrid-ai-human-teams-are-the-future/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b8492d873436dfa7070dd2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/innovationrx/2025/09/03/innovationrx-inside-the-crisis-at-the-cdc/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b7696cfcac123d5e2913cf/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/03/nvidia-and-todays-chip-landscape--what-is-google-doing/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/676723dd699f5dfd5546a826/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/garydrenik/2025/09/02/these-3-business-functions-are-delivering-the-highest-roi-from-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68ae001217994f502573dc0e/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 02 Sep 2025 00:00:00 GMT",
+        "check": "no"
     }
 ]
