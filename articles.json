@@ -84,14 +84,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : voici la fonctionnalité que tous les parents attendaient pour protéger leurs enfants",
+        "title": "ChatGPT : voici la fonctionnalit\u00e9 que tous les parents attendaient pour prot\u00e9ger leurs enfants",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_chatgpt-voici-la-fonctionnalite-que-tous-les-parents-attendaient-pour-proteger-leurs-enfants",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "La panne ChatGPT est résolue : vous pouvez reprendre le travail",
+        "title": "La panne ChatGPT est r\u00e9solue : vous pouvez reprendre le travail",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780193_aucune-reponse-pour-le-moment-chatgpt-est-en-panne",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
@@ -187,5 +187,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b5b0d93e06ccf7fa714839/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 03 Sep 2025 18:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/joetoscano1/2025/09/03/ai-is-destroying-seo-rank-now-requires-answer-engine-optimization/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b8ad84860eafbd65ba56f2/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 22:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/amirhusain/2025/09/03/chinas-military-parades-into-the-cognitive-era/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b8b1baa73ce68500143a03/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 03 Sep 2025 21:00:00 GMT",
+        "check": "no"
     }
 ]
