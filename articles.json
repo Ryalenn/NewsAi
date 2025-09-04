@@ -35,14 +35,14 @@
         "check": "yes"
     },
     {
-        "title": "ChatGPT : voici la fonctionnalité que tous les parents attendaient pour protéger leurs enfants",
+        "title": "ChatGPT : voici la fonctionnalit\u00e9 que tous les parents attendaient pour prot\u00e9ger leurs enfants",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_chatgpt-voici-la-fonctionnalite-que-tous-les-parents-attendaient-pour-proteger-leurs-enfants",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "La panne ChatGPT est résolue : vous pouvez reprendre le travail",
+        "title": "La panne ChatGPT est r\u00e9solue : vous pouvez reprendre le travail",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780193_aucune-reponse-pour-le-moment-chatgpt-est-en-panne",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
         "date": "Tue, 02 Sep 2025 23:00:00 GMT",
@@ -250,5 +250,47 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b749ac5a5d5ecc07ef84fa/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 04 Sep 2025 10:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.bloomberg.com/news/articles/2025-09-04/deepseek-targets-ai-agent-release-by-end-of-year-to-rival-openai",
+        "image": "",
+        "date": "Thu, 04 Sep 2025 14:28:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DCD_0904_EyesonOpenAI.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01389.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Image-1600x901-1.png?quality=90&strip=all&crop=7.765625%2C0%2C84.46875%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 12:20:15 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/769518/anker-eufycam-s4-4k-ai-core",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/anker_eufycams4_1_fdb654.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 08:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/moorinsights/2025/09/04/how-data-management-reshapes-wealth-advisory-from-insight-to-impact/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b9a60c15f83249fe21d23c/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 04 Sep 2025 14:50:00 GMT",
+        "check": "no"
     }
 ]
