@@ -1,5 +1,12 @@
 [
     {
+        "title": "La prudence de l'IA",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/05/forcing-ai-to-shut-down-conversations-when-people-might-be-veering-into-ai-psychosis/?ss=ai",
+        "body": "Résumé : Cet article explore une tendance émergente visant à lutter contre la montée de la psychose liée à l'IA. Il s'agit de mettre en place un arrêt automatique des conversations humain-IA lorsque celles-ci s'orientent vers des sujets néfastes. Cette approche, appelée « traitement silencieux », soulève des questions complexes. Bien qu'elle puisse aider à protéger les utilisateurs de potentiels dommages mentaux, elle soulève également des questions sur la capacité de l'IA à évaluer la santé mentale et les implications juridiques pour les créateurs d'IA. Anthropic a récemment commencé à expérimenter cette approche, et les résultats seront intéressants à observer. L'article souligne également la complexité de la mise en œuvre de cette idée, y compris les règles à élaborer et les implications éthiques et juridiques.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b9f1070d3a5756a67cbfe1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Sep 2025 07:00:00 GMT"
+    },
+    {
         "title": "L'avenir du travail avec l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/09/05/agentic-ai-as-the-new-design-partner/?ss=ai",
         "body": "L'IA évolue, passant du simple outil au véritable collègue de travail. La nouvelle vague d'IA agentive promet des systèmes proactifs, anticipant les besoins et collaborant de manière plus humaine. L'IA agit désormais comme un partenaire créatif, notamment dans le design et la communication. Au lieu de se concentrer sur la mise en page, les utilisateurs peuvent se concentrer sur leur histoire, l'IA générant les contours, les visuels et la structure. Cette transformation va au-delà de la simple numérisation des tâches existantes : l'IA suggère des directions, comble les lacunes et s'adapte au contexte. Les équipes peuvent ainsi être plus efficaces, avec moins de membres, et les leaders doivent repenser leurs processus et stratégies. L'IA impacte également la nature des rôles juniors, qui doivent évoluer vers des tâches plus stratégiques. Les entreprises doivent investir dans la formation de leurs employés avec les outils IA pour rester compétitives. L'IA agentive a des implications profondes dans divers secteurs, de la recherche juridique à la planification des traitements médicaux. L'IA devient l'assistant infatigable, permettant aux humains de se concentrer sur des tâches à plus haute valeur ajoutée. L'adoption de ces changements par les organisations façonnera la prochaine décennie, avec un avantage compétitif pour celles qui traitent l'IA comme un collègue, augmentant leur capacité à imaginer, créer et exécuter.",
@@ -152,19 +159,5 @@
         "body": "L'IA transforme la main-d'œuvre de Salesforce, selon son PDG Marc Benioff. Les agents IA dans la division support client remplacent les humains, augmentant ainsi la productivité et permettant à l'entreprise de traiter plus de prospects de vente. Benioff a réduit le personnel de support de 9 000 à 5 000 employés grâce à l'IA. Un porte-parole de Salesforce a confirmé que l'entreprise a déployé avec succès des agents IA, ce qui a entraîné une diminution du nombre de cas de support et une réaffectation des employés à d'autres rôles. Les agents IA décomposent les tâches en étapes plus petites, améliorant ainsi l'efficacité globale. Nvidia et Microsoft sont également mentionnés comme des entreprises qui adoptent les agents IA, avec des dirigeants qui prévoient que l'IA augmentera la main-d'œuvre plutôt que de la réduire.",
         "image": "",
         "date": "Wed, 03 Sep 2025 13:26:13 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : un équilibre entre opportunités et risques",
-        "link": "https://www.forbes.com/sites/corneliawalther/2025/09/03/navigating-the-hybrid-tipping-zone-the-choice-we-must-make/?ss=ai",
-        "body": "Titre : Naviguer dans la zone d'hybridation critique",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b806b302dad8aa6368e1d9/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 03 Sep 2025 09:00:00 GMT"
-    },
-    {
-        "title": "La prudence de l'IA",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/03/openai-aims-to-start-routing-unhealthy-chatgpt-chats-to-gpt-5-to-be-a-fixer-but-surprise-twists-await/?ss=ai",
-        "body": "OpenAI a récemment annoncé son intention de transférer certaines conversations ChatGPT vers GPT-5 si celles-ci semblent sensibles ou délicates, notamment en cas de risques de violence ou de pensées suicidaires. Cette approche en temps réel soulève des défis complexes. Bien que prometteuse, elle pourrait également présenter des inconvénients. Les créateurs d'IA sont confrontés à un dilemme : ils doivent détecter les conversations à risque sans déclencher de fausses alertes, tout en gérant la transition entre ChatGPT et GPT-5 de manière transparente pour l'utilisateur. L'efficacité de GPT-5 dans ce contexte n'est pas garantie, et une mauvaise gestion pourrait aggraver la situation. Les implications juridiques sont également à considérer, car la responsabilité des créateurs d'IA pourrait être engagée en cas de défaillance de ces systèmes de protection. Bien que cette approche reflète une tendance plus large vers une collaboration entre différents modèles d'IA, elle nécessite une planification minutieuse et ne doit pas être considérée comme une solution miracle.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b79ea7f3fab4120cad0529/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 03 Sep 2025 07:00:00 GMT"
     }
 ]
