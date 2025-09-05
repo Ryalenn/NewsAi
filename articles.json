@@ -215,5 +215,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/6880fa4eadc18ce0f894b602/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 05 Sep 2025 03:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://openai.com/index/expanding-economic-opportunity-with-ai/",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 21:28:57 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/771630/google-photos-veo3-video-animate-camera-roll",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231726775.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+        "date": "Thu, 04 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2217198354.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/05/forcing-ai-to-shut-down-conversations-when-people-might-be-veering-into-ai-psychosis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68b9f1070d3a5756a67cbfe1/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Sep 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
