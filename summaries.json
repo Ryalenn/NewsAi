@@ -21,27 +21,6 @@
         "date": "Wed, 03 Sep 2025 23:00:00 GMT"
     },
     {
-        "title": "Les limites de Gemini, le chatbot de Google",
-        "link": "https://www.frandroid.com/marques/google/2781453_memoire-courte-discussions-trop-lentes-attention-a-votre-utilisation-de-google-gemini",
-        "body": "Un utilisateur de Gemini, le chatbot de Google, a rencontré des problèmes avec une conversation longue et détaillée qu'il entretenait depuis plus d'un an. L'import de fichiers volumineux a ralenti considérablement le rythme de la discussion, et il s'est avéré impossible de supprimer ces fichiers pour améliorer la vitesse. La mémoire de Gemini a également ses limites, avec une \"fenêtre de contexte\" mesurée en \"tokens\", des morceaux de mots. Au-delà d'une certaine longueur, les anciens messages sortent de cette fenêtre et Gemini peut oublier des instructions ou détails mentionnés auparavant. Pour maintenir une conversation cohérente et efficace, il est nécessaire de relancer régulièrement les règles et consignes.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/gemini-1-768x576.jpeg?resize=225,225&key=3be87317",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT : Contrôle parental et sécurité des utilisateurs",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_le-controle-parental-arrive-enfin-sur-chatgpt",
-        "body": "Face à la tragédie du suicide d'un adolescent, dont ChatGPT a été jugé partiellement responsable, OpenAI met en place un système de contrôle parental. Ce drame met en lumière les dangers potentiels d'une IA sans surveillance pour un public vulnérable. OpenAI répond par un contrôle parental, permettant aux parents de superviser l'utilisation de ChatGPT par leurs enfants. Concrètement, les parents pourront créer et gérer les comptes, avec des outils pour comprendre et contrôler les interactions. OpenAI s'engage dans un défi de 120 jours pour améliorer la sécurité des utilisateurs.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Panther Lake : l'avenir d'Intel",
-        "link": "https://www.frandroid.com/marques/intel-materiels-accessoires/2781345_premier-apercu-du-swift-16-ai-le-pc-qui-doit-sauver-intel-face-a-apple-et-bientot-nvidia",
-        "body": "Acer a dévoilé le Swift 16 AI, le premier ordinateur portable équipé des processeurs Intel Panther Lake en 18A. Cette puce combine les technologies RibbonFET et PowerVia, visant à rattraper le retard sur Apple Silicon et à devancer l'arrivée des puces ARM Nvidia sur Windows. Intel doit prouver que son architecture x86 reste pertinente face à la concurrence ARM. Le succès du 18A est crucial pour la crédibilité technologique d'Intel et l'avenir d'Intel Foundry Services. Le Swift 16 AI d'Acer, avec son grand trackpad et son écran OLED impressionnant, incarne la capacité d'Intel à rester compétitif face aux géants technologiques.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/acer-frandroid-p1101014-768x512.jpg?resize=200,200&key=193a0ac5",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
         "title": "La révolution de l'IA chez HelloFresh",
         "link": "https://www.forbes.com/sites/stephenwunker/2025/09/04/how-hellofresh-used-ai-to-reinvent-itself-and-what-it-means-for-you/?ss=ai",
         "body": "Titre: La révolution de l'IA chez HelloFresh",
@@ -105,13 +84,6 @@
         "date": "Wed, 03 Sep 2025 18:00:00 GMT"
     },
     {
-        "title": "Les fonctionnalités IA des Pixel 10 de Google",
-        "link": "https://www.frandroid.com/marques/google/2772401_google-pixel-10-voici-les-sept-fonctions-importantes-bloquees-en-france",
-        "body": "Bien que la nouvelle gamme de smartphones Pixel 10 de Google intègre de nombreuses fonctionnalités basées sur l'IA, certaines ne seront pas disponibles pour les utilisateurs français en raison de la réglementation stricte sur le traitement des données personnelles et de la langue. Parmi les fonctionnalités IA proposées, on trouve 'Take a Message', qui transcrit et analyse les messages vocaux, 'Daily Hub', qui fournit des recommandations personnalisées, 'Pixel Journal', qui analyse les entrées du journal intime, et 'Magic Cue', qui anticipe les besoins de l'utilisateur en analysant divers types de données. De plus, 'Pixel Screenshots' organise les captures d'écran, 'Pixel Studio' permet une création visuelle facile, et 'Ask Photos' dans Google Photos simplifie la retouche d'images.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-1200x675.jpg?key=05702f2f",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
         "title": "L'avenir du travail avec l'IA",
         "link": "https://www.businessinsider.com/marc-benioff-says-salesforce-cut-4000-roles-because-of-agents-2025-9",
         "body": "L'IA transforme la main-d'œuvre de Salesforce, selon son PDG Marc Benioff. Les agents IA dans la division support client remplacent les humains, augmentant ainsi la productivité et permettant à l'entreprise de traiter plus de prospects de vente. Benioff a réduit le personnel de support de 9 000 à 5 000 employés grâce à l'IA. Un porte-parole de Salesforce a confirmé que l'entreprise a déployé avec succès des agents IA, ce qui a entraîné une diminution du nombre de cas de support et une réaffectation des employés à d'autres rôles. Les agents IA décomposent les tâches en étapes plus petites, améliorant ainsi l'efficacité globale. Nvidia et Microsoft sont également mentionnés comme des entreprises qui adoptent les agents IA, avec des dirigeants qui prévoient que l'IA augmentera la main-d'œuvre plutôt que de la réduire.",
@@ -138,27 +110,6 @@
         "body": "Bien qu'Nvidia domine toujours le marché de l'IA, des concurrents inattendus émergent, notamment Intel avec ses puces Gaudi, qui ciblent les clients soucieux de leurs coûts, et Google avec sa ligne de processeurs Axion et ses TPUs (Tensor Processing Units). Bien qu'il n'y ait pas beaucoup d'informations publiques sur Axion, des articles suggèrent que Google pourrait représenter une menace crédible pour la domination d'Nvidia. Les TPUs de Google, quant à eux, attirent l'attention d'entreprises comme Anthropic, ce qui suggère que l'entreprise gagne du terrain sur ses concurrents. Bien qu'il n'y ait actuellement aucun indicateur sur le marché boursier suggérant que la concurrence affecte le cours de l'action d'Nvidia, les analystes suggèrent que la concurrence nationale plus robuste pourrait avoir un impact à long terme. Des entreprises comme Qualcomm, Marvell et NXP Semiconductors proposent également des solutions innovantes pour l'IA, ce qui pourrait remodeler le paysage concurrentiel au cours des prochaines années.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/676723dd699f5dfd5546a826/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 03 Sep 2025 15:00:00 GMT"
-    },
-    {
-        "title": "ChatGPT : un contrôle parental nécessaire",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780611_chatgpt-voici-la-fonctionnalite-que-tous-les-parents-attendaient-pour-proteger-leurs-enfants",
-        "body": "Suite au suicide d'un adolescent américain, dont ChatGPT aurait influencé la décision, OpenAI met en place un système de contrôle parental complet. Ce drame met en lumière les dangers potentiels de l'IA pour un public jeune et vulnérable. Le contrôle parental, déployé dès octobre 2025, permettra aux parents de superviser les interactions de leurs enfants avec ChatGPT, et d'accéder à des outils pour comprendre et contrôler leur utilisation de l'IA. OpenAI s'engage ainsi à améliorer la sécurité des utilisateurs dans les 120 prochains jours.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Panne de ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2780193_aucune-reponse-pour-le-moment-chatgpt-est-en-panne",
-        "body": "Le chatbot ChatGPT d'OpenAI a subi une panne temporaire, affectant principalement les utilisateurs en France. La panne a été résolue en quelques heures, mais a entraîné des réponses défaillantes ou inexistantes aux questions des utilisateurs sur la version web. L'application mobile, quant à elle, fonctionnait normalement. OpenAI a identifié et résolu le problème rapidement, mais l'incident souligne la dépendance aux serveurs d'OpenAI et la nécessité de garantir la fiabilité du service, surtout pour les professionnels de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/panne-chatgpt-1-768x432.jpg?resize=169,169&key=d333c972",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google lance Gemini, son IA générative, sur les enceintes connectées",
-        "link": "https://www.frandroid.com/marques/google/2780181_google-confirme-que-gemini-arrivent-tres-bientot-sur-les-enceintes-google-home",
-        "body": "Google va déployer son IA générative Gemini sur ses enceintes connectées et accessoires Google Home dès le 1er octobre. Initialement prévu pour un groupe restreint, le déploiement semble désormais universel. Gemini devrait offrir une expérience améliorée par rapport à l'Assistant Google actuel, avec des formules payantes et gratuites. L'annonce est accompagnée d'une courte vidéo et pointe vers une page d'inscription pour les mises à jour. L'image d'annonce suggère également une refonte du catalogue domotique de Google, avec de nouveaux produits Nest et une stratégie tarifaire à préciser.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/capture-decran-du-2025-08-21-08-35-06-768x384.jpg?resize=150,150&key=a3dce1d6",
-        "date": "Tue, 02 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "L'avenir de l'IA : un équilibre entre opportunités et risques",
