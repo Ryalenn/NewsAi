@@ -278,5 +278,40 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68bbd27213fa454f0e86c6d0/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 06 Sep 2025 06:21:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ShowrunnerAmbersonsHeader.png?quality=90&strip=all&crop=2.346004937312%2C0%2C84.400177625376%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 19:00:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2233060790.jpg?quality=90&strip=all&crop=0%2C0.0031971353667117%2C100%2C99.993605729267&w=2400",
+        "date": "Fri, 05 Sep 2025 15:50:07 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
+        "date": "Fri, 05 Sep 2025 12:31:03 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/exclusive/770650/data-center-ai-naacp-guiding-principles#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2217198354.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 15:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/06/pondering-whether-people-who-have-low-ai-literacy-and-believe-ai-is-magical-might-be-more-susceptible-to-ai-psychosis/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68bb935445f12a7b93dbcc55/0x0.jpg?format=jpg&width=440",
+        "date": "Sat, 06 Sep 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
