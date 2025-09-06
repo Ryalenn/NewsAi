@@ -229,5 +229,75 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68ba27dc0a2918710268abcf/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 05 Sep 2025 14:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Eddy-Cue-CL-site-wide.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 23:05:54 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 20:29:58 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ShowrunnerAmbersonsHeader.png?quality=90&strip=all&crop=2.346004937312%2C0%2C84.400177625376%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 19:00:28 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_ThinkBook_VertiFlex_Concept_IFA2025_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 16:20:04 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257931_Sway_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Fri, 05 Sep 2025 13:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/batman-midjourneyai.png?quality=90&strip=all&crop=0%2C4.3155875379552%2C100%2C85.714285714286&w=2400",
+        "date": "Thu, 04 Sep 2025 21:49:27 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/771630/google-photos-veo3-video-animate-camera-roll",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DCD_0904_EyesonOpenAI.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 04 Sep 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/09/05/ai-chatbots-now-get-the-news-wrong-1-out-of-3-times/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67e605de3af82384e75b7ae7/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Sep 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/09/05/perplexity-ceo-says-curiosity-not-hype-will-shape-ais-future/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68bb40efda2221d6bb0ac4e6/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 05 Sep 2025 19:00:00 GMT",
+        "check": "no"
     }
 ]
