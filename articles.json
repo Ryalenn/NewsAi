@@ -63,7 +63,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette centrale Eufy analyse vos caméras mieux que Ring, 100 % en local et sans abonnement",
+        "title": "Cette centrale Eufy analyse vos cam\u00e9ras mieux que Ring, 100 % en local et sans abonnement",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2785941_cette-centrale-eufy-analyse-vos-cameras-mieux-que-ring-100-en-local-et-sans-abonnement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-23-768x578.jpg?resize=226,226&key=dfe8eb6b",
         "date": "Sun, 07 Sep 2025 23:00:00 GMT",
@@ -173,5 +173,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68be690f3cdee312a57db466/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 08 Sep 2025 13:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/773584/openai-animated-feature-film-critterz#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Vertigo-films-critterz-2025-09-08-at-11.34.14-1.png?quality=90&strip=all&crop=5.1324503311258%2C0%2C89.735099337748%2C100&w=2400",
+        "date": "Mon, 08 Sep 2025 10:56:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/torconstantino/2025/09/08/ai-firm-to-pay-15b-for-pirated-books-can-keep-its-trained-models/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68bf0948abef49c3314ae836/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 08 Sep 2025 16:00:00 GMT",
+        "check": "no"
     }
 ]
