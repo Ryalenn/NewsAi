@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette centrale Eufy analyse vos caméras mieux que Ring, 100 % en local et sans abonnement",
+        "title": "Cette centrale Eufy analyse vos cam\u00e9ras mieux que Ring, 100 % en local et sans abonnement",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2785941_cette-centrale-eufy-analyse-vos-cameras-mieux-que-ring-100-en-local-et-sans-abonnement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-23-768x578.jpg?resize=226,226&key=dfe8eb6b",
         "date": "Sun, 07 Sep 2025 23:00:00 GMT",
@@ -201,5 +201,26 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68be78ed1ffd85522f1085e8/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 09 Sep 2025 04:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/marques/intel-materiels-accessoires/2781345_premier-apercu-du-swift-16-ai-le-pc-qui-doit-sauver-intel-face-a-apple-et-bientot-nvidia",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/keynote-apple-nouveautes-pas-annoncees-1200x675.jpg?key=614ad8e2",
+        "date": "Sun, 07 Sep 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/09/trying-to-limit-what-artificial-general-intelligence-will-know-is-a-lot-harder-than-it-might-seem/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/685196275ff6545e65894426/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 07:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/janakirammsv/2025/09/09/microsoft-donates-documentdb-to-linux-foundation-as-an-open-source-alternative-to-mongodb/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68bfcf44ea6c7f5a417d9ff6/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 07:00:00 GMT",
+        "check": "no"
     }
 ]
