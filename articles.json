@@ -42,7 +42,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette centrale Eufy analyse vos caméras mieux que Ring, 100 % en local et sans abonnement",
+        "title": "Cette centrale Eufy analyse vos cam\u00e9ras mieux que Ring, 100 % en local et sans abonnement",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2785941_cette-centrale-eufy-analyse-vos-cameras-mieux-que-ring-100-en-local-et-sans-abonnement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-23-768x578.jpg?resize=226,226&key=dfe8eb6b",
         "date": "Sun, 07 Sep 2025 23:00:00 GMT",
@@ -222,5 +222,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68bfcf44ea6c7f5a417d9ff6/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 09 Sep 2025 07:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2783773_comment-obtenir-perplexity-pro-gratuitement-en-quelques-clics",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/critterz-768x432.jpg?key=86a23fa9",
+        "date": "Sun, 07 Sep 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/09/the-vertical-ai-bet-what-the-numbers-say-and-what-they-dont-yet-show/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0123d6dbf58e15d258515/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 12:00:00 GMT",
+        "check": "no"
     }
 ]
