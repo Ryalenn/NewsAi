@@ -56,7 +56,7 @@
         "check": "yes"
     },
     {
-        "title": "Cette centrale Eufy analyse vos caméras mieux que Ring, 100 % en local et sans abonnement",
+        "title": "Cette centrale Eufy analyse vos cam\u00e9ras mieux que Ring, 100 % en local et sans abonnement",
         "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2785941_cette-centrale-eufy-analyse-vos-cameras-mieux-que-ring-100-en-local-et-sans-abonnement",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-23-768x578.jpg?resize=226,226&key=dfe8eb6b",
         "date": "Sun, 07 Sep 2025 23:00:00 GMT",
@@ -200,6 +200,20 @@
         "link": "https://www.theverge.com/news/773928/google-open-web-rapid-decline",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842654/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 08 Sep 2025 16:50:20 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/09/will-ai-rewrite-history/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68bfbf35b8dfca0c35c28883/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 05:47:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/corneliawalther/2025/09/09/why-prosocial-ai-is-the-new-esg/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68be78ed1ffd85522f1085e8/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 04:00:00 GMT",
         "check": "no"
     }
 ]
