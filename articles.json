@@ -271,5 +271,33 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c1193e4af38732f3fa7f7a/0x0.jpg?format=jpg&width=440",
         "date": "Wed, 10 Sep 2025 06:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/x-ai/775411/grok-xai-safety-musk-warren-hegseth-dod",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257868_Grok_AI_safety_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 10 Sep 2025 11:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/775465/zillow-ai-virtual-staging",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Zillow-virtual-staging.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Wed, 10 Sep 2025 10:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/10/doctors-are-burning-out-can-ai-really-help/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c159983b616bab4b0820e4/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 10 Sep 2025 10:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/giacomotognini/2025/09/10/jared-kushners-new-startup-helps-businesses-figure-out-how-to-use-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0b6cf0c8daf16de816cc7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 10 Sep 2025 10:00:00 GMT",
+        "check": "no"
     }
 ]
