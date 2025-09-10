@@ -1,10 +1,38 @@
 [
     {
+        "title": "L'essor de l'IA dans la création de contenu audio",
+        "link": "https://www.hollywoodreporter.com/business/digital/ai-podcast-start-up-plan-shows-1236361367/",
+        "body": "Inception Point AI, dirigée par l'ancienne cadre de Wondery, Jeanine Wright, se lance dans la création de contenu audio à l'aide de l'intelligence artificielle. L'entreprise crée une gamme de talents IA pour animer des podcasts et, à terme, devenir des influenceurs sur les réseaux sociaux, dans la littérature et au-delà. Avec un coût de production d'un dollar ou moins par épisode, l'entreprise vise à posséder, contrôler et mettre à l'échelle son talent IA, tout en réduisant les coûts. Inception Point AI possède déjà plus de 5 000 émissions et produit plus de 3 000 épisodes par semaine, avec 10 millions de téléchargements depuis septembre 2023. L'entreprise crée différents niveaux de podcasts, depuis des rapports météorologiques jusqu'à des émissions animées par des personnalités IA dans divers domaines. Wright prévoit de créer des milliers d'autres personnalités IA et explore déjà la création de vidéos courtes et de profils de médias sociaux pour ces personnages. L'équipe navigue dans les questions éthiques liées à la création de ces personnalités, tout en envisageant des opportunités futures, telles que des conversations avec les auditeurs. L'entreprise, composée de huit personnes, utilise l'IA pour sélectionner les sujets des podcasts en fonction des tendances et crée des titres optimisés pour les moteurs de recherche. Les épisodes sont construits à l'aide de 184 agents IA personnalisés travaillant avec de grands modèles linguistiques.",
+        "image": "",
+        "date": "Tue, 09 Sep 2025 21:15:40 GMT"
+    },
+    {
+        "title": "Révolution de l'IA dans le capital-investissement",
+        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/09/ai-is-becoming-private-equitys-new-playbook/?ss=ai",
+        "body": "L'IA transforme le secteur du capital-investissement, permettant d'accélérer les processus de diligence et d'évaluation des entreprises. Des firmes comme Carlyle Group et Aone Partners adoptent l'IA, améliorant l'efficacité et la compétitivité du secteur. L'IA passe des projets pilotes à une composante stratégique, avec 93 % des firmes prévoyant des gains matériels dans les 3 à 5 années. L'IA améliore la recherche de signaux dans le bruit, la prise de décision et la création de valeur. Carlyle forme ses employés, crée un conseil dédié et utilise des datasets propriétaires. Aone Partners intègre l'IA dans ses processus, améliorant l'efficacité et la sécurité des données. Le défi est de construire des workflows adaptables, en partenariat ou en interne. La qualité des données est cruciale, et les firmes qui progressent offrent un soutien organisationnel et partagent les apprentissages. Avec l'IA, le secteur du capital-investissement évolue, élevant le jugement humain à un niveau supérieur. Les firmes qui intègrent l'IA dans leurs processus gagneront un avantage compétitif durable.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c08f77af172d9f4c7bc5b4/0x0.jpg?format=jpg&width=440",
+        "date": "Tue, 09 Sep 2025 20:00:00 GMT"
+    },
+    {
+        "title": "L'importance de JavaScript pour les technologies Web modernes",
+        "link": "https://x.com/nickaturley/status/1965418982619619510",
+        "body": "Résumé : \n\nL'accès à certaines fonctionnalités du site Web x.com nécessite l'activation de JavaScript dans le navigateur. JavaScript est essentiel pour tirer parti de toutes les fonctionnalités offertes par les technologies Web modernes. Les utilisateurs sont invités à activer JavaScript ou à passer à un navigateur pris en charge pour une expérience optimale sur x.com. La désactivation de JavaScript peut limiter l'accès à certains contenus et fonctionnalités du site.",
+        "image": "",
+        "date": "Tue, 09 Sep 2025 15:56:00 GMT"
+    },
+    {
         "title": "Nvidia vs AMD : la course à l'innovation dans le domaine de l'IA",
         "link": "https://www.forbes.com/sites/karlfreund/2025/09/09/mlperf-51-nvidia-stays-in-the-lead-while-amd-shows-off-its-latest/?ss=ai",
         "body": "L'article examine la concurrence entre Nvidia et AMD sur le marché de l'IA, en se concentrant sur les derniers développements en matière de benchmarks, de performances et d'innovations en matière de matériel et de logiciels. Nvidia reste le leader du marché de l'IA, mais AMD commence à rattraper son retard en publiant des benchmarks MLPerf impressionnants pour ses derniers produits, notamment les GPUs MI355X et MI400. Nvidia a introduit la désagrégation de l'inférence, améliorant considérablement les performances et la rentabilité de l'IA. AMD comprend l'importance des benchmarks pour influencer les décisions d'achat, et Google pourrait également entrer dans la course avec son superordinateur Ironwood.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68489b432fd4d563eeb1ccd7/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 09 Sep 2025 15:00:00 GMT"
+    },
+    {
+        "title": "L'assistant IA Claude devient un collaborateur actif",
+        "link": "https://www.anthropic.com/news/create-files",
+        "body": "L'IA Claude peut désormais créer et modifier des fichiers Excel, Word, PowerPoint et PDF directement sur sa plateforme et son application desktop. Les utilisateurs peuvent télécharger les données nécessaires et recevoir des fichiers prêts à l'emploi, ce qui transforme Claude d'un simple fournisseur de réponses en un véritable collaborateur. Claude peut créer des fichiers à partir de données téléchargées, de recherches ou de zéro, effectuant ainsi des tâches complexes en quelques minutes. L'IA a désormais accès à un environnement informatique privé où elle peut écrire du code et exécuter des programmes pour produire les analyses et fichiers demandés. Cette nouvelle fonctionnalité, disponible en prévisualisation pour certains utilisateurs, marque une étape importante vers l'accessibilité de tâches multi-étapes complexes via une simple conversation avec l'IA.",
+        "image": "",
+        "date": "Tue, 09 Sep 2025 14:30:00 GMT"
     },
     {
         "title": "L'engagement des pays arabes envers l'IA",
@@ -208,40 +236,5 @@
         "body": "L'IA est en train de révolutionner le monde des affaires, et son impact va bien au-delà de la simple automatisation des tâches et de l'amélioration de l'efficacité. Les agents IA ont le potentiel de redéfinir les modèles économiques et la manière dont les produits et services sont fournis. Cet article explore comment l'IA va transformer les organisations, créer de nouvelles opportunités d'innovation et redéfinir le rôle des travailleurs humains. Il souligne également les risques associés à l'IA et l'importance d'une supervision humaine, ainsi que les opportunités pour les entreprises agiles de tirer parti de cette technologie pour devenir des leaders dans l'ère de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68be67a9f6d6c973cc14212a/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 08 Sep 2025 05:00:00 GMT"
-    },
-    {
-        "title": "Perplexity, une alternative crédible à Google et ChatGPT",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2783773_comment-obtenir-perplexity-pro-gratuitement-en-quelques-clics",
-        "body": "Perplexity, un méta-moteur d'IA, se positionne comme une alternative sérieuse à Google et ChatGPT pour la recherche assistée par intelligence artificielle. Il se distingue en faisant appel à différents LLM en fonction des requêtes et en mettant en avant les sources utilisées. Frandroid s'est associé à Perplexity, qui propose une formule payante, Perplexity Pro, offrant un accès à davantage de LLM et à des fonctionnalités avancées. Une offre promotionnelle permet actuellement d'obtenir 12 mois d'abonnement gratuitement en s'abonnant via PayPal.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/critterz-768x432.jpg?key=86a23fa9",
-        "date": "Sun, 07 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "La riposte d'Intel",
-        "link": "https://www.frandroid.com/marques/intel-materiels-accessoires/2781345_premier-apercu-du-swift-16-ai-le-pc-qui-doit-sauver-intel-face-a-apple-et-bientot-nvidia",
-        "body": "Acer dévoile à l'IFA 2025 le Swift 16 AI, le premier PC portable équipé des processeurs Intel Panther Lake en 18A. Ce lancement est crucial pour Intel, qui tente de rattraper son retard sur Apple et de contrer l'arrivée des puces ARM Nvidia sur Windows. Le processeur 18A combine les technologies RibbonFET et PowerVia, promettant des gains en efficacité énergétique et des fréquences plus élevées. Intel adopte une stratégie progressive avec un déploiement limité en 2025 et plus large en 2026. Le succès du 18A est déterminant pour la survie technologique d'Intel et pour son service de fonderie face à TSMC. Le Swift 16 AI d'Acer, avec son grand trackpad et son écran OLED impressionnant, devient ainsi la vitrine technologique d'Intel.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/keynote-apple-nouveautes-pas-annoncees-1200x675.jpg?key=614ad8e2",
-        "date": "Sun, 07 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA locale révolutionne la sécurité domestique",
-        "link": "https://www.frandroid.com/produits-android/maison-connectee/securite-connectee/camera-connectee/2785941_cette-centrale-eufy-analyse-vos-cameras-mieux-que-ring-100-en-local-et-sans-abonnement",
-        "body": "L'Anker Eufy AI Core, présenté à l'IFA 2025, apporte une intelligence artificielle locale à l'écosystème Eufy, améliorant ainsi la précision de la détection des menaces et garantissant la confidentialité des données. L'AI Core, fonctionnant comme un cerveau central, utilise un processeur IA dédié pour analyser plus de 100 situations différentes, avec une réponse en moins de 3 secondes. Il offre une rétrocompatibilité avec les appareils Eufy existants, une intégration avec les assistants vocaux populaires et peut gérer jusqu'à 16 appareils et 34 capteurs simultanément. Le prix de ce dispositif n'a pas encore été communiqué.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-23-768x578.jpg?resize=226,226&key=dfe8eb6b",
-        "date": "Sun, 07 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Microsoft se trompe d'OS dans une publicité pour sa tablette Surface Pro",
-        "link": "https://www.frandroid.com/marques/microsoft/2785585_une-surface-sous-ipados-la-bourde-que-microsoft-a-rapidement-effacee",
-        "body": "Microsoft a publié une publicité pour sa tablette Surface Pro, vantant ses capacités en matière d'IA avec Copilot. Cependant, la publicité montrait un visuel d'un iPad fonctionnant sous iPadOS au lieu de Windows. L'erreur a été rapidement remarquée par les utilisateurs et la publication a été retirée 18 heures plus tard. L'incident soulève des questions sur le processus de création de contenu de Microsoft, notamment sur l'importance de la vérification humaine, en particulier lorsque l'IA est mise en avant.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/surface-pro-12-test-02-768x432.jpg?resize=169,169&key=80a7824e",
-        "date": "Sun, 07 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Google clarifie les limites d'utilisation de son IA Gemini",
-        "link": "https://www.frandroid.com/marques/google/2785445_voici-exactement-combien-de-questions-quotidiennes-vous-pouvez-poser-a-lia-de-google",
-        "body": "Google a enfin clarifié les limites d'utilisation de son IA Gemini, avec des abonnements gratuits et payants offrant différents avantages. L'abonnement gratuit permet 5 requêtes par jour sur Gemini 2.5 Pro, 5 rapports par mois via Deep Research, 20 résumés audio et 100 générations d'images quotidiennes. L'abonnement AI Pro (21,99 €/mois) offre 100 requêtes quotidiennes, 20 rapports Deep Research, 20 résumés audio et 1000 générations d'images par jour. L'abonnement AI Ultra (274,99 €/mois) propose 500 requêtes par jour, 200 rapports Deep Research, 20 résumés audio, 1000 créations d'images et 5 vidéos générées par jour. Les limites d'utilisation de Gemini pourraient évoluer rapidement avec les progrès de l'IA.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/gemini-1-768x576.jpeg?resize=225,225&key=3be87317",
-        "date": "Sun, 07 Sep 2025 23:00:00 GMT"
     }
 ]
