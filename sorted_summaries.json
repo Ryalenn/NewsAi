@@ -1,5 +1,26 @@
 [
     {
+        "title": "L'avenir de la mesure et de l'analyse marketing à l'ère de l'IA",
+        "link": "https://www.forbes.com/sites/bernardmarr/2025/09/10/the-marketing-metrics-that-will-matter-most-in-the-age-of-ai-agents/?ss=ai",
+        "body": "Titre : L'avenir de la mesure et de l'analyse marketing à l'ère de l'IA",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c132f9e30de0652ad5d207/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 10 Sep 2025 08:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'AGI",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/10/the-debate-on-whether-artificial-general-intelligence-should-inevitably-be-declared-a-worldwide-public-good-with-free-access-for-all/?ss=ai",
+        "body": "Titre : L'accès à l'AGI pour tous ?",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/683bc1dbc15a7e60f6ba32a7/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 10 Sep 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'impact psychologique des systèmes d'IA sur les humains",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/10/is-ai-a-good-companion-intima-tests-this-comprehensively/?ss=ai",
+        "body": "L'article explore une nouvelle méthode de mesure de la qualité des relations que les entités d'IA établissent avec les humains, appelée INTIMA. Les chercheurs de Hugging Face ont identifié 31 comportements pour évaluer si les interactions avec les utilisateurs mènent à la formation d'une relation, à la définition de limites ou sont neutres. Ils ont découvert que la formation de la relation prédominait, soulignant la nécessité d'aborder les interactions émotionnellement chargées de manière plus cohérente. Les auteurs discutent du concept de «parasocial interaction theory», où les utilisateurs développent des relations unilatérales avec les systèmes d'IA, et du phénomène d'anthropomorphisme, où les humains attribuent involontairement des caractéristiques humaines aux systèmes d'IA. Ils soulignent les risques psychologiques potentiels associés à ces interactions, notamment la dépendance émotionnelle et l'illusion d'une relation bidirectionnelle. L'article conclut en suggérant qu'INTIMA pourrait être un outil précieux pour gérer l'impact psychologique des systèmes d'IA.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c1193e4af38732f3fa7f7a/0x0.jpg?format=jpg&width=440",
+        "date": "Wed, 10 Sep 2025 06:00:00 GMT"
+    },
+    {
         "title": "L'essor de l'IA dans la création de contenu audio",
         "link": "https://www.hollywoodreporter.com/business/digital/ai-podcast-start-up-plan-shows-1236361367/",
         "body": "Inception Point AI, dirigée par l'ancienne cadre de Wondery, Jeanine Wright, se lance dans la création de contenu audio à l'aide de l'intelligence artificielle. L'entreprise crée une gamme de talents IA pour animer des podcasts et, à terme, devenir des influenceurs sur les réseaux sociaux, dans la littérature et au-delà. Avec un coût de production d'un dollar ou moins par épisode, l'entreprise vise à posséder, contrôler et mettre à l'échelle son talent IA, tout en réduisant les coûts. Inception Point AI possède déjà plus de 5 000 émissions et produit plus de 3 000 épisodes par semaine, avec 10 millions de téléchargements depuis septembre 2023. L'entreprise crée différents niveaux de podcasts, depuis des rapports météorologiques jusqu'à des émissions animées par des personnalités IA dans divers domaines. Wright prévoit de créer des milliers d'autres personnalités IA et explore déjà la création de vidéos courtes et de profils de médias sociaux pour ces personnages. L'équipe navigue dans les questions éthiques liées à la création de ces personnalités, tout en envisageant des opportunités futures, telles que des conversations avec les auditeurs. L'entreprise, composée de huit personnes, utilise l'IA pour sélectionner les sujets des podcasts en fonction des tendances et crée des titres optimisés pour les moteurs de recherche. Les épisodes sont construits à l'aide de 184 agents IA personnalisés travaillant avec de grands modèles linguistiques.",
@@ -201,19 +222,5 @@
         "body": "L'article souligne l'importance de l'IA en tant que technologie transformatrice et son impact sur l'avenir et la prospérité des nations. Il discute du plan d'action américain sur l'IA, qui vise à stimuler l'innovation dans le secteur technologique américain, à promouvoir le développement de l'infrastructure de l'IA et à assurer le leadership en matière de sécurité et de diplomatie internationales. Cependant, l'auteur exprime sa préoccupation concernant les propositions récentes du gouvernement américain visant à limiter l'exportation de certains accélérateurs d'IA vers la Chine et d'autres pays étrangers. Ces actions pourraient entraver l'innovation et avoir un impact négatif sur l'écosystème technologique américain, en particulier dans le domaine des puces électroniques qui sont essentielles pour l'IA. L'auteur suggère que ces restrictions vont à l'encontre des principes du libre marché qui ont propulsé les États-Unis au sommet de l'innovation technologique, en particulier dans le domaine des semi-conducteurs et de l'électronique. Il conclut en affirmant que la création de limites sur le marché n'empêchera pas les entreprises ou les pays de poursuivre l'innovation, mais qu'elle limitera la prolifération de la technologie, réduira le potentiel des États-Unis de rester un leader technologique mondial et accélérera le développement de solutions concurrentes.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68beaea8937b217c85c93cfc/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 08 Sep 2025 10:00:00 GMT"
-    },
-    {
-        "title": "La montée en puissance de Qualcomm dans le marché des véhicules autonomes",
-        "link": "https://www.forbes.com/sites/tiriasresearch/2025/09/08/thriving-amid-auto-evav-uncertainty-requires-holistic-solutions/?ss=ai",
-        "body": "Bien que Qualcomm soit considéré comme un nouvel acteur dans le domaine des systèmes de commande et de contrôle des véhicules, l'entreprise a pu s'imposer grâce à sa présence établie dans l'industrie avec ses solutions sans fil de pointe pour les systèmes de télématique. En 2014, Qualcomm a lancé des solutions d'infodivertissement, ce qui lui a permis de collaborer avec les principaux constructeurs automobiles et fournisseurs de premier plan. En 2021, l'entreprise a introduit Snapdragon Ride, sa plateforme ADAS évolutive qui partage une plateforme logicielle et des systèmes d'exploitation communs avec le système d'infodivertissement et le reste de sa pile logicielle d'IA. Cette approche système, combinée à son leadership en matière de connectivité, a permis à Qualcomm de se distinguer de ses concurrents et de générer une croissance significative dans le marché des véhicules autonomes. La lente transition vers les véhicules électriques a également incité l'industrie automobile à adopter les solutions ADAS avancées de Qualcomm dans les plateformes ICE et HEV, ce qui a élargi la portée de l'entreprise au-delà des simples plateformes AV.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68bb5764d2e767b2a2ed2f3f/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 08 Sep 2025 08:59:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé mentale et de l'IA : une réglementation complexe",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/08/utah-enacts-law-to-regulate-use-of-ai-for-mental-health-providing-deftness-and-is-less-onerous-than-other-similar-laws/?ss=ai",
-        "body": "Résumé : \n\nLa réglementation de l'utilisation de l'IA dans le domaine de la santé mentale est un sujet complexe et en constante évolution. L'article examine la loi récemment adoptée par l'Utah dans ce domaine, la comparant aux lois similaires de l'Illinois et du Nevada. La loi de l'Utah se distingue par son approche mesurée, cherchant à équilibrer l'utilisation prudente et appropriée de l'IA avec les risques potentiels pour la santé mentale. L'article souligne l'importance de définir clairement l'IA pour la santé mentale, en particulier la distinction entre les IA génériques et celles spécifiquement conçues pour la santé mentale. La loi de l'Utah inclut une définition intrigante, suggérant que l'IA tombe dans cette catégorie si \"une personne raisonnable croirait\" qu'elle fournit une thérapie ou une aide en matière de santé mentale. L'article met également en évidence la nécessité pour les développeurs d'IA de mettre en place des protections pour les utilisateurs, telles que des divulgations sur la collecte de données et les capacités de l'IA, et discute des arguments pour et contre l'efficacité de ces protections. Enfin, il souligne l'ampleur de l'expérimentation mondiale actuelle dans l'utilisation de l'IA pour la santé mentale et la nécessité de réglementations bien pensées pour naviguer dans cette nouvelle frontière.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68bdfbbd2f35fa62691d7b40/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 08 Sep 2025 07:00:00 GMT"
     }
 ]
