@@ -306,5 +306,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c08f77af172d9f4c7bc5b4/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 09 Sep 2025 20:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/774129/firefox-shake-to-summarize-ios-ai-launch",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/firefox-shake-to-summarize.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+        "date": "Tue, 09 Sep 2025 10:51:49 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 08 Sep 2025 19:14:28 GMT",
+        "check": "no"
     }
 ]
