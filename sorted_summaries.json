@@ -1,10 +1,31 @@
 [
     {
+        "title": "Le commerce intelligent",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/09/11/the-end-of-checkout-ai-agents-could-soon-be-buying-everything-for-you/?ss=ai",
+        "body": "Mastercard lance un ensemble d'outils pour développeurs, de normes industrielles et de nouveaux partenariats pour permettre aux agents IA d'effectuer des achats au nom des consommateurs en toute sécurité et facilité. L'entreprise développe son système Agent Pay, introduisant le concept de « commerce intelligent » où les agents IA autonomes agissent au nom des utilisateurs, se souvenant de leurs choix passés et exécutant des achats dans les limites prédéfinies. Mastercard propose un kit de développement, un système d'inscription pour agents vérifiés et des jetons d'insight pour la personnalisation. La société collabore également avec des organismes de normalisation pour créer des informations d'identification vérifiables et offrir des services de consultation pour une intégration rapide. Ses concurrents, dont Visa, PayPal et Stripe, expérimentent également des fonctionnalités similaires. Mastercard investit dans la technologie et les normes industrielles pour garantir la validité et la réversibilité des actions des agents, tout en faisant face à des défis en matière de responsabilité, de confidentialité et de fraude. L'entreprise parie sur le fait que sa priorité dans la fourniture d'une couche de confiance la maintiendra au centre du commerce numérique.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c3264050b9009b85560bc6/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 11 Sep 2025 19:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA : des machines qui apprennent comme les humains",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/11/klarna-gives-you-the-ceos-ear-amid-an-ambitious-ipo/?ss=ai",
+        "body": "Le texte met en lumière les récents progrès dans le domaine de l'IA, notamment en matière d'apprentissage automatique et de deep learning. Il souligne l'importance de développer des systèmes d'IA capables d'apprendre et de penser comme les humains, plutôt que de simplement imiter des tâches spécifiques. L'article explore les avantages potentiels de cette approche, y compris une meilleure capacité à résoudre des problèmes complexes et à s'adapter à de nouvelles situations. Il mentionne également les défis à relever, tels que la nécessité de comprendre les mécanismes d'apprentissage du cerveau humain et de développer des architectures informatiques appropriées. Enfin, il souligne l'importance de la collaboration entre les chercheurs en IA et en neurosciences pour faire avancer ce domaine passionnant.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c2ed4b176d771348d9def5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 11 Sep 2025 15:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA : éthique et risques",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/09/11/formulating-an-artificial-general-intelligence-ethics-checklist-for-the-upcoming-rise-of-advanced-ai/?ss=ai",
         "body": "Titre : L'avenir de l'IA : éthique et risques",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6833f60e5d53b0274d6dec1c/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 11 Sep 2025 07:00:00 GMT"
+    },
+    {
+        "title": "L'avenir de l'IA sur mobile avec les processeurs Arm",
+        "link": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/2792737_arm-devoile-ses-processeurs-c1-avec-ia-sme2-pour-les-snapdragon-et-mediatek-2026",
+        "body": "L'entreprise britannique Arm, à l'origine de l'architecture des processeurs de nombreux appareils électroniques, dont les smartphones Android et iPhone, s'apprête à lancer une nouvelle gamme de processeurs en 2026. Les processeurs C1 intègrent l'IA directement dans le CPU grâce à la technologie SME2, offrant des performances multipliées par 5. Cette approche diffère des stratégies actuelles en intégrant tout dans le CPU, réduisant ainsi la latence et améliorant la flexibilité et l'intégration logicielle. Arm promet des gains impressionnants dans le traitement de la reconnaissance vocale, de la traduction en temps réel et de la génération d'images IA. Les premiers smartphones équipés de ces processeurs sont attendus courant 2026, offrant une alternative crédible aux iPhone en termes de performances pures.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-33-1-768x432.jpg?resize=169,169&key=5a2ead66",
+        "date": "Wed, 10 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "Doublage Automatique sur YouTube",
@@ -145,61 +166,5 @@
         "body": "Les travailleurs et travailleuses du jeu vidéo en France se sont joints à la mobilisation nationale \"Bloquons Tout\" le 10 septembre 2025, avec un focus particulier sur les pratiques de leur industrie. Le Syndicat des Travailleuses du Jeu Vidéo (STJV) met en lumière les investissements massifs dans l'IA générative, qui selon eux, exploite les travailleurs du tiers-monde et dévalue leurs compétences. Ils soulignent également le manque de dialogue avec la direction et appellent à une plus grande représentation des travailleurs au sein des entreprises. La grève entraîne une perte de salaire, mais des caisses de grève sont mises en place pour soutenir les grévistes, comme cela a été le cas pour la victoire précédente du STJV contre le studio Don't Nod. Le studio Virtuos, malgré ses récents succès, a annoncé des licenciements, ce qui renforce la nécessité de la mobilisation.",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/drapeaux-stjv-2-768x512.jpg?resize=200,200&key=0d4ef0eb",
         "date": "Tue, 09 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'essor de l'IA dans la création de contenu audio",
-        "link": "https://www.hollywoodreporter.com/business/digital/ai-podcast-start-up-plan-shows-1236361367/",
-        "body": "Inception Point AI, dirigée par l'ancienne cadre de Wondery, Jeanine Wright, se lance dans la création de contenu audio à l'aide de l'intelligence artificielle. L'entreprise crée une gamme de talents IA pour animer des podcasts et, à terme, devenir des influenceurs sur les réseaux sociaux, dans la littérature et au-delà. Avec un coût de production d'un dollar ou moins par épisode, l'entreprise vise à posséder, contrôler et mettre à l'échelle son talent IA, tout en réduisant les coûts. Inception Point AI possède déjà plus de 5 000 émissions et produit plus de 3 000 épisodes par semaine, avec 10 millions de téléchargements depuis septembre 2023. L'entreprise crée différents niveaux de podcasts, depuis des rapports météorologiques jusqu'à des émissions animées par des personnalités IA dans divers domaines. Wright prévoit de créer des milliers d'autres personnalités IA et explore déjà la création de vidéos courtes et de profils de médias sociaux pour ces personnages. L'équipe navigue dans les questions éthiques liées à la création de ces personnalités, tout en envisageant des opportunités futures, telles que des conversations avec les auditeurs. L'entreprise, composée de huit personnes, utilise l'IA pour sélectionner les sujets des podcasts en fonction des tendances et crée des titres optimisés pour les moteurs de recherche. Les épisodes sont construits à l'aide de 184 agents IA personnalisés travaillant avec de grands modèles linguistiques.",
-        "image": "",
-        "date": "Tue, 09 Sep 2025 21:15:40 GMT"
-    },
-    {
-        "title": "Révolution de l'IA dans le capital-investissement",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/09/ai-is-becoming-private-equitys-new-playbook/?ss=ai",
-        "body": "L'IA transforme le secteur du capital-investissement, permettant d'accélérer les processus de diligence et d'évaluation des entreprises. Des firmes comme Carlyle Group et Aone Partners adoptent l'IA, améliorant l'efficacité et la compétitivité du secteur. L'IA passe des projets pilotes à une composante stratégique, avec 93 % des firmes prévoyant des gains matériels dans les 3 à 5 années. L'IA améliore la recherche de signaux dans le bruit, la prise de décision et la création de valeur. Carlyle forme ses employés, crée un conseil dédié et utilise des datasets propriétaires. Aone Partners intègre l'IA dans ses processus, améliorant l'efficacité et la sécurité des données. Le défi est de construire des workflows adaptables, en partenariat ou en interne. La qualité des données est cruciale, et les firmes qui progressent offrent un soutien organisationnel et partagent les apprentissages. Avec l'IA, le secteur du capital-investissement évolue, élevant le jugement humain à un niveau supérieur. Les firmes qui intègrent l'IA dans leurs processus gagneront un avantage compétitif durable.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c08f77af172d9f4c7bc5b4/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 20:00:00 GMT"
-    },
-    {
-        "title": "L'importance de JavaScript pour les technologies Web modernes",
-        "link": "https://x.com/nickaturley/status/1965418982619619510",
-        "body": "Résumé : \n\nL'accès à certaines fonctionnalités du site Web x.com nécessite l'activation de JavaScript dans le navigateur. JavaScript est essentiel pour tirer parti de toutes les fonctionnalités offertes par les technologies Web modernes. Les utilisateurs sont invités à activer JavaScript ou à passer à un navigateur pris en charge pour une expérience optimale sur x.com. La désactivation de JavaScript peut limiter l'accès à certains contenus et fonctionnalités du site.",
-        "image": "",
-        "date": "Tue, 09 Sep 2025 15:56:00 GMT"
-    },
-    {
-        "title": "Nvidia vs AMD : la course à l'innovation dans le domaine de l'IA",
-        "link": "https://www.forbes.com/sites/karlfreund/2025/09/09/mlperf-51-nvidia-stays-in-the-lead-while-amd-shows-off-its-latest/?ss=ai",
-        "body": "L'article examine la concurrence entre Nvidia et AMD sur le marché de l'IA, en se concentrant sur les derniers développements en matière de benchmarks, de performances et d'innovations en matière de matériel et de logiciels. Nvidia reste le leader du marché de l'IA, mais AMD commence à rattraper son retard en publiant des benchmarks MLPerf impressionnants pour ses derniers produits, notamment les GPUs MI355X et MI400. Nvidia a introduit la désagrégation de l'inférence, améliorant considérablement les performances et la rentabilité de l'IA. AMD comprend l'importance des benchmarks pour influencer les décisions d'achat, et Google pourrait également entrer dans la course avec son superordinateur Ironwood.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68489b432fd4d563eeb1ccd7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'assistant IA Claude devient un collaborateur actif",
-        "link": "https://www.anthropic.com/news/create-files",
-        "body": "L'IA Claude peut désormais créer et modifier des fichiers Excel, Word, PowerPoint et PDF directement sur sa plateforme et son application desktop. Les utilisateurs peuvent télécharger les données nécessaires et recevoir des fichiers prêts à l'emploi, ce qui transforme Claude d'un simple fournisseur de réponses en un véritable collaborateur. Claude peut créer des fichiers à partir de données téléchargées, de recherches ou de zéro, effectuant ainsi des tâches complexes en quelques minutes. L'IA a désormais accès à un environnement informatique privé où elle peut écrire du code et exécuter des programmes pour produire les analyses et fichiers demandés. Cette nouvelle fonctionnalité, disponible en prévisualisation pour certains utilisateurs, marque une étape importante vers l'accessibilité de tâches multi-étapes complexes via une simple conversation avec l'IA.",
-        "image": "",
-        "date": "Tue, 09 Sep 2025 14:30:00 GMT"
-    },
-    {
-        "title": "L'engagement des pays arabes envers l'IA",
-        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/?ss=ai",
-        "body": "L'Université Mohamed bin Zayed d'Intelligence Artificielle et le groupe technologique G42, tous deux basés à Abu Dhabi, ont récemment dévoilé K2 Think, un modèle de raisonnement IA open-source. Ce modèle se distingue par sa méthode de développement et ses applications potentielles dans divers domaines. Cet événement s'inscrit dans un contexte plus large d'investissements importants des gouvernements de la péninsule arabique dans l'IA. Des entreprises leaders comme AMD, Nvidia et Qualcomm ont récemment conclu d'importants accords de développement dans la région. L'Arabie Saoudite a également démontré son engagement avec la création de la société Humain AI, soutenue par l'État. K2 Think propose une nouvelle approche pour construire des modèles de raisonnement IA hautement efficaces, en misant sur l'open-source. L'Université Mohamed bin Zayed d'Intelligence Artificielle, grâce à son approche novatrice et à son soutien financier, est en mesure de développer des modèles IA performants. K2 Think, avec ses 32 milliards de paramètres, surpasse des modèles plus volumineux dans des tâches de raisonnement mathématique. Les développeurs mettent en avant six \"piliers de l'innovation\" qui permettent d'atteindre de telles performances. Le modèle se distingue par sa planification agentique avant le raisonnement, optimisant ainsi le processus de raisonnement. De plus, K2 Think utilise un matériel informatique optimisé pour l'inférence, le Wafer-Scale Engine de Cerebras, offrant une puissance de calcul considérable. Les tests internes montrent que K2 Think rivalise avec les meilleurs modèles open-source, tout en nécessitant moins de paramètres. Le modèle précédent, K2-65B, était déjà un pionnier en tant que premier modèle open-source reproductible. K2 Think va plus loin en documentant le processus d'apprentissage, offrant une transparence inégalée dans le fonctionnement des modèles IA. Les Émirats Arabes Unis ont développé plusieurs modèles open-source, dont Jais (en arabe), Nanda (en hindi) et Sherkala (en kazakh). L'engagement des pays arabes envers l'IA, soutenu par des ressources financières importantes et un accès à une énergie bon marché, pourrait propulser ces nations à l'avant-garde de l'innovation en IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0346cd2533ccd471a3c90/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 14:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de la conception de centres de données pour l'IA avec des jumeaux numériques",
-        "link": "https://www.forbes.com/sites/marcochiappetta/2025/09/09/cadence-built-an-nvidia-dgx-superpod-digital-twin-with-incredible-scale-and-accuracy/?ss=ai",
-        "body": "Bien que les jumeaux numériques soient courants dans l'industrie des semi-conducteurs, leur adoption dans d'autres secteurs, comme la conception de centres de données pour l'IA, est moins répandue. L'auteur souligne l'importance de leur utilisation dans ce domaine, en particulier pour optimiser l'efficacité énergétique, l'espace et les coûts. Cadence a développé un jumeau numérique du DGX SuperPOD de Nvidia, capable de simuler des systèmes à l'échelle gigawatt avec une précision au niveau de la puce. Cette technologie permet aux ingénieurs de concevoir des centres de données en fonction de critères précis en matière de puissance, d'espace, de refroidissement et de performances. Les jumeaux numériques améliorent la fiabilité, la qualité et les performances, accélèrent la mise sur le marché et soutiennent la durabilité à long terme en réduisant les déchets et les itérations inutiles. La plateforme Cadence Reality Digital Twin, avec ses milliers de modèles de fournisseurs, simplifie la création de jumeaux numériques de centres de données ultra-précis. Cette approche permet d'identifier les points de défaillance potentiels et les scénarios de mise à niveau, ainsi que d'optimiser les performances tout au long du cycle de vie du centre de données. Le jumeau numérique du DGX SuperPOD de Nvidia est un outil puissant pour accélérer le développement de centres de données d'IA, améliorer leur efficacité opérationnelle et réduire les coûts et les risques associés à leur conception.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c033cf77f0c9f8a51b64d0/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 14:00:00 GMT"
-    },
-    {
-        "title": "Intelligence Artificielle : De la Réactivité à la Résilience Proactive",
-        "link": "https://www.forbes.com/sites/victordey/2025/09/09/splunks-agentic-ai-upgrade-for-observability-promises-self-healing-it-systems/?ss=ai",
-        "body": "La plateforme de données californienne Splunk a annoncé son portefeuille d'observabilité alimenté par une IA agentique conçu pour faire passer les entreprises d'une surveillance réactive à une résilience proactive. L'IA agentique est intégrée directement dans Splunk Observability Cloud et Splunk AppDynamics, analysant en continu les données de télémétrie, identifiant les anomalies, diagnostiquant les causes profondes et proposant des corrections. Cette approche permet de surveiller les performances des agents IA, garantissant qu'ils fonctionnent comme prévu et fournissent des résultats de qualité tout en maîtrisant les coûts. Splunk vise également la couche d'infrastructure, surveillant l'utilisation des GPU, des accélérateurs et des services cloud pour prévenir les problèmes de consommation et de goulet d'étranglement. Avec l'IA devenant centrale dans les applications d'entreprise, Splunk se positionne comme la plateforme de maintien de cette stabilité, offrant une couche d'intelligence reliant l'infrastructure, l'IA et les résultats métier.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c02bc065a46833d8810820/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 13:00:00 GMT"
     }
 ]
