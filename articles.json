@@ -126,7 +126,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous trouvez les iPhone 17 ennuyants ? C’est normal, voici pourquoi",
+        "title": "Vous trouvez les iPhone 17 ennuyants ? C\u2019est normal, voici pourquoi",
         "link": "https://www.frandroid.com/marques/apple/2791361_vous-trouvez-les-iphone-17-ennuyants-cest-normal-voici-pourquoi",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-31-12-768x438.jpg?resize=171,171&key=f530efbe",
         "date": "Tue, 09 Sep 2025 23:00:00 GMT",
@@ -217,14 +217,14 @@
         "check": "yes"
     },
     {
-        "title": "YouTube déploie une option pour doubler rapidement vos vidéos",
+        "title": "YouTube d\u00e9ploie une option pour doubler rapidement vos vid\u00e9os",
         "link": "https://www.frandroid.com/marques/google/2792045_youtube-deploie-une-option-pour-doubler-rapidement-vos-videos",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4-768x431.png?resize=168,168&key=a79ec420",
         "date": "Wed, 10 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "La voix française de Lara Croft aurait été volé par l’IA",
+        "title": "La voix fran\u00e7aise de Lara Croft aurait \u00e9t\u00e9 vol\u00e9 par l\u2019IA",
         "link": "https://www.frandroid.com/culture-tech/2791859_la-voix-francaise-de-lara-croft-aurait-ete-vole-par-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/lara-croft-tomb-raider-768x432.jpg?resize=169,169&key=98e55ab8",
         "date": "Wed, 10 Sep 2025 23:00:00 GMT",
@@ -242,6 +242,69 @@
         "link": "https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK149_AI_Writing.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 10 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "ARM d\u00e9voile ses processeurs C1 avec IA SME2 pour les Snapdragon et MediaTek 2026",
+        "link": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/2792737_arm-devoile-ses-processeurs-c1-avec-ia-sme2-pour-les-snapdragon-et-mediatek-2026",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-33-1-768x432.jpg?resize=169,169&key=5a2ead66",
+        "date": "Wed, 10 Sep 2025 23:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 11 Sep 2025 20:24:32 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/policy/776545/ftc-ai-chatbot-companion-kids-teens-study",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 11 Sep 2025 16:58:07 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Roku.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 11 Sep 2025 15:30:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/773904/sierra-ceo-bret-taylor-ai-agents-openai-bubble-interview",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Bret_Taylor.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 11 Sep 2025 13:46:38 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Thu, 11 Sep 2025 12:22:06 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/robbyant-image.png?quality=90&strip=all&crop=0%2C9.8108747044917%2C100%2C80.378250591017&w=2400",
+        "date": "Thu, 11 Sep 2025 12:10:25 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/ronschmelzer/2025/09/11/the-end-of-checkout-ai-agents-could-soon-be-buying-everything-for-you/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c3264050b9009b85560bc6/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 11 Sep 2025 19:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/11/klarna-gives-you-the-ceos-ear-amid-an-ambitious-ipo/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c2ed4b176d771348d9def5/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 11 Sep 2025 15:00:00 GMT",
         "check": "no"
     }
 ]
