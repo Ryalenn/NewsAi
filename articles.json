@@ -231,7 +231,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous trouvez les iPhone 17 ennuyants ? C’est normal, voici pourquoi",
+        "title": "Vous trouvez les iPhone 17 ennuyants ? C\u2019est normal, voici pourquoi",
         "link": "https://www.frandroid.com/marques/apple/2791361_vous-trouvez-les-iphone-17-ennuyants-cest-normal-voici-pourquoi",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-31-12-768x438.jpg?resize=171,171&key=f530efbe",
         "date": "Tue, 09 Sep 2025 23:00:00 GMT",
@@ -312,6 +312,13 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16023601/1136200773.jpg.jpg?quality=90&strip=all&crop=0%2C3.660797034291%2C100%2C92.678405931418&w=2400",
         "date": "Wed, 10 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/11/formulating-an-artificial-general-intelligence-ethics-checklist-for-the-upcoming-rise-of-advanced-ai/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6833f60e5d53b0274d6dec1c/0x0.jpg?format=jpg&width=440",
+        "date": "Thu, 11 Sep 2025 07:00:00 GMT",
         "check": "no"
     }
 ]
