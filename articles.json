@@ -1,34 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.forbes.com/sites/karlfreund/2025/09/09/mlperf-51-nvidia-stays-in-the-lead-while-amd-shows-off-its-latest/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68489b432fd4d563eeb1ccd7/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 15:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/patrickmoorhead/2025/09/09/the-uae-showcases-its-abilities-in-ai-reasoning-with-k2-think-model/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0346cd2533ccd471a3c90/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 14:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/marcochiappetta/2025/09/09/cadence-built-an-nvidia-dgx-superpod-digital-twin-with-incredible-scale-and-accuracy/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c033cf77f0c9f8a51b64d0/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 14:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/victordey/2025/09/09/splunks-agentic-ai-upgrade-for-observability-promises-self-healing-it-systems/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c02bc065a46833d8810820/0x0.jpg?format=jpg&width=440",
-        "date": "Tue, 09 Sep 2025 13:00:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
         "link": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 09 Sep 2025 21:45:42 GMT",
@@ -54,27 +26,6 @@
         "image": "",
         "date": "Tue, 09 Sep 2025 15:56:00 GMT",
         "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.anthropic.com/news/create-files",
-        "image": "",
-        "date": "Tue, 09 Sep 2025 14:30:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Google-Veo-3-vertical-video-update.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Tue, 09 Sep 2025 14:23:51 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/773176/apple-iphone-17-launch-event-watch-time-date",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/iPhone-17-launch.jpg?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
-        "date": "Tue, 09 Sep 2025 14:00:00 GMT",
-        "check": "no"
     },
     {
         "title": "",
@@ -203,7 +154,7 @@
         "check": "yes"
     },
     {
-        "title": "Vous trouvez les iPhone 17 ennuyants ? C\u2019est normal, voici pourquoi",
+        "title": "Vous trouvez les iPhone 17 ennuyants ? C’est normal, voici pourquoi",
         "link": "https://www.frandroid.com/marques/apple/2791361_vous-trouvez-les-iphone-17-ennuyants-cest-normal-voici-pourquoi",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-31-12-768x438.jpg?resize=171,171&key=f530efbe",
         "date": "Tue, 09 Sep 2025 23:00:00 GMT",
@@ -294,14 +245,14 @@
         "check": "yes"
     },
     {
-        "title": "YouTube d\u00e9ploie une option pour doubler rapidement vos vid\u00e9os",
+        "title": "YouTube déploie une option pour doubler rapidement vos vidéos",
         "link": "https://www.frandroid.com/marques/google/2792045_youtube-deploie-une-option-pour-doubler-rapidement-vos-videos",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4-768x431.png?resize=168,168&key=a79ec420",
         "date": "Wed, 10 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "La voix fran\u00e7aise de Lara Croft aurait \u00e9t\u00e9 vol\u00e9 par l\u2019IA",
+        "title": "La voix française de Lara Croft aurait été volé par l’IA",
         "link": "https://www.frandroid.com/culture-tech/2791859_la-voix-francaise-de-lara-croft-aurait-ete-vole-par-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/lara-croft-tomb-raider-768x432.jpg?resize=169,169&key=98e55ab8",
         "date": "Wed, 10 Sep 2025 23:00:00 GMT",
