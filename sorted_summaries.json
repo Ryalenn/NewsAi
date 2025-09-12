@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple bloque la traduction en temps réel sur les AirPods en Europe",
+        "link": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/?",
+        "body": "Résumé : Apple a présenté une nouvelle fonctionnalité de traduction en temps réel pour ses AirPods, mais celle-ci n'est pas disponible pour les utilisateurs en Europe. Apple bloque délibérément cette fonctionnalité en raison de son interprétation des obligations qui lui incombent en vertu du Règlement sur les marchés numériques de l'UE. La Commission européenne a déclaré qu'Apple n'avait pas consulté l'organisme de réglementation avant de prendre cette décision unilatérale, et a affirmé que le DMA encourageait l'innovation et la liberté de choix, plutôt que de l'entraver.",
+        "image": "",
+        "date": "Fri, 12 Sep 2025 12:02:11 GMT"
+    },
+    {
         "title": "Définir l'intelligence artificielle de niveau humain",
         "link": "https://www.forbes.com/sites/lanceeliot/2025/09/12/deliberating-on-the-many-definitions-of-artificial-general-intelligence/?ss=ai",
         "body": "L'article explore le manque de définition universellement acceptée de l'intelligence artificielle générale (AGI), un terme vague utilisé pour décrire une IA de niveau humain. Il souligne l'importance de définir clairement l'AGI pour évaluer les progrès de l'IA et déterminer si nous nous rapprochons ou nous éloignons de cet objectif. L'auteur présente diverses définitions de l'AGI proposées par des experts et des organisations, mettant en évidence leurs ambiguïtés et leurs interprétations subjectives. Le débat porte sur la question de savoir si l'AGI doit être définie par rapport aux capacités humaines ou les dépasser, et sur l'inclusion de domaines spécifiques ou de la valeur économique dans la définition. L'article conclut en soulignant la nécessité d'un consensus sur la définition de l'AGI pour éviter la confusion et favoriser une compréhension commune des progrès de l'IA.",
@@ -40,6 +47,13 @@
         "body": "Titre",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c3760586d807a08724f027/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 12 Sep 2025 01:00:00 GMT"
+    },
+    {
+        "title": "Google Meet et la traduction en temps réel",
+        "link": "https://www.frandroid.com/marques/google/2794557_plus-besoin-de-savoir-parler-anglais-google-meet-traduit-aussi-le-francais-on-a-essaye",
+        "body": "Google Meet, le service de visioconférence de Google, propose désormais la traduction en direct des conversations en français vers l'anglais, et vice versa. La fonctionnalité, testée par Frandroid, offre une traduction fidèle et rapide, avec une imitation du timbre de voix de l'interlocuteur. La traduction est disponible avec l'abonnement Google AI Pro, à 21,99 euros par mois.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/google-meet-traduction-francais-anglais-768x432.jpg?resize=169,169&key=b22eba37",
+        "date": "Thu, 11 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "L'Albanie nomme une IA comme ministre",
@@ -84,6 +98,13 @@
         "date": "Thu, 11 Sep 2025 07:00:00 GMT"
     },
     {
+        "title": "L'éthique de l'IA : un guide pour les praticiens",
+        "link": "https://copilot.microsoft.com/labs/audio-expression",
+        "body": "L'éthique de l'IA est un domaine en constante évolution qui guide les praticiens dans le développement et le déploiement responsables de technologies d'IA. Cet article fournit un guide complet sur les considérations éthiques clés dans le domaine de l'IA. \n\nL'un des aspects les plus critiques est la confidentialité et la sécurité des données. Les praticiens doivent garantir la protection des données personnelles, en veillant à ce que les pratiques de collecte et de traitement des données soient transparentes et conformes aux réglementations en vigueur, telles que le RGPD. \n\nL'équité, l'impartialité et la non-discrimination sont également des préoccupations primordiales. Les systèmes d'IA doivent être conçus pour éviter tout préjudice et toute discrimination injustes, en s'assurant qu'ils ne perpétuent pas les préjugés et en garantissant une prise de décision équitable et transparente. \n\nDe plus, la responsabilité et la transparence sont essentielles. Les praticiens devraient documenter les processus de développement, évaluer régulièrement les systèmes d'IA et être prêts à expliquer les décisions et les actions de ces systèmes. \n\nL'article souligne également l'importance de l'inclusion et de la diversité dans les équipes d'IA, garantissant ainsi une variété de perspectives et réduisant le risque de biais. \n\nEnfin, les praticiens devraient envisager l'impact sociétal de l'IA, y compris les implications potentielles sur l'emploi, la confidentialité, la sécurité et la responsabilité morale. \n\nEn conclusion, ce guide fournit un aperçu complet des considérations éthiques clés pour les praticiens de l'IA, aidant à garantir que les technologies d'IA sont développées et déployées de manière responsable et éthique.",
+        "image": "",
+        "date": "Thu, 11 Sep 2025 00:00:00 GMT"
+    },
+    {
         "title": "L'avenir de l'IA sur mobile avec les processeurs Arm",
         "link": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/2792737_arm-devoile-ses-processeurs-c1-avec-ia-sme2-pour-les-snapdragon-et-mediatek-2026",
         "body": "L'entreprise britannique Arm, à l'origine de l'architecture des processeurs de nombreux appareils électroniques, dont les smartphones Android et iPhone, s'apprête à lancer une nouvelle gamme de processeurs en 2026. Les processeurs C1 intègrent l'IA directement dans le CPU grâce à la technologie SME2, offrant des performances multipliées par 5. Cette approche diffère des stratégies actuelles en intégrant tout dans le CPU, réduisant ainsi la latence et améliorant la flexibilité et l'intégration logicielle. Arm promet des gains impressionnants dans le traitement de la reconnaissance vocale, de la traduction en temps réel et de la génération d'images IA. Les premiers smartphones équipés de ces processeurs sont attendus courant 2026, offrant une alternative crédible aux iPhone en termes de performances pures.",
@@ -124,68 +145,5 @@
         "body": "Résumé : \n\nElon Musk a lancé une initiative, le Department of Government Efficiency (DOGE), visant à réduire la taille du gouvernement fédéral américain. Cette initiative a suscité des dizaines de poursuites judiciaires et soulève des questions quant à son autorité et à son statut juridique. Les tribunaux doivent maintenant déterminer si le DOGE est un organisme gouvernemental soumis aux lois sur l'accès à l'information et aux autres exigences de transparence. Les réponses à ces questions pourraient avoir un impact significatif sur la capacité de Musk à mettre en œuvre ses réformes drastiques. L'administration Trump affirme que les agences fédérales, plutôt que le DOGE, sont à l'origine des coupes, ce qui contredit les déclarations publiques de Musk et du président Trump. De plus, les lanceurs d'alerte au sein du gouvernement décrivent une situation de chaos et de désorganisation. Les tribunaux sont divisés sur la question, certains demandant des informations supplémentaires, tandis que d'autres acceptent les arguments de l'administration. Entre-temps, Musk accuse le système judiciaire de partialité et de corruption. Les contestations juridiques se concentrent sur le rôle de Musk, sa relation avec le président et la question de savoir si le DOGE viole la clause de nomination de la Constitution et les principes de séparation des pouvoirs. Les résultats de ces affaires juridiques pourraient avoir un impact significatif sur l'équilibre des pouvoirs au sein du gouvernement américain et sur la transparence de ses processus de prise de décision.",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-10-at-1.28.48%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Wed, 10 Sep 2025 17:32:02 GMT"
-    },
-    {
-        "title": "ML Business Impact",
-        "link": "https://www.forbes.com/sites/ericsiegel/2025/09/10/how-to-un-botch-predictive-ai-business-metrics/?ss=ai",
-        "body": "L'article souligne l'écart entre les professionnels de l'IA et les décideurs en matière d'objectifs et de langage. Les premiers se concentrent sur les performances techniques, tandis que les seconds s'intéressent aux résultats concrets pour l'entreprise. Pour combler cet écart, les initiatives d'IA doivent démontrer leur valeur en termes de résultats commerciaux, tels que les bénéfices, les économies ou tout autre KPI pertinent. Le défi réside dans la crédibilité de ces estimations, qui sont basées sur des hypothèses et sont sujettes à l'incertitude des facteurs commerciaux. Pour établir la confiance, l'article suggère d'explorer les extrêmes de la gamme d'incertitude, d'interagir avec les données et de quantifier l'impact de ces facteurs pour prédire de manière crédible la valeur commerciale potentielle et obtenir ainsi le feu vert pour le déploiement.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0b5dcba2382a48eb650d8/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 15:15:00 GMT"
-    },
-    {
-        "title": "L'avenir de la santé : l'IA, les médicaments et les arnaques",
-        "link": "https://www.forbes.com/sites/innovationrx/2025/09/10/ai-tools-are-spreading-medical-scams-online/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68bf303143d517c29464e9d0/0x0.jpg?format=jpg&crop=3463,1949,x0,y776,safe&width=440",
-        "date": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
-    {
-        "title": "L'avenir du travail avec l'IA",
-        "link": "https://www.forbes.com/sites/johnkoetsier/2025/09/10/ai-agents--the-future-of-work-hubspot-adobe-airtop-release-agents/?ss=ai",
-        "body": "L'IA générative évolue, passant de machines qui manipulent des mots, des images et des vidéos à des agents capables de gérer des projets complexes et d'automatiser des tâches. Cela soulève des questions sur l'avenir du travail humain, surtout lorsque des dirigeants comme Marc Benioff, PDG de Salesforce, annoncent la suppression de 4 000 emplois en service client grâce à l'IA. Les dépenses mondiales en IA atteindront 632 milliards de dollars d'ici 2028, affectant potentiellement 40 % des emplois. Les agents IA écrivent, font de la recherche, optimisent les sites web, gèrent les essais cliniques, etc. Certains les voient comme une menace pour l'emploi, d'autres comme une évolution naturelle du marché du travail. Des entreprises comme Airtop et HubSpot proposent des outils d'IA pour aider les individus et les entreprises, démocratisant ainsi l'automatisation. L'IA peut améliorer les performances humaines et les entreprises doivent investir dans l'IA pour rester compétitives. L'IA est là pour rester et s'améliorer, il faut donc s'adapter et tirer parti de ses avantages.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c19d054f68b1d23f90486e/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Les sandboxes réglementaires : un pas en avant pour l'IA",
-        "link": "https://www.forbes.com/sites/paulocarvao/2025/09/10/are-ai-regulatory-sandboxes-a-good-idea/?ss=ai",
-        "body": "Les sandboxes réglementaires, ou environnements contrôlés pour tester de nouvelles technologies, sont proposés comme solution aux défis de la gouvernance de l'IA. Le sénateur Ted Cruz a présenté un projet de loi pour créer des sandboxes fédéraux pour l'IA, s'alignant ainsi sur les initiatives de l'UE et du Royaume-Uni. Ces sandboxes offrent un espace d'innovation et d'apprentissage tout en soulevant des inquiétudes quant à une possible capture réglementaire et à une distorsion de la concurrence. Bien conçus, avec transparence et garde-fous, ils peuvent promouvoir l'innovation responsable et combler les lacunes d'information entre régulateurs et entreprises. Le projet de loi de Ted Cruz met l'accent sur la réduction des contraintes et la flexibilité pour les développeurs d'IA, mais soulève des inquiétudes quant à la protection des consommateurs. Un sandbox bien conçu peut servir de pont entre l'innovation et la gouvernance, mais il ne doit pas devenir un outil de déréglementation ou d'évasion réglementaire.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c194d1d39e9a18eb6cbad4/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
-    {
-        "title": "Oracle's AI Ambitions",
-        "link": "https://www.forbes.com/sites/petercohan/2025/09/10/oracle-stock-up-on-growth-forecast-learn-whether-to-buy-orcl/?ss=ai",
-        "body": "Oracle prévoit une croissance agressive de huit fois ses revenus cloud d'ici 2030, en tirant parti de ses avantages uniques en matière de bases de données et de mise en réseau pour les services d'entraînement et d'inférence de l'IA. Les actions d'Oracle ont grimpé en flèche suite à un rapport sur un contrat cloud avec OpenAI et à des prévisions optimistes pour son infrastructure cloud axée sur l'IA. Le titre a bondi de 99 % depuis le début de l'année 2025, dont plus de la moitié en pré-marché mercredi. La société a annoncé des résultats décevants pour le premier trimestre de son exercice 2026, mais son outlook pour l'avenir de son activité d'infrastructure cloud a enthousiasmé les investisseurs. Oracle a conclu un accord avec Open AI pour un contrat cloud de 300 milliards de dollars sur cinq ans, l'un des plus importants jamais signés. Les perspectives d'Oracle dépendent de sa capacité à dépasser les attentes des investisseurs et à revoir ses prévisions à la hausse lors des prochains trimestres. La société vise deux marchés liés à l'IA : les services d'entraînement de modèles linguistiques et d'inférence. Oracle bénéficie d'un avantage unique grâce à ses bases de données stockant des données commerciales privées, qui seront utiles pour les services d'inférence de l'IA. La société investit également dans des agents IA pour aider les utilisateurs à atteindre des objectifs spécifiques. Cependant, Oracle fait face à des risques importants, notamment des attentes élevées du marché, une concurrence intense, des dépenses d'investissement élevées et la possibilité d'un ralentissement des dépenses en IA. Malgré ces risques, les analystes sont généralement enthousiastes quant aux perspectives d'Oracle, bien qu'un analyste mette en garde contre le fait que la croissance du chiffre d'affaires cloud pourrait ne pas être entièrement organique.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c1d17e766299c6244e4908/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Homebuying 101 with AI",
-        "link": "https://www.forbes.com/sites/torconstantino/2025/09/10/5-chatgpt-hacks-every-first-time-homebuyer-should-use-now/?ss=ai",
-        "body": "ChatGPT peut aider les acheteurs de première maison à prendre des décisions éclairées grâce à des tactiques intelligentes. L'article suggère cinq invites que l'on peut utiliser avec n'importe quel modèle AI gratuit pour aider les acheteurs potentiels à économiser de l'argent, à identifier les pièges potentiels et à faire un pas en avant vers l'achat d'une maison. Les invites comprennent des conseils sur la définition des priorités, la comparaison des coûts de l'achat par rapport à la location, l'évaluation de l'admissibilité à un prêt hypothécaire, l'identification des quartiers abordables et la création d'une liste de contrôle pour la dernière visite avant l'achat. L'IA peut aider à prendre des décisions pratiques et informées, même dans un marché immobilier difficile.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c1782ebe36d55da3a063f0/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 13:00:00 GMT"
-    },
-    {
-        "title": "Zoox's Bold Move",
-        "link": "https://www.forbes.com/sites/alanohnsman/2025/09/10/waymo-finally-gets-robotaxi-competition-as-amazons-zoox-launches-in-las-vegas/?ss=ai",
-        "body": "Zoox, la filiale de robotaxis d'Amazon, propose désormais des trajets gratuits à Las Vegas, avec des véhicules électriques autonomes dépourvus de volant, de pédales et de commandes conventionnelles, se distinguant ainsi de Waymo d'Alphabet. La flotte initiale de quelques dizaines de véhicules dessert cinq destinations, dont Resorts World Las Vegas et l'Area 51 entertainment complex. L'absence de techniciens de sécurité à bord, contrairement au projet pilote de robotaxis de Tesla, place Zoox en concurrence directe avec Waymo. Les véhicules Zoox sont conçus sur mesure, avec des portes coulissantes et des capteurs avancés, y compris des lidars, des radars, des caméras et des microphones. La société, acquise par Amazon en 2020, a commencé à produire des robotaxis dans une usine en Californie et prévoit d'étendre ses activités à San Francisco d'ici la fin de l'année. Le PDG, Aisha Evans, souligne l'importance des leçons tirées de cette phase initiale et de la réglementation favorable de l'administration Trump pour le secteur de la conduite autonome.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c09fc85c9f4dcc8d2dc600/0x0.jpg?format=jpg&crop=1244,699,x822,y602,safe&width=440",
-        "date": "Wed, 10 Sep 2025 13:00:00 GMT"
-    },
-    {
-        "title": "L'IA au service de la lutte contre l'épuisement professionnel des médecins",
-        "link": "https://www.forbes.com/sites/kolawolesamueladebayo/2025/09/10/doctors-are-burning-out-can-ai-really-help/?ss=ai",
-        "body": "L'épuisement professionnel des médecins est un problème croissant, avec plus de 60 % des médecins américains déclarant être épuisés en raison de la paperasserie et des tâches administratives. Pieces Technologies, une entreprise de santé numérique, propose une solution basée sur l'IA : un assistant de conversation mobile pour la documentation clinique. L'assistant transcrit et génère des notes médicales en temps réel, s'intègre aux dossiers de santé électroniques et s'adapte au style du clinicien. La transparence et la confiance sont au cœur de la conception de l'assistant, qui vise à alléger la charge de travail des médecins et à leur redonner du temps. D'autres entreprises, comme YuLife, abordent également le problème de l'épuisement professionnel dans différents secteurs, en mettant l'accent sur le bien-être proactif et des solutions respectueuses du temps et de l'énergie des utilisateurs. Les outils d'IA axés sur les cliniciens évoluent vers des conceptions sans friction et centrées sur l'humain, aidant les médecins à se sentir soutenus et en contrôle, tout en redonnant du sens à leur travail.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c159983b616bab4b0820e4/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 10:00:00 GMT"
-    },
-    {
-        "title": "Brain Co.",
-        "link": "https://www.forbes.com/sites/giacomotognini/2025/09/10/jared-kushners-new-startup-helps-businesses-figure-out-how-to-use-ai/?ss=ai",
-        "body": "Brain Co., une startup cofondée par Jared Kushner, s'attaque au défi de l'intégration de l'IA dans les grandes entreprises et les gouvernements. La société a levé 30 millions de dollars et compte parmi ses investisseurs des personnalités influentes comme Brian Armstrong et Reid Hoffman. Brain Co. se concentre sur le développement d'applications uniques basées sur des modèles fondamentaux d'IA, en partenariat avec OpenAI et d'autres laboratoires d'IA. La startup vise à combler l'écart entre les avancées rapides de l'IA et les difficultés d'adoption rencontrées par de nombreuses organisations, un problème qui stimule actuellement la croissance des revenus des consultants en gestion. Brain Co. propose une plateforme centrale permettant aux clients d'interagir avec des logiciels d'IA, et ses applications couvrent une variété de secteurs, de l'optimisation des réservations hôtelières à l'amélioration de la consommation énergétique des usines. La société ne se limite pas à un secteur spécifique et tire parti des similitudes entre les cas d'utilisation de l'IA dans différents domaines. L'équipe fondatrice de Brain Co. comprend des personnalités du monde de la technologie et de la politique, et la société a récemment acquis Serene AI, une plateforme de santé mentale basée sur l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0b6cf0c8daf16de816cc7/0x0.jpg?format=jpg&width=440",
-        "date": "Wed, 10 Sep 2025 10:00:00 GMT"
     }
 ]
