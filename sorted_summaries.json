@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'IA : construire une confiance et une empathie durables",
+        "link": "https://www.forbes.com/sites/johnwerner/2025/09/12/we-need-empathy-and-trust-in-the-world-of-ai/?ss=ai",
+        "body": "Titre",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c48b128bc42614a829b6e5/0x0.jpg?format=jpg&width=440",
+        "date": "Fri, 12 Sep 2025 21:00:00 GMT"
+    },
+    {
         "title": "Leadership en matière d'IA dans les services financiers",
         "link": "https://www.forbes.com/sites/peterhigh/2025/09/12/cibc-cio-richard-jardim-on-building-a-bank-for-the-modern-world/?ss=ai",
         "body": "Richard Jardim, vice-président exécutif et directeur de l'information de la Banque canadienne impériale de commerce (CIBC), décrit son rôle comme étant à la fois vertical et horizontal. Verticalement, son équipe intègre des directeurs de l'information dans chaque ligne de métier, tandis qu'horizontalement, il dirige des initiatives à l'échelle de l'entreprise telles que la migration vers le cloud, l'automatisation et les frameworks de banque numérique. Il souligne que la technologie doit apporter de la valeur à l'entreprise et améliorer l'expérience client. La simplification des processus est un objectif clé, car elle permet d'éliminer les complexités inutiles et d'améliorer l'agilité et la rapidité de l'organisation. Jardim met également l'accent sur l'importance du talent et de l'investissement dans les compétences, avec des initiatives telles que le lancement d'une plateforme IA interne basée sur ChatGPT et l'encouragement des certifications cloud et de l'utilisation de GitHub Copilot pour les développeurs. En ce qui concerne les technologies émergentes, il considère l'IA, l'informatique quantique et la réalité augmentée/virtuelle comme des opportunités critiques mais également comme des risques, soulignant l'importance de données de qualité pour tirer le meilleur parti de l'IA.",
@@ -103,33 +110,5 @@
         "body": "Titre : L'avenir de l'IA : éthique et risques",
         "image": "https://imageio.forbes.com/specials-images/imageserve/6833f60e5d53b0274d6dec1c/0x0.jpg?format=jpg&width=440",
         "date": "Thu, 11 Sep 2025 07:00:00 GMT"
-    },
-    {
-        "title": "L'éthique de l'IA : un guide pour les praticiens",
-        "link": "https://copilot.microsoft.com/labs/audio-expression",
-        "body": "L'éthique de l'IA est un domaine en constante évolution qui guide les praticiens dans le développement et le déploiement responsables de technologies d'IA. Cet article fournit un guide complet sur les considérations éthiques clés dans le domaine de l'IA. \n\nL'un des aspects les plus critiques est la confidentialité et la sécurité des données. Les praticiens doivent garantir la protection des données personnelles, en veillant à ce que les pratiques de collecte et de traitement des données soient transparentes et conformes aux réglementations en vigueur, telles que le RGPD. \n\nL'équité, l'impartialité et la non-discrimination sont également des préoccupations primordiales. Les systèmes d'IA doivent être conçus pour éviter tout préjudice et toute discrimination injustes, en s'assurant qu'ils ne perpétuent pas les préjugés et en garantissant une prise de décision équitable et transparente. \n\nDe plus, la responsabilité et la transparence sont essentielles. Les praticiens devraient documenter les processus de développement, évaluer régulièrement les systèmes d'IA et être prêts à expliquer les décisions et les actions de ces systèmes. \n\nL'article souligne également l'importance de l'inclusion et de la diversité dans les équipes d'IA, garantissant ainsi une variété de perspectives et réduisant le risque de biais. \n\nEnfin, les praticiens devraient envisager l'impact sociétal de l'IA, y compris les implications potentielles sur l'emploi, la confidentialité, la sécurité et la responsabilité morale. \n\nEn conclusion, ce guide fournit un aperçu complet des considérations éthiques clés pour les praticiens de l'IA, aidant à garantir que les technologies d'IA sont développées et déployées de manière responsable et éthique.",
-        "image": "",
-        "date": "Thu, 11 Sep 2025 00:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA sur mobile avec les processeurs Arm",
-        "link": "https://www.frandroid.com/produits-android/ordinateurs/processeurs/2792737_arm-devoile-ses-processeurs-c1-avec-ia-sme2-pour-les-snapdragon-et-mediatek-2026",
-        "body": "L'entreprise britannique Arm, à l'origine de l'architecture des processeurs de nombreux appareils électroniques, dont les smartphones Android et iPhone, s'apprête à lancer une nouvelle gamme de processeurs en 2026. Les processeurs C1 intègrent l'IA directement dans le CPU grâce à la technologie SME2, offrant des performances multipliées par 5. Cette approche diffère des stratégies actuelles en intégrant tout dans le CPU, réduisant ainsi la latence et améliorant la flexibilité et l'intégration logicielle. Arm promet des gains impressionnants dans le traitement de la reconnaissance vocale, de la traduction en temps réel et de la génération d'images IA. Les premiers smartphones équipés de ces processeurs sont attendus courant 2026, offrant une alternative crédible aux iPhone en termes de performances pures.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-33-1-768x432.jpg?resize=169,169&key=5a2ead66",
-        "date": "Wed, 10 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Doublage Automatique sur YouTube",
-        "link": "https://www.frandroid.com/marques/google/2792045_youtube-deploie-une-option-pour-doubler-rapidement-vos-videos",
-        "body": "YouTube lance officiellement une fonctionnalité de doublage automatique des vidéos, permettant de toucher un public plus large au-delà des barrières linguistiques. Cette fonctionnalité, utilisant Google Gemini, reproduit le timbre et l'intonation du créateur. Selon les premières données, les vidéos avec des pistes audio supplémentaires ont vu une augmentation de 25 % des visionnages dans une langue autre que la langue principale. Cependant, la mise en pratique présente des limites, avec un décalage entre le doublage et la vidéo. L'extension est progressivement déployée auprès des créateurs et devrait être accessible à tous dans les prochaines semaines.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4-768x431.png?resize=168,168&key=a79ec420",
-        "date": "Wed, 10 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "L'IA au cœur d'une controverse éthique",
-        "link": "https://www.frandroid.com/culture-tech/2791859_la-voix-francaise-de-lara-croft-aurait-ete-vole-par-lia",
-        "body": "Une controverse impliquant l'utilisation de l'IA dans l'industrie du divertissement a récemment vu le jour. Françoise Cadol, la voix française de Lara Croft, a découvert que sa voix a été générée par IA sans son consentement dans la dernière compilation de Tomb Raider. Cette affaire soulève des questions éthiques sur l'utilisation de l'IA et la protection des droits des comédiens. La compilation, éditée par Aspyr Media, a été publiée en février 2025 avec des lignes de dialogue manquantes, et un patch sorti en août a reproduit ces lignes par IA, ce qui a suscité la colère des fans et de Cadol, qui milite contre l'utilisation de l'IA dans la création. Cadol a transmis une mise en demeure à l'éditeur et appelle à une réglementation du ministère de la Culture sur l'utilisation de l'IA, soulignant que 85 % du public français regarde des films en VF.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/lara-croft-tomb-raider-768x432.jpg?resize=169,169&key=98e55ab8",
-        "date": "Wed, 10 Sep 2025 23:00:00 GMT"
     }
 ]
