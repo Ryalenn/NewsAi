@@ -7,6 +7,13 @@
         "date": "Sun, 14 Sep 2025 05:00:00 GMT"
     },
     {
+        "title": "L'IA locale : une alternative au cloud ?",
+        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
+        "body": "L'article présente une alternative aux services d'IA basés sur le cloud en proposant d'installer des modèles de langage (LLM) localement sur son ordinateur. Cette approche offre plusieurs avantages, notamment en matière de confidentialité, d'autonomie, de vitesse et de coûts. L'article fournit un guide détaillé sur les modèles LLM disponibles, les configurations matérielles requises et les étapes d'installation pour différents systèmes d'exploitation. Il met en avant des outils comme LM Studio, GPT4All, Chat With RTX, Ollama, Llama.cpp et LocalAI pour faciliter l'utilisation des LLM en local. Enfin, il souligne la possibilité de personnaliser les modèles et de les entraîner sur ses propres données avec des outils comme Hugging Face Transformers et QLoRA.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
+        "date": "Sat, 13 Sep 2025 23:00:00 GMT"
+    },
+    {
         "title": "Le futur de l'IA : les efforts du gouvernement américain pour atténuer les risques",
         "link": "https://www.forbes.com/sites/johnwerner/2025/09/13/the-us-state-department-knows-ai-risks/?ss=ai",
         "body": "Bien que peu connue, l'initiative « Defense in Depth » de la part du Département d'État américain explore les risques potentiels liés à la recherche avancée en IA. Le rapport, commandé à la fin de 2022, met en lumière la nécessité de mettre en place des garde-fous dans ce domaine en constante évolution. Le projet a été confié à Gladstone.AI, une entreprise dont les fondateurs informent déjà le gouvernement sur les risques associés à l'IA depuis 2021. Le rapport, basé sur des entretiens avec plus de 200 experts, reconnaît que l'IA pourrait devenir un déstabilisateur majeur, comparable à l'avènement des armes nucléaires. Il identifie les petits laboratoires indépendants comme une menace potentielle significative et souligne le besoin de contrôler la chaîne d'approvisionnement de l'IA. Parmi les recommandations clés, on trouve la proposition de limiter la quantité de données d'entraînement pour les systèmes d'IA et la mise en place d'une stratégie à plusieurs niveaux, comprenant la surveillance en temps réel, des garanties de développement et d'adoption responsables de l'IA, ainsi que la collaboration avec des parties prenantes internationales. Des efforts connexes, tels que le consortium AISIC, visent également à développer des normes de sécurité pour l'IA et à atténuer les risques. Ces initiatives soulignent l'importance accordée par le gouvernement américain à la gestion responsable du développement de l'IA.",
@@ -26,19 +33,5 @@
         "body": "Richard Jardim, vice-président exécutif et directeur de l'information de la Banque canadienne impériale de commerce (CIBC), décrit son rôle comme étant à la fois vertical et horizontal. Verticalement, son équipe intègre des directeurs de l'information dans chaque ligne de métier, tandis qu'horizontalement, il dirige des initiatives à l'échelle de l'entreprise telles que la migration vers le cloud, l'automatisation et les frameworks de banque numérique. Il souligne que la technologie doit apporter de la valeur à l'entreprise et améliorer l'expérience client. La simplification des processus est un objectif clé, car elle permet d'éliminer les complexités inutiles et d'améliorer l'agilité et la rapidité de l'organisation. Jardim met également l'accent sur l'importance du talent et de l'investissement dans les compétences, avec des initiatives telles que le lancement d'une plateforme IA interne basée sur ChatGPT et l'encouragement des certifications cloud et de l'utilisation de GitHub Copilot pour les développeurs. En ce qui concerne les technologies émergentes, il considère l'IA, l'informatique quantique et la réalité augmentée/virtuelle comme des opportunités critiques mais également comme des risques, soulignant l'importance de données de qualité pour tirer le meilleur parti de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c444547ef71ea8eb0e6d91/0x0.jpg?format=jpg&width=440",
         "date": "Fri, 12 Sep 2025 16:00:00 GMT"
-    },
-    {
-        "title": "Apple bloque la traduction en temps réel sur les AirPods en Europe",
-        "link": "https://www.politico.eu/article/apple-blocks-airpods-translation-eu-because-regulation/?",
-        "body": "Résumé : Apple a présenté une nouvelle fonctionnalité de traduction en temps réel pour ses AirPods, mais celle-ci n'est pas disponible pour les utilisateurs en Europe. Apple bloque délibérément cette fonctionnalité en raison de son interprétation des obligations qui lui incombent en vertu du Règlement sur les marchés numériques de l'UE. La Commission européenne a déclaré qu'Apple n'avait pas consulté l'organisme de réglementation avant de prendre cette décision unilatérale, et a affirmé que le DMA encourageait l'innovation et la liberté de choix, plutôt que de l'entraver.",
-        "image": "",
-        "date": "Fri, 12 Sep 2025 12:02:11 GMT"
-    },
-    {
-        "title": "Définir l'intelligence artificielle de niveau humain",
-        "link": "https://www.forbes.com/sites/lanceeliot/2025/09/12/deliberating-on-the-many-definitions-of-artificial-general-intelligence/?ss=ai",
-        "body": "L'article explore le manque de définition universellement acceptée de l'intelligence artificielle générale (AGI), un terme vague utilisé pour décrire une IA de niveau humain. Il souligne l'importance de définir clairement l'AGI pour évaluer les progrès de l'IA et déterminer si nous nous rapprochons ou nous éloignons de cet objectif. L'auteur présente diverses définitions de l'AGI proposées par des experts et des organisations, mettant en évidence leurs ambiguïtés et leurs interprétations subjectives. Le débat porte sur la question de savoir si l'AGI doit être définie par rapport aux capacités humaines ou les dépasser, et sur l'inclusion de domaines spécifiques ou de la valeur économique dans la définition. L'article conclut en soulignant la nécessité d'un consensus sur la définition de l'AGI pour éviter la confusion et favoriser une compréhension commune des progrès de l'IA.",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c0d23a9dbe086a1241648b/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 12 Sep 2025 07:00:00 GMT"
     }
 ]
