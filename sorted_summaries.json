@@ -1,5 +1,12 @@
 [
     {
+        "title": "La technologie autonome confrontée à la réalité",
+        "link": "https://www.forbes.com/sites/bradtempleton/2025/09/14/waymo-involved-apparently-not-at-fault-in--motorcycle-fatality/?ss=ai",
+        "body": "Un taxi robot de Waymo a été impliqué dans un accident tragique à Tempe, en Arizona, impliquant une moto et un conducteur en fuite. L'accident présente des parallèles ironiques avec un accident non mortel impliquant un piéton et un véhicule Cruise, et s'est produit à seulement 2 miles du premier accident mortel impliquant un véhicule autonome en 2018. Bien que Waymo ne soit pas responsable de l'accident, l'auteur souligne que les véhicules autonomes, malgré leur conduite plus sûre que les humains, ne sont pas à l'abri des accidents. Avec l'augmentation du volume de véhicules autonomes sur les routes, il est inévitable qu'un accident mortel se produise avec la faute attribuée à un robotaxi. L'auteur souligne l'importance de la réaction de la société à un tel événement, arguant que retirer les véhicules autonomes des routes augmenterait les risques plutôt que de les réduire.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c71aac67492e2f88563ba9/0x0.jpg?format=jpg&width=440",
+        "date": "Sun, 14 Sep 2025 19:00:00 GMT"
+    },
+    {
         "title": "La fin des tuteurs IA généralistes ?",
         "link": "https://www.businessinsider.com/elon-musk-xai-layoffs-data-annotators-2025-9",
         "body": "L'entreprise d'Elon Musk, xAI, a licencié au moins 500 employés de son équipe d'annotation de données, annonçant un changement stratégique vers une priorité accrue sur les tuteurs IA spécialistes. Les employés affectés étaient principalement chargés d'enseigner au chatbot Grok à comprendre le monde en contextualisant et en catégorisant les données brutes. xAI prévoit d'augmenter son équipe de tuteurs IA spécialistes par 10, recherchant des experts dans des domaines tels que les STEM, la finance, la médecine et la sécurité. Ces licenciements font suite à une série d'événements inhabituels, notamment la désactivation des comptes Slack de plusieurs employés de haut niveau et une évaluation soudaine des responsabilités et des réalisations des employés. La société a également annoncé des tests pour évaluer les forces et les intérêts des annotateurs et de leurs superviseurs, dans des domaines traditionnels et non conventionnels. Malgré l'embauche prévue d'experts, certains travailleurs ont exprimé leur frustration face au court délai accordé pour les tests.",
@@ -33,12 +40,5 @@
         "body": "Bien que peu connue, l'initiative « Defense in Depth » de la part du Département d'État américain explore les risques potentiels liés à la recherche avancée en IA. Le rapport, commandé à la fin de 2022, met en lumière la nécessité de mettre en place des garde-fous dans ce domaine en constante évolution. Le projet a été confié à Gladstone.AI, une entreprise dont les fondateurs informent déjà le gouvernement sur les risques associés à l'IA depuis 2021. Le rapport, basé sur des entretiens avec plus de 200 experts, reconnaît que l'IA pourrait devenir un déstabilisateur majeur, comparable à l'avènement des armes nucléaires. Il identifie les petits laboratoires indépendants comme une menace potentielle significative et souligne le besoin de contrôler la chaîne d'approvisionnement de l'IA. Parmi les recommandations clés, on trouve la proposition de limiter la quantité de données d'entraînement pour les systèmes d'IA et la mise en place d'une stratégie à plusieurs niveaux, comprenant la surveillance en temps réel, des garanties de développement et d'adoption responsables de l'IA, ainsi que la collaboration avec des parties prenantes internationales. Des efforts connexes, tels que le consortium AISIC, visent également à développer des normes de sécurité pour l'IA et à atténuer les risques. Ces initiatives soulignent l'importance accordée par le gouvernement américain à la gestion responsable du développement de l'IA.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c5957a06872a2d6fc0c4e4/0x0.jpg?format=jpg&width=440",
         "date": "Sat, 13 Sep 2025 16:00:00 GMT"
-    },
-    {
-        "title": "L'avenir de l'IA : construire une confiance et une empathie durables",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/09/12/we-need-empathy-and-trust-in-the-world-of-ai/?ss=ai",
-        "body": "Titre",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c48b128bc42614a829b6e5/0x0.jpg?format=jpg&width=440",
-        "date": "Fri, 12 Sep 2025 21:00:00 GMT"
     }
 ]
