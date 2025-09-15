@@ -14,7 +14,7 @@
         "check": "yes"
     },
     {
-        "title": "Comment installer un modèle LLM type ChatGPT sur PC ou Mac en local ? Voici le guide ultime pour tous",
+        "title": "Comment installer un mod\u00e8le LLM type ChatGPT sur PC ou Mac en local ? Voici le guide ultime pour tous",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2547997_installer-un-chatgpt-en-local-voici-le-guide-ultime-pour-tous-windows-mac-linux-du-debutant-a-lexpert",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/llm-local-1200x675-1-768x432.jpg?resize=169,169&key=1e9fd89f",
         "date": "Sat, 13 Sep 2025 23:00:00 GMT",
@@ -89,5 +89,19 @@
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c5ca13aaaa578a8b9e58f4/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 15 Sep 2025 09:00:00 GMT",
         "check": "yes"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Gemini_Generated_Rob_Verge.png?quality=90&strip=all&crop=0%2C25.675675675676%2C100%2C48.648648648649&w=2400",
+        "date": "Mon, 15 Sep 2025 14:59:52 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.forbes.com/sites/lesliekatz/2025/09/15/darwin-awards-for-ai-celebrate-epic-artificial-intelligence-fails/?ss=ai",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c790d1a58e5e99381fc4ff/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 15 Sep 2025 15:04:00 GMT",
+        "check": "no"
     }
 ]
