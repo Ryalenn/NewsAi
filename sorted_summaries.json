@@ -1,5 +1,12 @@
 [
     {
+        "title": "L'avenir de l'automobile : l'IA au cœur de la stratégie des concessionnaires",
+        "link": "https://www.forbes.com/sites/edgarsten/2025/09/15/evs-ai-consolidation-dominate-dealer-strategies-for-future-survival/?ss=ai",
+        "body": "Bien que l'opinion soit divisée sur l'avenir des véhicules électriques, les avantages de l'utilisation de l'intelligence artificielle (IA) dans les concessionnaires automobiles sont unanimement reconnus. David Hult, PDG d'Asbury Automotive Group, et Brian Traugott, chef de cabinet de Dave Cantin Group, discutent de l'impact de l'IA sur l'amélioration de l'expérience client et de l'efficacité opérationnelle, ainsi que sur l'évolution du marché des véhicules électriques. L'IA permet d'augmenter le nombre de rendez-vous pour le service, d'interpréter les requêtes des clients et d'améliorer la prise de décision des vendeurs. Asbury Automotive Group et Dave Cantin Group investissent tous deux dans des outils d'IA pour améliorer l'expérience client et augmenter leurs bénéfices. L'IA est également utilisée pour évaluer les concessionnaires et pour la formation. Enfin, l'article aborde la consolidation croissante des concessionnaires, les grands groupes rachetant les petits concessionnaires locaux, et les avantages potentiels pour les consommateurs.",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68c5ca13aaaa578a8b9e58f4/0x0.jpg?format=jpg&width=440",
+        "date": "Mon, 15 Sep 2025 09:00:00 GMT"
+    },
+    {
         "title": "Les dangers de la confiance excessive accordée à l'IA",
         "link": "https://www.forbes.com/sites/bernardmarr/2025/09/15/ai-chatbots-are-quietly-creating-a-privacy-nightmare/?ss=ai",
         "body": "Bien que les chatbots d'IA comme ChatGPT, Gemini et Grok soient de plus en plus intégrés à notre quotidien, il est important de se rappeler qu'ils ne sont pas liés par les mêmes règles de confidentialité que les professionnels tels que les médecins, les avocats ou les thérapeutes. Les utilisateurs ont tendance à partager des informations sensibles avec ces chatbots, pensant que leurs conversations resteront privées. Cependant, comme l'ont montré de récents incidents, des failles de sécurité peuvent entraîner des fuites de données. De plus, l'utilisation croissante de l'IA officieuse, ou \"shadow IA\", par les employés en dehors des politiques et directives de leur organisation, augmente le risque de compromission de données financières, clientèles ou commerciales confidentielles. Les entreprises et les organisations doivent mettre en place des politiques et des procédures pour sensibiliser aux risques et décourager l'utilisation de l'IA officieuse. Enfin, la société dans son ensemble doit relever les défis posés par le traitement imprévisible des données par les chatbots, qui menace la vie privée des particuliers et des entreprises.",
@@ -12,6 +19,27 @@
         "body": "Des chercheurs de l'Université George Washington ont créé un modèle d'IA simulant une réunion du comité de la Réserve fédérale, appelé « FOMC in silico ». Le modèle inclut des agents IA en tant que membres du conseil, avec des attitudes et des historiques de vote spécifiques. L'article associé explique comment la simulation capture la complexité de la prise de décision en intégrant à la fois la théorie des jeux et le traitement du langage naturel. Les chercheurs ont constaté que sous pression politique, les agents IA représentant les membres du conseil se divisent et ne parviennent pas à un consensus. L'article décrit également la création de profils détaillés pour chaque membre du comité, en utilisant des données en temps réel, des discours, des rapports et des nouvelles financières. La simulation explore l'impact de la pression politique sur les décisions du comité, en particulier sur la position du président. Cette approche de modélisation de la dynamique de groupe pourrait être appliquée à divers scénarios, des réunions d'entreprises aux événements sportifs majeurs.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c784ff2aaf27b4ab8a34db/0x0.jpg?format=jpg&width=440",
         "date": "Mon, 15 Sep 2025 03:17:00 GMT"
+    },
+    {
+        "title": "Samsung met en avant son avance sur Apple en matière d'IA",
+        "link": "https://www.frandroid.com/marques/samsung/2795745_samsung-profite-de-la-sortie-dios-26-pour-faire-letalage-de-toute-son-avance-sur-apple-intelligence",
+        "body": "Samsung a profité de la sortie d'iOS 26 pour mettre en avant ses avancées en matière d'intelligence artificielle, notamment avec son écosystème Galaxy AI. Alors qu'Apple a annoncé un nouveau Siri plus intelligent pour 2026, Samsung a déjà intégré l'IA dans une variété d'appareils, dont les smartphones, wearables, tablettes et PC. L'infographie de Samsung souligne l'expansion de Galaxy AI, qui devrait équiper plus de 400 millions d'appareils en 2025.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/07/sans-titre-7-768x450.jpg?resize=176,176&key=b4626194",
+        "date": "Sun, 14 Sep 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Détection des fraudes étendue sur Android 16",
+        "link": "https://www.frandroid.com/marques/google/2795579_les-pixel-vont-bientot-vous-proteger-des-fraudes-dans-vos-applis-de-messagerie-preferees",
+        "body": "Google étend sa fonctionnalité de détection de fraude \"Scam Detection\" sur Android 16, permettant d'analyser les appels et SMS suspects sur les smartphones Pixel 9 et versions ultérieures. Cette fonctionnalité, basée sur le modèle IA Gemini Nano, sera également disponible dans certaines applications tierces comme WhatsApp et Instagram, offrant une protection supplémentaire contre les tentatives de fraude. Les utilisateurs recevront des alertes dans les notifications de nouveaux messages, indiquant si un message est probablement une fraude ou contient une activité suspecte.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/08/pixel-10-14-768x513.jpg?resize=200,200&key=e922816c",
+        "date": "Sun, 14 Sep 2025 23:00:00 GMT"
+    },
+    {
+        "title": "Départ d'un cadre clé d'Apple",
+        "link": "https://www.frandroid.com/marques/apple/2795317_apple-perd-encore-un-de-ses-cerveaux-de-lia-ce-qui-naugure-rien-de-bon-pour-siri",
+        "body": "Apple pourrait reconsidérer sa stratégie dans le domaine de l'IA après le départ de Robby Walker, responsable de Siri et directeur de l'IA et de la recherche. La mise à niveau de Siri, initialement prévue pour 2024, pourrait être repoussée à 2026, selon Walker, qui a comparé les progrès de Siri à une longue nage vers Hawaï. Il a été transféré sur un nouveau projet, \"AKI\", visant à repositionner Apple dans le domaine de l'IA. Son départ prévu pour le mois prochain pourrait impacter le calendrier de ce projet.",
+        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/4d9vmqkecg-768x432.jpg?resize=169,169&key=3fd74c08",
+        "date": "Sun, 14 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "La technologie autonome confrontée à la réalité",
