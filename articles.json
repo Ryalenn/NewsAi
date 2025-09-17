@@ -1,48 +1,6 @@
 [
     {
         "title": "",
-        "link": "https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/",
-        "image": "",
-        "date": "Mon, 15 Sep 2025 17:10:48 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/joetoscano1/2025/09/15/why-85-of-ai-projects-fail---and-4-ways-to-be-in-the-15-that-succeed/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c8527db23abd389dbbaf1c/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 15 Sep 2025 17:57:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/stevemcdowell/2025/09/15/pre-built-storage-pods-remove-enterprise-ai-scaling-bottlenecks/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/681b95a1213e12361353c7a3/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 15 Sep 2025 17:40:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.forbes.com/sites/johnwerner/2025/09/15/ai-pros-and-cons--how-do-societies-fare-with-great-power/?ss=ai",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68c844d53c592663a39b72b8/0x0.jpg?format=jpg&width=440",
-        "date": "Mon, 15 Sep 2025 17:36:00 GMT",
-        "check": "yes"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 15 Sep 2025 18:05:39 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Layered-WXPO.png?quality=90&strip=all&crop=8.9439655172414%2C0%2C82.112068965517%2C100&w=2400",
-        "date": "Mon, 15 Sep 2025 17:32:55 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
         "link": "https://www.reuters.com/investigates/special-report/ai-chatbots-cyber/",
         "image": "",
         "date": "Mon, 15 Sep 2025 20:46:13 GMT",
@@ -63,14 +21,14 @@
         "check": "yes"
     },
     {
-        "title": "OpenAI lance GPT-5-Codex : l\u2019IA qui prend son temps pour mieux coder",
+        "title": "OpenAI lance GPT-5-Codex : l’IA qui prend son temps pour mieux coder",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2796407_openai-lance-gpt-5-codex-lia-qui-prend-son-temps-pour-mieux-coder",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-39-768x429.jpg?resize=168,168&key=7e3cfef8",
         "date": "Mon, 15 Sep 2025 23:00:00 GMT",
         "check": "yes"
     },
     {
-        "title": "Comment l\u2019IA pourrait augmenter le prix du stockage sur PC, des disques durs aux SSD",
+        "title": "Comment l’IA pourrait augmenter le prix du stockage sur PC, des disques durs aux SSD",
         "link": "https://www.frandroid.com/produits-android/hardware/2796541_comment-lia-pourrait-augmenter-le-prix-du-stockage-sur-pc-des-disques-durs-aux-ssd",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/ssd-crucial-t700-768x419.jpg?resize=164,164&key=41c2f0f2",
         "date": "Mon, 15 Sep 2025 23:00:00 GMT",
@@ -91,7 +49,7 @@
         "check": "yes"
     },
     {
-        "title": "YouTube annonce un g\u00e9n\u00e9rateur de vid\u00e9o gratuit : les Shorts vont changer radicalement",
+        "title": "YouTube annonce un générateur de vidéo gratuit : les Shorts vont changer radicalement",
         "link": "https://www.frandroid.com/marques/google/2797529_youtube-annonce-un-generateur-de-video-gratuit-et-efficace",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/veo-3-in-shorts-product-mock-768x439.jpg?resize=172,172&key=878f640d",
         "date": "Mon, 15 Sep 2025 23:00:00 GMT",
@@ -127,13 +85,6 @@
     },
     {
         "title": "",
-        "link": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-        "date": "Mon, 15 Sep 2025 18:05:39 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
         "link": "https://www.forbes.com/sites/johnwerner/2025/09/16/pondering-humanoid-robot-design-as-fourier-unveils-open-source-system/?ss=ai",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c96cc238f2e4551725ed4d/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 16 Sep 2025 14:00:00 GMT",
@@ -147,7 +98,7 @@
         "check": "no"
     },
     {
-        "title": "Une \u00e9tude r\u00e9v\u00e8le enfin \u00e0 quoi sert vraiment ChatGPT",
+        "title": "Une étude révèle enfin à quoi sert vraiment ChatGPT",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2797631_une-etude-revele-enfin-a-quoi-sert-vraiment-chatgpt",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/07/pexels-bertellifotografia-16094042-768x512.jpg?resize=200,200&key=80cf7cba",
         "date": "Mon, 15 Sep 2025 23:00:00 GMT",
@@ -207,13 +158,6 @@
         "link": "https://www.theverge.com/news/778636/nothing-ai-native-devices#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/nothing-phone-3-03_e4a516.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Tue, 16 Sep 2025 10:02:07 GMT",
-        "check": "no"
-    },
-    {
-        "title": "",
-        "link": "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat#comments",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Layered-WXPO.png?quality=90&strip=all&crop=8.9439655172414%2C0%2C82.112068965517%2C100&w=2400",
-        "date": "Mon, 15 Sep 2025 17:32:55 GMT",
         "check": "no"
     },
     {
