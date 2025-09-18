@@ -1,31 +1,10 @@
 [
     {
-        "title": "La demande de stockage de données pour l'IA fait grimper les prix",
-        "link": "https://www.frandroid.com/produits-android/hardware/2796541_comment-lia-pourrait-augmenter-le-prix-du-stockage-sur-pc-des-disques-durs-aux-ssd",
-        "body": "L'intelligence artificielle nécessite une grande quantité d'énergie et de matériel informatique spécialisé, ce qui a entraîné la création de data centers et la réactivation de centrales nucléaires pour répondre à ses besoins énergétiques. La demande de stockage de données pour l'IA est en train de faire grimper les prix des disques durs et des SSD, car les entreprises cherchent à accéder rapidement à de grandes quantités de données pour l'entraînement et le point de contrôle de leurs systèmes d'IA. Cette tendance pourrait conduire à une pénurie à court terme et à une hausse généralisée des prix dans le secteur du stockage de données.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/ssd-crucial-t700-768x419.jpg?resize=164,164&key=41c2f0f2",
-        "date": "Mon, 15 Sep 2025 23:00:00 GMT"
-    },
-    {
-        "title": "Gérer son historique de conversations avec ChatGPT",
-        "link": "https://www.frandroid.com/comment-faire/2790301_comment-supprimer-son-historique-de-conversation-sur-chatgpt",
-        "body": "L'article fournit un guide étape par étape pour gérer et supprimer l'historique de conversations sur ChatGPT. Il est important de noter que OpenAI enregistre les interactions pour améliorer le service. L'historique est lié au compte de l'utilisateur, et il est possible de l'archiver, de l'exporter ou de le supprimer. L'article explique comment accéder aux paramètres de gestion des données et effacer toutes les conversations ou seulement certaines. De plus, il est possible de limiter la collecte de données futures en désactivant l'option d'amélioration des modèles d'IA. Ces fonctionnalités sont pertinentes pour les utilisateurs soucieux de leur vie privée et pour ceux qui souhaitent repartir à zéro avec ChatGPT.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/12/chatgpt-scaled-1-768x512.jpg?resize=200,200&key=aa53badd",
-        "date": "Mon, 15 Sep 2025 23:00:00 GMT"
-    },
-    {
         "title": "Démocratiser la création de mondes virtuels",
         "link": "https://www.forbes.com/sites/charliefink/2025/09/16/01c-launches-amara-a-voice-prompt-platform-for-3d-worldbuilding/?ss=ai",
         "body": "L'entreprise britannique 01C a présenté Amara, une plateforme de création de mondes 3D professionnels à l'aide de commandes vocales. Amara permet aux utilisateurs de générer des environnements modifiables et physiquement réalistes en quelques secondes, puis de modifier chaque élément à l'aide de commandes vocales naturelles. Les résultats peuvent être exportés directement vers des moteurs de jeu tels qu'Unity et Unreal. La plateforme vise à éliminer les obstacles entre l'idée et sa réalisation, en permettant une création ininterrompue. Les cofondateurs, issus de l'école nationale de cinéma et de télévision, ont combiné la technologie des moteurs de jeu en temps réel avec des modèles d'IA. La version 2 d'Amara se concentre sur la 3D et l'entreprise cherche à présent à lever des fonds pour développer son équipe d'ingénierie et faire évoluer son modèle. Amara se distingue en maintenant la cohérence dans des scènes complexes tout en réduisant la taille des fichiers et l'utilisation des ressources informatiques. La plateforme s'adresse initialement aux développeurs de jeux, mais a également des applications potentielles dans le cinéma, le marketing, la simulation et la narration. 01C a déjà travaillé avec des clients tels que Netflix, la BBC et McLaren, et a ouvert un accès anticipé à sa plateforme.",
         "image": "https://imageio.forbes.com/specials-images/imageserve/68c87fd5dc98a4d244622113/0x0.jpg?format=jpg&width=440",
         "date": "Tue, 16 Sep 2025 07:00:00 GMT"
-    },
-    {
-        "title": "GPT-5-Codex : l'IA qui réfléchit comme un développeur",
-        "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2796407_openai-lance-gpt-5-codex-lia-qui-prend-son-temps-pour-mieux-coder",
-        "body": "OpenAI dévoile GPT-5-Codex, une version améliorée de son assistant de programmation basée sur l'IA. La principale innovation réside dans la capacité du modèle à gérer dynamiquement son temps de réflexion, pouvant aller de quelques secondes à sept heures selon la complexité de la tâche. Cette approche adaptable diffère des systèmes précédents qui suivaient des délais fixes. GPT-5-Codex excelle dans les tâches de codage autonome et de refactorisation de projets existants, et peut même effectuer des revues de code avec précision et pertinence. Les premiers tests montrent des résultats prometteurs, surpassant les performances de son prédécesseur. GPT-5-Codex est désormais disponible dans tous les produits Codex, y compris ChatGPT.",
-        "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/09/image-39-768x429.jpg?resize=168,168&key=7e3cfef8",
-        "date": "Mon, 15 Sep 2025 23:00:00 GMT"
     },
     {
         "title": "L'IA au service de la régénération, pas de l'extraction",
