@@ -35,7 +35,7 @@
         "check": "no"
     },
     {
-        "title": "OpenAI : Sora pourra générer des vidéos sans l’autorisation des ayants-droit, sauf s’ils s’y opposent",
+        "title": "OpenAI : Sora pourra g\u00e9n\u00e9rer des vid\u00e9os sans l\u2019autorisation des ayants-droit, sauf s\u2019ils s\u2019y opposent",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/2812701_openai-sora-pourra-generer-des-videos-sans-lautorisation-des-ayants-droit-sauf-sils-sy-opposent",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/01/openai-768x432.jpg?resize=169,169&key=0ca416b6",
         "date": "Mon, 29 Sep 2025 23:00:00 GMT",
@@ -102,6 +102,41 @@
         "link": "https://www.theverge.com/news/787594/chatgpts-built-in-buy-now-button-has-arrived#comments",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Open-AI-purchase.png?quality=90&strip=all&crop=0%2C9.9540229885057%2C100%2C80.091954022989&w=2400",
         "date": "Mon, 29 Sep 2025 00:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 30 Sep 2025 13:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/neon_Start_Page_light02.png?quality=90&strip=all&crop=1.4538043478261%2C0%2C97.092391304348%2C100&w=2400",
+        "date": "Tue, 30 Sep 2025 08:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Mon, 29 Sep 2025 23:01:43 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
+        "date": "Mon, 29 Sep 2025 14:26:39 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=7.7976190476191%2C0%2C84.404761904762%2C100&w=2400",
+        "date": "Mon, 29 Sep 2025 13:30:00 GMT",
         "check": "no"
     }
 ]
