@@ -63,14 +63,14 @@
         "check": "no"
     },
     {
-        "title": "« 30 000 licenciements » : Amazon vient de confirmer ce qu’on refusait tous d’admettre sur l’IA",
+        "title": "\u00ab 30 000 licenciements \u00bb : Amazon vient de confirmer ce qu\u2019on refusait tous d\u2019admettre sur l\u2019IA",
         "link": "https://www.frandroid.com/marques/2845593_30-000-licenciements-amazon-vient-de-confirmer-ce-quon-refusait-tous-dadmettre-sur-lia",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/10/image-83-4-768x512.jpg?resize=200,200&key=bddb7403",
         "date": "Mon, 27 Oct 2025 23:00:00 GMT",
         "check": "no"
     },
     {
-        "title": "Elon Musk lance son Wikipédia « amélioré » : c’est du copier-coller avec l’ego de Musk dedans, de l’extrême droite et du climatoscepticisme en bonus",
+        "title": "Elon Musk lance son Wikip\u00e9dia \u00ab am\u00e9lior\u00e9 \u00bb : c\u2019est du copier-coller avec l\u2019ego de Musk dedans, de l\u2019extr\u00eame droite et du climatoscepticisme en bonus",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2845803_elon-musk-lance-son-wikipedia-ameliore-cest-du-copier-coller-avec-lego-de-musk-dedans-de-lextreme-droite-et-du-climatoscepticisme-en-bonus",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/10/image-83-5-768x512.jpg?resize=200,200&key=19dcaa0d",
         "date": "Mon, 27 Oct 2025 23:00:00 GMT",
@@ -112,7 +112,7 @@
         "check": "no"
     },
     {
-        "title": "Adobe bourre ses applis d’IA : voici les grosses nouveautés pour Express et Photoshop",
+        "title": "Adobe bourre ses applis d\u2019IA : voici les grosses nouveaut\u00e9s pour Express et Photoshop",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2846597_adobe-bourre-ses-applis-dia-voici-les-grosses-nouveautes-pour-express-et-photoshop",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/10/image-94-768x432.png?resize=169,169&key=729afc20",
         "date": "Mon, 27 Oct 2025 23:00:00 GMT",
@@ -144,6 +144,41 @@
         "link": "https://arxiv.org/abs/2510.01395",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258029_clinical_grade_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 27 Oct 2025 14:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_220504_STK121_0001.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 28 Oct 2025 16:10:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2215434051.jpg?quality=90&strip=all&crop=0%2C0.020824656393174%2C100%2C99.958350687214&w=2400",
+        "date": "Tue, 28 Oct 2025 13:38:55 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenerateSoundtrack.jpg?quality=90&strip=all&crop=1.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Tue, 28 Oct 2025 12:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-27-at-5.35.43%E2%80%AFPM-1.png?quality=90&strip=all&crop=1.4750378214826%2C0%2C97.049924357035%2C100&w=2400",
+        "date": "Tue, 28 Oct 2025 00:46:59 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one#comments",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6898.jpg?quality=90&strip=all&crop=0%2C16.43137254902%2C100%2C67.137254901961&w=2400",
+        "date": "Mon, 27 Oct 2025 14:09:54 GMT",
         "check": "no"
     }
 ]
