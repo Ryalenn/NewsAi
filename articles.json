@@ -14,21 +14,21 @@
         "check": "no"
     },
     {
-        "title": "Paul McCartney sort un nouveau morceau, mais il n’y a pas grand-chose à écouter",
+        "title": "Paul McCartney sort un nouveau morceau, mais il n\u2019y a pas grand-chose \u00e0 \u00e9couter",
         "link": "https://www.frandroid.com/services/streaming-musical/2871291_paul-mccartney-sort-un-nouveau-morceau-mais-il-ny-a-pas-grand-chose-a-ecouter",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/11/maccao2161218-97-46386772871-768x431.jpg?resize=168,168&key=35abeb33",
         "date": "Sun, 16 Nov 2025 23:00:00 GMT",
         "check": "no"
     },
     {
-        "title": "Steam rembourse Call of Duty : Black Ops 7 pour cette raison qui fait polémique",
+        "title": "Steam rembourse Call of Duty : Black Ops 7 pour cette raison qui fait pol\u00e9mique",
         "link": "https://www.frandroid.com/marques/valve/2871471_steam-rembourse-call-of-duty-black-ops-7-pour-cette-raison-qui-fait-polemique",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/10/call-of-duty-black-ops-7-beta-768x432.jpg?resize=169,169&key=50e8d293",
         "date": "Sun, 16 Nov 2025 23:00:00 GMT",
         "check": "no"
     },
     {
-        "title": "Jeff Bezos investit des milliards dans Prometheus, un projet IA qui n’est pas un chatbot",
+        "title": "Jeff Bezos investit des milliards dans Prometheus, un projet IA qui n\u2019est pas un chatbot",
         "link": "https://www.frandroid.com/culture-tech/2872287_jeff-bezos-investit-des-milliards-dans-prometheus-un-projet-ia-qui-nest-pas-un-chatbot",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/11/jeff-bezos-unveils-blue-origin-lunar-lander-768x513.jpg?resize=200,200&key=601ef006",
         "date": "Sun, 16 Nov 2025 23:00:00 GMT",
@@ -119,7 +119,7 @@
         "check": "no"
     },
     {
-        "title": "Grok 4.1 : xAI déploie son IA « anti-hallucination » juste avant la sortie de Gemini 3",
+        "title": "Grok 4.1 : xAI d\u00e9ploie son IA \u00ab anti-hallucination \u00bb juste avant la sortie de Gemini 3",
         "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/2873323_grok-4-1-xai-deploie-son-ia-anti-hallucination-juste-avant-la-sortie-de-gemini-3",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/11/img-20251118-122306-768x576.jpg?resize=225,225&key=b3fe940a",
         "date": "Mon, 17 Nov 2025 23:00:00 GMT",
@@ -151,6 +151,62 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
         "date": "Mon, 17 Nov 2025 22:47:14 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.nytimes.com/2025/11/18/podcasts/hardfork-gemini-3.html",
+        "image": "",
+        "date": "Tue, 18 Nov 2025 17:22:34 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/copilot-gemini-3.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 17:18:22 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 16:08:46 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822833/google-antigravity-ide-coding-agent-gemini-3-pro",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-antigravity.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Layered-WXPO.png?quality=90&strip=all&crop=8.9439655172414%2C0%2C82.112068965517%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/chrome_9xOookFsx9.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 16:00:00 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/microsoftanthropicdeal.jpg?quality=90&strip=all&crop=0%2C0.048030739673386%2C100%2C99.903938520653&w=2400",
+        "date": "Tue, 18 Nov 2025 15:20:17 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKB326_CLOUDFLARE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Tue, 18 Nov 2025 13:29:21 GMT",
         "check": "no"
     }
 ]
