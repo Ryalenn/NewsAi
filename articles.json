@@ -105,7 +105,7 @@
         "check": "no"
     },
     {
-        "title": "Grok dans Siri ? La proposition d’Elon Musk alors que l’iPhone s’ouvre à la concurrence",
+        "title": "Grok dans Siri ? La proposition d\u2019Elon Musk alors que l\u2019iPhone s\u2019ouvre \u00e0 la concurrence",
         "link": "https://www.frandroid.com/os/2877085_grok-dans-siri-la-proposition-delon-musk-alors-que-liphone-souvre-a-la-concurrence",
         "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2022/12/1280px-elon-musk-at-a-press-conference-768x512.jpg?resize=200,200&key=cf6eb7ff",
         "date": "Tue, 18 Nov 2025 23:00:00 GMT",
@@ -137,6 +137,34 @@
         "link": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/IMG_3588.jpeg?quality=90&strip=all&crop=0%2C11.087164750958%2C100%2C88.912835249042&w=2400",
         "date": "Wed, 19 Nov 2025 09:48:59 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang",
+        "image": "",
+        "date": "Thu, 20 Nov 2025 01:00:06 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "image": "",
+        "date": "Thu, 20 Nov 2025 00:51:10 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+        "date": "Wed, 19 Nov 2025 21:50:54 GMT",
+        "check": "no"
+    },
+    {
+        "title": "",
+        "link": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/tiktok-ai-controls-manage-topics.jpg?quality=90&strip=all&crop=0.018825301204821%2C0%2C99.96234939759%2C100&w=2400",
+        "date": "Wed, 19 Nov 2025 13:06:49 GMT",
         "check": "no"
     }
 ]
